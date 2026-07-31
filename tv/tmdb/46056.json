@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/8xipQC0RfaMFsflRdVlIozAXlX7.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2009-09-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "http://www.heute-show.de/zdf/",
+  "id": 46056,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-05-01",
+  "last_episode_to_air": {
+    "id": 7330814,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-05",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 29,
+    "show_id": 46056,
+    "still_path": null
+  },
+  "name": "heute-show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 553,
+  "number_of_seasons": 29,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "heute-show",
+  "overview": "Oliver Welke and his team report on political topics as well as international news giving them their own satirical, comedic twist.",
+  "popularity": 18.6292,
+  "poster_path": "/y7SD3fDHBdhEyeXorsXVM5RKU4K.jpg",
+  "production_companies": [
+    {
+      "id": 83340,
+      "logo_path": null,
+      "name": "Prime Productions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 222589,
+      "logo_path": null,
+      "name": "Knacker Einfach Medienproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-05-26",
+      "episode_count": 53,
+      "id": 54422,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-08",
+      "episode_count": 4,
+      "id": 54427,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-22",
+      "episode_count": 19,
+      "id": 54428,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-27",
+      "episode_count": 16,
+      "id": 54424,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-21",
+      "episode_count": 19,
+      "id": 54431,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-16",
+      "episode_count": 14,
+      "id": 54429,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-27",
+      "episode_count": 17,
+      "id": 54426,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-31",
+      "episode_count": 16,
+      "id": 54430,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-25",
+      "episode_count": 18,
+      "id": 54423,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-06",
+      "episode_count": 15,
+      "id": 54425,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2014-01-24",
+      "episode_count": 32,
+      "id": 62723,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2015-01-23",
+      "episode_count": 17,
+      "id": 154583,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-11",
+      "episode_count": 14,
+      "id": 160639,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-22",
+      "episode_count": 18,
+      "id": 160640,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-09",
+      "episode_count": 15,
+      "id": 160641,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-27",
+      "episode_count": 18,
+      "id": 160642,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-08",
+      "episode_count": 15,
+      "id": 160643,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-26",
+      "episode_count": 18,
+      "id": 160644,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-07",
+      "episode_count": 15,
+      "id": 160645,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-01",
+      "episode_count": 18,
+      "id": 160646,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-06",
+      "episode_count": 15,
+      "id": 160647,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-31",
+      "episode_count": 18,
+      "id": 160648,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-11",
+      "episode_count": 15,
+      "id": 170257,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-29",
+      "episode_count": 18,
+      "id": 178716,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-10",
+      "episode_count": 16,
+      "id": 197145,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-28",
+      "episode_count": 37,
+      "id": 236903,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/gJ6aQg84abqYcJhH79Rw9gt5xLa.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-20",
+      "episode_count": 37,
+      "id": 325293,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/jaFDzVu1JLzZYSkpDHplI8LHBtj.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-26",
+      "episode_count": 33,
+      "id": 404778,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-31",
+      "episode_count": 33,
+      "id": 437053,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2026-01-30",
+      "episode_count": 17,
+      "id": 496284,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.109,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 46056,
+    "imdb_id": "tt1441143",
+    "freebase_mid": "/m/0ndskxl",
+    "freebase_id": null,
+    "tvdb_id": 234791,
+    "tvrage_id": null,
+    "wikidata_id": "Q265519",
+    "facebook_id": "264820405985",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

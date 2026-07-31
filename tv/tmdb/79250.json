@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/9b6oND8sUhJT9WESAHg4kufvUry.jpg",
+  "created_by": [
+    {
+      "id": 2525256,
+      "credit_id": "5e33658f091e620d164da84e",
+      "name": "Carlos Oporto",
+      "original_name": "Carlos Oporto",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2017-07-24",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.mega.cl/teleseries/verdadesocultas",
+  "id": 79250,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2021-07-30",
+  "last_episode_to_air": {
+    "id": 3102417,
+    "name": "Episode 109",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-07-30",
+    "episode_number": 109,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 7,
+    "show_id": 79250,
+    "still_path": null
+  },
+  "name": "Verdades ocultas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 854,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Verdades ocultas",
+  "overview": "A woman is faced with the dilemma of selling her four-year-old daughter. 20 years later, fate will reunite them, unleashing unthinkable consequences.",
+  "popularity": 16.0197,
+  "poster_path": "/bp7tyY5mAKJ9VSmLv3tX0RaYeig.jpg",
+  "production_companies": [
+    {
+      "id": 111086,
+      "logo_path": "/2QbvDVzgwOLSKMXqqIi8b5hEhhe.png",
+      "name": "AGTV",
+      "origin_country": "CL"
+    },
+    {
+      "id": 18607,
+      "logo_path": "/kqU0tEddKzMQ6OOvqyXKdYEtSHH.png",
+      "name": "Chilefilms",
+      "origin_country": "CL"
+    },
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-07-24",
+      "episode_count": 168,
+      "id": 103283,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-22",
+      "episode_count": 114,
+      "id": 142389,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-29",
+      "episode_count": 165,
+      "id": 142390,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-25",
+      "episode_count": 109,
+      "id": 142391,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-30",
+      "episode_count": 92,
+      "id": 142393,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-19",
+      "episode_count": 97,
+      "id": 168694,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-02",
+      "episode_count": 109,
+      "id": 183236,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 79250,
+    "imdb_id": "tt7466450",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q30904842",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

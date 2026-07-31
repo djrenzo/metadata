@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "6990595a2dbbfd220e3470ec",
+      "name": "Dick Wolf",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    },
+    {
+      "id": 1228311,
+      "credit_id": "69905985fe6c0c50dac8f324",
+      "name": "David Hudgins",
+      "original_name": "David Hudgins",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1171123,
+      "credit_id": "69b36dd5f1d78d951fcbd8e6",
+      "name": "Nicole Perlman",
+      "original_name": "Nicole Perlman",
+      "gender": 1,
+      "profile_path": "/tOZzieyFkzBjQkfGXTEnK2qSCfS.jpg"
+    },
+    {
+      "id": 2715377,
+      "credit_id": "69b36dd9da4e695439dc9f8c",
+      "name": "David Chasteen",
+      "original_name": "David Chasteen",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1182532,
+      "credit_id": "69b36ddb9bd698447d760673",
+      "name": "Warren Leight",
+      "original_name": "Warren Leight",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2026-02-23",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/cia",
+  "id": 289560,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-18",
+  "last_episode_to_air": {
+    "id": 7116466,
+    "name": "Broken Glass",
+    "overview": "Colin and Bill race to stop a company from covering up their intelligence theft while taking down a dangerous person from Colin's past.",
+    "vote_average": 9.6,
+    "vote_count": 5,
+    "air_date": "2026-05-18",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 289560,
+    "still_path": "/ujsUIZJSAeNF8BVTRYms8EdPVBh.jpg"
+  },
+  "name": "CIA",
+  "next_episode_to_air": {
+    "id": 7583513,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-05",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 289560,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CIA",
+  "overview": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
+  "popularity": 20.9638,
+  "poster_path": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-02-23",
+      "episode_count": 12,
+      "id": 452893,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2026-10-05",
+      "episode_count": 1,
+      "id": 532129,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Two agents. One mission. Two methods.",
+  "type": "Scripted",
+  "vote_average": 8.723,
+  "vote_count": 110,
+  "external_ids": {
+    "id": 289560,
+    "imdb_id": "tt35515227",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 462856,
+    "tvrage_id": null,
+    "wikidata_id": "Q137176858",
+    "facebook_id": "FBICBS",
+    "instagram_id": "fbicbs",
+    "twitter_id": null
+  }
+}

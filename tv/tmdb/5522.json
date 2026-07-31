@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/wQoyCT75vPgWybLp4o11gatSFoJ.jpg",
+  "created_by": [
+    {
+      "id": 3910175,
+      "credit_id": "65fe8710197de4018618303c",
+      "name": "Mauricio Cruz",
+      "original_name": "Mauricio Cruz",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3487306,
+      "credit_id": "65fe8768226c56017d705741",
+      "name": "Agustín Restrepo",
+      "original_name": "Agustín Restrepo",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    45,
+    42
+  ],
+  "first_air_date": "2008-08-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 5522,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2009-07-13",
+  "last_episode_to_air": {
+    "id": 2438468,
+    "name": "Episode 148",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-07-13",
+    "episode_number": 148,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 5522,
+    "still_path": null
+  },
+  "name": "Doña Bárbara",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 190,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Doña Bárbara",
+  "overview": "Doña Bárbara is a Spanish-language telenovela produced by the United States-based television network Telemundo, Sony Pictures Television International and RTI Colombia. Edith González and Christian Meier star in this adaptation of the 1929 novel by Venezuelan author Rómulo Gallegos.",
+  "popularity": 27.0543,
+  "poster_path": "/H8Gz2bG7p2lmbrtM6duGpkY7z8.jpg",
+  "production_companies": [
+    {
+      "id": 86203,
+      "logo_path": "/o9jUAJJd1wc4Hg1cvp85kXMcCKD.png",
+      "name": "Sony Pictures Television International",
+      "origin_country": "US"
+    },
+    {
+      "id": 21123,
+      "logo_path": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-08-04",
+      "episode_count": 190,
+      "id": 155890,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cIhED09meZhe4FbNRKmIEVJmVVC.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.791,
+  "vote_count": 744,
+  "external_ids": {
+    "id": 5522,
+    "imdb_id": "tt1287391",
+    "freebase_mid": "/m/02r51q8",
+    "freebase_id": null,
+    "tvdb_id": 148951,
+    "tvrage_id": null,
+    "wikidata_id": "Q650903",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

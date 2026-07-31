@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/9uqg7thDyaJMzeLjnY0gG0MVok4.jpg",
+  "created_by": [
+    {
+      "id": 1222861,
+      "credit_id": "52598d3d760ee34661b4afd0",
+      "name": "Cris Morena",
+      "original_name": "Cris Morena",
+      "gender": 1,
+      "profile_path": "/msgzhmInpcEuLXqgZrajzWNr5VA.jpg"
+    },
+    {
+      "id": 1257374,
+      "credit_id": "5fd7e71da127e50040130cdf",
+      "name": "Íris Abravanel",
+      "original_name": "Íris Abravanel",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2013-07-15",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.sbt.com.br/novelas/chiquititas",
+  "id": 58566,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2015-08-14",
+  "last_episode_to_air": {
+    "id": 2560494,
+    "name": "Episode 545",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-08-14",
+    "episode_number": 545,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 58566,
+    "still_path": null
+  },
+  "name": "Chiquititas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 128,
+      "logo_path": "/jQ6pbmLCO2mheofZJPPByy7Wozq.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 545,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR",
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Chiquititas",
+  "overview": "Based on the original version of same name created by Cris Morena, the series tells the story of a group of orphans living in a manor, known as Raio de Luz, struggling and being guided by a young woman, Carol, that assumes a maternal figure for them. Their experiences such as discovering first love, deceptions, loneliness and friendship, as well as adventures in fantasy, are depicted throughout the series. The narrative is followed by musical themes and videoclips.",
+  "popularity": 16.7946,
+  "poster_path": "/aWvjgcYHTZ3VrzZzuFTagVj3IJB.jpg",
+  "production_companies": [
+    {
+      "id": 40992,
+      "logo_path": "/72MOBef2ZwKXLS6sI5XPKMz6Pu1.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-07-15",
+      "episode_count": 545,
+      "id": 110536,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/b23MVqShzKA6JcRYuFqTRc7MmRB.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.274,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 58566,
+    "imdb_id": "tt2734004",
+    "freebase_mid": "/m/0jt5jqb",
+    "freebase_id": null,
+    "tvdb_id": 270318,
+    "tvrage_id": null,
+    "wikidata_id": "Q9347799",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

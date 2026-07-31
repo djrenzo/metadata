@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/uZjzbKIa5DhBwFWzmcOy9BZktQ1.jpg",
+  "created_by": [
+    {
+      "id": 5839611,
+      "credit_id": "692659d64a9cac5d21245212",
+      "name": "김상미",
+      "original_name": "김상미",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1999-09-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/2tv/enter/gagcon/",
+  "id": 5705,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-02-01",
+  "last_episode_to_air": {
+    "id": 7346067,
+    "name": "Episode 1175",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-31",
+    "episode_number": 1175,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 78,
+    "season_number": 2,
+    "show_id": 5705,
+    "still_path": null
+  },
+  "name": "Gag Concert",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 1190,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "개그콘서트",
+  "overview": "Gag Concert is a South Korean sketch-comedy TV show shown on the KBS2 network.",
+  "popularity": 15.6613,
+  "poster_path": "/blNsGElKgc6SKnloMVAIUmDGqWR.jpg",
+  "production_companies": [
+    {
+      "id": 74238,
+      "logo_path": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-07-18",
+      "episode_count": 10,
+      "id": 423384,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/yoZI7jWzjeuqcP01eDvebC6TGh2.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-04",
+      "episode_count": 1082,
+      "id": 15825,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/blNsGElKgc6SKnloMVAIUmDGqWR.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-12",
+      "episode_count": 125,
+      "id": 423414,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6VtlViaphPBcktLZwzx48qvS2XA.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 5705,
+    "imdb_id": "tt4973750",
+    "freebase_mid": "/m/03hg1z9",
+    "freebase_id": "/en/gag_concert",
+    "tvdb_id": 266519,
+    "tvrage_id": null,
+    "wikidata_id": "Q491737",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

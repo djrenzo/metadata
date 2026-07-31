@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/mKZLq5Vy3InX1dFHtSFPxodCiOx.jpg",
+  "created_by": [
+    {
+      "id": 19684,
+      "credit_id": "67690fdac7f17205d10b0927",
+      "name": "Bille August",
+      "original_name": "Bille August",
+      "gender": 2,
+      "profile_path": "/cBau5curUxUfgj0H8o35OxOOS4F.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-13",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.raiplay.it/programmi/ilcontedimontecristo",
+  "id": 240456,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-02-03",
+  "last_episode_to_air": {
+    "id": 5889101,
+    "name": "The Last Two",
+    "overview": "Edmond exposes Heloise's poisoning plot. Midwife testifies against father at Gaston's infanticide trial. Years later, Edmond reunites with Mercedes in Marseille, questioning ability to love again.",
+    "vote_average": 7,
+    "vote_count": 11,
+    "air_date": "2025-02-03",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 1,
+    "show_id": 240456,
+    "still_path": "/vrUYdaDa4GtOg3WaBzfXs5Ys0Vp.jpg"
+  },
+  "name": "The Count of Monte Cristo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Il Conte di Montecristo",
+  "overview": "Young sailor Edmond Dantès is wrongfully imprisoned, escapes, finds treasure, and reinvents himself as the wealthy Count of Monte Cristo to exact revenge on those who betrayed him.",
+  "popularity": 19.8147,
+  "poster_path": "/bH85johgKnXDVVHdta9Q0wnG2PI.jpg",
+  "production_companies": [
+    {
+      "id": 7699,
+      "logo_path": "/fHasfMWVRXGOmao2p1ijwicv9f4.png",
+      "name": "Palomar",
+      "origin_country": "IT"
+    },
+    {
+      "id": 75187,
+      "logo_path": "/51w8ofTJRn0cXaAT2K8InfDxu9k.png",
+      "name": "DEMD Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 154744,
+      "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+      "name": "Rai Fiction",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-13",
+      "episode_count": 8,
+      "id": 367576,
+      "name": "Miniseries",
+      "overview": "Unjustly accused of treason, young French sailor Edmond Dantès is imprisoned without trial in the Château d'If, a forbidding island fortress off the coast of Marseille. During years of imprisonment, a fellow prisoner, a scholarly abbot, educates Edmond in multiple subjects. Before dying, the abbot reveals where a vast treasure is hidden on a deserted island. Edmond escapes and, finding the treasure, assumes the identity of the Count of Monte Cristo. He uses his wealth to enact revenge against his betrayers.",
+      "poster_path": "/vKW8i2AycdYWO0bYSNI6V9CQaCG.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.784,
+  "vote_count": 176,
+  "external_ids": {
+    "id": 240456,
+    "imdb_id": "tt29547746",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 448042,
+    "tvrage_id": null,
+    "wikidata_id": "Q123016338",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

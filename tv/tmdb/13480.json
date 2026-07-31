@@ -1,0 +1,383 @@
+{
+  "adult": false,
+  "backdrop_path": "/3tRZTj3EMTyBHrq8qLJMMNngqEu.jpg",
+  "created_by": [
+    {
+      "id": 235616,
+      "credit_id": "5e8b6dd69979d20017eea371",
+      "name": "Nagui",
+      "original_name": "Nagui",
+      "gender": 2,
+      "profile_path": "/xEbYW0NPqMaNVECc2DtSVE4Uthi.jpg"
+    },
+    {
+      "id": 117203,
+      "credit_id": "5e8b6e2ac4ad590013ffc41a",
+      "name": "Gérard Pullicino",
+      "original_name": "Gérard Pullicino",
+      "gender": 2,
+      "profile_path": "/rZf2wBPa5vx3i4AdnKJnIZBYds.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1993-01-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://mytaratata.com/",
+  "id": 13480,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-06-19",
+  "last_episode_to_air": {
+    "id": 7384676,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-19",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 25,
+    "show_id": 13480,
+    "still_path": "/laKwPY3CfZtz7EQ8vas6hVMZEc.jpg"
+  },
+  "name": "Taratata",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 602,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Taratata",
+  "overview": "Live performances, more live performances. Every episode features a lineup of French and international artists, cult classics, unexpected duets, and original covers... A truly prestigious music stage, graced by both the biggest names and those on their way to stardom.",
+  "popularity": 17.8121,
+  "poster_path": "/eHBWAHqMBlnjGTxHoPz3XXmi6QF.jpg",
+  "production_companies": [
+    {
+      "id": 112375,
+      "logo_path": "/njknQpsfOdEdWccVjPh8nyLmpDp.png",
+      "name": "Air Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1993-06-21",
+      "episode_count": 27,
+      "id": 147134,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/w1kD151n9HGUtFXLXPzFdOaOAul.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-10",
+      "episode_count": 23,
+      "id": 133693,
+      "name": "Season 1 - 1993",
+      "overview": "",
+      "poster_path": "/xxNTadonorezWHi7d5x4iUQPyCL.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-04",
+      "episode_count": 33,
+      "id": 133696,
+      "name": "Season 2 - 1993-1994",
+      "overview": "",
+      "poster_path": "/aew4CvIgbIE6ipAoPiqOCwSvpYR.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-09",
+      "episode_count": 39,
+      "id": 133697,
+      "name": "Season 3 - 1994-1995",
+      "overview": "",
+      "poster_path": "/dm8rHLdWcJXtlSNgsbjxIXJLVUP.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-10",
+      "episode_count": 36,
+      "id": 133699,
+      "name": "Season 4 - 1995-1996",
+      "overview": "",
+      "poster_path": "/2MZ3hvATk8uVkxZ4TYlyzKt8R72.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-17",
+      "episode_count": 36,
+      "id": 133740,
+      "name": "Season 5 - 1996-1997",
+      "overview": "",
+      "poster_path": "/lo9kQkpDQ2msFSXgfcdf1AlyXIi.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-04-09",
+      "episode_count": 15,
+      "id": 133741,
+      "name": "Season 6 - 2005-2006",
+      "overview": "",
+      "poster_path": "/zlo4xBKM9UXj1DNLLC8rB5s1SED.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-06",
+      "episode_count": 46,
+      "id": 133742,
+      "name": "Season 7 - 2006-2007",
+      "overview": "",
+      "poster_path": "/n8hU9Erx4MQlEeT2aZqKBpqn8h8.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-05",
+      "episode_count": 48,
+      "id": 133743,
+      "name": "Season 8 - 2007-2008",
+      "overview": "",
+      "poster_path": "/zAJkb9Cjtyy2YB3v5GboJfLuMdN.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-01",
+      "episode_count": 44,
+      "id": 133744,
+      "name": "Season 9 - 2008-2009",
+      "overview": "",
+      "poster_path": "/qFmOkcCC7T7lESoeQ0g9o3ChCO2.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-07",
+      "episode_count": 36,
+      "id": 147138,
+      "name": "Season 10 - 2009-2010",
+      "overview": "",
+      "poster_path": "/opFtMDujfn2M1OFrZKB9Hztfyze.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-28",
+      "episode_count": 37,
+      "id": 147141,
+      "name": "Season 11 - 2010-2011",
+      "overview": "",
+      "poster_path": "/dbO1wnOsf78tFz8VIKvC0yT6Wx0.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-23",
+      "episode_count": 34,
+      "id": 237820,
+      "name": "Season 12 - 2011-2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-29",
+      "episode_count": 33,
+      "id": 237821,
+      "name": "Season 13 - 2012-2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-18",
+      "episode_count": 35,
+      "id": 147144,
+      "name": "Season 14 - 2013-2014",
+      "overview": "",
+      "poster_path": "/zNfZCPIADk2PlEMOZsJcLYsS66p.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-24",
+      "episode_count": 9,
+      "id": 147145,
+      "name": "Season 15 - 2014-2015",
+      "overview": "",
+      "poster_path": "/xPXtImlesGCWVUJhTlQNDgH1FC0.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-30",
+      "episode_count": 9,
+      "id": 147147,
+      "name": "Season 16 - 2016-2017",
+      "overview": "",
+      "poster_path": "/8NbZnfn5l9i7EQRNrgu0ABXcBDI.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-29",
+      "episode_count": 9,
+      "id": 147148,
+      "name": "Season 17 - 2017-2018",
+      "overview": "",
+      "poster_path": "/p5dgjtfKijbQw2IPm0QOPRS31D9.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-28",
+      "episode_count": 10,
+      "id": 147150,
+      "name": "Season 18 - 2018-2019",
+      "overview": "",
+      "poster_path": "/bRk98tPTYD5sXNoMPPk6txQiMnS.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-30",
+      "episode_count": 9,
+      "id": 147152,
+      "name": "Season 19 - 2019-2020",
+      "overview": "",
+      "poster_path": "/hCnPMYXe3IgBPNacF2NBuUqevHq.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-25",
+      "episode_count": 10,
+      "id": 147153,
+      "name": "Season 20  - 2020-2021",
+      "overview": "",
+      "poster_path": "/5aWIdLsWhsI6lfNzZ5ywiVrkSMN.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-29",
+      "episode_count": 10,
+      "id": 147154,
+      "name": "Season 21 - 2021-2022",
+      "overview": "",
+      "poster_path": "/xAVqnwz8FfNjBxtc0Qek5XKimFu.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-23",
+      "episode_count": 9,
+      "id": 310815,
+      "name": "Season 22 - 2022-2023",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-29",
+      "episode_count": 9,
+      "id": 359054,
+      "name": "Season 23 - 2023-2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-27",
+      "episode_count": 11,
+      "id": 421091,
+      "name": "Season 24 - 2024-2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2025-09-27",
+      "episode_count": 12,
+      "id": 478348,
+      "name": "Season 25 - 2025-2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 527711,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 13480,
+    "imdb_id": "tt0364183",
+    "freebase_mid": "/m/0gpvvr",
+    "freebase_id": "/en/taratata",
+    "tvdb_id": 84102,
+    "tvrage_id": null,
+    "wikidata_id": "Q1471726",
+    "facebook_id": "taratataofficiel",
+    "instagram_id": "taratataofficiel",
+    "twitter_id": "taratata"
+  }
+}

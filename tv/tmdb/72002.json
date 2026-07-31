@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/bq6AcviGsBmynArhhCpLkR8YN6U.jpg",
+  "created_by": [
+    {
+      "id": 168812,
+      "credit_id": "5985f89dc3a3683266000c41",
+      "name": "Stephanie Savage",
+      "original_name": "Stephanie Savage",
+      "gender": 1,
+      "profile_path": "/bWCBO6nDtYsUrPXZiFsqrMvtZgN.jpg"
+    },
+    {
+      "id": 168798,
+      "credit_id": "5985f8a9c3a3683266000c58",
+      "name": "Josh Schwartz",
+      "original_name": "Josh Schwartz",
+      "gender": 2,
+      "profile_path": "/lIe4rE89dzhYbc3dZJcdXpjwoSR.jpg"
+    },
+    {
+      "id": 1406834,
+      "credit_id": "5985f8919251413cfc000c84",
+      "name": "Sallie Patrick",
+      "original_name": "Sallie Patrick",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2017-10-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://cwtv.com/shows/dynasty",
+  "id": 72002,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-09-16",
+  "last_episode_to_air": {
+    "id": 3827748,
+    "name": "Catch 22",
+    "overview": "A new majordomo begins working at the Manor and piques the interest of the Carringtons. Blake and Alexis go on a search and rescue mission. Jeff is put in a precarious position. Fallon is challenged by the FSN board. Sam does not accept Culhane’s business choices and tries to sabotage Culhane’s plan. Amanda is presented an amazing opportunity which leaves Kirby questioning the future. Adam can’t seem to scheme his way out of his new mess.",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2022-09-16",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 5,
+    "show_id": 72002,
+    "still_path": "/14IxVhtnUuGFQf3BevqCkGtq4w.jpg"
+  },
+  "name": "Dynasty",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 108,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dynasty",
+  "overview": "Follows two of America’s wealthiest families, the Carringtons and the Colbys, as they feud for control over their fortune and their children focusing on Fallon Carrington, the daughter of billionaire Blake Carrington, and her soon-to-be stepmother, Cristal, a Hispanic woman marrying into this WASP family and America’s most powerful class.",
+  "popularity": 19.7152,
+  "poster_path": "/rVQ35erLIoV8hyh7lIKAMiChmOO.jpg",
+  "production_companies": [
+    {
+      "id": 51718,
+      "logo_path": "/fS7xGI3Pm48AsvrjBMceyBoKr2c.png",
+      "name": "Fake Empire Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-10-11",
+      "episode_count": 22,
+      "id": 88905,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aZuFo3TzAFDrs9uIYjx4M0QRmli.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2018-10-12",
+      "episode_count": 22,
+      "id": 109851,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/uuzO6PLCQWDYnKtK7BD4Tfg3VbV.jpg",
+      "season_number": 2,
+      "vote_average": 9.1
+    },
+    {
+      "air_date": "2019-10-11",
+      "episode_count": 20,
+      "id": 132943,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/vwQEXK2coOJIOxpkA32PpqNByLa.jpg",
+      "season_number": 3,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2021-05-07",
+      "episode_count": 22,
+      "id": 192048,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/rVQ35erLIoV8hyh7lIKAMiChmOO.jpg",
+      "season_number": 4,
+      "vote_average": 9.1
+    },
+    {
+      "air_date": "2021-12-20",
+      "episode_count": 22,
+      "id": 218409,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/ou3cFNQ4q0jlYdmSmeKlv5rg1aq.jpg",
+      "season_number": 5,
+      "vote_average": 9.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Stay rich or lie trying.",
+  "type": "Scripted",
+  "vote_average": 8.1,
+  "vote_count": 906,
+  "external_ids": {
+    "id": 72002,
+    "imdb_id": "tt6128300",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 328749,
+    "tvrage_id": null,
+    "wikidata_id": "Q29982557",
+    "facebook_id": "DynastyOnTheCW",
+    "instagram_id": "cw_dynasty",
+    "twitter_id": "cw_dynasty"
+  }
+}

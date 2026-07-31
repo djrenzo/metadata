@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/mJX8hrrtzp05VtO0JSXLkljUTI2.jpg",
+  "created_by": [
+    {
+      "id": 1688276,
+      "credit_id": "62a7c50a5a5ed000506a928a",
+      "name": "Josh Lehrman",
+      "original_name": "Josh Lehrman",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1688273,
+      "credit_id": "62a7c4f47e12f00e2832b305",
+      "name": "Kyle Stegina",
+      "original_name": "Kyle Stegina",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2024-02-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.nick.com/shows/rock-paper-scissors",
+  "id": 204024,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-26",
+  "last_episode_to_air": {
+    "id": 7282501,
+    "name": "Scissors' New Therapist",
+    "overview": "When Scissors' therapist leaves town, he's horrified to discover his new therapist is Logan, his bully.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-07-24",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 3,
+    "show_id": 204024,
+    "still_path": "/5A0OcJhVO92cg9svTHAuAKsnNcs.jpg"
+  },
+  "name": "Rock, Paper, Scissors",
+  "next_episode_to_air": {
+    "id": 7282502,
+    "name": "The Henry Winkler Episode",
+    "overview": "Rock, Paper, and Scissors jump at the chance to go on a wacky adventure with Henry Winkler, only to discover the beloved celebrity is secretly a criminal mastermind.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 3,
+    "show_id": 204024,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 77,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rock, Paper, Scissors",
+  "overview": "Rock, Paper, and Scissors are best friends and roommates who compete over everything, but it’s (mostly) all love. They each bring something different to the friendship - Rock is the moral compass, Paper is the practical one, and Scissors is the right amount of chaos. Together, they get into the wildest adventures.",
+  "popularity": 22.4586,
+  "poster_path": "/2DZI8fK4eFlKqAsroe3YlPCaXEo.jpg",
+  "production_companies": [
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-08-19",
+      "episode_count": 21,
+      "id": 483142,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-12",
+      "episode_count": 38,
+      "id": 297366,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2DZI8fK4eFlKqAsroe3YlPCaXEo.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-11-07",
+      "episode_count": 19,
+      "id": 467727,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-06-19",
+      "episode_count": 20,
+      "id": 500718,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 204024,
+    "imdb_id": "tt16117344",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 412559,
+    "tvrage_id": null,
+    "wikidata_id": "Q124062018",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

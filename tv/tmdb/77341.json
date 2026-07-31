@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/aTSkfXJ9rY1rGtYStcJUrX2wq73.jpg",
+  "created_by": [
+    {
+      "id": 1563037,
+      "credit_id": "5f341c3755c9260033510538",
+      "name": "Lina Uribe",
+      "original_name": "Lina Uribe",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2739922,
+      "credit_id": "5f341c4322af3e00355ee555",
+      "name": "Dario Vanegas",
+      "original_name": "Dario Vanegas",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-02-21",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.telemundo.com/super-series/enemigo-intimo",
+  "id": 77341,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2020-09-21",
+  "last_episode_to_air": {
+    "id": 2435911,
+    "name": "Episode 60",
+    "overview": "Ferrer and Morillo enlist hostages to make the exchange. The meeting point is set, but Martín, Javi and the Sergeant have an ace up their sleeve.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2020-09-21",
+    "episode_number": 60,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 2,
+    "show_id": 77341,
+    "still_path": "/luaXqflrp54PgytpVNmmKFbMeis.jpg"
+  },
+  "name": "Enemigo íntimo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 113,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Enemigo íntimo",
+  "overview": "The story of two siblings who witness the murder of their parents in the hands of one of the drug cartels in Mexico, after which Alejandro Ferrer's younger sister is kidnapped. 25 years later, Alejandro is now the captain of the Federal Police and seeks revenge against the narcos for destroying his family.",
+  "popularity": 27.9192,
+  "poster_path": "/81URAPXi0GP9Ul4MxcVSiDEnpPq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-02-21",
+      "episode_count": 53,
+      "id": 99739,
+      "name": "Season 1",
+      "overview": "Siblings separated as children who no longer recognize each other are pitted against each other in a war involving drugs, crime and betrayal.",
+      "poster_path": "/eKM4OR4ECL44hw3icsmqkfiks0T.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-22",
+      "episode_count": 60,
+      "id": 155162,
+      "name": "Season 2",
+      "overview": "Two years later, Roxana sets out to restore the Mil Cumbres cartel, but she and Alejandro must join forces when a common enemy emerges.",
+      "poster_path": "/81URAPXi0GP9Ul4MxcVSiDEnpPq.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.631,
+  "vote_count": 442,
+  "external_ids": {
+    "id": 77341,
+    "imdb_id": "tt7632608",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 342415,
+    "tvrage_id": null,
+    "wikidata_id": "Q47530627",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

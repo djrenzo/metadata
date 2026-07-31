@@ -1,0 +1,739 @@
+{
+  "adult": false,
+  "backdrop_path": "/dc27quAzGMKcFHAznOSvmwe4CsC.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1960-11-06",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.cbc.ca/documentaries/the-nature-of-things",
+  "id": 10557,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-03-04",
+  "last_episode_to_air": {
+    "id": 7121281,
+    "name": "The Mosquitoes Are Winning!",
+    "overview": "Mosquitoes have shaped wars and empires throughout human history: they're a deadly predator; now, scientists are racing to stop the ancient threat that's being shifted into overdrive.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-08",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 65,
+    "show_id": 10557,
+    "still_path": "/J9W3H9kKL6XFNRnuCcIiZaubyp.jpg"
+  },
+  "name": "The Nature of Things",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/zjgqkIvBURbwoHbHhmnzaTFyZgR.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 617,
+  "number_of_seasons": 64,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "The Nature of Things",
+  "overview": "The Nature of Things is a Canadian television series of documentary programs. It debuted on CBC Television on November 6, 1960. Many of the programs document nature and the effect that humans have on it. The program was one of the first to explore environmental issues, such as clear-cut logging.\n\nThe series is named after an epic poem by Roman philosopher Lucretius: \"Dē Rērum Nātūrā\" — On the Nature of Things.",
+  "popularity": 16.2765,
+  "poster_path": "/9Td0OTxY02SjiSe9EClRAYqncHB.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-11-27",
+      "episode_count": 8,
+      "id": 20797,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-11-06",
+      "episode_count": 25,
+      "id": 188696,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-01-04",
+      "episode_count": 24,
+      "id": 188697,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-01-06",
+      "episode_count": 24,
+      "id": 188698,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-05-05",
+      "episode_count": 11,
+      "id": 188699,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-01-03",
+      "episode_count": 11,
+      "id": 188700,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-10-03",
+      "episode_count": 17,
+      "id": 188701,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-06-20",
+      "episode_count": 17,
+      "id": 188702,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-05-11",
+      "episode_count": 4,
+      "id": 188703,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-09-26",
+      "episode_count": 14,
+      "id": 188704,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-24",
+      "episode_count": 28,
+      "id": 188705,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-11-02",
+      "episode_count": 15,
+      "id": 188706,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-10-04",
+      "episode_count": 10,
+      "id": 188707,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-11-06",
+      "episode_count": 10,
+      "id": 188708,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-11-26",
+      "episode_count": 10,
+      "id": 188709,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-10-09",
+      "episode_count": 8,
+      "id": 188710,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-10-22",
+      "episode_count": 8,
+      "id": 188711,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-12-22",
+      "episode_count": 8,
+      "id": 188712,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-12-14",
+      "episode_count": 11,
+      "id": 188713,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-24",
+      "episode_count": 12,
+      "id": 188714,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-10-24",
+      "episode_count": 15,
+      "id": 188715,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188716,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188717,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188718,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188719,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188720,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188721,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188722,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188723,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188724,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188725,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188726,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188727,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188728,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188729,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188730,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188731,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188732,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-08",
+      "episode_count": 5,
+      "id": 20800,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-04",
+      "episode_count": 15,
+      "id": 188694,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-05",
+      "episode_count": 19,
+      "id": 188693,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-02",
+      "episode_count": 17,
+      "id": 188692,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-17",
+      "episode_count": 1,
+      "id": 188691,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-22",
+      "episode_count": 1,
+      "id": 188690,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-16",
+      "episode_count": 23,
+      "id": 188689,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-31",
+      "episode_count": 29,
+      "id": 188688,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-11",
+      "episode_count": 24,
+      "id": 188685,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-16",
+      "episode_count": 17,
+      "id": 188684,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-11",
+      "episode_count": 18,
+      "id": 188683,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-23",
+      "episode_count": 18,
+      "id": 188682,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-13",
+      "episode_count": 18,
+      "id": 188681,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-18",
+      "episode_count": 15,
+      "id": 188680,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-03",
+      "episode_count": 19,
+      "id": 188679,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-09",
+      "episode_count": 6,
+      "id": 188678,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-15",
+      "episode_count": 2,
+      "id": 188677,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-06",
+      "episode_count": 2,
+      "id": 188676,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-24",
+      "episode_count": 6,
+      "id": 188675,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-23",
+      "episode_count": 11,
+      "id": 188674,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-20",
+      "episode_count": 17,
+      "id": 188673,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-06",
+      "episode_count": 14,
+      "id": 188667,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": "/9Td0OTxY02SjiSe9EClRAYqncHB.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-05",
+      "episode_count": 14,
+      "id": 352305,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": "/9Td0OTxY02SjiSe9EClRAYqncHB.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 13,
+      "id": 318171,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": "/9Td0OTxY02SjiSe9EClRAYqncHB.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-04",
+      "episode_count": 14,
+      "id": 370495,
+      "name": "Season 63",
+      "overview": "New hosts Sarika Cullis-Suzuki and Anthony Morgan take on The Nature of Things, the world's longest-running science documentary series.",
+      "poster_path": "/k3WnMGbeUKjTbAcMeM99iSLZIoe.jpg",
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 14,
+      "id": 437155,
+      "name": "Season 64",
+      "overview": "New hosts Sarika Cullis-Suzuki and Anthony Morgan take on The Nature of Things, the world's longest-running science documentary series.",
+      "poster_path": "/k3WnMGbeUKjTbAcMeM99iSLZIoe.jpg",
+      "season_number": 64,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-10-28",
+      "episode_count": 13,
+      "id": 483245,
+      "name": "Season 65",
+      "overview": "New hosts Sarika Cullis-Suzuki and Anthony Morgan take on The Nature of Things, the world's longest-running science documentary series.",
+      "poster_path": "/9DApvjqxF5bqey0bcTs7FkKun6u.jpg",
+      "season_number": 65,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.222,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 10557,
+    "imdb_id": "tt0198190",
+    "freebase_mid": "/m/03t5rn",
+    "freebase_id": "/en/the_nature_of_things",
+    "tvdb_id": 102641,
+    "tvrage_id": 26927,
+    "wikidata_id": "Q3521987",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1203474,
+      "credit_id": "65e184ba6a300b017d1eb2fb",
+      "name": "Reinhold Beckmann",
+      "original_name": "Reinhold Beckmann",
+      "gender": 2,
+      "profile_path": "/qeR4qoWeekuQJSt2RFx6kEyQEpi.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1999-01-25",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 48463,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2014-09-25",
+  "last_episode_to_air": {
+    "id": 2275660,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-09-25",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 16,
+    "show_id": 48463,
+    "still_path": null
+  },
+  "name": "Beckmann",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 524,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Beckmann",
+  "overview": "Reinhold Beckmann hosts a weekly talk show.",
+  "popularity": 18.7802,
+  "poster_path": "/wKt8hNtotZhhWqbBdRk1doIDwkx.jpg",
+  "production_companies": [
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 18187,
+      "logo_path": null,
+      "name": "CineCentrum Deutsche Gesellschaft für Film- und Fernsehproduktion mbH",
+      "origin_country": ""
+    },
+    {
+      "id": 222208,
+      "logo_path": null,
+      "name": "Background (DE)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-01-25",
+      "episode_count": 31,
+      "id": 66373,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wKt8hNtotZhhWqbBdRk1doIDwkx.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-10",
+      "episode_count": 43,
+      "id": 66374,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wKt8hNtotZhhWqbBdRk1doIDwkx.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-08",
+      "episode_count": 25,
+      "id": 66375,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-14",
+      "episode_count": 21,
+      "id": 66376,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-13",
+      "episode_count": 27,
+      "id": 66377,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-05",
+      "episode_count": 18,
+      "id": 66378,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-10",
+      "episode_count": 30,
+      "id": 66379,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 35,
+      "id": 66380,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-08",
+      "episode_count": 37,
+      "id": 66381,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-04",
+      "episode_count": 37,
+      "id": 66382,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-19",
+      "episode_count": 38,
+      "id": 66383,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 37,
+      "id": 66384,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-10",
+      "episode_count": 39,
+      "id": 66385,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-12",
+      "episode_count": 38,
+      "id": 66386,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-10",
+      "episode_count": 38,
+      "id": 66387,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-09",
+      "episode_count": 30,
+      "id": 151025,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 48463,
+    "imdb_id": "tt0298620",
+    "freebase_mid": "/m/0v1pb30",
+    "freebase_id": null,
+    "tvdb_id": 390850,
+    "tvrage_id": null,
+    "wikidata_id": "Q813733",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

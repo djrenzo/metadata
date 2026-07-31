@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1991-07-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.imbc.com/broad/tv/drama/best/",
+  "id": 134864,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2007-03-10",
+  "last_episode_to_air": {
+    "id": 5746004,
+    "name": "Episode 664",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-03-10",
+    "episode_number": 664,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 61,
+    "season_number": 1,
+    "show_id": 134864,
+    "still_path": null
+  },
+  "name": "MBC Bests Theater",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 664,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "MBC 베스트극장",
+  "overview": "",
+  "popularity": 17.9625,
+  "poster_path": "/u93t32JtNJlyQu3UNQS2GI9kCA6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-07-07",
+      "episode_count": 664,
+      "id": 212917,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yAXsrUnfn5W0RDWTk2rZ03571v2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 134864,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16170521",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

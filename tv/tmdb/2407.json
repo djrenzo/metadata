@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/m7PpoL6vP4oZnK52O7uFolJPyal.jpg",
+  "created_by": [
+    {
+      "id": 2710,
+      "credit_id": "52573620760ee3776a3b5de5",
+      "name": "James Cameron",
+      "original_name": "James Cameron",
+      "gender": 2,
+      "profile_path": "/9NAZnTjBQ9WcXAQEzZpKy4vdQto.jpg"
+    },
+    {
+      "id": 172666,
+      "credit_id": "52573620760ee3776a3b5deb",
+      "name": "Charles H. Eglee",
+      "original_name": "Charles H. Eglee",
+      "gender": 2,
+      "profile_path": "/kcPQBNXLWkjHbKSbuYr22fhSw5f.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2000-10-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 2407,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2002-05-03",
+  "last_episode_to_air": {
+    "id": 181715,
+    "name": "Freak Nation",
+    "overview": "Max is forced to expose her true identity to the world, when she must defend her own kind during a potentially deadly hostage situation at Jam Pony, involving Joshua and Alec.",
+    "vote_average": 7.8,
+    "vote_count": 5,
+    "air_date": "2002-05-03",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 64,
+    "season_number": 2,
+    "show_id": 2407,
+    "still_path": "/yJ9GNkoq0tRQy1d0GtLENe5IxrN.jpg"
+  },
+  "name": "Dark Angel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 42,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dark Angel",
+  "overview": "Super soldier Max Guevera tries to live a normal life in post-apocalyptic Seattle while eluding capture by government agents from the covert biotech facility she escaped from as a child and searching for her genetically-enhanced brothers and sisters who have dispersed after escape.",
+  "popularity": 19.4748,
+  "poster_path": "/j67SlN7bsDokENZLjrrbP5AKZFg.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 15,
+      "id": 7563,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/nm7wmiWt1R9wM4xMkBXjg4OT9Wa.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-03",
+      "episode_count": 21,
+      "id": 7561,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tAn7OUmhofgTnjEjesilFhIovVY.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2001-09-28",
+      "episode_count": 21,
+      "id": 7562,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/23nJJzjaGCOBdfDmvr51jOTXhYd.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.536,
+  "vote_count": 511,
+  "external_ids": {
+    "id": 2407,
+    "imdb_id": "tt0204993",
+    "freebase_mid": "/m/0cg1c",
+    "freebase_id": null,
+    "tvdb_id": 76148,
+    "tvrage_id": 3237,
+    "wikidata_id": "Q578623",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

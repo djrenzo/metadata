@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/w6LzGbQh4ZMKjSFUQyO9XnKnMM6.jpg",
+  "created_by": [
+    {
+      "id": 4531965,
+      "credit_id": "6a50bb7529e82d5e8e1527fd",
+      "name": "Josh Scherer",
+      "original_name": "Josh Scherer",
+      "gender": 2,
+      "profile_path": "/stwDtKvfPn4oG5wuj1S9lUyuVwI.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-10-28",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 322640,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-18",
+  "last_episode_to_air": {
+    "id": 7417962,
+    "name": "Supergirl's Milly Alcock Eats Her Last Meal",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-18",
+    "episode_number": 115,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 322640,
+    "still_path": null
+  },
+  "name": "Last Meals",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 115,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Last Meals",
+  "overview": "Mythical Chef Josh interviews Celebrities while eating their last meals.",
+  "popularity": 29.9046,
+  "poster_path": "/Ac18Q0jf42TfkWHoaMSdnGSc27q.jpg",
+  "production_companies": [
+    {
+      "id": 83075,
+      "logo_path": "/uJnpQbI7KwoduL7pwl7s7nrBFat.png",
+      "name": "Mythical Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-10-28",
+      "episode_count": 115,
+      "id": 516633,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 524109,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 322640,
+    "imdb_id": "tt32212535",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

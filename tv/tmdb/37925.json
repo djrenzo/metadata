@@ -1,0 +1,351 @@
+{
+  "adult": false,
+  "backdrop_path": "/sAHcnxfgUmUK5oGV0zVksHVSl4A.jpg",
+  "created_by": [
+    {
+      "id": 26885,
+      "credit_id": "531f90fc9251411f7700012b",
+      "name": "Pierre Sabbagh",
+      "original_name": "Pierre Sabbagh",
+      "gender": 2,
+      "profile_path": "/fWkEEDgXErveJpTOKc54d8iGXq7.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "1966-07-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://madelen.ina.fr/collection/au-theatre-ce-soir-64",
+  "id": 37925,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1986-02-22",
+  "last_episode_to_air": {
+    "id": 2500567,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-02-22",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 21,
+    "show_id": 37925,
+    "still_path": null
+  },
+  "name": "At Theatre Tonight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2198,
+      "logo_path": "/AgVBX92ALf2fUZweiyhSKJYhkHo.png",
+      "name": "ORTF Télévision 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1196,
+      "logo_path": "/j1A7mEWCvFT6eRxOnqapNbikIyk.png",
+      "name": "ORTF Télévision",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 415,
+  "number_of_seasons": 21,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Au théâtre ce soir",
+  "overview": "At Theater tonight is a TV show broadcasted from 25th August 1966 to 21st September 1985. The show is broadcast plays recorded in two or three days, during public performances at the Théâtre Marigny on the Champs-Élysées, or sometimes Edouard VII theater.",
+  "popularity": 16.7656,
+  "poster_path": "/xXHuUWBvlE76Ej152DDO0Rgj4VT.jpg",
+  "production_companies": [
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1293,
+      "logo_path": "/4r2EdENtYK1Ddxmciod3XvmfA9k.png",
+      "name": "ORTF",
+      "origin_country": "FR"
+    },
+    {
+      "id": 203237,
+      "logo_path": null,
+      "name": "ORTF Télévision 1 (FR)",
+      "origin_country": ""
+    },
+    {
+      "id": 203238,
+      "logo_path": null,
+      "name": "ORTF Télévision 2 (FR)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1966-07-21",
+      "episode_count": 13,
+      "id": 60026,
+      "name": "Saison 1",
+      "overview": "",
+      "poster_path": "/3Yj7pMJmrLNk0IS9AQBxBseSEm1.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    },
+    {
+      "air_date": "1967-01-13",
+      "episode_count": 25,
+      "id": 60027,
+      "name": "Saison 2",
+      "overview": "",
+      "poster_path": "/uqT81l08Pp1iA2nd8Evw4j86EHr.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-03-07",
+      "episode_count": 14,
+      "id": 60028,
+      "name": "Saison 3",
+      "overview": "",
+      "poster_path": "/pI4cQKJ0x3O0y4R2HOVDXyISOyZ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-03",
+      "episode_count": 28,
+      "id": 167948,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/x6LoBNQBVdDSCi2A8OcRCHbw0wZ.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-01-09",
+      "episode_count": 24,
+      "id": 167949,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/anGBeNlGg978fbavQsSrWyPtj4N.jpg",
+      "season_number": 5,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1971-01-14",
+      "episode_count": 24,
+      "id": 167950,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/jwHBKsji0yVh8cOhvu8VAT6HLpp.jpg",
+      "season_number": 6,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "1972-01-10",
+      "episode_count": 26,
+      "id": 167951,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/gD8RMl0GJTiekUz3EAs8rhn6Cjl.jpg",
+      "season_number": 7,
+      "vote_average": 9
+    },
+    {
+      "air_date": "1973-01-05",
+      "episode_count": 28,
+      "id": 167952,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/e9e8M7j0TSUVfMtmIbGdl7Jnx72.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-11",
+      "episode_count": 24,
+      "id": 168024,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/hH9MisIhTgsuJSnD5D5j6LCvN81.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-13",
+      "episode_count": 22,
+      "id": 168025,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 9
+    },
+    {
+      "air_date": "1976-01-01",
+      "episode_count": 26,
+      "id": 168026,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/edAsxAF8vhkbaKjxQVCbcl1Iens.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-01",
+      "episode_count": 25,
+      "id": 168027,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-06",
+      "episode_count": 26,
+      "id": 168028,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-05",
+      "episode_count": 23,
+      "id": 168029,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-11",
+      "episode_count": 24,
+      "id": 168030,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-16",
+      "episode_count": 19,
+      "id": 168031,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-15",
+      "episode_count": 11,
+      "id": 168032,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-07-08",
+      "episode_count": 12,
+      "id": 168033,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-05-19",
+      "episode_count": 9,
+      "id": 168034,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-05",
+      "episode_count": 11,
+      "id": 168035,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-02-22",
+      "episode_count": 1,
+      "id": 168036,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 37925,
+    "imdb_id": "tt0275822",
+    "freebase_mid": "/m/0ggptjd",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 13506,
+    "wikidata_id": "Q2870525",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

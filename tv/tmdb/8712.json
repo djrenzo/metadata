@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/lx28EIoHd2ooJ40lfBXTlhEkG7t.jpg",
+  "created_by": [
+    {
+      "id": 1222861,
+      "credit_id": "5dd495008c40f70017bc479f",
+      "name": "Cris Morena",
+      "original_name": "Cris Morena",
+      "gender": 1,
+      "profile_path": "/msgzhmInpcEuLXqgZrajzWNr5VA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1998-01-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 8712,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2000-11-24",
+  "last_episode_to_air": {
+    "id": 4534014,
+    "name": "Episode 229",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-11-24",
+    "episode_number": 229,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 8712,
+    "still_path": null
+  },
+  "name": "Endless Summer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 96,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 679,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Verano del '98",
+  "overview": "Verano del '98 is an Argentine telenovela, produced by Cris Morena. It was broadcast on Telefe television in the period January 12, 1998-November 17, 2000. The telenovela had three seasons, and changed its cast many times. Cris Morena also composed songs for Verano del '98 soundtrack.",
+  "popularity": 20.3188,
+  "poster_path": "/z9Zqiyk7KJnXXk46LSU0H0Vr26y.jpg",
+  "production_companies": [
+    {
+      "id": 8046,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-01-25",
+      "episode_count": 205,
+      "id": 18611,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-03",
+      "episode_count": 245,
+      "id": 136129,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-02",
+      "episode_count": 229,
+      "id": 136130,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 8712,
+    "imdb_id": "tt0191745",
+    "freebase_mid": "/m/041454_",
+    "freebase_id": "/en/verano_del_98",
+    "tvdb_id": 323741,
+    "tvrage_id": null,
+    "wikidata_id": "Q1757012",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

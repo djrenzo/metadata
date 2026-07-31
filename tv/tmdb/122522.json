@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/wiOUp5l7q3GQsjA4L1h7DbNp3An.jpg",
+  "created_by": [
+    {
+      "id": 3114789,
+      "credit_id": "676bf42045cc55ffb764e6b2",
+      "name": "YAGOO",
+      "original_name": "谷郷元昭",
+      "gender": 2,
+      "profile_path": "/uYbNrWQke1272C040ILotmDbI5G.jpg"
+    }
+  ],
+  "episode_run_time": [
+    2,
+    1,
+    3,
+    4,
+    7
+  ],
+  "first_air_date": "2019-05-05",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.hololive.tv/",
+  "id": 122522,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-01-04",
+  "last_episode_to_air": {
+    "id": 6822714,
+    "name": "Episode 347",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-01-04",
+    "episode_number": 347,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 2,
+    "season_number": 1,
+    "show_id": 122522,
+    "still_path": null
+  },
+  "name": "holo no graffiti",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 347,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ホロのぐらふぃてぃ",
+  "overview": "From unraveling the secrets of opening and closing doors to defusing surprise packages more commonly known as bombs, there is never a dull day at the Hololive Production office! \"Holo no Graffiti\" follows an eccentric cast of Virtual YouTubers, also known as \"VTubers,\" going about their absurd yet hilarious daily lives, detailing all their cute moments and mishaps.",
+  "popularity": 17.9642,
+  "poster_path": "/2Ix5Qwad4Zsdx6CC9yBl06rt3qt.jpg",
+  "production_companies": [
+    {
+      "id": 155416,
+      "logo_path": "/zwvuAVAerog3AbqQoifmAaNvUSu.png",
+      "name": "hololive production",
+      "origin_country": "JP"
+    },
+    {
+      "id": 155415,
+      "logo_path": "/xLTH2Wf5YKObi9WRyHPYDFsNOx8.png",
+      "name": "COVER Corp.",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-06-16",
+      "episode_count": 9,
+      "id": 201284,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/2Ix5Qwad4Zsdx6CC9yBl06rt3qt.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-05",
+      "episode_count": 347,
+      "id": 189260,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2Ix5Qwad4Zsdx6CC9yBl06rt3qt.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 122522,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 400547,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

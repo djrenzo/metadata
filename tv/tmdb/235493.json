@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": "/xIDN1hQT5l3HZxX2KLvcOXPqa3t.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2023-10-22",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.kijk.nl/programmas/de-bondgenoten",
+  "id": 235493,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-07-21",
+  "last_episode_to_air": {
+    "id": 7372211,
+    "name": "Episode 237",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2026-07-30",
+    "episode_number": 237,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 3,
+    "show_id": 235493,
+    "still_path": "/eXnCLnlsNW7wt1xN340is6Eoi9Z.jpg"
+  },
+  "name": "The Alliance",
+  "next_episode_to_air": {
+    "id": 7372213,
+    "name": "Episode 238",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2026-07-31",
+    "episode_number": 238,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 3,
+    "show_id": 235493,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1034,
+      "logo_path": "/6la8Z1gCxiZlLVIFe3l4Jv8c2Uu.png",
+      "name": "SBS6",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 828,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "De Bondgenoten",
+  "overview": "Sixteen participants live together. They are divided into teams and have to compete & win their assignments. But in the end, it's every man for himself, because at the end of every month, only one person wins a hundred thousand euros.",
+  "popularity": 16.8946,
+  "poster_path": "/wsipinibYxrZhpkQ6MKxIMgL0hv.jpg",
+  "production_companies": [
+    {
+      "id": 262960,
+      "logo_path": null,
+      "name": "Talpa Studios",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 491271,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-22",
+      "episode_count": 261,
+      "id": 357895,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1FEU5uxOtaaDmyix9UB4bUe121q.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2024-10-21",
+      "episode_count": 260,
+      "id": 425767,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rB90UCdxBlLFSJipDurbIbLsZsw.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-10-20",
+      "episode_count": 306,
+      "id": 459770,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/6bzak9l1Yc2DfhhepAWt5IqI8Ei.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2026-10-19",
+      "episode_count": 1,
+      "id": 511452,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/s2wBtSNLNx4S3s7GYxpLO6EtkCm.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 235493,
+    "imdb_id": "tt34541065",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 442105,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/7x55rlAGe3mrzusRter1SyLAYjd.jpg",
+  "created_by": [
+    {
+      "id": 585982,
+      "credit_id": "5258251d760ee36aaa7f7951",
+      "name": "Roberto Gómez Bolaños",
+      "original_name": "Chespirito",
+      "gender": 2,
+      "profile_path": "/nMfp8FaOPCYLahgKY4gGf8rfU8g.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1973-02-28",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 13023,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1979-09-26",
+  "last_episode_to_air": {
+    "id": 2434596,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1979-09-26",
+    "episode_number": 24,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 7,
+    "show_id": 13023,
+    "still_path": "/fTjwwvylXqXtfqiA4AuPhszRNca.jpg"
+  },
+  "name": "El Chapulín Colorado",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 289,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "El Chapulín Colorado",
+  "overview": "",
+  "popularity": 19.1322,
+  "poster_path": "/rcLjSvfQVxE27TidowGra2A3aYq.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1973-02-28",
+      "episode_count": 45,
+      "id": 83267,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nA23gBvmdBRRm245LPI3XmuHh51.jpg",
+      "season_number": 1,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "1974-01-04",
+      "episode_count": 45,
+      "id": 120952,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/Afe0qmYnnTZjLklm5wxGTYYFOM4.jpg",
+      "season_number": 2,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "1975-01-02",
+      "episode_count": 40,
+      "id": 120968,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "1975-12-31",
+      "episode_count": 47,
+      "id": 120969,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/fhdtuAjqdNRTU1ZhMgqdwKOelUC.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1977-01-01",
+      "episode_count": 47,
+      "id": 151679,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1978-03-08",
+      "episode_count": 41,
+      "id": 151680,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-02-07",
+      "episode_count": 24,
+      "id": 151681,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/qbpGd5ktoQ2D5VmDG8Y623VfEC4.jpg",
+      "season_number": 7,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.075,
+  "vote_count": 768,
+  "external_ids": {
+    "id": 13023,
+    "imdb_id": "tt0229888",
+    "freebase_mid": "/m/02992_",
+    "freebase_id": "/en/el_chapulin_colorado",
+    "tvdb_id": 212601,
+    "tvrage_id": null,
+    "wikidata_id": "Q587812",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "ChapulinRGB"
+  }
+}

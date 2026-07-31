@@ -1,0 +1,333 @@
+{
+  "adult": false,
+  "backdrop_path": "/5tf3hx7RbUovAYGMZ6slmoROWI1.jpg",
+  "created_by": [
+    {
+      "id": 1242988,
+      "credit_id": "5258092c19c29531db3e0d8c",
+      "name": "Keith Chapman",
+      "original_name": "Keith Chapman",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "1999-04-12",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.bobthebuilder.com/",
+  "id": 10938,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-10-05",
+  "last_episode_to_air": {
+    "id": 1093058,
+    "name": "Bob’s Big Bounce",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-10-05",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 10,
+    "season_number": 18,
+    "show_id": 10938,
+    "still_path": null
+  },
+  "name": "Bob the Builder",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 166,
+      "logo_path": "/lpcHkKxLsFz2YhEnRlkslsTtePe.png",
+      "name": "CBeebies",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 255,
+  "number_of_seasons": 18,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Bob the Builder",
+  "overview": "Bob the Builder and his machine team are ready to tackle any project. Bob and the Can-Do Crew demonstrate the power of positive thinking, problem-solving, teamwork, and follow-through. The team always shows that “The Fun Is In Getting It Done!”",
+  "popularity": 18.3351,
+  "poster_path": "/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
+  "production_companies": [
+    {
+      "id": 28159,
+      "logo_path": "/vi4Y2pr4P7Yk38EjEuEm59ebaaU.png",
+      "name": "HiT Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 29070,
+      "logo_path": "/ixhfCJSmdSMouGsEDNWeHszCkp2.png",
+      "name": "SD Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 105086,
+      "logo_path": null,
+      "name": "HOT Animation LTD",
+      "origin_country": ""
+    },
+    {
+      "id": 8180,
+      "logo_path": null,
+      "name": "Cosgrove Hall Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-12-23",
+      "episode_count": 16,
+      "id": 21339,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/t6RX2mIEOFvzhG76L4bjMnRaeQm.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-04-12",
+      "episode_count": 13,
+      "id": 21332,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gErUFP6ScXltegWnJSGAT7MFDFT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-11",
+      "episode_count": 13,
+      "id": 21331,
+      "name": "Season 2",
+      "overview": "Join Bob as he helps out the residents of Bobsville with building tasks large and small. Whilst repairing the clock tower Bob gets stranded on the scaffolding without a way to get back down!\n\nMeanwhile a sleep \"rolling\" machine causes havoc throughout the town and the team have success in the 'Brightest Builders Yard' competition.",
+      "poster_path": "/hgwzzF2rJh991ZGXpq4YmLy8BTv.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-25",
+      "episode_count": 13,
+      "id": 21329,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7YLvhKjycH2BNXyxKfPLvsuNXKG.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-11-27",
+      "episode_count": 14,
+      "id": 21328,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/tLp5nukCV7PTRlejjpOn7VI0BA2.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-01",
+      "episode_count": 13,
+      "id": 21330,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/Z4DsCCsrFO2oFr36lJ0zMzmWLL.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 13,
+      "id": 21333,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/nB1Cw4e99R9aCgHWZGNyNVa4ZZt.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-02-03",
+      "episode_count": 13,
+      "id": 21335,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/2OsilGI4TcOm16fzJzJ8admjRYj.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 14,
+      "id": 21334,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/63jlHUR1HV6MEHRZGQM6nmbDQeO.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-04-03",
+      "episode_count": 13,
+      "id": 21336,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/rcoIyWVcrjJUzPRIq8aD4LJdIk9.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-05-02",
+      "episode_count": 17,
+      "id": 21337,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/iHQWeltThOmpGBkDCSGHu7b4skC.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-01",
+      "episode_count": 12,
+      "id": 21340,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/sw2NYey7qpLSGHZD75CZhjBY7bN.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-07-31",
+      "episode_count": 14,
+      "id": 21341,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-18",
+      "episode_count": 13,
+      "id": 21338,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-03",
+      "episode_count": 12,
+      "id": 21327,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-19",
+      "episode_count": 15,
+      "id": 21344,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-05",
+      "episode_count": 13,
+      "id": 21342,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-12",
+      "episode_count": 20,
+      "id": 21343,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 20,
+      "id": 68459,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "CAN HE FIX IT? YES, HE CAN!",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 132,
+  "external_ids": {
+    "id": 10938,
+    "imdb_id": "tt0262151",
+    "freebase_mid": "/m/01z_dc",
+    "freebase_id": "/en/bob_the_builder",
+    "tvdb_id": 78685,
+    "tvrage_id": 2861,
+    "wikidata_id": "Q888360",
+    "facebook_id": "BobtheBuilder",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

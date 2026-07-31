@@ -1,0 +1,485 @@
+{
+  "adult": false,
+  "backdrop_path": "/bUxxfA56Lq363y3FER9kVOfW1Lc.jpg",
+  "created_by": [
+    {
+      "id": 1484741,
+      "credit_id": "5ecdbff65c071b001e26d394",
+      "name": "Ingvar Oldsberg",
+      "original_name": "Ingvar Oldsberg",
+      "gender": 2,
+      "profile_path": "/nt3zVspoz5qZDmFhb1w5dkQInWN.jpg"
+    },
+    {
+      "id": 2655666,
+      "credit_id": "5ecdc011aaec71001f65bf3f",
+      "name": "Lennart Andersson",
+      "original_name": "Lennart Andersson",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1987-09-05",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.svt.se/pa-sparet",
+  "id": 9307,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2026-01-30",
+  "last_episode_to_air": {
+    "id": 6543832,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 3,
+    "vote_count": 1,
+    "air_date": "2026-01-30",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 36,
+    "show_id": 9307,
+    "still_path": "/wifSplmPweJCo9w5c3hRqafi1bP.jpg"
+  },
+  "name": "På spåret",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 398,
+  "number_of_seasons": 36,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "På spåret",
+  "overview": "På spåret is a popular Swedish TV game show broadcast on SVT since September 5, 1987. The show, which is intended to be humorous yet educational, has remained one of the most popular TV shows in Sweden, attracting an average of 2,150,000 viewers during the 2007 season. The all-time record was set in March 1990, when 3.7 million people tuned in to see the show. This means that nearly every second Swede saw the game show.\n\nPå spåret is an original format developed by Ingvar Oldsberg for SVT, and he hosted the show for many years. Author and tennis legend Björn Hellberg was promoted from contestant to permanent Oldsberg sidekick in 1995 after winning for four straight seasons. Famous gourmet, restaurant-owner, and former contestant Carl-Jan Grankvist sat in for Hellberg during the 2004 season.\n\nIn 2009, after 21 years, Oldsberg left and Kristian Luuk took over as the host. Björn Hellberg too decided to leave and was replaced with Fredrik Lindström.",
+  "popularity": 18.3546,
+  "poster_path": "/zmWIrDPXKmnx4bgM643bqL1oOic.jpg",
+  "production_companies": [
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-01",
+      "episode_count": 6,
+      "id": 19207,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-05",
+      "episode_count": 6,
+      "id": 19214,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1988-11-11",
+      "episode_count": 6,
+      "id": 19215,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1990-02-23",
+      "episode_count": 7,
+      "id": 178593,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1991-09-20",
+      "episode_count": 7,
+      "id": 178594,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-03",
+      "episode_count": 7,
+      "id": 178595,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-13",
+      "episode_count": 8,
+      "id": 151879,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-08-30",
+      "episode_count": 8,
+      "id": 178596,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-05",
+      "episode_count": 9,
+      "id": 151887,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-25",
+      "episode_count": 9,
+      "id": 151902,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-24",
+      "episode_count": 9,
+      "id": 178597,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-22",
+      "episode_count": 9,
+      "id": 178598,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-19",
+      "episode_count": 9,
+      "id": 178599,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-11-15",
+      "episode_count": 9,
+      "id": 178600,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-11-14",
+      "episode_count": 9,
+      "id": 178601,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-11-19",
+      "episode_count": 9,
+      "id": 151881,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-11-12",
+      "episode_count": 13,
+      "id": 19208,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-28",
+      "episode_count": 13,
+      "id": 19217,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-11-30",
+      "episode_count": 13,
+      "id": 19209,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-11-28",
+      "episode_count": 13,
+      "id": 19210,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-12-04",
+      "episode_count": 13,
+      "id": 19211,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-26",
+      "episode_count": 13,
+      "id": 19212,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-11-25",
+      "episode_count": 13,
+      "id": 19213,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-11-23",
+      "episode_count": 13,
+      "id": 19216,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-11-22",
+      "episode_count": 13,
+      "id": 19218,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-11-28",
+      "episode_count": 13,
+      "id": 178602,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-20",
+      "episode_count": 13,
+      "id": 178603,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-12-02",
+      "episode_count": 13,
+      "id": 83973,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-08",
+      "episode_count": 13,
+      "id": 178575,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-30",
+      "episode_count": 13,
+      "id": 178576,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-06",
+      "episode_count": 13,
+      "id": 151930,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-27",
+      "episode_count": 13,
+      "id": 168353,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2021-11-26",
+      "episode_count": 13,
+      "id": 220997,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/kebFSZjFuP0HXwkBL8bdDcbUyB9.jpg",
+      "season_number": 32,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2022-11-18",
+      "episode_count": 13,
+      "id": 316802,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/5eLXT5K3326ozpv6zeK1PCvCcjB.jpg",
+      "season_number": 33,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2023-11-03",
+      "episode_count": 13,
+      "id": 363362,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/Dv3oxAx1TMo0YbekATl8ywvPpt.jpg",
+      "season_number": 34,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2024-11-01",
+      "episode_count": 15,
+      "id": 424456,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/GNaQk7W4dJYdFz23AivtxOcg4E.jpg",
+      "season_number": 35,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2025-10-24",
+      "episode_count": 15,
+      "id": 476278,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/zmWIrDPXKmnx4bgM643bqL1oOic.jpg",
+      "season_number": 36,
+      "vote_average": 4.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 9307,
+    "imdb_id": "tt0902735",
+    "freebase_mid": "/m/05jj09",
+    "freebase_id": "/en/pa_sparet",
+    "tvdb_id": 80939,
+    "tvrage_id": null,
+    "wikidata_id": "Q7264617",
+    "facebook_id": "pasparetSVT",
+    "instagram_id": "svt_pasparet",
+    "twitter_id": null
+  }
+}

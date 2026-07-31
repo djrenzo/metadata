@@ -1,0 +1,456 @@
+{
+  "adult": false,
+  "backdrop_path": "/k1CVpoBglraB3R7EKcyyXEDuNlh.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-12-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 36576,
+  "in_production": true,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "2025-07-17",
+  "last_episode_to_air": {
+    "id": 7162761,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-07-17",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 33,
+    "show_id": 36576,
+    "still_path": null
+  },
+  "name": "Ojciec Mateusz",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 483,
+      "logo_path": "/5XBLFR7RjHrWrK2MHIpfxpkGei9.png",
+      "name": "TVP1",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 459,
+  "number_of_seasons": 35,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "Ojciec Mateusz",
+  "overview": "",
+  "popularity": 20.2014,
+  "poster_path": "/9hlBvni8jf6mMv04PSz8vW7LdRN.jpg",
+  "production_companies": [
+    {
+      "id": 56374,
+      "logo_path": null,
+      "name": "Baltmedia",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-12-07",
+      "episode_count": 13,
+      "id": 47585,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mTB29bgss03Gj24q6uQIZs1XSjI.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-06",
+      "episode_count": 17,
+      "id": 47586,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/zi9YklRRVuwtORaoSVyupKBGjPN.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-04",
+      "episode_count": 14,
+      "id": 47587,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zPl7M07J87hFuZDTN9ORZ6BsEW9.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-09",
+      "episode_count": 12,
+      "id": 47591,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vE0s6w7I3iBUWvuaC0Ho7p2s4GJ.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-03-03",
+      "episode_count": 13,
+      "id": 47589,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-08",
+      "episode_count": 13,
+      "id": 47590,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-08",
+      "episode_count": 13,
+      "id": 47592,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-06",
+      "episode_count": 13,
+      "id": 47593,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-28",
+      "episode_count": 13,
+      "id": 47594,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-05",
+      "episode_count": 13,
+      "id": 47595,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-03-06",
+      "episode_count": 13,
+      "id": 120084,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-04",
+      "episode_count": 13,
+      "id": 120085,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-05",
+      "episode_count": 13,
+      "id": 120086,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-03",
+      "episode_count": 13,
+      "id": 120087,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-03",
+      "episode_count": 13,
+      "id": 120088,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/jQWN4mAOXLjhFm8KEjw4yq4BkAr.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 13,
+      "id": 120089,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-02",
+      "episode_count": 13,
+      "id": 120090,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-31",
+      "episode_count": 13,
+      "id": 120091,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-01",
+      "episode_count": 13,
+      "id": 120092,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-06",
+      "episode_count": 13,
+      "id": 120093,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-28",
+      "episode_count": 13,
+      "id": 120094,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-13",
+      "episode_count": 13,
+      "id": 192068,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-27",
+      "episode_count": 12,
+      "id": 192073,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-10",
+      "episode_count": 14,
+      "id": 192072,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-12",
+      "episode_count": 12,
+      "id": 192074,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-10",
+      "episode_count": 14,
+      "id": 212138,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-04",
+      "episode_count": 13,
+      "id": 245727,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-09",
+      "episode_count": 13,
+      "id": 307126,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-02",
+      "episode_count": 13,
+      "id": 331210,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-28",
+      "episode_count": 13,
+      "id": 358825,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-04-18",
+      "episode_count": 13,
+      "id": 379917,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-30",
+      "episode_count": 13,
+      "id": 425968,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-24",
+      "episode_count": 13,
+      "id": 454030,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 510229,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 513695,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 36576,
+    "imdb_id": "tt1271995",
+    "freebase_mid": "/m/0gfwsff",
+    "freebase_id": null,
+    "tvdb_id": 85435,
+    "tvrage_id": 25403,
+    "wikidata_id": "Q963109",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

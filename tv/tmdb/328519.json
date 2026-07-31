@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1994-01-01",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://sic.pt/beta-arquivo-sic/2012-07-07-Juiz-Decide-O--1994-",
+  "id": 328519,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2000-06-21",
+  "last_episode_to_air": {
+    "id": 7526796,
+    "name": "Episode 1493",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-06-21",
+    "episode_number": 1493,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 328519,
+    "still_path": null
+  },
+  "name": "O Juiz Decide",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 1493,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "O Juiz Decide",
+  "overview": "",
+  "popularity": 13.0202,
+  "poster_path": "/d5CCmlSSyzvYwZjdIbxBO6NSExh.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-01-01",
+      "episode_count": 1493,
+      "id": 529570,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 328519,
+    "imdb_id": "tt1718473",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 397114,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

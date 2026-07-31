@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/j4nrXoHEEHnEgMyoFXUSvXYALFh.jpg",
+  "created_by": [
+    {
+      "id": 176042,
+      "credit_id": "65e06f7bdaf57c01479ac8d3",
+      "name": "Peter Huyck",
+      "original_name": "Peter Huyck",
+      "gender": 2,
+      "profile_path": "/igKwTXb8VSjHUHgXgfo1kT4ZaYD.jpg"
+    },
+    {
+      "id": 176041,
+      "credit_id": "65e06f80a806730161a84a97",
+      "name": "Alex Gregory",
+      "original_name": "Alex Gregory",
+      "gender": 2,
+      "profile_path": "/8ehXKhCcd0cjhlFtWXMi6wbu476.jpg"
+    },
+    {
+      "id": 19274,
+      "credit_id": "65e06f85daf57c00ca9aa437",
+      "name": "Seth Rogen",
+      "original_name": "Seth Rogen",
+      "gender": 2,
+      "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "id": 3713260,
+      "credit_id": "673cb56760b7b3bc94a0c9ce",
+      "name": "Frida Perez",
+      "original_name": "Frida Perez",
+      "gender": 1,
+      "profile_path": "/wJgQL8CKSingycu8inCRgasYU7V.jpg"
+    },
+    {
+      "id": 54734,
+      "credit_id": "673cb577506dee7c1a056706",
+      "name": "Evan Goldberg",
+      "original_name": "Evan Goldberg",
+      "gender": 2,
+      "profile_path": "/qh0pRmpYzyix1ErrMGADthTnpLa.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-03-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.7518algxc4lsoobtsx30dqb52",
+  "id": 247767,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-20",
+  "last_episode_to_air": {
+    "id": 5772143,
+    "name": "The Presentation (2)",
+    "overview": "If Matt's team doesn't pull off an amazing CinemaCon presentation, the studio will be sold...to a tech company.",
+    "vote_average": 7.931,
+    "vote_count": 29,
+    "air_date": "2025-05-20",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 247767,
+    "still_path": "/7htiLT04c2pZ6ncXh51vGuVmK6z.jpg"
+  },
+  "name": "The Studio",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Studio",
+  "overview": "Desperate for celebrity approval, the newly appointed head of a movie studio and his executive team at Continental Studios must juggle corporate demands with creative ambitions as they try to keep movies alive and relevant.",
+  "popularity": 20.5845,
+  "poster_path": "/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg",
+  "production_companies": [
+    {
+      "id": 16615,
+      "logo_path": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png",
+      "name": "Point Grey Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 28523,
+      "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 258032,
+      "logo_path": null,
+      "name": "Coytesville Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 258033,
+      "logo_path": null,
+      "name": "Contractually Obligated Two Second Half Screen Vanity Card Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-03-25",
+      "episode_count": 10,
+      "id": 381539,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cmIW8yuEidZZMz2gtZzo616lc3c.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 455035,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "They don't make films. They make movies.",
+  "type": "Scripted",
+  "vote_average": 7.732,
+  "vote_count": 381,
+  "external_ids": {
+    "id": 247767,
+    "imdb_id": "tt23649128",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 448147,
+    "tvrage_id": null,
+    "wikidata_id": "Q125185497",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

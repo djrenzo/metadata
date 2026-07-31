@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/ybrhiPEyoh9N6SkU8OZlwud66QH.jpg",
+  "created_by": [
+    {
+      "id": 3501983,
+      "credit_id": "69e8f2daf12e452f94097f26",
+      "name": "Luis Felipe Salamanca",
+      "original_name": "Luis Felipe Salamanca",
+      "gender": 2,
+      "profile_path": "/dWXVPH1OyLok71nySFSgBIXcWrA.jpg"
+    },
+    {
+      "id": 3605482,
+      "credit_id": "69e8f359a87f2da71039dc11",
+      "name": "Perla Ramírez",
+      "original_name": "Perla Ramírez",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    46
+  ],
+  "first_air_date": "2006-03-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 107139,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2006-10-26",
+  "last_episode_to_air": {
+    "id": 4925648,
+    "name": "Episode 159",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-10-26",
+    "episode_number": 159,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 107139,
+    "still_path": null
+  },
+  "name": "La ex",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 159,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "La ex",
+  "overview": "After five years of marriage, Amanda Otero Rosas is going through a painful separation. But the pain is the first step toward a new and promising beginning.",
+  "popularity": 10.2247,
+  "poster_path": "/k4vYdFTTQHFxbWb0wQvbAfaA5bz.jpg",
+  "production_companies": [
+    {
+      "id": 2586,
+      "logo_path": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+      "name": "Caracol Televisión",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-03-20",
+      "episode_count": 159,
+      "id": 158384,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 48,
+  "external_ids": {
+    "id": 107139,
+    "imdb_id": "tt0796896",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5554943",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

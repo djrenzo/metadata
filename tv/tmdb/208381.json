@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/5K6QC4wAVAwTOqCyt1roe5T2bTc.jpg",
+  "created_by": [
+    {
+      "id": 3649954,
+      "credit_id": "62fd440be55937007c3da98f",
+      "name": "Marisol Campos",
+      "original_name": "Marisol Campos",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2321531,
+      "credit_id": "62fd4418b5bc21007f9ceb75",
+      "name": "Arquímedes Rivero",
+      "original_name": "Arquímedes Rivero",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1995-08-16",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 208381,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1996-03-05",
+  "last_episode_to_air": {
+    "id": 4797464,
+    "name": "Episode 153",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-03-05",
+    "episode_number": 153,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 208381,
+    "still_path": null
+  },
+  "name": "Dulce enemiga",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 153,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Dulce enemiga",
+  "overview": "",
+  "popularity": 30.6644,
+  "poster_path": "/buZr6o1aOKs4jGL3300Uel9YRi4.jpg",
+  "production_companies": [
+    {
+      "id": 118838,
+      "logo_path": null,
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-08-16",
+      "episode_count": 153,
+      "id": 305073,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 208381,
+    "imdb_id": "tt0354287",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q3874622",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

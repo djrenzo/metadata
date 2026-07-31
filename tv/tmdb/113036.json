@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/r2ogqivZ9dwpU4ya7EKHA9kMcrL.jpg",
+  "created_by": [
+    {
+      "id": 52779,
+      "credit_id": "5fd37af1f48e0d0041c1b9af",
+      "name": "Ryan Murphy",
+      "original_name": "Ryan Murphy",
+      "gender": 2,
+      "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+    },
+    {
+      "id": 1224030,
+      "credit_id": "60f0e378c56d2d0081f4081f",
+      "name": "Brad Falchuk",
+      "original_name": "Brad Falchuk",
+      "gender": 2,
+      "profile_path": "/kVMTpVi2I9UhlcJdBUWcq744Lgg.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-07-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://www.fxnetworks.com/shows/american-horror-stories",
+  "id": 113036,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-10-15",
+  "last_episode_to_air": {
+    "id": 5668948,
+    "name": "The Thing Under the Bed",
+    "overview": "Against the wishes of powerful forces, a grieving wife peels back the sinister history of her neighborhood in an attempt to prove her innocence.",
+    "vote_average": 4.833,
+    "vote_count": 12,
+    "air_date": "2024-10-15",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "3GCV06",
+    "runtime": 35,
+    "season_number": 3,
+    "show_id": 113036,
+    "still_path": "/aPnsBDNePUrvCXkgkGkYPkhkTDT.jpg"
+  },
+  "name": "American Horror Stories",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "American Horror Stories",
+  "overview": "An anthology series of stand alone episodes delving into horror myths, legends and lore.",
+  "popularity": 20.0511,
+  "poster_path": "/8b9FGJ9WhpkeGFOHYgKjPT5AXS6.jpg",
+  "production_companies": [
+    {
+      "id": 19328,
+      "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+      "name": "Ryan Murphy Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 68682,
+      "logo_path": "/x4htMipi2e3QMQuyeLhrwlpxgKf.png",
+      "name": "Brad Falchuk Teley-vision",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-07-15",
+      "episode_count": 7,
+      "id": 168526,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dd8Wgg1zYtBPYfw6qgcJvePFwKw.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2022-07-21",
+      "episode_count": 8,
+      "id": 293647,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6z8xmLHJTuZPOQ0sXhW23oFZReb.jpg",
+      "season_number": 2,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2023-10-26",
+      "episode_count": 9,
+      "id": 352951,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/cqmVr1OMq3dUydCZ3Q897WyJOkg.jpg",
+      "season_number": 3,
+      "vote_average": 5.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Descend into disbelief.",
+  "type": "Scripted",
+  "vote_average": 7.743,
+  "vote_count": 983,
+  "external_ids": {
+    "id": 113036,
+    "imdb_id": "tt12306692",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 382187,
+    "tvrage_id": null,
+    "wikidata_id": "Q107187662",
+    "facebook_id": "americanhorrorstory",
+    "instagram_id": "ahsfx",
+    "twitter_id": "AHSFX"
+  }
+}

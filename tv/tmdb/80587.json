@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/vVGmv5mle6lCrgnx8lNv5Q1vZPw.jpg",
+  "created_by": [
+    {
+      "id": 2159200,
+      "credit_id": "5bd086c20e0a26623a036498",
+      "name": "Shane Houghton",
+      "original_name": "Shane Houghton",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2215054,
+      "credit_id": "5c39c4969251414de573a694",
+      "name": "Chris Houghton",
+      "original_name": "Chris Houghton",
+      "gender": 2,
+      "profile_path": "/zHzNLynNwXbAVqmU6F1hWG9sLPk.jpg"
+    },
+    {
+      "id": 1724422,
+      "credit_id": "62a52f237e12f02ff65c3c40",
+      "name": "Monica Ray",
+      "original_name": "Monica Ray",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2018-06-18",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://disneynow.go.com/shows/big-city-greens",
+  "id": 80587,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-08-09",
+  "last_episode_to_air": {
+    "id": 6427491,
+    "name": "Unplanned",
+    "overview": "Cricket learns he was unexpected.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-08-09",
+    "episode_number": 58,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 80587,
+    "still_path": "/xiPxjbZZ5Uwz2addj8O9ZP316Zw.jpg"
+  },
+  "name": "Big City Greens",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 54,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 210,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Big City Greens",
+  "overview": "The offbeat adventures of 10-year-old Cricket Green, a mischievous and optimistic country boy who moves to the big city with his wildly out of place family – older sister Tilly, father Bill and Gramma Alice.",
+  "popularity": 18.9764,
+  "poster_path": "/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 142198,
+      "logo_path": "/p01DTJ87SKywfMdvTqwmAp5Fmh7.png",
+      "name": "Rough Draft Korea",
+      "origin_country": "KR"
+    },
+    {
+      "id": 193563,
+      "logo_path": "/EMqUEPCMz4g4mvHHgiTgXJXggg.png",
+      "name": "Sugarcube",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-16",
+      "episode_count": 19,
+      "id": 202249,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/8MDhr0rhlBNiPUWnjDLQdI0Vmmo.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-18",
+      "episode_count": 58,
+      "id": 105866,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7rKeZzPKhr6heVOxGMdwjKvbOpp.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2019-11-16",
+      "episode_count": 58,
+      "id": 136053,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/buRk2Vrz8UhF5nZUOADSRZLEU1f.jpg",
+      "season_number": 2,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2021-10-09",
+      "episode_count": 36,
+      "id": 214745,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/6HcWPT0EUuOJLU446G5XRj7Y7qj.jpg",
+      "season_number": 3,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2023-09-23",
+      "episode_count": 58,
+      "id": 339562,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/z11dX144ZxA7nGtVJBxIfHJuc5X.jpg",
+      "season_number": 4,
+      "vote_average": 10
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 434978,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Bingo-bango.",
+  "type": "Scripted",
+  "vote_average": 7.526,
+  "vote_count": 77,
+  "external_ids": {
+    "id": 80587,
+    "imdb_id": "tt7165904",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 342059,
+    "tvrage_id": null,
+    "wikidata_id": "Q27645779",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

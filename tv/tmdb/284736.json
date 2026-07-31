@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/lU3esiXkPlIccL8FUcrSE7LzOzy.jpg",
+  "created_by": [
+    {
+      "id": 1311444,
+      "credit_id": "68b8e3d13881eb58879461a0",
+      "name": "Brandon Margolis",
+      "original_name": "Brandon Margolis",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 933104,
+      "credit_id": "68b8e3d7934c154ceb8cdc44",
+      "name": "Brandon Sonnier",
+      "original_name": "Brandon Sonnier",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-10-17",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/boston-blue",
+  "id": 284736,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-22",
+  "last_episode_to_air": {
+    "id": 7063562,
+    "name": "Patrol",
+    "overview": "A dangerous investigation collides with pivotal personal and professional decisions, pushing the team to their limits. As the D.A. election draws closer, shifting dynamics and an unexpected incident heighten the urgency and raise new questions for everyone involved.",
+    "vote_average": 4.2,
+    "vote_count": 8,
+    "air_date": "2026-05-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 284736,
+    "still_path": "/onIirgeLpRizBZ1GDnsI31DYTba.jpg"
+  },
+  "name": "Boston Blue",
+  "next_episode_to_air": {
+    "id": 7497026,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-09",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 284736,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 23,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Boston Blue",
+  "overview": "NYPD Detective Danny Reagan takes a job with the Boston PD and is paired with Detective Lena Silver, part of a law enforcement family comprised of District Attorney Mae Silver, Police Superintendent Sarah Silver, rookie cop Jonah Silver and Rev. Edwin Peters. Reagan hopes to reconnect with his son, Sean, in Boston.",
+  "popularity": 18.2979,
+  "poster_path": "/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 40041,
+      "logo_path": "/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png",
+      "name": "Jerry Bruckheimer Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-10-17",
+      "episode_count": 20,
+      "id": 443218,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nPqQ4NEh7LefF3BEFveJ4QtB92F.jpg",
+      "season_number": 1,
+      "vote_average": 3.7
+    },
+    {
+      "air_date": "2026-10-09",
+      "episode_count": 3,
+      "id": 528599,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Boston just got a little bit bluer.",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 67,
+  "external_ids": {
+    "id": 284736,
+    "imdb_id": "tt35826715",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 460392,
+    "tvrage_id": null,
+    "wikidata_id": "Q133262326",
+    "facebook_id": "bostonbluecbs",
+    "instagram_id": "bostonbluecbs",
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "adult": false,
+  "backdrop_path": "/7r8yFX2mYLvCUJWIfG8eSPULrbl.jpg",
+  "created_by": [
+    {
+      "id": 4995394,
+      "credit_id": "679e764280082986c8cb4dc4",
+      "name": "Stephen Cole",
+      "original_name": "Stephen Cole",
+      "gender": 2,
+      "profile_path": "/i01FKnvFCtDGAvW7UdccOkVqSPy.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2000-04-06",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/b006m9ry",
+  "id": 15161,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-22",
+  "last_episode_to_air": {
+    "id": 6069633,
+    "name": "Superhuman",
+    "overview": "From robots and exoskeletons to brain-computer interfaces, Lara Lewington explores how technology and AI are transforming what it means to be human.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-03-22",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 26,
+    "show_id": 15161,
+    "still_path": "/a1Ub7OLH8LWRyxCXqNcONlValxS.jpg"
+  },
+  "name": "Click",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 317,
+      "logo_path": "/yuOtygmPUMApqkXAckfYe1UGRIe.png",
+      "name": "BBC World News",
+      "origin_country": ""
+    },
+    {
+      "id": 375,
+      "logo_path": "/xbTKw7WDTBzjdB7CFubWsNm5rzT.png",
+      "name": "BBC News",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 1005,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Click",
+  "overview": "Your user-friendly guide to the latest technology news, issues, gadgets and apps.",
+  "popularity": 17.8154,
+  "poster_path": "/osUNbnb0iVTRpyhNnO153ddfXBh.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2000-04-06",
+      "episode_count": 1,
+      "id": 216552,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-06",
+      "episode_count": 1,
+      "id": 216551,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-05",
+      "episode_count": 1,
+      "id": 216550,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-04",
+      "episode_count": 1,
+      "id": 216548,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-03",
+      "episode_count": 1,
+      "id": 69607,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 53,
+      "id": 69606,
+      "name": "2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-07",
+      "episode_count": 51,
+      "id": 69605,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-06",
+      "episode_count": 52,
+      "id": 69604,
+      "name": "2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-05",
+      "episode_count": 52,
+      "id": 69603,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-03",
+      "episode_count": 52,
+      "id": 69602,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-02",
+      "episode_count": 52,
+      "id": 69601,
+      "name": "2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-01",
+      "episode_count": 53,
+      "id": 69600,
+      "name": "2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-07",
+      "episode_count": 52,
+      "id": 69599,
+      "name": "2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-05",
+      "episode_count": 52,
+      "id": 69598,
+      "name": "2013",
+      "overview": "User-friendly guide to the latest technology news, issues, gadgets and apps.",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-04",
+      "episode_count": 52,
+      "id": 69597,
+      "name": "2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-03",
+      "episode_count": 50,
+      "id": 69596,
+      "name": "2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 49,
+      "id": 216556,
+      "name": "2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-07",
+      "episode_count": 50,
+      "id": 84203,
+      "name": "2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-06",
+      "episode_count": 51,
+      "id": 216557,
+      "name": "2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-05",
+      "episode_count": 50,
+      "id": 216558,
+      "name": "2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-04",
+      "episode_count": 53,
+      "id": 177086,
+      "name": "2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-02",
+      "episode_count": 50,
+      "id": 216559,
+      "name": "2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-08",
+      "episode_count": 43,
+      "id": 282434,
+      "name": "2022",
+      "overview": "The BBC's flagship technology news programme. Click (previously Click Online) is a weekly BBC television programme covering news and recent developments in the world of consumer technology, presented by Spencer Kelly.",
+      "poster_path": "/oraSwjK5L8SNxzC9G9Fitqba6dG.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-14",
+      "episode_count": 43,
+      "id": 328397,
+      "name": "2023",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-13",
+      "episode_count": 32,
+      "id": 421527,
+      "name": "2024",
+      "overview": "Exploring the latest tech innovations shaping our lives.",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-11",
+      "episode_count": 8,
+      "id": 435403,
+      "name": "2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 6.1,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 15161,
+    "imdb_id": "tt2039535",
+    "freebase_mid": "/m/02yt4g",
+    "freebase_id": null,
+    "tvdb_id": 84312,
+    "tvrage_id": 30328,
+    "wikidata_id": "Q5132413",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

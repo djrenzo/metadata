@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/yZGM43zqKnucw1iMgH63zcmr9uk.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2024-09-15",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.rtve.es/play/videos/la-trampa/",
+  "id": 327590,
+  "in_production": false,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2024-12-14",
+  "last_episode_to_air": {
+    "id": 7472243,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-12-14",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 1,
+    "show_id": 327590,
+    "still_path": null
+  },
+  "name": "La trampa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 8790,
+      "logo_path": "/ynZ8UGHp6YRGB3RDKs3r9tX5S1X.png",
+      "name": "La 2",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "La trampa",
+  "overview": "",
+  "popularity": 35.2298,
+  "poster_path": "/8YkVD39LH5ON2Jt9Ij5m2TDUe3A.jpg",
+  "production_companies": [
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    },
+    {
+      "id": 234891,
+      "logo_path": null,
+      "name": "MediaPlay",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-15",
+      "episode_count": 30,
+      "id": 527396,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nQ8dj1mgkOS2Kg2y6MWZ4ehEVhY.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 327590,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

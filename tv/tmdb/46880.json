@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/fs5VXKvIUcfTn3nsc3g4s3OIcV4.jpg",
+  "created_by": [
+    {
+      "id": 1257795,
+      "credit_id": "525973d1760ee34661a57ccf",
+      "name": "Bradley Bredeweg",
+      "original_name": "Bradley Bredeweg",
+      "gender": 2,
+      "profile_path": "/viya7bdfpI2IcPArS7hAwZ73hO6.jpg"
+    },
+    {
+      "id": 151380,
+      "credit_id": "525973d1760ee34661a57cd5",
+      "name": "Peter Paige",
+      "original_name": "Peter Paige",
+      "gender": 2,
+      "profile_path": "/9qLFoMRyGjYx0yjdNvJLyR5m3OR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2013-06-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://freeform.go.com/shows/the-fosters",
+  "id": 46880,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-06-06",
+  "last_episode_to_air": {
+    "id": 1498558,
+    "name": "Where the Heart Is",
+    "overview": "After a turbulent few days in Turks & Caicos, the family starts to question if the wedding will actually take place. The moms make a huge decision that will change the family forever.",
+    "vote_average": 6,
+    "vote_count": 4,
+    "air_date": "2018-06-06",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 5,
+    "show_id": 46880,
+    "still_path": "/7wqKWLKaxcUTnptHs9DkccO48jg.jpg"
+  },
+  "name": "The Fosters",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 75,
+      "logo_path": "/p57JGkSUBdXbOtqkEKeTnfHn7kd.png",
+      "name": "ABC Family",
+      "origin_country": "US"
+    },
+    {
+      "id": 1267,
+      "logo_path": "/jk2Z7WH6JnHSZrxouYh4sireM3a.png",
+      "name": "Freeform",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Fosters",
+  "overview": "Stef Foster, a dedicated police officer, and her partner Lena Adams, a school vice principal, have built a close-knit, loving family with Stef's biological son from a previous marriage, Brandon, and their adopted twins, Mariana and Jesus. Their lives are disrupted in unexpected ways when Lena meets Callie, a hardened teen with an abusive past who has spent her life in and out of foster homes. Lena and Stef welcome Callie and her brother, Jude, into their home thinking it's just for a few weeks, until a more permanent placement can be found. But life has something else in store for the Fosters.",
+  "popularity": 20.6785,
+  "poster_path": "/iRCmazqaUNNsgZyR6tNDl88pXp3.jpg",
+  "production_companies": [
+    {
+      "id": 24462,
+      "logo_path": null,
+      "name": "ProdCo",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1620,
+      "logo_path": "/yTI712cgl8hh6FNT5E6td0eHfNb.png",
+      "name": "Nuyorican Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-03-02",
+      "episode_count": 5,
+      "id": 120851,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/4gAR8nsNPTbkZrDbvMYwEU53CI1.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-03",
+      "episode_count": 21,
+      "id": 61281,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dvMGenWysziO9xyFwKdn9GWC5tn.jpg",
+      "season_number": 1,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2014-06-16",
+      "episode_count": 21,
+      "id": 61282,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/q4TVeSPOFz3rjRp6xZjYFZ4rbyW.jpg",
+      "season_number": 2,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2015-06-08",
+      "episode_count": 20,
+      "id": 66954,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/mTFUPbU3hDTZ5Xu3rKx8ZtdRP7T.jpg",
+      "season_number": 3,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2016-06-20",
+      "episode_count": 20,
+      "id": 77079,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/lgorRypmIFOBMduwAJyAfwIy6gY.jpg",
+      "season_number": 4,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2017-07-10",
+      "episode_count": 22,
+      "id": 86022,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/h8pYmBwj76Pi2vt8HFnzdlsjEsA.jpg",
+      "season_number": 5,
+      "vote_average": 5.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "How do you define family?",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 334,
+  "external_ids": {
+    "id": 46880,
+    "imdb_id": "tt2262532",
+    "freebase_mid": "/m/0rpfmqq",
+    "freebase_id": null,
+    "tvdb_id": 267907,
+    "tvrage_id": 33919,
+    "wikidata_id": "Q7734937",
+    "facebook_id": "TheFostersTV",
+    "instagram_id": "thefosterstv",
+    "twitter_id": "TheFostersTV"
+  }
+}

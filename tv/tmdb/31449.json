@@ -1,0 +1,399 @@
+{
+  "adult": false,
+  "backdrop_path": "/lgI98jt69LFv4GWj0RmOaLU69sK.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    58
+  ],
+  "first_air_date": "2009-01-16",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.nrk.no/programmer/sider/skavlan/",
+  "id": 31449,
+  "in_production": false,
+  "languages": [
+    "en",
+    "no",
+    "sv"
+  ],
+  "last_air_date": "2021-12-03",
+  "last_episode_to_air": {
+    "id": 3338025,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-03",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 25,
+    "show_id": 31449,
+    "still_path": "/lMgzcTtMjGOieHDuCaKZj814D0G.jpg"
+  },
+  "name": "Skavlan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 379,
+      "logo_path": "/8bsyUus23sgM2XPq88kGTnlgDaz.png",
+      "name": "NRK1",
+      "origin_country": "NO"
+    },
+    {
+      "id": 1208,
+      "logo_path": "/A8L0PEH6QEMB1SszGWuBaRdOghT.png",
+      "name": "Yle Fem",
+      "origin_country": "FI"
+    },
+    {
+      "id": 196,
+      "logo_path": "/hEQOKk1xy10ptfm8nF6ahfKN4X8.png",
+      "name": "DR2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 297,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "NO",
+    "SE"
+  ],
+  "original_language": "no",
+  "original_name": "Skavlan",
+  "overview": "Skavlan is a Norwegian-Swedish television talk show hosted by Norwegian journalist Fredrik Skavlan. It premiered in Sweden on Sveriges Television in January 2009, and the first guests to appear on the show were former Prime Minister of Sweden Göran Persson and his wife Anitra Steen. On 8 May 2009, it was announced that Skavlan had been renewed for a second season. It was also announced that the show would no longer only be produced by SVT in Sweden; Skavlan would now be partly produced in Norway by the Norwegian Broadcasting Corporation. The first twelve episodes of Skavlan's second season were produced by SVT in Sweden, and the remaining twelve by NRK in Norway.\n\nSkavlan speaks Norwegian and his dialog is therefore subtitled in Swedish in Sweden, even though the two languages are quite similar and mutually intelligible. If the persons being interviewed by Skavlan are Swedish, he often tells them to let him know if they do not understand what he is saying. Swedish novelist Jan Guillou has criticized SVT for subtitling the program, stating \"there is no need for that. If the host had been Danish, subtitling would have been necessary, but with a Norwegian host it does not make any sense.\"",
+  "popularity": 23.7387,
+  "poster_path": "/aDQoVmOfYIy7iGEQno9NtxDmaDI.jpg",
+  "production_companies": [
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 109843,
+      "logo_path": "/iwkwIEXWIPApzedElW5sY8LFZSx.png",
+      "name": "NRK",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 42995,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-16",
+      "episode_count": 8,
+      "id": 42993,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-18",
+      "episode_count": 13,
+      "id": 42994,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-15",
+      "episode_count": 11,
+      "id": 42990,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-24",
+      "episode_count": 12,
+      "id": 42992,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-14",
+      "episode_count": 12,
+      "id": 42996,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-16",
+      "episode_count": 12,
+      "id": 42989,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-13",
+      "episode_count": 11,
+      "id": 42991,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-07",
+      "episode_count": 12,
+      "id": 70801,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-18",
+      "episode_count": 12,
+      "id": 42997,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-13",
+      "episode_count": 12,
+      "id": 70796,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-10",
+      "episode_count": 12,
+      "id": 70797,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-19",
+      "episode_count": 12,
+      "id": 70798,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-09",
+      "episode_count": 12,
+      "id": 70799,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-18",
+      "episode_count": 13,
+      "id": 70800,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-08",
+      "episode_count": 11,
+      "id": 204044,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-09",
+      "episode_count": 12,
+      "id": 204051,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-13",
+      "episode_count": 13,
+      "id": 204052,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-15",
+      "episode_count": 12,
+      "id": 204053,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-12",
+      "episode_count": 11,
+      "id": 208542,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-14",
+      "episode_count": 12,
+      "id": 219533,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-11",
+      "episode_count": 13,
+      "id": 219534,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-20",
+      "episode_count": 12,
+      "id": 219535,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-10",
+      "episode_count": 13,
+      "id": 208543,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-18",
+      "episode_count": 12,
+      "id": 211380,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-17",
+      "episode_count": 12,
+      "id": 211381,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 31449,
+    "imdb_id": "tt1366792",
+    "freebase_mid": "/m/09gkcsr",
+    "freebase_id": "/en/skavlan",
+    "tvdb_id": 116631,
+    "tvrage_id": null,
+    "wikidata_id": "Q4574497",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

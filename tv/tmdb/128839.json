@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/qhaPuyznsxb13wSQbpqSDqtNuX8.jpg",
+  "created_by": [
+    {
+      "id": 1347275,
+      "credit_id": "612439c53a9650007dfc9fe6",
+      "name": "David Appelbaum",
+      "original_name": "David Appelbaum",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2021-09-28",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "https://www.nbc.com/la-brea",
+  "id": 128839,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-02-13",
+  "last_episode_to_air": {
+    "id": 4707066,
+    "name": "The Road Home (2)",
+    "overview": "Gavin leads the survivors in trying to find Eve, Josh and Riley. Will he be able to finally reunite his family and still find a way back to the lives they once knew?",
+    "vote_average": 5.7,
+    "vote_count": 13,
+    "air_date": "2024-02-13",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 128839,
+    "still_path": "/3cNTpM9rK0yfSJaa9HMgelzJzUF.jpg"
+  },
+  "name": "La Brea",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "La Brea",
+  "overview": "An epic adventure begins when a massive sinkhole opens in the middle of Los Angeles, pulling hundreds of people and buildings into its depths. Those who fell in find themselves in a mysterious and dangerous primeval land, where they have no choice but to band together to survive. Meanwhile, the rest of the world desperately seeks to understand what happened. In the search for answers, one family torn apart by this disaster will have to unlock the secrets of this inexplicable event to find a way back to each other.",
+  "popularity": 21.6356,
+  "poster_path": "/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+  "production_companies": [
+    {
+      "id": 116068,
+      "logo_path": "/m1Ne6EAi89W6oGSYUnY4KTZq0qd.png",
+      "name": "Keshet Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 29506,
+      "logo_path": "/6006n0zLX6EqGkOO1JIIbkeLDTp.png",
+      "name": "Matchbox Pictures",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-28",
+      "episode_count": 10,
+      "id": 201640,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nsoRsiUEakEO7VMIoa6Jkw4cPHs.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2022-09-27",
+      "episode_count": 14,
+      "id": 296818,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wEo5pzSZ3MF4EzNvY2R1OZNX266.jpg",
+      "season_number": 2,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2024-01-09",
+      "episode_count": 6,
+      "id": 355675,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/qIGwiy0eUkRQnQ4UYivRfhMSZUd.jpg",
+      "season_number": 3,
+      "vote_average": 5.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "One family torn between two worlds...",
+  "type": "Scripted",
+  "vote_average": 7.425,
+  "vote_count": 1611,
+  "external_ids": {
+    "id": 128839,
+    "imdb_id": "tt11640018",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 395029,
+    "tvrage_id": null,
+    "wikidata_id": "Q106726747",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

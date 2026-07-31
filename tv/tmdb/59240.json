@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/nNcfC9ZiMwZXNgWI1liyPgLRmef.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45,
+    30
+  ],
+  "first_air_date": "2009-09-07",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "",
+  "id": 59240,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2012-07-27",
+  "last_episode_to_air": {
+    "id": 1820123,
+    "name": "Episode 234",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-07-27",
+    "episode_number": 234,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 59240,
+    "still_path": null
+  },
+  "name": "Dumont",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 583,
+      "logo_path": "/l3TVdYRGHqcDWMXxHdofswgynW9.png",
+      "name": "V",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 675,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Dumont",
+  "overview": "A public affairs show hosted by Mario Dumont. With an experienced team backing him up, Dumont proposes news stories, conducts interviews with citizens and players in the news, and provides his own comments, which are the fruit of his most recent observations.",
+  "popularity": 25.831,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 15585,
+      "logo_path": "/ePyhT2loUXRIv7SZ6LIlvKllsdP.png",
+      "name": "Zone3",
+      "origin_country": "CA"
+    },
+    {
+      "id": 71896,
+      "logo_path": null,
+      "name": "La Presse Télé",
+      "origin_country": "CA"
+    },
+    {
+      "id": 119650,
+      "logo_path": null,
+      "name": "Télé-Vision",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-07",
+      "episode_count": 186,
+      "id": 125961,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 255,
+      "id": 125963,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-29",
+      "episode_count": 234,
+      "id": 125977,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 59240,
+    "imdb_id": null,
+    "freebase_mid": "/m/076xyh4",
+    "freebase_id": "/en/dumont_360",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

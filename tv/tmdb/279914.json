@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/kUbFHFrbVBpo1XiNCczFqfhvRvG.jpg",
+  "created_by": [
+    {
+      "id": 2286831,
+      "credit_id": "698ae2953de989b530b70c34",
+      "name": "Matúš Libovič",
+      "original_name": "Matúš Libovič",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1192206,
+      "credit_id": "698ae2a4aa1d2273cad7f1d6",
+      "name": "Vladimír Fischer",
+      "original_name": "Vladimír Fischer",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2286833,
+      "credit_id": "698ae2adac4d894dafb70cfc",
+      "name": "Miloš Volný",
+      "original_name": "Miloš Volný",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-13",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 279914,
+  "in_production": true,
+  "languages": [
+    "cs",
+    "fr",
+    "ru",
+    "sk"
+  ],
+  "last_air_date": "2026-06-25",
+  "last_episode_to_air": {
+    "id": 7360258,
+    "name": "Episode 105",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-25",
+    "episode_number": 105,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 3,
+    "show_id": 279914,
+    "still_path": null
+  },
+  "name": "Promise",
+  "next_episode_to_air": {
+    "id": 7430714,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 279914,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 550,
+      "logo_path": "/e3v7L2zlVEO1GLH7pv0f1CNFIeK.png",
+      "name": "Markíza",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 285,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Sľub",
+  "overview": "",
+  "popularity": 29.1273,
+  "poster_path": "/ywaHSBDEAgxqjebw5CQoAjISwA5.jpg",
+  "production_companies": [
+    {
+      "id": 94720,
+      "logo_path": null,
+      "name": "Markíza Slovakia",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-12-11",
+      "episode_count": 1,
+      "id": 488940,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-13",
+      "episode_count": 110,
+      "id": 433985,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ywaHSBDEAgxqjebw5CQoAjISwA5.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 70,
+      "id": 466515,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/v0bazZzTTgfpMAz6tR1a6EAnKnl.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-26",
+      "episode_count": 105,
+      "id": 492349,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/mYx4irPyYgVbDZVTcsgB2h7YSkq.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-09-01",
+      "episode_count": 1,
+      "id": 525187,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 279914,
+    "imdb_id": "tt35082595",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 458664,
+    "tvrage_id": null,
+    "wikidata_id": "Q131910610",
+    "facebook_id": "slubserialtvmarkiza",
+    "instagram_id": "slub.markiza",
+    "twitter_id": null
+  }
+}

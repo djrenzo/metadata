@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/14aJrAGtZvAgCwIhZOfVMTqIjtp.jpg",
+  "created_by": [
+    {
+      "id": 484466,
+      "credit_id": "55e0ca309251416f8a0009a5",
+      "name": "Christopher Murphey",
+      "original_name": "Christopher Murphey",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2011-03-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.abc.go.com/shows/body-of-proof",
+  "id": 32708,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-05-28",
+  "last_episode_to_air": {
+    "id": 769561,
+    "name": "Daddy Issues",
+    "overview": "Megan's father's exhumation uncovers more questions about what she always believed was a suicide, and her mother suggests she examine his patient files for clues about his death and that of a patient.",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "air_date": "2013-05-28",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 3,
+    "show_id": 32708,
+    "still_path": "/mntsw7pMlgo7Kn6CGBnhNR1q7eb.jpg"
+  },
+  "name": "Body of Proof",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 42,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Body of Proof",
+  "overview": "Dr. Megan Hunt was in a class of her own, a brilliant neurosurgeon at the top of her game. But her world is turned upside down when a devastating car accident puts an end to her time in the operating room. Megan resumes her career as a medical examiner, determined to solve the puzzle of who or what killed the victims.",
+  "popularity": 21.0508,
+  "poster_path": "/8LyLUgvwawgnNKOzIFX5lSgTNeq.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 202676,
+      "logo_path": null,
+      "name": "Matthew Gross Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 202702,
+      "logo_path": null,
+      "name": "Arcturus Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 87390,
+      "logo_path": null,
+      "name": "Gross Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-03-29",
+      "episode_count": 9,
+      "id": 43977,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6XfT4ZecqSUllvJhdIpE57LxgSi.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2011-09-20",
+      "episode_count": 20,
+      "id": 43978,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8OqrFDW27UFX4qsIKX7RscN9f0U.jpg",
+      "season_number": 2,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2013-02-19",
+      "episode_count": 13,
+      "id": 43979,
+      "name": "Season 3",
+      "overview": "After losing a partner, Megan's forced to team up with a new team of detectives to solve murder cases while keeping her old company in arm's length. Meanwhile, Kate ventures into politics, and Lacey finds herself in a dangerous situation.",
+      "poster_path": "/ybH7wQI4nau3v2JZbvpvtHHrHfK.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Get away with murder? Over her dead bodies.",
+  "type": "Scripted",
+  "vote_average": 7.06,
+  "vote_count": 192,
+  "external_ids": {
+    "id": 32708,
+    "imdb_id": "tt1587669",
+    "freebase_mid": "/m/0by0t44",
+    "freebase_id": null,
+    "tvdb_id": 167591,
+    "tvrage_id": 25718,
+    "wikidata_id": "Q890085",
+    "facebook_id": "BodyofProof",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

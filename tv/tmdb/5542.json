@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-05-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://web.archive.org/web/20081120060758/http://www.teleset.com.co/Espanol/Nuestras_Producciones/DRAMATIZADOS/Los_Protegidos",
+  "id": 5542,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2009-01-29",
+  "last_episode_to_air": {
+    "id": 6023823,
+    "name": "Episode 110",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-01-29",
+    "episode_number": 110,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 5542,
+    "still_path": null
+  },
+  "name": "Los protegidos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 110,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Los protegidos",
+  "overview": "Los Protegidos is a Colombian telenovela aired since May 6, 2008 on Colombian TV network RCN. This telenovela is produced by Teleset and it was created as a counterweight for Caracol Televisión's new production El Cartel, but it was premiered before this last one in order to get a higher impact in the viewers.",
+  "popularity": 31.4291,
+  "poster_path": "/o4kvOnpcALPmn66eTC4MocHfRGr.jpg",
+  "production_companies": [
+    {
+      "id": 92435,
+      "logo_path": "/sS2aoNfKagyNkYDM9HNSsgciut2.png",
+      "name": "Teleset",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-05-06",
+      "episode_count": 110,
+      "id": 89838,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 5542,
+    "imdb_id": "tt1264036",
+    "freebase_mid": "/m/047mp0c",
+    "freebase_id": "/en/los_protegidos",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6683175",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

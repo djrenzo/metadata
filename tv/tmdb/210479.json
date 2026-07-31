@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/qgjIQAq2IWAVCTEd8FYpsWXuv6P.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2023-04-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.noovo.ca/emissions/survivor-quebec",
+  "id": 210479,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-05-05",
+  "last_episode_to_air": {
+    "id": 7358634,
+    "name": "Episode 63",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-21",
+    "episode_number": 63,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 67,
+    "season_number": 4,
+    "show_id": 210479,
+    "still_path": null
+  },
+  "name": "Survivor Québec",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4161,
+      "logo_path": "/7dzxnDuCswtRkN9pSSUM7n6Lprn.png",
+      "name": "Noovo",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 235,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Survivor Québec",
+  "overview": "For over 40 days days, 20 players isolated on an exotic island in the Philippines will face extreme mental and physical challenges. They will have to use strategy to survive the eliminations in order to become the sole survivor and get their hands on the $100,000 grand prize!",
+  "popularity": 31.7781,
+  "poster_path": "/ur3ui4ueknPN6vHTowo1BQKhs4g.jpg",
+  "production_companies": [
+    {
+      "id": 39076,
+      "logo_path": "/8xKeChwnsCQgj0copyI6TtwWOyU.png",
+      "name": "Productions J",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-04-02",
+      "episode_count": 67,
+      "id": 309081,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xS6JO8EUJ7JHQpPoNMKrK7Q6Klo.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2024-03-31",
+      "episode_count": 67,
+      "id": 384835,
+      "name": "Season 2",
+      "overview": "For over 40 days days, 20 players isolated on an exotic island in the Philippines will face extreme mental and physical challenges. They will have to use strategy to survive the eliminations in order to become the sole survivor and get their hands on the $100,000 grand prize!",
+      "poster_path": "/laDI40QOOxRaJrmYHB3Ek5Cwvsl.jpg",
+      "season_number": 2,
+      "vote_average": 2.6
+    },
+    {
+      "air_date": "2025-03-30",
+      "episode_count": 67,
+      "id": 444301,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/d0QyRPMMx5LPkO1zDp8WyrTRUma.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-04-05",
+      "episode_count": 63,
+      "id": 502688,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/ur3ui4ueknPN6vHTowo1BQKhs4g.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.727,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 210479,
+    "imdb_id": "tt32636282",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 430991,
+    "tvrage_id": null,
+    "wikidata_id": "Q134250227",
+    "facebook_id": "survivorquebec.noovo",
+    "instagram_id": "survivor.quebec",
+    "twitter_id": null
+  }
+}

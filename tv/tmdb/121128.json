@@ -1,0 +1,286 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1972-02-19",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 121128,
+  "in_production": false,
+  "languages": [
+    "cs",
+    "sk"
+  ],
+  "last_air_date": "1987-11-21",
+  "last_episode_to_air": {
+    "id": 2822885,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1987-11-21",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 16,
+    "show_id": 121128,
+    "still_path": null
+  },
+  "name": "Bakaláři",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 310,
+      "logo_path": "/usWXQzUqjcRQ2fZYaKae5G0941M.png",
+      "name": "Československá televize",
+      "origin_country": "XC"
+    }
+  ],
+  "number_of_episodes": 188,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "XC"
+  ],
+  "original_language": "cs",
+  "original_name": "Bakaláři",
+  "overview": "",
+  "popularity": 19.7032,
+  "poster_path": "/vTTtopyAMYOUEf6DcA8z3WjNe7q.jpg",
+  "production_companies": [
+    {
+      "id": 18199,
+      "logo_path": "/mDjPjvkTpRywYMGcuNReCe4xWbG.png",
+      "name": "Československá televize Praha",
+      "origin_country": "XC"
+    },
+    {
+      "id": 121596,
+      "logo_path": "/mDjPjvkTpRywYMGcuNReCe4xWbG.png",
+      "name": "Československá televize Ostrava",
+      "origin_country": "XC"
+    },
+    {
+      "id": 121216,
+      "logo_path": "/mDjPjvkTpRywYMGcuNReCe4xWbG.png",
+      "name": "Československá televize Brno",
+      "origin_country": "XC"
+    },
+    {
+      "id": 28449,
+      "logo_path": "/mDjPjvkTpRywYMGcuNReCe4xWbG.png",
+      "name": "Československá televízia Bratislava",
+      "origin_country": "XC"
+    },
+    {
+      "id": 205911,
+      "logo_path": "/80JT55sO45hljoTgVTeU7U8RPXc.png",
+      "name": "Československá televízia Košice",
+      "origin_country": "XC"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1972-02-19",
+      "episode_count": 3,
+      "id": 187714,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-03-17",
+      "episode_count": 6,
+      "id": 187715,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-19",
+      "episode_count": 13,
+      "id": 187716,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-04",
+      "episode_count": 14,
+      "id": 187717,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1976-01-17",
+      "episode_count": 13,
+      "id": 187718,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-15",
+      "episode_count": 14,
+      "id": 187719,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-14",
+      "episode_count": 12,
+      "id": 187720,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-13",
+      "episode_count": 13,
+      "id": 187721,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-26",
+      "episode_count": 12,
+      "id": 187722,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-24",
+      "episode_count": 14,
+      "id": 187723,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-23",
+      "episode_count": 12,
+      "id": 187724,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-22",
+      "episode_count": 13,
+      "id": 187725,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-21",
+      "episode_count": 13,
+      "id": 187726,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-19",
+      "episode_count": 13,
+      "id": 187727,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-18",
+      "episode_count": 13,
+      "id": 187728,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-14",
+      "episode_count": 10,
+      "id": 187729,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 121128,
+    "imdb_id": "tt1481585",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 284165,
+    "tvrage_id": null,
+    "wikidata_id": "Q17138623",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

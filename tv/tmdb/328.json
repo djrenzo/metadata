@@ -1,0 +1,294 @@
+{
+  "adult": false,
+  "backdrop_path": "/ieJ82Oq4XKvOTZTr6WL6Pv1QKlk.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1989-05-08",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.abc.net.au/mediawatch/",
+  "id": 328,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-12",
+  "last_episode_to_air": {
+    "id": 7516611,
+    "name": "Monday 27/7/2026",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-27",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2026,
+    "show_id": 328,
+    "still_path": null
+  },
+  "name": "Media Watch",
+  "next_episode_to_air": {
+    "id": 7516618,
+    "name": "Monday 3/8/2026",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-03",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2026,
+    "show_id": 328,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 18,
+      "logo_path": "/kMvN5R8g6L0SY5r9YZw9foYGQr0.png",
+      "name": "ABC TV",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 600,
+  "number_of_seasons": 18,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Media Watch",
+  "overview": "An Australian media analysis television program currently focusing on critiquing the Australian media.",
+  "popularity": 20.0374,
+  "poster_path": "/bcXx6gLX6L79B7qXd4COjy2ZNV.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-05-07",
+      "episode_count": 1,
+      "id": 977,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-05-24",
+      "episode_count": 22,
+      "id": 964,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-07",
+      "episode_count": 39,
+      "id": 965,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-08",
+      "episode_count": 32,
+      "id": 966,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-02-10",
+      "episode_count": 39,
+      "id": 967,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-02-09",
+      "episode_count": 41,
+      "id": 968,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-04-25",
+      "episode_count": 29,
+      "id": 969,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-13",
+      "episode_count": 38,
+      "id": 970,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-26",
+      "episode_count": 34,
+      "id": 971,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-09",
+      "episode_count": 40,
+      "id": 974,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-08",
+      "episode_count": 17,
+      "id": 973,
+      "name": "Season 2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2010,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-07",
+      "episode_count": 39,
+      "id": 975,
+      "name": "Season 2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2011,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-06",
+      "episode_count": 42,
+      "id": 976,
+      "name": "Season 2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2012,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-01",
+      "episode_count": 43,
+      "id": 74166,
+      "name": "Season 2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2016,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-06",
+      "episode_count": 44,
+      "id": 122488,
+      "name": "Season 2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2017,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-05",
+      "episode_count": 44,
+      "id": 122481,
+      "name": "Season 2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2018,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-04",
+      "episode_count": 43,
+      "id": 122478,
+      "name": "Season 2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2019,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-03",
+      "episode_count": 14,
+      "id": 441061,
+      "name": "Season 2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2025,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-02",
+      "episode_count": 28,
+      "id": 527136,
+      "name": "Season 2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2026,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5.7,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 328,
+    "imdb_id": "tt0983200",
+    "freebase_mid": "/m/0468dl",
+    "freebase_id": "/en/media_watch",
+    "tvdb_id": 82616,
+    "tvrage_id": 7565,
+    "wikidata_id": "Q6805564",
+    "facebook_id": "ABCMediaWatch",
+    "instagram_id": null,
+    "twitter_id": "ABCmediawatch"
+  }
+}

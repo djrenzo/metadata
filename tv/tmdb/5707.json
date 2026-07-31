@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/23lNmbDMwJtY3kIk2tqr822cfxR.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2003-11-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://tv.sbs.co.kr/xman/",
+  "id": 5707,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2007-04-08",
+  "last_episode_to_air": {
+    "id": 1192576,
+    "name": "X-Man Good-Bye Special",
+    "overview": "Series finale featuring highlights from past shows.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-04-08",
+    "episode_number": 23,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 5707,
+    "still_path": null
+  },
+  "name": "X-Man",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 181,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "X맨",
+  "overview": "Celebrity guests are split into two teams to compete in various contests. One guest, known only to himself, is designated the \"X-Man\", and does his best to cause his team to lose the contests. At the end, all guests try to determine the X-Man's identity.",
+  "popularity": 19.9985,
+  "poster_path": "/lqxp7BHGvTcrwU5WZr4FuDCvNNS.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-07-17",
+      "episode_count": 13,
+      "id": 473811,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/ex2AKOkQoqmlQVkz8k8U4ggBEp.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-11-08",
+      "episode_count": 158,
+      "id": 77001,
+      "name": "X-Man",
+      "overview": "",
+      "poster_path": "/ex2AKOkQoqmlQVkz8k8U4ggBEp.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-11-05",
+      "episode_count": 23,
+      "id": 77002,
+      "name": "New X-Man",
+      "overview": "",
+      "poster_path": "/4G3d1nbTnWi3i3Pi77ca6GKl3w.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 5707,
+    "imdb_id": null,
+    "freebase_mid": "/m/03bzzvb",
+    "freebase_id": "/en/x_man",
+    "tvdb_id": 265230,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

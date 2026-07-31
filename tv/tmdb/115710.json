@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/pje20nCCtLlp0qmvwjnU10vv3vT.jpg",
+  "created_by": [
+    {
+      "id": 140457,
+      "credit_id": "5fef6e5c4e4dff004197f273",
+      "name": "Dieudonné",
+      "original_name": "Dieudonné",
+      "gender": 2,
+      "profile_path": "/hcAXaCmKECdvW3pXZYseJs9JJBG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2020-05-20",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://quenelplus.com/vod/la-quotidienne",
+  "id": 115710,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-01-14",
+  "last_episode_to_air": {
+    "id": 3453906,
+    "name": "Episode 390",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-01-14",
+    "episode_number": 390,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 115710,
+    "still_path": "/xH1X5ce7hdnewKYDU6Z4CqSG8Oh.jpg"
+  },
+  "name": "La Quotidienne",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4407,
+      "logo_path": "/36QZIil04gLRzjb5H1cAadUqWPt.png",
+      "name": "Quenel+",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 390,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "La Quotidienne",
+  "overview": "",
+  "popularity": 22.9219,
+  "poster_path": "/4H4S193bMwOqhJWBfjSTE9gE2WA.jpg",
+  "production_companies": [
+    {
+      "id": 154906,
+      "logo_path": null,
+      "name": "Quenel +",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-07-04",
+      "episode_count": 31,
+      "id": 176585,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/vkNrNzTE7lQr5JGKoAIvFzx3NVx.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-20",
+      "episode_count": 390,
+      "id": 174542,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/opXuz3Q0clAmPydOJPx3zy0NR8H.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 115710,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

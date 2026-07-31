@@ -1,0 +1,207 @@
+{
+  "adult": false,
+  "backdrop_path": "/gBa58sKvNWnxwdJVZrPO9iEApPc.jpg",
+  "created_by": [
+    {
+      "id": 1744344,
+      "credit_id": "5a3286e20e0a264ccd1a3462",
+      "name": "David Broncano",
+      "original_name": "David Broncano",
+      "gender": 2,
+      "profile_path": "/3dWvY439YjtwMapPfdEKB5vTnV5.jpg"
+    },
+    {
+      "id": 1744346,
+      "credit_id": "5a3286e9925141547b016a75",
+      "name": "Quequé",
+      "original_name": "Quequé",
+      "gender": 2,
+      "profile_path": "/vojYRSEZN8cF2xUPQsh7GNq4FtV.jpg"
+    },
+    {
+      "id": 1185973,
+      "credit_id": "5a3286f10e0a264cbc1a69d9",
+      "name": "Ignatius Farray",
+      "original_name": "Ignatius Farray",
+      "gender": 2,
+      "profile_path": "/2tjWEjbmw2WlkVxSEQksRDn1aOS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2015-03-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://cadenaser.com/programa/la_vida_moderna/",
+  "id": 75702,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2022-06-01",
+  "last_episode_to_air": {
+    "id": 3705351,
+    "name": "Episode 104",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-01",
+    "episode_number": 104,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 75702,
+    "still_path": null
+  },
+  "name": "The Modern Life",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 994,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "La vida moderna",
+  "overview": "",
+  "popularity": 18.7977,
+  "poster_path": "/o5otth5x5l4YNfdBYjJnvVv0Z1C.jpg",
+  "production_companies": [
+    {
+      "id": 121940,
+      "logo_path": "/znHfeHhrEVPABNi5YQ1ls1vplui.png",
+      "name": "Cadena SER",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-03-24",
+      "episode_count": 17,
+      "id": 96576,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-02",
+      "episode_count": 46,
+      "id": 96577,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-05",
+      "episode_count": 170,
+      "id": 96578,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 168,
+      "id": 96579,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 168,
+      "id": 110120,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 163,
+      "id": 187383,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-01",
+      "episode_count": 158,
+      "id": 187384,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-14",
+      "episode_count": 104,
+      "id": 210689,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8.2,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 75702,
+    "imdb_id": "tt6618922",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 321364,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "LaVidaModerna",
+    "instagram_id": "la_vida_moderna",
+    "twitter_id": "vidamoderna"
+  }
+}

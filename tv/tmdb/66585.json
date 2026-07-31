@@ -1,0 +1,333 @@
+{
+  "adult": false,
+  "backdrop_path": "/f5jzs7hyMKoA1UcNizd6GqiriKo.jpg",
+  "created_by": [
+    {
+      "id": 1128363,
+      "credit_id": "5fd09a96325a51003b71e0ac",
+      "name": "Petja Peltomaa",
+      "original_name": "Petja Peltomaa",
+      "gender": 1,
+      "profile_path": "/ln4iueMAR11U9599Kf0vHPQxvsY.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2014-10-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.ruutu.fi/ohjelmat/syke",
+  "id": 66585,
+  "in_production": true,
+  "languages": [
+    "fi"
+  ],
+  "last_air_date": "2026-03-06",
+  "last_episode_to_air": {
+    "id": 7154401,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-17",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 22,
+    "show_id": 66585,
+    "still_path": null
+  },
+  "name": "Nurses",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1007,
+      "logo_path": "/uFxen4Fik1EbOLfzTQC80zZvoeh.png",
+      "name": "Nelonen",
+      "origin_country": "FI"
+    },
+    {
+      "id": 2708,
+      "logo_path": "/ieV9u8Q0WqTvlRcR3TTceA1X2r5.png",
+      "name": "Ruutu",
+      "origin_country": "FI"
+    }
+  ],
+  "number_of_episodes": 522,
+  "number_of_seasons": 22,
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_name": "Syke",
+  "overview": "Like good soldiers in a war-zone, hospital staff are expected to respect the chain of command when dealing with life and death situations. But what happens when smug doctors, arrogant surgeons, and out-of-touch administrators make that easier said than done? Nurses deals with the professional and personal lives of four female colleagues who cope in different ways with the challenges of life on the trauma ward. With determination, strength, and a dark sense of humor, they achieve the demanding and inspiring task of saving lives in a system that sometimes seems designed to do the opposite.",
+  "popularity": 17.4872,
+  "poster_path": "/c1gk4Y3Hkn5quVuiVZps8W5EVxo.jpg",
+  "production_companies": [
+    {
+      "id": 66903,
+      "logo_path": "/dxybqCu0bVTa61kMLY9j6Sl0Xxd.png",
+      "name": "Yellow Film & TV",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-10-29",
+      "episode_count": 10,
+      "id": 77344,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vQCrnaL3ZfNfLxRHQhrx1WN6VGV.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2015-01-07",
+      "episode_count": 10,
+      "id": 77345,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1xJL6BOUe7CxXjiedlwfijt62nz.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-23",
+      "episode_count": 10,
+      "id": 77346,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/lRiZAUJf3mII6o6htAkiDfTkHXg.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-04",
+      "episode_count": 10,
+      "id": 84345,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/1ArWdWhDwdDcqLV1YupBVo6OQOW.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-16",
+      "episode_count": 40,
+      "id": 136155,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/3Wd7l8S9Y6Qaefnsn4AUEA320dS.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-06-07",
+      "episode_count": 36,
+      "id": 136156,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/lW3izelmbAdzdNYCFVWveRbLXc7.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-03",
+      "episode_count": 36,
+      "id": 171556,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/sxN00SeQZjtajV08At54zNzqlYZ.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-12",
+      "episode_count": 24,
+      "id": 171557,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/hssWxzaTEQRZurajXrfhRZM2eEY.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-04",
+      "episode_count": 24,
+      "id": 171558,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/cCTg4gVwRO9VHt23TafQtaIFX0n.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-04",
+      "episode_count": 24,
+      "id": 244080,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/t1RNS5f9IjU5fQTi99lp5OiaqH8.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-06",
+      "episode_count": 32,
+      "id": 244087,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/js9iXz699cd1Xi59x6V8vBaxAyb.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 24,
+      "id": 321101,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/gBLCWYIIx6mG8jq2y6qqhyEHP45.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 24,
+      "id": 321102,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/jY7Gzaj7pL5JBcwCRIDhXA5FUbd.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-04",
+      "episode_count": 25,
+      "id": 340515,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/iyKumsRZKVtpxw60Dq9CABeFkgF.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 29,
+      "id": 358457,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/wmIKeJd77jH1SRIO5WZE3r9Ivhh.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-01",
+      "episode_count": 24,
+      "id": 372686,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/ytYslixSU2GVFCWZwzCJk6QsRNr.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-13",
+      "episode_count": 26,
+      "id": 418628,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-26",
+      "episode_count": 28,
+      "id": 422036,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 24,
+      "id": 441454,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-05-15",
+      "episode_count": 30,
+      "id": 474619,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-09",
+      "episode_count": 24,
+      "id": 474623,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-12",
+      "episode_count": 20,
+      "id": 503849,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 66585,
+    "imdb_id": "tt3871822",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 287618,
+    "tvrage_id": null,
+    "wikidata_id": "Q18679875",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/jN6GqBeUjuQKZHZchGtUTe63mRN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.arte.tv/de/videos/RC-014034/karambolage/",
+  "id": 41271,
+  "in_production": true,
+  "languages": [
+    "fr",
+    "de"
+  ],
+  "last_air_date": "2023-12-03",
+  "last_episode_to_air": {
+    "id": 4830959,
+    "name": "Episode 699",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-03",
+    "episode_number": 699,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 41271,
+    "still_path": null
+  },
+  "name": "Karambolage",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 662,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1628,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 699,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Karambolage",
+  "overview": "Words, rituals, objects, references... Karambolage offers an amused comparative anthropology of the locals on both sides of the Rhine.",
+  "popularity": 17.5996,
+  "poster_path": "/5WAXSj8LXapYR0MCqcWCXvecHJe.jpg",
+  "production_companies": [
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 699,
+      "id": 361604,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 41271,
+    "imdb_id": "tt0460376",
+    "freebase_mid": "/m/02rs2ys",
+    "freebase_id": "/en/karambolage",
+    "tvdb_id": 255521,
+    "tvrage_id": null,
+    "wikidata_id": "Q376413",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

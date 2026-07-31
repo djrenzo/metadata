@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2006-01-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://starplus.indya.com/serials/karam/index.html",
+  "id": 13949,
+  "in_production": false,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2009-03-28",
+  "last_episode_to_air": {
+    "id": 4847966,
+    "name": "Episode 603",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-03-28",
+    "episode_number": 603,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 13949,
+    "still_path": null
+  },
+  "name": "Karam Apnaa Apnaa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 159,
+      "logo_path": "/9cEITzi1VyVkre3Fom57vJBOEW3.png",
+      "name": "StarPlus",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 603,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "करम अपना अपना",
+  "overview": "Karam Apnaa Apnaa is an Indian soap opera that aired on Star Plus and was produced by Ekta Kapoor of Balaji Telefilms.",
+  "popularity": 18.0487,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 87484,
+      "logo_path": "/mr29A83cH7ok59YnuVW2In5PlKi.png",
+      "name": "Balaji Telefilms",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-01-05",
+      "episode_count": 603,
+      "id": 95072,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 13949,
+    "imdb_id": "tt2603432",
+    "freebase_mid": "/m/0260ht_",
+    "freebase_id": "/en/karam_apnaa_apnaa",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6368235",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/teMEUmOn5ZU5BC3Ws2nRbFEuZvI.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1997-01-09",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.pbs.org/wgbh/roadshow/",
+  "id": 33739,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-11",
+  "last_episode_to_air": {
+    "id": 7291620,
+    "name": "Junk in the Trunk 15",
+    "overview": "Visit all five cities from ROADSHOW’s celebratory Season 30 for never-before-seen finds, including a 1961 JFK Santa Claus Letter, a 1979 Ed Ruscha Stage Fright ink on paper, and a John Juzek violin, ca. 1950. Guess the hour’s big find!",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-18",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 30,
+    "show_id": 33739,
+    "still_path": null
+  },
+  "name": "Antiques Roadshow",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 670,
+  "number_of_seasons": 30,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Antiques Roadshow",
+  "overview": "Based on the popular BBC series running since 1979, the PBS Antiques Roadshow combines history with discovery. Each year, the show visits a handful of cities to appraise items brought in by viewers. Are these items worth a lot of money, more than the visitors expect?",
+  "popularity": 17.4801,
+  "poster_path": "/8x5uqmnZoHJtKcOccQInSOEMo7S.jpg",
+  "production_companies": [
+    {
+      "id": 24982,
+      "logo_path": "/7QEPsLccAEMQBksE9bgJSycH6A.png",
+      "name": "Twin Cities Public Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 10197,
+      "logo_path": "/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png",
+      "name": "GBH",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-04-26",
+      "episode_count": 15,
+      "id": 44604,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/xKOEoJuHqITmBGPE1SGSoCLnO81.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-09",
+      "episode_count": 13,
+      "id": 61382,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5ShOwRTY2coKge8048HoSbvBJU0.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-19",
+      "episode_count": 13,
+      "id": 61383,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/uVW6wlduSrrRczl3UCrOD3olpo1.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-18",
+      "episode_count": 16,
+      "id": 61384,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/6GDxqJonVUCZNXrBJ61Sj7amqBk.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-10",
+      "episode_count": 17,
+      "id": 61385,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/eLTwodRH1xejY5vdNkgd9bumc4u.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-08",
+      "episode_count": 25,
+      "id": 61386,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/hU2qKFRJUfCoM8Da54zbjOCg10j.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-21",
+      "episode_count": 18,
+      "id": 61387,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/ceTuHot2U6X6kPbWJF3ZxIGCgRf.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-06",
+      "episode_count": 18,
+      "id": 61388,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/csjMKxAj79Ngsi1fr17218LgPrv.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-05",
+      "episode_count": 12,
+      "id": 44605,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/qdMp78StascKQpDnAAyOgeknca0.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 15,
+      "id": 44606,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/rA5BrxDNoNWNwIuO7AVUuswvXox.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-09",
+      "episode_count": 15,
+      "id": 44607,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/fRKeP2WXPWVfUZJUVJ7HeAvr35S.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 18,
+      "id": 44608,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/ixQspk8kOp8T9CqpXGArpGLkot3.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 19,
+      "id": 44609,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/y0YUEtRANpalHovfziAQW7WIDHa.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 18,
+      "id": 44610,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/qQs0UGmd82ykUKZS65cuCvGDiPP.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 18,
+      "id": 44611,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/r1f9EpyayKUFPrFYgwNlwz63ekk.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 18,
+      "id": 44612,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/qnXWmkUpZxXkZj7eS3tk0PN6Hl2.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 27,
+      "id": 44613,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/vvdblpexOsJwesge0MyluY0TxKW.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-07",
+      "episode_count": 25,
+      "id": 44614,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/mPMiqlOFAgEX8vKJURjrRPMaxJP.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-06",
+      "episode_count": 35,
+      "id": 61381,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/pQMILwPJJDB2SS4bgxRX0ZHLXac.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 34,
+      "id": 64495,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/nwP2nMluPpKuNAQk39H1dzKEuqY.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 29,
+      "id": 73069,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/n2fjJl7u2NqEjIZ7WP2EqVL1CQd.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 28,
+      "id": 83311,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/tnq2lNaCC8nP4vAUYSkRHPESM5F.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-08",
+      "episode_count": 26,
+      "id": 321620,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/hywM0OTBW4JlLxBMy7fCB1I4CrT.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 26,
+      "id": 150009,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/205wi6FicHG4TosI9rn5MZsWlKt.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 33,
+      "id": 150006,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/bgMVmuKMPSVfJN9IkkKtTBhmJYP.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 33,
+      "id": 181796,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/7T4hdNS2F8LPeuAAW3loKJ32LI0.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 31,
+      "id": 240690,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/pJq6QmMUMmZ91Cx3RuJqyRTIvtr.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 25,
+      "id": 332472,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/pMcGtV4aCiffZaV2cEis97lvd88.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 33,
+      "id": 395538,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/tme7fVHMecc7VfvurTpho68puAX.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 16,
+      "id": 436717,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/AdjJxxfnguwvGJqHwAsxfmu01My.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-05",
+      "episode_count": 17,
+      "id": 493201,
+      "name": "Season 30",
+      "overview": "The 2026 Season started on 1.4.26",
+      "poster_path": "/emTY9NqDoOW70G7wE5BOFD54974.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.4,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 33739,
+    "imdb_id": "tt0159847",
+    "freebase_mid": "/m/0cz170r",
+    "freebase_id": null,
+    "tvdb_id": 75117,
+    "tvrage_id": 17788,
+    "wikidata_id": "Q4775195",
+    "facebook_id": "RoadshowPBS",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

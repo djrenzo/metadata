@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/dVrKJkcvssTm5oY8Pv4fX1EB6YS.jpg",
+  "created_by": [
+    {
+      "id": 2556282,
+      "credit_id": "5e5eb1039b8616000fff0eb5",
+      "name": "Lolita Bellstar",
+      "original_name": "Lolita Bellstar",
+      "gender": 1,
+      "profile_path": "/6Dx9ylmIvZiFZhgjNmK4abKT5mX.jpg"
+    },
+    {
+      "id": 2556283,
+      "credit_id": "5e5eb126303c8500153d5818",
+      "name": "Anna Grue",
+      "original_name": "Anna Grue",
+      "gender": 1,
+      "profile_path": "/vctV1P3H26Ayo163don7Huimwep.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2020-03-01",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://play.tv2.dk/programmer/serier/krimi-spaending/sommerdahl/",
+  "id": 99969,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2026-05-03",
+  "last_episode_to_air": {
+    "id": 7017856,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-03",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 7,
+    "show_id": 99969,
+    "still_path": "/77uXClKDXW8JgiUEmC2k7TneQi9.jpg"
+  },
+  "name": "The Sommerdahl Murders",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 840,
+      "logo_path": "/gstdG1UAEaAQSTYi8Wtx5fDXNoz.png",
+      "name": "TV 2 Charlie",
+      "origin_country": "DK"
+    },
+    {
+      "id": 4875,
+      "logo_path": "/3Os40ulFXkNcCbBG41lk0N6Eq3p.png",
+      "name": "TV2 Play",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 56,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Sommerdahl",
+  "overview": "A love triangle between Dan Sommerdahl, his wife Marianne Sommerdahl and their best friend Flemming Torp occurs as they try to solves killings in Helsingør.",
+  "popularity": 21.6177,
+  "poster_path": "/aFuXiLrcygidkgOFGB2cq2hcvIq.jpg",
+  "production_companies": [
+    {
+      "id": 129977,
+      "logo_path": null,
+      "name": "Sequoia Global Alliance",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-03-01",
+      "episode_count": 1,
+      "id": 503142,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/vvcyqlYmkaCFgGdbzzEvRDalOWd.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-01",
+      "episode_count": 8,
+      "id": 144353,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wgMUVUwoo6E7U5byFkFcE35PZYZ.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2021-02-28",
+      "episode_count": 8,
+      "id": 182496,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sgmq420BnAkc8LDr43tfF5tHyka.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2022-03-13",
+      "episode_count": 8,
+      "id": 282259,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/vCe6fOheBUDKk8rRzB2GAeTAbRQ.jpg",
+      "season_number": 3,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2023-05-14",
+      "episode_count": 8,
+      "id": 338257,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/3WNgMdKZdx5xQRE4Y37Ie6knCmT.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2024-05-05",
+      "episode_count": 8,
+      "id": 392348,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/bmI9iglAAbtMYYiOPf6y5mEgPHI.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2025-01-26",
+      "episode_count": 8,
+      "id": 439817,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/fhVN4CJWqOY4mJWQ4TtHgLye56f.jpg",
+      "season_number": 6,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-03-15",
+      "episode_count": 8,
+      "id": 504096,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/6IEHj3rk46Kwg7GHZc0nWgEfnTd.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Always trouble in paradise.",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 30,
+  "external_ids": {
+    "id": 99969,
+    "imdb_id": "tt11081102",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 377914,
+    "tvrage_id": null,
+    "wikidata_id": "Q96241173",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

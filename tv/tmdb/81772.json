@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": "/uu52dx6l1yFN7f60GPhgQFPfOvT.jpg",
+  "created_by": [
+    {
+      "id": 2122749,
+      "credit_id": "5b90e467925141669b009771",
+      "name": "Adriana Totíková",
+      "original_name": "Adriana Totíková",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1192206,
+      "credit_id": "5b90e473925141669600a14f",
+      "name": "Vladimír Fischer",
+      "original_name": "Vladimír Fischer",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2018-01-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://oteckovia.markiza.sk/",
+  "id": 81772,
+  "in_production": false,
+  "languages": [
+    "sk"
+  ],
+  "last_air_date": "2022-08-31",
+  "last_episode_to_air": {
+    "id": 3923473,
+    "name": "Episode 111",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-08-31",
+    "episode_number": 111,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 81772,
+    "still_path": null
+  },
+  "name": "Oteckovia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 550,
+      "logo_path": "/e3v7L2zlVEO1GLH7pv0f1CNFIeK.png",
+      "name": "Markíza",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 774,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Oteckovia",
+  "overview": "",
+  "popularity": 20.8738,
+  "poster_path": "/r1hDy1wJ52NEilfcSzs0ocHEJZl.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 179,
+      "id": 108111,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hwWzi1fB5ATYZI4b3e9uSofrlz2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-14",
+      "episode_count": 180,
+      "id": 108895,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1w4iXYFtNfpMZspAlm1hy64wtbu.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 123,
+      "id": 116357,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 181,
+      "id": 148388,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 111,
+      "id": 239913,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 81772,
+    "imdb_id": "tt8509876",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 340318,
+    "tvrage_id": null,
+    "wikidata_id": "Q37813785",
+    "facebook_id": "oteckoviatvmarkiza",
+    "instagram_id": "oteckovia",
+    "twitter_id": null
+  }
+}

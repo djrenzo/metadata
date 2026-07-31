@@ -1,0 +1,231 @@
+{
+  "adult": false,
+  "backdrop_path": "/6apIHPRPfalOcNlvefdPfp41pJM.jpg",
+  "created_by": [
+    {
+      "id": 1227597,
+      "credit_id": "540669300e0a263730000343",
+      "name": "Robert Scull",
+      "original_name": "Robert Scull",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1227598,
+      "credit_id": "540669240e0a26372d000348",
+      "name": "Jonny Belt",
+      "original_name": "Jonny Belt",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2011-01-24",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.nickjr.com/bubble-guppies/",
+  "id": 39107,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-18",
+  "last_episode_to_air": {
+    "id": 6904547,
+    "name": "Stop The Meteor!",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-04-18",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 39107,
+    "still_path": null
+  },
+  "name": "Bubble Guppies",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    },
+    {
+      "id": 35,
+      "logo_path": "/o4uC6wQQeyPes8Jg8afsV2CHmLo.png",
+      "name": "Nick Jr.",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 159,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bubble Guppies",
+  "overview": "The adventures of seven fish-tailed kids- Molly, Gil, Oona, Deema, Nonny, Goby, and Zooli!",
+  "popularity": 18.9148,
+  "poster_path": "/zJ50jTHpOY3wKmuxiONOL77t9DW.jpg",
+  "production_companies": [
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 32809,
+      "logo_path": "/26iy8TFRNLUipFAGhFS8YfrWgAV.png",
+      "name": "Wildbrain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 130754,
+      "logo_path": null,
+      "name": "Jam Filled Toronto",
+      "origin_country": ""
+    },
+    {
+      "id": 1023,
+      "logo_path": "/dJLh6G11paw58YGYYpcRZiKvzGW.png",
+      "name": "Nelvana",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-02-19",
+      "episode_count": 2,
+      "id": 461055,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-24",
+      "episode_count": 20,
+      "id": 50602,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/r2NJ9HC5YiBM9ii2DTTCGgWg8Sa.jpg",
+      "season_number": 1,
+      "vote_average": 3.8
+    },
+    {
+      "air_date": "2011-11-04",
+      "episode_count": 19,
+      "id": 50601,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7U1BnpOVaossiBxbse9sovD4roH.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-12",
+      "episode_count": 29,
+      "id": 50604,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/mzNv5vTJsvxQPNWMgUqvBnJZDnh.jpg",
+      "season_number": 3,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2015-10-06",
+      "episode_count": 11,
+      "id": 112730,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/kezy55grW60UN71rKAdsKqUcmuB.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-27",
+      "episode_count": 26,
+      "id": 134753,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/mxZOTFDGsvQ7YD2zxWrWVInqBxw.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-19",
+      "episode_count": 34,
+      "id": 241828,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-07",
+      "episode_count": 20,
+      "id": 498246,
+      "name": "Bubble Guppies: Super Princess Mermaids",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 49,
+  "external_ids": {
+    "id": 39107,
+    "imdb_id": "tt0965404",
+    "freebase_mid": "/m/0g9_fnf",
+    "freebase_id": null,
+    "tvdb_id": 226391,
+    "tvrage_id": null,
+    "wikidata_id": "Q850563",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 41798,
+      "credit_id": "52586bd9760ee346611c06ad",
+      "name": "George López",
+      "original_name": "George López",
+      "gender": 2,
+      "profile_path": "/jeUUeE3ipY9edqdOSNI9v5maAbi.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2009-11-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 21776,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-08-02",
+  "last_episode_to_air": {
+    "id": 601166,
+    "name": "Kathy Griffin, Tom Felton",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-08-02",
+    "episode_number": 124,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 21776,
+    "still_path": null
+  },
+  "name": "Lopez Tonight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 68,
+      "logo_path": "/65r0kR6MfOBYF0gEQsJGM6v5fEG.png",
+      "name": "TBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 214,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lopez Tonight",
+  "overview": "Lopez Tonight is an American late-night television talk show that was hosted by comedian George Lopez. The hour-long program premiered on November 9, 2009, on cable network TBS. Lopez was the first Mexican American to host a late-night talk show on an English-language network in the United States. The show featured audience interaction using a high-energy format. The program aired Monday through Thursday at midnight Eastern and Pacific, immediately following Conan. On August 10, 2011, TBS announced Lopez Tonight would be cancelled. The final episode aired the following night.",
+  "popularity": 30.4417,
+  "poster_path": "/8gK9dVpAyNf7vUpLOIPZYNYK2yS.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-11-09",
+      "episode_count": 142,
+      "id": 31570,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-08",
+      "episode_count": 72,
+      "id": 31571,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 21776,
+    "imdb_id": "tt1489432",
+    "freebase_mid": "/m/06_wlnr",
+    "freebase_id": "/en/lopez_tonight",
+    "tvdb_id": 124621,
+    "tvrage_id": 23517,
+    "wikidata_id": "Q5226169",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

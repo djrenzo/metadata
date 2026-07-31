@@ -1,0 +1,300 @@
+{
+  "adult": false,
+  "backdrop_path": "/zrsYUICkFAVniygH49XCLf6QqFb.jpg",
+  "created_by": [
+    {
+      "id": 1224843,
+      "credit_id": "525735c9760ee3776a3abada",
+      "name": "Steve Smith",
+      "original_name": "Steve Smith",
+      "gender": 2,
+      "profile_path": "/kenf8IPI7tUhP6qXPi1qWbI4TbP.jpg"
+    },
+    {
+      "id": 62793,
+      "credit_id": "525735c9760ee3776a3abae0",
+      "name": "Rick Green",
+      "original_name": "Rick Green",
+      "gender": 2,
+      "profile_path": "/6SleOhp0VyUaVfV4CLAIG0YZf0l.jpg"
+    }
+  ],
+  "episode_run_time": [
+    21,
+    30
+  ],
+  "first_air_date": "1991-09-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.redgreen.com/",
+  "id": 2400,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-04-07",
+  "last_episode_to_air": {
+    "id": 180951,
+    "name": "Do As I Do",
+    "overview": "Harold loses the church and decides to get married at the Lodge with Red as minister.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-04-07",
+    "episode_number": 19,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 15,
+    "show_id": 2400,
+    "still_path": null
+  },
+  "name": "The Red Green Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/zjgqkIvBURbwoHbHhmnzaTFyZgR.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    },
+    {
+      "id": 46,
+      "logo_path": "/nXrfHqHOtLcrSKPz2do1duM3cwT.png",
+      "name": "YTV",
+      "origin_country": "CA"
+    },
+    {
+      "id": 218,
+      "logo_path": "/lpB2tPkovzbAbYfyBjJjbptygfV.png",
+      "name": "Global TV",
+      "origin_country": "CA"
+    },
+    {
+      "id": 253,
+      "logo_path": "/ea7lVHA90j9UVg5EAEriWkBY6Y5.png",
+      "name": "CHCH-DT",
+      "origin_country": "CA"
+    },
+    {
+      "id": 5140,
+      "logo_path": null,
+      "name": "CFPL-TV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 304,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "The Red Green Show",
+  "overview": "The Red Green Show is a Canadian television comedy that aired on various channels in Canada, with its ultimate home at CBC Television, and on Public Broadcasting Service stations in the United States, from 1991 until the series finale April 7, 2006, on CBC. The Red Green Show is essentially a cross between a sitcom and a sketch comedy series, and is a parody of home improvement, do-it-yourself, fishing, and other outdoors shows.",
+  "popularity": 17.0587,
+  "poster_path": "/rrDCC0WbGgSDB5pPU1HvllrygNh.jpg",
+  "production_companies": [
+    {
+      "id": 59856,
+      "logo_path": null,
+      "name": "S&S Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 26,
+      "id": 7537,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-25",
+      "episode_count": 24,
+      "id": 7524,
+      "name": "Season 1: The Infantile Years: One",
+      "overview": "",
+      "poster_path": "/rsdvRh5htXdxkxfDqwla0ZZGwrn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-23",
+      "episode_count": 24,
+      "id": 7522,
+      "name": "Season 2: The Infantile Years: Two",
+      "overview": "",
+      "poster_path": "/rsdvRh5htXdxkxfDqwla0ZZGwrn.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-22",
+      "episode_count": 24,
+      "id": 7529,
+      "name": "Season 3: The Infantile Years: Three",
+      "overview": "",
+      "poster_path": "/rsdvRh5htXdxkxfDqwla0ZZGwrn.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-24",
+      "episode_count": 24,
+      "id": 7525,
+      "name": "Season 4: The Toddlin' Years: One",
+      "overview": "",
+      "poster_path": "/yisGb8BHByUyHnqJWxWIFT0hZik.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-30",
+      "episode_count": 24,
+      "id": 7528,
+      "name": "Season 5: The Toddlin' Years: Two",
+      "overview": "",
+      "poster_path": "/yisGb8BHByUyHnqJWxWIFT0hZik.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-30",
+      "episode_count": 25,
+      "id": 7523,
+      "name": "Season 6: The Toddlin' Years: Three",
+      "overview": "",
+      "poster_path": "/yisGb8BHByUyHnqJWxWIFT0hZik.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-31",
+      "episode_count": 17,
+      "id": 7527,
+      "name": "Season 7: The Delinquent Years: One",
+      "overview": "",
+      "poster_path": "/1p6G6GUPDmz88IYlDJbU8qjImLD.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-23",
+      "episode_count": 14,
+      "id": 7526,
+      "name": "Season 8: The Delinquent Years: Two",
+      "overview": "",
+      "poster_path": "/1p6G6GUPDmz88IYlDJbU8qjImLD.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-08",
+      "episode_count": 17,
+      "id": 7534,
+      "name": "Season 9: The Delinquent Years: Three",
+      "overview": "",
+      "poster_path": "/1p6G6GUPDmz88IYlDJbU8qjImLD.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-13",
+      "episode_count": 18,
+      "id": 7531,
+      "name": "Season 10: The Midlife Crisis Years: One",
+      "overview": "",
+      "poster_path": "/rWk7v10rf7ZtixG4na7gDQndFQ7.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-05",
+      "episode_count": 17,
+      "id": 7532,
+      "name": "Season 11: The Midlife Crisis Years: Two",
+      "overview": "",
+      "poster_path": "/ffbIbi9ChkEjntiQMnvPQFnuAWm.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-18",
+      "episode_count": 18,
+      "id": 7533,
+      "name": "Season 12: The Midlife Crisis Years: Three",
+      "overview": "",
+      "poster_path": "/33K9HA0K7XkoMXkTkYGkTNbFZj6.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-12-31",
+      "episode_count": 20,
+      "id": 7530,
+      "name": "Season 13: The Geezer Years: One",
+      "overview": "",
+      "poster_path": "/4AjMic2WLz0AB2I3lKtsJQQ12Kn.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-01",
+      "episode_count": 19,
+      "id": 7535,
+      "name": "Season 14: The Geezer Years: Two",
+      "overview": "",
+      "poster_path": "/ihIovLMo5XaCOVcxAbUHFWhBAO4.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-28",
+      "episode_count": 19,
+      "id": 7536,
+      "name": "Season 15: The Geezer Years: Three",
+      "overview": "",
+      "poster_path": "/mdnbxNoSxQlqUlE9vYQDIA7shQo.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Red Green: If the women don't find you handsome, they should at least find you handy.",
+  "type": "Scripted",
+  "vote_average": 7.552,
+  "vote_count": 29,
+  "external_ids": {
+    "id": 2400,
+    "imdb_id": "tt0101177",
+    "freebase_mid": "/m/02dws0",
+    "freebase_id": "/en/the_red_green_show",
+    "tvdb_id": 76863,
+    "tvrage_id": 6130,
+    "wikidata_id": "Q3522460",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

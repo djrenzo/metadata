@@ -1,0 +1,166 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 3714334,
+      "credit_id": "632f71467719d7007f6b6d60",
+      "name": "Françoise Coquet",
+      "original_name": "Françoise Coquet",
+      "gender": 1,
+      "profile_path": "/8QTIppNYsimcC4upWy6TZdhS0fA.jpg"
+    },
+    {
+      "id": 1351945,
+      "credit_id": "632f714b39a1a600800530f6",
+      "name": "Michel Drucker",
+      "original_name": "Michel Drucker",
+      "gender": 2,
+      "profile_path": "/jTTvzGnTeG3zynsxLO9asKuxCVd.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1975-01-12",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 136450,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1980-06-29",
+  "last_episode_to_air": {
+    "id": 3285184,
+    "name": "Episode 25",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1980-06-29",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 136450,
+    "still_path": null
+  },
+  "name": "Les Rendez-vous du dimanche",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 165,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Rendez-vous du dimanche",
+  "overview": "A talk show presented by Michel Drucker",
+  "popularity": 19.5525,
+  "poster_path": "/csEN53LOtSMucpBohRi8YKY27WU.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1975-01-12",
+      "episode_count": 21,
+      "id": 215774,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1976-01-25",
+      "episode_count": 22,
+      "id": 215775,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-02",
+      "episode_count": 23,
+      "id": 215776,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 37,
+      "id": 215777,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-07",
+      "episode_count": 37,
+      "id": 215778,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-06",
+      "episode_count": 25,
+      "id": 215779,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 136450,
+    "imdb_id": "tt0819638",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

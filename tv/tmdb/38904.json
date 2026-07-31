@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/rbsCa6RrokvWGRpbf2T6O01dvio.jpg",
+  "created_by": [
+    {
+      "id": 81012,
+      "credit_id": "5258ee3a760ee346618dc75c",
+      "name": "Adrián Suar",
+      "original_name": "Adrián Suar",
+      "gender": 2,
+      "profile_path": "/a75QAiWiI4jJoGyYY2Tw6ELAkkA.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-02-07",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.eltrecetv.com.ar/programa/los-unicos",
+  "id": 38904,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-05-16",
+  "last_episode_to_air": {
+    "id": 1895306,
+    "name": "EP 53",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-05-16",
+    "episode_number": 53,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 38904,
+    "still_path": null
+  },
+  "name": "Los Únicos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 368,
+      "logo_path": "/j8Sb3Y5vo3wfOjMExmxLF08mLwX.png",
+      "name": "eltrece",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 243,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Los únicos",
+  "overview": "Los únicos is an Argentine superhero live-action television series aired by El Trece in the prime time. The \"uniques\" are a superhero team working as a covert operation unit.",
+  "popularity": 29.8365,
+  "poster_path": "/uWbVYZqdzLvhNjdxE2bvMg3tv8T.jpg",
+  "production_companies": [
+    {
+      "id": 27281,
+      "logo_path": "/n4OjEuaiEaiUn0WwJHHKXPkmHAD.png",
+      "name": "Pol-Ka Producciones",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DZ",
+      "name": "Algeria"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-02-07",
+      "episode_count": 190,
+      "id": 130308,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-15",
+      "episode_count": 53,
+      "id": 130309,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rUfaOTc5lfBsOkS09RvT0t3o451.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 38904,
+    "imdb_id": "tt1729622",
+    "freebase_mid": "/m/0gj9v42",
+    "freebase_id": null,
+    "tvdb_id": 238931,
+    "tvrage_id": null,
+    "wikidata_id": "Q1975134",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

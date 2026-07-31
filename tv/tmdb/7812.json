@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/3SY4dbjSPCzfqV9CaYf94U36zHS.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2008-08-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.annaunddieliebe.de/",
+  "id": 7812,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2012-04-13",
+  "last_episode_to_air": {
+    "id": 1612333,
+    "name": "Episode 128",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-04-13",
+    "episode_number": 128,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 7812,
+    "still_path": null
+  },
+  "name": "Anna und die Liebe",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 926,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Anna und die Liebe",
+  "overview": "Anna und die Liebe is the eleventh Telenovela made in Germany. It has aired since August 25, 2008 on German channel Sat.1 and Austrian Channel ORF 1.",
+  "popularity": 17.7759,
+  "poster_path": "/an5gLn6U5yBwRFdy3YdY0hb1Wpd.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2008-08-25",
+      "episode_count": 311,
+      "id": 17977,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-16",
+      "episode_count": 253,
+      "id": 84611,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-03",
+      "episode_count": 234,
+      "id": 84612,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-13",
+      "episode_count": 128,
+      "id": 84613,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.222,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 7812,
+    "imdb_id": "tt1263713",
+    "freebase_mid": "/m/04ld6gh",
+    "freebase_id": "/en/anna_und_die_liebe",
+    "tvdb_id": 89661,
+    "tvrage_id": null,
+    "wikidata_id": "Q563734",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

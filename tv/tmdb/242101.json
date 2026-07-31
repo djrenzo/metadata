@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/3xVmBU66Ukp79BBKAbHMySSAqq3.jpg",
+  "created_by": [
+    {
+      "id": 1889132,
+      "credit_id": "658617444da3d463a14129e2",
+      "name": "Maria João Costa",
+      "original_name": "Maria João Costa",
+      "gender": 1,
+      "profile_path": "/pjQfWaKnJdLEQOIjmNniAVOu76g.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2024-01-15",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/novelas/programa/cacau/659ece16d34e371fc0bbcf91",
+  "id": 242101,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2024-11-30",
+  "last_episode_to_air": {
+    "id": 5784220,
+    "name": "Episode 236",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-11-30",
+    "episode_number": 236,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 242101,
+    "still_path": "/v31CesPOi23JwuUPoyDUF475dyx.jpg"
+  },
+  "name": "Cacau",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 236,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Cacau",
+  "overview": "Cacau is an engaging saga of family secrets, clandestine loves and sacrifices, all sweetened by the irresistible taste of chocolate and the magic of cocoa plantations.",
+  "popularity": 30.26,
+  "poster_path": "/nNCFBKZ68fmr008moWSzLdu2mUP.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    },
+    {
+      "id": 86448,
+      "logo_path": "/ouoDVGGHRAE7WfPtMKZn6kKDMec.png",
+      "name": "TVI - Televisão Independente",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-15",
+      "episode_count": 236,
+      "id": 371109,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/au36FfksnT210brvlTJDb9Gj3fX.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.7,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 242101,
+    "imdb_id": "tt28183323",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 441349,
+    "tvrage_id": null,
+    "wikidata_id": "Q120355852",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

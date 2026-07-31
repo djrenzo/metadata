@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/8NfzMKf4gBhxFe51DVBO77RkrCA.jpg",
+  "created_by": [
+    {
+      "id": 114759,
+      "credit_id": "67693ef4c7f17205d10b0c22",
+      "name": "Johan Nijenhuis",
+      "original_name": "Johan Nijenhuis",
+      "gender": 2,
+      "profile_path": "/ywaRbkpG3mgaUYMRQbC8WpXqq31.jpg"
+    },
+    {
+      "id": 1591521,
+      "credit_id": "676942785d6e367c2b5ce864",
+      "name": "Ingmar Menning",
+      "original_name": "Ingmar Menning",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-12-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.avrotros.nl/program/woeste-grond~205/",
+  "id": 280350,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-01-16",
+  "last_episode_to_air": {
+    "id": 7406320,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 4,
+    "show_id": 280350,
+    "still_path": "/k6Ap9Ag2dhgc9cxFy0r4fZTignG.jpg"
+  },
+  "name": "Woeste Grond",
+  "next_episode_to_air": {
+    "id": 7406321,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 280350,
+    "still_path": "/z1XLMDj4D6QJkrukGqdl1RE6UFG.jpg"
+  },
+  "networks": [
+    {
+      "id": 1433,
+      "logo_path": "/eDObRs53SyWCHlnFoKTTnwZGPpB.png",
+      "name": "NPO 1",
+      "origin_country": "NL"
+    },
+    {
+      "id": 7789,
+      "logo_path": "/ykwJ0zgpWtn0KN9FPPYCnNy8W3C.png",
+      "name": "AVROTROS",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 62,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Woeste Grond",
+  "overview": "",
+  "popularity": 21.147,
+  "poster_path": "/lgDxj8O6yIGLKLlCeHIJuRqA6cf.jpg",
+  "production_companies": [
+    {
+      "id": 60439,
+      "logo_path": "/wXrkCgSBWhF4cjbztPoWtDtOJqj.png",
+      "name": "Avrotros",
+      "origin_country": "NL"
+    },
+    {
+      "id": 114515,
+      "logo_path": null,
+      "name": "JOCO Media",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 509028,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-23",
+      "episode_count": 20,
+      "id": 434806,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lgDxj8O6yIGLKLlCeHIJuRqA6cf.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-04",
+      "episode_count": 19,
+      "id": 459496,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bmd4j4TnLQ6WgFyveX6AGMWi9kH.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-12-22",
+      "episode_count": 20,
+      "id": 474624,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/iulh1vVW1Gpa5kFKGacSBhKnH5N.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-07-20",
+      "episode_count": 20,
+      "id": 523464,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 280350,
+    "imdb_id": "tt35122956",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 456776,
+    "tvrage_id": null,
+    "wikidata_id": "Q131531553",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

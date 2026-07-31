@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/bxnFbTZ2Y45zUUQyvhuzMBg95hp.jpg",
+  "created_by": [
+    {
+      "id": 2364006,
+      "credit_id": "66e934735c0519a234d2bbb8",
+      "name": "Stelios Cotionis",
+      "original_name": "Στέλιος Κοτιώνης",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2023-09-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.ert.gr/nees-ellinikes-seires/paralia-main/",
+  "id": 234460,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2025-06-26",
+  "last_episode_to_air": {
+    "id": 6341469,
+    "name": "Episode 150",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-06-26",
+    "episode_number": 150,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 73,
+    "season_number": 2,
+    "show_id": 234460,
+    "still_path": "/521pIs6T0HNG33w2nAD16mcODn.jpg"
+  },
+  "name": "Η Παραλία",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2474,
+      "logo_path": "/mR0SoE9l7rq8nsmjeuMhv05CVoh.png",
+      "name": "ERT1",
+      "origin_country": "GR"
+    },
+    {
+      "id": 5663,
+      "logo_path": "/u1NC8M9jjGBhdcnECsj8yLbcZ85.png",
+      "name": "ERTFLIX",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 294,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Η Παραλία",
+  "overview": "",
+  "popularity": 16.6111,
+  "poster_path": "/fdGzSNS6Y7l7Jm2FuVBcuExFzpC.jpg",
+  "production_companies": [
+    {
+      "id": 7255,
+      "logo_path": "/aHu0SirjV9Mi0OrlnFWqZwy50wW.png",
+      "name": "ERT",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-09-04",
+      "episode_count": 144,
+      "id": 356210,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kxZgMJxI2uH3lTHQyZ4GlBL1Nol.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-08",
+      "episode_count": 150,
+      "id": 417834,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/otObwKWmgX7OIi2bbRWqvGkkq4.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 234460,
+    "imdb_id": "tt28484880",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 438702,
+    "tvrage_id": null,
+    "wikidata_id": "Q120608981",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

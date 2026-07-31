@@ -1,0 +1,353 @@
+{
+  "adult": false,
+  "backdrop_path": "/etNtSeEcl3XpVnKIvV3PrnFwihd.jpg",
+  "created_by": [
+    {
+      "id": 234343,
+      "credit_id": "63077bd86e938a007eb5c254",
+      "name": "Jacques Chancel",
+      "original_name": "Jacques Chancel",
+      "gender": 2,
+      "profile_path": "/2qTRPPbPgihnE1GDpWUFBo3xnwd.jpg"
+    },
+    {
+      "id": 3676256,
+      "credit_id": "63077be33dd126007ed7fc1f",
+      "name": "Jean-Pierre Renard",
+      "original_name": "Jean-Pierre Renard",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1572101,
+      "credit_id": "63077bebc39266007f193827",
+      "name": "André Flédérick",
+      "original_name": "André Flédérick",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1972-01-12",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-3/le-grand-echiquier/",
+  "id": 120589,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2020-10-29",
+  "last_episode_to_air": {
+    "id": 4664855,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-10-29",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 120589,
+    "still_path": null
+  },
+  "name": "Le Grand Échiquier",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1130,
+      "logo_path": "/1JnQqStddzcIoa6XYB7LqJbLx01.png",
+      "name": "Antenne 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1196,
+      "logo_path": "/j1A7mEWCvFT6eRxOnqapNbikIyk.png",
+      "name": "ORTF Télévision",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 209,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Le Grand Échiquier",
+  "overview": "Le Grand Échiquier is a French variety television program created and presented by Jacques Chancel. It aired at 8:30 pm on the first channel of the ORTF from January 12, 1972 to July 12, 1972, then on the second color channel of the ORTF from September 1972 to December 1974, and finally on Antenne 2 from January 1975 to December 21, 1989. The program returned to France 2 on December 20, 2018 and is hosted by Anne-Sophie Lapix.",
+  "popularity": 19.1107,
+  "poster_path": "/hWsFrkYyPwCz4rt2lpiKmqkgxRp.jpg",
+  "production_companies": [
+    {
+      "id": 6849,
+      "logo_path": "/AjdOGHRLAhWbP1aAga85A9EOfD2.png",
+      "name": "SFP",
+      "origin_country": "FR"
+    },
+    {
+      "id": 90133,
+      "logo_path": "/kp7mjMDGfxqSOSrS3OlRBLwltMp.png",
+      "name": "Troisième Œil Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1996-12-28",
+      "episode_count": 4,
+      "id": 353188,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-12",
+      "episode_count": 9,
+      "id": 185520,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-09-20",
+      "episode_count": 11,
+      "id": 185521,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-09-12",
+      "episode_count": 12,
+      "id": 185522,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-09-18",
+      "episode_count": 11,
+      "id": 185523,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-09-25",
+      "episode_count": 12,
+      "id": 185524,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-09-30",
+      "episode_count": 9,
+      "id": 185525,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-09-29",
+      "episode_count": 12,
+      "id": 185526,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-28",
+      "episode_count": 10,
+      "id": 185527,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-09-27",
+      "episode_count": 12,
+      "id": 185528,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-09-25",
+      "episode_count": 12,
+      "id": 185529,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-24",
+      "episode_count": 10,
+      "id": 185530,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-09-20",
+      "episode_count": 12,
+      "id": 185531,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-19",
+      "episode_count": 12,
+      "id": 185532,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-17",
+      "episode_count": 12,
+      "id": 185533,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-09-08",
+      "episode_count": 14,
+      "id": 185534,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-24",
+      "episode_count": 10,
+      "id": 185535,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-09",
+      "episode_count": 9,
+      "id": 185536,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-24",
+      "episode_count": 8,
+      "id": 185537,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-25",
+      "episode_count": 4,
+      "id": 306050,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-12-20",
+      "episode_count": 8,
+      "id": 353194,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/lUMmdOQzCtSsynIUCJ8dEoAyacd.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 120589,
+    "imdb_id": "tt0353063",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q3223353",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

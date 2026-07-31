@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/pboLQ8RrkxXItYzquX13gSQNAXG.jpg",
+  "created_by": [
+    {
+      "id": 3388975,
+      "credit_id": "67fa791e1f3bcfea48d93571",
+      "name": "Ding Lingtao",
+      "original_name": "忘语",
+      "gender": 2,
+      "profile_path": "/9Ebq9cBCOnDtYpDeI35wdIPcjvd.jpg"
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "2020-07-25",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://www.youtube.com/playlist?list=PLBakWosU0sfgNgK5LSzKCfya1pXtHTAva",
+  "id": 288233,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-07-18",
+  "last_episode_to_air": {
+    "id": 7398709,
+    "name": "Episode 184",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 184,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 9,
+    "show_id": 288233,
+    "still_path": "/AoH7SNyE3IlyZQwmrRRn3EFFlgl.jpg"
+  },
+  "name": "修仙",
+  "next_episode_to_air": {
+    "id": 7552986,
+    "name": "Episode 185",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-01",
+    "episode_number": 185,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 288233,
+    "still_path": "/rAaC9xUT9OG2hsdpeZboUVv0hbe.jpg"
+  },
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 1605,
+      "logo_path": "/cdRh1NZIUaqDUhwjgqWbp6zhWHK.png",
+      "name": "bilibili",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 188,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "修仙",
+  "overview": "",
+  "popularity": 17.6695,
+  "poster_path": "/fIFi3DJrmvoxLSQdABZ9iblAiGA.jpg",
+  "production_companies": [
+    {
+      "id": 123270,
+      "logo_path": "/4KxfGr13VXMr44og11hzpdwfQDQ.png",
+      "name": "bilibili",
+      "origin_country": "CN"
+    },
+    {
+      "id": 71194,
+      "logo_path": "/vKZv8ACsYeJT7boZhENcKHBNCp0.png",
+      "name": "Original Force Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 164931,
+      "logo_path": "/o7wZ4YuZTmiBXVnR9VCkOspo4jQ.png",
+      "name": "Wonder Cat Animation",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-02-05",
+      "episode_count": 31,
+      "id": 449927,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/hHCbGJF7oPE5SYQxJx79vrahMPE.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-25",
+      "episode_count": 17,
+      "id": 449920,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/a1IdMQS0Q8pob4D3fP0My2mIvBw.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-31",
+      "episode_count": 4,
+      "id": 449921,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ty84QQApfSFnur9jIB8ZsqV1tXv.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-14",
+      "episode_count": 25,
+      "id": 449922,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/bMSlWXgPUSMrBbfeobZqqoe0uCE.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-24",
+      "episode_count": 14,
+      "id": 449923,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/iLkZELkLVvCAEvkY2zGglPNEDkm.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-31",
+      "episode_count": 12,
+      "id": 449924,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/6rQOWRjFvDqPQdeHOBSuccoJG41.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-30",
+      "episode_count": 52,
+      "id": 449925,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/vv6hX1XWruy3uNtVAROJt4oV38n.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-18",
+      "episode_count": 28,
+      "id": 449926,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/ulLdCe6nVWfnIr69lKatOSdHDia.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-26",
+      "episode_count": 24,
+      "id": 465730,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/3EZJ25FVsGNeI9NwmstqTVPxch3.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-13",
+      "episode_count": 12,
+      "id": 485058,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/jHFGGthao0ldvB2rQ7AxUtQhZDf.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 288233,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

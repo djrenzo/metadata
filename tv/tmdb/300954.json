@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-07-04",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://program.kbs.co.kr/2tv/drama/thehusband",
+  "id": 300954,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-07-26",
+  "last_episode_to_air": {
+    "id": 7267754,
+    "name": "Episode 8",
+    "overview": "Jeongsu's attempt to kill Gyeongae fails. Taeju recalls someone in the hospital linked to them both.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 300954,
+    "still_path": "/8Y9Yw7YeusljH9mw6BPQPhpWxS7.jpg"
+  },
+  "name": "The Husband",
+  "next_episode_to_air": {
+    "id": 7267755,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-01",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 300954,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "결혼의 완성",
+  "overview": "Taeju and Seyun are on the verge of divorce. But when a drunken comment from Taeju gets Seyun kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Taeju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
+  "popularity": 23.7795,
+  "poster_path": "/z74qJEf1MRsEEIKFgbeyBAHmJXg.jpg",
+  "production_companies": [
+    {
+      "id": 169457,
+      "logo_path": "/7Nmvzh2kAaa7SWQ8qxiMkNC5rRF.png",
+      "name": "Red Nine Pictures",
+      "origin_country": "KR"
+    },
+    {
+      "id": 77994,
+      "logo_path": "/mQcOwCeEkNJV3Iryh4YyKimXXPJ.png",
+      "name": "KBS Media",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-07-04",
+      "episode_count": 12,
+      "id": 475802,
+      "name": "Season 1",
+      "overview": "Kang Taeju, a former neurosurgeon who now serves as a hospital director struggling to face a dangerous criminal in order to save his wife, who was kidnapped before their divorce.",
+      "poster_path": "/8fqcsL4OM9dJn9nb5ldCyV4P4PV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The end of their marriage is only the beginning",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 300954,
+    "imdb_id": "tt39393581",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 469809,
+    "tvrage_id": null,
+    "wikidata_id": "Q137711588",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

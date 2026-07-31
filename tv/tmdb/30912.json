@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2008-04-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 30912,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2008-04-04",
+  "last_episode_to_air": {
+    "id": 2757916,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-04-04",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 30912,
+    "still_path": null
+  },
+  "name": "Torrente",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 258,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Torrente",
+  "overview": "Torrente:¡un torbellino de pasiones! is a 2008 Venezuelan telenovela produced by Venevisión and distributed internationally by Venevisión International.\n\nMaritza Bustamante and Luciano D'Alessandro star as the protagonists while Anabell Rivero and Felix Loreto star as the antagonists.",
+  "popularity": 34.1352,
+  "poster_path": "/9KNbf7bsA4UM4T7bLqBDUm2mDPi.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2008-04-04",
+      "episode_count": 258,
+      "id": 42448,
+      "name": "Torrent of passions season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 30912,
+    "imdb_id": "tt1320221",
+    "freebase_mid": "/m/07s5bs4",
+    "freebase_id": null,
+    "tvdb_id": 273879,
+    "tvrage_id": null,
+    "wikidata_id": "Q3533912",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/rhwN3mIN89zlDveR0gv0VkrspXa.jpg",
+  "created_by": [
+    {
+      "id": 1752819,
+      "credit_id": "675e2689d6f5e8458b8b275b",
+      "name": "Paul William Davies",
+      "original_name": "Paul William Davies",
+      "gender": 2,
+      "profile_path": "/oUJinA4fPZvYqjdeeuVFKty4UkD.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-03-20",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81005297",
+  "id": 242054,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-20",
+  "last_episode_to_air": {
+    "id": 5824341,
+    "name": "The Mystery of the Yellow Room",
+    "overview": "As the clock ticks down on her investigation, Cordelia is ready to reveal the murderer in the residence — even if she has to do it on the fly.",
+    "vote_average": 5.429,
+    "vote_count": 21,
+    "air_date": "2025-03-20",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 88,
+    "season_number": 1,
+    "show_id": 242054,
+    "still_path": "/vIq6An634kPyS0RAO69pbBUSyCa.jpg"
+  },
+  "name": "The Residence",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Residence",
+  "overview": "A brilliant, eccentric detective must solve a murder in the White House residence — where the staff and guests at a state dinner are all suspects.",
+  "popularity": 20.3394,
+  "poster_path": "/cJZbg425I9LF3SlJVQDOg4nJEvq.jpg",
+  "production_companies": [
+    {
+      "id": 34209,
+      "logo_path": "/rYt8Q3nYxyE4YBLmVojvoKvIROv.png",
+      "name": "shondaland",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-03-20",
+      "episode_count": 8,
+      "id": 371013,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jrFdWglrbTgk5ywmymJjLfa2GJ3.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "132 rooms. 157 suspects. 1 dead body.",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 333,
+  "external_ids": {
+    "id": 242054,
+    "imdb_id": "tt8740614",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 417552,
+    "tvrage_id": null,
+    "wikidata_id": "Q117254317",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

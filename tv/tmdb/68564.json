@@ -1,0 +1,380 @@
+{
+  "adult": false,
+  "backdrop_path": "/iJH2e7cx2LaHUhftCjjJ6R0MGPU.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2013-08-31",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 68564,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-03-24",
+  "last_episode_to_air": {
+    "id": 7190879,
+    "name": "Episode 40",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-30",
+    "episode_number": 40,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 68564,
+    "still_path": null
+  },
+  "name": "De Ideale Wereld",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1073,
+      "logo_path": "/vXJHA7B2Cqe5D8GcM3MCujT8cLj.png",
+      "name": "VRT CANVAS",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1977,
+      "logo_path": "/qCOhHgNVRg6Krn3RV6wxARs9NNC.png",
+      "name": "VRT MAX",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 691,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "De Ideale Wereld",
+  "overview": "",
+  "popularity": 17.3146,
+  "poster_path": "/lqVN5WSn7yDNKm1ZZ7aUQ15WKl.jpg",
+  "production_companies": [
+    {
+      "id": 5547,
+      "logo_path": "/tKEYVVxjxFa0GVDPIQP4nrh7ZOS.png",
+      "name": "Woestijnvis",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-03",
+      "episode_count": 76,
+      "id": 328637,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-31",
+      "episode_count": 65,
+      "id": 81734,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-20",
+      "episode_count": 72,
+      "id": 81735,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 25,
+      "id": 81736,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-02",
+      "episode_count": 44,
+      "id": 81737,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 24,
+      "id": 81738,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-05",
+      "episode_count": 40,
+      "id": 81739,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-06",
+      "episode_count": 1,
+      "id": 81740,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-10",
+      "episode_count": 1,
+      "id": 158529,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 1,
+      "id": 181386,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-16",
+      "episode_count": 1,
+      "id": 181387,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-04",
+      "episode_count": 1,
+      "id": 181388,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-15",
+      "episode_count": 1,
+      "id": 181389,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-03",
+      "episode_count": 1,
+      "id": 181390,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-14",
+      "episode_count": 1,
+      "id": 181391,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-01",
+      "episode_count": 1,
+      "id": 181392,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-12",
+      "episode_count": 32,
+      "id": 181393,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-31",
+      "episode_count": 32,
+      "id": 206716,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/Aj6JIjiDUHKktqcHHFXBNPccLLx.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-11",
+      "episode_count": 32,
+      "id": 239757,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 38,
+      "id": 305195,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 42,
+      "id": 328638,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-16",
+      "episode_count": 35,
+      "id": 360000,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 49,
+      "id": 372696,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 40,
+      "id": 407333,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/lqVN5WSn7yDNKm1ZZ7aUQ15WKl.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-03-10",
+      "episode_count": 40,
+      "id": 427136,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 36,
+      "id": 470891,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-23",
+      "episode_count": 40,
+      "id": 499289,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 68564,
+    "imdb_id": "tt5189940",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 280258,
+    "tvrage_id": null,
+    "wikidata_id": "Q15906734",
+    "facebook_id": "DeIdealeWereld",
+    "instagram_id": "deidealewereld",
+    "twitter_id": "DeIdealeWereld"
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "adult": false,
+  "backdrop_path": "/dkQMNLgZMZfVXReu7EBJ88Emcka.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90,
+    120
+  ],
+  "first_air_date": "2013-01-18",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 107467,
+  "in_production": true,
+  "languages": [
+    "ko",
+    "zh",
+    "ja",
+    "en"
+  ],
+  "last_air_date": "2026-07-24",
+  "last_episode_to_air": {
+    "id": 7284561,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 138,
+    "season_number": 11,
+    "show_id": 107467,
+    "still_path": "/kflwVxj97DADBgdwqGevtLKK7W0.jpg"
+  },
+  "name": "SINGER",
+  "next_episode_to_air": {
+    "id": 7284562,
+    "name": "Episode 11",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 107467,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 952,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan Television",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1631,
+      "logo_path": "/iE3rtBcUfWGiJosaZv2TroBxEZz.png",
+      "name": "Mango TV",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 152,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "我是歌手",
+  "overview": "SINGER, formerly known as I AM A SINGER, is a large-scale singing competition program co-produced by Hunan Broadcasting System (HBS) and Mango TV.\n\nThe first four seasons were adapted from the Korean reality show I Am a Singer produced by MBC. Beginning with the 2017 season, the program was rebranded as SINGER.\n\nThe series brings together established vocalists from the Chinese music industry as well as internationally renowned artists to compete on stage. In each episode, the results are determined by a panel of 500 in-studio audience judges who vote to decide the singers’ rankings and eliminations.\n\nStarting with the 2024 season, the show shifted from pre-recorded broadcasts to fully live performances and introduced an additional panel of 500 online international audience judges.",
+  "popularity": 22.0403,
+  "poster_path": "/cLcarnYaKBiIssUqp5bq76Dxj2p.jpg",
+  "production_companies": [
+    {
+      "id": 15692,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan TV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 139947,
+      "logo_path": "/yTjVB6bJfdbuuZOhKdmjkY70cxn.png",
+      "name": "MangoTV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 78137,
+      "logo_path": null,
+      "name": "Hunan Broadcasting System",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-05-10",
+      "episode_count": 112,
+      "id": 215692,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/hwmTXaNE1NOFFoFVLMuM2HH0jkM.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-17",
+      "episode_count": 13,
+      "id": 159055,
+      "name": "I Am A Singer S1",
+      "overview": "",
+      "poster_path": "/8ZBBVJlkeX9yVshIZOduhk1XczA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 14,
+      "id": 166821,
+      "name": "I Am A Singer S2",
+      "overview": "",
+      "poster_path": "/bofUbsu3MjWUT85lexEVxg5FjVI.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 16,
+      "id": 166822,
+      "name": "I Am A Singer S3",
+      "overview": "",
+      "poster_path": "/iLfuz2OSxGL9xV7lod3oNv8wUJ2.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-14",
+      "episode_count": 15,
+      "id": 166823,
+      "name": "I Am A Singer S4",
+      "overview": "",
+      "poster_path": "/rhSIjoFuFpBjwLaLwI00SismlGh.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-20",
+      "episode_count": 14,
+      "id": 180807,
+      "name": "SINGER 2017",
+      "overview": "",
+      "poster_path": "/7anwSDiVSOZiHDdc7PBIubZKT57.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-11",
+      "episode_count": 14,
+      "id": 180826,
+      "name": "SINGER 2018",
+      "overview": "",
+      "poster_path": "/9lolFt0eF4g7jKIrCdhwX3IeXK0.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-10",
+      "episode_count": 14,
+      "id": 180827,
+      "name": "SINGER 2019",
+      "overview": "",
+      "poster_path": "/r8RyokcNmkkZFErOmz0iMTlFXsj.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-03",
+      "episode_count": 12,
+      "id": 180828,
+      "name": "SINGER 2020",
+      "overview": "",
+      "poster_path": "/zXxSnRrlPDTfuNYqTQmRR4sjeDq.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-09",
+      "episode_count": 13,
+      "id": 393019,
+      "name": "SINGER 2024",
+      "overview": "",
+      "poster_path": "/jgFs4vKiB8h8FhLR5w90CZMLzf0.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-05-15",
+      "episode_count": 14,
+      "id": 454046,
+      "name": "SINGER 2025",
+      "overview": "",
+      "poster_path": "/xvsWmr87suZQA1vW01fyKkjmqDp.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-22",
+      "episode_count": 13,
+      "id": 482257,
+      "name": "SINGER 2026",
+      "overview": "",
+      "poster_path": "/cLcarnYaKBiIssUqp5bq76Dxj2p.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 107467,
+    "imdb_id": "tt11879858",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 278355,
+    "tvrage_id": null,
+    "wikidata_id": "Q13257933",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

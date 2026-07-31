@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/kBnarTK6wOla9BhkMmuZhM7KNbF.jpg",
+  "created_by": [
+    {
+      "id": 1456421,
+      "credit_id": "66d886e6ffcc99cf6fea35a4",
+      "name": "Ricardo Castella",
+      "original_name": "Ricardo Castella",
+      "gender": 2,
+      "profile_path": "/L3YMsyD4SJ8fVsf8SR1sY6ExTU.jpg"
+    },
+    {
+      "id": 1423483,
+      "credit_id": "677c357a9cb089e0516713a4",
+      "name": "Jorge Ponce",
+      "original_name": "Jorge Ponce",
+      "gender": 2,
+      "profile_path": "/zSQxdS2p5w38kKVCW42DBYSrKy3.jpg"
+    },
+    {
+      "id": 1744344,
+      "credit_id": "677c358615cafe8aad748f8d",
+      "name": "David Broncano",
+      "original_name": "David Broncano",
+      "gender": 2,
+      "profile_path": "/3dWvY439YjtwMapPfdEKB5vTnV5.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-09-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://rtve.es/play/videos/la-revuelta",
+  "id": 270462,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2026-06-17",
+  "last_episode_to_air": {
+    "id": 7542072,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-16",
+    "episode_number": 160,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 77,
+    "season_number": 2,
+    "show_id": 270462,
+    "still_path": "/hu9PVFjJIuihOUYQExcIZr3ItPl.jpg"
+  },
+  "name": "La Revuelta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 443,
+      "logo_path": "/dN6GTZyNY32q2onfrvJ2iAeE4su.png",
+      "name": "La 1",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 306,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "La Revuelta",
+  "overview": "David Broncano, along with Jorge Ponce, Ricardo Castella and his other collaborators, lead La Revuelta, a comedy show that includes multiple sections and interviews from the Teatro Príncipe Gran Vía in Madrid.",
+  "popularity": 19.5439,
+  "poster_path": "/4uaguchJwBK0bl4zjluU6af8J7V.jpg",
+  "production_companies": [
+    {
+      "id": 8078,
+      "logo_path": "/kyRG4AvnC2J8zQcZp2Xsmpjx9Fl.png",
+      "name": "El Terrat",
+      "origin_country": "ES"
+    },
+    {
+      "id": 981,
+      "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-03-19",
+      "episode_count": 1,
+      "id": 424105,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/17qGRVDpq3InrNTOYS7XN1xTQeK.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 159,
+      "id": 416647,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zWr1Rs74n4yZOWXEuLi1RsbsIF4.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 160,
+      "id": 474281,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fJOgiuIencPr2D2KR1iDpGgw0oy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 270462,
+    "imdb_id": "tt33362276",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 454264,
+    "tvrage_id": null,
+    "wikidata_id": "Q130163956",
+    "facebook_id": null,
+    "instagram_id": "larevuelta_tve",
+    "twitter_id": "larevuelta_tve"
+  }
+}

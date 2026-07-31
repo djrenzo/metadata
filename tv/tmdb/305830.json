@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/6xVKvVhzCSfJzdxzUIgaw86vLjU.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-07-27",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 305830,
+  "in_production": true,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": null,
+  "last_episode_to_air": {
+    "id": 7583559,
+    "name": "Digging Deep",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 305830,
+    "still_path": null
+  },
+  "name": "Someone, Someday",
+  "next_episode_to_air": {
+    "id": 7583560,
+    "name": "Friend or Foe",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 27,
+    "season_number": 1,
+    "show_id": 305830,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 3920,
+      "logo_path": "/eK7hBqDuNwvHqBoWtVgCdNIehsU.png",
+      "name": "Kapamilya Channel",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Someone, Someday",
+  "overview": "When the CEO of a dating app unknowingly befriends someone out for revenge, old wounds resurface—threatening her company, family, friendships, love life, and even her dream of finding “someone, someday.”",
+  "popularity": 19.5325,
+  "poster_path": "/a0w1k9cTa3273nhwrFaUhy6YkLR.jpg",
+  "production_companies": [
+    {
+      "id": 80844,
+      "logo_path": "/8IA6wf02ZLZNGZKHVLhn35Vxt1F.png",
+      "name": "Dreamscape Entertainment Television",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-07-27",
+      "episode_count": 20,
+      "id": 485265,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 305830,
+    "imdb_id": "tt38066800",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 471637,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

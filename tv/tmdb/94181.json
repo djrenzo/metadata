@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/aAMGOzrjPtYxyuiDMoVhGw6soaw.jpg",
+  "created_by": [
+    {
+      "id": 2763899,
+      "credit_id": "5f4ff393c390c50033f9e8e5",
+      "name": "Melina Tsabani",
+      "original_name": "Μελίνα Τσαμπάνη",
+      "gender": 1,
+      "profile_path": "/5prM7qP79hGko7PJdhdAxxzU8nM.jpg"
+    },
+    {
+      "id": 2763900,
+      "credit_id": "5f4ff3a4a1074b0035ee2155",
+      "name": "Petros Kalkovalis",
+      "original_name": "Πέτρος Καλκόβαλης",
+      "gender": 2,
+      "profile_path": "/9TlWj1nZzUUT6pTg7nzxrGC3sTF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2019-09-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://antenna.gr/agriesmelisses",
+  "id": 94181,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2022-07-08",
+  "last_episode_to_air": {
+    "id": 3828520,
+    "name": "Episode 144",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-07-08",
+    "episode_number": 144,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 94181,
+    "still_path": null
+  },
+  "name": "Agries Melisses",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 420,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Άγριες Μέλισσες",
+  "overview": "Every time a daughter was born, the father of Eleni, Asimina and Froso planted a poplar tree at the edge of their orchard to commemorate the arrival of the new child. As they grew and grew tall and slender, he boasted of them as his daughters. In the proudest poplar, however, Helen's poplar, a swarm of wild bees had already nested. \"You will be happy, my daughter, and life will be as sweet as this honey. You'll see,\" her father used to tell her. But, the years passed and Eleni looked at the poplar and listened to the hum... \"How do you know, father... How do you know that life has written only bitterness for my root\".",
+  "popularity": 17.1843,
+  "poster_path": "/klyEn63r54TziUXXmfgjNChXM9w.jpg",
+  "production_companies": [
+    {
+      "id": 53183,
+      "logo_path": null,
+      "name": "JK Productions-Καραγιάννης",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 125,
+      "id": 133398,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fkRbGe95L07cP8sIk9V08NR30bn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 151,
+      "id": 160837,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/iq71zpjs0VWhsSwplFE9eVAw3Ll.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 144,
+      "id": 213513,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 94181,
+    "imdb_id": "tt11042448",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 369507,
+    "tvrage_id": null,
+    "wikidata_id": "Q70863033",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

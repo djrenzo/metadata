@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/aQ8okXoTvnczsN7iUTTwcXkRMzq.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    1
+  ],
+  "first_air_date": "2019-07-31",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 223694,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2019-07-31",
+  "last_episode_to_air": {
+    "id": 4337247,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-07-31",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 1,
+    "season_number": 1,
+    "show_id": 223694,
+    "still_path": "/kz2YegfNnv2uSoaxoTaZOO41AKL.jpg"
+  },
+  "name": "Wo Shi Bu Bai Chi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1605,
+      "logo_path": "/cdRh1NZIUaqDUhwjgqWbp6zhWHK.png",
+      "name": "bilibili",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2007,
+      "logo_path": "/6Lfll43wYG2eyereOBjpYFRSGs4.png",
+      "name": "Tencent Video",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 800,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "我是不白吃",
+  "overview": "",
+  "popularity": 19.1103,
+  "poster_path": "/lIvptAgW7WzYILAggsRdNMs4YxQ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-07-31",
+      "episode_count": 800,
+      "id": 335248,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2KMaCT90CAtlPNHXb6OGIzhrzDQ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 223694,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

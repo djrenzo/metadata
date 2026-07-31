@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2374721,
+      "credit_id": "670b7dc8f58a9206aa40ce86",
+      "name": "Han Seo-ah",
+      "original_name": "Han Seo-ah",
+      "gender": 1,
+      "profile_path": "/hfcHoS3o2sCLkZHJpqcnSIDaEav.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2013-10-24",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 105660,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2014-10-09",
+  "last_episode_to_air": {
+    "id": 2337940,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-10-09",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 105660,
+    "still_path": null
+  },
+  "name": "색녀도",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "색녀도",
+  "overview": "",
+  "popularity": 21.2244,
+  "poster_path": "/rXdgS0wUXrjNQRvuDn5O00SIxi9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-10-24",
+      "episode_count": 4,
+      "id": 155534,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-21",
+      "episode_count": 8,
+      "id": 155535,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 9.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 105660,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

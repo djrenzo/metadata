@@ -1,0 +1,278 @@
+{
+  "adult": false,
+  "backdrop_path": "/lUZ6ThctsCMee63Cu02F1F6rgC1.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2025-01-05",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://medalist-pr.com",
+  "id": 237529,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-03-22",
+  "last_episode_to_air": {
+    "id": 6863315,
+    "name": "It Begins",
+    "overview": "At the Niigata rink, Inori and Tsukasa cross paths with Miku Ahiru, a formidable competitor, along with her coach Kohei Kamogawa and choreographer Juna Shiratori, both former clubmates of Tsukasa's. When Inori speaks with Miku, she discovers something unexpected about her rival's future in skating. Meanwhile, Tsukasa finds himself confronting uncomfortable truths about his abilities as a coach. With the competition approaching, both Inori and Tsukasa face questions that could reshape their path forward.",
+    "vote_average": 8,
+    "vote_count": 3,
+    "air_date": "2026-03-22",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 2,
+    "show_id": 237529,
+    "still_path": "/10uNfXdOw9CuMJCJoB9VRahidje.jpg"
+  },
+  "name": "Medalist",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 12,
+      "logo_path": "/eJSYeF1YIyQbZdTRNxuvVKaZOIK.png",
+      "name": "HTB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 576,
+      "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+      "name": "Nagoya TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1278,
+      "logo_path": "/49D825cN3Zb4slobKyGqIaI3Fx9.png",
+      "name": "KBC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1410,
+      "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+      "name": "ABC TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3756,
+      "logo_path": "/3lh8IYJbV6eHOaF0UFCvmmSJNvf.png",
+      "name": "NCC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4794,
+      "logo_path": "/vYcEzZlLmrxV9xKZx9jIUcHF1RC.png",
+      "name": "OAB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4798,
+      "logo_path": "/tiUMGPJVHYc5h1ZOt2jK80oNPz9.png",
+      "name": "ABA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6270,
+      "logo_path": "/xnHINTAs2GnfXJ3lalaQ0se8aup.png",
+      "name": "Niigata Television Network 21",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6284,
+      "logo_path": "/8QybJL7YGkOr3ECilGaGTqeId7A.png",
+      "name": "khb",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6285,
+      "logo_path": "/cFOQIanQr8wKvJKgIgaKiM3xnMU.png",
+      "name": "KFB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6288,
+      "logo_path": "/gm3ksoi7zQMWpHsJJDzotTwF2GM.png",
+      "name": "HOME",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6289,
+      "logo_path": "/sSE8F5yoFoVzClCkzLBksTDK7iI.png",
+      "name": "KSB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6290,
+      "logo_path": "/kgfTkjNRsR0f2QEiaXf2fymKB6V.png",
+      "name": "Kagoshima Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6365,
+      "logo_path": "/c1pvlKoEVLjejgQUCBFq5Q9n8gL.png",
+      "name": "Iwate Asahi TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6366,
+      "logo_path": "/dmSnk8fI8hpQOyCIrUDhj3TxTT8.png",
+      "name": "Akita Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6367,
+      "logo_path": "/jJWtS13oV0os1M5djVT6zjvnyq3.png",
+      "name": "Yamagata Television System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6368,
+      "logo_path": "/34nBfbkqxcjrbpVraEfI6MkCvgY.png",
+      "name": "Shizuoka Asahi TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6369,
+      "logo_path": "/ztA2E1CY6L3aF2roadAOHtLiDCP.png",
+      "name": "Asahi Broadcasting Nagano",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6370,
+      "logo_path": "/onsaMWqPfrINyAfgi2FnP8conv1.png",
+      "name": "Hokuriku Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6372,
+      "logo_path": "/1UunNUsoq9k1nMNppuY5qhgdWT3.png",
+      "name": "Ehime Asahi TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6373,
+      "logo_path": "/6iuVpZdxAE8lgPENUBuwzCspYF7.png",
+      "name": "Yamaguchi Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6374,
+      "logo_path": "/qBX8z5bj0EISsASQo5IE76BYpu5.png",
+      "name": "Kumamoto Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6375,
+      "logo_path": "/7hIrDssIDTG2sGLdq1IfYddv9tz.png",
+      "name": "Ryu-Q Asahi Broadcasting",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "メダリスト",
+  "overview": "Tsukasa Akeuraji, a frustrated skater, meets Inori Yuitsuka, a girl who yearns to be a figure skater. Motivated by Inori's obsession on the rink, Tsukasa begins coaching Inori. Inori's talent blossoms, and Tsukasa becomes a brilliant mentor. Together they aim to make her a glorious medalist!",
+  "popularity": 20.4814,
+  "poster_path": "/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
+  "production_companies": [
+    {
+      "id": 121246,
+      "logo_path": "/3OHTNLw7i8zHqrGVt5kfLBdtZ6A.png",
+      "name": "ENGI",
+      "origin_country": "JP"
+    },
+    {
+      "id": 59118,
+      "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+      "name": "Kodansha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-05",
+      "episode_count": 13,
+      "id": 361550,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/n4T4vCJQBiNLAspcl9nI9gqNMKT.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2026-01-25",
+      "episode_count": 9,
+      "id": 448788,
+      "name": "Season 2",
+      "overview": "The Chubu Block Tournament has begun! In the novice class, fierce competition awaits girls from prestigious clubs who have dedicated themselves to skating since childhood. Inori, who just advanced to the novice class last month, and her coach, Tsukasa, are challenging the elite, aiming for the coveted All Japan Championship.",
+      "poster_path": "/nJh5vrzCkfWfx8niCkfjHLJvDW9.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.175,
+  "vote_count": 58,
+  "external_ids": {
+    "id": 237529,
+    "imdb_id": "tt33310730",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 433953,
+    "tvrage_id": null,
+    "wikidata_id": "Q118451823",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "medalist_PR"
+  }
+}

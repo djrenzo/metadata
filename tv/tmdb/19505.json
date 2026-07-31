@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/8a2cdbtDvoxyYvmQ5iLua4NL4yf.jpg",
+  "created_by": [
+    {
+      "id": 1655785,
+      "credit_id": "5fe1e5a36a2227004089503c",
+      "name": "Marcelo Tinelli",
+      "original_name": "Marcelo Tinelli",
+      "gender": 2,
+      "profile_path": "/uNynnv52lkXZlhkcOznxyBvQUTS.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-01-02",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 19505,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2005-10-23",
+  "last_episode_to_air": {
+    "id": 3811892,
+    "name": "Episode 43",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-10-23",
+    "episode_number": 43,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 19505,
+    "still_path": null
+  },
+  "name": "Los Reyes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 216,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Los Reyes",
+  "overview": "Los Reyes is a telenovela filmed in Colombia and produced by the Colombian network, RCN. It debuted in 2005 and is available via RCN cable TV in the United States.",
+  "popularity": 38.4278,
+  "poster_path": "/gVadEZSakesdGRJzq7HbQh7yKyS.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 216,
+      "id": 220501,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yvI0jsoCnhhbYoZkiT2qOsvbUtR.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.464,
+  "vote_count": 151,
+  "external_ids": {
+    "id": 19505,
+    "imdb_id": "tt0469713",
+    "freebase_mid": "/m/07b5sb",
+    "freebase_id": "/en/los_reyes",
+    "tvdb_id": 360909,
+    "tvrage_id": null,
+    "wikidata_id": "Q6683212",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/18wS3MdzWlaWoKB8WtjBqGx2Kac.jpg",
+  "created_by": [
+    {
+      "id": 14874,
+      "credit_id": "52535a3e19c295794016c82d",
+      "name": "Gene Reynolds",
+      "original_name": "Gene Reynolds",
+      "gender": 2,
+      "profile_path": "/6yDAz8JMGw04ndeFhAxb1NR4OqC.jpg"
+    },
+    {
+      "id": 87214,
+      "credit_id": "52535a3e19c295794016c837",
+      "name": "Allan Burns",
+      "original_name": "Allan Burns",
+      "gender": 2,
+      "profile_path": "/bTRg9bezlF1JcEZ1QYeKyrIFAic.jpg"
+    },
+    {
+      "id": 3388,
+      "credit_id": "52535a3e19c295794016c83d",
+      "name": "James L. Brooks",
+      "original_name": "James L. Brooks",
+      "gender": 2,
+      "profile_path": "/9mKjOFabm3yDRe5EIGsgSgNir9l.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1977-09-20",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 480,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1982-09-13",
+  "last_episode_to_air": {
+    "id": 23650,
+    "name": "Charlie",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1982-09-13",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 5,
+    "show_id": 480,
+    "still_path": null
+  },
+  "name": "Lou Grant",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lou Grant",
+  "overview": "The trials of a former television station manager turned newspaper city editor, and his journalist staff.",
+  "popularity": 19.1032,
+  "poster_path": "/m03ZVjhCnkS6KakipWjQ9xGtS65.jpg",
+  "production_companies": [
+    {
+      "id": 15847,
+      "logo_path": "/citziAyntn5lDG23a6oKMTzptYt.png",
+      "name": "MTM Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1977-09-20",
+      "episode_count": 22,
+      "id": 1364,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wUwX5Dom1ECIcKZqvuICro1KBrh.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-25",
+      "episode_count": 24,
+      "id": 1362,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/5rOkeN9B7GJx2m6Dnthj3ZxqdzB.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-09-17",
+      "episode_count": 24,
+      "id": 1363,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/qzgOgVOVq3zaKJ97p7Enf2cNPlp.jpg",
+      "season_number": 3,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1980-09-22",
+      "episode_count": 20,
+      "id": 1361,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/7VTH2flV4I4DEfBiSycYKcDgGDR.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-11-02",
+      "episode_count": 24,
+      "id": 1360,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/gtjmIZeS5AsWnK3BP0zxo8OzLO6.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 29,
+  "external_ids": {
+    "id": 480,
+    "imdb_id": "tt0075528",
+    "freebase_mid": "/m/03_8kz",
+    "freebase_id": "/en/lou_grant",
+    "tvdb_id": 78302,
+    "tvrage_id": null,
+    "wikidata_id": "Q421733",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,47 @@
+name: Scrape TMDB TV Series
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_page:
+        description: "First page to scrape"
+        required: false
+        default: "1"
+      end_page:
+        description: "Last page to scrape (inclusive)"
+        required: false
+        default: "400"
+  # Uncomment to run automatically, e.g. weekly:
+  # schedule:
+  #   - cron: "0 3 * * 0"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        env:
+          START_PAGE: ${{ inputs.start_page || '1' }}
+          END_PAGE: ${{ inputs.end_page || '400' }}
+          OUTPUT_DIR: "."
+          DELAY_MS: "500"
+        run: node scrape.js
+
+      - name: Commit and push results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update TMDB TV series data (pages ${{ inputs.start_page || '1' }}-${{ inputs.end_page || '400' }})"
+          file_pattern: "tv/tmdb/*.json"

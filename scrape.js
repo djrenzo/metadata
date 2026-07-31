@@ -33,6 +33,7 @@ const START_PAGE = parseInt(process.env.START_PAGE ?? "1", 10);
 const END_PAGE = parseInt(process.env.END_PAGE ?? "1", 10);
 const OUTPUT_DIR = process.env.OUTPUT_DIR ?? ".";
 const DELAY_MS = parseInt(process.env.DELAY_MS ?? "500", 10);
+const DEBUG = process.env.DEBUG === "1";
 
 const SERIES_DIR = path.join(OUTPUT_DIR, "tv", "tmdb");
 
@@ -99,11 +100,22 @@ async function fetchDiscoverPage(cookieHeader, page) {
     body: buildDiscoverBody(page),
   });
 
+  const bodyText = await response.text();
+
+  console.log(
+    `  status=${response.status} content-type="${response.headers.get("content-type")}" bytes=${bodyText.length}`
+  );
+
   if (!response.ok) {
     throw new Error(`Page ${page} failed: HTTP ${response.status}`);
   }
 
-  return response.text();
+  if (DEBUG) {
+    await mkdir("debug", { recursive: true });
+    await writeFile(`debug/page-${page}.html`, bodyText, "utf-8");
+  }
+
+  return bodyText;
 }
 
 /**

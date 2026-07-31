@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Rm0TWMkqJh2HONWh1cBxUMZBG2.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2008-06-02",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 326686,
+  "in_production": true,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2009-07-16",
+  "last_episode_to_air": {
+    "id": 7434068,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2009-07-16",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 2,
+    "show_id": 326686,
+    "still_path": null
+  },
+  "name": "Морской патруль",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 558,
+      "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+      "name": "Channel One",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Морской патруль",
+  "overview": "",
+  "popularity": 10.2911,
+  "poster_path": "/4rGf3rieqlwgYGA33HBxGISlMNZ.jpg",
+  "production_companies": [
+    {
+      "id": 16081,
+      "logo_path": "/3P0P49TcY335rODfTobE9GSkaMO.png",
+      "name": "RWS",
+      "origin_country": "RU"
+    },
+    {
+      "id": 302890,
+      "logo_path": null,
+      "name": "Anapafilm",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-06-02",
+      "episode_count": 8,
+      "id": 525353,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4rGf3rieqlwgYGA33HBxGISlMNZ.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2009-06-29",
+      "episode_count": 12,
+      "id": 525355,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 326686,
+    "imdb_id": "tt4370422",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 256975,
+    "tvrage_id": null,
+    "wikidata_id": "Q4303385",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

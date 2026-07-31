@@ -89,13 +89,6 @@
     {
       "department": "Directing",
       "job": "Director",
-      "name": "Teresa Lampréia",
-      "profile_path": null,
-      "id": 2176033
-    },
-    {
-      "department": "Directing",
-      "job": "Director",
       "name": "Jayme Monjardim",
       "profile_path": "/usR0hvdl7OZpB0GK7MrgY1CXWWu.jpg",
       "id": 947056
@@ -110,15 +103,22 @@
     {
       "department": "Directing",
       "job": "Director",
+      "name": "Teresa Lampréia",
+      "profile_path": null,
+      "id": 2176033
+    },
+    {
+      "department": "Directing",
+      "job": "Director",
       "name": "Leonardo Nogueira",
       "profile_path": null,
       "id": 2066605
     }
   ],
   "director": [
-    "Teresa Lampréia",
     "Jayme Monjardim",
     "Marcelo Travesso",
+    "Teresa Lampréia",
     "Leonardo Nogueira"
   ],
   "videos": [

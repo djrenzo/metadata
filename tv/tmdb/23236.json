@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1997-05-12",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 23236,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2000-11-09",
+  "last_episode_to_air": {
+    "id": 621170,
+    "name": "Robert Winston, Phil Hammond, Muriel Gray",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-11-09",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 23236,
+    "still_path": null
+  },
+  "name": "Ruby",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Ruby",
+  "overview": "Ruby was a late-night talk show broadcast on BBC Two in the United Kingdom. The series premiered on 12 May 1997, and was hosted by writer and comedian Ruby Wax. In each episode Wax holds an unscripted roundtable discussion with up to five guests. Framed as a dinner party, guests included actors, writers, stand-up comedians, musicians, journalists and other well-known figures in the entertainment industry. A total of 48 episodes were broadcast between May 1997 and November 2000.",
+  "popularity": 9.5001,
+  "poster_path": "/cy5hRqsfEAcc2B7hV8Kt3o8kQHK.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1997-05-12",
+      "episode_count": 12,
+      "id": 33152,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-07-06",
+      "episode_count": 12,
+      "id": 33153,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-13",
+      "episode_count": 12,
+      "id": 33154,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-23",
+      "episode_count": 12,
+      "id": 33155,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 23236,
+    "imdb_id": "tt0118455",
+    "freebase_mid": "/m/07cf64w",
+    "freebase_id": null,
+    "tvdb_id": 424204,
+    "tvrage_id": 1800,
+    "wikidata_id": "Q85798115",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

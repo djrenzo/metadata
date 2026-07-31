@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/w5J2D78vKocVGQbmVxNWziY8TvT.jpg",
+  "created_by": [
+    {
+      "id": 1214034,
+      "credit_id": "525755aa760ee36aaa229cf9",
+      "name": "James D. Parriott",
+      "original_name": "James D. Parriott",
+      "gender": 2,
+      "profile_path": "/7Rwri8ODXeGzNi2sOpJyK3F5pYg.jpg"
+    },
+    {
+      "id": 58816,
+      "credit_id": "525755aa760ee36aaa229d0b",
+      "name": "Barney Cohen",
+      "original_name": "Barney Cohen",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1992-05-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 3743,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1996-05-18",
+  "last_episode_to_air": {
+    "id": 262708,
+    "name": "Last Knight",
+    "overview": "A suicide of a friend and colleague causes Natalie to reexamine her life and her feelings for Nick. Nick, too, is dealing with the loss of a friend, and his own feelings and reactions. When Natalie confronts him, Nick makes some decisions that will have far-reaching implications in all of their lives.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-05-18",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 3743,
+    "still_path": "/5G6okvcQ8iFnO72c6vBya8iEGyo.jpg"
+  },
+  "name": "Forever Knight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 70,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Forever Knight",
+  "overview": "Forever Knight is a Canadian television series about Nick Knight, an 800-year-old vampire working as a police detective in modern day Toronto. Wracked with guilt for centuries of killing others, he seeks redemption by working as a homicide detective on the night shift while struggling to find a way to become human again. The series premiered on May 5, 1992 and concluded with the third season finale on May 17, 1996.",
+  "popularity": 9.582,
+  "poster_path": "/aXlJjgxsorDOCl4cDoWpwN7x0JN.jpg",
+  "production_companies": [
+    {
+      "id": 16642,
+      "logo_path": "/26SNPq1jCkHIK51V8Lu88S52IpX.png",
+      "name": "USA Network",
+      "origin_country": "US"
+    },
+    {
+      "id": 15168,
+      "logo_path": null,
+      "name": "Glen Warren Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 56588,
+      "logo_path": "/vWm11lGI7Quh6kFGFU92AFwhmXS.png",
+      "name": "Paragon Entertainment Corporation",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8609,
+      "logo_path": "/aX7HQqzdIV7ttd90u4L1H643ZNa.png",
+      "name": "TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1469,
+      "logo_path": "/AwbErjR0AMpVnN9PbdHiBB3g3q0.png",
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1989-08-20",
+      "episode_count": 6,
+      "id": 11220,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/1auYFinGeCKMIUaGif6yTqG3EhH.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-05-05",
+      "episode_count": 22,
+      "id": 11219,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rKsHFVDDpSx4WNtbFhx4IYsXUZz.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1994-09-17",
+      "episode_count": 26,
+      "id": 11218,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/s3KGoCJyz9Ur4fndqpL2U6geHg6.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-16",
+      "episode_count": 22,
+      "id": 11217,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/xRePEkSnArIQkdB6QzqGliZLfyB.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "13TH CENTURY VAMPIRE. 20TH CENTURY COP.",
+  "type": "Scripted",
+  "vote_average": 6.848,
+  "vote_count": 33,
+  "external_ids": {
+    "id": 3743,
+    "imdb_id": "tt0103417",
+    "freebase_mid": "/m/02zt_z",
+    "freebase_id": "/en/forever_knight",
+    "tvdb_id": 78196,
+    "tvrage_id": 3582,
+    "wikidata_id": "Q376745",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

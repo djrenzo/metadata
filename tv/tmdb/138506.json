@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/hytXUv5SqYNpEcPUrpKZSw9LPH0.jpg",
+  "created_by": [
+    {
+      "id": 2006199,
+      "credit_id": "618ec5d394631800430d57ee",
+      "name": "Jonathan Cuchacovich",
+      "original_name": "Jonathan Cuchacovich",
+      "gender": 2,
+      "profile_path": "/zCtc4WXvyWSnUqyFSkM8GkbkCnr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-11-23",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.mega.cl/teleseries/amar-profundo/",
+  "id": 138506,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2022-08-24",
+  "last_episode_to_air": {
+    "id": 3912399,
+    "name": "Final",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-08-24",
+    "episode_number": 156,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 138506,
+    "still_path": null
+  },
+  "name": "Amar profundo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Amar profundo",
+  "overview": "",
+  "popularity": 10.1338,
+  "poster_path": "/cak8Yc54KmUqRFFpY4PuIJfLBWE.jpg",
+  "production_companies": [
+    {
+      "id": 146098,
+      "logo_path": "/yBKqwUXRrWwPzmzPusQIguocDZW.png",
+      "name": "Río Estudios",
+      "origin_country": "CL"
+    },
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-11-23",
+      "episode_count": 156,
+      "id": 219376,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cak8Yc54KmUqRFFpY4PuIJfLBWE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 138506,
+    "imdb_id": "tt15685422",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 412772,
+    "tvrage_id": null,
+    "wikidata_id": "Q109638512",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

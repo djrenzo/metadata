@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/uCnTU56RUJefM7hkj62P1ut4jyC.jpg",
+  "created_by": [
+    {
+      "id": 1234804,
+      "credit_id": "5dca0ad999259c0015869e7c",
+      "name": "Hagai Levi",
+      "original_name": "חגי לוי",
+      "gender": 2,
+      "profile_path": "/aApuJhc76igldZtIUqerq4bc2zl.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2013-04-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 56517,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2017-05-06",
+  "last_episode_to_air": {
+    "id": 1980818,
+    "name": "Episode 35",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-05-06",
+    "episode_number": 35,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 3,
+    "show_id": 56517,
+    "still_path": "/krBZhKVFqnVgpFIRcj7L6tsWAPu.jpg"
+  },
+  "name": "In Treatment",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 877,
+      "logo_path": "/eia3wASVi2KULA1hgy0gXIeSihs.png",
+      "name": "Sky Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2667,
+      "logo_path": "/nVpGpZ1TPhR0sYl4ssXVlU6EXhF.png",
+      "name": "Sky Atlantic ",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 105,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "In Treatment",
+  "overview": "In Treatment is an Italian TV series directed by Saverio Costanzo and starring Sergio Castellitto.",
+  "popularity": 14.3679,
+  "poster_path": "/7dRWKRKxSotniIxyoyMtEWStJPX.jpg",
+  "production_companies": [
+    {
+      "id": 21246,
+      "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-04-01",
+      "episode_count": 35,
+      "id": 103514,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oEwiXeQLipdUfFEDddUjpitFrSA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-23",
+      "episode_count": 35,
+      "id": 103515,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/cSCh5COVHZfSAm9XjP8zsQf0ILU.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-25",
+      "episode_count": 35,
+      "id": 103513,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/2d4WQtng7e2pSTZHfpNNi85zcFS.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 56517,
+    "imdb_id": "tt2569058",
+    "freebase_mid": "/m/0wbg90h",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q13460694",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

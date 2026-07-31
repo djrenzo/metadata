@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/c13PFI4XcLANzKqaKy6Nr9BHKUz.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-07-06",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.ccma.cat/3cat/spursito-company/",
+  "id": 261137,
+  "in_production": true,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2025-09-14",
+  "last_episode_to_air": {
+    "id": 6628608,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-09-14",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 2,
+    "show_id": 261137,
+    "still_path": null
+  },
+  "name": "Spursito & Company",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 7167,
+      "logo_path": "/gUbU5TAWRQ7rV58zk1llnneaMMj.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 64,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "Spursito & Company",
+  "overview": "",
+  "popularity": 10.4007,
+  "poster_path": "/bcASwOs9hYgOHJ58SOtFu0NdeDx.jpg",
+  "production_companies": [
+    {
+      "id": 211922,
+      "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    },
+    {
+      "id": 235845,
+      "logo_path": null,
+      "name": "Monmedia",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-07-06",
+      "episode_count": 49,
+      "id": 405715,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bxdHhOJHj5xUlmtQAbiQlmP6QtH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-03-02",
+      "episode_count": 15,
+      "id": 443525,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bcASwOs9hYgOHJ58SOtFu0NdeDx.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 261137,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

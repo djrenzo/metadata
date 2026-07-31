@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/sqebjmqJKmaQFqfSS2wY7slN563.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    66
+  ],
+  "first_air_date": "2024-04-08",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.noovo.ca/emissions/les-traitres",
+  "id": 244999,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-06-15",
+  "last_episode_to_air": {
+    "id": 7343348,
+    "name": "Episode 11",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-15",
+    "episode_number": 11,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 244999,
+    "still_path": null
+  },
+  "name": "Les Traîtres",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1344,
+      "logo_path": "/xlVkcuR2NqruUHh8gPaAw9BvOCT.png",
+      "name": "Crave",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4161,
+      "logo_path": "/7dzxnDuCswtRkN9pSSUM7n6Lprn.png",
+      "name": "Noovo",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 33,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Traîtres",
+  "overview": "Karine Vanasse invites 20 guests to her mysterious mansion for a new reality TV thriller. Among them are traitors who will kill a member of the faithful each night in order to be the only ones to get their hands on the loot worth up to $100,000. Will the traitors be unmasked in time?",
+  "popularity": 14.035,
+  "poster_path": "/4Vgm1Mhxyq7WO4BtFADgeBipsoY.jpg",
+  "production_companies": [
+    {
+      "id": 102694,
+      "logo_path": null,
+      "name": "Groupe Entourage",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-04-08",
+      "episode_count": 11,
+      "id": 376706,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2KpNgrNfVvlrYFyS8Uziwnf9aXW.jpg",
+      "season_number": 1,
+      "vote_average": 1.2
+    },
+    {
+      "air_date": "2025-03-24",
+      "episode_count": 11,
+      "id": 447791,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/zhze16I2nk1wUNimq7KUnFOGAPz.jpg",
+      "season_number": 2,
+      "vote_average": 1.1
+    },
+    {
+      "air_date": "2026-04-06",
+      "episode_count": 11,
+      "id": 505541,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/coQbZdKesqiJ3NR5wM0mm0y0TsV.jpg",
+      "season_number": 3,
+      "vote_average": 1.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 2.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 244999,
+    "imdb_id": "tt31124565",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 445493,
+    "tvrage_id": null,
+    "wikidata_id": "Q135580057",
+    "facebook_id": "lestraitres",
+    "instagram_id": "lestraitres_noovo",
+    "twitter_id": null
+  }
+}

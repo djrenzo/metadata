@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2331024,
+      "credit_id": "5f891408021cee0037bda132",
+      "name": "Wan Hasliza Wan Zainuddin",
+      "original_name": "Wan Hasliza Wan Zainuddin",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2012-07-03",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 93023,
+  "in_production": true,
+  "languages": [
+    "ms"
+  ],
+  "last_air_date": "2015-01-12",
+  "last_episode_to_air": {
+    "id": 1906656,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-01-12",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 93023,
+    "still_path": null
+  },
+  "name": "Keluarga Iskandar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1743,
+      "logo_path": "/h3fFqUqdoT9YCsQxbuU5x4ehmmB.png",
+      "name": "Astro Prima",
+      "origin_country": "MY"
+    },
+    {
+      "id": 1742,
+      "logo_path": "/qBMcf4uoXu6LH4TEd9SFDB8T56M.png",
+      "name": "Astro Warna",
+      "origin_country": "MY"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "MY"
+  ],
+  "original_language": "ms",
+  "original_name": "Keluarga Iskandar",
+  "overview": "The Iskandar Family Drama tells the story of a firm and loving mother named Mak Jah who tries her best to unite her children, son-in-law and grandchildren who have been hit by a strife.",
+  "popularity": 10.1489,
+  "poster_path": "/wMo94pTkAgABLEUu8UcmpIU45Zv.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-07-03",
+      "episode_count": 15,
+      "id": 131216,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-22",
+      "episode_count": 17,
+      "id": 131217,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Malay",
+      "iso_639_1": "ms",
+      "name": "Bahasa melayu"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 93023,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

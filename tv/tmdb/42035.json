@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/juDksh1UeSodTjavLxiC4JJgn3F.jpg",
+  "created_by": [
+    {
+      "id": 1255408,
+      "credit_id": "52595fd7760ee3466195a1d4",
+      "name": "Iván Escobar",
+      "original_name": "Iván Escobar",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 82725,
+      "credit_id": "52595fd6760ee3466195a1cb",
+      "name": "Álex Pina",
+      "original_name": "Álex Pina",
+      "gender": 2,
+      "profile_path": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2011-01-17",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.antena3.com/series/el-barco/",
+  "id": 42035,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2013-02-21",
+  "last_episode_to_air": {
+    "id": 1048638,
+    "name": "The last bullet",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-02-21",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 105,
+    "season_number": 3,
+    "show_id": 42035,
+    "still_path": "/j0ypY3CZgPWzTJADsjIgmGMibJw.jpg"
+  },
+  "name": "The Boat",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 400,
+      "logo_path": "/l7MngINTyv0O6mNlwNsUlhQ9iwZ.png",
+      "name": "Antena 3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 43,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "El barco",
+  "overview": "A global cataclysm, caused by a fatal accident in Geneva (Switzerland) during the implementation of the particle accelerator will lead to the crew and students of the school-ship Polar Star to live the greatest adventure of their lives. Isolated and aware that we only have each other, the ship will become their only home.",
+  "popularity": 10.6305,
+  "poster_path": "/tfifgKMWPCtEebp7wH9vBKkDpcx.jpg",
+  "production_companies": [
+    {
+      "id": 42819,
+      "logo_path": "/f5h7s7xdwG3mL3F3MWnQfwMdRli.png",
+      "name": "Globomedia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-01-17",
+      "episode_count": 13,
+      "id": 65487,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hZNmgWHIcxq4v9W8FsAyWLnSlGM.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2011-09-08",
+      "episode_count": 14,
+      "id": 65486,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/x6fM4Qau1GsYp63egrfGZdk2xsE.jpg",
+      "season_number": 2,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2012-10-18",
+      "episode_count": 16,
+      "id": 51988,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/eV0LWcCm9rLGpcXiY2W7CjTx6vu.jpg",
+      "season_number": 3,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.846,
+  "vote_count": 1684,
+  "external_ids": {
+    "id": 42035,
+    "imdb_id": "tt1788634",
+    "freebase_mid": "/m/0g9xgs_",
+    "freebase_id": null,
+    "tvdb_id": 223111,
+    "tvrage_id": null,
+    "wikidata_id": "Q250868",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

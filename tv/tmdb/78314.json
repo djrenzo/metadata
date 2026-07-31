@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/eQHuwHhHOcrW6Q7SHaR9kLjppBq.jpg",
+  "created_by": [
+    {
+      "id": 1256431,
+      "credit_id": "69f2606c805e6d0ce2b3b841",
+      "name": "Carlos Duplat Sanjuan",
+      "original_name": "Carlos Duplat",
+      "gender": 1,
+      "profile_path": "/l5kcRUtbNQXxyCMQ8b3bLMxonnJ.jpg"
+    },
+    {
+      "id": 3739435,
+      "credit_id": "69f26089deec873b57b3b80d",
+      "name": "Luz Mariela Santofimio",
+      "original_name": "Luz Mariela Santofimio",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2018-03-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 78314,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-04-08",
+  "last_episode_to_air": {
+    "id": 4255868,
+    "name": "Episode 57",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-04-08",
+    "episode_number": 57,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 78314,
+    "still_path": "/2Peo86TDPVb7edfBmzFV4G4jLDw.jpg"
+  },
+  "name": "Tres milagros",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6197,
+      "logo_path": "/4ULyunbNiQ4JAM9qkIbxSZBvawf.png",
+      "name": "TV Azteca",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 57,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Tres milagros",
+  "overview": "Three women who are born on the same day and at the same time are marked by a prophecy: the day the three meet and fall in love with the same man, one of them will die. Despite coming from opposite worlds, their paths inevitably cross.",
+  "popularity": 15.8218,
+  "poster_path": "/dE3k1uOAncEdaIA6Gtx82JFzI3p.jpg",
+  "production_companies": [
+    {
+      "id": 296908,
+      "logo_path": null,
+      "name": "Teleset",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-03-12",
+      "episode_count": 57,
+      "id": 101379,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.408,
+  "vote_count": 130,
+  "external_ids": {
+    "id": 78314,
+    "imdb_id": "tt8134736",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q48841793",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

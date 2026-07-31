@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/pV3oQkffLBLxqCKEGdtxbJ6fJs8.jpg",
+  "created_by": [
+    {
+      "id": 2583229,
+      "credit_id": "5f1479f84083b3003606f0fa",
+      "name": "José Francisco García",
+      "original_name": "José Francisco García",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2004-03-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.megago.cl/serie/62f2699c71e432e2b5b5f3f7",
+  "id": 106200,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-11-11",
+  "last_episode_to_air": {
+    "id": 2782844,
+    "name": "Episode 27",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-11-11",
+    "episode_number": 27,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 11,
+    "show_id": 106200,
+    "still_path": null
+  },
+  "name": "BKN",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 282,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "BKN",
+  "overview": "The life experiences of a group of friends who are motivated by the same goal: their love for music.",
+  "popularity": 10.8526,
+  "poster_path": "/gUK8YxL0W25sdwB99vXw76Owf0m.jpg",
+  "production_companies": [
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-03-06",
+      "episode_count": 12,
+      "id": 156814,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-02",
+      "episode_count": 13,
+      "id": 156817,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-03-12",
+      "episode_count": 19,
+      "id": 156819,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-01",
+      "episode_count": 13,
+      "id": 156821,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-03-18",
+      "episode_count": 28,
+      "id": 156824,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-24",
+      "episode_count": 35,
+      "id": 184113,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-05",
+      "episode_count": 34,
+      "id": 184386,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-18",
+      "episode_count": 34,
+      "id": 185213,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-10",
+      "episode_count": 33,
+      "id": 185214,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-05-08",
+      "episode_count": 34,
+      "id": 185215,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-05-06",
+      "episode_count": 27,
+      "id": 185216,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 106200,
+    "imdb_id": "tt0446816",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 343556,
+    "tvrage_id": null,
+    "wikidata_id": "Q2880364",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

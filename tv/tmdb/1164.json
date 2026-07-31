@@ -1,0 +1,140 @@
+{
+  "adult": false,
+  "backdrop_path": "/jHz4oIWn458dQTxQTDvgrkouzMx.jpg",
+  "created_by": [
+    {
+      "id": 1244265,
+      "credit_id": "63cd1ed7e24b93008194413b",
+      "name": "Caridad Bravo Adams",
+      "original_name": "Caridad Bravo Adams",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1232847,
+      "credit_id": "63cd1ee06d97e6007c9de2d5",
+      "name": "Inés Rodena",
+      "original_name": "Inés Rodena",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2005-09-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://vix.com/es-es/detail/series-3000",
+  "id": 1164,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2006-10-14",
+  "last_episode_to_air": {
+    "id": 4483268,
+    "name": "Episode 280",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-10-14",
+    "episode_number": 280,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 1164,
+    "still_path": null
+  },
+  "name": "El Amor no Tiene Precio",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 280,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US",
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "El Amor no Tiene Precio",
+  "overview": "El amor no tiene precio is an American telenovela. It aired in 2005 until the series finale in 2006.",
+  "popularity": 9.4638,
+  "poster_path": "/3OVGKqLZBSQSJ6t8TBvdPxp3jpc.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    },
+    {
+      "id": 141793,
+      "logo_path": null,
+      "name": "Univision Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-09-26",
+      "episode_count": 280,
+      "id": 343088,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3OVGKqLZBSQSJ6t8TBvdPxp3jpc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 1164,
+    "imdb_id": "tt0443790",
+    "freebase_mid": "/m/02rshxz",
+    "freebase_id": "/en/el_amor_no_tiene_precio",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1532846",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

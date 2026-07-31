@@ -1,0 +1,241 @@
+{
+  "adult": false,
+  "backdrop_path": "/7EXt3412GXNq8jEdZnfQGWfLbJ4.jpg",
+  "created_by": [
+    {
+      "id": 77734,
+      "credit_id": "62edc13546aed4007aa3a2b1",
+      "name": "Bruno Solo",
+      "original_name": "Bruno Solo",
+      "gender": 2,
+      "profile_path": "/t7Hn92TFs0vwk7EaZ6alFc4APjD.jpg"
+    },
+    {
+      "id": 77735,
+      "credit_id": "62edc13c176a94007eebd7d4",
+      "name": "Yvan Le Bolloc'h",
+      "original_name": "Yvan Le Bolloc'h",
+      "gender": 2,
+      "profile_path": "/uLw8OO2a7HbweRcHRhhutSKY4bI.jpg"
+    },
+    {
+      "id": 1168535,
+      "credit_id": "62edc145ae281100879d88e7",
+      "name": "Alain Kappauf",
+      "original_name": "Alain Kappauf",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1238483,
+      "credit_id": "62edc14fefea7a008ed22978",
+      "name": "François Avard",
+      "original_name": "François Avard",
+      "gender": 2,
+      "profile_path": "/xIAeWrPiw5qAmfhbnD2WI6oeoCN.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2002-09-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.qub.ca/tvaplus/tva/camera-cafe",
+  "id": 88999,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2021-03-30",
+  "last_episode_to_air": {
+    "id": 2831252,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-03-30",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 11,
+    "show_id": 88999,
+    "still_path": null
+  },
+  "name": "Caméra Café",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 302,
+      "logo_path": "/gc3SsJUQa7mGnHLds13zzoxG3zd.png",
+      "name": "TVA",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 194,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Caméra Café",
+  "overview": "'Caméra Café' tells the daily life of employees at a Montreal branch of a large Toronto company through the camera hidden inside a coffee machine installed upon request of the big boss.",
+  "popularity": 11.1478,
+  "poster_path": "/kg1HmlGenbl4YmTqp5yGcsjHZDp.jpg",
+  "production_companies": [
+    {
+      "id": 68213,
+      "logo_path": "/cCUPmYoeuuPwq5ipCTZVrqAFIAh.png",
+      "name": "Encore Télévision",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-09-16",
+      "episode_count": 19,
+      "id": 123490,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-27",
+      "episode_count": 18,
+      "id": 123491,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-26",
+      "episode_count": 18,
+      "id": 123492,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-24",
+      "episode_count": 18,
+      "id": 123493,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-23",
+      "episode_count": 18,
+      "id": 123494,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-24",
+      "episode_count": 18,
+      "id": 123495,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-30",
+      "episode_count": 18,
+      "id": 123496,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-29",
+      "episode_count": 18,
+      "id": 123497,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-28",
+      "episode_count": 18,
+      "id": 123498,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-27",
+      "episode_count": 19,
+      "id": 123499,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-12",
+      "episode_count": 12,
+      "id": 176976,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/kg1HmlGenbl4YmTqp5yGcsjHZDp.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 88999,
+    "imdb_id": "tt0385384",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 80515,
+    "tvrage_id": null,
+    "wikidata_id": "Q2935699",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

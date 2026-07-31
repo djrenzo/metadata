@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/1MJWfYZjtHIBza7X7JCoqpKBtKQ.jpg",
+  "created_by": [
+    {
+      "id": 3425086,
+      "credit_id": "66eded8f4a7f0b18b025ccc1",
+      "name": "Tomaž Grubar",
+      "original_name": "Tomaž Grubar",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 584363,
+      "credit_id": "66eded994a7f0b18b025ccc9",
+      "name": "Vojko Anzeljc",
+      "original_name": "Vojko Anzeljc",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 584384,
+      "credit_id": "66ededa2b348bea4eb3adf8f",
+      "name": "Sašo Kolarič",
+      "original_name": "Sašo Kolarič",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2015-03-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.planet.si/storija/",
+  "id": 70655,
+  "in_production": false,
+  "languages": [
+    "sl"
+  ],
+  "last_air_date": "2017-12-12",
+  "last_episode_to_air": {
+    "id": 5611418,
+    "name": "Episode 72",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-12",
+    "episode_number": 72,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 6,
+    "show_id": 70655,
+    "still_path": null
+  },
+  "name": "The Finest Story",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7776,
+      "logo_path": "/jt9jp2SzI0owQc8whGAgM2euyHg.png",
+      "name": "Planet TV",
+      "origin_country": "SI"
+    }
+  ],
+  "number_of_episodes": 363,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "SI"
+  ],
+  "original_language": "sl",
+  "original_name": "Ena žlahtna štorija",
+  "overview": "The story takes place in the Goriska region, on an estate worth several million euros, which is also a tourist facility outside the series. The Spacapans have owned this estate since 1715. The current owner of the estate is Berto Spacapan, whose wife Tonka died in an accident.",
+  "popularity": 8.6206,
+  "poster_path": "/dl9vGyv6OnezDzpRgkG9OkxZ3Y5.jpg",
+  "production_companies": [
+    {
+      "id": 93432,
+      "logo_path": null,
+      "name": "Mangart",
+      "origin_country": "SI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SI",
+      "name": "Slovenia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-12-24",
+      "episode_count": 2,
+      "id": 419533,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-11",
+      "episode_count": 45,
+      "id": 86051,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dl9vGyv6OnezDzpRgkG9OkxZ3Y5.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 60,
+      "id": 419525,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-22",
+      "episode_count": 60,
+      "id": 419526,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-26",
+      "episode_count": 60,
+      "id": 419527,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-20",
+      "episode_count": 66,
+      "id": 419528,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 72,
+      "id": 419529,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovenian",
+      "iso_639_1": "sl",
+      "name": "Slovenščina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 70655,
+    "imdb_id": "tt5046672",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 296883,
+    "tvrage_id": null,
+    "wikidata_id": "Q20524277",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/elcOzkdtaTVByQYX3wnpnMmfcgB.jpg",
+  "created_by": [
+    {
+      "id": 548501,
+      "credit_id": "600abae1391b9c0041d35f5a",
+      "name": "Tonke Dragt",
+      "original_name": "Tonke Dragt",
+      "gender": 1,
+      "profile_path": "/ui1RkOX1ZlDiHE0gRxi41pkuKhj.jpg"
+    }
+  ],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "1982-09-30",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 22556,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "1982-12-23",
+  "last_episode_to_air": {
+    "id": 613222,
+    "name": "De Schat",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1982-12-23",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 22556,
+    "still_path": null
+  },
+  "name": "De Zevensprong",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1507,
+      "logo_path": "/fNRriPhwrnqLLTtus56ZVMrTUta.png",
+      "name": "NCRV",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "De Zevensprong",
+  "overview": "Frans, an elementary school teacher gets involved in a conspiracy to save Geert-Jan Grisenstijn from the hands of his uncle, the evil count.",
+  "popularity": 10.0324,
+  "poster_path": "/yzLPMAQ8zSqUWy6edaCHynCiWrZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 362184,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/kajmyKPGSMnU0OTBHyBdEUxtvMc.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-09-30",
+      "episode_count": 13,
+      "id": 32505,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kajmyKPGSMnU0OTBHyBdEUxtvMc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 22556,
+    "imdb_id": "tt0229933",
+    "freebase_mid": "/m/07cdyst",
+    "freebase_id": "/en/zevensprong_de",
+    "tvdb_id": 81635,
+    "tvrage_id": 18673,
+    "wikidata_id": "Q27681076",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/85H8sg5lGlHnWlRf7Nait0PNa3F.jpg",
+  "created_by": [
+    {
+      "id": 57342,
+      "credit_id": "68ef17a4bb995d78cf096045",
+      "name": "Vince McMahon",
+      "original_name": "Vince McMahon",
+      "gender": 2,
+      "profile_path": "/3m4Z7YwnTqgLlQWP7A7TgYOJrj7.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1980-01-12",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 11049,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1981-05-02",
+  "last_episode_to_air": {
+    "id": 6602732,
+    "name": "WWF Championship Wrestling - May 02, 1981",
+    "overview": "Pete Mitchell battles Mil Mascaras. Pat Patterson interviews \"Captain\" Lou Albano and King Kong Angel Mosca. Chris Canyon faces Tony Atlas.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1981-05-02",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 11049,
+    "still_path": "/eiXvntp9T2bCioO6y51FawBrY98.jpg"
+  },
+  "name": "WWF Championship Wrestling",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 60,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "WWF Championship Wrestling",
+  "overview": "The first nationally syndicated WWE television series, Championship Wrestling features numerous WWE Hall of Famers and Legends in action.",
+  "popularity": 10.2459,
+  "poster_path": "/atEZUfSl4LkNGlWCoNw1ftNVXJb.jpg",
+  "production_companies": [
+    {
+      "id": 146598,
+      "logo_path": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+      "name": "World Wrestling Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1980-01-12",
+      "episode_count": 43,
+      "id": 479328,
+      "name": "WWF Championship Wrestling - 1980",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-03",
+      "episode_count": 17,
+      "id": 479819,
+      "name": "WWF Championship Wrestling - 1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 11049,
+    "imdb_id": "",
+    "freebase_mid": "/m/07dwjx",
+    "freebase_id": "/en/wwwf_championship_wrestling",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

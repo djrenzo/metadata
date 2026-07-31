@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1995-04-04",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 22770,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1996-06-21",
+  "last_episode_to_air": {
+    "id": 5417964,
+    "name": "Episode 151",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-06-21",
+    "episode_number": 151,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 22770,
+    "still_path": null
+  },
+  "name": "Lo + plus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3928,
+      "logo_path": "/uqL7eW8ZCMEneET9kTaCi3IpgMn.png",
+      "name": "Canal+",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Lo + plus",
+  "overview": "",
+  "popularity": 8.5024,
+  "poster_path": "/22QPBqR0C6Yr0ooaoL0DZcEBhzs.jpg",
+  "production_companies": [
+    {
+      "id": 64869,
+      "logo_path": null,
+      "name": "Sogecable S.A.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-04-04",
+      "episode_count": 151,
+      "id": 182099,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 22770,
+    "imdb_id": null,
+    "freebase_mid": "/m/07cf0cx",
+    "freebase_id": "/en/lo_plus_plus",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

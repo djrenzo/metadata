@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/rrZFI7f0C21K0FCmpeTBbymW4kr.jpg",
+  "created_by": [
+    {
+      "id": 1245986,
+      "credit_id": "568bcdd49251417c06006a48",
+      "name": "Giora Chamizer",
+      "original_name": "Giora Chamizer",
+      "gender": 2,
+      "profile_path": "/f81NPyXbA4b0eQlLa7UHWLOrCPg.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2014-11-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65157,
+  "in_production": false,
+  "languages": [
+    "he"
+  ],
+  "last_air_date": "2018-06-27",
+  "last_episode_to_air": {
+    "id": 4021456,
+    "name": "Episode 49",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-06-27",
+    "episode_number": 49,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 3,
+    "show_id": 65157,
+    "still_path": null
+  },
+  "name": "Shchuna",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2314,
+      "logo_path": "/hKtz4SwUQwicMrwc5y3Hm6sQfRa.png",
+      "name": "Nickelodeon",
+      "origin_country": "IL"
+    },
+    {
+      "id": 1804,
+      "logo_path": "/9xb1C2ftjrJmQaDRVfgrohd1W8N.png",
+      "name": "HOT VOD Young",
+      "origin_country": "IL"
+    }
+  ],
+  "number_of_episodes": 149,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "he",
+  "original_name": "שכונה",
+  "overview": "A group of teenagers live in a small neighborhood, everybody know each other and all are good friends. However, behind a wall there is a big city of rich people, that will do anything to make the others feel bad.",
+  "popularity": 8.7426,
+  "poster_path": "/i9Absq4oEfwFsSYXrw1IiQJMHiB.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-11-02",
+      "episode_count": 50,
+      "id": 73562,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pF0VcTRbGvOARiEHpMJw6OwbhBI.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-09",
+      "episode_count": 50,
+      "id": 89205,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7NEhGs2TGmEdWw0ujOeroeEqd46.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-08",
+      "episode_count": 49,
+      "id": 313770,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/m52MGHlgvTEshlEFPng92MdAzTc.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 65157,
+    "imdb_id": "tt4211288",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 287973,
+    "tvrage_id": null,
+    "wikidata_id": "Q18203800",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

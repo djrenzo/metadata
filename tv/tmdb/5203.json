@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 168330,
+      "credit_id": "606b05069ca7590029e8ca97",
+      "name": "Ben Lewin",
+      "original_name": "Ben Lewin",
+      "gender": 2,
+      "profile_path": "/yUcFotxiIBNpbAl5zo7galsogdK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50,
+    60
+  ],
+  "first_air_date": "1987-02-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 5203,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1990-08-31",
+  "last_episode_to_air": {
+    "id": 2852368,
+    "name": "Guilty",
+    "overview": "Michael is consumed by guilt after he hits a man with his car; however he starts to wonder if maybe there are deeper issues at play when he seeks guidance on how to deal with his feelings.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1990-08-31",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 4,
+    "show_id": 5203,
+    "still_path": null
+  },
+  "name": "Rafferty's Rules",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 86,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Rafferty's Rules",
+  "overview": "Rafferty's Rules was an Australian television drama series which ran from 1987 to 1990 on the Seven Network.\n\nRafferty's Rules was one of the first programs undertaken by the Seven Network's then new in-house drama unit, going into production in May 1985 as \"a 15-part courtroom drama\". The program had started out as a pilot episode, recorded in early 1984 with the actor Chris Haywood in the lead role. When the pilot episode was remounted later in 1984, Chris Haywood wasn't available and the lead role was re-cast to John Wood. This second recording was eventually broadcast as the program's first episode.",
+  "popularity": 10.681,
+  "poster_path": "/iWY6s5SilGbn6NyiZsc2j0YTrtx.jpg",
+  "production_companies": [
+    {
+      "id": 46814,
+      "logo_path": "/b3sb5sFRj0EEpMHlNtFBO0fQKSw.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    },
+    {
+      "id": 228668,
+      "logo_path": null,
+      "name": "Amalgamated Television Services",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-02-12",
+      "episode_count": 15,
+      "id": 189241,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-03-12",
+      "episode_count": 11,
+      "id": 189242,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-02-04",
+      "episode_count": 30,
+      "id": 189243,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-02-09",
+      "episode_count": 30,
+      "id": 189244,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 5203,
+    "imdb_id": "tt0092433",
+    "freebase_mid": "/m/0bsz46",
+    "freebase_id": "/en/raffertys_rules",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q7282548",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/2GWvr8HYSWPNjXRX0kmNdCmvTJ6.jpg",
+  "created_by": [
+    {
+      "id": 165899,
+      "credit_id": "660b3243cabfe4017e2fa168",
+      "name": "Simon Cowell",
+      "original_name": "Simon Cowell",
+      "gender": 2,
+      "profile_path": "/pKllSRO03fLD6z0dMMQAuooKXhF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2010-08-20",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 31644,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2018-10-15",
+  "last_episode_to_air": {
+    "id": 3319280,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-10-15",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 4,
+    "show_id": 31644,
+    "still_path": null
+  },
+  "name": "X Factor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 781,
+      "logo_path": "/tfrd4tN4KOr9cWmMBI1xdhWc6v6.png",
+      "name": "VOX",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5136,
+      "logo_path": "/1CN2IC17eLZZWV13X2rO4304dGG.png",
+      "name": "Sky",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 63,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "X Factor",
+  "overview": "It is a German television music talent show contested by aspiring pop singers drawn from public auditions.",
+  "popularity": 16.1597,
+  "poster_path": "/gN5TwNsqZWQud3aHzUIfdpQyd3F.jpg",
+  "production_companies": [
+    {
+      "id": 59707,
+      "logo_path": "/2yREEdDXzdMDRrjC45vhSk11z8r.png",
+      "name": "UFA Show & Factual",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-08-20",
+      "episode_count": 14,
+      "id": 43145,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-30",
+      "episode_count": 19,
+      "id": 218127,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-25",
+      "episode_count": 15,
+      "id": 218128,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-27",
+      "episode_count": 15,
+      "id": 218129,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 31644,
+    "imdb_id": "tt1709082",
+    "freebase_mid": "/m/09rxv81",
+    "freebase_id": null,
+    "tvdb_id": 352140,
+    "tvrage_id": null,
+    "wikidata_id": "Q327551",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/zvd2vbpnazeGYIDsbnYyYIJ3phR.jpg",
+  "created_by": [
+    {
+      "id": 1399721,
+      "credit_id": "5be2f70dc3a36810d201474b",
+      "name": "Xiaolong Zheng",
+      "original_name": "郑晓龙",
+      "gender": 2,
+      "profile_path": "/uHbeVpe6Z08SxtkV3Dp1XjCCM76.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2015-11-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65255,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2016-01-01",
+  "last_episode_to_air": {
+    "id": 1156925,
+    "name": "Episode 81",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-01-01",
+    "episode_number": 81,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 65255,
+    "still_path": "/jjKx7AGthDGfzXfFVJh56fyHvIz.jpg"
+  },
+  "name": "Legend of Mi Yue",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 455,
+      "logo_path": "/nVB8ZIvScEvI4vKT3h4PXjeUR5U.png",
+      "name": "Beijing Television 北京卫视",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1056,
+      "logo_path": "/neufSFU0ZrXxA3c0JRNpuNXzLdx.png",
+      "name": "Dragon Television 东方卫视",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1304,
+      "logo_path": "/qWtHcKTKgBRs8Jn14ZT0NDUYoTB.png",
+      "name": "LeTV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2007,
+      "logo_path": "/6Lfll43wYG2eyereOBjpYFRSGs4.png",
+      "name": "Tencent Video",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 81,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "芈月传",
+  "overview": "Mi Yue, a princess from Chu, is sent to Qin as a concubine. She loses her first love and becomes entangled in royal power struggles. After being exiled with her son, she returns during a time of chaos to try to defeat her rival and secure the throne for her child.",
+  "popularity": 9.6785,
+  "poster_path": "/cmzztCW7dPqPjVSdgdNgYK0Wf8W.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-11-30",
+      "episode_count": 81,
+      "id": 73798,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cmzztCW7dPqPjVSdgdNgYK0Wf8W.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 65255,
+    "imdb_id": "tt5247784",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 304222,
+    "tvrage_id": null,
+    "wikidata_id": "Q18110046",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

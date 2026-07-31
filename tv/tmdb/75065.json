@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/7AidzktFowwOgkm575kQRthwsz4.jpg",
+  "created_by": [
+    {
+      "id": 2136938,
+      "credit_id": "5badc768925141510c04c184",
+      "name": "Park Gi Ho",
+      "original_name": "Park Gi Ho",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2017-11-13",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://program.kbs.co.kr/1tv/drama/lovereturns/pc/",
+  "id": 75065,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2018-01-01",
+  "last_episode_to_air": {
+    "id": 1580603,
+    "name": "Episode 120",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-01-01",
+    "episode_number": 120,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 1,
+    "show_id": 75065,
+    "still_path": null
+  },
+  "name": "Love Returns",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 829,
+      "logo_path": "/xH3ldaNUozSEqekkZoU8MqPbNF0.png",
+      "name": "KBS1",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "미워도 사랑해",
+  "overview": "The drama follows the life a woman who ends up losing everything after living a turbulent life. When she starts anew from the bottom, ironically, her life blossoms. The value that holds us together is not blood nor law, but rather love and affection between us.",
+  "popularity": 9.5411,
+  "poster_path": "/aPdskvyCqW0BdeO4X7iXoyq7BgF.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-11-13",
+      "episode_count": 120,
+      "id": 95355,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9yzOFBnRWiD0rb5QSz4njTtNemK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 75065,
+    "imdb_id": "tt7713776",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 337437,
+    "tvrage_id": null,
+    "wikidata_id": "Q42636453",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

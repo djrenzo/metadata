@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/z9ssEcmTiQJtiR43UAOf0xPnQgX.jpg",
+  "created_by": [
+    {
+      "id": 1252063,
+      "credit_id": "64088a8653f83300a0a678f7",
+      "name": "Ahmet Yurdakul",
+      "original_name": "Ahmet Yurdakul",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    100
+  ],
+  "first_air_date": "2014-01-28",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 221867,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2015-03-10",
+  "last_episode_to_air": {
+    "id": 5073549,
+    "name": "Episode 50 - finale",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-03-10",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 221867,
+    "still_path": null
+  },
+  "name": "Küçük Ağa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Küçük Ağa",
+  "overview": "",
+  "popularity": 10.7431,
+  "poster_path": "/jQNx9aoMNQFUqOnDS0kyIKPwO8f.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-01-28",
+      "episode_count": 23,
+      "id": 331692,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-09",
+      "episode_count": 27,
+      "id": 331693,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 221867,
+    "imdb_id": "tt3776084",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 275468,
+    "tvrage_id": null,
+    "wikidata_id": "Q61076830",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

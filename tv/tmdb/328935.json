@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/hCTCDT3aToCNaOXNbouDXFKAGFB.jpg",
+  "created_by": [
+    {
+      "id": 2076243,
+      "credit_id": "6a5a8a60782a0ce9e7bc9495",
+      "name": "Emil Abdullayev",
+      "original_name": "Emil Abdullayev",
+      "gender": 2,
+      "profile_path": "/jAUbsHeZUQnO3HXb8OB08Lm1MBm.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-10-19",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 328935,
+  "in_production": false,
+  "languages": [
+    "az"
+  ],
+  "last_air_date": "2023-07-29",
+  "last_episode_to_air": {
+    "id": 7546218,
+    "name": "Episode 38",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-07-29",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 328935,
+    "still_path": null
+  },
+  "name": "Fəlidən Doğru Xəbər",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7675,
+      "logo_path": "/sOAgbZF9ELjXKojWw8OiUQ0gWFi.png",
+      "name": "Xəzər TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "number_of_episodes": 127,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AZ"
+  ],
+  "original_language": "az",
+  "original_name": "Fəlidən Doğru Xəbər",
+  "overview": "An entertainment program hosted by Elshan Orujov.",
+  "popularity": 10.0063,
+  "poster_path": "/w7mwMuvYZ2CGIxODaVmxZmuTRTi.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2019-10-19",
+      "episode_count": 49,
+      "id": 530690,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-09",
+      "episode_count": 40,
+      "id": 530705,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-15",
+      "episode_count": 38,
+      "id": 530710,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Azərbaycan"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 328935,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

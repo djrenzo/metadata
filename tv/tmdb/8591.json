@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 91711,
+      "credit_id": "525791d8760ee36aaa6e2a17",
+      "name": "Desi Arnaz",
+      "original_name": "Desi Arnaz",
+      "gender": 2,
+      "profile_path": "/5XLcxJCZYUX2t7PuCwvE9hOOYzI.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1958-10-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 8591,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1960-06-10",
+  "last_episode_to_air": {
+    "id": 397620,
+    "name": "Murder is a Private Affair",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1960-06-10",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 8591,
+    "still_path": null
+  },
+  "name": "Westinghouse Desilu Playhouse",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 47,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Westinghouse Desilu Playhouse",
+  "overview": "Westinghouse Desilu Playhouse is an American television anthology series produced by Desilu Productions. The show ran on CBS television between 1958 and 1960. Two of its 48 episodes served as pilots for the 1950s television series The Twilight Zone and The Untouchables.",
+  "popularity": 9.0361,
+  "poster_path": "/cytDf1TprtFva2YBcmXk9vI4i9J.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1958-10-06",
+      "episode_count": 31,
+      "id": 18453,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1959-09-14",
+      "episode_count": 16,
+      "id": 18454,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.333,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 8591,
+    "imdb_id": "tt0051328",
+    "freebase_mid": "/m/055kwm2",
+    "freebase_id": "/en/westinghouse_desilu_playhouse",
+    "tvdb_id": 76530,
+    "tvrage_id": 408,
+    "wikidata_id": "Q4019190",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

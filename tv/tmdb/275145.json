@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/nJvEGHAWVGP6MOpAXiOOqgkJc9Z.jpg",
+  "created_by": [
+    {
+      "id": 101691,
+      "credit_id": "671a4a39e833d92ef05fdc60",
+      "name": "Pavel Volya",
+      "original_name": "Павел Воля",
+      "gender": 2,
+      "profile_path": "/cbhZKTRkOoq2v4hJCjMjhBVZ0Hw.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-04-16",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://tnt-online.ru/projects/shou-voli",
+  "id": 275145,
+  "in_production": true,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2025-11-16",
+  "last_episode_to_air": {
+    "id": 6674186,
+    "name": "Episode 42",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-16",
+    "episode_number": 42,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 275145,
+    "still_path": null
+  },
+  "name": "Volya's Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1191,
+      "logo_path": "/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png",
+      "name": "TNT",
+      "origin_country": "RU"
+    },
+    {
+      "id": 7286,
+      "logo_path": "/mbZrfXJBiuHmeM4n5eUvcsvaJVl.png",
+      "name": "Rutube",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 131,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Шоу Воли",
+  "overview": "Every week Pavel Volya, together with invited guests — stars and ordinary people — will sum up the past week in the best traditions of TNT. Viewers will be treated to a discussion of the most interesting events of the past week, interactive events with celebrities, absurd contests, unexpected musical experiments and much more.",
+  "popularity": 9.9545,
+  "poster_path": "/wooez6EiJ3t5tHbMD8QFGkxvHrf.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2023-09-03",
+      "episode_count": 3,
+      "id": 425161,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-16",
+      "episode_count": 38,
+      "id": 425123,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-04",
+      "episode_count": 51,
+      "id": 425160,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-02",
+      "episode_count": 42,
+      "id": 448887,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 275145,
+    "imdb_id": "tt27636698",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 437620,
+    "tvrage_id": null,
+    "wikidata_id": "Q123902930",
+    "facebook_id": "volyashow",
+    "instagram_id": "volyashow",
+    "twitter_id": null
+  }
+}

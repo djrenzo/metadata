@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    60
+  ],
+  "first_air_date": "2003-01-08",
+  "genres": [
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "http://news.bbc.co.uk/2/hi/programmes/the_daily_politics/default.stm",
+  "id": 15199,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-10-22",
+  "last_episode_to_air": {
+    "id": 537110,
+    "name": "October 22, 2010",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-10-22",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 15199,
+    "still_path": null
+  },
+  "name": "Daily Politics",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 508,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Daily Politics",
+  "overview": "Daily Politics is a British television show launched by the BBC in 2003 and presented by Andrew Neil and Jo Coburn. The programme takes an in-depth look at the daily goings on in Westminster and other areas across Britain and the world, and includes interviews with leading politicians and political commentators.",
+  "popularity": 8.3227,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2013-04-10",
+      "episode_count": 1,
+      "id": 26824,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-08",
+      "episode_count": 35,
+      "id": 26825,
+      "name": "The  season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-26",
+      "episode_count": 1,
+      "id": 505613,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 180,
+      "id": 26826,
+      "name": "The  season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-12",
+      "episode_count": 109,
+      "id": 26827,
+      "name": "The  season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 147,
+      "id": 26828,
+      "name": "The  season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-06",
+      "episode_count": 36,
+      "id": 26829,
+      "name": "The  season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 15199,
+    "imdb_id": "tt0398450",
+    "freebase_mid": "/m/08ccyx",
+    "freebase_id": "/en/the_daily_politics",
+    "tvdb_id": 256469,
+    "tvrage_id": null,
+    "wikidata_id": "Q5209337",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

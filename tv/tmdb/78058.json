@@ -1,0 +1,144 @@
+{
+  "adult": false,
+  "backdrop_path": "/tO8JuVngTl0Q4lTA8ogCR7rUJ4B.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2018-03-29",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.startv.com.tr/dizi/avlu",
+  "id": 78058,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2019-05-30",
+  "last_episode_to_air": {
+    "id": 2031433,
+    "name": "Episode 33",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-05-30",
+    "episode_number": 33,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 2,
+    "show_id": 78058,
+    "still_path": null
+  },
+  "name": "The Yard",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 750,
+      "logo_path": "/5F1z8mqADtXwFUdwui5AQcfqJNn.png",
+      "name": "Show TV",
+      "origin_country": "TR"
+    },
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 44,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Avlu",
+  "overview": "After a fateful domestic clash, a devoted mother finds herself in prison and fighting to survive in hopes of reuniting with her daughter.",
+  "popularity": 10.9587,
+  "poster_path": "/njo3iQWyK6PXWAcbs6Ykx9gGn6l.jpg",
+  "production_companies": [
+    {
+      "id": 46953,
+      "logo_path": "/xIH1fkJ1vL7mocP0ttx0dI3NTsP.png",
+      "name": "Limon",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-03-29",
+      "episode_count": 11,
+      "id": 100856,
+      "name": "Season 1",
+      "overview": "After a fateful domestic clash, a devoted mother finds herself in prison and fighting to survive in hopes of reuniting with her daughter.",
+      "poster_path": "/tl7lOLuddZZOqyVZlxJYYgDkhOP.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2018-09-20",
+      "episode_count": 33,
+      "id": 119014,
+      "name": "Season 2",
+      "overview": "Shocking truths surface as Deniz reckons with intrigue, Kudret tightens the screws and Ecem confronts a growing threat.",
+      "poster_path": "/njo3iQWyK6PXWAcbs6Ykx9gGn6l.jpg",
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451246,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.476,
+  "vote_count": 62,
+  "external_ids": {
+    "id": 78058,
+    "imdb_id": "tt7923832",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 342482,
+    "tvrage_id": null,
+    "wikidata_id": "Q53651372",
+    "facebook_id": "AvluDizi",
+    "instagram_id": "avludizi",
+    "twitter_id": "AvluDizi"
+  }
+}

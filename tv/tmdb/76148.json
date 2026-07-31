@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/nQyQ4c8DUvXra1LDWnNfV9QJluD.jpg",
+  "created_by": [
+    {
+      "id": 1332961,
+      "credit_id": "5a4ef6b10e0a265771006148",
+      "name": "Lisa McGee",
+      "original_name": "Lisa McGee",
+      "gender": 1,
+      "profile_path": "/56eMadBlyEmf9iYeHB8oRrF4r5C.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2018-01-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.channel4.com/programmes/derry-girls",
+  "id": 76148,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-05-18",
+  "last_episode_to_air": {
+    "id": 3694120,
+    "name": "The Agreement",
+    "overview": "The highlight of the year, Erin and Orla’s joint 18th birthday party, threatens to be overshadowed.",
+    "vote_average": 8.2,
+    "vote_count": 8,
+    "air_date": "2022-05-18",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 3,
+    "show_id": 76148,
+    "still_path": "/yE1gRb6bE4oCAXRK3Zd2vvmGUwm.jpg"
+  },
+  "name": "Derry Girls",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 26,
+      "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+      "name": "Channel 4",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 19,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Derry Girls",
+  "overview": "Amidst the political conflict of Northern Ireland in the 1990s, five secondary school students square off with the universal challenges of being a teenager.",
+  "popularity": 10.6903,
+  "poster_path": "/btIm8LOtm2qgHIA2IHmQJvD1Mju.jpg",
+  "production_companies": [
+    {
+      "id": 18939,
+      "logo_path": "/9nn3qLPVfbQJsAmH9ccebkp3fyN.png",
+      "name": "Hat Trick Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-05-10",
+      "episode_count": 3,
+      "id": 203976,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/2hgqgr5gEmEcMQPsQGNXkkuaNKP.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-04",
+      "episode_count": 6,
+      "id": 97482,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/xeY0V6BEb1I9TBFELSAP59XWweT.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2019-03-05",
+      "episode_count": 6,
+      "id": 119154,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/svep0CPFKFJezmmxCsMJrmdfQDg.jpg",
+      "season_number": 2,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2022-04-12",
+      "episode_count": 7,
+      "id": 283738,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/2th29wojrYLC38WJAB2CmLWUbtu.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Catch yourself on.",
+  "type": "Scripted",
+  "vote_average": 8.1,
+  "vote_count": 409,
+  "external_ids": {
+    "id": 76148,
+    "imdb_id": "tt7120662",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 338903,
+    "tvrage_id": null,
+    "wikidata_id": "Q47090557",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

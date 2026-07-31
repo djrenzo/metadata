@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    25
+  ],
+  "first_air_date": "1956-09-25",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 17516,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "1959-06-11",
+  "last_episode_to_air": {
+    "id": 555966,
+    "name": "Everything Else is Bridgeport",
+    "overview": "While investigating a murder, Blake discovers his suspect has fled Nevada, heading for New York City.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1959-06-11",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 17516,
+    "still_path": null
+  },
+  "name": "State Trooper",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 108,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "State Trooper",
+  "overview": "State Trooper is an American crime drama set in the 1950s American West, starring Rod Cameron as Rod Blake, an officer of the Nevada Department of Public Safety. The series aired 104 episodes in syndication from September 25, 1956, to June 25, 1959.",
+  "popularity": 9.8483,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1956-02-03",
+      "episode_count": 1,
+      "id": 28408,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-25",
+      "episode_count": 40,
+      "id": 28406,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/z0F3dPLPs7mufqaArriWG6bSlBG.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-15",
+      "episode_count": 41,
+      "id": 28405,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/oprlUGM8ztQFlqzbVlDv6lb7pIa.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-01-01",
+      "episode_count": 27,
+      "id": 28407,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/9LzOPAtEOalzUwXOTG7akeo6ugH.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.714,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 17516,
+    "imdb_id": "tt0050062",
+    "freebase_mid": "/m/05h47rb",
+    "freebase_id": "/en/state_trooper",
+    "tvdb_id": 256192,
+    "tvrage_id": null,
+    "wikidata_id": "Q3968476",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

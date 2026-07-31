@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/zNKVyqMsP34x21HccynQ8K7tHZk.jpg",
+  "created_by": [
+    {
+      "id": 1260074,
+      "credit_id": "5e76596b2fe2fa0018145e4e",
+      "name": "Todd Kauffman",
+      "original_name": "Todd Kauffman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2403384,
+      "credit_id": "5e765982357c000011505d57",
+      "name": "Joey So",
+      "original_name": "Joey So",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1224501,
+      "credit_id": "620499792f3b1700421cff5c",
+      "name": "Matt Fleckenstein",
+      "original_name": "Matt Fleckenstein",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1882010,
+      "credit_id": "62049a5ae2bca8004181a41e",
+      "name": "Robert Peacock",
+      "original_name": "Robert Peacock",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2010-09-11",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.sidekick.ytv.com",
+  "id": 39501,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-12-02",
+  "last_episode_to_air": {
+    "id": 3655621,
+    "name": "Graduation Daze",
+    "overview": "It’s finally Graduation Day at the Sidekick Academy! What could go wrong?",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-02",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 3,
+    "show_id": 39501,
+    "still_path": null
+  },
+  "name": "Sidekick",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 46,
+      "logo_path": "/nXrfHqHOtLcrSKPz2do1duM3cwT.png",
+      "name": "YTV",
+      "origin_country": "CA"
+    },
+    {
+      "id": 431,
+      "logo_path": "/ow2cRqL8dNK732FFxIKSnTN27Sd.png",
+      "name": "Qubo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Sidekick",
+  "overview": "Most kids dream of being superheroes. Not Eric Needles. Eric dreams of being a sidekick. So you can imagine his elation when his favorite superhero, Maxum Man, selects Eric to be his sidekick. But things take a weird turn when, on the day that Eric is scheduled to start being a full-time sidekick, Maxum Man vanishes. The superhero's disappearance leaves Eric responsible to convince the world that Maxum Man is still on the job, doing what a superhero does. Eric's peers include Kitty Ko, a boy-crazy heroine who serves up stellar advice.",
+  "popularity": 10.5923,
+  "poster_path": "/htsir4yQDr05oXL9LzMjCWbzqCg.jpg",
+  "production_companies": [
+    {
+      "id": 1023,
+      "logo_path": "/dJLh6G11paw58YGYYpcRZiKvzGW.png",
+      "name": "Nelvana",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-09-11",
+      "episode_count": 52,
+      "id": 50876,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-19",
+      "episode_count": 28,
+      "id": 50877,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-06",
+      "episode_count": 24,
+      "id": 104575,
+      "name": "Season 3",
+      "overview": "In Season 3, Eric, Trevor, Vana , Kitty and Mandy are back with more live-action comedy seeries whick includes new episodes.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 39501,
+    "imdb_id": "tt1746428",
+    "freebase_mid": "/m/0gx0f_b",
+    "freebase_id": null,
+    "tvdb_id": 250283,
+    "tvrage_id": null,
+    "wikidata_id": "Q3790214",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

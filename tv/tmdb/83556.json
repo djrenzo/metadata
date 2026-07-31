@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/zEgAs0CqgAtDNqFlWIf1cVCPEmt.jpg",
+  "created_by": [
+    {
+      "id": 1599983,
+      "credit_id": "5ece310521c4ca0021db4138",
+      "name": "Kyoko Yoshine",
+      "original_name": "芳根京子",
+      "gender": 1,
+      "profile_path": "/cXvs5OERqrpJgSlNWbxfFq6ZdHt.jpg"
+    }
+  ],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2016-10-04",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/archives/asadora/drama/d_095.html",
+  "id": 83556,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2017-04-02",
+  "last_episode_to_air": {
+    "id": 1607075,
+    "name": "Evergreen (6/6)",
+    "overview": "Evergreen (6/6)",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-04-02",
+    "episode_number": 151,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 83556,
+    "still_path": null
+  },
+  "name": "Beppin-san",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 469,
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "name": "NHK G",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "べっぴんさん",
+  "overview": "The 95th NHK Asadora is about Sumire, a girl born in the uptown of Kobe in the early Showa period. In the wake of wartime devastation, she works hard toward making children's clothes for a living, and later establishes a first-ever children's goods store in Japan. -- NHK",
+  "popularity": 10.039,
+  "poster_path": "/dGfFWG95BIuitDDcy0a21zKy8GZ.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-04-29",
+      "episode_count": 2,
+      "id": 121120,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-04",
+      "episode_count": 151,
+      "id": 111691,
+      "name": "Season 1",
+      "overview": "Beppin-san (べっぴんさん) is a Japanese television drama series and the 95th asadora series, following Toto Neechan. It was premiered on October 3, 2016, and ended on April 1, 2017.",
+      "poster_path": "/dGfFWG95BIuitDDcy0a21zKy8GZ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 83556,
+    "imdb_id": "tt5338400",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 318790,
+    "tvrage_id": null,
+    "wikidata_id": "Q22568699",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

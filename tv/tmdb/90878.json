@@ -1,0 +1,195 @@
+{
+  "adult": false,
+  "backdrop_path": "/6g7izEWIbqlDmJMGfdgct3N2mLQ.jpg",
+  "created_by": [
+    {
+      "id": 2355576,
+      "credit_id": "5d2052d555b0c01c35731ea2",
+      "name": "Wim De Smet",
+      "original_name": "Wim De Smet",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-01-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.vrt.be/vrtmax/a-z/dertigers/",
+  "id": 90878,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2025-06-23",
+  "last_episode_to_air": {
+    "id": 6316420,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-06-23",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 7,
+    "show_id": 90878,
+    "still_path": "/cXcb7PA08wwRf83HRRkBJI6MpNY.jpg"
+  },
+  "name": "Dertigers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1028,
+      "logo_path": "/nlcRu8gGckTe83evTTtwbM3SCYz.png",
+      "name": "VRT 1",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1977,
+      "logo_path": "/qCOhHgNVRg6Krn3RV6wxARs9NNC.png",
+      "name": "VRT MAX",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 168,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Dertigers",
+  "overview": "",
+  "popularity": 10.3153,
+  "poster_path": "/zpcVXMRecRYzCfJTWvxdGreRwSk.jpg",
+  "production_companies": [
+    {
+      "id": 182511,
+      "logo_path": "/vspUK3uIizS9sns3lSEKpabZMpW.png",
+      "name": "Warner Bros. International Television Production Belgium",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-12-20",
+      "episode_count": 1,
+      "id": 319393,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/d2z0JZRR3940uTyMiWGTzX96En9.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 24,
+      "id": 127151,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/d2z0JZRR3940uTyMiWGTzX96En9.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 24,
+      "id": 187327,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/d2z0JZRR3940uTyMiWGTzX96En9.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-05",
+      "episode_count": 24,
+      "id": 187328,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/d2z0JZRR3940uTyMiWGTzX96En9.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 24,
+      "id": 192839,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/d2z0JZRR3940uTyMiWGTzX96En9.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-13",
+      "episode_count": 24,
+      "id": 330743,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/vegdWBmhRESJHcLTxylIP724Izi.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-21",
+      "episode_count": 24,
+      "id": 382013,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/s32uDcIR9lgIx4FsSSIdJhv69FP.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-23",
+      "episode_count": 24,
+      "id": 394131,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/zpcVXMRecRYzCfJTWvxdGreRwSk.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 90878,
+    "imdb_id": "tt9632392",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 357571,
+    "tvrage_id": null,
+    "wikidata_id": "Q60925013",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

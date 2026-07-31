@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 95143,
+      "credit_id": "5f12411b65c26c0035b604a1",
+      "name": "Dan Klores",
+      "original_name": "Dan Klores",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "2018-09-18",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.espn.com/watch/series/c31393a0-346f-4269-b680-18338b6e4c4f/basketball-a-love-story",
+  "id": 106121,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-09-18",
+  "last_episode_to_air": {
+    "id": 2354680,
+    "name": "Basketball Pass",
+    "overview": "The ball, the common denominator, the object of a shared feeling is held, passed to and from, caressed, embraced, twirled, hugged, whispered to, and even kissed as the final act of an expression of shared emotion.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-09-18",
+    "episode_number": 62,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 6,
+    "season_number": 1,
+    "show_id": 106121,
+    "still_path": "/384cChzzIqogGyUf2OFVi97WooY.jpg"
+  },
+  "name": "Basketball: A Love Story",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 29,
+      "logo_path": "/nGVnOlJb5axYcLLdUT3dmiw7vU.png",
+      "name": "ESPN",
+      "origin_country": "US"
+    },
+    {
+      "id": 70,
+      "logo_path": "/iWq7EXFKUO7FYPH6umvE6mB99Ta.png",
+      "name": "ESPN2",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 62,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Basketball: A Love Story",
+  "overview": "'Basketball: A Love Story' is a series of 62 interconnected short stories that creates a vibrant mosaic of the game, featuring 165 exclusive interviews. The cast encompasses basketball's most prominent figures and explores the complex nature of love as it relates to the game.",
+  "popularity": 10.9544,
+  "poster_path": "/7At8dfNNXs9hnx2ZgTRyGMlwcA1.jpg",
+  "production_companies": [
+    {
+      "id": 109655,
+      "logo_path": null,
+      "name": "My Three Sons Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-18",
+      "episode_count": 62,
+      "id": 156685,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8Dc5WxIjcZ6muhmYejues6oEqYt.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 106121,
+    "imdb_id": "tt9016022",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 353963,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/5MKQNrCpWXV1ya9Hq6QEa0UNCyt.jpg",
+  "created_by": [
+    {
+      "id": 1926560,
+      "credit_id": "5c67fa259251417df400cd73",
+      "name": "Rui Vilhena",
+      "original_name": "Rui Vilhena",
+      "gender": 2,
+      "profile_path": "/ed8C2AwHrOYcDwiVTjtKR44Hwq6.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2014-08-04",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://gshow.globo.com/novelas/boogie-oogie/",
+  "id": 84612,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2015-03-06",
+  "last_episode_to_air": {
+    "id": 1638384,
+    "name": "Episode 185",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-03-06",
+    "episode_number": 185,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 1,
+    "show_id": 84612,
+    "still_path": null
+  },
+  "name": "Boogie Oogie",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 185,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Boogie Oogie",
+  "overview": "In the swing of the 70s, two women fight for the love of the same man without knowing their fates were already intertwined.",
+  "popularity": 8.8913,
+  "poster_path": "/6Xrd9eC56xKQINbsaQQ2L3gKPYa.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-08-04",
+      "episode_count": 185,
+      "id": 113661,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/acTDpT8obb5yrBboodpg22dnGcW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "For fate, there are no chance meetings.",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 84612,
+    "imdb_id": "tt3885120",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 302017,
+    "tvrage_id": null,
+    "wikidata_id": "Q17563226",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

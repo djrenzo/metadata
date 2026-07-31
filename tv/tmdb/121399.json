@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/gulDzIumzAQWkDiIuyOh1c7IYNS.jpg",
+  "created_by": [
+    {
+      "id": 142175,
+      "credit_id": "63bc5d9fa6e2d2008b3eb7b2",
+      "name": "Cláudio Paiva",
+      "original_name": "Cláudio Paiva",
+      "gender": 2,
+      "profile_path": "/cJzaqVedzfi05K2wvC0S9gv7x7t.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2015-04-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 121399,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2015-09-24",
+  "last_episode_to_air": {
+    "id": 3880738,
+    "name": "Episode 18",
+    "overview": "Things are heating up more than ever in the season finale.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-08-04",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 31,
+    "season_number": 2,
+    "show_id": 121399,
+    "still_path": "/e4ZfWX9AnOLqWaVb9pVLnEsMhFF.jpg"
+  },
+  "name": "Chapa Quente",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Chapa Quente",
+  "overview": "Marlene and Genésio are the typical couple with a volatile, love-hate relationship. She works hard, while he—a chronic loafer—constantly gets himself into major scrapes.",
+  "popularity": 9.8457,
+  "poster_path": "/o475u1b301D6KVeYK99mJtd3zE.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2015-04-09",
+      "episode_count": 25,
+      "id": 187186,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o475u1b301D6KVeYK99mJtd3zE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-07",
+      "episode_count": 25,
+      "id": 303923,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lcloXdInRwitMRD6dx88huxScDO.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 121399,
+    "imdb_id": "tt4796154",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 293653,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/e7gXqszTL2hWhTOkGA1HIJFnSZ0.jpg",
+  "created_by": [
+    {
+      "id": 13620,
+      "credit_id": "660f1ad5e039f1017ce94a55",
+      "name": "William Hanna",
+      "original_name": "William Hanna",
+      "gender": 2,
+      "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg"
+    },
+    {
+      "id": 13594,
+      "credit_id": "660f1ae6549dda01363d445d",
+      "name": "Joseph Barbera",
+      "original_name": "Joseph Barbera",
+      "gender": 2,
+      "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg"
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2006-09-23",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 676,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2008-03-22",
+  "last_episode_to_air": {
+    "id": 38001,
+    "name": "Catfish Follies",
+    "overview": "Tom and Jerry go fishing and are pitted against Butch in the form of a catfish, who wants to eat Jerry, but has to avoid becoming a catch for Tom.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-03-22",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 2,
+    "show_id": 676,
+    "still_path": "/m3CiKDM1ZyIZziDKfXsS5YYCtVw.jpg"
+  },
+  "name": "Tom and Jerry Tales",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Tom and Jerry Tales",
+  "overview": "Tom and Jerry Tales is an American animated television series featuring the cat-and-mouse duo Tom and Jerry.",
+  "popularity": 10.9546,
+  "poster_path": "/xUASqzq5b3xAeI7iwjtE7pcvx5F.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 8922,
+      "logo_path": "/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png",
+      "name": "Turner Entertainment Co.",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-23",
+      "episode_count": 39,
+      "id": 2030,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/h6Ycazw0VsBsavUvqcXSeHFZMrX.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-22",
+      "episode_count": 39,
+      "id": 2031,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/c9lDIzUoMJQYbCc8jMBWA0GS6Wn.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.788,
+  "vote_count": 151,
+  "external_ids": {
+    "id": 676,
+    "imdb_id": "tt0780438",
+    "freebase_mid": "",
+    "freebase_id": "",
+    "tvdb_id": 82837,
+    "tvrage_id": null,
+    "wikidata_id": "Q2077391",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

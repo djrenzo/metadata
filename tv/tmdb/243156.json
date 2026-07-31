@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/gCupQCaR8ASWLVsY9PO3jTpCs46.jpg",
+  "created_by": [
+    {
+      "id": 3354437,
+      "credit_id": "659b9df4bd588b01a957d8bf",
+      "name": "Conrado Peru",
+      "original_name": "Conrado Peru",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2024-01-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.gmanetwork.com/entertainment/tv/makiling",
+  "id": 243156,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2024-05-03",
+  "last_episode_to_air": {
+    "id": 5320439,
+    "name": "Episode 83",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-05-03",
+    "episode_number": 83,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 1,
+    "show_id": 243156,
+    "still_path": "/my3brdFssc9x8Iz55OUXKMjATId.jpg"
+  },
+  "name": "Makiling",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 83,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Makiling",
+  "overview": "Amira (Elle Villanueva) is a family of doctors who live at the foot of the Makiling mountain. They get a lot of help but the albulars' income is low, so they can't get out of poverty.",
+  "popularity": 10.0526,
+  "poster_path": "/obX9qwdiE0txk10jsrgL3zrT0Me.jpg",
+  "production_companies": [
+    {
+      "id": 155832,
+      "logo_path": "/ql4oyBNQpLuS2tLqLsKZVo07Flz.png",
+      "name": "GMA Public Affairs",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 83,
+      "id": 373258,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 243156,
+    "imdb_id": "tt30789224",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 459151,
+    "tvrage_id": null,
+    "wikidata_id": "Q123878578",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

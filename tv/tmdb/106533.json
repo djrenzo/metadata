@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/4ehXrcTDfgAIrh8wKvWK82Z3ACn.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2020-08-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://prima.iprima.cz/sestricky-modry-kod",
+  "id": 106533,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2021-06-23",
+  "last_episode_to_air": {
+    "id": 2959605,
+    "name": "Episode 78",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-06-23",
+    "episode_number": 78,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 106533,
+    "still_path": null
+  },
+  "name": "Sestřičky",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Sestřičky",
+  "overview": "",
+  "popularity": 9.7775,
+  "poster_path": "/ylMtbZiuGvh6f8cRipIvTmyl7Tk.jpg",
+  "production_companies": [
+    {
+      "id": 124204,
+      "logo_path": "/jwUkzHG2T4a2lvVIIIahcgV9zGX.png",
+      "name": "Good TV Production",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 121968,
+      "logo_path": null,
+      "name": "Česká výrobní",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 122618,
+      "logo_path": "/oXWUbYOOLKoromcYtia6Ll5UyC6.png",
+      "name": "FTV Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-08-29",
+      "episode_count": 78,
+      "id": 157397,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 106533,
+    "imdb_id": "tt12807546",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 388217,
+    "tvrage_id": null,
+    "wikidata_id": "Q99360460",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

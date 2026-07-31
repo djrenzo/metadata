@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 83905,
+      "credit_id": "569ec41692514137d600019d",
+      "name": "Richard Murphy",
+      "original_name": "Richard Murphy",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1966-09-12",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10846,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1969-01-15",
+  "last_episode_to_air": {
+    "id": 437650,
+    "name": "The Law and Order Blues",
+    "overview": "Stone and Briggs arrest African diplomat Nburu for attempted murder after he attacks fund-raising expert Charlie Finnerman. The more they investigate, they discover that the expert is a possible fraud. Criminal Lawyer Clinton Judd arrives to defend the diplomat on the charges, but matters turn worse when Nburu is found standing over the body of Finnerman, and Stone and Briggs wrestle Nburu down a flight of stairs, injuring him.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1969-01-15",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 10846,
+    "still_path": null
+  },
+  "name": "Felony Squad",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 73,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Felony Squad",
+  "overview": "Twenty-year veteran Detective Sergeant Sam Stone is paired with rookie Briggs in a large Western metropolis.",
+  "popularity": 9.851,
+  "poster_path": "/7a0ZBQ4sUZiLVh04FdkqxrU4lNy.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1966-09-12",
+      "episode_count": 30,
+      "id": 21185,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-08-31",
+      "episode_count": 26,
+      "id": 21186,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-09-16",
+      "episode_count": 17,
+      "id": 21187,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 10846,
+    "imdb_id": "tt0059983",
+    "freebase_mid": "/m/0cp94q",
+    "freebase_id": "/en/felony_squad",
+    "tvdb_id": 76482,
+    "tvrage_id": null,
+    "wikidata_id": "Q2925244",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

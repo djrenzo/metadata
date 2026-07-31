@@ -1,0 +1,643 @@
+{
+  "adult": false,
+  "backdrop_path": "/kbsiGwW0zcqrqvvR5bhhRDasX6m.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60,
+    90
+  ],
+  "first_air_date": "1968-12-31",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://ici.radio-canada.ca/tele/bye-bye",
+  "id": 12700,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-12-31",
+  "last_episode_to_air": {
+    "id": 6799003,
+    "name": "Bye bye 2025",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-31",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 51,
+    "show_id": 12700,
+    "still_path": "/sDhTUNRmKor4i46j8yB6nqKYNn8.jpg"
+  },
+  "name": "Bye Bye",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 51,
+  "number_of_seasons": 51,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Bye Bye",
+  "overview": "Broadcast on December 31st, Bye Bye is a comic year-in-review which consists of sketches that parody the political, cultural and social events of the past year.",
+  "popularity": 8.3867,
+  "poster_path": "/k21jPDnkke8Pcqjo7nBuJJZSP6J.jpg",
+  "production_companies": [
+    {
+      "id": 57579,
+      "logo_path": "/al14xBYjgUndQZP5voBlqylHae3.png",
+      "name": "ICI RDI",
+      "origin_country": "CA"
+    },
+    {
+      "id": 68416,
+      "logo_path": null,
+      "name": "L'Équipe Spectra",
+      "origin_country": "CA"
+    },
+    {
+      "id": 24005,
+      "logo_path": "/9XhPYLpXbWHFwp8fpKFN9jU8zvH.png",
+      "name": "Écho Média",
+      "origin_country": "CA"
+    },
+    {
+      "id": 69754,
+      "logo_path": "/4iI3g8mbKyn61EtucAlwqCzZYkE.png",
+      "name": "KOTV",
+      "origin_country": "CA"
+    },
+    {
+      "id": 70020,
+      "logo_path": "/5NBP5FL6QeA4Lq5LTEZ6V0leiKc.png",
+      "name": "A Média",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 14,
+      "id": 96852,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-12-31",
+      "episode_count": 1,
+      "id": 72164,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-12-31",
+      "episode_count": 1,
+      "id": 171926,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-12-31",
+      "episode_count": 1,
+      "id": 171927,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-12-31",
+      "episode_count": 1,
+      "id": 171928,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-12-31",
+      "episode_count": 1,
+      "id": 171929,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-12-31",
+      "episode_count": 1,
+      "id": 171930,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-12-31",
+      "episode_count": 1,
+      "id": 171931,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-12-31",
+      "episode_count": 1,
+      "id": 171932,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-12-31",
+      "episode_count": 1,
+      "id": 171933,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-12-31",
+      "episode_count": 1,
+      "id": 171934,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-12-31",
+      "episode_count": 1,
+      "id": 171935,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-12-31",
+      "episode_count": 1,
+      "id": 171936,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-12-31",
+      "episode_count": 1,
+      "id": 171937,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-12-31",
+      "episode_count": 1,
+      "id": 171938,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-12-31",
+      "episode_count": 1,
+      "id": 171939,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-12-31",
+      "episode_count": 1,
+      "id": 171940,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-12-31",
+      "episode_count": 1,
+      "id": 171941,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-12-31",
+      "episode_count": 1,
+      "id": 171942,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-12-31",
+      "episode_count": 1,
+      "id": 171943,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-12-31",
+      "episode_count": 1,
+      "id": 171944,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-12-31",
+      "episode_count": 1,
+      "id": 171945,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-12-31",
+      "episode_count": 1,
+      "id": 171946,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-12-31",
+      "episode_count": 1,
+      "id": 171947,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-12-31",
+      "episode_count": 1,
+      "id": 171948,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-12-31",
+      "episode_count": 1,
+      "id": 171949,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-12-31",
+      "episode_count": 1,
+      "id": 171950,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-12-31",
+      "episode_count": 1,
+      "id": 171951,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-12-31",
+      "episode_count": 1,
+      "id": 171952,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-12-31",
+      "episode_count": 1,
+      "id": 171953,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-31",
+      "episode_count": 1,
+      "id": 171954,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-31",
+      "episode_count": 1,
+      "id": 171955,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-12-31",
+      "episode_count": 1,
+      "id": 171956,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-12-31",
+      "episode_count": 1,
+      "id": 171957,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-12-31",
+      "episode_count": 1,
+      "id": 171958,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-12-31",
+      "episode_count": 1,
+      "id": 171959,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-12-31",
+      "episode_count": 1,
+      "id": 171960,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-12-31",
+      "episode_count": 1,
+      "id": 171961,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-12-31",
+      "episode_count": 1,
+      "id": 171962,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-12-31",
+      "episode_count": 1,
+      "id": 171963,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-12-31",
+      "episode_count": 1,
+      "id": 171964,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-12-31",
+      "episode_count": 1,
+      "id": 171965,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-12-31",
+      "episode_count": 1,
+      "id": 171966,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-31",
+      "episode_count": 1,
+      "id": 171967,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-12-31",
+      "episode_count": 1,
+      "id": 171968,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-31",
+      "episode_count": 1,
+      "id": 171969,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-31",
+      "episode_count": 1,
+      "id": 171970,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-31",
+      "episode_count": 1,
+      "id": 206014,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-31",
+      "episode_count": 1,
+      "id": 322238,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/yMonzW0Hm3Owt9TdqUKodKwYYR8.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-31",
+      "episode_count": 1,
+      "id": 372382,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/o4sBQv3Id8RUkGedTdxCQwHt2Po.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-31",
+      "episode_count": 1,
+      "id": 435756,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/mMd3TKGP7hejKUoM7irXKdf7BXB.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-12-31",
+      "episode_count": 1,
+      "id": 491840,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/6JAuWMNiyKCLJDJnyeEyZGC7RWP.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 12700,
+    "imdb_id": "tt0940900",
+    "freebase_mid": "/m/03mx0z",
+    "freebase_id": "/en/bye_bye",
+    "tvdb_id": 253454,
+    "tvrage_id": 7833,
+    "wikidata_id": "Q2929141",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

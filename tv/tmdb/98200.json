@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/iHjMGas9u6zj9uhNKERiH7OvsvT.jpg",
+  "created_by": [
+    {
+      "id": 89814,
+      "credit_id": "5e252ba31bf2660014fc8fb8",
+      "name": "R.J. Cutler",
+      "original_name": "R.J. Cutler",
+      "gender": 2,
+      "profile_path": "/7Lvbdnj9I1fUhhcAKpb3y6iiESm.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-06-05",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.3bcp1uw2craeu8lbc53h7i205",
+  "id": 98200,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-03-09",
+  "last_episode_to_air": {
+    "id": 4289302,
+    "name": "Selena Gomez",
+    "overview": "Selena's honesty about her mental health gives two people the courage to speak out about their own challenges.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-03-09",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 27,
+    "season_number": 2,
+    "show_id": 98200,
+    "still_path": "/4VofcbVyUOhZF5h8U88jBrsbgVG.jpg"
+  },
+  "name": "Dear...",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dear...",
+  "overview": "An inventive and cinematic approach to biographies of the most iconic figures in society today by using letters written by those whose lives have been changed through their work.",
+  "popularity": 10.1053,
+  "poster_path": "/weVnLuXzx1SKoOagWxuCqEHc5Uh.jpg",
+  "production_companies": [
+    {
+      "id": 39917,
+      "logo_path": "/hVZx78eZ0YMbo61BIOvoPsE6Nn6.png",
+      "name": "Matador Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 36752,
+      "logo_path": null,
+      "name": "Cutler Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-06-05",
+      "episode_count": 10,
+      "id": 141373,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gvrJ5qSLCdwqAdtGMCDt1F3UoaN.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2022-03-03",
+      "episode_count": 10,
+      "id": 234434,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/weVnLuXzx1SKoOagWxuCqEHc5Uh.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Profiles of society's most iconic figures and the lives of those they've inspired.",
+  "type": "Documentary",
+  "vote_average": 5,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 98200,
+    "imdb_id": "tt10597242",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 371674,
+    "tvrage_id": null,
+    "wikidata_id": "Q106322516",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

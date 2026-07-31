@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/3tAGy6yyrmGEJNNKiTxHstQpPsy.jpg",
+  "created_by": [
+    {
+      "id": 1612459,
+      "credit_id": "5c29ac57c3a3681c2cd0ad7c",
+      "name": "Julie Andem",
+      "original_name": "Julie Andem",
+      "gender": 1,
+      "profile_path": "/iWUIUVGHKQcXolRtEYhJKmBVQCJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2018-09-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.npo3.nl/skam",
+  "id": 82948,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2019-06-04",
+  "last_episode_to_air": {
+    "id": 1800138,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-06-04",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 82948,
+    "still_path": "/7xTRagopHvVDW9qDuq22u2fJ6QW.jpg"
+  },
+  "name": "SKAM NL",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1194,
+      "logo_path": "/wVbxJBRSvSdGeLTm4z7WOBgTD1B.png",
+      "name": "NPO 3",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 21,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "SKAM NL",
+  "overview": "The story of a group of teenagers in high school in Utrecht, The Netherlands, in their search for friendship, love, their own identity, and overcoming fears.",
+  "popularity": 14.4523,
+  "poster_path": "/zOtpVvvlpkYjvMlLAogwS1oS3Nf.jpg",
+  "production_companies": [
+    {
+      "id": 22294,
+      "logo_path": "/xD7TJlNqBQM6KmdWyr22TUK1rCt.png",
+      "name": "NTR",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-16",
+      "episode_count": 11,
+      "id": 110502,
+      "name": "Season 1: Isa",
+      "overview": "Isa Keijser is the central character of the season as the story focuses on her relationship with her boyfriend Kes, as well as themes of loneliness, identity, and friendship.",
+      "poster_path": "/2Pp4JqevGbPVmZv2RKgvVDDD6wj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-26",
+      "episode_count": 10,
+      "id": 119963,
+      "name": "Season 2: Liv",
+      "overview": "Liv Reijners is the central character of the second season, which focuses on her relationship with Noah, a popular boy at school, with the themes of friendship, self-image, and sexual abuse.",
+      "poster_path": "/7epH88nTE6bhidBIB9ap0eQLK0j.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 82948,
+    "imdb_id": "tt8929792",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 347021,
+    "tvrage_id": null,
+    "wikidata_id": "Q56355634",
+    "facebook_id": null,
+    "instagram_id": "skamnl",
+    "twitter_id": null
+  }
+}

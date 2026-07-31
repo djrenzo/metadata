@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/xn998GchnVu71L4pxLlw72eNTuq.jpg",
+  "created_by": [
+    {
+      "id": 1655785,
+      "credit_id": "647ae1e7174973011870bfbd",
+      "name": "Marcelo Tinelli",
+      "original_name": "Marcelo Tinelli",
+      "gender": 2,
+      "profile_path": "/uNynnv52lkXZlhkcOznxyBvQUTS.jpg"
+    },
+    {
+      "id": 1238935,
+      "credit_id": "647ae1f393828e00f9d716b3",
+      "name": "Sebastián Ortega",
+      "original_name": "Sebastián Ortega",
+      "gender": 2,
+      "profile_path": "/w3QkTTUabP0M0glMgzOnTsO4cbp.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2011-02-14",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.televisa.esmas.com/entretenimiento/telenovelas/una-familia-con-suerte/",
+  "id": 37652,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-02-19",
+  "last_episode_to_air": {
+    "id": 4490549,
+    "name": "Episode 266",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-02-19",
+    "episode_number": 266,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 37652,
+    "still_path": null
+  },
+  "name": "Una familia con suerte",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 266,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Una familia con suerte",
+  "overview": "A Mexican telenovela based on the Argentinean telenovela Los Roldán.",
+  "popularity": 8.4965,
+  "poster_path": "/961PI1431tK8p5Lv8oZXQY9MFg6.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-02-14",
+      "episode_count": 266,
+      "id": 212205,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cUxepuDtt2rIneHPyLrt8KSdTAz.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 162,
+  "external_ids": {
+    "id": 37652,
+    "imdb_id": "tt1853455",
+    "freebase_mid": "/m/0gg70_d",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q308242",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/klGumZZUfbp3FhxOOPDn39aFAyu.jpg",
+  "created_by": [
+    {
+      "id": 2473338,
+      "credit_id": "673c15c778f0cd4891738c78",
+      "name": "Olivier Marvaud",
+      "original_name": "Olivier Marvaud",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1638259,
+      "credit_id": "673c1af406fd885ab9dd8c8d",
+      "name": "David Faure",
+      "original_name": "David Faure",
+      "gender": 2,
+      "profile_path": "/y66O4yNyOtB6Vu456QgI0PGqOh1.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1999-11-03",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 277491,
+  "in_production": false,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "last_air_date": "1999-11-03",
+  "last_episode_to_air": {
+    "id": 5769647,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-11-03",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 277491,
+    "still_path": null
+  },
+  "name": "Flight Squad",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 272,
+      "logo_path": "/d7roMuKFcpBtQFteOuce4HjQbFV.png",
+      "name": "Télétoon",
+      "origin_country": "CA"
+    },
+    {
+      "id": 712,
+      "logo_path": "/ebCZs9U5Kq1GqOFBT1tlH1lZd8p.png",
+      "name": "M6",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2638,
+      "logo_path": "/4b8ZM73YKqFCJLbQB70Pyw5wQCK.png",
+      "name": "Gulli",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Flight Squad",
+  "overview": "",
+  "popularity": 10.52,
+  "poster_path": "/fZsSp8chLCUWsRxVuXJIYNJYaHv.jpg",
+  "production_companies": [
+    {
+      "id": 11261,
+      "logo_path": "/g7p4vSwqsIo6zYptyN3hoDxFp7y.png",
+      "name": "M6",
+      "origin_country": "FR"
+    },
+    {
+      "id": 130265,
+      "logo_path": "/j1T7FkYoncVpTi3CylwiiBPvRwV.png",
+      "name": "Antefilms Production",
+      "origin_country": ""
+    },
+    {
+      "id": 171780,
+      "logo_path": null,
+      "name": "Neuroplanet France",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1999-11-03",
+      "episode_count": 26,
+      "id": 429145,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 277491,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

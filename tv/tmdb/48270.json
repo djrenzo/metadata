@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/pwjghS10lK1GKau1P3Ud8L9TMw9.jpg",
+  "created_by": [
+    {
+      "id": 3082973,
+      "credit_id": "62b34587b5bc2100610d09db",
+      "name": "Mehmet Altıoklar",
+      "original_name": "Mehmet Altıoklar",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2005-06-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://emretkomutanim.com/",
+  "id": 48270,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2008-06-05",
+  "last_episode_to_air": {
+    "id": 5454194,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-06-05",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 48270,
+    "still_path": null
+  },
+  "name": "Emret Komutanım",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 750,
+      "logo_path": "/5F1z8mqADtXwFUdwui5AQcfqJNn.png",
+      "name": "Show TV",
+      "origin_country": "TR"
+    },
+    {
+      "id": 2236,
+      "logo_path": "/ovdg7mo5neFJK4bTkh4Q0JFfd5X.png",
+      "name": "Kanal 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 95,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Emret Komutanım",
+  "overview": "",
+  "popularity": 10.0005,
+  "poster_path": "/tImbzIRPw0l9R50Lrvn5Rj8qQld.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-06-23",
+      "episode_count": 7,
+      "id": 177663,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 44,
+      "id": 177664,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-07",
+      "episode_count": 29,
+      "id": 177665,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-28",
+      "episode_count": 15,
+      "id": 350713,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 48270,
+    "imdb_id": "tt0491519",
+    "freebase_mid": "/m/0v0zp36",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6087918",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

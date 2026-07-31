@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1199800,
+      "credit_id": "55964a2b9251416317003665",
+      "name": "Manya Starr",
+      "original_name": "Manya Starr",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1960-07-11",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 11768,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1962-06-11",
+  "last_episode_to_air": {
+    "id": 464653,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1962-06-11",
+    "episode_number": 76,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 11768,
+    "still_path": null
+  },
+  "name": "The Clear Horizon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 230,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Clear Horizon",
+  "overview": "The Clear Horizon is an American soap opera which ran on CBS Daytime from July 11, 1960 to March 10, 1961 and February 26 to June 11, 1962. The show was created and head written by Manya Starr.",
+  "popularity": 9.5382,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 4898,
+      "logo_path": "/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1960-07-11",
+      "episode_count": 154,
+      "id": 22349,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-02-26",
+      "episode_count": 76,
+      "id": 22350,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 11768,
+    "imdb_id": "tt0053493",
+    "freebase_mid": "/m/0d8_pq",
+    "freebase_id": "/en/the_clear_horizon",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q7723347",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

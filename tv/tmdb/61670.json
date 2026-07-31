@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
+  "created_by": [
+    {
+      "id": 2125145,
+      "credit_id": "5bd18e5b0e0a266174009aee",
+      "name": "Song Ji-na",
+      "original_name": "Song Ji-na",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1796973,
+      "credit_id": "649edcbd3e6f2b011cf59840",
+      "name": "Kim Jin-woo",
+      "original_name": "Kim Jin-woo",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2014-12-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/drama/healer/",
+  "id": 61670,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2015-02-10",
+  "last_episode_to_air": {
+    "id": 1030948,
+    "name": "Goodbye Healer",
+    "overview": "Jeong-hu resorts to plan B when he hits roadblocks trying to prove his innocence and the people closest to him come under attack.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2015-02-10",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 61,
+    "season_number": 1,
+    "show_id": 61670,
+    "still_path": "/wA0khjHJe9M0YMEyYHExsdO2Z4S.jpg"
+  },
+  "name": "Healer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "힐러",
+  "overview": "A star reporter, a second-rate journalist and a man by the code name \"Healer\" are brought together by a long-buried incident that hides dark truths.",
+  "popularity": 10.9428,
+  "poster_path": "/4Zc0XtzXasrfgOyCH7wX8stqkEu.jpg",
+  "production_companies": [
+    {
+      "id": 56797,
+      "logo_path": "/ulyFYl4Spqpr6pZYtX0f9WLUzHt.png",
+      "name": "KIMJONGHAK PRODUCTION",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-12-08",
+      "episode_count": 20,
+      "id": 63617,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hP41nfxLEOwiB5LfXR2DHBrTIf3.jpg",
+      "season_number": 1,
+      "vote_average": 9.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.3,
+  "vote_count": 317,
+  "external_ids": {
+    "id": 61670,
+    "imdb_id": "tt4284216",
+    "freebase_mid": "/m/011l74nq",
+    "freebase_id": null,
+    "tvdb_id": 288365,
+    "tvrage_id": 46397,
+    "wikidata_id": "Q17401494",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

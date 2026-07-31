@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/7NVEoLneY7Ems0GRh30Aj2R3Ynm.jpg",
+  "created_by": [
+    {
+      "id": 64814,
+      "credit_id": "564c81a9c3a3686035006c68",
+      "name": "Peter Straughan",
+      "original_name": "Peter Straughan",
+      "gender": 2,
+      "profile_path": "/s5HaFovACVdUdjmMSWExDyYQxxk.jpg"
+    },
+    {
+      "id": 67781,
+      "credit_id": "564c81b9c3a36860370070a2",
+      "name": "Peter Kosminsky",
+      "original_name": "Peter Kosminsky",
+      "gender": 2,
+      "profile_path": "/rdXlISpAkR4DF01A8JtF5h7i1qz.jpg"
+    },
+    {
+      "id": 1398259,
+      "credit_id": "564c81cc9251414dcb006efc",
+      "name": "Hilary Mantel",
+      "original_name": "Hilary Mantel",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2015-01-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m002473m",
+  "id": 61697,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-15",
+  "last_episode_to_air": {
+    "id": 5747818,
+    "name": "Light",
+    "overview": "Cromwell is stripped of his titles and brought to the Tower of London on a charge of treason. He has no friends to speak for him but plenty of enemies among his prosecutors.",
+    "vote_average": 7,
+    "vote_count": 5,
+    "air_date": "2024-12-15",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 2,
+    "show_id": 61697,
+    "still_path": "/cDmHxinPKtH2hsQqFCaut48T5ZB.jpg"
+  },
+  "name": "Wolf Hall",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Wolf Hall",
+  "overview": "England in the 1520s is a heartbeat from disaster. If the King dies without a male heir, the country could be destroyed by civil war. Henry VIII wants to annul his marriage of twenty years and marry Anne Boleyn. The Pope and most of Europe oppose him. Into this impasse steps Thomas Cromwell: a wholly original man, a charmer, and a bully, both idealist and opportunist, astute in reading people, and implacable in his ambition. But Henry is volatile: one day tender, one day murderous. Cromwell helps him break the opposition, but what will be the price of his triumph?",
+  "popularity": 10.1778,
+  "poster_path": "/dGuiMtUQBGxM3ZWosphO2MdYw8o.jpg",
+  "production_companies": [
+    {
+      "id": 11842,
+      "logo_path": "/eNw316EUzXBLVOzlZPVwOcPKoDw.png",
+      "name": "Company Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19089,
+      "logo_path": "/6uZ9wF94eMZaHmDayhxMy7q3ndo.png",
+      "name": "Playground Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-21",
+      "episode_count": 6,
+      "id": 63723,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vqv0DBdw1y6DYhkFbwLktRNP5yB.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2024-11-10",
+      "episode_count": 6,
+      "id": 427623,
+      "name": "The Mirror and the Light",
+      "overview": "May, 1536. Anne Boleyn, Henry's second wife, is dead. As the axe drops, Thomas Cromwell emerges from the bloodbath to continue his climb to power and wealth, while his formidable master, Henry, settles to short-lived happiness with his third queen, Jane Seymour.",
+      "poster_path": "/dGuiMtUQBGxM3ZWosphO2MdYw8o.jpg",
+      "season_number": 2,
+      "vote_average": 6.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.444,
+  "vote_count": 151,
+  "external_ids": {
+    "id": 61697,
+    "imdb_id": "tt3556920",
+    "freebase_mid": "/m/0y7wc8g",
+    "freebase_id": null,
+    "tvdb_id": 281977,
+    "tvrage_id": 42421,
+    "wikidata_id": "Q17039455",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

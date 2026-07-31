@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/9VmjET4iMVHDZ6u97uDP9kBQ9LF.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2022-03-09",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.paravi.jp/title/86486",
+  "id": 194947,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2022-04-27",
+  "last_episode_to_air": {
+    "id": 3624154,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2022-04-27",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 194947,
+    "still_path": "/h7enBycJhTSpNX6BkLTD7T0rG0b.jpg"
+  },
+  "name": "The Widow's Revenge",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 98,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "復讐の未亡人",
+  "overview": "Suzuki Mitsu is a talented contract engineer working for an IT company, but it wasn't their benefits package that attracted her. She's working for the company that drove her late husband to suicide, and she won't rest until she exacts her revenge on each and every person responsible.",
+  "popularity": 9.5839,
+  "poster_path": "/bJV0pauDZGxXgeH75nAGO58vQxq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-03-09",
+      "episode_count": 8,
+      "id": 283019,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/q3YkJvm1BKWeuYlq02uwe2FfNtw.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 194947,
+    "imdb_id": "tt21238092",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 417630,
+    "tvrage_id": null,
+    "wikidata_id": "Q112728588",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

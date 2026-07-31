@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/kWwj7gNJsnd5ocTRvlmEznaB8wG.jpg",
+  "created_by": [
+    {
+      "id": 1212834,
+      "credit_id": "66514b796aa9b62138908830",
+      "name": "Tom Ruegger",
+      "original_name": "Tom Ruegger",
+      "gender": 2,
+      "profile_path": "/kncofUBXuuyZMYuxcNO4PfY1krO.jpg"
+    },
+    {
+      "id": 1217666,
+      "credit_id": "66514b710786ca6fc2908c06",
+      "name": "Jean MacCurdy",
+      "original_name": "Jean MacCurdy",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1991-09-07",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10126,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1995-05-22",
+  "last_episode_to_air": {
+    "id": 2977830,
+    "name": "Platypi on Film",
+    "overview": "The Platypus Brothers critique their favorite movies (all of them Taz-themed parodies of famous films).",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1995-05-22",
+    "episode_number": 48,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 10126,
+    "still_path": null
+  },
+  "name": "Taz-Mania",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    },
+    {
+      "id": 2686,
+      "logo_path": "/rUb71E91POVCxpXGJ49pf6m8Ukk.png",
+      "name": "Fox Kids",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 123,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Taz-Mania",
+  "overview": "The wildest teenager south of the Equator, Taz lives to party. With his insatiable appetite, he tends to eat everything in sight. The oldest child in a family of five, Taz works at a rather bizarre coastal resort, the Hotel Tasmania, as a bellhop, busboy to earn party money.",
+  "popularity": 10.4064,
+  "poster_path": "/ozqJKBZq3k7BjyAwv2A7V1Zv6Ba.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-09-07",
+      "episode_count": 26,
+      "id": 20102,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xsXSg2faAk1dpp82rJ51CxZ0q2V.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-05",
+      "episode_count": 26,
+      "id": 196914,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1nzTSgPYEdoVgfNdhxyZ6L0J0wx.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-11",
+      "episode_count": 23,
+      "id": 196915,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-13",
+      "episode_count": 48,
+      "id": 196916,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.989,
+  "vote_count": 263,
+  "external_ids": {
+    "id": 10126,
+    "imdb_id": "tt0103562",
+    "freebase_mid": "/m/03vn46",
+    "freebase_id": "/en/taz-mania",
+    "tvdb_id": 76989,
+    "tvrage_id": null,
+    "wikidata_id": "Q1463792",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

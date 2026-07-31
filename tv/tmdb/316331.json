@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": "/rSAckre1kZKO3tZdKiIT90kYpwA.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2025-12-19",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 316331,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-03-06",
+  "last_episode_to_air": {
+    "id": 7027358,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-06",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 316331,
+    "still_path": null
+  },
+  "name": "Daan & Jani",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5708,
+      "logo_path": "/lirjOZ1woSOscxN77GXYqGxyua0.png",
+      "name": "Play (Online)",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Daan & Jani",
+  "overview": "Daan & Jani: the video podcast where swallowed opinions are finally spoken. Because we listen, and we judge.",
+  "popularity": 10.4189,
+  "poster_path": "/rTttobhG4muLfgKyapDP8GgMXgt.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2025-12-19",
+      "episode_count": 12,
+      "id": 504632,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rTttobhG4muLfgKyapDP8GgMXgt.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 504633,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 316331,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

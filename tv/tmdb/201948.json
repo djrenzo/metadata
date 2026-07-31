@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/1e0NTXAb5oZT07TeQjAFzKEJWvB.jpg",
+  "created_by": [
+    {
+      "id": 17867,
+      "credit_id": "630a4a65b042280082eb1d55",
+      "name": "Tom McCarthy",
+      "original_name": "Tom McCarthy",
+      "gender": 2,
+      "profile_path": "/cEA6cxG3AiH0hUzFH9mUQQVy20O.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-10-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://abc.com/shows/alaska-daily",
+  "id": 201948,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-03-30",
+  "last_episode_to_air": {
+    "id": 4295713,
+    "name": "Most Reckless Thing I've Ever Done",
+    "overview": "With rumors of a new Alaskan newspaper swirling, the team investigates their competition and what it means for the future of local news. Meanwhile, Eileen and Roz listen to Gloria's final call and find their lead before an innocent man is put away.",
+    "vote_average": 8.4,
+    "vote_count": 5,
+    "air_date": "2023-03-30",
+    "episode_number": 11,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 201948,
+    "still_path": "/o2aRUrRxxfPNo6c1tUgpKmip9z6.jpg"
+  },
+  "name": "Alaska Daily",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 11,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Alaska Daily",
+  "overview": "A star journalist moves to Alaska for a fresh start after a career-killing misstep, and finds redemption personally and professionally joining a daily metro newspaper in Anchorage.",
+  "popularity": 8.487,
+  "poster_path": "/2IGg89Ni3uO5E78CROvF11FkN63.jpg",
+  "production_companies": [
+    {
+      "id": 154740,
+      "logo_path": null,
+      "name": "Slow Pony",
+      "origin_country": "US"
+    },
+    {
+      "id": 216544,
+      "logo_path": null,
+      "name": "Co-Lab21",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-06",
+      "episode_count": 11,
+      "id": 293702,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rYcNa2qJJSmOafssfefVsfPjHm7.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "The deeper the mystery, the darker the truth.",
+  "type": "Scripted",
+  "vote_average": 7.256,
+  "vote_count": 84,
+  "external_ids": {
+    "id": 201948,
+    "imdb_id": "tt15421858",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420107,
+    "tvrage_id": null,
+    "wikidata_id": "Q113635074",
+    "facebook_id": "AlaskaDailyABC",
+    "instagram_id": "alaskadailyabc",
+    "twitter_id": "AlaskaDailyABC"
+  }
+}

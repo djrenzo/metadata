@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/kItsQ9lasYxuwetLJNkRFHDvSy2.jpg",
+  "created_by": [
+    {
+      "id": 1245906,
+      "credit_id": "52583ae3760ee36aaa990bef",
+      "name": "Frank Symoens",
+      "original_name": "Frank Symoens",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1994-09-05",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.een.be/televisie1_master/programmas/e_blok_programma/index.shtml",
+  "id": 15707,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-12",
+  "last_episode_to_air": {
+    "id": 7282291,
+    "name": "Episode 205",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-12",
+    "episode_number": 205,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 32,
+    "show_id": 15707,
+    "still_path": null
+  },
+  "name": "Blokken",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1028,
+      "logo_path": "/nlcRu8gGckTe83evTTtwbM3SCYz.png",
+      "name": "VRT 1",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 206,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Blokken",
+  "overview": "Blokken is a Belgian quiz show based on the Tetris video game. It is broadcast by Eén and hosted by popular Belgian television personality Ben Crabbé. The show is currently the longest running quiz show on Belgian television. On april 13th 2013 the show will air its 4000th episode.",
+  "popularity": 10.3706,
+  "poster_path": "/e7LCbJyFP2ci0kkVmqvbdEfEx8O.jpg",
+  "production_companies": [
+    {
+      "id": 120281,
+      "logo_path": "/bvNKpqHF6cRGPrMRVAbKIcqn6XY.png",
+      "name": "De Mensen",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-09-05",
+      "episode_count": 1,
+      "id": 191030,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 191031,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 205,
+      "id": 516336,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 524199,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 524200,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 15707,
+    "imdb_id": null,
+    "freebase_mid": "/m/0c_svn",
+    "freebase_id": "/en/blokken",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

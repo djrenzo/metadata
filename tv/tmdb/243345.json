@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/5dHlcO08j6N4DRofVtVewqwnGcx.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "2024-01-06",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://saikyooh.gakken.jp/anime/",
+  "id": 243345,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-03-22",
+  "last_episode_to_air": {
+    "id": 7076228,
+    "name": "Vritra VS Oryu",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-29",
+    "episode_number": 51,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 2,
+    "show_id": 243345,
+    "still_path": "/3HTKhBMOZxp47VgyglRwn6hoWjG.jpg"
+  },
+  "name": "Sai-Kyo-Oh! Zukan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 98,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 101,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "最強王図鑑",
+  "overview": "An anime adapting Gakken's children's book series Sai-Kyo-Oh! Zukan. The series pits animals and dinosaurs against each other in a tournament.",
+  "popularity": 8.5863,
+  "poster_path": "/oIGB3b02IBEyvmdufZcKeVSSKIW.jpg",
+  "production_companies": [
+    {
+      "id": 5372,
+      "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+      "name": "OLM",
+      "origin_country": "JP"
+    },
+    {
+      "id": 82652,
+      "logo_path": "/cRaVyV2ZMJaFDUiLnPXa7KfDEvX.png",
+      "name": "Gakken",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-06",
+      "episode_count": 50,
+      "id": 373732,
+      "name": "The Ultimate Battles",
+      "overview": "",
+      "poster_path": "/oIGB3b02IBEyvmdufZcKeVSSKIW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-06",
+      "episode_count": 51,
+      "id": 449268,
+      "name": "The Ultimate Tournament",
+      "overview": "",
+      "poster_path": "/5Q2xSaTUrSAjQIJjIIi5e01b2jQ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 243345,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 443415,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "saikyooh_anime"
+  }
+}

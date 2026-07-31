@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/tlsslmnPSJ73BluR9axcyObrkHM.jpg",
+  "created_by": [
+    {
+      "id": 1241899,
+      "credit_id": "5e8b880a63aad20013b2b703",
+      "name": "Charis Romas",
+      "original_name": "Χάρης Ρώμας",
+      "gender": 2,
+      "profile_path": "/4RA8GPvYyhpsSQhUEcqQBRQGMa6.jpg"
+    },
+    {
+      "id": 1259788,
+      "credit_id": "673e96cdf40282ebcb9b7d87",
+      "name": "Anna Hatzisofia",
+      "original_name": "Άννα Χατζησοφιά",
+      "gender": 1,
+      "profile_path": "/jvTr8EPMquXFxhE2oIrupGC0ebJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1998-10-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.antenna.gr/webtv/3142",
+  "id": 15247,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2000-06-30",
+  "last_episode_to_air": {
+    "id": 2593062,
+    "name": "Making of",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-06-30",
+    "episode_number": 36,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 15247,
+    "still_path": null
+  },
+  "name": "Konstantinos and Helen",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 69,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Κωνσταντίνου και Ελένης",
+  "overview": "Eleni and Konstantinos are two totally different people who are forced to live under the same roof, because they are in the middle of the proceedings of a trial, regarding the ownership of the house. Konstantinos is a strict university professor, while Eleni is a crazy girl who works at a bar. Their different characters put them in constant conflict, but does this mean that they really hate each other?",
+  "popularity": 10.9867,
+  "poster_path": "/4mVrM70wTHEST7UmucdZBgoO6J8.jpg",
+  "production_companies": [
+    {
+      "id": 164431,
+      "logo_path": "/g2WhII8lmCnKzccCPNFqPAtJBzJ.png",
+      "name": "Television Enterprises (TVE)",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-10-05",
+      "episode_count": 33,
+      "id": 147166,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/iDVhk02BfhlckhsZzzE0AZsnqRj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-08",
+      "episode_count": 36,
+      "id": 147167,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/iDVhk02BfhlckhsZzzE0AZsnqRj.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.636,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 15247,
+    "imdb_id": "tt0292812",
+    "freebase_mid": "/m/025wm0h",
+    "freebase_id": "/en/konstantinou_kai_elenis",
+    "tvdb_id": 275089,
+    "tvrage_id": null,
+    "wikidata_id": "Q6430206",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

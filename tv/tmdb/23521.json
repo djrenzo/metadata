@@ -1,0 +1,496 @@
+{
+  "adult": false,
+  "backdrop_path": "/fE4vTc4IAneVYFvKSoSL3Th91S1.jpg",
+  "created_by": [
+    {
+      "id": 174465,
+      "credit_id": "5c9a84489251416b0cf70865",
+      "name": "Alan Goodman",
+      "original_name": "Alan Goodman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 70454,
+      "credit_id": "5c9a844dc3a36877e63e9ae2",
+      "name": "Albie Hecht",
+      "original_name": "Albie Hecht",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 954980,
+      "credit_id": "5c9a8459c3a36841a3407ab6",
+      "name": "Fred Seibert",
+      "original_name": "Fred Seibert",
+      "gender": 2,
+      "profile_path": "/fc3R8FIXhkKumPNBERUmbpoikkX.jpg"
+    }
+  ],
+  "episode_run_time": [
+    105
+  ],
+  "first_air_date": "1987-01-18",
+  "genres": [],
+  "homepage": "http://www.kidschoiceawards.com/",
+  "id": 23521,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-06-21",
+  "last_episode_to_air": {
+    "id": 6243353,
+    "name": "The 38th Annual Nickelodeon Kids’ Choice Awards",
+    "overview": "Grammy® Award-Winning, Multiplantinum Global Superstar Tyla To Host Nickelodeon Kids’ Choice Awards 2025 – The BIGGEST Party of the Summer!",
+    "vote_average": 7,
+    "vote_count": 2,
+    "air_date": "2025-06-21",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 38,
+    "show_id": 23521,
+    "still_path": "/2bGg5G6YWiKMm93qH23hXzUpngU.jpg"
+  },
+  "name": "Kids' Choice Awards",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 38,
+  "number_of_seasons": 38,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Kids' Choice Awards",
+  "overview": "Honoring the year's biggest in television, film, music, and sports as voted by viewers worldwide of Nickelodeon networks. Winners receive a hollow orange blimp figurine which also functions as a kaleidoscope.",
+  "popularity": 10.0578,
+  "poster_path": "/aXmN5IYM0zWtfe8MD0WNMZlHjeE.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2007-03-18",
+      "episode_count": 2,
+      "id": 145133,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-18",
+      "episode_count": 1,
+      "id": 33495,
+      "name": "The Big Ballot",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-04-18",
+      "episode_count": 1,
+      "id": 33496,
+      "name": "1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-06-25",
+      "episode_count": 1,
+      "id": 150026,
+      "name": "1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-04-23",
+      "episode_count": 1,
+      "id": 150027,
+      "name": "1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-04-22",
+      "episode_count": 1,
+      "id": 150028,
+      "name": "1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-11-14",
+      "episode_count": 1,
+      "id": 149825,
+      "name": "1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-05-07",
+      "episode_count": 1,
+      "id": 150029,
+      "name": "1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-05-20",
+      "episode_count": 1,
+      "id": 150030,
+      "name": "1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1996-05-11",
+      "episode_count": 1,
+      "id": 150031,
+      "name": "1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-04-19",
+      "episode_count": 1,
+      "id": 150032,
+      "name": "1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-04-04",
+      "episode_count": 1,
+      "id": 150033,
+      "name": "1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-05-01",
+      "episode_count": 1,
+      "id": 150034,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2000-04-15",
+      "episode_count": 1,
+      "id": 150035,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2001-04-21",
+      "episode_count": 1,
+      "id": 150036,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-20",
+      "episode_count": 1,
+      "id": 150037,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2003-04-12",
+      "episode_count": 1,
+      "id": 150038,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2004-04-03",
+      "episode_count": 1,
+      "id": 150039,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2005-04-02",
+      "episode_count": 1,
+      "id": 150040,
+      "name": "2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2006-04-01",
+      "episode_count": 1,
+      "id": 150041,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-31",
+      "episode_count": 1,
+      "id": 150042,
+      "name": "2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2008-03-29",
+      "episode_count": 1,
+      "id": 150043,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2009-03-28",
+      "episode_count": 1,
+      "id": 150044,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2010-03-27",
+      "episode_count": 1,
+      "id": 150045,
+      "name": "2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-02",
+      "episode_count": 1,
+      "id": 33497,
+      "name": "2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2012-03-31",
+      "episode_count": 1,
+      "id": 150050,
+      "name": "2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2013-03-23",
+      "episode_count": 1,
+      "id": 150048,
+      "name": "2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2014-03-29",
+      "episode_count": 1,
+      "id": 150047,
+      "name": "2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-28",
+      "episode_count": 1,
+      "id": 150046,
+      "name": "2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-12",
+      "episode_count": 1,
+      "id": 121161,
+      "name": "2016",
+      "overview": "",
+      "poster_path": "/knZIUlETFTK3BKhNAeXaGYLMk1Q.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-11",
+      "episode_count": 1,
+      "id": 121160,
+      "name": "2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2018-03-24",
+      "episode_count": 1,
+      "id": 121159,
+      "name": "2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-23",
+      "episode_count": 1,
+      "id": 121158,
+      "name": "2019",
+      "overview": "",
+      "poster_path": "/o7HCJ8ioYhezRA4M3SNjwVONFUG.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-02",
+      "episode_count": 1,
+      "id": 135850,
+      "name": "2020: Celebrate Together",
+      "overview": "Your yearly dose of stars, surprises, and slime - hosted by Victoria Justice on Saturday, May 2, at 8/7c!",
+      "poster_path": "/uW5MVaAJS00N6kZYmp39nbEeNtO.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-13",
+      "episode_count": 1,
+      "id": 185791,
+      "name": "2021",
+      "overview": "",
+      "poster_path": "/h19SHLWujHf7kaW4tNewA3809kJ.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-19",
+      "episode_count": 1,
+      "id": 236957,
+      "name": "2022",
+      "overview": "",
+      "poster_path": "/v2QSKwJt9Vvrk7uc2I2NbqD9aJR.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-04",
+      "episode_count": 1,
+      "id": 330680,
+      "name": "The 36th Annual Nickelodeon Kids' Choice Awards",
+      "overview": "",
+      "poster_path": "/7P0uk5BmadKP878JhPrK6KbZDh.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-13",
+      "episode_count": 1,
+      "id": 400891,
+      "name": "The 37th Annual Nickelodeon Kids' Choice Awards",
+      "overview": "The 37th Annual Nickelodeon Kids' Choice Awards ceremony will be held on July 13, 2024.",
+      "poster_path": "/hwverhZqGYzJoOl4oZuzGtnTSsB.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-21",
+      "episode_count": 1,
+      "id": 457068,
+      "name": "The 38th Annual Nickelodeon Kids’ Choice Awards",
+      "overview": "",
+      "poster_path": "/o8GWtTQI9M29dy8Em2DG1MjxfuZ.jpg",
+      "season_number": 38,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Your yearly dose of stars, surprises, and slime!",
+  "type": "Reality",
+  "vote_average": 8.8,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 23521,
+    "imdb_id": "",
+    "freebase_mid": "/m/056p4m",
+    "freebase_id": null,
+    "tvdb_id": 257785,
+    "tvrage_id": 17710,
+    "wikidata_id": "Q163569",
+    "facebook_id": "KidsChoiceAwards",
+    "instagram_id": "kidschoiceawards",
+    "twitter_id": null
+  }
+}

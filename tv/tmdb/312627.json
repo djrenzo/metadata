@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/agExsn0zMSgHaz5rSdV3OOsoBKl.jpg",
+  "created_by": [
+    {
+      "id": 4016234,
+      "credit_id": "697a9f1bd5d4895a414a2bda",
+      "name": "Frédéric Martin",
+      "original_name": "Frédéric Martin",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-01-11",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 312627,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-03-29",
+  "last_episode_to_air": {
+    "id": 7028190,
+    "name": "Captain Nice",
+    "overview": "Jim tries to be Captain Nice, but the Urchins take advantage.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-29",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 1,
+    "show_id": 312627,
+    "still_path": null
+  },
+  "name": "Submarine Jim",
+  "next_episode_to_air": {
+    "id": 7613550,
+    "name": "The Mutiny (1)",
+    "overview": "The sub is off course in Burgundy, and Bonnie starts a mutiny.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-03",
+    "episode_number": 27,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 1,
+    "show_id": 312627,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 511,
+      "logo_path": "/9v9Mink1IVxPNRZOmCZ8N58BOHe.png",
+      "name": "France 4",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3544,
+      "logo_path": "/swyfRVywaHIy7Xf5s8dLNiiUpcR.png",
+      "name": "Okoo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3856,
+      "logo_path": "/pgAqc84e46blpavDqfm5JjDfgHc.png",
+      "name": "France.tv",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Capitaine Jim",
+  "overview": "A naive young Dolphin named Jim finds himself in charge of navigating the first-ever submarine on wheels! Jim is joined by his motley crew of underwater buddies as they journey across land and sea. Their water-filled tube has left the ocean to seek out an unlikely destination, the pristine waters of ‘Fishland.’ Luckily, with no set route in sight, their journey promises to be a long and winding one.",
+  "popularity": 9.9042,
+  "poster_path": "/cHN9UE0cjsDByMWk0FgaPEkHNeJ.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-01-11",
+      "episode_count": 52,
+      "id": 497608,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 312627,
+    "imdb_id": "tt38952383",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q138011253",
+    "facebook_id": "submarine.jim",
+    "instagram_id": "submarine.jim",
+    "twitter_id": null
+  }
+}

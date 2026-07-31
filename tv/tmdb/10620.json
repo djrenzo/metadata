@@ -1,0 +1,152 @@
+{
+  "adult": false,
+  "backdrop_path": "/ffqFjz0fp0Vt6y8GMhR9a1UOD9j.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1975-04-01",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.nippon-animation.co.jp/work/907/",
+  "id": 10620,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1983-09-27",
+  "last_episode_to_air": {
+    "id": 1155818,
+    "name": "The Flower Festival",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "1983-09-27",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 10620,
+    "still_path": "/vjieUtHla3bvFyfPv3ZP7tAC2F9.jpg"
+  },
+  "name": "Maya the Bee",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "みつばちマーヤの冒険",
+  "overview": "The adventures of a young and happy bee who is sent by her queen to search for pollen, and in doing so she finds a new world that surrounds her, making friends with various forest creatures.",
+  "popularity": 10.5908,
+  "poster_path": "/aViIrap16cmxz6dbBwI9JCremrD.jpg",
+  "production_companies": [
+    {
+      "id": 4287,
+      "logo_path": "/hIxV81PD6eNsNluKemgiWwdZhcb.png",
+      "name": "Nippon Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 163498,
+      "logo_path": null,
+      "name": "Wako Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 244103,
+      "logo_path": null,
+      "name": "Apollo Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 71443,
+      "logo_path": null,
+      "name": "Zuiyo",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1975-04-01",
+      "episode_count": 52,
+      "id": 20907,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fIJF6ot3rkMotQ9dgb0dUSbZVHX.jpg",
+      "season_number": 1,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "1982-10-12",
+      "episode_count": 52,
+      "id": 73667,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/eyX2e6I2jKq70RVePmimHhmFq7u.jpg",
+      "season_number": 2,
+      "vote_average": 6.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.371,
+  "vote_count": 97,
+  "external_ids": {
+    "id": 10620,
+    "imdb_id": "tt0133295",
+    "freebase_mid": "/m/0275ttf",
+    "freebase_id": null,
+    "tvdb_id": 73518,
+    "tvrage_id": null,
+    "wikidata_id": "Q16521698",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

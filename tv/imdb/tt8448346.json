@@ -46,13 +46,6 @@
     {
       "department": "Directing",
       "job": "Director",
-      "name": "Mathieu Gadbois",
-      "profile_path": null,
-      "id": 1709876
-    },
-    {
-      "department": "Directing",
-      "job": "Director",
       "name": "André St-Pierre",
       "profile_path": null,
       "id": 1671198
@@ -63,11 +56,18 @@
       "name": "Marie-Claude Coutu",
       "profile_path": null,
       "id": 1895839
+    },
+    {
+      "department": "Directing",
+      "job": "Director",
+      "name": "Mathieu Gadbois",
+      "profile_path": null,
+      "id": 1709876
     }
   ],
   "director": [
-    "Mathieu Gadbois",
-    "André St-Pierre"
+    "André St-Pierre",
+    "Mathieu Gadbois"
   ],
   "videos": [
     {

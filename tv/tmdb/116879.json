@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/hco997RXwDj3Pugm5lItYorPklm.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2021-01-10",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.rtve.es/alacarta/videos/rescate",
+  "id": 116879,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-04-07",
+  "last_episode_to_air": {
+    "id": 5251209,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-04-07",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 3,
+    "show_id": 116879,
+    "still_path": null
+  },
+  "name": "Rescate",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3719,
+      "logo_path": "/nI7K09xPPk8fz8FfxWdF6OCiADO.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Rescate",
+  "overview": "",
+  "popularity": 10.0272,
+  "poster_path": "/z1XX1u560xdrO7Ah4MBSmDoeLja.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-01-10",
+      "episode_count": 26,
+      "id": 176943,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/z1XX1u560xdrO7Ah4MBSmDoeLja.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-09",
+      "episode_count": 13,
+      "id": 243791,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/r44t6Pb2yuDrEMOo1nFoae41GLp.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-14",
+      "episode_count": 13,
+      "id": 374376,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/r44t6Pb2yuDrEMOo1nFoae41GLp.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 116879,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 443770,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

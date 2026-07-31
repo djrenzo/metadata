@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/6bSYn0NCdVqDuBdwqPvulsNstLA.jpg",
+  "created_by": [
+    {
+      "id": 31,
+      "credit_id": "6179a0ccd236e6002a825188",
+      "name": "Tom Hanks",
+      "original_name": "Tom Hanks",
+      "gender": 2,
+      "profile_path": "/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "id": 339,
+      "credit_id": "6179a0e69ee0ef008c48a457",
+      "name": "Brian Grazer",
+      "original_name": "Brian Grazer",
+      "gender": 2,
+      "profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg"
+    },
+    {
+      "id": 6159,
+      "credit_id": "6179a0c2f85958002a4be3ca",
+      "name": "Ron Howard",
+      "original_name": "Ron Howard",
+      "gender": 2,
+      "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg"
+    },
+    {
+      "id": 4505,
+      "credit_id": "6179a0f2e9da69002b9fba73",
+      "name": "Michael Bostick",
+      "original_name": "Michael Bostick",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    58
+  ],
+  "first_air_date": "1998-04-05",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.hbo.com/from-the-earth-to-the-moon",
+  "id": 3556,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1998-05-10",
+  "last_episode_to_air": {
+    "id": 254309,
+    "name": "Le Voyage dans la Lune",
+    "overview": "The bittersweet end of the Apollo program—and the final manned journey to another planet—is juxtaposed with a light-hearted recreation of the first cinematic imagining of such an endeavor, the 1902 French silent classic “Voyage to the Moon.”",
+    "vote_average": 7.6,
+    "vote_count": 7,
+    "air_date": "1998-05-10",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 3556,
+    "still_path": "/rfBRcAUrhrYgfj7mWKTuPNU1qoe.jpg"
+  },
+  "name": "From the Earth to the Moon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "From the Earth to the Moon",
+  "overview": "The story of the United States' space program, from its beginnings in 1961 to the final moon mission in 1972.",
+  "popularity": 9.7799,
+  "poster_path": "/sSnYvoVT2PYWJbF0aWdUFvLqKhR.jpg",
+  "production_companies": [
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 38944,
+      "logo_path": null,
+      "name": "Clavius Base",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-04-03",
+      "episode_count": 2,
+      "id": 10775,
+      "name": "Specials",
+      "overview": "A collection of short documentaries and featurettes to introduce the behind the scenes aspects of FROM THE EARTH TO THE MOON.",
+      "poster_path": "/zlcROfrq66yX4Cbiotl3P5iKTl1.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-04-05",
+      "episode_count": 12,
+      "id": 10774,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sSnYvoVT2PYWJbF0aWdUFvLqKhR.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 8.056,
+  "vote_count": 135,
+  "external_ids": {
+    "id": 3556,
+    "imdb_id": "tt0120570",
+    "freebase_mid": "/m/02kk_c",
+    "freebase_id": null,
+    "tvdb_id": 77831,
+    "tvrage_id": null,
+    "wikidata_id": "Q1467607",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

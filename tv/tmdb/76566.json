@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/AvQKtmj0fTrNEzAhzp74tp6wKvG.jpg",
+  "created_by": [
+    {
+      "id": 1095910,
+      "credit_id": "5a65cbdac3a3687f71035a64",
+      "name": "Ed Talfan",
+      "original_name": "Ed Talfan",
+      "gender": 2,
+      "profile_path": "/vUtTWBUdMKMMjbrYWemIBbem9IG.jpg"
+    },
+    {
+      "id": 1910798,
+      "credit_id": "5a65cbbe0e0a261a0703a1ab",
+      "name": "Mark Andrew",
+      "original_name": "Mark Andrew",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    57
+  ],
+  "first_air_date": "2018-01-07",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.s4c.cymru/en/drama/craith/",
+  "id": 76566,
+  "in_production": false,
+  "languages": [
+    "en",
+    "cy"
+  ],
+  "last_air_date": "2021-11-14",
+  "last_episode_to_air": {
+    "id": 3282966,
+    "name": "Episode 6",
+    "overview": "Cadi is in a race against time as she tries to prevent another tragedy unfolding.",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "2021-11-14",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 3,
+    "show_id": 76566,
+    "still_path": "/xVHShiXic9YlCBniDxbYxG8Nubi.jpg"
+  },
+  "name": "Hidden",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 139,
+      "logo_path": "/GOTWuhzHulAcXJMETunP2Wy8No.png",
+      "name": "S4C",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "cy",
+  "original_name": "Craith",
+  "overview": "DI Cadi John and DC Owen Vaughan try to solve a case involving Mali Pryce, a young woman whose body was discovered in a stream in the woods.",
+  "popularity": 12.4108,
+  "poster_path": "/yXvjqGMlQuJ5sQEPIsWEeA0n1ql.jpg",
+  "production_companies": [
+    {
+      "id": 93637,
+      "logo_path": "/aW4weh0t8yUm2e62w4t3KlKJsLX.png",
+      "name": "Severn Screen",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 8,
+      "id": 98272,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yXvjqGMlQuJ5sQEPIsWEeA0n1ql.jpg",
+      "season_number": 1,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2019-11-17",
+      "episode_count": 6,
+      "id": 138163,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wsVfRqzLslGGDU2T1tVxXKk2bNj.jpg",
+      "season_number": 2,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2021-10-10",
+      "episode_count": 6,
+      "id": 215683,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/p2WA0p4kSsI8RRwcrQzauGLdRMQ.jpg",
+      "season_number": 3,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Welsh",
+      "iso_639_1": "cy",
+      "name": "Cymraeg"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.143,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 76566,
+    "imdb_id": "tt7217374",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 341262,
+    "tvrage_id": null,
+    "wikidata_id": "Q55613697",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

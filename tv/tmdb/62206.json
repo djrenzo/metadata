@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/x5kFc5KBdcaTcS4qcmkhCo25Wu.jpg",
+  "created_by": [
+    {
+      "id": 1443017,
+      "credit_id": "550d43419251413443002f56",
+      "name": "Serge Bloch",
+      "original_name": "Serge Bloch",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2007-07-02",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.samsam.fr/",
+  "id": 62206,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2024-09-11",
+  "last_episode_to_air": {
+    "id": 5563039,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-09-11",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 3,
+    "show_id": 62206,
+    "still_path": null
+  },
+  "name": "SamSam",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 255,
+      "logo_path": "/8xK6AdNT6PfRyygRvb2MKCoqrv2.png",
+      "name": "France 5",
+      "origin_country": "FR"
+    },
+    {
+      "id": 511,
+      "logo_path": "/9v9Mink1IVxPNRZOmCZ8N58BOHe.png",
+      "name": "France 4",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 143,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "SamSam",
+  "overview": "Meet SamSam, the smallest of heroes. For a hero, he doesn't quite yet have super powers. But it doesn't mean he can't fly his own SamSaucer into space or can't deal with dirty rotten monsters. Sometimes he does need a little help from his cuddly SamTeddy, SamMummy or SamDaddy, as well as his friends. And granted, sometimes, using his noggin and a bit of imagination gets the work done, too.",
+  "popularity": 10.0682,
+  "poster_path": "/mI5Wr7vDZw5EWlUdbAvuoLwg26Y.jpg",
+  "production_companies": [
+    {
+      "id": 171083,
+      "logo_path": "/XXQ3gHpgefCthCwekpCOShD92r.png",
+      "name": "Bayard Jeunesse Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-07-02",
+      "episode_count": 52,
+      "id": 65437,
+      "name": "Saison 1",
+      "overview": "",
+      "poster_path": "/mjjfZsCpx92kDKb83ycJINg3P6M.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-10",
+      "episode_count": 39,
+      "id": 95708,
+      "name": "Saison 2",
+      "overview": "",
+      "poster_path": "/y83hSDn8j3u35YyPukwiZGQTtNY.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-05",
+      "episode_count": 52,
+      "id": 366308,
+      "name": "Saison 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 62206,
+    "imdb_id": "tt2924740",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 151591,
+    "tvrage_id": null,
+    "wikidata_id": "Q2630580",
+    "facebook_id": "100043530802804",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

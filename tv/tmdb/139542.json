@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/ifaYReR6EuxCSsZcuTxvR9OlNPY.jpg",
+  "created_by": [
+    {
+      "id": 1232847,
+      "credit_id": "631b900ca5d849007a7c8a15",
+      "name": "Inés Rodena",
+      "original_name": "Inés Rodena",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1304277,
+      "credit_id": "631b9001c8a5ac0091e164cf",
+      "name": "Valentín Pimstein",
+      "original_name": "Valentín Pimstein",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3694686,
+      "credit_id": "631b901b33ad8f0084753735",
+      "name": "Luis Reyes de la Maza",
+      "original_name": "Luis Reyes de la Maza",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1978-05-22",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 139542,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1979-03-08",
+  "last_episode_to_air": {
+    "id": 6983643,
+    "name": "Chapter 208",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1979-03-08",
+    "episode_number": 208,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 139542,
+    "still_path": null
+  },
+  "name": "Viviana",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 208,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Viviana",
+  "overview": "A poor but beautiful woman comes to the city looking for her husband ... who is married to another woman, the evil Gloria. While she falls in love to a handsome and good hearted doctor, she decides to work at nights to earn money at a \"Model School\" which is, in reality, a high profile brothel...",
+  "popularity": 15.428,
+  "poster_path": "/AhNy5bx8Kt8ZfwvOhw7d186F3XA.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1978-05-22",
+      "episode_count": 208,
+      "id": 221014,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/s1w1oZrCKXReI4SXtR2myv8nogV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 139542,
+    "imdb_id": "tt0214380",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q9094608",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1062060,
+      "credit_id": "559838afc3a36855db0019ae",
+      "name": "Samuel Gallu",
+      "original_name": "Samuel Gallu",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1955-09-20",
+  "genres": [
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13813,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1958-09-11",
+  "last_episode_to_air": {
+    "id": 506291,
+    "name": "The Goodwill Ambassador",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1958-09-11",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 13813,
+    "still_path": null
+  },
+  "name": "Navy Log",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Navy Log",
+  "overview": "Navy Log is an American drama anthology series that initially aired for one season on CBS. It relates the greatest survival war stories in the history of the United States Navy. This series premiered on September 20, 1955, but the following year, it was moved to ABC, where it aired until September 25, 1958. The program aired for a total of three seasons and 102 episodes.",
+  "popularity": 9.6646,
+  "poster_path": "/pCpxzdsnZhVh9ZD8qBDKvfZBZE3.jpg",
+  "production_companies": [
+    {
+      "id": 57313,
+      "logo_path": null,
+      "name": "Gallu Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1955-09-20",
+      "episode_count": 39,
+      "id": 24938,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-10-17",
+      "episode_count": 35,
+      "id": 24939,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-18",
+      "episode_count": 30,
+      "id": 24937,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 13813,
+    "imdb_id": "tt0250167",
+    "freebase_mid": "/m/08r7gc",
+    "freebase_id": "/en/navy_log",
+    "tvdb_id": 72672,
+    "tvrage_id": null,
+    "wikidata_id": "Q3873463",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

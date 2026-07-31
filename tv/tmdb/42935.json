@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/qNsnfw20eMyHQenPMldRRoWDp9k.jpg",
+  "created_by": [
+    {
+      "id": 1255773,
+      "credit_id": "60132fef99d5c300405a342f",
+      "name": "Elizabeth Jhin",
+      "original_name": "Elizabeth Jhin",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2007-05-14",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 42935,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2007-11-01",
+  "last_episode_to_air": {
+    "id": 2686535,
+    "name": "Episode 148",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-11-01",
+    "episode_number": 148,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 1,
+    "show_id": 42935,
+    "still_path": null
+  },
+  "name": "Eterna Magia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 148,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Eterna Magia",
+  "overview": "",
+  "popularity": 9.3406,
+  "poster_path": "/5EjbUNwMqaNYuAGWx75JxQ2PCVf.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2007-05-14",
+      "episode_count": 148,
+      "id": 178864,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2uRlwTkm0pOP97KcnQPMOH96P65.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 42935,
+    "imdb_id": "tt0997019",
+    "freebase_mid": "/m/0k046c1",
+    "freebase_id": null,
+    "tvdb_id": 331375,
+    "tvrage_id": null,
+    "wikidata_id": "Q3286008",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

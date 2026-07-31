@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/8lJosAB6Pa7KS0IWgDedHOdgKVU.jpg",
+  "created_by": [
+    {
+      "id": 1183723,
+      "credit_id": "67964e59a6e41283f12b0be3",
+      "name": "Walther Negrão",
+      "original_name": "Walther Negrão",
+      "gender": 2,
+      "profile_path": "/sLloM8nZyIxkKdpgGTHylVOqbHj.jpg"
+    },
+    {
+      "id": 1181462,
+      "credit_id": "67964e5f192115901e8f2145",
+      "name": "Chico de Assis",
+      "original_name": "Chico de Assis",
+      "gender": 2,
+      "profile_path": "/j00Yz5RcstV2cB0qHLK4uHDI47e.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1977-05-09",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 283071,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1977-08-20",
+  "last_episode_to_air": {
+    "id": 5942252,
+    "name": "Episode 90",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1977-08-20",
+    "episode_number": 90,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 283071,
+    "still_path": null
+  },
+  "name": "Cinderela 77",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3053,
+      "logo_path": "/moVF4LeI4lv2tCvqe7J6h3KRY98.png",
+      "name": "TV Tupi",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 90,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Cinderela 77",
+  "overview": "",
+  "popularity": 9.7764,
+  "poster_path": "/uRJyM17vpXSYifGdcraY3oefNon.jpg",
+  "production_companies": [
+    {
+      "id": 69529,
+      "logo_path": null,
+      "name": "Rede Tupi",
+      "origin_country": ""
+    },
+    {
+      "id": 83040,
+      "logo_path": "/hYyMxPniIu9xdQ1Q5Q9XsqG4tS1.png",
+      "name": "TV Tupi",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1977-05-09",
+      "episode_count": 90,
+      "id": 439838,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 283071,
+    "imdb_id": "tt0209580",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q9761260",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

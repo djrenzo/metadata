@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/Ztb1iWRzFPSgzQitlzxVf1ZSUY.jpg",
+  "created_by": [
+    {
+      "id": 935637,
+      "credit_id": "5efc96fb7b7b4d0037568b2e",
+      "name": "Elena Solomou",
+      "original_name": "Έλενα Σολωμού",
+      "gender": 1,
+      "profile_path": "/9QlubpjstYDCMufCfrZXTVEReVN.jpg"
+    },
+    {
+      "id": 2189138,
+      "credit_id": "5efc96d5a284eb0038983ee2",
+      "name": "Vassilis Risvas",
+      "original_name": "Βασίλης Ρίσβας",
+      "gender": 2,
+      "profile_path": "/9WhGa4rjoQvLhxG0VZGEgZy5r6X.jpg"
+    },
+    {
+      "id": 2591626,
+      "credit_id": "5efc96ebd6d64d0034c90054",
+      "name": "Dimitra Sakali",
+      "original_name": "Δήμητρα Σακαλή",
+      "gender": 1,
+      "profile_path": "/vQeUNGe4QhHHFEdjqHVCsHEgRmh.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2005-09-30",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.megatv.com/ekpompes/43207/peninta-peninta/",
+  "id": 51773,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2011-03-02",
+  "last_episode_to_air": {
+    "id": 2495497,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-03-02",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 3,
+    "show_id": 51773,
+    "still_path": "/zbJpItOy63YDpoUQ79NxOyqfkkJ.jpg"
+  },
+  "name": "Fifty Fifty (50-50)",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 81,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Πενήντα Πενήντα (50 50)",
+  "overview": "",
+  "popularity": 10.5334,
+  "poster_path": "/6oAAjh2SS4ZsTY4cF3f52K3VxVJ.jpg",
+  "production_companies": [
+    {
+      "id": 29102,
+      "logo_path": null,
+      "name": "Anosi S.A",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-01-13",
+      "episode_count": 1,
+      "id": 167628,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/6vA460eJwQLAJ8FgKPQjEBn8uDe.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-30",
+      "episode_count": 34,
+      "id": 147445,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ueMdWNhuHXropoTwssNyXBAkH44.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2006-10-06",
+      "episode_count": 32,
+      "id": 147446,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/iu0m0bnUNGEi4H75tMlrfAKD6NO.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-03-02",
+      "episode_count": 15,
+      "id": 147448,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/ryZLCSpa2RdZrhDglszKbaPF0kT.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.174,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 51773,
+    "imdb_id": "tt0483971",
+    "freebase_mid": "/m/0v_9lm6",
+    "freebase_id": null,
+    "tvdb_id": 141171,
+    "tvrage_id": null,
+    "wikidata_id": "Q3374740",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

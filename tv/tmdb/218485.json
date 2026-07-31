@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/usDHXpupYq3iEUoSwO013mS2nNm.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-01-15",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://a1.ro/america-express/",
+  "id": 218485,
+  "in_production": true,
+  "languages": [
+    "ro"
+  ],
+  "last_air_date": "2023-12-27",
+  "last_episode_to_air": {
+    "id": 5008333,
+    "name": "Episode 44",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-27",
+    "episode_number": 44,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 140,
+    "season_number": 2,
+    "show_id": 218485,
+    "still_path": "/27JGNImR9DPYBq0NIY4gjhSsMs7.jpg"
+  },
+  "name": "America Express",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 826,
+      "logo_path": "/rXFw15vvldWBxZuJOy0kmrkGFfO.png",
+      "name": "Antena 1",
+      "origin_country": "RO"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_name": "America Express",
+  "overview": "9 pairs of stars are ready to embark on the adventure of their lives, in the hardest reality show in Romania. America Express will take them on the Golden Route, on a route of more than 7000 kilometers, which passes through Mexico, Guatemala and Colombia.",
+  "popularity": 17.3496,
+  "poster_path": "/tY4YxM0h4c871zofs2Ca5G1jGXa.jpg",
+  "production_companies": [
+    {
+      "id": 83718,
+      "logo_path": "/xySHk1Qe5jmEhSa01EZ2wp9ekr9.png",
+      "name": "Antena 1",
+      "origin_country": "RO"
+    },
+    {
+      "id": 105974,
+      "logo_path": null,
+      "name": "Antena TV Group S.A.",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "GT",
+      "name": "Guatemala"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-15",
+      "episode_count": 41,
+      "id": 324774,
+      "name": "Season 1 - Drumul Aurului",
+      "overview": "",
+      "poster_path": "/dteRXST5pcI41REaur5qz0ADoUg.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-21",
+      "episode_count": 44,
+      "id": 359057,
+      "name": "Season 2 -Drumul Soarelui",
+      "overview": "",
+      "poster_path": "/b5nHeN44uonWXtomCOa4aIeZwcp.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8.4,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 218485,
+    "imdb_id": "tt26254014",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 429763,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "americaexpressromania",
+    "instagram_id": "americaexpressromania",
+    "twitter_id": null
+  }
+}

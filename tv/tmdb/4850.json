@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/dKnEaeiThQqwobvoRx90IfKKL30.jpg",
+  "created_by": [
+    {
+      "id": 164591,
+      "credit_id": "5ec6fcaf140bad001b183cb5",
+      "name": "John Banas",
+      "original_name": "John Banas",
+      "gender": 2,
+      "profile_path": "/laWozoDYd1Jf819D72kwdIiIWXh.jpg"
+    },
+    {
+      "id": 2648039,
+      "credit_id": "5ec6fcd99979d2002138be7a",
+      "name": "John Hugginson",
+      "original_name": "John Hugginson",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2007-08-27",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 4850,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-03-30",
+  "last_episode_to_air": {
+    "id": 1954544,
+    "name": "Ghosts",
+    "overview": "The team investigate the death of ex-fighter Charlie Mansfield at a church hospice - after a death bed confession that he murdered three people.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-03-30",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 5,
+    "show_id": 4850,
+    "still_path": null
+  },
+  "name": "City Homicide",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 84,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "City Homicide",
+  "overview": "City Homicide follows a group of detectives in the Homicide department of Melbourne's Metropolitan Police Headquarters.",
+  "popularity": 10.2444,
+  "poster_path": "/lSJWL9TKsOrb9Gz7CppvKJgU6Ii.jpg",
+  "production_companies": [
+    {
+      "id": 36026,
+      "logo_path": "/3uPAUIzpCE62X4JKEFREWqXoiDc.png",
+      "name": "Southern Star",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-08-27",
+      "episode_count": 14,
+      "id": 87424,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/m8P0rTEK2Q83HmDAORrlxYmCBlZ.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2008-06-30",
+      "episode_count": 22,
+      "id": 87425,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ofeXMwOckZvd6hv8QNJ8zJJOOgq.jpg",
+      "season_number": 2,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2009-08-10",
+      "episode_count": 18,
+      "id": 134216,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/kAbdCeSC3bCNP2Y3IX5uGSbMh2.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2010-07-14",
+      "episode_count": 24,
+      "id": 134218,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wWsh40Lk28nf5bofmzlYOexnTfh.jpg",
+      "season_number": 4,
+      "vote_average": 4.4
+    },
+    {
+      "air_date": "2011-02-23",
+      "episode_count": 6,
+      "id": 134219,
+      "name": "No Greater Honour",
+      "overview": "",
+      "poster_path": "/5HDEiXkW8nxCFvCyyFBJpL2DXms.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 4850,
+    "imdb_id": "tt1024932",
+    "freebase_mid": "/m/02qkypx",
+    "freebase_id": "/en/city_homicide",
+    "tvdb_id": 80480,
+    "tvrage_id": null,
+    "wikidata_id": "Q2974572",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/kcsp5iPAJyCsvWEpDpnulYK71FL.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2025-03-31",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nhk.jp/p/anpan",
+  "id": 262339,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2025-09-26",
+  "last_episode_to_air": {
+    "id": 6472647,
+    "name": "Episode 130",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-09-26",
+    "episode_number": 130,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 262339,
+    "still_path": "/jkaBAIfiMVdzjQH2feCH7kMmAJb.jpg"
+  },
+  "name": "Anpan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 469,
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "name": "NHK G",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2334,
+      "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 130,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "あんぱん",
+  "overview": "In wartime Japan, spirited Nobu transforms from a militarist schoolgirl into Kochi’s first female reporter, as she and childhood friend Takashi endure personal loss and struggle to find their own truths amid the upheaval of the Showa era.",
+  "popularity": 11.1417,
+  "poster_path": "/rhdmbSPCNCgSFLE0inOs8UWrpq.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-29",
+      "episode_count": 4,
+      "id": 479892,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-03-31",
+      "episode_count": 130,
+      "id": 407593,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9F3pAWkiotD5nzvl253gqkFV8vk.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 262339,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 449447,
+    "tvrage_id": null,
+    "wikidata_id": "Q124408746",
+    "facebook_id": null,
+    "instagram_id": "asadora_ak_nhk",
+    "twitter_id": "asadora_nhk"
+  }
+}

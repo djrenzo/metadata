@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/pWxftsGvavMMMaaDlPb0wEeAiDw.jpg",
+  "created_by": [
+    {
+      "id": 1254336,
+      "credit_id": "576fceeac3a36809d6005e04",
+      "name": "Mariela Romero",
+      "original_name": "Mariela Romero",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-01-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 66886,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2016-07-18",
+  "last_episode_to_air": {
+    "id": 1662440,
+    "name": "Episode 126",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-07-18",
+    "episode_number": 126,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 66886,
+    "still_path": null
+  },
+  "name": "Road to Destiny",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Un Camino Hacia el Destino",
+  "overview": "Luisa Fernanda Pérez, a beautiful, 18-year-old student, has two passions: mastering the violin and gardening, a skill she learned from her father, Pedro, the former groundskeeper of the wealthy Altamirano family’s estate. A chance encounter with destiny alters her life after she is injured in a car accident caused by Luis (her biological father), a playboy lawyer and falls for his stepson, Carlos, an attractive, young doctor treating her at the local hospital.",
+  "popularity": 8.9066,
+  "poster_path": "/y7z2aDzb9NdGgxAGFKhIo80CvQD.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-01-25",
+      "episode_count": 126,
+      "id": 78030,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xLTJhuXnMbLUujL8NEq4sivJ9rO.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 15,
+  "external_ids": {
+    "id": 66886,
+    "imdb_id": "tt5345792",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 308302,
+    "tvrage_id": null,
+    "wikidata_id": "Q21780601",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/kJvJREb7pf901Bx0vjlEZXWiQBy.jpg",
+  "created_by": [
+    {
+      "id": 1785394,
+      "credit_id": "63ac5ae6c8113d008ac598d0",
+      "name": "Manuel Arouca",
+      "original_name": "Manuel Arouca",
+      "gender": 2,
+      "profile_path": "/1jOsFzmdfZRCQiwnnsBSvM6BuwU.jpg"
+    },
+    {
+      "id": 121447,
+      "credit_id": "63ac5af61f748b00b2475a86",
+      "name": "Nicolau Breyner",
+      "original_name": "Nicolau Breyner",
+      "gender": 2,
+      "profile_path": "/2QVjBGLPNxyV9EARqvHZnWGkzxp.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1993-10-11",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.rtp.pt/programa/tv/p5056",
+  "id": 217181,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1994-04-15",
+  "last_episode_to_air": {
+    "id": 4661178,
+    "name": "Episode 135",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-04-15",
+    "episode_number": 135,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 217181,
+    "still_path": null
+  },
+  "name": "Verão Quente",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 554,
+      "logo_path": "/iJBaPuHCVjROCUXZzGuon3oDqMC.png",
+      "name": "RTP1",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 135,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Verão Quente",
+  "overview": "",
+  "popularity": 8.1539,
+  "poster_path": "/ynFOFqIOWMfxxOmLdfGyXUGpDmI.jpg",
+  "production_companies": [
+    {
+      "id": 170798,
+      "logo_path": null,
+      "name": "NBP",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1993-10-11",
+      "episode_count": 135,
+      "id": 321751,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 217181,
+    "imdb_id": "tt0135111",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 363945,
+    "tvrage_id": null,
+    "wikidata_id": "Q10389923",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

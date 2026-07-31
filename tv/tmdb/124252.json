@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/atJk5ZhmfkexMrlH3ubOFrJQ301.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2014-11-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.wowow.co.jp/detail/106004",
+  "id": 124252,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2023-07-14",
+  "last_episode_to_air": {
+    "id": 4668562,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-07-14",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 2,
+    "show_id": 124252,
+    "still_path": null
+  },
+  "name": "Oh, Love Hotel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 172,
+      "logo_path": "/dCN47YS5lugkwts5ellpW51cBzL.png",
+      "name": "WOWOW Prime",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 14,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ああ、ラブホテル",
+  "overview": "",
+  "popularity": 9.5374,
+  "poster_path": "/dOWTXAeynfRAc6Ea1wUcegQoivh.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-11-23",
+      "episode_count": 5,
+      "id": 192383,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dOWTXAeynfRAc6Ea1wUcegQoivh.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-19",
+      "episode_count": 9,
+      "id": 353433,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rE0GljMakcuqjLTzdg4zmsPCUY5.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 124252,
+    "imdb_id": "tt12881090",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 460333,
+    "tvrage_id": null,
+    "wikidata_id": "Q86733089",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

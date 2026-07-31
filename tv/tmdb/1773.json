@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 317260,
+      "credit_id": "5257147719c2957114072b0a",
+      "name": "Anne Howard Bailey",
+      "original_name": "Anne Howard Bailey",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1974-01-07",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 1773,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1975-04-18",
+  "last_episode_to_air": {
+    "id": 107673,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1975-04-18",
+    "episode_number": 65,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 1773,
+    "still_path": null
+  },
+  "name": "How to Survive a Marriage",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 172,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "How to Survive a Marriage",
+  "overview": "How to Survive a Marriage is an American soap opera which aired on the NBC television network from January 7, 1974 to April 17, 1975. The serial was created by Anne Howard Bailey, with much input from then-NBC Vice President Lin Bolen. The show's working title was From This Moment and was an in-house NBC production.",
+  "popularity": 8.8659,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1974-01-07",
+      "episode_count": 171,
+      "id": 4986,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 4987,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.75,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 1773,
+    "imdb_id": "tt0070997",
+    "freebase_mid": "/m/04168x",
+    "freebase_id": "/en/how_to_survive_a_marriage",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2380258",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/25ZuXiNAvGsql8aJtK1nsT7CSu0.jpg",
+  "created_by": [
+    {
+      "id": 2486061,
+      "credit_id": "652ce524ea84c700ca11a036",
+      "name": "Cédric Guarneri",
+      "original_name": "Cédric Guarneri",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3382150,
+      "credit_id": "652ce50fea84c7014e05fd1d",
+      "name": "Jean Cayrol",
+      "original_name": "Jean Cayrol",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2021-08-24",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.oggy-oggy.com/",
+  "id": 131721,
+  "in_production": true,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "last_air_date": "2024-01-15",
+  "last_episode_to_air": {
+    "id": 4893947,
+    "name": "Episode 78",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-01-15",
+    "episode_number": 78,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 2,
+    "show_id": 131721,
+    "still_path": null
+  },
+  "name": "Oggy Oggy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 195,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Oggy Oggy",
+  "overview": "Join adorable kitten Oggy and his cast of cat pals in a bright and colorful kitty world. They're always on the go for fun times and fantastic adventures!",
+  "popularity": 13.7034,
+  "poster_path": "/5vbdCcX3HVwo9fj40aRplGpblOF.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-08-24",
+      "episode_count": 48,
+      "id": 206921,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7mokuWzkXaf30KjN58sERbpir7d.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2023-04-17",
+      "episode_count": 78,
+      "id": 335900,
+      "name": "Season 2",
+      "overview": "From the ski slopes to under the seas, Oggy Oggy and his cute kitty friends stick together through any adventure and make sure everyone's all smiles.",
+      "poster_path": "/srsXf0NBhEXXxh2gQ9hIMf72kPr.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-16",
+      "episode_count": 69,
+      "id": 359221,
+      "name": "Season 3",
+      "overview": "Kind and curious kitty Oggy Oggy wants to spread joy to all his friends and neighbors. But sometimes, he gets into playful mischief instead. Miaow!",
+      "poster_path": "/1MFBBnYsJUFRgrD2LBCVZowShk4.jpg",
+      "season_number": 3,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 131721,
+    "imdb_id": "tt11194006",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 371426,
+    "tvrage_id": null,
+    "wikidata_id": "Q108673340",
+    "facebook_id": null,
+    "instagram_id": "oggyoggy_official",
+    "twitter_id": null
+  }
+}

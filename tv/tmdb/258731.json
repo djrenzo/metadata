@@ -1,0 +1,172 @@
+{
+  "adult": false,
+  "backdrop_path": "/lo0iRpDmiEGgysKReMebnTrX0tm.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    41
+  ],
+  "first_air_date": "2024-07-14",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://go.discovery.com/show/in-the-eye-of-the-storm-discovery-atve-us",
+  "id": 258731,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-20",
+  "last_episode_to_air": {
+    "id": 7465638,
+    "name": "Houston Hurricane Hell",
+    "overview": "When Hurricane Harvey hit Texas with 130 mph winds and record-breaking rain, cameras captured catastrophic flooding as entire neighborhoods vanished, forcing civilians to risk their own lives to save others in one of the costliest disasters in US history.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-20",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 4,
+    "show_id": 258731,
+    "still_path": "/kgYV9i6usatqzIxwgpd4tq4XfxD.jpg"
+  },
+  "name": "In the Eye of the Storm",
+  "next_episode_to_air": {
+    "id": 7608369,
+    "name": "The Dakota EF5",
+    "overview": "Eyewitnesses capture severe weather across the Dakotas as tornadoes tear through neighborhoods and farm structures. Near Enderlin, ND, a violent twister with estimated winds exceeding 200 mph becomes the first U.S. tornado rated EF5 in more than 12 years.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-03",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 4,
+    "show_id": 258731,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 64,
+      "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+      "name": "Discovery",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "In the Eye of the Storm",
+  "overview": "This series reveals recent natural disasters as they happened in real-time through footage captured by eyewitnesses who found themselves in the wrong place at the right time and boldly held up their camera phones to capture the eye of the storm.",
+  "popularity": 10.3562,
+  "poster_path": "/bp4qbjvLwIB0wIW3nUXyb8VDbgI.jpg",
+  "production_companies": [
+    {
+      "id": 6790,
+      "logo_path": "/A0TzRpnwLcUcNgrvDJ0BIajf56b.png",
+      "name": "Discovery",
+      "origin_country": "US"
+    },
+    {
+      "id": 53648,
+      "logo_path": "/7Tf6h6kMbVMvlNJPvrnxz1UcYtL.png",
+      "name": "Discovery Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-07-21",
+      "episode_count": 2,
+      "id": 466291,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/cmfTonS5J1N5TJfA1sUVH6QRCCK.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-13",
+      "episode_count": 6,
+      "id": 401399,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bp4qbjvLwIB0wIW3nUXyb8VDbgI.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2025-07-26",
+      "episode_count": 6,
+      "id": 463469,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bp4qbjvLwIB0wIW3nUXyb8VDbgI.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-02",
+      "episode_count": 4,
+      "id": 483067,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/Alv3HVorL1L9agDWImmzyHUWDgk.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-28",
+      "episode_count": 6,
+      "id": 522231,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8.3,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 258731,
+    "imdb_id": "tt33014623",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 451286,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

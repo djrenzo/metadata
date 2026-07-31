@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/lmr79Dvaa5efF5rtDqUbLWCUfa8.jpg",
+  "created_by": [
+    {
+      "id": 4940627,
+      "credit_id": "673dd81d071ba6dce992bedc",
+      "name": "Choi Yuna",
+      "original_name": "최유나",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2260701,
+      "credit_id": "673dd8238e357a2ded958eff",
+      "name": "Kim Ga-ram",
+      "original_name": "김가람",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    70
+  ],
+  "first_air_date": "2024-07-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://programs.sbs.co.kr/drama/goodpartner/",
+  "id": 243761,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2024-09-20",
+  "last_episode_to_air": {
+    "id": 5473882,
+    "name": "Making A Choice The Right One",
+    "overview": "A year passes and Oh Dae Gyu's wife, Park Ae Yeon, files for divorce at Law Firm Daejeong, and Woo Jin assigns Yu Ri to take the case. Flabbergasted at facing his own company against him, Dae Gyu asks Eun Kyung to represent him. As Yu Ri and Eun Kyung try to settle outside the courtroom, Dae Gyu has a sudden change of heart. Meanwhile, Eun Kyung thinks of letting Jae Hui spend time with Ji Sang.",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "air_date": "2024-09-20",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 66,
+    "season_number": 1,
+    "show_id": 243761,
+    "still_path": "/utNw1jpKexNLUgpktMp60MFtOWV.jpg"
+  },
+  "name": "Good Partner",
+  "next_episode_to_air": {
+    "id": 6833424,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-11-20",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 243761,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 17,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "굿파트너",
+  "overview": "Cha Eun-kyung, a 17-year veteran divorce lawyer, faces a personal crisis when her own marriage is threatened while working alongside rookie lawyer Han Yu-ri, whose differing values lead to tension as they navigate their complex cases at Law Firm Daejung.",
+  "popularity": 9.8298,
+  "poster_path": "/rItshnQS7IsirJ9oKWap2rrn7XG.jpg",
+  "production_companies": [
+    {
+      "id": 106996,
+      "logo_path": "/stmGVs6UmgfqE9BYNB5lXjy5gQm.png",
+      "name": "Studio & New",
+      "origin_country": "KR"
+    },
+    {
+      "id": 83914,
+      "logo_path": "/nFcR2kd7vl5O3TITQs6x39BNo6Y.png",
+      "name": "Studio S",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-07-12",
+      "episode_count": 16,
+      "id": 374413,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rItshnQS7IsirJ9oKWap2rrn7XG.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2026-11-20",
+      "episode_count": 1,
+      "id": 449545,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Let's show them the best divorce show.",
+  "type": "Miniseries",
+  "vote_average": 7.9,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 243761,
+    "imdb_id": "tt32840498",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 443951,
+    "tvrage_id": null,
+    "wikidata_id": "Q124749480",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

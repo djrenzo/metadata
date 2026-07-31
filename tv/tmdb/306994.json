@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/5a09CEGeAN2zjUjYziRFUImke1Q.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2000-10-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 306994,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2002-07-25",
+  "last_episode_to_air": {
+    "id": 6728212,
+    "name": "Episode 179",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-07-25",
+    "episode_number": 179,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 306994,
+    "still_path": null
+  },
+  "name": "Oi Adiafthoroi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4211,
+      "logo_path": "/3U5xrljBkRZ4rCg5HVtANa1Deg9.png",
+      "name": "Sigma TV",
+      "origin_country": "CY"
+    }
+  ],
+  "number_of_episodes": 300,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CY"
+  ],
+  "original_language": "el",
+  "original_name": "Οι Αδιάφθοροι",
+  "overview": "",
+  "popularity": 9.9858,
+  "poster_path": "/uePpXP58WYQ9ntYXf1GttrAUY4I.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CY",
+      "name": "Cyprus"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-10-02",
+      "episode_count": 121,
+      "id": 487089,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-03",
+      "episode_count": 179,
+      "id": 487090,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 306994,
+    "imdb_id": "tt9291928",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

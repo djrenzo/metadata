@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/maI3rGynPr9KeX0BUzeRbgpVLlF.jpg",
+  "created_by": [
+    {
+      "id": 1219869,
+      "credit_id": "54075fcbc3a36868ff0010d2",
+      "name": "Tony Wharmby",
+      "original_name": "Tony Wharmby",
+      "gender": 2,
+      "profile_path": "/qt0ASAf5GfxqCOeqxlPuMFByUNq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50,
+    60
+  ],
+  "first_air_date": "1985-01-11",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 2209,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "1986-11-01",
+  "last_episode_to_air": {
+    "id": 154776,
+    "name": "Guardian Angel",
+    "overview": "When Dempsey is nearly killed during an investigation, Makepeace resigns for good from the police force.",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "1986-11-01",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 3,
+    "show_id": 2209,
+    "still_path": null
+  },
+  "name": "Dempsey and Makepeace",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Dempsey and Makepeace",
+  "overview": "Dempsey and Makepeace is a British television crime drama made by London Weekend Television for ITV, created and produced by Ranald Graham. The leading roles were played by Michael Brandon and Glynis Barber, who later married each other on 18 November 1989.\n\nThe series combined elements of previous series such as the mis-matching of British and American crime-fighters from different classes as seen in The Persuaders! and the action of The Professionals.",
+  "popularity": 10.155,
+  "poster_path": "/uyfaW5hbsEg4bWgcgVUo4CjwZT.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1985-01-11",
+      "episode_count": 10,
+      "id": 6776,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rQu54hA46mLgVR8lfKjJsZvWbxC.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "1985-08-31",
+      "episode_count": 10,
+      "id": 6777,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/85TMDwiCR8mJ9G8v21z4tTnNUFQ.jpg",
+      "season_number": 2,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "1986-08-30",
+      "episode_count": 10,
+      "id": 6775,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/38qdzsQKvxYL1pdH7HMwfkAMmoc.jpg",
+      "season_number": 3,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The sexy, crime busting TV duo!",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 31,
+  "external_ids": {
+    "id": 2209,
+    "imdb_id": "tt0088503",
+    "freebase_mid": "/m/0563hl",
+    "freebase_id": "/en/dempsey_makepeace",
+    "tvdb_id": 78044,
+    "tvrage_id": null,
+    "wikidata_id": "Q1186626",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/oa3Ft7PtB6oZMqIDtQygTSzqOkR.jpg",
+  "created_by": [
+    {
+      "id": 2191956,
+      "credit_id": "69d464b351b7efec45071058",
+      "name": "Vicente Sesso",
+      "original_name": "Vicente Sesso",
+      "gender": 2,
+      "profile_path": "/jh5ZrDKUnVmqUqsBwTU7ZJNj0GU.jpg"
+    },
+    {
+      "id": 1129877,
+      "credit_id": "69d464bc8528efcc266ae012",
+      "name": "Paulo Figueiredo",
+      "original_name": "Paulo Figueiredo",
+      "gender": 2,
+      "profile_path": "/uy8GQjVT0uO6gUWydSTt39uQEi7.jpg"
+    },
+    {
+      "id": 112069,
+      "credit_id": "69d464e794aa78f6c731398a",
+      "name": "Rita Buzzar",
+      "original_name": "Rita Buzzar",
+      "gender": 1,
+      "profile_path": "/sihOKKPwOJm6GTOeZFWEvwNzLjG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1995-07-11",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 318883,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1996-05-04",
+  "last_episode_to_air": {
+    "id": 7124210,
+    "name": "Episode 257",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-05-04",
+    "episode_number": 257,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 318883,
+    "still_path": null
+  },
+  "name": "Sangue do Meu Sangue",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 128,
+      "logo_path": "/jQ6pbmLCO2mheofZJPPByy7Wozq.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 257,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Sangue do Meu Sangue",
+  "overview": "",
+  "popularity": 10.8157,
+  "poster_path": "/ltOwQMnU4exeCnpMKkvSJKe1Sql.jpg",
+  "production_companies": [
+    {
+      "id": 40992,
+      "logo_path": "/72MOBef2ZwKXLS6sI5XPKMz6Pu1.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-07-11",
+      "episode_count": 257,
+      "id": 509407,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ltOwQMnU4exeCnpMKkvSJKe1Sql.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 318883,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

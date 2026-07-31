@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/iP364QAx7yomWbWDFfTFbDRDWP6.jpg",
+  "created_by": [
+    {
+      "id": 4729349,
+      "credit_id": "664dfc4a3fea216dd99b9758",
+      "name": "Chris Q. Radebe",
+      "original_name": "Chris Q. Radebe",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-07-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tvsa.co.za/shows/viewshowabout.aspx?showid=5691",
+  "id": 255113,
+  "in_production": true,
+  "languages": [
+    "zu"
+  ],
+  "last_air_date": "2023-07-01",
+  "last_episode_to_air": {
+    "id": 5385944,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-07-01",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 255113,
+    "still_path": null
+  },
+  "name": "Isifiso",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5214,
+      "logo_path": "/645WtH83vxXIeIqcnrEu6wHiOLb.png",
+      "name": "1Magic",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "zu",
+  "original_name": "Isifiso",
+  "overview": "",
+  "popularity": 9.4719,
+  "poster_path": "/hiCqOfvOkI3QDPiUohlasmoO0kT.jpg",
+  "production_companies": [
+    {
+      "id": 229599,
+      "logo_path": null,
+      "name": "Match Point Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 203133,
+      "logo_path": null,
+      "name": "Mzansi Magic",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-07-02",
+      "episode_count": 13,
+      "id": 395131,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-08",
+      "episode_count": 13,
+      "id": 396554,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Zulu",
+      "iso_639_1": "zu",
+      "name": "isiZulu"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 255113,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "adult": false,
+  "backdrop_path": "/xdh5oprFaNxFmJENnofndR4LJxt.jpg",
+  "created_by": [
+    {
+      "id": 1257005,
+      "credit_id": "66ede7c37300a5ba213adf93",
+      "name": "Vitaly Shlyappo",
+      "original_name": "Виталий Шляппо",
+      "gender": 2,
+      "profile_path": "/sWKQSWuOQqFZPGHwGAHLW7X11Yq.jpg"
+    },
+    {
+      "id": 1257132,
+      "credit_id": "66ede7cd0ea80d1fe38cf5c9",
+      "name": "Vasily Kutsenko",
+      "original_name": "Василий Куценко",
+      "gender": 2,
+      "profile_path": "/yotqtK33yEAl8JsUBbbaAoSw1G2.jpg"
+    },
+    {
+      "id": 1257133,
+      "credit_id": "66ede7d77300a5ba213adf9c",
+      "name": "Igor Tudvasev",
+      "original_name": "Игорь Тудвасев",
+      "gender": 2,
+      "profile_path": "/7KEmlpBewdPbIGQwD9BIeBCidVV.jpg"
+    },
+    {
+      "id": 1257134,
+      "credit_id": "66ede7e5b348bea4eb3adf4e",
+      "name": "Dimitry Jan",
+      "original_name": "Dimitry Jan",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1257135,
+      "credit_id": "66ede7ee7300a5ba213adfa5",
+      "name": "Pavel Danilov",
+      "original_name": "Павел Данилов",
+      "gender": 2,
+      "profile_path": "/4nEO2vEDaov1furl9hQ6ux1Umgc.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2021-06-17",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://voyo.si/multimedia/ja-chef?tab=description",
+  "id": 132223,
+  "in_production": true,
+  "languages": [
+    "sl"
+  ],
+  "last_air_date": "2026-06-25",
+  "last_episode_to_air": {
+    "id": 7324802,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 12,
+    "show_id": 132223,
+    "still_path": null
+  },
+  "name": "Yes, Chef!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5220,
+      "logo_path": null,
+      "name": "Voyo (SI)",
+      "origin_country": "SI"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "SI"
+  ],
+  "original_language": "sl",
+  "original_name": "Ja, chef!",
+  "overview": "Jurij Zrnec stepped into the slippers of Chef, the culinary magician of endless talents, even bigger ego and the owner of the best restaurant in Ljubljana, Chateau de Philippe, Ljubomir Bohinc. In anger, Chef can be scary, invincible in entertainment, and royal in forgiveness - especially when it comes to his own mistakes. There are a lot of people underneath, each with their own story. There are often fun situations between them, from which they escape as they know how. Ljubo (as only the bravest call him) has a large team of frightened chefs, cunning helpers, an introverted confectioner, an extremely efficient restaurant manager, fast waiters and a terribly slow bartender.",
+  "popularity": 10.4384,
+  "poster_path": "/bcJQg3IyvpdhHMNoCIH2nz8Hq3n.jpg",
+  "production_companies": [
+    {
+      "id": 164673,
+      "logo_path": null,
+      "name": "Pro Plus",
+      "origin_country": "SI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SI",
+      "name": "Slovenia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-06-17",
+      "episode_count": 10,
+      "id": 208115,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wO0JapkJJqGG08ylH3InhIdOSLe.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-14",
+      "episode_count": 10,
+      "id": 215677,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/2JGE7HCHBrSx77Yce4KHTn9EW9q.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-16",
+      "episode_count": 10,
+      "id": 236278,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/xrqj0Om8nEaoKHPnXLgy0H0HDfV.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-01",
+      "episode_count": 10,
+      "id": 292152,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/ulUqpAbZwtexJUngJtrEpQzVsPK.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-21",
+      "episode_count": 10,
+      "id": 301577,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/7n48eF9f4AkD2DseUnSGuBEQbFJ.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-01",
+      "episode_count": 10,
+      "id": 318264,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/cxTquTsdZ82Is49VSyMApGXEDqG.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-22",
+      "episode_count": 10,
+      "id": 346753,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/aGBz1zFpgXAB9SECzHwLFvpPtt.jpg",
+      "season_number": 7,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2023-11-09",
+      "episode_count": 10,
+      "id": 365879,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/7gNhK5LoNeoPdzxnK4KC1uRMWbE.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-23",
+      "episode_count": 10,
+      "id": 395334,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-05",
+      "episode_count": 10,
+      "id": 433063,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-04",
+      "episode_count": 10,
+      "id": 473460,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-28",
+      "episode_count": 10,
+      "id": 519302,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovenian",
+      "iso_639_1": "sl",
+      "name": "Slovenščina"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 132223,
+    "imdb_id": "tt14760316",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 407974,
+    "tvrage_id": null,
+    "wikidata_id": "Q113356101",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

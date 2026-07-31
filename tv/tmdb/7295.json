@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/bqy2S8lAZDe2zWCyoC5oQvk5blw.jpg",
+  "created_by": [
+    {
+      "id": 4072998,
+      "credit_id": "6469d12d33a3760175d3253b",
+      "name": "Clark Tolon",
+      "original_name": "Clark Tolon",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4072997,
+      "credit_id": "6469d126c3514c01745c3c3f",
+      "name": "Myrna Garnace Tagasa",
+      "original_name": "Myrna Garnace Tagasa",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1456126,
+      "credit_id": "6469d0b72bcf6700fe60ba03",
+      "name": "Kay Conlu-Brondial",
+      "original_name": "Kay Conlu-Brondial",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2008-08-11",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "http://beta.abs-cbn.com/tabid/71/xmmid/387/Article/10809/program/dyosa/xmview/2/Default.aspx",
+  "id": 7295,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2009-01-16",
+  "last_episode_to_air": {
+    "id": 4458992,
+    "name": "Episode 115",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-01-16",
+    "episode_number": 115,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 7295,
+    "still_path": null
+  },
+  "name": "Dyosa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 20,
+      "logo_path": "/kdcvqvutGKUsIkeSVGl8pQMkc3k.png",
+      "name": "ABS-CBN",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 115,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Dyosa",
+  "overview": "Dyosa is a fantasy series that is aired in Philippines by broadcaster ABS-CBN and starred by Anne Curtis, Sam Milby, Zanjoe Marudo and Luis Manzano and was directed by Wenn Deramas.",
+  "popularity": 11.0032,
+  "poster_path": "/oWaC4sb5vGZ56IGOqRPpmW1EXGD.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-08-11",
+      "episode_count": 115,
+      "id": 341694,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oWaC4sb5vGZ56IGOqRPpmW1EXGD.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 7295,
+    "imdb_id": "tt1297029",
+    "freebase_mid": "/m/043mlmp",
+    "freebase_id": "/en/dyosa",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5319250",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

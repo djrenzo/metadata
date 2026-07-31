@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/agR0mIFWIOtDn22IBHSbmlE8OVK.jpg",
+  "created_by": [
+    {
+      "id": 1256087,
+      "credit_id": "5f175dc578570e00335f3cb3",
+      "name": "Carlos Lombardi",
+      "original_name": "Carlos Lombardi",
+      "gender": 2,
+      "profile_path": "/1Xbm7wImNrMbe1CMbP3xdad3WfO.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2000-05-08",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 42679,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2001-01-19",
+  "last_episode_to_air": {
+    "id": 2690577,
+    "name": "Episode 221",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-01-19",
+    "episode_number": 221,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 1,
+    "show_id": 42679,
+    "still_path": null
+  },
+  "name": "Uga-Uga",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 221,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Uga-Uga",
+  "overview": "An orphaned young man raised in the wild by an indigenous shaman is found by his grandfather and returned to his estranged family, where he finds himself as heir to their wealth.",
+  "popularity": 9.3445,
+  "poster_path": "/hQPTjWKZnvyz6FpMSCIzlJa8DGT.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-05-08",
+      "episode_count": 221,
+      "id": 179014,
+      "name": "Season 1",
+      "overview": "Nikos searches for his grandson Adriano, raised by Pajé since he was a child. Adriano/Tatuapu's destiny intersects with that of Baldochi, who fakes his death to protect Maria João and her family.",
+      "poster_path": "/hQPTjWKZnvyz6FpMSCIzlJa8DGT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.731,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 42679,
+    "imdb_id": "tt0246398",
+    "freebase_mid": "/m/0jz23_1",
+    "freebase_id": null,
+    "tvdb_id": 321382,
+    "tvrage_id": null,
+    "wikidata_id": "Q9091145",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

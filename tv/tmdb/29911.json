@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/aTMCr9DkUlvthT1gTlQsTcbPiKJ.jpg",
+  "created_by": [
+    {
+      "id": 44810,
+      "credit_id": "64273a6ac044290298ce559d",
+      "name": "Cassandra Peterson",
+      "original_name": "Cassandra Peterson",
+      "gender": 1,
+      "profile_path": "/tXvakSnVSyauOV48qH4Zr0uzKGT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "1981-09-26",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 29911,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1986-11-02",
+  "last_episode_to_air": {
+    "id": 732885,
+    "name": "Nightmare City",
+    "overview": "A plane is zapped with radiation which turns everyone on board into flesh-eating zombies. These zombies can still think and even use weapons on their victims.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-11-02",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 5,
+    "show_id": 29911,
+    "still_path": null
+  },
+  "name": "Elvira's Movie Macabre",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7010,
+      "logo_path": "/diWC6pYs0kIHKvlMCepWad2ZE8c.png",
+      "name": "KHJ-TV",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 140,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Elvira's Movie Macabre",
+  "overview": "Elvira, Mistress of the Dark, presents low-budget scary movies and provides sarcastic, campy commentary all while bringing the voluptuous charm & energy that only she can give.",
+  "popularity": 8.2888,
+  "poster_path": "/dfp4LYV2LNH8yfNAjfZRCe3yP55.jpg",
+  "production_companies": [
+    {
+      "id": 13680,
+      "logo_path": null,
+      "name": "Panacea Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-10-31",
+      "episode_count": 2,
+      "id": 364806,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-26",
+      "episode_count": 46,
+      "id": 41296,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1982-09-04",
+      "episode_count": 32,
+      "id": 41297,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-17",
+      "episode_count": 29,
+      "id": 41298,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-01",
+      "episode_count": 13,
+      "id": 41299,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-06-22",
+      "episode_count": 20,
+      "id": 41300,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.031,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 29911,
+    "imdb_id": "tt0262973",
+    "freebase_mid": "/m/07chrst",
+    "freebase_id": "/en/elviras_movie_macabre",
+    "tvdb_id": 71433,
+    "tvrage_id": null,
+    "wikidata_id": "Q5368107",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

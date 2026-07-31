@@ -1,0 +1,140 @@
+{
+  "adult": false,
+  "backdrop_path": "/sSGiJlNZhEbTXevIWANMfvbl14m.jpg",
+  "created_by": [
+    {
+      "id": 1382817,
+      "credit_id": "64b171252cde9800aecaacb6",
+      "name": "Mahinur Ergun",
+      "original_name": "Mahinur Ergun",
+      "gender": 1,
+      "profile_path": "/dGj4FUsi23paCaSZ3kzpgaUHaxq.jpg"
+    },
+    {
+      "id": 1133959,
+      "credit_id": "64b1712b2cde9800aecaacbd",
+      "name": "Meral Okay",
+      "original_name": "Meral Okay",
+      "gender": 1,
+      "profile_path": "/rAc0FwU4WcMzXn0ocQMHj2L1Jt5.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2002-03-11",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32107,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2003-06-02",
+  "last_episode_to_air": {
+    "id": 5214082,
+    "name": "Episode 38",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-06-02",
+    "episode_number": 38,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 75,
+    "season_number": 2,
+    "show_id": 32107,
+    "still_path": null
+  },
+  "name": "The Mansion With Vines",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 36,
+      "logo_path": "/qCnMXkdER5FYvmy2AGSMnAFH9ue.png",
+      "name": "atv",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 54,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Asmalı Konak",
+  "overview": "Asmalı Konak was a Turkish TV series directed by Çağan Irmak and written by Mahinur Ergun and Meral Okay. It was shown on ATV for a total of 54 episodes. The finale of the series was released as a feature film titled Asmalı Konak: Hayat.",
+  "popularity": 10.4282,
+  "poster_path": "/n1lHyyuDEjtVBoFL8HkciJ3JWmg.jpg",
+  "production_companies": [
+    {
+      "id": 4179,
+      "logo_path": "/vx8dHTiQg2SPXrvDOmCDm6BCRJR.png",
+      "name": "ANS Prodüksiyon",
+      "origin_country": "TR"
+    },
+    {
+      "id": 122140,
+      "logo_path": "/7tFvnwv2sJBLA6kCveP6W9y3zY3.png",
+      "name": "D Productions",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2002-03-11",
+      "episode_count": 16,
+      "id": 299595,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/weuCTmFEPoStUvDIz6QDDoDSkvi.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-16",
+      "episode_count": 38,
+      "id": 299596,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/5qaGtSvePV6tZvFzunHgWYhhkId.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 32107,
+    "imdb_id": "tt0365980",
+    "freebase_mid": "/m/0b74b5p",
+    "freebase_id": "/en/asmali_konak",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2250216",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

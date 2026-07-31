@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/egSDCK4n50i4Rr6mpctXwbJsrf9.jpg",
+  "created_by": [
+    {
+      "id": 167784,
+      "credit_id": "5258ddfd760ee34661774667",
+      "name": "Elizabeth Sarnoff",
+      "original_name": "Elizabeth Sarnoff",
+      "gender": 1,
+      "profile_path": "/3lZYyjfJfnVTNf78sPnACZzD3pq.jpg"
+    },
+    {
+      "id": 1214618,
+      "credit_id": "5258ddfd760ee34661774673",
+      "name": "Steven Lilien",
+      "original_name": "Steven Lilien",
+      "gender": 2,
+      "profile_path": "/9AJwkuI6FhnnuBAMiMVyJzzCdiT.jpg"
+    },
+    {
+      "id": 1214619,
+      "credit_id": "5258ddfd760ee3466177466d",
+      "name": "Bryan Wynbrandt",
+      "original_name": "Bryan Wynbrandt",
+      "gender": 2,
+      "profile_path": "/zfT8JzFIy4Iy4T9MNXTym9o3VQa.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2012-01-16",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.fox.com/programming/shows/?sh=alcatraz",
+  "id": 35339,
+  "in_production": false,
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "last_air_date": "2012-03-26",
+  "last_episode_to_air": {
+    "id": 800110,
+    "name": "Tommy Madsen",
+    "overview": "Revealing doors are opened and lives hang in the balance as Rebecca will stop at nothing in pursuit of the man who killed her partner.",
+    "vote_average": 9.3,
+    "vote_count": 3,
+    "air_date": "2012-03-26",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 35339,
+    "still_path": "/is2MttNCBhK3R8sLT7Rod7mbxJn.jpg"
+  },
+  "name": "Alcatraz",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Alcatraz",
+  "overview": "A unique team, consisting of a federal agent, a police officer and a conspiracy theory novelist, investigate the shocking reappearance of Alcatraz's most notorious prisoners, fifty years after they supposedly vanished.",
+  "popularity": 9.5845,
+  "poster_path": "/yES1yqjp6Jl2CEVKHdfwKrIsnqd.jpg",
+  "production_companies": [
+    {
+      "id": 11461,
+      "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+      "name": "Bad Robot",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-01-12",
+      "episode_count": 2,
+      "id": 46071,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/boDp1Nqn8pfsLdJ0nupUOL0tMpq.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-16",
+      "episode_count": 13,
+      "id": 46070,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/IvJhZdEiqi4SkUGaKCnZ1IMUea.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "302 vanished. 3 must find them.",
+  "type": "Scripted",
+  "vote_average": 6.33,
+  "vote_count": 308,
+  "external_ids": {
+    "id": 35339,
+    "imdb_id": "tt1728102",
+    "freebase_mid": "/m/0g9zd5x",
+    "freebase_id": null,
+    "tvdb_id": 248646,
+    "tvrage_id": null,
+    "wikidata_id": "Q834560",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

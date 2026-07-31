@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/fEqKR2UbUX9CCkN0hdBDPeOzMSO.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    52
+  ],
+  "first_air_date": "2021-01-03",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://rtl.hu/rtlklub/keresztanyu",
+  "id": 116065,
+  "in_production": false,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2022-11-04",
+  "last_episode_to_air": {
+    "id": 4047609,
+    "name": "Episode 73",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-11-04",
+    "episode_number": 73,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 116065,
+    "still_path": null
+  },
+  "name": "Godmother",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 833,
+      "logo_path": "/r3GEPOAXaREH765QVreesBK9mE0.png",
+      "name": "RTL",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 305,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Keresztanyu",
+  "overview": "In a fictional town called Makkosszállás, Róza mama, head of the mafia chain announces on her 69th birthday, that whoever wins the next major election will be the new head of the chain.",
+  "popularity": 9.3981,
+  "poster_path": "/grfVNyLnlV3sbuHmUBIm6hr08f8.jpg",
+  "production_companies": [
+    {
+      "id": 34671,
+      "logo_path": "/eKA4DyL01ON4tJjwev950J8wP1h.png",
+      "name": "RTL KLUB",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 83,
+      "id": 175230,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-09",
+      "episode_count": 68,
+      "id": 205337,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 81,
+      "id": 238370,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-25",
+      "episode_count": 73,
+      "id": 303368,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 116065,
+    "imdb_id": "tt13763690",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 393964,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "keresztanyurtl",
+    "instagram_id": "keresztanyurtl",
+    "twitter_id": null
+  }
+}

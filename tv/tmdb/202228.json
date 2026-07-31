@@ -1,0 +1,113 @@
+{
+  "adult": false,
+  "backdrop_path": "/433OyEQh7n0TvAsAbE4DCISBvhO.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2022-05-30",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://viaplay.no/serier/paradise",
+  "id": 202228,
+  "in_production": false,
+  "languages": [
+    "no"
+  ],
+  "last_air_date": "2023-05-10",
+  "last_episode_to_air": {
+    "id": 4428725,
+    "name": "Episode 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-05-10",
+    "episode_number": 36,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 202228,
+    "still_path": null
+  },
+  "name": "Paradise",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 374,
+      "logo_path": "/8tHNliWyaw7WC4q1P6R2K2i6GRF.png",
+      "name": "TV3",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Paradise",
+  "overview": "",
+  "popularity": 15.6274,
+  "poster_path": "/ufbj5utOhE8SDDZMJzHxqXvtxuG.jpg",
+  "production_companies": [
+    {
+      "id": 178553,
+      "logo_path": "/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png",
+      "name": "Viaplay Group",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2022-05-30",
+      "episode_count": 36,
+      "id": 294152,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nVSyQr1BtooeBkZmif5Vsx2caUV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-20",
+      "episode_count": 36,
+      "id": 328145,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6jYCjIJvWBp4nf7fBOjQQJEYTN9.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 202228,
+    "imdb_id": "tt21093840",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2164399,
+      "credit_id": "5f69454357530e0036bc97de",
+      "name": "Alejandro Cabrera",
+      "original_name": "Alejandro Cabrera",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2508508,
+      "credit_id": "5f69454aa0b69000393d82f5",
+      "name": "Larissa Contreras",
+      "original_name": "Larissa Contreras",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40,
+    70,
+    55
+  ],
+  "first_air_date": "2002-08-12",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 33149,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2003-01-20",
+  "last_episode_to_air": {
+    "id": 2435119,
+    "name": "Episode 114",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-01-20",
+    "episode_number": 114,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 33149,
+    "still_path": null
+  },
+  "name": "Purasangre",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Purasangre",
+  "overview": "As a result of a vile abuse cause in the past, Violeta Salazar has sworn to herself to take revenge on the Callassis family and all their descendants. She sends her daughter Amanda to make the life of the Callasis as miserable as possible, but love can be surprising, and not everything comes out as planned.",
+  "popularity": 10.6574,
+  "poster_path": "/oniMFsdhrg7549SKjW1doPE4JNR.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-08-12",
+      "episode_count": 114,
+      "id": 163583,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 33149,
+    "imdb_id": "tt0376419",
+    "freebase_mid": "/m/0cjn2wh",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6093339",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

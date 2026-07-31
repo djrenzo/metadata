@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2012-08-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.joj.sk/pod-povrchom",
+  "id": 244096,
+  "in_production": false,
+  "languages": [
+    "sk"
+  ],
+  "last_air_date": "2013-02-21",
+  "last_episode_to_air": {
+    "id": 5102823,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-02-21",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 1,
+    "show_id": 244096,
+    "still_path": null
+  },
+  "name": "Pod povrchom",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 935,
+      "logo_path": "/o3psjR1jVKfhZiVUazPVfio2yKe.png",
+      "name": "TV JOJ",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Pod povrchom",
+  "overview": "",
+  "popularity": 9.8613,
+  "poster_path": "/lRhBWi0RyEzvbNVCdFTvT4degfr.jpg",
+  "production_companies": [
+    {
+      "id": 76750,
+      "logo_path": "/5jTfcrz0IUNrMA5Ant0Jh02GCVq.png",
+      "name": "Televízia JOJ",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-08-20",
+      "episode_count": 52,
+      "id": 375111,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 244096,
+    "imdb_id": "tt4883468",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

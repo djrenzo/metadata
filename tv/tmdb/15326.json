@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1360082,
+      "credit_id": "663a4a31e323f30122dac51f",
+      "name": "Johnny Manahan",
+      "original_name": "Johnny Manahan",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1993-10-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 15326,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "1998-12-05",
+  "last_episode_to_air": {
+    "id": 5331623,
+    "name": "Episode 268",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-12-05",
+    "episode_number": 268,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 15326,
+    "still_path": null
+  },
+  "name": "Oki Doki Doc",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 20,
+      "logo_path": "/kdcvqvutGKUsIkeSVGl8pQMkc3k.png",
+      "name": "ABS-CBN",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 268,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "en",
+  "original_name": "Oki Doki Doc",
+  "overview": "Oki Doki Doc is an ABS-CBN comedy sitcom which was shown from 1993 to 2000. It originally aired every Saturday nights, then transferred to Wednesday nights, and later transferred again to Saturday nights. This show is referenced in the new ABS-CBN sitcom That's My Doc.",
+  "popularity": 8.9757,
+  "poster_path": "/oDohqUH18ZFuDtxPdZWRuxxeff0.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1993-10-23",
+      "episode_count": 268,
+      "id": 392662,
+      "name": "Season 1",
+      "overview": "Oki Doki Doc Season 1",
+      "poster_path": "/oDohqUH18ZFuDtxPdZWRuxxeff0.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 15326,
+    "imdb_id": null,
+    "freebase_mid": "/m/02w5jv8",
+    "freebase_id": "/en/oki_doki_doc",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

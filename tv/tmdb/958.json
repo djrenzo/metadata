@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/bhe9fryG3wwYvWQ2ZNfZ0surHDc.jpg",
+  "created_by": [
+    {
+      "id": 160086,
+      "credit_id": "5cd79b339251417580cd9274",
+      "name": "Bob Forward",
+      "original_name": "Bob Forward",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1216979,
+      "credit_id": "5cd79b3c0e0a265c8dcacfab",
+      "name": "Larry DiTillio",
+      "original_name": "Larry DiTillio",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1996-04-22",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 958,
+  "in_production": false,
+  "languages": [
+    "it",
+    "zh",
+    "en",
+    "es"
+  ],
+  "last_air_date": "1999-05-07",
+  "last_episode_to_air": {
+    "id": 51478,
+    "name": "Nemesis (2)",
+    "overview": "Destruction rains down on the Maximals as Megatron unleashes the weapons of the Nemesis. Optimus orders a desperate attempt at getting the Ark airborne.",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "1999-05-07",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 958,
+    "still_path": "/xlDeMHRTnryV1cKpVqszsJEqtYW.jpg"
+  },
+  "name": "Beast Wars: Transformers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 46,
+      "logo_path": "/nXrfHqHOtLcrSKPz2do1duM3cwT.png",
+      "name": "YTV",
+      "origin_country": "CA"
+    },
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Beast Wars: Transformers",
+  "overview": "Two spaceships, one manned by benevolent Maximals, the other by evil Predacons, crash-land on a pre-humanoid planet while en route to Earth. Their crews assume indigenous animal forms to protect themselves from an overabundance of natural energy, transforming into robots to do battle. Thus, the Beast Wars have begun...",
+  "popularity": 10.2106,
+  "poster_path": "/kWwaoXeonbgcstnVVqlUEB0wlDr.jpg",
+  "production_companies": [
+    {
+      "id": 5024,
+      "logo_path": "/9CkYR0swSEj5iVi9bzx9erLnmzm.png",
+      "name": "Mainframe Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2598,
+      "logo_path": "/i42C5gRq7XqlG4S9vkchuJZfrBn.png",
+      "name": "Hasbro",
+      "origin_country": "US"
+    },
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2514,
+      "logo_path": "/zEyrFF8Nn325PXG0Q9j7my0JqIJ.png",
+      "name": "Alliance Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-07-01",
+      "episode_count": 14,
+      "id": 2759,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/zBRX46NtMOtbvgCwyuJ0KGMYu9n.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-04-22",
+      "episode_count": 26,
+      "id": 2756,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jmAoV4tJ7V2FqVgA8jeTJF0fekj.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1997-10-26",
+      "episode_count": 13,
+      "id": 2757,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/kupTdlkKl4p7BFBPSv3vgSjZ44h.jpg",
+      "season_number": 2,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1998-10-25",
+      "episode_count": 13,
+      "id": 2758,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/aCLWICFhav0AoMZ9E572M4fFYD0.jpg",
+      "season_number": 3,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.137,
+  "vote_count": 326,
+  "external_ids": {
+    "id": 958,
+    "imdb_id": "tt0115108",
+    "freebase_mid": "/m/02slvz",
+    "freebase_id": "/en/beast_wars",
+    "tvdb_id": 73562,
+    "tvrage_id": null,
+    "wikidata_id": "Q699596",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

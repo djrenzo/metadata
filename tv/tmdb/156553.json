@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/wGdL26ZduZ14m1yYVbyeuxed80O.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2020-10-26",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/bemmequer/",
+  "id": 156553,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2021-11-12",
+  "last_episode_to_air": {
+    "id": 7476313,
+    "name": "Episode 298",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-11-12",
+    "episode_number": 298,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 156553,
+    "still_path": null
+  },
+  "name": "Bem Me Quer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 298,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Bem Me Quer",
+  "overview": "",
+  "popularity": 8.5741,
+  "poster_path": "/vBqAQpkOuRnsTjlj6J53zBLjV2X.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    },
+    {
+      "id": 86448,
+      "logo_path": "/ouoDVGGHRAE7WfPtMKZn6kKDMec.png",
+      "name": "TVI - Televisão Independente",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-10-26",
+      "episode_count": 298,
+      "id": 241787,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 156553,
+    "imdb_id": "tt12547074",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 385817,
+    "tvrage_id": null,
+    "wikidata_id": "Q97165315",
+    "facebook_id": "bemmequertvi",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

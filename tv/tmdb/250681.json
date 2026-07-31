@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/9pXFpg6ddBdrF5oTh8iT0IqmEyX.jpg",
+  "created_by": [
+    {
+      "id": 11486,
+      "credit_id": "6608cb60a894d6017c6630d8",
+      "name": "Michael Imperioli",
+      "original_name": "Michael Imperioli",
+      "gender": 2,
+      "profile_path": "/bCDwQGrecRujCibI8rvsxEc91We.jpg"
+    },
+    {
+      "id": 97188,
+      "credit_id": "6608cb698a0e9b01624ded54",
+      "name": "Steve Schirripa",
+      "original_name": "Steve Schirripa",
+      "gender": 2,
+      "profile_path": "/2Nd2Hd4zIBCv4ZoXFhSkrJCx6wB.jpg"
+    }
+  ],
+  "episode_run_time": [
+    37,
+    118
+  ],
+  "first_air_date": "2020-04-07",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.talkingsopranos.com",
+  "id": 250681,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-12-20",
+  "last_episode_to_air": {
+    "id": 5719225,
+    "name": "\"Made in America\"",
+    "overview": "Michael Imperioli and Steve Schirripa discuss the series finale episode \"Made in America\" with guest David Chase.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-20",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 132,
+    "season_number": 6,
+    "show_id": 250681,
+    "still_path": null
+  },
+  "name": "Talking Sopranos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 91,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Talking Sopranos",
+  "overview": "Cast members Michael Imperioli and Steve Schirripa host Talking Sopranos. Michael reviews the Sopranos episode by episode giving inside info, insights and behind the scenes stories.",
+  "popularity": 8.6551,
+  "poster_path": "/cYv28WbP4NsyBALhsoAZUDtXAlz.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-04-07",
+      "episode_count": 13,
+      "id": 386345,
+      "name": "Season 1",
+      "overview": "Sopranos co-stars Michael Imperioli and Steve Schirripa host the definitive Sopranos re-watch podcast.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-29",
+      "episode_count": 13,
+      "id": 386347,
+      "name": "Season 2",
+      "overview": "Sopranos co-stars Michael Imperioli and Steve Schirripa host the definitive Sopranos re-watch podcast.",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-28",
+      "episode_count": 14,
+      "id": 386348,
+      "name": "Season 3",
+      "overview": "Sopranos co-stars Michael Imperioli and Steve Schirripa host the definitive Sopranos re-watch podcast.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 13,
+      "id": 386349,
+      "name": "Season 4",
+      "overview": "Sopranos co-stars Michael Imperioli and Steve Schirripa host the definitive Sopranos re-watch podcast.",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-05",
+      "episode_count": 13,
+      "id": 386350,
+      "name": "Season 5",
+      "overview": "Sopranos co-stars Michael Imperioli and Steve Schirripa host the definitive Sopranos re-watch podcast.",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-05",
+      "episode_count": 25,
+      "id": 386351,
+      "name": "Season 6",
+      "overview": "Sopranos co-stars Michael Imperioli and Steve Schirripa host the definitive Sopranos re-watch podcast.",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Every Sunday You’re Part of the Family",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 250681,
+    "imdb_id": "tt13833958",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 411879,
+    "tvrage_id": null,
+    "wikidata_id": "Q108325802",
+    "facebook_id": "TalkingSopranos",
+    "instagram_id": "talkingsopranos",
+    "twitter_id": "talkingsopranos"
+  }
+}

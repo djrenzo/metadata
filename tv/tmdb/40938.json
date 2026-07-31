@@ -1,0 +1,387 @@
+{
+  "adult": false,
+  "backdrop_path": "/i3bc3egDBKmb39OQI176hy8X0zR.jpg",
+  "created_by": [
+    {
+      "id": 1328940,
+      "credit_id": "5394f2570e0a266db70051b4",
+      "name": "Käthe Riemann",
+      "original_name": "Käthe Riemann",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1965-10-21",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 40938,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "1998-10-28",
+  "last_episode_to_air": {
+    "id": 1063921,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-10-28",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 20,
+    "show_id": 40938,
+    "still_path": null
+  },
+  "name": "Der Staatsanwalt hat das Wort",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1118,
+      "logo_path": "/iIppR5wX7s2soFTHZsHV5mgQ9Or.png",
+      "name": "MDR Fernsehen",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1084,
+      "logo_path": "/fFuyvrv3NeDkA5QFd3g9zb70pUi.png",
+      "name": "DFF 1",
+      "origin_country": "XG"
+    }
+  ],
+  "number_of_episodes": 138,
+  "number_of_seasons": 27,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Der Staatsanwalt hat das Wort",
+  "overview": "Der Staatsanwalt hat das Wort was an East German television series.",
+  "popularity": 10.4234,
+  "poster_path": "/fkq4dZ3la24OZbHApZR61jKkYWy.jpg",
+  "production_companies": [
+    {
+      "id": 23372,
+      "logo_path": "/ss43VEAmc5sT5Vixax9szokmn3w.png",
+      "name": "Fernsehen der DDR",
+      "origin_country": "XG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1965-10-21",
+      "episode_count": 2,
+      "id": 51620,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-03-17",
+      "episode_count": 4,
+      "id": 66909,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-06-22",
+      "episode_count": 2,
+      "id": 66910,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-03-21",
+      "episode_count": 3,
+      "id": 66911,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-04-08",
+      "episode_count": 4,
+      "id": 66912,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-03-31",
+      "episode_count": 2,
+      "id": 66913,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-05-05",
+      "episode_count": 4,
+      "id": 66914,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-05-04",
+      "episode_count": 4,
+      "id": 66915,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-03",
+      "episode_count": 6,
+      "id": 66916,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-02-07",
+      "episode_count": 4,
+      "id": 66917,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-22",
+      "episode_count": 6,
+      "id": 66919,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-22",
+      "episode_count": 6,
+      "id": 66924,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-18",
+      "episode_count": 6,
+      "id": 66925,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-17",
+      "episode_count": 5,
+      "id": 66926,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-03-13",
+      "episode_count": 7,
+      "id": 66927,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-08",
+      "episode_count": 7,
+      "id": 66928,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-05-12",
+      "episode_count": 4,
+      "id": 66929,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-02-02",
+      "episode_count": 6,
+      "id": 66930,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-02-22",
+      "episode_count": 6,
+      "id": 66931,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-22",
+      "episode_count": 6,
+      "id": 66932,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-06",
+      "episode_count": 6,
+      "id": 66933,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-05",
+      "episode_count": 8,
+      "id": 66934,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-16",
+      "episode_count": 9,
+      "id": 66935,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-02-07",
+      "episode_count": 7,
+      "id": 66936,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-03-19",
+      "episode_count": 6,
+      "id": 66937,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-02-18",
+      "episode_count": 5,
+      "id": 66938,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-27",
+      "episode_count": 3,
+      "id": 66939,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 40938,
+    "imdb_id": "tt0121027",
+    "freebase_mid": "/m/0h64yq2",
+    "freebase_id": null,
+    "tvdb_id": 264042,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

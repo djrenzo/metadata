@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/1p7cUZ0X9YXX4FZ4aTdLYLdH64S.jpg",
+  "created_by": [
+    {
+      "id": 1475420,
+      "credit_id": "5575f1229251414031004a33",
+      "name": "Héctor Lozano",
+      "original_name": "Héctor Lozano",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2015-09-14",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.ccma.cat/3cat/merli/",
+  "id": 62914,
+  "in_production": false,
+  "languages": [
+    "ca",
+    "es"
+  ],
+  "last_air_date": "2018-01-15",
+  "last_episode_to_air": {
+    "id": 1455437,
+    "name": "Merlí Bergeron",
+    "overview": "",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "2018-01-15",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "40",
+    "runtime": 56,
+    "season_number": 3,
+    "show_id": 62914,
+    "still_path": "/PutfiQzvT3TGh3QWUCklGgBmkl.jpg"
+  },
+  "name": "Merlí",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 406,
+      "logo_path": "/bvjlXF06a7hR3vJ4IoFkGVLaBFo.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 40,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "Merlí",
+  "overview": "He’s surly, unorthodox, unapologetically blunt, and he’s about to change your life. Meet the new philosophy teacher, Merlí, who will help his students view the world in a whole new light, both in and out of the classroom.",
+  "popularity": 10.387,
+  "poster_path": "/wQaGnuwIHhmB1jgY6CM3rJgScYR.jpg",
+  "production_companies": [
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 13,
+      "id": 67544,
+      "name": "Season 1",
+      "overview": "An unconventional high school philosophy teacher upsets a few parents and staff, romances others and inspires all his pupils, including his gay son.",
+      "poster_path": "/vlsf5g0gfNzI8NtpKsB7BwOITan.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2016-09-19",
+      "episode_count": 13,
+      "id": 80231,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fnNZpBQiUOtlbc555qtSsWnNrUv.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2017-09-18",
+      "episode_count": 14,
+      "id": 80730,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/fVi4s6xQGtTH4B6IsIbxU2LpPYi.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.607,
+  "vote_count": 1177,
+  "external_ids": {
+    "id": 62914,
+    "imdb_id": "tt4580372",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 300428,
+    "tvrage_id": null,
+    "wikidata_id": "Q21036200",
+    "facebook_id": "merlitv3",
+    "instagram_id": "merlitv3oficial",
+    "twitter_id": "MerliTV3"
+  }
+}

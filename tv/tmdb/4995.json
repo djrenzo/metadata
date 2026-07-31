@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1999-03-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 4995,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2003-10-19",
+  "last_episode_to_air": {
+    "id": 1980193,
+    "name": "Episode 244",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-10-19",
+    "episode_number": 244,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 4995,
+    "still_path": null
+  },
+  "name": "Tabing Ilog",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 20,
+      "logo_path": "/kdcvqvutGKUsIkeSVGl8pQMkc3k.png",
+      "name": "ABS-CBN",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 244,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Tabing Ilog",
+  "overview": "The adventures and romances of a group of teenage friends.",
+  "popularity": 8.6785,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1999-03-14",
+      "episode_count": 244,
+      "id": 135588,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 4995,
+    "imdb_id": null,
+    "freebase_mid": "/m/02qcf05",
+    "freebase_id": "/en/tabing_ilog",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

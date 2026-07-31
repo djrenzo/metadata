@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/69KLBbjRfikJtZJOFOHoznF0bDI.jpg",
+  "created_by": [
+    {
+      "id": 2332083,
+      "credit_id": "5ecabafbd2147c0023c453a6",
+      "name": "Benoît Masocco",
+      "original_name": "Benoît Masocco",
+      "gender": 2,
+      "profile_path": "/lj1vIiY3CqbHR601k2TzrIj2PNb.jpg"
+    }
+  ],
+  "episode_run_time": [
+    13
+  ],
+  "first_air_date": "2020-10-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.france.tv/enfants/neuf-douze-ans/askip-le-college-se-la-raconte/",
+  "id": 103325,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-04-28",
+  "last_episode_to_air": {
+    "id": 7501048,
+    "name": "Episode 63",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-28",
+    "episode_number": 63,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 7,
+    "show_id": 103325,
+    "still_path": "/sLRNaP1kYI5wNcDBSmwktlPzLTu.jpg"
+  },
+  "name": "ASKIP, le collège se la raconte",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 511,
+      "logo_path": "/9v9Mink1IVxPNRZOmCZ8N58BOHe.png",
+      "name": "France 4",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 410,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "ASKIP, le collège se la raconte",
+  "overview": "",
+  "popularity": 7.829,
+  "poster_path": "/k9BknhGrepkIqOdp3yhQimQHFJT.jpg",
+  "production_companies": [
+    {
+      "id": 47413,
+      "logo_path": "/tWgdrvRArGnERk9lmr4IkqoiMoZ.png",
+      "name": "CAPA",
+      "origin_country": "FR"
+    },
+    {
+      "id": 251986,
+      "logo_path": "/dNhcSd23Ug22ffnHqFaa4Z9Ohfq.png",
+      "name": "AMSTO",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-12-19",
+      "episode_count": 1,
+      "id": 521012,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/h9sAsQ7JKvt9OSkEMJTpyf5UKLo.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-12",
+      "episode_count": 40,
+      "id": 150524,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vdDAKzPZXwA0Qmc92aJQlvYNM3p.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2024-01-19",
+      "episode_count": 40,
+      "id": 400654,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/iDMUZgosKtJziWeFeijG1G5yxDQ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-27",
+      "episode_count": 67,
+      "id": 400655,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/dWsxlH1RZqlj7aUOZmcPLrkt5wv.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-08",
+      "episode_count": 66,
+      "id": 400656,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/h8zRyuJluU8IJhClnEugYBWwcu2.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-06",
+      "episode_count": 70,
+      "id": 400657,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/2wi21yTeyPm8bqpYSl3v32b2Gcv.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-04",
+      "episode_count": 64,
+      "id": 400658,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/af7rzjG7zJiPJ2qFQ5SlJ3LT03a.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-21",
+      "episode_count": 63,
+      "id": 498771,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/3CRuuBM5e8xziYR284cjBXKDBH9.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 103325,
+    "imdb_id": "tt13749528",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 380020,
+    "tvrage_id": null,
+    "wikidata_id": "Q97119897",
+    "facebook_id": "serieASKIP",
+    "instagram_id": "serieaskip",
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": "/eAo5vQ5dxRaL6G8NFOGyuZCYCcL.jpg",
+  "created_by": [
+    {
+      "id": 24534,
+      "credit_id": "58b6acf6925141260a009185",
+      "name": "Georges Simenon",
+      "original_name": "Georges Simenon",
+      "gender": 2,
+      "profile_path": "/oxehFO24YpEMhK4YUlL50px6C8v.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1991-12-01",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 64581,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2005-12-23",
+  "last_episode_to_air": {
+    "id": 1143435,
+    "name": "Maigret at the Etoile du Nord",
+    "overview": "A man is killed in a hotel in Paris. Maigret meets there a young woman who says she is a prostitute. But it seems to Maigret she is not what she wants him to believe... This seems to become the very last Bruno Cremer's Maigret.",
+    "vote_average": 10,
+    "vote_count": 4,
+    "air_date": "2005-12-23",
+    "episode_number": 54,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 64581,
+    "still_path": "/oIUnpSm6qTLc1A2sPXggxbyZYyL.jpg"
+  },
+  "name": "Maigret",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1130,
+      "logo_path": "/1JnQqStddzcIoa6XYB7LqJbLx01.png",
+      "name": "Antenne 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3273,
+      "logo_path": "/vZDDmxWjogmw3sdpiTQhaiZdOmW.png",
+      "name": "La Cinq",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 54,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Maigret",
+  "overview": "The pragmatic, reserved and refined Maigret investigates murders in his singular unhurried manner and inevitably discovers the truth.",
+  "popularity": 10.2731,
+  "poster_path": "/kQQARcBsgzd5d2s7ZPA5NjHF33S.jpg",
+  "production_companies": [
+    {
+      "id": 12580,
+      "logo_path": "/cN3Zlvky0zzEscv416PSGa2EMQu.png",
+      "name": "Dune",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1117,
+      "logo_path": "/2X2uFeObxawiAajNDOf3Mhri5Wg.png",
+      "name": "Antenne 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 487,
+      "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-12-01",
+      "episode_count": 54,
+      "id": 72457,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1zK3ueqlFbvZMsNzs9nQpD60jtY.jpg",
+      "season_number": 1,
+      "vote_average": 9.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 64581,
+    "imdb_id": "tt0167644",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 85167,
+    "tvrage_id": null,
+    "wikidata_id": "Q3278089",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

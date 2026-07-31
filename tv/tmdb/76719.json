@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/rfK7BGBUoqXc2EiKGbKuzaeSDjW.jpg",
+  "created_by": [
+    {
+      "id": 1140881,
+      "credit_id": "5a9ddaa99251411030006839",
+      "name": "Christian Potalivo",
+      "original_name": "Christian Potalivo",
+      "gender": 2,
+      "profile_path": "/hlJsyGW5SBD2CYbinlZNcu7kIf0.jpg"
+    },
+    {
+      "id": 1026071,
+      "credit_id": "5a9ddaad0e0a2671f2006a95",
+      "name": "Esben Toft Jacobsen",
+      "original_name": "Esben Toft Jacobsen",
+      "gender": 2,
+      "profile_path": "/snUctCREyWeZN5IFvhU3ShpU7CT.jpg"
+    },
+    {
+      "id": 228979,
+      "credit_id": "5a9dda9e0e0a2671fe0072b3",
+      "name": "Jannik Tai Mosholt",
+      "original_name": "Jannik Tai Mosholt",
+      "gender": 2,
+      "profile_path": "/6HJBWrNeADG7Rz2L56Lm2Bo7w0S.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-05-04",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80154610",
+  "id": 76719,
+  "in_production": false,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2020-08-06",
+  "last_episode_to_air": {
+    "id": 2318480,
+    "name": "And This Too Shall Pass",
+    "overview": "A surprising revelation sparks new hope — but Simone and the others must ready themselves for a dangerous confrontation as Rasmus closes in.",
+    "vote_average": 7,
+    "vote_count": 9,
+    "air_date": "2020-08-06",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 3,
+    "show_id": 76719,
+    "still_path": "/jzgkeFZrx5KghDLRjhmzlK1RYL4.jpg"
+  },
+  "name": "The Rain",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "The Rain",
+  "overview": "After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety. A Scandinavian thriller series.",
+  "popularity": 10.7729,
+  "poster_path": "/jtOuOpJwyEVfdaekwP1tGO8hAw7.jpg",
+  "production_companies": [
+    {
+      "id": 5123,
+      "logo_path": "/vkNtfMgiOdBYc6hECG9i6WQnvFs.png",
+      "name": "Miso Film",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-05-04",
+      "episode_count": 8,
+      "id": 98595,
+      "name": "Season 1",
+      "overview": "Six years after a rain-borne virus wipes out most of Scandinavia's population, two siblings join a band of young survivors seeking safety — and answers.",
+      "poster_path": "/dPeGzybLWC8UdLC5PMWo9htKarg.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2019-05-17",
+      "episode_count": 6,
+      "id": 121863,
+      "name": "Season 2",
+      "overview": "When the virus grows even more dangerous, the friends race to find a cure. But as Apollon closes in, their loyalties are tested.",
+      "poster_path": "/2uvXlW8PqEI2cb2cURoP17Na9CD.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2020-08-06",
+      "episode_count": 6,
+      "id": 154477,
+      "name": "Season 3",
+      "overview": "Years after the rain decimated the population of Scandinavia, Simone and Rasmus find themselves at odds about how to save humanity.",
+      "poster_path": "/oZfMUmNRCZM9OICvJaj9UGkeUGt.jpg",
+      "season_number": 3,
+      "vote_average": 6.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Stay dry. Stay alive.",
+  "type": "Scripted",
+  "vote_average": 7.217,
+  "vote_count": 1346,
+  "external_ids": {
+    "id": 76719,
+    "imdb_id": "tt6656238",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 341704,
+    "tvrage_id": null,
+    "wikidata_id": "Q48855569",
+    "facebook_id": "TheRainNetflix",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/x0OEzkDSwDGYKCQB5cO4QABXut1.jpg",
+  "created_by": [
+    {
+      "id": 2486340,
+      "credit_id": "65a179f99451e701233b7dfb",
+      "name": "Ayhan Özdemir",
+      "original_name": "Ayhan Özdemir",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2486339,
+      "credit_id": "65a17a13f5cb210132b1fa07",
+      "name": "Koralp Gümüş",
+      "original_name": "Koralp Gümüş",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2019-11-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.beyaztv.com.tr/program/bahari-beklerken/",
+  "id": 96663,
+  "in_production": false,
+  "languages": [
+    "es",
+    "tr"
+  ],
+  "last_air_date": "2020-11-16",
+  "last_episode_to_air": {
+    "id": 3379890,
+    "name": "Episode 53",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-11-16",
+    "episode_number": 53,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 96663,
+    "still_path": null
+  },
+  "name": "Baharı Beklerken",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 960,
+      "logo_path": "/l0dD0yCydBatxD8Kph2h1zYxdwN.png",
+      "name": "Beyaz TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 99,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Baharı Beklerken",
+  "overview": "",
+  "popularity": 10.5047,
+  "poster_path": "/wfnwhxcm54H25TjEmkdvMdhPhNq.jpg",
+  "production_companies": [
+    {
+      "id": 126671,
+      "logo_path": null,
+      "name": "Yeşil Yapım",
+      "origin_country": ""
+    },
+    {
+      "id": 126672,
+      "logo_path": null,
+      "name": "Hacıyatmaz Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-11-18",
+      "episode_count": 99,
+      "id": 138645,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wfnwhxcm54H25TjEmkdvMdhPhNq.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.143,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 96663,
+    "imdb_id": "tt11231274",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "baharibeklerkendizi",
+    "instagram_id": "baharibeklerkendizisi",
+    "twitter_id": "baharibekler"
+  }
+}

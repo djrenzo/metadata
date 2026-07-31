@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2011-02-14",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://celebritypage.com",
+  "id": 35340,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-05-05",
+  "last_episode_to_air": {
+    "id": 800139,
+    "name": "Series 1, Show 53",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-05-05",
+    "episode_number": 53,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 35340,
+    "still_path": null
+  },
+  "name": "OK! TV",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 99,
+      "logo_path": "/tAOMutfVve2or2LTYQfIa42sc33.png",
+      "name": "5",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 53,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "OK! TV",
+  "overview": "OK! TV is an early evening magazine programme, broadcast on Channel 5 as a brand extension of celebrity title OK! Magazine. It replaced the former magazine and discussion show Live from Studio Five on 14 February 2011, and was presented by Kate Walsh and Matt Johnson, both of whom later left the programme. Jeff Brazier and Jenny Frost replaced Walsh and Johnson in August 2011 and presented the show until its cancellation. The show was made by the 5 News team and produced by Sky News for Channel 5. On 8 November 2011, it was announced that the show has been cancelled by Channel 5. The show aired its final edition on 16 December after ten months on air due to the contract for 5 News returning to ITN.",
+  "popularity": 9.4929,
+  "poster_path": "/AbKHleMiAEqz471pRvOINFKij0K.jpg",
+  "production_companies": [
+    {
+      "id": 100498,
+      "logo_path": "/yNWPX0pJRQyQt5SLRxb3uDeK5TT.png",
+      "name": "Sky News",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-02-14",
+      "episode_count": 53,
+      "id": 46072,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 35340,
+    "imdb_id": "tt0224517",
+    "freebase_mid": "/m/0g9_c0t",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 27520,
+    "wikidata_id": "Q7072599",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

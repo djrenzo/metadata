@@ -1,0 +1,204 @@
+{
+  "adult": false,
+  "backdrop_path": "/ini5OKs2Y5pwfyarKgkDBgB3sW9.jpg",
+  "created_by": [
+    {
+      "id": 215861,
+      "credit_id": "52570d2e760ee3776a088883",
+      "name": "John Cunliffe",
+      "original_name": "John Cunliffe",
+      "gender": 2,
+      "profile_path": "/wXsYDR8uX18YS2HCeov666CsDLt.jpg"
+    },
+    {
+      "id": 1225685,
+      "credit_id": "52570d2e760ee3776a088889",
+      "name": "Ivor Wood",
+      "original_name": "Ivor Wood",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    15,
+    30
+  ],
+  "first_air_date": "1981-09-16",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/cbeebies/shows/postman-pat",
+  "id": 1588,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-03-20",
+  "last_episode_to_air": {
+    "id": 81356,
+    "name": "Postman Pat's Christmas Eve",
+    "overview": "Pat has to come to the rescue when Ajay gets stuck in a snowdrift with a Christmas tree.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-03-20",
+    "episode_number": 28,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 5,
+    "show_id": 1588,
+    "still_path": "/jDNp0QC0dDPYFaniimxAqUxr2PB.jpg"
+  },
+  "name": "Postman Pat",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 166,
+      "logo_path": "/lpcHkKxLsFz2YhEnRlkslsTtePe.png",
+      "name": "CBeebies",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 106,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Postman Pat",
+  "overview": "Pat and his black-and-white cat Jess deliver the mail in Greendale.",
+  "popularity": 10.7582,
+  "poster_path": "/zMlG1lGI2hZjGYU7pFTgEiJgTAn.jpg",
+  "production_companies": [
+    {
+      "id": 90604,
+      "logo_path": "/n4fNBV539SE1KGNX3v9f8k1Ok0O.png",
+      "name": "Alphanim",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94539,
+      "logo_path": null,
+      "name": "Woodland Animations",
+      "origin_country": ""
+    },
+    {
+      "id": 94540,
+      "logo_path": "/8z5tOCvD7KpoRz7foHvxueM2sER.png",
+      "name": "Entertainment Rights",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8180,
+      "logo_path": null,
+      "name": "Cosgrove Hall Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1990-10-10",
+      "episode_count": 11,
+      "id": 4356,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-16",
+      "episode_count": 13,
+      "id": 4351,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/z5IhjN8S6zHguq0aXa2fzdhM3aG.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-04-03",
+      "episode_count": 13,
+      "id": 4352,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/u8lh601SqjHu02HNRpnp1R3NbSh.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-07",
+      "episode_count": 26,
+      "id": 4350,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/c7qMObmeaZVZxgCa8NDWiXOvypW.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-27",
+      "episode_count": 26,
+      "id": 4353,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/7gjvRYZKUXVacD87sIqKlNTQFjc.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-09",
+      "episode_count": 28,
+      "id": 4354,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/nKzMcLDDVXirdij98YFm3VwxaUk.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 1588,
+    "imdb_id": "tt0149509",
+    "freebase_mid": "/m/011jzp",
+    "freebase_id": "/en/postman_pat",
+    "tvdb_id": 73854,
+    "tvrage_id": 4872,
+    "wikidata_id": "Q1143800",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

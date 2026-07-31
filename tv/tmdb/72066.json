@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/jjEiGZI19d2LOxUHAnsNWOWrqnj.jpg",
+  "created_by": [
+    {
+      "id": 1937399,
+      "credit_id": "5a4ecb2e9251417a5e002e20",
+      "name": "Selim Erkul",
+      "original_name": "Selim Erkul",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1937398,
+      "credit_id": "5a4ecb389251417a63002e00",
+      "name": "Duygu Nişancı",
+      "original_name": "Duygu Nişancı",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    130
+  ],
+  "first_air_date": "2017-01-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.kanald.com.tr/adi-efsane",
+  "id": 72066,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2017-08-29",
+  "last_episode_to_air": {
+    "id": 1415327,
+    "name": "Episode 29",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-08-29",
+    "episode_number": 29,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 130,
+    "season_number": 1,
+    "show_id": 72066,
+    "still_path": "/woLx9t81CzKxqlDXNrP2sKHCEf9.jpg"
+  },
+  "name": "The Name is Legend",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Adı Efsane",
+  "overview": "Tarik Aksoy who once was a legend in basketball tries to make life work after his wife passing away. His daughters Melis and Zeynep",
+  "popularity": 11.2212,
+  "poster_path": "/nEh6X8vYxhPKK2e6RPj29q2dajL.jpg",
+  "production_companies": [
+    {
+      "id": 91112,
+      "logo_path": null,
+      "name": "D Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-28",
+      "episode_count": 29,
+      "id": 89019,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nEh6X8vYxhPKK2e6RPj29q2dajL.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 72066,
+    "imdb_id": "tt6550350",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 323508,
+    "tvrage_id": null,
+    "wikidata_id": "Q29513909",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

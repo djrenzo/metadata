@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1257211,
+      "credit_id": "52596f1f760ee34661a223a0",
+      "name": "Markus Heidemanns",
+      "original_name": "Markus Heidemanns",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1257210,
+      "credit_id": "52596f1e760ee34661a22397",
+      "name": "Johannes B. Kerner",
+      "original_name": "Johannes B. Kerner",
+      "gender": 2,
+      "profile_path": "/dARM0FZiujRi8SvWCF48tXvb0He.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60,
+    65
+  ],
+  "first_air_date": "2008-06-06",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 46043,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2012-12-28",
+  "last_episode_to_air": {
+    "id": 2747266,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-12-28",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 46043,
+    "still_path": null
+  },
+  "name": "Lanz kocht!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 175,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Lanz kocht!",
+  "overview": "",
+  "popularity": 12.8348,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-06-06",
+      "episode_count": 52,
+      "id": 54419,
+      "name": "Lanz kocht season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-11",
+      "episode_count": 36,
+      "id": 110082,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-20",
+      "episode_count": 40,
+      "id": 110083,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-04",
+      "episode_count": 32,
+      "id": 110084,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-10",
+      "episode_count": 15,
+      "id": 110085,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 46043,
+    "imdb_id": null,
+    "freebase_mid": "/m/0ndsl4q",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

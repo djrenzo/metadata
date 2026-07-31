@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/2UtGwykBxKPqoXHmwnpbO1TpqCT.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1996-03-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 6575,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "1999-03-19",
+  "last_episode_to_air": {
+    "id": 7592539,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-03-19",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 6575,
+    "still_path": null
+  },
+  "name": "Muppets Tonight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Muppets Tonight",
+  "overview": "Muppets Tonight is a live-action/puppet television series created by Jim Henson Productions and featuring The Muppets. Much like the \"MuppeTelevision\" segment of The Jim Henson Hour, Muppets Tonight was a continuation of The Muppet Show, set in a television studio, rather than a theater. It ran on ABC from 1996 to 1998 and reruns ran on Disney Channel from 1997 to 2002. As of 2013, it is the last television series to star The Muppets characters.",
+  "popularity": 9.5068,
+  "poster_path": "/bm9R1dRm6PBZGIsfZupVAPSXOyG.jpg",
+  "production_companies": [
+    {
+      "id": 2504,
+      "logo_path": "/yxP3Gnk7sm7rACmDj0InTjXZw8R.png",
+      "name": "Jim Henson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 6254,
+      "logo_path": "/dHfP8fUyykmTsMXbtXO0kSsYz5E.png",
+      "name": "The Jim Henson Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2010-07-01",
+      "episode_count": 8,
+      "id": 16800,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-03-08",
+      "episode_count": 10,
+      "id": 16798,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hoGdmgr0gxpxjPyIQbLKh2L8K2o.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-13",
+      "episode_count": 12,
+      "id": 16799,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 12,
+      "id": 532475,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.415,
+  "vote_count": 41,
+  "external_ids": {
+    "id": 6575,
+    "imdb_id": "tt0115279",
+    "freebase_mid": "/m/03f32x",
+    "freebase_id": "/en/muppets_tonight",
+    "tvdb_id": 78801,
+    "tvrage_id": null,
+    "wikidata_id": "Q1426628",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

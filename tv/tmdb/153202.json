@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/250N1nPHo6q3ZWlRj15xHTmGs0I.jpg",
+  "created_by": [
+    {
+      "id": 56811,
+      "credit_id": "66fb9e464955b4a206f16e04",
+      "name": "James Wong Jim",
+      "original_name": "黃霑",
+      "gender": 2,
+      "profile_path": "/gmZZNrvwFIpo3kB9L51wQircqlH.jpg"
+    },
+    {
+      "id": 70675,
+      "credit_id": "66fb9e4bf2b9c97c1dd62d97",
+      "name": "Ni Kuang",
+      "original_name": "倪匡",
+      "gender": 2,
+      "profile_path": "/t7PqLCu20cGOzjOo0Rsa9QBSBq2.jpg"
+    },
+    {
+      "id": 64903,
+      "credit_id": "66fb9e51f2b9c97c1dd62d9a",
+      "name": "Chua Lam",
+      "original_name": "Chua Lam",
+      "gender": 2,
+      "profile_path": "/88Xt5XtO3mThsdxVDHDyl36rD9r.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1989-03-10",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 153202,
+  "in_production": false,
+  "languages": [
+    "cn"
+  ],
+  "last_air_date": "1990-07-10",
+  "last_episode_to_air": {
+    "id": 3819526,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1990-07-10",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 4,
+    "show_id": 153202,
+    "still_path": null
+  },
+  "name": "Celebrity Talk Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 461,
+      "logo_path": "/94NJxCdLsn1tMd4EHiJPv2iUODt.png",
+      "name": "ATV",
+      "origin_country": "HK"
+    }
+  ],
+  "number_of_episodes": 45,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_name": "今夜不設防",
+  "overview": "",
+  "popularity": 8.7335,
+  "poster_path": "/h2uyanrviSRjgmBKEaEBTbIANAM.jpg",
+  "production_companies": [
+    {
+      "id": 35314,
+      "logo_path": "/8Lj3QAt7vnEdGyhhRuIVuewhC5V.png",
+      "name": "ATV Enterprises Limited",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1989-03-10",
+      "episode_count": 13,
+      "id": 235315,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uuGlbO0YqwsVKWTTosOgz5cVvgk.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-06-09",
+      "episode_count": 18,
+      "id": 235316,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-25",
+      "episode_count": 1,
+      "id": 235317,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-04-17",
+      "episode_count": 13,
+      "id": 235318,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 153202,
+    "imdb_id": "tt0277488",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q10883955",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

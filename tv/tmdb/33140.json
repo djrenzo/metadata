@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/tf0qJK4EzWfnrBZ6YlKqQ9v14QD.jpg",
+  "created_by": [
+    {
+      "id": 186807,
+      "credit_id": "5e4aeb954d0e8d0016153de6",
+      "name": "Peter Marc Jacobson",
+      "original_name": "Peter Marc Jacobson",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 53122,
+      "credit_id": "5e4aeba24d0e8d05e81525c5",
+      "name": "Fran Drescher",
+      "original_name": "Fran Drescher",
+      "gender": 1,
+      "profile_path": "/6IQlygYDyxuIRD5j9lPluknYoJp.jpg"
+    }
+  ],
+  "episode_run_time": [
+    48
+  ],
+  "first_air_date": "2005-08-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 33140,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2006-01-02",
+  "last_episode_to_air": {
+    "id": 6211841,
+    "name": "Episode 106",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-01-02",
+    "episode_number": 106,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 1,
+    "show_id": 33140,
+    "still_path": null
+  },
+  "name": "La Nany",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 106,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "La Nany",
+  "overview": "Eliana is a woman who comes to work in the mansion of a wealthy family, in the suburbs of La Dehesa, Santiago, after being fired from a bridal shop in the Florida Center Shopping Mall. The family she works for is formed by the widower Max Valdivieso, his three children, Catalina, Sofía, and Tomás, and his butler Bruno. Max's assistant, Loreto, has a rivalry against Eliana and Bruno. She will do everything possible to try to fire them. In some cases, Eliana and Loreto and will have to work together to get out of trouble. Loreto is very fond of Max and the two both have a relationship at the beginning of the series.",
+  "popularity": 12.0155,
+  "poster_path": "/1KvkFuFtVlCU3Ko5WRQdHFGNZXT.jpg",
+  "production_companies": [
+    {
+      "id": 55502,
+      "logo_path": null,
+      "name": "Roos Film",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-08-09",
+      "episode_count": 106,
+      "id": 137585,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1KvkFuFtVlCU3Ko5WRQdHFGNZXT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 33140,
+    "imdb_id": "tt0472607",
+    "freebase_mid": "/m/0ch14rs",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6464087",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

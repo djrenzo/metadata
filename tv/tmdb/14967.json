@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1710064,
+      "credit_id": "582dbff692514109510088c4",
+      "name": "Ruth Beni",
+      "original_name": "Ruth Beni",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2002-09-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.girlstuffboystuff.com/",
+  "id": 14967,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-02-05",
+  "last_episode_to_air": {
+    "id": 6780977,
+    "name": "Clique Chic / Future Tense",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-02-05",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 14967,
+    "still_path": null
+  },
+  "name": "Girlstuff/Boystuff",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 46,
+      "logo_path": "/nXrfHqHOtLcrSKPz2do1duM3cwT.png",
+      "name": "YTV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Girlstuff/Boystuff",
+  "overview": "Girlstuff/Boystuff eavesdrops on six young teens who have been friends forever, three girls - Reanne, Talia and Hannah and three boys - Jason, Simon and Ben. The gang is always there for each other, to keep it real, to tease and to be there for when life sucks.",
+  "popularity": 9.4907,
+  "poster_path": "/85N0fKrbaWuvdwDFH9N9y8hcFRv.jpg",
+  "production_companies": [
+    {
+      "id": 59939,
+      "logo_path": "/fRUfhf6QKsQaS6dq0zRw1cXczgR.png",
+      "name": "Decode Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 155528,
+      "logo_path": null,
+      "name": "Agogo Media",
+      "origin_country": ""
+    },
+    {
+      "id": 91852,
+      "logo_path": null,
+      "name": "Agogo Studios",
+      "origin_country": "HK"
+    },
+    {
+      "id": 55194,
+      "logo_path": null,
+      "name": "Animage Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 197472,
+      "logo_path": "/1vBZP6weH5iSbSVHkJWi3pDpIpJ.png",
+      "name": "YTV",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-09-06",
+      "episode_count": 26,
+      "id": 26563,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-11",
+      "episode_count": 13,
+      "id": 26562,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "We love our stuff and we can't get enough of it!",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 14967,
+    "imdb_id": "tt0364164",
+    "freebase_mid": "/m/0265xtf",
+    "freebase_id": "/en/girl_stuff_boy_stuff",
+    "tvdb_id": 270801,
+    "tvrage_id": null,
+    "wikidata_id": "Q960548",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "adult": false,
+  "backdrop_path": "/hdA04fie5WXiCKIZhgBZDSpkuZw.jpg",
+  "created_by": [
+    {
+      "id": 64809,
+      "credit_id": "5dc6c48699259c00158142fb",
+      "name": "Billy Corgan",
+      "original_name": "Billy Corgan",
+      "gender": 2,
+      "profile_path": "/epcdezfjam5PydxdvlvNRAhiNTX.jpg"
+    },
+    {
+      "id": 567321,
+      "credit_id": "5dc6c4917d2bc1001743d037",
+      "name": "David J. Lagana",
+      "original_name": "David J. Lagana",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2019-10-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nationalwrestlingalliance.com/powerrr",
+  "id": 95275,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-01",
+  "last_episode_to_air": {
+    "id": 7218886,
+    "name": "Episode 2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-02",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 27,
+    "show_id": 95275,
+    "still_path": null
+  },
+  "name": "NWA Powerrr",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 2887,
+      "logo_path": null,
+      "name": "Comet",
+      "origin_country": ""
+    },
+    {
+      "id": 4692,
+      "logo_path": "/lD9lCk9tUsMZbzfydCHEVhhfIJd.png",
+      "name": "The Roku Channel",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 192,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "NWA Powerrr",
+  "overview": "A weekly studio wrestling show from the National Wrestling Alliance (NWA) and taped from Georgia features big names in matches in front of a live audience.",
+  "popularity": 10.7348,
+  "poster_path": "/d9sM7IzbO2kpor04toKHZTsuN9R.jpg",
+  "production_companies": [
+    {
+      "id": 13397,
+      "logo_path": "/7RmEipI3mnHxpo8tjcK8HTQ5PTU.png",
+      "name": "National Wrestling Alliance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-10-08",
+      "episode_count": 9,
+      "id": 135514,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-17",
+      "episode_count": 6,
+      "id": 382281,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-28",
+      "episode_count": 6,
+      "id": 382282,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-23",
+      "episode_count": 11,
+      "id": 382283,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-08",
+      "episode_count": 13,
+      "id": 382284,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-31",
+      "episode_count": 14,
+      "id": 382285,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-07",
+      "episode_count": 15,
+      "id": 240092,
+      "name": "Season 7",
+      "overview": "Season 7 of NWA Powerrr premiered on December 7th, 2021 on Fite TV at 6:05 p.m.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-22",
+      "episode_count": 12,
+      "id": 292789,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-14",
+      "episode_count": 11,
+      "id": 292790,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-30",
+      "episode_count": 11,
+      "id": 306731,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-15",
+      "episode_count": 8,
+      "id": 382290,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-31",
+      "episode_count": 10,
+      "id": 382292,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-18",
+      "episode_count": 14,
+      "id": 382293,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-05",
+      "episode_count": 18,
+      "id": 382294,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-03",
+      "episode_count": 10,
+      "id": 440812,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-29",
+      "episode_count": 12,
+      "id": 514200,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-21",
+      "episode_count": 10,
+      "id": 514201,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-12-30",
+      "episode_count": 1,
+      "id": 514202,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-01",
+      "episode_count": 2,
+      "id": 514199,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 95275,
+    "imdb_id": "tt11043554",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 370350,
+    "tvrage_id": null,
+    "wikidata_id": "Q69523823",
+    "facebook_id": "NWA",
+    "instagram_id": null,
+    "twitter_id": "nwa"
+  }
+}

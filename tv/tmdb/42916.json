@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/82hAXKATyuldbt4PxSNnHHy2BVO.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2008-10-02",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tv-tokyo.co.jp/anime/toradora/",
+  "id": 42916,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2009-03-26",
+  "last_episode_to_air": {
+    "id": 883637,
+    "name": "Toradora!",
+    "overview": "When Yasuko reconciles with her parents, the truth about Ryūji's father is revealed, inspiring him to have a traditional wedding with Taiga.",
+    "vote_average": 7.556,
+    "vote_count": 9,
+    "air_date": "2009-03-26",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 42916,
+    "still_path": "/7NyvI22K1LQEs6EBe2Cmu0N4Sa4.jpg"
+  },
+  "name": "Toradora!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 98,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 824,
+      "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+      "name": "TV Osaka",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 25,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "とらドラ！",
+  "overview": "Menacing in appearance but gentle at heart, second year high school student Ryuuji forms an unlikely friendship with classmate Taiga, a tiny girl with a sharp tongue and a tough attitude.",
+  "popularity": 11.0334,
+  "poster_path": "/2Z52nZaAQt1P7XJtu8fNlMXgdps.jpg",
+  "production_companies": [
+    {
+      "id": 11884,
+      "logo_path": "/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png",
+      "name": "J.C.STAFF",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-02-22",
+      "episode_count": 6,
+      "id": 52420,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/15ubTz61uJNh1TdB2wUwWaLtOxf.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-02",
+      "episode_count": 25,
+      "id": 52421,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jgLSYTAgjQgwBqLEw1bgr8vNxeK.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Palmtop Tiger. Delinquent Dragon.",
+  "type": "Scripted",
+  "vote_average": 8.179,
+  "vote_count": 674,
+  "external_ids": {
+    "id": 42916,
+    "imdb_id": "tt1279024",
+    "freebase_mid": "/m/0j_z36k",
+    "freebase_id": null,
+    "tvdb_id": 83277,
+    "tvrage_id": null,
+    "wikidata_id": "Q61400349",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

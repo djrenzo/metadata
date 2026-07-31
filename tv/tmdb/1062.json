@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/snDkDNYn9noRysBWWFuBaEqV1V0.jpg",
+  "created_by": [
+    {
+      "id": 1872262,
+      "credit_id": "525414dd19c295794036ca2a",
+      "name": "James Barnett",
+      "original_name": "James Barnett",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1214654,
+      "credit_id": "525414dd19c295794036ca30",
+      "name": "Ed James",
+      "original_name": "Ed James",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 55896,
+      "credit_id": "525414dd19c295794036ca24",
+      "name": "Seaman Jacobs",
+      "original_name": "Seaman Jacobs",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1965-09-14",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 1062,
+  "in_production": false,
+  "languages": [
+    "en",
+    "it"
+  ],
+  "last_air_date": "1967-04-06",
+  "last_episode_to_air": {
+    "id": 55613,
+    "name": "Is This Fort Really Necessary?",
+    "overview": "An efficiency expert comes to Fort Courage, with the authority to close it down.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1967-04-06",
+    "episode_number": 31,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 1062,
+    "still_path": "/krbC1WPvI6HiFTVPO8X9K0mMsYE.jpg"
+  },
+  "name": "F Troop",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 65,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "F Troop",
+  "overview": "F Troop is a satirical American television sitcom that originally aired for two seasons on ABC-TV. It debuted in the United States on September 14, 1965 and concluded its run on April 6, 1967 with a total of 65 episodes. The first season of 34 episodes was filmed in black-and-white, but the show switched to color for its second season.",
+  "popularity": 9.6559,
+  "poster_path": "/4pwrqRLkkpizrF9baXw7MVVzgri.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 3013,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-14",
+      "episode_count": 34,
+      "id": 3012,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/y0kDK9gHsjCT79gophRcgLWZ2RY.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1966-09-08",
+      "episode_count": 31,
+      "id": 3011,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lGoKoHrBoxhxG0hu2YwYAISZxYz.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.306,
+  "vote_count": 31,
+  "external_ids": {
+    "id": 1062,
+    "imdb_id": "tt0058800",
+    "freebase_mid": "/m/02n5sj",
+    "freebase_id": "/en/f_troop",
+    "tvdb_id": 73154,
+    "tvrage_id": null,
+    "wikidata_id": "Q518816",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

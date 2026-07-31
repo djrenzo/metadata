@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2006-11-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "",
+  "id": 130382,
+  "in_production": false,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2007-07-25",
+  "last_episode_to_air": {
+    "id": 5191623,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2007-07-25",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 1,
+    "show_id": 130382,
+    "still_path": null
+  },
+  "name": "Последний бронепоезд",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 558,
+      "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+      "name": "Channel One",
+      "origin_country": "RU"
+    },
+    {
+      "id": 1258,
+      "logo_path": "/1U8FtJNwKMiUITng9A6pOY6jnt7.png",
+      "name": "TV-3",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "RU",
+    "BY"
+  ],
+  "original_language": "ru",
+  "original_name": "Последний бронепоезд",
+  "overview": "",
+  "popularity": 11.1036,
+  "poster_path": "/1Wt1CSg0rBLsvu33DgrMd2S6IMU.jpg",
+  "production_companies": [
+    {
+      "id": 158417,
+      "logo_path": null,
+      "name": "BelPartner TV",
+      "origin_country": "BY"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BY",
+      "name": "Belarus"
+    },
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-11-27",
+      "episode_count": 6,
+      "id": 204442,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1Wt1CSg0rBLsvu33DgrMd2S6IMU.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 130382,
+    "imdb_id": "tt0479620",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q4373771",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

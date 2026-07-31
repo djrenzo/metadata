@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/y1NtXk3YzmXOIqEBtwjojONPjqT.jpg",
+  "created_by": [
+    {
+      "id": 111119,
+      "credit_id": "58662cf8c3a36852d2027718",
+      "name": "Matthew Miller",
+      "original_name": "Matthew Miller",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1236672,
+      "credit_id": "68dd7fbec99913e8d0bb1e11",
+      "name": "Jeff Astrof",
+      "original_name": "Jeff Astrof",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2017-03-14",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.nbc.com/trial-and-error",
+  "id": 69320,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-08-23",
+  "last_episode_to_air": {
+    "id": 1545131,
+    "name": "Barcelona",
+    "overview": "As Jesse Ray Beaumont's trial begins, the team struggles to keep him under control while they discover more of Lavinia's secrets. Now that the baby is born and awaiting the DA election results, Carol Anne discovers who is the baby's father.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2018-08-23",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 69320,
+    "still_path": "/g5zcE6CwkizaeVo5NXWLI7IkKZB.jpg"
+  },
+  "name": "Trial & Error",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 23,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Trial & Error",
+  "overview": "A bright-eyed New York lawyer takes his first big case defending an eccentric poetry professor accused of murdering his wife.",
+  "popularity": 10.1382,
+  "poster_path": "/6CwHR4Ni2BybeiXzBMAOtlNfvkB.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 43400,
+      "logo_path": null,
+      "name": "Bar-Gene Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 79326,
+      "logo_path": null,
+      "name": "Good Session",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-14",
+      "episode_count": 13,
+      "id": 83241,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nkjqn6hStIORIxOo74oW9C8ZJti.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2018-07-19",
+      "episode_count": 10,
+      "id": 105612,
+      "name": "Lady, Killer",
+      "overview": "The second season centers on bright-eyed New York lawyer Josh Segal, still relatively a newcomer in a tiny southern town, who is sturdily posed for his next big case there. His mission? To defend the eccentric first lady of East Peck, Lavinia Peck-Foster, known for her flamboyant outfits, large hats and hairless cat, and who suddenly finds herself accused of the bizarre murder of her beloved husband.",
+      "poster_path": "/8o9taPRFH6TXCFDhjO3zKHiN034.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Their first case is a real killer",
+  "type": "Scripted",
+  "vote_average": 7.018,
+  "vote_count": 57,
+  "external_ids": {
+    "id": 69320,
+    "imdb_id": "tt5511512",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 311969,
+    "tvrage_id": null,
+    "wikidata_id": "Q24055971",
+    "facebook_id": "NBCTrialAndError",
+    "instagram_id": "nbctrialanderror",
+    "twitter_id": "trialanderror"
+  }
+}

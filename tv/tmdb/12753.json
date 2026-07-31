@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/8alFjeOyoQkmtIhHpX3mBGx11LD.jpg",
+  "created_by": [
+    {
+      "id": 1232847,
+      "credit_id": "53304bf1c3a3685fb30068af",
+      "name": "Inés Rodena",
+      "original_name": "Inés Rodena",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "1987-07-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 12753,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1991-05-10",
+  "last_episode_to_air": {
+    "id": 1032568,
+    "name": "Episode 99",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1991-05-10",
+    "episode_number": 99,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 1,
+    "show_id": 12753,
+    "still_path": null
+  },
+  "name": "Rosa Salvaje",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 99,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Rosa Salvaje",
+  "overview": "The drama tells the story of Rosa, who lives with her godmother in a very poor neighborhood; she is a simple girl who dresses like a boy. She was abandoned by her mother, Paulette. One day, Rosa goes to a mansion to steal apples and meets the owner of the house, Ricardo.",
+  "popularity": 10.151,
+  "poster_path": "/c0XBhm6lPEk5VMZ38zsWvlgqBkZ.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-07-06",
+      "episode_count": 99,
+      "id": 23660,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7Kvn8Ls4l8nuNGdlXe6OpRmHSzJ.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 160,
+  "external_ids": {
+    "id": 12753,
+    "imdb_id": "tt0211858",
+    "freebase_mid": "/m/0737c_",
+    "freebase_id": "/en/rosa_salvaje",
+    "tvdb_id": 168751,
+    "tvrage_id": null,
+    "wikidata_id": "Q708018",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

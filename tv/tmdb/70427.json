@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2013-02-28",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.nakrawedzi.polsat.pl",
+  "id": 70427,
+  "in_production": false,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "2014-11-20",
+  "last_episode_to_air": {
+    "id": 1277054,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-11-20",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 2,
+    "show_id": 70427,
+    "still_path": "/1MOkrIXtXudi0tgnDZ8eAUDRZSa.jpg"
+  },
+  "name": "On the Edge",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 315,
+      "logo_path": "/9kTI3Ed7Lt5HlK1NyBk1pAanEHX.png",
+      "name": "Polsat",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "Na krawędzi",
+  "overview": "",
+  "popularity": 9.8825,
+  "poster_path": "/eoKxOQJN2TqzJSITfkDgPXagBO7.jpg",
+  "production_companies": [
+    {
+      "id": 56374,
+      "logo_path": null,
+      "name": "Baltmedia",
+      "origin_country": "PL"
+    },
+    {
+      "id": 21303,
+      "logo_path": "/iRswDaMLcipfyG8qSk4iLLjRQIq.png",
+      "name": "Polsat",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2013-02-28",
+      "episode_count": 13,
+      "id": 85530,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2rRGZr70bRZkt1ozPZesiLeloOH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-04",
+      "episode_count": 13,
+      "id": 85481,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/o7kMegCN515G7c9e5bfoG4BT4j5.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 70427,
+    "imdb_id": "tt2729546",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 268305,
+    "tvrage_id": null,
+    "wikidata_id": "Q11788501",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

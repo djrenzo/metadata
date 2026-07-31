@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/5xryckgoAnJC0t8O9RjHs0YIBaQ.jpg",
+  "created_by": [
+    {
+      "id": 38023,
+      "credit_id": "52571e78760ee3776a1d6fc6",
+      "name": "Michael Patrick King",
+      "original_name": "Michael Patrick King",
+      "gender": 2,
+      "profile_path": "/oSSgEuyYBhPbwR8FF4ayrVI6EU0.jpg"
+    },
+    {
+      "id": 14406,
+      "credit_id": "69c0d993060efdd1e31b0e8a",
+      "name": "Lisa Kudrow",
+      "original_name": "Lisa Kudrow",
+      "gender": 1,
+      "profile_path": "/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-06-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.hbo.com/content/the-comeback",
+  "id": 1999,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-10",
+  "last_episode_to_air": {
+    "id": 6990163,
+    "name": "Valerie Cherish",
+    "overview": "Urged by NuNet to make a public statement in defense of AI, Valerie contemplates her future...with or without How's That?!",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-10",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 3,
+    "show_id": 1999,
+    "still_path": "/felOR8FKl7uzFB7oF37BbmX1WAu.jpg"
+  },
+  "name": "The Comeback",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Comeback",
+  "overview": "For Valerie Cherish, no price is too high to pay for clinging to the spotlight. Desperate to revive her career, she agrees to star in a reality TV series, allowing cameras to follow her every move as she lands a part on a new network sitcom.",
+  "popularity": 10.5185,
+  "poster_path": "/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 36081,
+      "logo_path": null,
+      "name": "Is or Isn't Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 266501,
+      "logo_path": null,
+      "name": "Working Class Films",
+      "origin_country": ""
+    },
+    {
+      "id": 10614,
+      "logo_path": "/rcJBuKPxD8lm9c02G72OicEyiyU.png",
+      "name": "Michael Patrick King Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-08-01",
+      "episode_count": 2,
+      "id": 5940,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/lwj94b8DTDIWPNkVYf0cZl5ykRC.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-05",
+      "episode_count": 13,
+      "id": 5939,
+      "name": "Season 1",
+      "overview": "Valerie Cherish, a former sitcom “It Girl” attempting to revive her career by starring in a new series while allowing reality cameras to document every step of her return — with often disastrous and revealing results.",
+      "poster_path": "/gtSbzOXrnTL9by3AneOIqk5iiZO.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2014-11-09",
+      "episode_count": 8,
+      "id": 63278,
+      "name": "Season 2",
+      "overview": "Valerie Cherish, the embattled former sitcom star who, nearly a decade after her first attempt at a comeback, believes she has finally figured out how to reclaim her career — only to discover she hasn’t.",
+      "poster_path": "/sfcCybpLHVNhhQJDNuCmFk5THs9.jpg",
+      "season_number": 2,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2026-03-22",
+      "episode_count": 8,
+      "id": 462961,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/hzYtV4kp1jvb60tlenwUb4TqzMI.jpg",
+      "season_number": 3,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "It's time to face reality.",
+  "type": "Scripted",
+  "vote_average": 7.34,
+  "vote_count": 75,
+  "external_ids": {
+    "id": 1999,
+    "imdb_id": "tt0434672",
+    "freebase_mid": "/m/05pnbf",
+    "freebase_id": "/en/the_comeback",
+    "tvdb_id": 75383,
+    "tvrage_id": 5689,
+    "wikidata_id": "Q478037",
+    "facebook_id": "TheComebackHBO",
+    "instagram_id": null,
+    "twitter_id": "TheComebackHBO"
+  }
+}

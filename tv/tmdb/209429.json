@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/hgfVopReyLSiptlGFNLdsp3tu6c.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1965-04-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/archives/asadora/drama/d_005.html",
+  "id": 209429,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1966-04-02",
+  "last_episode_to_air": {
+    "id": 3930117,
+    "name": "Episode 310",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1966-04-02",
+    "episode_number": 310,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 209429,
+    "still_path": null
+  },
+  "name": "Tamayura",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 469,
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "name": "NHK G",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 310,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "たまゆら",
+  "overview": "The 5th NHK Asadora. Starring Chishuu Ryuu as an old man who begins to travel after he retires. From a story written for television by Yasunari Kawabata.",
+  "popularity": 9.538,
+  "poster_path": "/8UPhQg9DlVsbjq0XSFXvgzLEmVK.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1965-04-05",
+      "episode_count": 310,
+      "id": 307116,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8UPhQg9DlVsbjq0XSFXvgzLEmVK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 209429,
+    "imdb_id": "tt2294173",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q11271368",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

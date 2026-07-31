@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/je9fPvvkmc2TVRXpW45BGgNLGFj.jpg",
+  "created_by": [
+    {
+      "id": 227455,
+      "credit_id": "68a16059dc85777c8118c8ea",
+      "name": "Lisa Langseth",
+      "original_name": "Lisa Langseth",
+      "gender": 1,
+      "profile_path": "/q6M6RqiT4Z6ppWqgM4sPb2SMkgs.jpg"
+    }
+  ],
+  "episode_run_time": [
+    29
+  ],
+  "first_air_date": "2020-11-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81069541",
+  "id": 111743,
+  "in_production": false,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2022-06-16",
+  "last_episode_to_air": {
+    "id": 3787845,
+    "name": "Art, Love, Capitalism and the Courage to Change Their Conditions",
+    "overview": "The publishing agency becomes the spotlight of Stockholm's literary world. Doubtful of Sofie, Max gives her one final dare to test her feelings.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-16",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 34,
+    "season_number": 2,
+    "show_id": 111743,
+    "still_path": "/5AeJmsejxD4Ox5dEWZhErI42iWr.jpg"
+  },
+  "name": "Love & Anarchy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Kärlek & anarki",
+  "overview": "A married consultant and a young IT tech kick off a flirty game that challenges societal norms — and leads them to re-evaluate their entire lives.",
+  "popularity": 9.7906,
+  "poster_path": "/c8iN8MnIP27AbUkEPtI4DeCNJv9.jpg",
+  "production_companies": [
+    {
+      "id": 25297,
+      "logo_path": "/eBEOs6T0nVa8RKWmZbBWIvc4daL.png",
+      "name": "FLX",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-11-04",
+      "episode_count": 8,
+      "id": 166131,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2yEY5gT1HENZ6YDxtilw7hV4Xs6.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2022-06-16",
+      "episode_count": 8,
+      "id": 292539,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dcNT6UdRyvUEs3HpqIYsm5qP4oy.jpg",
+      "season_number": 2,
+      "vote_average": 6.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.138,
+  "vote_count": 254,
+  "external_ids": {
+    "id": 111743,
+    "imdb_id": "tt10888876",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 387697,
+    "tvrage_id": null,
+    "wikidata_id": "Q85782411",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

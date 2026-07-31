@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/oBnZDwQkL532otQPNHUqn7W2VYO.jpg",
+  "created_by": [
+    {
+      "id": 1319890,
+      "credit_id": "55f330e8c3a3686cfd000885",
+      "name": "Jamy Gourmaud",
+      "original_name": "Jamy Gourmaud",
+      "gender": 2,
+      "profile_path": "/nMeBnrw6Yk9s8B365amTZJ5dOgg.jpg"
+    },
+    {
+      "id": 1384477,
+      "credit_id": "55f330fd9251414e08000890",
+      "name": "Frédéric Courant",
+      "original_name": "Frédéric Courant",
+      "gender": 2,
+      "profile_path": "/osJi8KTgOyZtivKaWAmDeIqVMRg.jpg"
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "1993-09-19",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-3/c-est-pas-sorcier/",
+  "id": 39611,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2014-01-04",
+  "last_episode_to_air": {
+    "id": 2413713,
+    "name": "Episode 573",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-01-04",
+    "episode_number": 573,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 39611,
+    "still_path": "/ByaQ6TRqumogip8XQjgl5TbttX.jpg"
+  },
+  "name": "It's Not Rocket Science!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 573,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "C'est pas sorcier",
+  "overview": "C'est pas sorcier is a French educational television program that originally aired from November 5, 1994 to present.",
+  "popularity": 10.403,
+  "poster_path": "/5ZKtSzeRkztcixzqQjk3MUfXa9k.jpg",
+  "production_companies": [
+    {
+      "id": 139120,
+      "logo_path": null,
+      "name": "Riff International Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11244,
+      "logo_path": "/gCHH1xt3dKjlm9NuMPF9ekpPWD6.png",
+      "name": "France•3",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 15,
+      "id": 50957,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/pCdQ4KJUYYJ28e8JwUBtIOmfbrD.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-19",
+      "episode_count": 573,
+      "id": 160285,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mxRRyBh5hDrPSIlRjuMmgbjseAU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.941,
+  "vote_count": 17,
+  "external_ids": {
+    "id": 39611,
+    "imdb_id": "tt0350395",
+    "freebase_mid": "/m/0gvtxbl",
+    "freebase_id": null,
+    "tvdb_id": 81731,
+    "tvrage_id": null,
+    "wikidata_id": "Q497708",
+    "facebook_id": "cestpassorcier",
+    "instagram_id": null,
+    "twitter_id": "Cestpassorcier"
+  }
+}

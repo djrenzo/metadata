@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    24,
+    25
+  ],
+  "first_air_date": "1957-09-15",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 10990,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1962-06-26",
+  "last_episode_to_air": {
+    "id": 442182,
+    "name": "Curfew Shall Not Ring Tonight",
+    "overview": "Bentley's strict curfew prompts Kelly to move out. Bentley: John Forsythe. Ginger: Bernadette Withers.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1962-06-26",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 10990,
+    "still_path": null
+  },
+  "name": "Bachelor Father",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 157,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bachelor Father",
+  "overview": "Bachelor Father is an American sitcom starring John Forsythe, Noreen Corcoran, and Sammee Tong. The series first premiered on CBS in September 1957 before moving to NBC for the third season in 1959. The series' fifth and final season aired on ABC from 1961 to 1962. A total of 157 episodes were aired. The series was based on \"A New Girl in His Life\", which aired on General Electric Theater on May 26, 1957.\n\nBachelor Father is the only primetime series ever to run in consecutive years on the three major televisions networks.",
+  "popularity": 9.4898,
+  "poster_path": "/knAE7Of58hD1EYytaY2CMeBK7Vg.jpg",
+  "production_companies": [
+    {
+      "id": 174628,
+      "logo_path": null,
+      "name": "Bachelor Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 10044,
+      "logo_path": null,
+      "name": "Revue Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1957-09-15",
+      "episode_count": 20,
+      "id": 21414,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-09-14",
+      "episode_count": 20,
+      "id": 21412,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-09-17",
+      "episode_count": 37,
+      "id": 21413,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-09-15",
+      "episode_count": 40,
+      "id": 21411,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-09-21",
+      "episode_count": 40,
+      "id": 21410,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 10990,
+    "imdb_id": "tt0049996",
+    "freebase_mid": "/m/08mtm6",
+    "freebase_id": null,
+    "tvdb_id": 77484,
+    "tvrage_id": 39,
+    "wikidata_id": "Q728473",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

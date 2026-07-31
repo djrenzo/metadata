@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/7medTY7P091FhkpX4cBZnjcffaV.jpg",
+  "created_by": [
+    {
+      "id": 221032,
+      "credit_id": "59d5950b9251417f7f0051f4",
+      "name": "Patrick Brammall",
+      "original_name": "Patrick Brammall",
+      "gender": 2,
+      "profile_path": "/l4IlGBxkYcCwqtfuKfWyHa9JCn6.jpg"
+    },
+    {
+      "id": 1539690,
+      "credit_id": "59d59539c3a36831dd00530a",
+      "name": "Trent O'Donnell",
+      "original_name": "Trent O'Donnell",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    28
+  ],
+  "first_air_date": "2017-11-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/no-activity/",
+  "id": 74317,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-05-27",
+  "last_episode_to_air": {
+    "id": 2980398,
+    "name": "Breaking Bread",
+    "overview": "After reuniting, Cullen and Tolbeck realize they have information that could take down The Collective.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-05-27",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 28,
+    "season_number": 4,
+    "show_id": 74317,
+    "still_path": null
+  },
+  "name": "No Activity",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1709,
+      "logo_path": "/rSWD2WoY26KJmOw7QHvZjC5OEWG.png",
+      "name": "CBS All Access",
+      "origin_country": "US"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+      "name": "Paramount+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "No Activity",
+  "overview": "Set against the backdrop of a major drug cartel bust, the series follows two low-level cops who have spent far too much time in a car together, two criminals who are largely kept in the dark, two dispatch workers who haven't really clicked and two Mexican tunnelers who are in way too small a space considering they've only just met.",
+  "popularity": 10.7905,
+  "poster_path": "/qQTmlqa0jlaMxQ2FZXkKAcMP547.jpg",
+  "production_companies": [
+    {
+      "id": 4740,
+      "logo_path": "/20IuOPEwlHRXnn0MTOsEmw0wcql.png",
+      "name": "Gary Sanchez Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21213,
+      "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+      "name": "Funny or Die",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 68509,
+      "logo_path": "/wh3STJlJupw2o3LZBIFJvPLrjra.png",
+      "name": "Jungle Entertainment",
+      "origin_country": "AU"
+    },
+    {
+      "id": 212123,
+      "logo_path": null,
+      "name": "Flight School Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-11-11",
+      "episode_count": 8,
+      "id": 93618,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tp5VwIAkF9ND3dQqBDvHc4IpCbR.jpg",
+      "season_number": 1,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2018-11-22",
+      "episode_count": 8,
+      "id": 113273,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/oLvYV4Z4pHaaVlTGHZMnnZQi6WS.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2019-11-21",
+      "episode_count": 8,
+      "id": 136214,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/yYowJfRWCQuIYdOUBtUfh9TdsOh.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2021-04-08",
+      "episode_count": 8,
+      "id": 184183,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/y9y4VOR6C5pvF9WiAzbWzNkTRss.jpg",
+      "season_number": 4,
+      "vote_average": 1.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Sh*t happens. Eventually.",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 28,
+  "external_ids": {
+    "id": 74317,
+    "imdb_id": "tt7230846",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 335840,
+    "tvrage_id": null,
+    "wikidata_id": "Q45161655",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

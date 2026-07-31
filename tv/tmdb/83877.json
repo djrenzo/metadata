@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": "/djgU0RJGMrAeIilNJagM6YdGC7O.jpg",
+  "created_by": [
+    {
+      "id": 49505,
+      "credit_id": "5be5b90e0e0a2614ba0457d5",
+      "name": "Roland Topor",
+      "original_name": "Roland Topor",
+      "gender": 2,
+      "profile_path": "/AwrJsLOQcZAb5qXsqOEN55BAjla.jpg"
+    },
+    {
+      "id": 560042,
+      "credit_id": "5be5b9349251415c72045380",
+      "name": "Henri Xhonneux",
+      "original_name": "Henri Xhonneux",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "1983-10-03",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 83877,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1986-03-03",
+  "last_episode_to_air": {
+    "id": 1614986,
+    "name": "Episode 78",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-03-03",
+    "episode_number": 78,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 5,
+    "season_number": 3,
+    "show_id": 83877,
+    "still_path": null
+  },
+  "name": "Telecat",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1386,
+      "logo_path": "/wg1pCknEXzT2MNyJd9iDbpLGHxg.png",
+      "name": "La Une",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1130,
+      "logo_path": "/1JnQqStddzcIoa6XYB7LqJbLx01.png",
+      "name": "Antenne 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 234,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Téléchat",
+  "overview": "Created by French surrealist artist Roland Topor and director Henri Xhonneux,  Telecat is a news show parody hosted by a tomcat named Groucha (who always had his arm in plaster) and an ostrich named Lola. It featured a variety of sentient objects and revolved around the idea that the real-life elementary particles known as gluons were “the souls of objects”.",
+  "popularity": 8.5053,
+  "poster_path": "/7Z7hdtZF16I4uFpF6a2ZgRcKFbt.jpg",
+  "production_companies": [
+    {
+      "id": 1117,
+      "logo_path": "/2X2uFeObxawiAajNDOf3Mhri5Wg.png",
+      "name": "Antenne 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 144316,
+      "logo_path": null,
+      "name": "Chanowski Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 26614,
+      "logo_path": null,
+      "name": "YC Alligator Film",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-10-03",
+      "episode_count": 78,
+      "id": 112267,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pFLcf3UGWSTxHILIYBBZPBHXF0B.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-11-26",
+      "episode_count": 78,
+      "id": 112271,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/73vNxYvU2n6AlbQSisQzxXwSi3i.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-11-14",
+      "episode_count": 78,
+      "id": 112272,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/evKmoZZbmzZTiVFEWRR61UTvnPV.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.938,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 83877,
+    "imdb_id": "tt0294210",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 257185,
+    "tvrage_id": null,
+    "wikidata_id": "Q1216222",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

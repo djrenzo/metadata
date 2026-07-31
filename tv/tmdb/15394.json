@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/lkorYj7VWSY34IVeyLE3cb81DVA.jpg",
+  "created_by": [
+    {
+      "id": 1213885,
+      "credit_id": "5258397c760ee36aaa97b69f",
+      "name": "Michael G. Moye",
+      "original_name": "Michael G. Moye",
+      "gender": 2,
+      "profile_path": "/9R5OTR84brCIalYL94s4gsUL565.jpg"
+    },
+    {
+      "id": 1228401,
+      "credit_id": "5258397c760ee36aaa97b6a5",
+      "name": "Ron Leavitt",
+      "original_name": "Ron Leavitt",
+      "gender": 2,
+      "profile_path": "/6OpKNuGNiowTEkmC4oUeXm1lIyv.jpg"
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2006-05-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.mega.cl/programas/casado-con-hijos/capitulos/",
+  "id": 15394,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2023-10-13",
+  "last_episode_to_air": {
+    "id": 4838968,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-10-13",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 5,
+    "show_id": 15394,
+    "still_path": null
+  },
+  "name": "Casado con hijos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 291,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Casado con hijos",
+  "overview": "The life of a crazy family of Chilean middle class. Based on the original US comedy \"Married... with Children\" (1987-1997) but with local twists.",
+  "popularity": 8.7818,
+  "poster_path": "/304bJ0JYswa7iDTuIUajFAjWV6Y.jpg",
+  "production_companies": [
+    {
+      "id": 55502,
+      "logo_path": null,
+      "name": "Roos Film",
+      "origin_country": "CL"
+    },
+    {
+      "id": 71657,
+      "logo_path": null,
+      "name": "Picardia Films",
+      "origin_country": "CL"
+    },
+    {
+      "id": 86203,
+      "logo_path": "/o9jUAJJd1wc4Hg1cvp85kXMcCKD.png",
+      "name": "Sony Pictures Television International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-05-01",
+      "episode_count": 72,
+      "id": 71820,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-02",
+      "episode_count": 63,
+      "id": 125375,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-12",
+      "episode_count": 98,
+      "id": 125376,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-16",
+      "episode_count": 26,
+      "id": 125377,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-10",
+      "episode_count": 32,
+      "id": 331173,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/304bJ0JYswa7iDTuIUajFAjWV6Y.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 15394,
+    "imdb_id": "tt0816371",
+    "freebase_mid": "/m/03cbp_w",
+    "freebase_id": "/en/casado_con_hijos",
+    "tvdb_id": 366694,
+    "tvrage_id": null,
+    "wikidata_id": "Q5047989",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

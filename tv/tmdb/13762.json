@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/5zPKoN4Y8e7gncEqJkgTUjb6ayi.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "1961-04-03",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/minna/",
+  "id": 13762,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1971-03-31",
+  "last_episode_to_air": {
+    "id": 7426135,
+    "name": "Episode 33",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1971-03-31",
+    "episode_number": 33,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 5,
+    "season_number": 2,
+    "show_id": 13762,
+    "still_path": null
+  },
+  "name": "Minna no Uta (みんなのうた)",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2334,
+      "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 384,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "みんなのうた",
+  "overview": "Minna no Uta, literally Everyone's Songs, is a five minute NHK TV and radio program broadcasting several times daily since 1961. The program is generally used as filler at the end of regular television programs. While many of the episodes are aimed at children, a large percentage are not, so the program enjoys a wide audience.\n\nThe program is used to introduce new songs from popular and new singers, as well as to highlight the talents of various animators and directors. A list of upcoming and currently-airing episodes is listed monthly in magazines such as Animage and Newtype.",
+  "popularity": 8.6795,
+  "poster_path": "/qEFyL7U9XKAe1AlsMu5AArx1jxp.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1961-04-03",
+      "episode_count": 351,
+      "id": 522284,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-05-31",
+      "episode_count": 33,
+      "id": 523725,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Video",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 13762,
+    "imdb_id": null,
+    "freebase_mid": "/m/0fjs5r",
+    "freebase_id": "/en/minna_no_uta",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/qI1vDGKZ0LJ9F6PB9a4Ze3L2d4Y.jpg",
+  "created_by": [
+    {
+      "id": 2436790,
+      "credit_id": "636a584fd4cc8e0083aed5f8",
+      "name": "Hugo Gittard",
+      "original_name": "Hugo Gittard",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2022-05-09",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://xilam.com/en/media/karate-sheep/",
+  "id": 214091,
+  "in_production": true,
+  "languages": [
+    "xx"
+  ],
+  "last_air_date": "2023-08-31",
+  "last_episode_to_air": {
+    "id": 4140963,
+    "name": "Animal Tracks",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-08-31",
+    "episode_number": 78,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 1,
+    "show_id": 214091,
+    "still_path": null
+  },
+  "name": "Karate Sheep",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 522,
+      "logo_path": "/nDiZSdUQvqiAUROq6DubHA5pLDd.png",
+      "name": "Super RTL",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 91,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "xx",
+  "original_name": "Karate Sheep",
+  "overview": "Trico is an enthusiastic sheep who loves to share new objects and ideas with the rest of the flock. This causes ruckus in the mountain pastures, which all inevitably end up at Wanda’s expense, a tough ewe whose job is to keep the sheep safe. Not a small feat, especially when Wolf is always lurking, waiting to make the most of this newfound chaos.",
+  "popularity": 10.3386,
+  "poster_path": "/oHNb5bEHkgKrPpSVEbMpneiV8uy.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2022-05-09",
+      "episode_count": 78,
+      "id": 315682,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2kDfNskWc7bVWoNIWE9mxtpX1hH.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2022-10-07",
+      "episode_count": 13,
+      "id": 355610,
+      "name": "Season 2",
+      "overview": "Two clever sheep use karate and high-tech gadgets to protect their flock from a hungry wolf who's determined to make them all his dinner.",
+      "poster_path": "/2JCdLMOJtS6YPcn2LDXOHmly2QE.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Ready to be wooled?",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 214091,
+    "imdb_id": "tt26238218",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 419981,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

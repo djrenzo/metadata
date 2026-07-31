@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/A30OGTxVIc0L44oRf6kFZTQK5xm.jpg",
+  "created_by": [
+    {
+      "id": 136840,
+      "credit_id": "642fa76367203d00bdcf5482",
+      "name": "Nicolas Freeling",
+      "original_name": "Nicolas Freeling",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1972-09-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12345,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1992-02-19",
+  "last_episode_to_air": {
+    "id": 479560,
+    "name": "Still Waters",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1992-02-19",
+    "episode_number": 3,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 103,
+    "season_number": 5,
+    "show_id": 12345,
+    "still_path": null
+  },
+  "name": "Van der Valk",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Van der Valk",
+  "overview": "Van der Valk is a British television series that was produced by Thames Television for the ITV network. It starred Barry Foster in the title role as Dutch detective Commissaris \"Piet\" van der Valk. Based on the characters and atmosphere of the novels of Nicolas Freeling, the first series was shown in 1972.",
+  "popularity": 9.9788,
+  "poster_path": "/7cSyT7qrAVHOdiaUqcZAdj4Jny1.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1972-09-13",
+      "episode_count": 6,
+      "id": 23150,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-08-29",
+      "episode_count": 7,
+      "id": 23151,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1977-09-05",
+      "episode_count": 12,
+      "id": 23152,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-16",
+      "episode_count": 4,
+      "id": 23153,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1992-02-05",
+      "episode_count": 3,
+      "id": 23154,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 12345,
+    "imdb_id": "tt0149540",
+    "freebase_mid": "/m/06b230",
+    "freebase_id": "/en/van_der_valk",
+    "tvdb_id": 78290,
+    "tvrage_id": null,
+    "wikidata_id": "Q1269958",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

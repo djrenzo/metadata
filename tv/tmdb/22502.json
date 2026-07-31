@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1965-01-04",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 22502,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1965-11-05",
+  "last_episode_to_air": {
+    "id": 612088,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1965-11-05",
+    "episode_number": 220,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 22502,
+    "still_path": null
+  },
+  "name": "Moment of Truth",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/zjgqkIvBURbwoHbHhmnzaTFyZgR.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 220,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Moment of Truth",
+  "overview": "Clinical psychologist Dr. Robert Wallace operates a private practice and teaches at the local university.",
+  "popularity": 8.9961,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1965-01-04",
+      "episode_count": 220,
+      "id": 32434,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 22502,
+    "imdb_id": "tt0058827",
+    "freebase_mid": "/m/07cdy52",
+    "freebase_id": "/en/moment_of_truth_us",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6897147",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

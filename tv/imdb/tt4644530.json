@@ -87,16 +87,9 @@
     {
       "department": "Directing",
       "job": "Director",
-      "name": "Maria de Médicis",
+      "name": "Cristiano Marques",
       "profile_path": null,
-      "id": 2144590
-    },
-    {
-      "department": "Directing",
-      "job": "Director",
-      "name": "Pedro Peregrino",
-      "profile_path": null,
-      "id": 2220758
+      "id": 1943998
     },
     {
       "department": "Directing",
@@ -108,6 +101,13 @@
     {
       "department": "Directing",
       "job": "Director",
+      "name": "Pedro Peregrino",
+      "profile_path": null,
+      "id": 2220758
+    },
+    {
+      "department": "Directing",
+      "job": "Director",
       "name": "Giovanna Machline",
       "profile_path": null,
       "id": 2206246
@@ -115,9 +115,9 @@
     {
       "department": "Directing",
       "job": "Director",
-      "name": "Cristiano Marques",
+      "name": "Maria de Médicis",
       "profile_path": null,
-      "id": 1943998
+      "id": 2144590
     },
     {
       "department": "Directing",
@@ -128,11 +128,11 @@
     }
   ],
   "director": [
-    "Maria de Médicis",
-    "Pedro Peregrino",
-    "Luisa Lima",
-    "Giovanna Machline",
     "Cristiano Marques",
+    "Luisa Lima",
+    "Pedro Peregrino",
+    "Giovanna Machline",
+    "Maria de Médicis",
     "Vinicius Coimbra"
   ],
   "videos": [

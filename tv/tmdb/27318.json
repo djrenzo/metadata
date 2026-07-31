@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/gIXG4e2T8LmQckDlWnNjaBIt7GL.jpg",
+  "created_by": [
+    {
+      "id": 1252346,
+      "credit_id": "5f875b6c8258fc0034abeffa",
+      "name": "Steve Borst",
+      "original_name": "Steve Borst",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2815340,
+      "credit_id": "5f875bd7d4b9d9003826676d",
+      "name": "Gary Doodles",
+      "original_name": "Gary Doodles",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2014-02-17",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "http://www.nick.com/shows/breadwinners/?xid=paid-google",
+  "id": 27318,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-09-12",
+  "last_episode_to_air": {
+    "id": 2986154,
+    "name": "Tooth Fairy Ducks",
+    "overview": "After accidentally taking the Tooth Fairy out of action, SwaySway and Buhdeuce have to level up into Tooth Fairy Ducks.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-09-12",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 2,
+    "show_id": 27318,
+    "still_path": null
+  },
+  "name": "Breadwinners",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    },
+    {
+      "id": 224,
+      "logo_path": "/xlUUkgMevNvnKXcZ5z7F6R2CaGw.png",
+      "name": "Nicktoons",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 77,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Breadwinners",
+  "overview": "Two ducks fly around in a rocket-powered van, delivering bread to other ducks in Pondgea.",
+  "popularity": 10.0135,
+  "poster_path": "/eOWAf4jeNPQX2JLMdJ3T1ad1kqR.jpg",
+  "production_companies": [
+    {
+      "id": 4152,
+      "logo_path": "/v4eshD4MhQ1gBOBptaYTIuUzzaG.png",
+      "name": "Titmouse",
+      "origin_country": "US"
+    },
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-02-17",
+      "episode_count": 38,
+      "id": 38226,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o5gwCLChn7Y6zrGQZFsdrf8XT5u.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-05",
+      "episode_count": 39,
+      "id": 140159,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hH8B36PrJ2Y3PsxSjML8TkbuHe8.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.455,
+  "vote_count": 44,
+  "external_ids": {
+    "id": 27318,
+    "imdb_id": "tt3481544",
+    "freebase_mid": "/m/07cgsb_",
+    "freebase_id": null,
+    "tvdb_id": 278482,
+    "tvrage_id": null,
+    "wikidata_id": "Q15830438",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/ixChl5jeDTc9mWnWtqMJwhadxSS.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2022-06-03",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://program.imbc.com/DOCTORLAWYER",
+  "id": 196906,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2022-07-23",
+  "last_episode_to_air": {
+    "id": 3646201,
+    "name": "Episode 16",
+    "overview": "Jayden takes revenge on Jingi. One year later, Yihan faces a retrial.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2022-07-23",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 72,
+    "season_number": 1,
+    "show_id": 196906,
+    "still_path": "/n5o8OTu8efa7f5rFBqvkdEsXpZK.jpg"
+  },
+  "name": "Doctor Lawyer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "닥터로이어",
+  "overview": "The heartwarming story of a genius surgeon who becomes a lawyer specializing in medical crimes after losing a patient to a surgical malpractice. Cathartic and suspenseful, this medical and legal drama paints the courtroom like an operating room, where a life may end or be given a fresh start.",
+  "popularity": 9.9573,
+  "poster_path": "/scDumcueQr2Cy5nh2s7xI6hTYOk.jpg",
+  "production_companies": [
+    {
+      "id": 126844,
+      "logo_path": "/2P8CGfuKPbvmgSJh5437TcrxwJ2.png",
+      "name": "MONGJAKSO",
+      "origin_country": "KR"
+    },
+    {
+      "id": 113206,
+      "logo_path": "/vGQkaberSfjePmaPRfTPXkeT9pT.png",
+      "name": "Celltrion Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-06-03",
+      "episode_count": 16,
+      "id": 286452,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/scDumcueQr2Cy5nh2s7xI6hTYOk.jpg",
+      "season_number": 1,
+      "vote_average": 9.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.167,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 196906,
+    "imdb_id": "tt20854190",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 406205,
+    "tvrage_id": null,
+    "wikidata_id": "Q110420048",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

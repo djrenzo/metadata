@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
+  "created_by": [
+    {
+      "id": 1392152,
+      "credit_id": "6824f2b320415f9e284b501f",
+      "name": "Dan Levy",
+      "original_name": "Dan Levy",
+      "gender": 2,
+      "profile_path": "/2O9KqgCLHHMw5xmUpNexfWr2QVA.jpg"
+    },
+    {
+      "id": 1976054,
+      "credit_id": "6824f2b8ddf6d9999cad9ebc",
+      "name": "Rachel Sennott",
+      "original_name": "Rachel Sennott",
+      "gender": 1,
+      "profile_path": "/zvx8lP4p3gvijQLg235e3xjxrFG.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-04-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81734605",
+  "id": 291506,
+  "in_production": true,
+  "languages": [
+    "en",
+    "tr"
+  ],
+  "last_air_date": "2026-04-09",
+  "last_episode_to_air": {
+    "id": 7037202,
+    "name": "Rock, Paper, Scissors",
+    "overview": "Morgan and Nicky brace for blowback from the Miami operation as their family, friends and some unwelcome faces converge around the election results.",
+    "vote_average": 7.5,
+    "vote_count": 4,
+    "air_date": "2026-04-09",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 38,
+    "season_number": 1,
+    "show_id": 291506,
+    "still_path": "/oMXdH26pjtEN6CYLWpFGla4z6iN.jpg"
+  },
+  "name": "Big Mistakes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Big Mistakes",
+  "overview": "Blackmailed into working for some very dangerous people, two deeply incapable siblings become the most disorganized duo in organized crime.",
+  "popularity": 9.6834,
+  "poster_path": "/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg",
+  "production_companies": [
+    {
+      "id": 182126,
+      "logo_path": "/eVmfXFe4BRy42AJxKVd48EURKO3.png",
+      "name": "Not a Real Production Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-04-09",
+      "episode_count": 8,
+      "id": 456457,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lhYFCM8dwz22skNS1m3usrqaR4g.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Partners in disorganized crime.",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 48,
+  "external_ids": {
+    "id": 291506,
+    "imdb_id": "tt36957934",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 466852,
+    "tvrage_id": null,
+    "wikidata_id": "Q135984985",
+    "facebook_id": null,
+    "instagram_id": "bigmistakesofficial",
+    "twitter_id": null
+  }
+}

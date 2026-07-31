@@ -1,0 +1,148 @@
+{
+  "adult": false,
+  "backdrop_path": "/1gGqDyfSAkoXENPSvSYXxBTePT9.jpg",
+  "created_by": [
+    {
+      "id": 1657998,
+      "credit_id": "579a3d07c3a3680ee3003da8",
+      "name": "Katja Blichfeld",
+      "original_name": "Katja Blichfeld",
+      "gender": 1,
+      "profile_path": "/98zvRJKNQotMwV7E2rI1LfsSh3O.jpg"
+    },
+    {
+      "id": 1410040,
+      "credit_id": "579a3d0c92514112960038c6",
+      "name": "Ben Sinclair",
+      "original_name": "Ben Sinclair",
+      "gender": 2,
+      "profile_path": "/1t4dqFzBbRbx6cEPBAu5JhNLB7W.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2016-09-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.hbo.com/high-maintenance",
+  "id": 67243,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-04-03",
+  "last_episode_to_air": {
+    "id": 2188798,
+    "name": "Soup",
+    "overview": "Snowed-in flight attendants spend Christmas Eve together; The Guy is delayed on his way home for the holidays.",
+    "vote_average": 5.2,
+    "vote_count": 6,
+    "air_date": "2020-04-03",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 67243,
+    "still_path": null
+  },
+  "name": "High Maintenance",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "High Maintenance",
+  "overview": "Jump into the daily routines of a diverse group of New Yorkers and how they light things up. “The Guy” is a nameless pot deliveryman whose client base includes an eccentric group of characters with neuroses as diverse as the city.",
+  "popularity": 11.2272,
+  "poster_path": "/qmYqwOW0QTkJy1UGUsM2t0Kowpu.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-16",
+      "episode_count": 6,
+      "id": 78839,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/iv5B3daXcmtOqGUvz5xaV6HcYhd.jpg",
+      "season_number": 1,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2018-01-19",
+      "episode_count": 10,
+      "id": 97066,
+      "name": "Season 2",
+      "overview": "Season two delves deeper into the contemporary anxieties New Yorkers are experiencing, from political tension to soaring real estate prices, while emphasizing the importance of savoring the highs of life in this increasingly volatile world. Pulling back the curtain on The Guy’s personal life, this season reveals a few more people and details of what happens when he’s not on the clock.",
+      "poster_path": "/2AxWXd4rELTNaF3xy5Xni84ntYY.jpg",
+      "season_number": 2,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2019-01-20",
+      "episode_count": 9,
+      "id": 114788,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/1wmIS7wRsFFVwhVMsA2oi7K878h.jpg",
+      "season_number": 3,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2020-02-07",
+      "episode_count": 9,
+      "id": 137288,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/mNnAkSSIBl9p3VZsBUI81oxqvuA.jpg",
+      "season_number": 4,
+      "vote_average": 5.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Stay green.",
+  "type": "Scripted",
+  "vote_average": 6.908,
+  "vote_count": 152,
+  "external_ids": {
+    "id": 67243,
+    "imdb_id": "tt6078096",
+    "freebase_mid": "/m/0vps6w7",
+    "freebase_id": null,
+    "tvdb_id": 314324,
+    "tvrage_id": null,
+    "wikidata_id": "",
+    "facebook_id": "helpingyoumaintain",
+    "instagram_id": "helpingyoumaintain",
+    "twitter_id": "HMonHBO"
+  }
+}

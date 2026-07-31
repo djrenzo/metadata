@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": "/uTBTpezuUmjQqs7ISeouWgkkFQo.jpg",
+  "created_by": [
+    {
+      "id": 930175,
+      "credit_id": "53513a3dc3a3681da5001393",
+      "name": "Gert Verhulst",
+      "original_name": "Gert Verhulst",
+      "gender": 2,
+      "profile_path": "/1tTMxpvoSJXv9WMtYqy5vVkIOCz.jpg"
+    }
+  ],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "2012-09-03",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.hotel-13.com/nl/",
+  "id": 49948,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2014-03-28",
+  "last_episode_to_air": {
+    "id": 1563911,
+    "name": "Episode 56",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-03-28",
+    "episode_number": 56,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 2,
+    "show_id": 49948,
+    "still_path": null
+  },
+  "name": "Hotel 13",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 775,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 176,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BE",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Hotel 13",
+  "overview": "The story is about six vacationers Tom, Anna, Liv, Victoria, Flo, Lenny and Jack, who have jobs in hotel 13. Tom is an inventor who has been given the message to go to hotel 13 and find room 13. Anna and Liv help him with this. There they find a passage to a dusty room with a strange mechanical device. This turns out to be a time machine with which they can go back in time. But if they change something in the past, the future can be changed with it. Jack and Mr. Leopold are constantly on their heels and they want to find room 13 too.",
+  "popularity": 10.0508,
+  "poster_path": "/22NpRxAknAfwTKkNMjkSYRoaDM9.jpg",
+  "production_companies": [
+    {
+      "id": 25894,
+      "logo_path": "/eWzrltIBLOlLxc5FVKUcAcas3UM.png",
+      "name": "Studio 100",
+      "origin_country": "BE"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 120,
+      "id": 61692,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9XPkeALGJgYRzL5d5zoV2sJrozX.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-10",
+      "episode_count": 56,
+      "id": 87853,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qAvpFJXWZJAfReLMngApGBm3Cxn.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 49948,
+    "imdb_id": "tt2369684",
+    "freebase_mid": "/m/0vb50jn",
+    "freebase_id": null,
+    "tvdb_id": 263369,
+    "tvrage_id": null,
+    "wikidata_id": "Q71897",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

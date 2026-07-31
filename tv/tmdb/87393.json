@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/7aMoV1v6A8uwTRaGV8LHIBcVBuN.jpg",
+  "created_by": [
+    {
+      "id": 2068309,
+      "credit_id": "5c8054e8925141276c19a693",
+      "name": "Vicky Jones",
+      "original_name": "Vicky Jones",
+      "gender": 1,
+      "profile_path": "/mBGyLa10xOQuEEAng7Ei8ZaWOTG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2020-04-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.hbo.com/run",
+  "id": 87393,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-05-24",
+  "last_episode_to_air": {
+    "id": 2279101,
+    "name": "Trick",
+    "overview": "With the end of their journey approaching, Ruby and Billy consider their future together. Are they finally being honest with each other? Babe and Laurel are forced together as they follow a new lead. Season finale.",
+    "vote_average": 5.6,
+    "vote_count": 7,
+    "air_date": "2020-05-24",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 87393,
+    "still_path": "/L1I9k2dvF7DNCgT4TMAVSDnDSN.jpg"
+  },
+  "name": "RUN",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 7,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "RUN",
+  "overview": "Ruby is living a humdrum existence when one day she gets a text inviting her to fulfill a youthful pact, promising true love and self-reinvention, by stepping out of her life to take a journey with her oldest flame.",
+  "popularity": 9.3655,
+  "poster_path": "/rbYfDspa6vUTAxif5SZJABgB8pr.jpg",
+  "production_companies": [
+    {
+      "id": 8147,
+      "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+      "name": "Entertainment One",
+      "origin_country": "CA"
+    },
+    {
+      "id": 115620,
+      "logo_path": "/4MXKwA7QuPc9j2zTTLzvq2K2uIJ.png",
+      "name": "DryWrite",
+      "origin_country": "GB"
+    },
+    {
+      "id": 55142,
+      "logo_path": "/3C349xMrljgO8hK4bSYKKsL5OoX.png",
+      "name": "Wigwam Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-04-12",
+      "episode_count": 7,
+      "id": 119995,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ngrkV8HHq9LeJwqPRrv3Ww5I9V.jpg",
+      "season_number": 1,
+      "vote_average": 6.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Love is a three letter word.",
+  "type": "Scripted",
+  "vote_average": 6.484,
+  "vote_count": 186,
+  "external_ids": {
+    "id": 87393,
+    "imdb_id": "tt8045468",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 353882,
+    "tvrage_id": null,
+    "wikidata_id": "Q85419727",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

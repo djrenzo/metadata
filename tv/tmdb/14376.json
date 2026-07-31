@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/bZnI6ISwwheejWpVN4kOahZZYY2.jpg",
+  "created_by": [
+    {
+      "id": 60621,
+      "credit_id": "67c3c60e6466bd8ed24e0da1",
+      "name": "Jeff Franklin",
+      "original_name": "Jeff Franklin",
+      "gender": 2,
+      "profile_path": "/7oPqgDS1YCNSneqg2DlkquywEJE.jpg"
+    },
+    {
+      "id": 49908,
+      "credit_id": "67c3c615ab4da0b0d5b48221",
+      "name": "Steve Waterman",
+      "original_name": "Steve Waterman",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1992-09-28",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 14376,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1993-06-28",
+  "last_episode_to_air": {
+    "id": 6017002,
+    "name": "Lucky's 13th",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1993-06-28",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 14376,
+    "still_path": null
+  },
+  "name": "Stunt Dawgs",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 40,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Stunt Dawgs",
+  "overview": "Stunt Dawgs is an animated comedic adventure series about a team of stunt performers and their bulldog named Human who also solve problems heroically. The series was produced by DIC Entertainment and Rainforest Entertainment and co-created by Jeff Franklin, best known for co-producing Full House.\n\nA short-lived comic adaptation from Harvey Comics was written by Michael Gallagher and drawn by Nelson Dewey, who worked from scripts and model sheets from the series.",
+  "popularity": 9.5335,
+  "poster_path": "/qJ4RdGlTjS1U81kVUFqKnydEOW0.jpg",
+  "production_companies": [
+    {
+      "id": 58331,
+      "logo_path": null,
+      "name": "Franklin/Waterman Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1309,
+      "logo_path": "/gdsheJrD3lznh3O2qEPBDn54Anq.png",
+      "name": "Rainforest Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1242,
+      "logo_path": "/qOvcm1WCLlAdNoQ1kCkk2J7bhWk.png",
+      "name": "Reteitalia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 23490,
+      "logo_path": null,
+      "name": "Gestevisión Telecinco S.A.",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1992-09-28",
+      "episode_count": 40,
+      "id": 444699,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 14376,
+    "imdb_id": "tt0182640",
+    "freebase_mid": "/m/06336p",
+    "freebase_id": "/en/stunt_dawgs",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q3795101",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

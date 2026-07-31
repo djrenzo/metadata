@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/bcxdwh2mODxODzPtyiCZzfqpsAj.jpg",
+  "created_by": [
+    {
+      "id": 1542798,
+      "credit_id": "565c895792514145d600025b",
+      "name": "Peter Blackie",
+      "original_name": "Peter Blackie",
+      "gender": 2,
+      "profile_path": "/dOo5WEOGN75zWZgTRfSvbwLCLmd.jpg"
+    },
+    {
+      "id": 1251228,
+      "credit_id": "565c8961c3a3680a4100024f",
+      "name": "Rob Blackie",
+      "original_name": "Rob Blackie",
+      "gender": 2,
+      "profile_path": "/sS3jlsMhOXH8TrqEAqMcvG2quk1.jpg"
+    },
+    {
+      "id": 132876,
+      "credit_id": "581ec3219251410f4f014c32",
+      "name": "Brad Peyton",
+      "original_name": "Brad Peyton",
+      "gender": 2,
+      "profile_path": "/fJFxUT4CSUz047vlXdEBYIQjjFO.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2016-11-06",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80099656",
+  "id": 64555,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-12-21",
+  "last_episode_to_air": {
+    "id": 1605312,
+    "name": "The Sins of the Father",
+    "overview": "While the new alliance teeters on collapse, Sokanon's crusade leads to bloodshed. Harp invades Lord Benton's castle and faces a dark temptation.",
+    "vote_average": 6.667,
+    "vote_count": 6,
+    "air_date": "2018-12-21",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 3,
+    "show_id": 64555,
+    "still_path": "/bRF03LitOV2o1LG3RMNluq071sw.jpg"
+  },
+  "name": "Frontier",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 106,
+      "logo_path": "/cjw4Msu4fkMWOsV6LlA7x8ZOQ1l.png",
+      "name": "Discovery",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 18,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Frontier",
+  "overview": "In 18th-century North America, ruthless trappers and entrepreneurs fight to wrest control of the fur trade from the mighty Hudson's Bay Company.",
+  "popularity": 9.3656,
+  "poster_path": "/mhIeCeYgG4WJHNzaw2EyRpvmGX8.jpg",
+  "production_companies": [
+    {
+      "id": 105751,
+      "logo_path": null,
+      "name": "ASAP Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 167393,
+      "logo_path": null,
+      "name": "Take the Shot Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-11-06",
+      "episode_count": 6,
+      "id": 72363,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9jLBC9fOUoXNRehMqSJn4aJteoy.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2017-10-18",
+      "episode_count": 6,
+      "id": 93023,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/prArCMjvmFUO1k4z8EiwZBms34F.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2018-12-07",
+      "episode_count": 6,
+      "id": 111585,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/qDg8K9cEdSSMwUbAwT8WLGTW1EC.jpg",
+      "season_number": 3,
+      "vote_average": 6.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.817,
+  "vote_count": 350,
+  "external_ids": {
+    "id": 64555,
+    "imdb_id": "tt4686698",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 316517,
+    "tvrage_id": 8538767,
+    "wikidata_id": "Q21998199",
+    "facebook_id": "FrontierSeries",
+    "instagram_id": null,
+    "twitter_id": "FrontierSeries"
+  }
+}

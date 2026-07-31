@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/7pafv6rEW6M0GtKjg3oVKjD4cjw.jpg",
+  "created_by": [
+    {
+      "id": 130976,
+      "credit_id": "62e5e7ade86017005a554f2d",
+      "name": "Shang Jing",
+      "original_name": "尚敬",
+      "gender": 2,
+      "profile_path": "/bL0iBPPucyjBWMLdCKdfoCDFV6g.jpg"
+    },
+    {
+      "id": 235353,
+      "credit_id": "669045aa6757f2555aaaaccc",
+      "name": "Chen Wanning",
+      "original_name": "宁财神",
+      "gender": 2,
+      "profile_path": "/ueZC3DAPpxcrIpsgYGS9Aa8EE1O.jpg"
+    }
+  ],
+  "episode_run_time": [
+    47
+  ],
+  "first_air_date": "2006-01-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 64709,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2006-01-06",
+  "last_episode_to_air": {
+    "id": 1148081,
+    "name": "Episode 80",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-01-06",
+    "episode_number": 80,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 64709,
+    "still_path": "/5HnqWqKDUH1I4z5fpyyVnHdBnpq.jpg"
+  },
+  "name": "My Own Swordsman",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 521,
+      "logo_path": "/2aXk02xBwG2Nhu4lftabfqSpwY3.png",
+      "name": "CCTV-8",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 81,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "武林外传",
+  "overview": "A comedy about some friends and their stories in Qixia Town.",
+  "popularity": 10.6654,
+  "poster_path": "/3CNDRNrq0k8kAXE1bqIWZFDTDeb.jpg",
+  "production_companies": [
+    {
+      "id": 138129,
+      "logo_path": null,
+      "name": "北京联盟影业投资有限公司",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 399994,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/gtNpJzdoJ9NQ1DqgwDIAt237XnL.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 81,
+      "id": 72781,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/due6TUhiSsyAWuP2sERVAj83V6W.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.913,
+  "vote_count": 69,
+  "external_ids": {
+    "id": 64709,
+    "imdb_id": "tt1353771",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 243701,
+    "tvrage_id": null,
+    "wikidata_id": "Q11124390",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

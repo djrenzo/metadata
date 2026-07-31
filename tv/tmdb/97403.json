@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/AqL1l2OWupNcTiIpix6MPVsRk4d.jpg",
+  "created_by": [
+    {
+      "id": 951522,
+      "credit_id": "5e139135596a91001518bc2f",
+      "name": "Pablo Illanes",
+      "original_name": "Pablo Illanes",
+      "gender": 2,
+      "profile_path": "/bOrVXyI8muyYrFpiVNtq1NW7IsU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    48
+  ],
+  "first_air_date": "2017-03-06",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.mega.cl/teleseries/perdona-nuestros-pecados",
+  "id": 97403,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2018-08-22",
+  "last_episode_to_air": {
+    "id": 2531005,
+    "name": "Episode 80",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-08-22",
+    "episode_number": 80,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 2,
+    "show_id": 97403,
+    "still_path": null
+  },
+  "name": "Perdona nuestros pecados",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 312,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Perdona nuestros pecados",
+  "overview": "The story of a powerful family of the Chilean high aristocracy in the decade of the 50's. A clan led by the fearsome Armando Quiroga, where intrigue, suspense and romance build a story of passion in times of hypocrisy.",
+  "popularity": 9.5703,
+  "poster_path": "/urhzrTrZhVqu5fk1PCuYFVZ0px.jpg",
+  "production_companies": [
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-06",
+      "episode_count": 232,
+      "id": 140126,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-16",
+      "episode_count": 80,
+      "id": 140133,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 2.75,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 97403,
+    "imdb_id": "tt6645602",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 325236,
+    "tvrage_id": null,
+    "wikidata_id": "Q28913687",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

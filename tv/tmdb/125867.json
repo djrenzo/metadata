@@ -1,0 +1,466 @@
+{
+  "adult": false,
+  "backdrop_path": "/zQcXJZdiX8mT3z133nVOaX76Pe5.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    27
+  ],
+  "first_air_date": "2020-09-13",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www3.nhk.or.jp/nhkworld/en/shows/sumo",
+  "id": 125867,
+  "in_production": true,
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "last_air_date": "2026-03-23",
+  "last_episode_to_air": {
+    "id": 7312161,
+    "name": "Day 15",
+    "overview": "Day 15 of the 2026 Natsu Basho, Tokyo, 10 May – 24 May.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-24",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 27,
+    "season_number": 35,
+    "show_id": 125867,
+    "still_path": "/n3ptWMuXdhsxb6TDjSlkP0Ske9F.jpg"
+  },
+  "name": "GRAND SUMO Highlights",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2334,
+      "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4570,
+      "logo_path": "/dnoNljXZQkHQubzaqME1mFRRBgJ.png",
+      "name": "NHK WORLD-JAPAN",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 510,
+  "number_of_seasons": 35,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "en",
+  "original_name": "GRAND SUMO Highlights",
+  "overview": "The best of today's sumo! Enjoy daily highlights of this dynamic sport with background info and play-by-play commentary adding to the excitement!",
+  "popularity": 8.8939,
+  "poster_path": "/ojiQlns8iHhFGwOch9VGGTRnbPM.jpg",
+  "production_companies": [
+    {
+      "id": 101591,
+      "logo_path": "/xDfI62tQtP1UcepwmyiJa9nQmPg.png",
+      "name": "NHK Global Media Services",
+      "origin_country": "JP"
+    },
+    {
+      "id": 13253,
+      "logo_path": null,
+      "name": "Tokyo Video Center",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-09-12",
+      "episode_count": 15,
+      "id": 195831,
+      "name": "2020 Aki Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 13 September – 27 September.",
+      "poster_path": "/tsKdjA8O0UW8RJVv1T8ci9HVd8n.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-07",
+      "episode_count": 15,
+      "id": 195832,
+      "name": "2020 Kyushu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 8 November – 22 November. Originally scheduled to be held at the Fukuoka Kokusai Center in Kyushu, the Sumo Association moved the tournament to Tokyo due to the coronavirus pandemic.",
+      "poster_path": "/rZHxau6I4hiGUZkg2NzK7wh65JJ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-09",
+      "episode_count": 15,
+      "id": 195833,
+      "name": "2021 Hatsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 10 January – 24 January.",
+      "poster_path": "/7CamgBHQhyerC47FWunp7f6etjm.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-13",
+      "episode_count": 15,
+      "id": 195834,
+      "name": "2021 Haru Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 14 March – 28 March. Originally scheduled to take place at Osaka Prefectural Gymnasium, Osaka, the tournament was moved to Tokyo due to the COVID-19 pandemic.",
+      "poster_path": "/6chGCsOALBxW3GXAKqD73kIliJt.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-08",
+      "episode_count": 15,
+      "id": 195835,
+      "name": "2021 Natsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 9 May – 23 May.",
+      "poster_path": "/y0de5LWTpXnv0Rn5Drn1O5sAot6.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-03",
+      "episode_count": 15,
+      "id": 195836,
+      "name": "2021 Nagoya Basho",
+      "overview": "Held at the Aichi Prefectural Gymnasium, Nagoya, 4 July – 18 July.",
+      "poster_path": "/wsvlnQPfktuW0Vz8tsIhTJq36AY.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-11",
+      "episode_count": 15,
+      "id": 195837,
+      "name": "2021 Aki Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 12 September – 26 September.",
+      "poster_path": "/xQR68tFT5KJAyurZk7UR72HkILS.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-13",
+      "episode_count": 15,
+      "id": 195838,
+      "name": "2021 Kyushu Basho",
+      "overview": "Held at the Fukuoka Kokusai Center, Kyushu, 14 November – 28 November.",
+      "poster_path": "/hhKTNGSS648DWLN541xvjOTl4E5.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-08",
+      "episode_count": 15,
+      "id": 239242,
+      "name": "2022 Hatsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 9 January – 23 January.",
+      "poster_path": "/16nrHhmIauI9LNJWzvgQ6EYduR2.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-12",
+      "episode_count": 15,
+      "id": 283540,
+      "name": "2022 Haru Basho",
+      "overview": "Held at the Osaka Prefectural Gymnasium, Osaka, 13 March – 27 March.",
+      "poster_path": "/8VQ3LtUFo9n3mOJp58ApOdKHcNI.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-07",
+      "episode_count": 15,
+      "id": 293253,
+      "name": "2022 Natsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 8 May – 22 May.",
+      "poster_path": "/9YpyoCQXDLR9fYcygihiboZse8b.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-10",
+      "episode_count": 15,
+      "id": 308633,
+      "name": "2022 Nagoya Basho",
+      "overview": "Held at the Aichi Prefectural Gymnasium, Nagoya, 10 July – 24 July.",
+      "poster_path": "/eZEVbeulzldU5KIG93EnwzOKSgy.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-11",
+      "episode_count": 15,
+      "id": 308634,
+      "name": "2022 Aki Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 11 September – 25 September.",
+      "poster_path": "/iFDIZEfps1iF9k3CmemaA1pEt6t.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-13",
+      "episode_count": 15,
+      "id": 316267,
+      "name": "2022 Kyushu Basho",
+      "overview": "Held at the Fukuoka Kokusai Center, Kyushu, 13 November - 27 November.",
+      "poster_path": "/qsLfmrMmulZ5DHzaMlTHWC2POWU.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-08",
+      "episode_count": 15,
+      "id": 322422,
+      "name": "2023 Hatsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 8 January – 22 January.",
+      "poster_path": "/myoCCdLiruOuG9wJP4Ncp4rl5Wv.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-12",
+      "episode_count": 15,
+      "id": 329630,
+      "name": "2023 Haru Basho",
+      "overview": "Held at the Osaka Prefectural Gymnasium, Osaka, 12 March – 26 March.",
+      "poster_path": "/njKd5OmKKOJedFOOFOhzzn1rDf1.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-14",
+      "episode_count": 15,
+      "id": 339297,
+      "name": "2023 Natsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 14 May – 28 May.",
+      "poster_path": "/hYQcqwFMqLjYmuiNRvK0U3qpW4I.jpg",
+      "season_number": 17,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2023-07-09",
+      "episode_count": 15,
+      "id": 348397,
+      "name": "2023 Nagoya Basho",
+      "overview": "Held at the Aichi Prefectural Gymnasium, Nagoya, 9 July – 23 July 2023.",
+      "poster_path": "/uPL0VJFqAf3105wcxXuvCHqbwyu.jpg",
+      "season_number": 18,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2023-09-10",
+      "episode_count": 15,
+      "id": 354560,
+      "name": "2023 Aki Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 10 September – 24 September.",
+      "poster_path": "/kwJjBy48TyGSzGov0CZoyHFKnCD.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-12",
+      "episode_count": 15,
+      "id": 366849,
+      "name": "2023 Kyushu Basho",
+      "overview": "Held at the Fukuoka Kokusai Center, Kyushu, 12 November - 26 November.",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-14",
+      "episode_count": 15,
+      "id": 375418,
+      "name": "2024 Hatsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 14 January – 28 January.",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-10",
+      "episode_count": 15,
+      "id": 384593,
+      "name": "2024 Haru Basho",
+      "overview": "Held at the Osaka Prefectural Gymnasium, Osaka, 10 March - 24 March.",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-12",
+      "episode_count": 15,
+      "id": 395137,
+      "name": "2024 Natsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 12 May – 26 May.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-14",
+      "episode_count": 15,
+      "id": 403559,
+      "name": "2024 Nagoya Basho",
+      "overview": "Held at the Aichi Prefectural Gymnasium, Nagoya, 14 July – 28 July 2024.",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-08",
+      "episode_count": 15,
+      "id": 420119,
+      "name": "2024 Aki Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 8 September – 22 September.",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-11-10",
+      "episode_count": 15,
+      "id": 429708,
+      "name": "2024 Kyushu Basho",
+      "overview": "Held at the Fukuoka Kokusai Center, Kyushu, 10 November - 24 November.",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-12",
+      "episode_count": 15,
+      "id": 438491,
+      "name": "2025 Hatsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 12 January – 26 January.",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-03-09",
+      "episode_count": 15,
+      "id": 447441,
+      "name": "2025 Haru Basho",
+      "overview": "Held at the Osaka Prefectural Gymnasium, Osaka, 9 March – 23 March.",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-05-11",
+      "episode_count": 15,
+      "id": 457198,
+      "name": "2025 Natsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 11 May – 25 May.",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-13",
+      "episode_count": 15,
+      "id": 466324,
+      "name": "2025 Nagoya Basho",
+      "overview": "Held at the Aichi Prefectural Gymnasium, Nagoya, 13 July – 27 July 2025.",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-14",
+      "episode_count": 15,
+      "id": 475535,
+      "name": "2025 Aki Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 14 September – 28 September.",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-09",
+      "episode_count": 15,
+      "id": 484596,
+      "name": "2025 Kyushu Basho",
+      "overview": "Held at the Fukuoka Kokusai Center, Kyushu, 9 November - 23 November.",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-12",
+      "episode_count": 15,
+      "id": 495843,
+      "name": "2026 Hatsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 11 January – 25 January.",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-09",
+      "episode_count": 15,
+      "id": 505671,
+      "name": "2026 Haru Basho",
+      "overview": "Held at the Osaka Prefectural Gymnasium, Osaka, 8 March – 22 March.",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-10",
+      "episode_count": 15,
+      "id": 518562,
+      "name": "2026 Natsu Basho",
+      "overview": "Held at the Ryōgoku Kokugikan, Tokyo, 10 May – 24 May.",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 125867,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 391618,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

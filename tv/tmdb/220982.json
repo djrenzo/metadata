@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/f4ZqV6ahMD1BGPuCUIgffmQA0Hc.jpg",
+  "created_by": [
+    {
+      "id": 1631090,
+      "credit_id": "63f650308c22c00084e7652a",
+      "name": "Luís Filipe Costa",
+      "original_name": "Luís Filipe Costa",
+      "gender": 2,
+      "profile_path": "/fVDi38GXho1QnNJ6kZiLt0o3mYI.jpg"
+    },
+    {
+      "id": 1177529,
+      "credit_id": "63f6503c8c22c000b298cf71",
+      "name": "Francisco Moita Flores",
+      "original_name": "Francisco Moita Flores",
+      "gender": 2,
+      "profile_path": "/bI56QOLWm69V73ArrERoG0Fyoql.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1995-02-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.rtp.pt/programa/tv/p1267",
+  "id": 220982,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1995-09-01",
+  "last_episode_to_air": {
+    "id": 4647353,
+    "name": "Episode 145",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1995-09-01",
+    "episode_number": 145,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 220982,
+    "still_path": null
+  },
+  "name": "Desencontros",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 554,
+      "logo_path": "/iJBaPuHCVjROCUXZzGuon3oDqMC.png",
+      "name": "RTP1",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 145,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Desencontros",
+  "overview": "",
+  "popularity": 10.5942,
+  "poster_path": "/q3KNu139m5JfDSFHfsNFoJy46Ny.jpg",
+  "production_companies": [
+    {
+      "id": 170798,
+      "logo_path": null,
+      "name": "NBP",
+      "origin_country": ""
+    },
+    {
+      "id": 139667,
+      "logo_path": null,
+      "name": "Taurus Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-02-01",
+      "episode_count": 145,
+      "id": 329903,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 220982,
+    "imdb_id": "tt0135087",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 363984,
+    "tvrage_id": null,
+    "wikidata_id": "Q10265527",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

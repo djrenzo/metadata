@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/zSZLfJcfBg8xLv7bVFHDKrgKYxo.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2002-06-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 96000,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2005-01-15",
+  "last_episode_to_air": {
+    "id": 2000757,
+    "name": "Episode 42",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-01-15",
+    "episode_number": 42,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 96000,
+    "still_path": null
+  },
+  "name": "Wind and Cloud",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 403,
+      "logo_path": "/volHUxY1MHjSPI4ju7j36EdhR2m.png",
+      "name": "CTV",
+      "origin_country": "TW"
+    }
+  ],
+  "number_of_episodes": 86,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_name": "风云",
+  "overview": "Wind and Cloud are orphans raised by the powerful Lord Conqueror, who taught them martial arts in order to help him dominate the world.",
+  "popularity": 9.6566,
+  "poster_path": "/sCKqxKmSUciPFApEapWE5b1ei4H.jpg",
+  "production_companies": [
+    {
+      "id": 261155,
+      "logo_path": null,
+      "name": "中国台湾中视（中国电视公司，CTV）",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-06-08",
+      "episode_count": 44,
+      "id": 136889,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mnOmBxvWIxsNUHKLepWsIrQGIQM.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-15",
+      "episode_count": 42,
+      "id": 136891,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8UITOUbFrFDtr91xuvaYZ096Wix.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 96000,
+    "imdb_id": "tt0984171",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 371353,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

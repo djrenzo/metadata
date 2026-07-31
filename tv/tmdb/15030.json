@@ -1,0 +1,348 @@
+{
+  "adult": false,
+  "backdrop_path": "/di8tQu356tHQ4JKEzMSkjIyX5Kh.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    56,
+    60
+  ],
+  "first_air_date": "2000-05-15",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.pbs.org/wnet/secrets/",
+  "id": 15030,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-02-04",
+  "last_episode_to_air": {
+    "id": 6560902,
+    "name": "China's Bronze Kingdom",
+    "overview": "A mysterious ancient city lies hidden in the mountains of Sichuan—remnants of a kingdom consigned to oblivion for thousands of years, until the chance discovery of a jade artifact in 1986. More than 10,000 unusual items have been found at the site which experts believe may be as archaeologically important as the Terracotta Army of Xi'an. Could this be the capital of the ancient Shu kingdom?",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-27",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 23,
+    "show_id": 15030,
+    "still_path": "/7H3o7kFxWv19BvKdDqkKDpdbL23.jpg"
+  },
+  "name": "Secrets of the Dead",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 123,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Secrets of the Dead",
+  "overview": "Part detective story, part true-life drama, long-running series explores some of the most iconic moments in history to debunk myths and shed new light on past events. Using the latest investigative techniques, forensic science and historical examination, it shatters accepted wisdom, challenges prevailing ideas, overturns existing hypotheses, spotlights forgotten mysteries, and ultimately rewrites history.",
+  "popularity": 10.9805,
+  "poster_path": "/9S7ht0dMhf5PulQWdWf7MXja3u6.jpg",
+  "production_companies": [
+    {
+      "id": 10492,
+      "logo_path": "/3fcHNVpW66wgG6o0cgFJlcP8cCg.png",
+      "name": "Thirteen",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-12-26",
+      "episode_count": 5,
+      "id": 171823,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/zeZtTiDqivxbjcAhLlFgwwNC3w6.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-05-14",
+      "episode_count": 5,
+      "id": 26621,
+      "name": "Season 1",
+      "overview": "The first season of the PBS \"Secrets of the Dead\" are versions of the UK (Channel 4) documentary series of the same name. The episodes in this season were reworked (re-edited, re-branded, and re-narrated by Roy Scheider) from the UK episodes. The episodes were originally available on VHS as a season set and individually.",
+      "poster_path": "/6aDYtcWPeA5wVDtfmT0mNgzj3Cc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-26",
+      "episode_count": 6,
+      "id": 26622,
+      "name": "Season 2",
+      "overview": "These six episodes of this PBS documentary series are adapted from the UK series of the same name, but are re-edited, re-branded, and re-narrated by Liev Schreiber.",
+      "poster_path": "/zJKJq6dwaCxw9gWc76YvYwUnJc5.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-05-08",
+      "episode_count": 6,
+      "id": 26623,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/3O3obRxXS3b3dYwcc1M8QKTYdyo.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-11-01",
+      "episode_count": 6,
+      "id": 26624,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/7lXDoTgY2Douue6cV4emn42Xyju.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-19",
+      "episode_count": 5,
+      "id": 26625,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/auRZ7HJLMft1kcXgBrILzxMgfaX.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-11-08",
+      "episode_count": 5,
+      "id": 26626,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/pQNmi7IVzxwRIvkgJhDHcIxC9dp.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-23",
+      "episode_count": 2,
+      "id": 26619,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/7mQ31VWk77qFaPc4e9BO83pr94h.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-05-07",
+      "episode_count": 4,
+      "id": 26618,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/rwZ24RSKOmnXZJLScBFMNfouWQo.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-05-13",
+      "episode_count": 6,
+      "id": 26620,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/sby8Hi51LF6dLyUWH5DP2sLqqDh.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-03",
+      "episode_count": 3,
+      "id": 26627,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/34NUX2XG9UDJAQg3sfIYSd6Dtzr.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-20",
+      "episode_count": 3,
+      "id": 26628,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/eBlawu8lz1h0LezIOcWlRcM6GIi.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-23",
+      "episode_count": 6,
+      "id": 26629,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/qIDwiORPHV55RciPpqxrpi3c4ya.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-11-13",
+      "episode_count": 7,
+      "id": 61703,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/wG95UKqi3Is0nlQMwf3XmLQU9kv.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-28",
+      "episode_count": 3,
+      "id": 69288,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/lPrHanbjHxnBbB4dHxl8NIcvFuk.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-27",
+      "episode_count": 5,
+      "id": 86723,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/pWuxvUQSlneTkrOYpGzFBDGuEbc.jpg",
+      "season_number": 15,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2016-10-26",
+      "episode_count": 5,
+      "id": 81413,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/yaQVeC1rNcFvgl0iTpVMxWui4uT.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-24",
+      "episode_count": 7,
+      "id": 98417,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/iO4DxO593IeF3xfspRgeZaSF22J.jpg",
+      "season_number": 17,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2019-07-02",
+      "episode_count": 6,
+      "id": 141734,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/rXCiEiCbQEU6D5bULOa3Yww7OxT.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-20",
+      "episode_count": 6,
+      "id": 216457,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/9RfduZxaSOLF8nG904wI5fiq3K8.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-09",
+      "episode_count": 7,
+      "id": 312133,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/nCytNThfyPPwV2TQAHHmjI3Wi3a.jpg",
+      "season_number": 20,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2023-10-25",
+      "episode_count": 6,
+      "id": 361966,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/tAxoES76WcsqjHi4qxXjlM3J3TW.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-23",
+      "episode_count": 10,
+      "id": 423978,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/G3wru1W4mrmhVHF5nXIYrKQ6SS.jpg",
+      "season_number": 22,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-11-12",
+      "episode_count": 4,
+      "id": 477405,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/8F7yBkJs3rBpPjrgEMS5z6jq0RM.jpg",
+      "season_number": 23,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Unearthing History",
+  "type": "Documentary",
+  "vote_average": 6.429,
+  "vote_count": 21,
+  "external_ids": {
+    "id": 15030,
+    "imdb_id": "tt0354333",
+    "freebase_mid": "/m/02q3y9q",
+    "freebase_id": "/en/secrets_of_the_dead",
+    "tvdb_id": 73986,
+    "tvrage_id": null,
+    "wikidata_id": "Q15036447",
+    "facebook_id": "SecretsofTheDead",
+    "instagram_id": null,
+    "twitter_id": "SecretsPBS"
+  }
+}

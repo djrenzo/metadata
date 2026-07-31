@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "1998-08-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.setasia.tv/shows/shows_inside.php?id=33&country=10",
+  "id": 8351,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1999-02-12",
+  "last_episode_to_air": {
+    "id": 4947693,
+    "name": "Episode 130",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-02-12",
+    "episode_number": 130,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 8351,
+    "still_path": null
+  },
+  "name": "Saaya",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 676,
+      "logo_path": "/vamK8zdyD953QvkMIGf4J93MPKz.png",
+      "name": "Sony Entertainment Television",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 130,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Saaya",
+  "overview": "Saaya is an Indian soap opera aired on Sony TV in late 1990s. The series was produced by popular production house, UTV Software Communications.",
+  "popularity": 10.8571,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 164865,
+      "logo_path": null,
+      "name": "UTV Software Communications",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-08-17",
+      "episode_count": 130,
+      "id": 367248,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 1,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 8351,
+    "imdb_id": "tt2556058",
+    "freebase_mid": "/m/04zxh18",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

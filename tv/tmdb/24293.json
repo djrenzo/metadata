@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": "/wmgUD9WZhcInoiq9dyzYgzs5e9b.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2003-04-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://kro-ncrv.nl/programmas/keuringsdienst-van-waarde",
+  "id": 24293,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-03-20",
+  "last_episode_to_air": {
+    "id": 7351143,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-04",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 30,
+    "show_id": 24293,
+    "still_path": null
+  },
+  "name": "Keuringsdienst van Waarde",
+  "next_episode_to_air": {
+    "id": 3945813,
+    "name": "Episode 116",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2027-09-01",
+    "episode_number": 116,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 24293,
+    "still_path": null
+  },
+  "networks": [],
+  "number_of_episodes": 593,
+  "number_of_seasons": 30,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Keuringsdienst van Waarde",
+  "overview": "",
+  "popularity": 8.3037,
+  "poster_path": "/Acnl3zXS6QwWYeSALd45K2jMFaw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-12-29",
+      "episode_count": 2,
+      "id": 34456,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-04-11",
+      "episode_count": 8,
+      "id": 34449,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-04-13",
+      "episode_count": 21,
+      "id": 34450,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-07-05",
+      "episode_count": 20,
+      "id": 34451,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-06",
+      "episode_count": 7,
+      "id": 34452,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-27",
+      "episode_count": 9,
+      "id": 34453,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-07",
+      "episode_count": 19,
+      "id": 34454,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-08",
+      "episode_count": 23,
+      "id": 34455,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-07",
+      "episode_count": 20,
+      "id": 34457,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-03-09",
+      "episode_count": 20,
+      "id": 34459,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-29",
+      "episode_count": 19,
+      "id": 34458,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-03-14",
+      "episode_count": 22,
+      "id": 34460,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-09",
+      "episode_count": 20,
+      "id": 34461,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-12",
+      "episode_count": 20,
+      "id": 34462,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-18",
+      "episode_count": 14,
+      "id": 34463,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 10,
+      "id": 34464,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-13",
+      "episode_count": 20,
+      "id": 34465,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-01",
+      "episode_count": 24,
+      "id": 34466,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-10",
+      "episode_count": 27,
+      "id": 75114,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-09",
+      "episode_count": 29,
+      "id": 209635,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-10",
+      "episode_count": 12,
+      "id": 209634,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-08",
+      "episode_count": 30,
+      "id": 209633,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-20",
+      "episode_count": 29,
+      "id": 209631,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-14",
+      "episode_count": 24,
+      "id": 177953,
+      "name": "Season 23",
+      "overview": "The 2021 season of Keuringsdienst van Waarde.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-15",
+      "episode_count": 30,
+      "id": 208566,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-27",
+      "episode_count": 15,
+      "id": 242647,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-03",
+      "episode_count": 16,
+      "id": 307959,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-14",
+      "episode_count": 24,
+      "id": 335554,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-15",
+      "episode_count": 30,
+      "id": 376401,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-27",
+      "episode_count": 15,
+      "id": 443217,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-03",
+      "episode_count": 27,
+      "id": 480639,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 24293,
+    "imdb_id": "tt0416380",
+    "freebase_mid": "/m/07cfm4h",
+    "freebase_id": "/en/keuringsdienst_van_waarde",
+    "tvdb_id": 82280,
+    "tvrage_id": null,
+    "wikidata_id": "Q2129552",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

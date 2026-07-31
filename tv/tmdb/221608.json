@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/ndUE8XUst3GagNNoinVpQh1iGVH.jpg",
+  "created_by": [
+    {
+      "id": 1238690,
+      "credit_id": "6402ed56021cee00b4fdebae",
+      "name": "Dode Cruz",
+      "original_name": "Dode Cruz",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2014-06-09",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://gmanetwork.com/entertainment/tv/the_half_sisters/home/",
+  "id": 221608,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2016-01-15",
+  "last_episode_to_air": {
+    "id": 4275327,
+    "name": "Episode 418",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-01-15",
+    "episode_number": 418,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 221608,
+    "still_path": null
+  },
+  "name": "The Half Sisters",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 418,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "The Half Sisters",
+  "overview": "The Half-Sisters is a family drama.",
+  "popularity": 10.3673,
+  "poster_path": "/p38hB4RdQwILg9v0y3vQIftdjym.jpg",
+  "production_companies": [
+    {
+      "id": 136033,
+      "logo_path": "/xScMx3yhjr5OENl6raSP2xwiu0k.png",
+      "name": "GMA Entertainment Group",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-06-09",
+      "episode_count": 418,
+      "id": 331192,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/p38hB4RdQwILg9v0y3vQIftdjym.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 221608,
+    "imdb_id": "tt3907562",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q17072294",
+    "facebook_id": "GMAHalfSisters",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

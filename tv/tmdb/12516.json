@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/hBVXHoweDSOLhCzbBXSgKr3ld8V.jpg",
+  "created_by": [
+    {
+      "id": 1566641,
+      "credit_id": "5b36af400e0a26401103079e",
+      "name": "Osvaldo Cavandoli",
+      "original_name": "Osvaldo Cavandoli",
+      "gender": 2,
+      "profile_path": "/iFnaKmEyH9Byr57b4zNFvkkTprX.jpg"
+    }
+  ],
+  "episode_run_time": [
+    3
+  ],
+  "first_air_date": "1978-03-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 12516,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "1986-05-29",
+  "last_episode_to_air": {
+    "id": 5445719,
+    "name": "Episode 34",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-05-29",
+    "episode_number": 34,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 3,
+    "season_number": 2,
+    "show_id": 12516,
+    "still_path": null
+  },
+  "name": "La Linea",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 90,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "La Linea",
+  "overview": "Features a man known as \"Mr. Linea\" drawn as a single outline of an infinite line, which encounters various obstacles during his walking, and often turns to the cartoonist, represented as a live-action hand holding a pencil, to draw him a solution. All episodes are short subjects, ranging from 2:30 to 6:40 in runtime.",
+  "popularity": 15.2216,
+  "poster_path": "/5nJLpK7BFqla4wWP2njHF05vhFR.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1971-01-01",
+      "episode_count": 18,
+      "id": 23397,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/4ZOSlBX5dzARf2MAEYyzmwe1YrV.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-03-01",
+      "episode_count": 56,
+      "id": 23398,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5b8HSqoTW8dUHau9MkrXv9ElkCZ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-04-26",
+      "episode_count": 34,
+      "id": 23399,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/eipgz2Y97bM51yYq9HQsY6lAaNE.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 12516,
+    "imdb_id": "tt0406432",
+    "freebase_mid": "/m/049zyl",
+    "freebase_id": "/en/la_linea",
+    "tvdb_id": 80915,
+    "tvrage_id": null,
+    "wikidata_id": "Q840109",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

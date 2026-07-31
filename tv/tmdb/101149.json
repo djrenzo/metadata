@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": "/fGAqfLefgeuLwKe2Hk3OHb504G5.jpg",
+  "created_by": [
+    {
+      "id": 1374773,
+      "credit_id": "65dfe4e8a806730161a7d561",
+      "name": "Rachel Flowerday",
+      "original_name": "Rachel Flowerday",
+      "gender": 1,
+      "profile_path": "/5zsrwMxslErfyQ2vCJPKvW6aayt.jpg"
+    },
+    {
+      "id": 212971,
+      "credit_id": "65dfe4eb9dee5801637b3c44",
+      "name": "Sasha Hails",
+      "original_name": "Sasha Hails",
+      "gender": 0,
+      "profile_path": "/koak9NE0uvgfq8D299hYVzF6mhi.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2020-04-06",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/cbbc/shows/malory-towers",
+  "id": 101149,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-11-18",
+  "last_episode_to_air": {
+    "id": 6654723,
+    "name": "The Last Day of Malory Towers",
+    "overview": "Darrell is shocked to discover Lily’s plans and needs to act before Malory Towers is lost forever, while Gwen finds out Ron is joining the army and has to consider her own future.",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "air_date": "2025-11-18",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 7,
+    "show_id": 101149,
+    "still_path": "/o8l5g9BgMcYEAd7TinXxG50OWM1.jpg"
+  },
+  "name": "Malory Towers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 15,
+      "logo_path": "/12roOdtGhLUriCtk1Qwu9eD5Nab.png",
+      "name": "CBBC",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 103,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Malory Towers",
+  "overview": "Follow the adventures of Darrell Rivers as she leaves home for the first time to attend an all-girls’ boarding school. Set in post-war Britain on the sun-drenched cliffs of the Cornish coast, the series explores a nostalgic world of midnight feasts, lacrosse, pranks, a mystery ghost and lasting friendships.",
+  "popularity": 9.537,
+  "poster_path": "/zU5yHvPmAWFIdz0cbCAmw0ONYQU.jpg",
+  "production_companies": [
+    {
+      "id": 91335,
+      "logo_path": "/lNG0nlbFTBN6NRfJk7bsjhZYZu2.png",
+      "name": "King Bert Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 222081,
+      "logo_path": "/3T071NDUPfiV2LrTwdDHcRIO1P9.png",
+      "name": "WildBrain",
+      "origin_country": "CA"
+    },
+    {
+      "id": 185616,
+      "logo_path": "/7XL5Bdp6hxzvwlP3TINCpY4BiN1.png",
+      "name": "Family Channel",
+      "origin_country": "CA"
+    },
+    {
+      "id": 18530,
+      "logo_path": "/6SS8KHz1KH594IG5hom9bL3DQI5.png",
+      "name": "BYUtv",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-12-05",
+      "episode_count": 2,
+      "id": 318349,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-06",
+      "episode_count": 13,
+      "id": 146339,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bOwUnhjVuzn63JE9Y59Zq684A11.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 13,
+      "id": 220216,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/c8X66mxtXfFJDzCB48UL4puxVGy.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2022-07-04",
+      "episode_count": 13,
+      "id": 298843,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/d9tlv7BRbBuBlidmUkTFYJEpXWu.jpg",
+      "season_number": 3,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2023-05-08",
+      "episode_count": 13,
+      "id": 339354,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/k6pBzlMlihjMrpD8YJDE4Cr3EM4.jpg",
+      "season_number": 4,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2024-06-10",
+      "episode_count": 20,
+      "id": 396906,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/avftAZ6o7xILu3y7HFQiSBw7HbP.jpg",
+      "season_number": 5,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-06-09",
+      "episode_count": 10,
+      "id": 457753,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/cy3u82oiJTtDy5SNoPFWri92W9H.jpg",
+      "season_number": 6,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2025-10-20",
+      "episode_count": 10,
+      "id": 479713,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/IO6Fkt0M6ciu4Z7YPaOPlmaVK1.jpg",
+      "season_number": 7,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 101149,
+    "imdb_id": "tt11129816",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 378833,
+    "tvrage_id": null,
+    "wikidata_id": "Q96178260",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

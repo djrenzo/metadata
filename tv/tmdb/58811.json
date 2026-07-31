@@ -1,0 +1,168 @@
+{
+  "adult": false,
+  "backdrop_path": "/bdhFPMYxuG769gaOA7awyYpcGP.jpg",
+  "created_by": [
+    {
+      "id": 2385,
+      "credit_id": "52598d62760ee34661b4cc09",
+      "name": "Ronald D. Moore",
+      "original_name": "Ronald D. Moore",
+      "gender": 2,
+      "profile_path": "/6A086Blwpv0nuckrzPgvETlkfo1.jpg"
+    },
+    {
+      "id": 1283462,
+      "credit_id": "52c97085760ee311e30e4a54",
+      "name": "Cameron Porsandeh",
+      "original_name": "Cameron Porsandeh",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2014-01-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "http://www.syfy.com/helix",
+  "id": 58811,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-04-10",
+  "last_episode_to_air": {
+    "id": 1047167,
+    "name": "O Brave New World",
+    "overview": "Kyle rescues Dr. Sarah Jordan as Alan Farragut fights his own brother, Peter Farragut.",
+    "vote_average": 8.125,
+    "vote_count": 8,
+    "air_date": "2015-04-10",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 58811,
+    "still_path": "/itaFt2COv3s9XHAtrfZFtpkdfzi.jpg"
+  },
+  "name": "Helix",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 77,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Helix",
+  "overview": "Helix is an intense thriller about a team of scientists from the Centers for Disease Control who travel to a high-tech research facility in the Arctic to investigate a possible disease outbreak, only to find themselves pulled into a terrifying life-and-death struggle that holds the key to mankind's salvation...or total annihilation.",
+  "popularity": 9.7187,
+  "poster_path": "/7goT0IcsXjRo9fdMlWKr6ZRmaNP.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 6438,
+      "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
+      "name": "Muse Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 13769,
+      "logo_path": null,
+      "name": "Lynda Obst Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 78610,
+      "logo_path": null,
+      "name": "Tall Ship Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 207514,
+      "logo_path": null,
+      "name": "Kaji Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-01-10",
+      "episode_count": 13,
+      "id": 59217,
+      "name": "Season 1",
+      "overview": "A team of scientific investigates a dreadful disease in a research center en Artic. The survival of humanity is in their hands ...",
+      "poster_path": "/9toZttRC2rUSVSOCjIgcGVFxFUd.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2015-01-16",
+      "episode_count": 13,
+      "id": 63460,
+      "name": "Season 2",
+      "overview": "After barely escaping with their lives, the survivors of season one attempt to move on from the horrors that took place at Arctic Biosystems. But when their work takes them to a mysterious and remote wooded island, they quickly discover the Ilaria Corporation's reach is deeper and darker than anyone imagined, and a deadly new virus will present a threat that no one thought possible.",
+      "poster_path": "/1JbitClXFBTY5c2Fs16Jddlg3tm.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Play God. Pay the price.",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 484,
+  "external_ids": {
+    "id": 58811,
+    "imdb_id": "tt2758950",
+    "freebase_mid": "/m/0wbghn_",
+    "freebase_id": null,
+    "tvdb_id": 265912,
+    "tvrage_id": 34277,
+    "wikidata_id": "Q15146232",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/yUgStf6u82funzjplrR5diF0c6u.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1978-01-02",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "",
+  "id": 88969,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2024-11-14",
+  "last_episode_to_air": {
+    "id": 5759120,
+    "name": "Episode 319",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-11-14",
+    "episode_number": 319,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2024,
+    "show_id": 88969,
+    "still_path": null
+  },
+  "name": "heute journal",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 87,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "heute journal",
+  "overview": "",
+  "popularity": 10.05,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1978-01-02",
+      "episode_count": 58,
+      "id": 186287,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 385460,
+      "name": "Season 2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2018,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 391768,
+      "name": "Season 2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2019,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 26,
+      "id": 383043,
+      "name": "Season 2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2024,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 88969,
+    "imdb_id": "tt0327382",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 318373,
+    "tvrage_id": null,
+    "wikidata_id": "Q885345",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

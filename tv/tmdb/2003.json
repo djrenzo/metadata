@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/Ady6CfTJo4YrnAAbxLTHpFwp2jM.jpg",
+  "created_by": [
+    {
+      "id": 13520,
+      "credit_id": "52571e8a760ee3776a1d8029",
+      "name": "Aaron Sorkin",
+      "original_name": "Aaron Sorkin",
+      "gender": 2,
+      "profile_path": "/hGkusztbd1rb23QFAjvpJxKSTAU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1998-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/sports-night",
+  "id": 2003,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2000-05-16",
+  "last_episode_to_air": {
+    "id": 136598,
+    "name": "Quo Vadimus",
+    "overview": "Rebecca returns, Natalie and Jeremy rekindle their relationship, and the network is sold.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-05-16",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "N-345",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 2003,
+    "still_path": null
+  },
+  "name": "Sports Night",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 45,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Sports Night",
+  "overview": "The offbeat cast and crew of a sports news show deal with professional, personal, and ethical challenges while functioning in a pressure-cooker work environment.",
+  "popularity": 10.4274,
+  "poster_path": "/zIQdj3rmx036qCNYcZlLvmqcCPW.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 6,
+      "id": 5943,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-22",
+      "episode_count": 23,
+      "id": 5942,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aGbFXsfmy6auqb5I1QskzOedG6j.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "1999-10-05",
+      "episode_count": 22,
+      "id": 5941,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/i7P8i3SCeHAFqlvo0JIm4P9Rt4U.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.277,
+  "vote_count": 65,
+  "external_ids": {
+    "id": 2003,
+    "imdb_id": "tt0165961",
+    "freebase_mid": "/m/01j46y",
+    "freebase_id": "/en/sports_night",
+    "tvdb_id": 71969,
+    "tvrage_id": null,
+    "wikidata_id": "Q2418937",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

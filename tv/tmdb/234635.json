@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/z4I2EL7V2db39lH33w26Fvf2q3z.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2023-09-22",
+  "genres": [],
+  "homepage": "https://www.canalplus.com/cinema/faut-voir-l-hebdo-cinema/h/22683512_50001",
+  "id": 234635,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-06-27",
+  "last_episode_to_air": {
+    "id": 6526746,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-06-27",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 39,
+    "season_number": 2,
+    "show_id": 234635,
+    "still_path": "/4XLi5q9EKOHLAEIFJrP82Grwwos.jpg"
+  },
+  "name": "Faut Voir - L'Hebdo cinéma",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 285,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 63,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Faut Voir - L'Hebdo cinéma",
+  "overview": "",
+  "popularity": 9.4489,
+  "poster_path": "/f2tTuPsAUuEY5qD4HSzJpdOPFaV.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2023-09-22",
+      "episode_count": 31,
+      "id": 356543,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-20",
+      "episode_count": 32,
+      "id": 420587,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 234635,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 439465,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2509412,
+      "credit_id": "5f63df2eaf3da6003724664c",
+      "name": "Hugo Morales",
+      "original_name": "Hugo Morales",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1260925,
+      "credit_id": "5f63df3ae33f83003cf25f72",
+      "name": "Josefina Fernández",
+      "original_name": "Josefina Fernández",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 951522,
+      "credit_id": "5f63df1187f3f200397f84e8",
+      "name": "Pablo Illanes",
+      "original_name": "Pablo Illanes",
+      "gender": 2,
+      "profile_path": "/bOrVXyI8muyYrFpiVNtq1NW7IsU.jpg"
+    },
+    {
+      "id": 2154418,
+      "credit_id": "5f63df1bd236e60036790f77",
+      "name": "Nona Fernández",
+      "original_name": "Nona Fernández",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2006-10-11",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 34057,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2007-03-09",
+  "last_episode_to_air": {
+    "id": 2431156,
+    "name": "Episode 106",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-03-09",
+    "episode_number": 106,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 34057,
+    "still_path": null
+  },
+  "name": "Floribella",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 106,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Floribella",
+  "overview": "A 20-year-old girl with a deep passion for music will radically change her life when she finds work at the Fritzenwalden family home as an assistant to Governess Greta, who is in charge of six children who have just lost their parents. What she does not know is that in this house she will aslo discover true love.",
+  "popularity": 11.1047,
+  "poster_path": "/boGMuA2ZY4EKPnL5eiWq4XT7tjs.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-10-11",
+      "episode_count": 106,
+      "id": 44847,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 34057,
+    "imdb_id": "tt0892394",
+    "freebase_mid": "/m/0fqcj7",
+    "freebase_id": "/en/floribella",
+    "tvdb_id": null,
+    "tvrage_id": 12676,
+    "wikidata_id": "Q1972364",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

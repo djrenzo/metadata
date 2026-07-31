@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/yG7KQSEkajD8ujOBzJe3IuHVWMC.jpg",
+  "created_by": [
+    {
+      "id": 3303527,
+      "credit_id": "618b2e2a160e730029e55f86",
+      "name": "André Ramalho",
+      "original_name": "André Ramalho",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-11-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/parasempre/",
+  "id": 138218,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-08-25",
+  "last_episode_to_air": {
+    "id": 7538160,
+    "name": "Episode 461",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-08-25",
+    "episode_number": 461,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 138218,
+    "still_path": null
+  },
+  "name": "Para Sempre",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 461,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Para Sempre",
+  "overview": "Pedro is an enigmatic man with only one goal: to get Clara back, his first and only love. However, this meeting is almost impossible. Above all, because she is engaged to his brother Lourenço, the man who Pedro will save. And what will Lourenço do when he realizes that his savior may, after all, steal everything from him?",
+  "popularity": 9.945,
+  "poster_path": "/aRKD5yraOS7waH4l2HEGN1Ur30w.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-11-08",
+      "episode_count": 461,
+      "id": 218861,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A mysterious past and a higher goal.",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 138218,
+    "imdb_id": "tt13779362",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 402307,
+    "tvrage_id": null,
+    "wikidata_id": "Q106234192",
+    "facebook_id": "parasempretvi",
+    "instagram_id": "parasempretvi",
+    "twitter_id": null
+  }
+}

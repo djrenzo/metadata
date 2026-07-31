@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/6pvhk17ig2RYqUGhqzOwYC7fbYA.jpg",
+  "created_by": [
+    {
+      "id": 150624,
+      "credit_id": "5fb14ffbafa1b0003fb616a4",
+      "name": "Selim Demirdelen",
+      "original_name": "Selim Demirdelen",
+      "gender": 2,
+      "profile_path": "/lD3AKo304es6llVlNTNJKZzglZE.jpg"
+    },
+    {
+      "id": 1969631,
+      "credit_id": "5fb1500713af5f003f3c7fe5",
+      "name": "Hakan İnan",
+      "original_name": "Hakan İnan",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2857562,
+      "credit_id": "5fb1501e498ef9004181acda",
+      "name": "Berat Özdoğan",
+      "original_name": "Berat Özdoğan",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-07-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.fox.com.tr/Deli-Gonul/",
+  "id": 73545,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2017-11-19",
+  "last_episode_to_air": {
+    "id": 4090619,
+    "name": "Episode 22",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-11-19",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 73545,
+    "still_path": "/6dLe6xiSu4jdi62ghDax95v1EGv.jpg"
+  },
+  "name": "Deli Gönül",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 303,
+      "logo_path": "/AiTBB9bmnY0F7bMaULSEOtGQYdR.png",
+      "name": "FOX",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Deli Gönül",
+  "overview": "Lives hurled by an explosion will come to life again with the construction of a new life.",
+  "popularity": 9.5243,
+  "poster_path": "/xhycK6oLa1KTmQfSqHgR13HxPUk.jpg",
+  "production_companies": [
+    {
+      "id": 79555,
+      "logo_path": "/lVczYPybMeMQlUuoUa0tRcTQvuS.png",
+      "name": "25 Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-07-04",
+      "episode_count": 22,
+      "id": 91975,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jI6QxX07PuByEapUOPtiFYlgmoK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 73545,
+    "imdb_id": "tt7107142",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 330323,
+    "tvrage_id": null,
+    "wikidata_id": "Q61072351",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

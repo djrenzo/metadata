@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/4SoqPyzYWoujPWlMNXuZlEPlRmu.jpg",
+  "created_by": [
+    {
+      "id": 1091461,
+      "credit_id": "5a37fea99251415475063e4b",
+      "name": "Euclydes Marinho",
+      "original_name": "Euclydes Marinho",
+      "gender": 2,
+      "profile_path": "/mUn0m6S9PD6qq6lJkJfkjGn4xIm.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1999-03-22",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 45761,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1999-11-05",
+  "last_episode_to_air": {
+    "id": 1408926,
+    "name": "Episode 197",
+    "overview": "Eva throws herself off the top of a building with San Marino. Celi forgives her mother in the hospital. Julia goes after Chico and Beth after Raul. Judite goes undercover to go after Chico.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "1999-11-05",
+    "episode_number": 197,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 45761,
+    "still_path": "/ap9LAUoTRWsXZoIUJub8AGgy403.jpg"
+  },
+  "name": "Walking the Clouds",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 197,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Andando nas Nuvens",
+  "overview": "The adventures of a man with amnesia who struggles to rediscover his past while learning to live in the present.",
+  "popularity": 10.5914,
+  "poster_path": "/7AzB173IsIJzwmQn8Kgo4ExerMa.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-03-22",
+      "episode_count": 197,
+      "id": 96724,
+      "name": "Season 1",
+      "overview": "The adventures of a man with amnesia who struggles to rediscover his past while learning to live in the present.",
+      "poster_path": "/pZ41RgK9WAvwLkfkfOclWe0SaEG.jpg",
+      "season_number": 1,
+      "vote_average": 6.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 45761,
+    "imdb_id": "tt0202716",
+    "freebase_mid": "/m/0ncxz3z",
+    "freebase_id": null,
+    "tvdb_id": 330999,
+    "tvrage_id": null,
+    "wikidata_id": "Q4114767",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

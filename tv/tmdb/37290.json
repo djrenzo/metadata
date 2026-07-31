@@ -1,0 +1,287 @@
+{
+  "adult": false,
+  "backdrop_path": "/gR44F47eEgzdUK2PpcD0tNNewfq.jpg",
+  "created_by": [
+    {
+      "id": 228566,
+      "credit_id": "5377d9c60e0a261422002ffc",
+      "name": "Andrea Camilleri",
+      "original_name": "Andrea Camilleri",
+      "gender": 2,
+      "profile_path": "/7h1yeOpHrC1W3npqzSv0h3WxBkb.jpg"
+    }
+  ],
+  "episode_run_time": [
+    100,
+    110,
+    90
+  ],
+  "first_air_date": "1999-05-06",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.raiplay.it/programmi/ilcommissariomontalbano",
+  "id": 37290,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2021-03-08",
+  "last_episode_to_air": {
+    "id": 2813433,
+    "name": "The Catalanotti Method",
+    "overview": "Inspector Montalbano investigates the murder of the leader of an amateur dramatics company, whose members' devotion to his methods borders on fanaticism. The final episode of the Montalbano saga.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-03-08",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 116,
+    "season_number": 15,
+    "show_id": 37290,
+    "still_path": "/gsnJoAEDfU6JujC4bZKtmxYYdnt.jpg"
+  },
+  "name": "Inspector Montalbano",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 236,
+      "logo_path": "/ar0fBQkxzbBYe4S8zEGnrfZNBnm.png",
+      "name": "Rai 2",
+      "origin_country": "IT"
+    },
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 36,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Il Commissario Montalbano",
+  "overview": "Inspector Montalbano is an Italian television series produced and broadcast by RAI since 1999, based on the detective novels of Andrea Camilleri. The protagonist is Commissario Salvo Montalbano, and the stories are set in the imaginary town of Vigata, Sicily. In 2012 the series generated a prequel, Il giovane Montalbano.",
+  "popularity": 9.8426,
+  "poster_path": "/5aOkUsPOzXz0N6DHus3fJkUTF42.jpg",
+  "production_companies": [
+    {
+      "id": 7699,
+      "logo_path": "/fHasfMWVRXGOmao2p1ijwicv9f4.png",
+      "name": "Palomar",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-05-06",
+      "episode_count": 2,
+      "id": 48524,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/eO3DQDCEoF5w2r9WmXWef733xc4.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2000-05-02",
+      "episode_count": 2,
+      "id": 48525,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/1egqLDogdZY8falKWwskYwkQAkV.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2001-05-09",
+      "episode_count": 2,
+      "id": 48526,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/v1tr0pTRhIPOKHGHTpbhOZEEPyw.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2002-10-28",
+      "episode_count": 4,
+      "id": 48527,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": "/acNu9RdgPIU4zTqtXhszFebsy67.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2005-09-22",
+      "episode_count": 2,
+      "id": 48528,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": "/87xiqnNwHjHEZyD0MVS7bbAaEZV.jpg",
+      "season_number": 5,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2006-03-07",
+      "episode_count": 2,
+      "id": 48529,
+      "name": "Series 6",
+      "overview": "",
+      "poster_path": "/48BD0nUY4VpQ1J7KVeaQBxzkuFi.jpg",
+      "season_number": 6,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2008-11-02",
+      "episode_count": 4,
+      "id": 48530,
+      "name": "Series 7",
+      "overview": "",
+      "poster_path": "/rxE04b1PJiJiXIgcq7r4UzfPFSC.jpg",
+      "season_number": 7,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2011-03-14",
+      "episode_count": 4,
+      "id": 48531,
+      "name": "Series 8",
+      "overview": "",
+      "poster_path": "/bQ6OF7FPNBa4TynpCi3bZED9xOO.jpg",
+      "season_number": 8,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-04-15",
+      "episode_count": 4,
+      "id": 48532,
+      "name": "Series 9",
+      "overview": "",
+      "poster_path": "/6lMUbIeZY9wYv8bHAmkmGFJlyqu.jpg",
+      "season_number": 9,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2016-02-29",
+      "episode_count": 2,
+      "id": 83081,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/p82FHv6sIdZnzT2mJw8K2ACz6WP.jpg",
+      "season_number": 10,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2017-02-27",
+      "episode_count": 2,
+      "id": 86333,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/xeoh0HHeKYFPQwxwwpzf4oaJl6.jpg",
+      "season_number": 11,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2018-02-12",
+      "episode_count": 2,
+      "id": 99374,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/weX0CsnRCcy5tN3PUGDvrETVcys.jpg",
+      "season_number": 12,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2019-02-11",
+      "episode_count": 2,
+      "id": 137439,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/nwESgIR5tNMzPDVvFz7GwXgq3Qw.jpg",
+      "season_number": 13,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2020-03-09",
+      "episode_count": 2,
+      "id": 147238,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/iGlwwfgp8U5yd8sq1ViBXvArCOW.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-08",
+      "episode_count": 1,
+      "id": 187121,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/xad4mk7VfSs690CLXwRJj0VXp7H.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.257,
+  "vote_count": 76,
+  "external_ids": {
+    "id": 37290,
+    "imdb_id": "tt0920489",
+    "freebase_mid": "/m/0gfynxm",
+    "freebase_id": null,
+    "tvdb_id": 82792,
+    "tvrage_id": 24533,
+    "wikidata_id": "Q9302120",
+    "facebook_id": "IlCommissarioMontalbanoRai",
+    "instagram_id": "montalbano_rai",
+    "twitter_id": "montalbanorai"
+  }
+}

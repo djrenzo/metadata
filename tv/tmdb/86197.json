@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/5V6hsQXCPG5qqt6tojf0Ln4K29O.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2019-01-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/super-series/el-baron",
+  "id": 86197,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-04-22",
+  "last_episode_to_air": {
+    "id": 1771429,
+    "name": "Episode 60",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-04-22",
+    "episode_number": 60,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 86197,
+    "still_path": null
+  },
+  "name": "El Barón",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 60,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO",
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "El Barón",
+  "overview": "The story of Nacho Montero, a young Mexican rebel, dreamer and visionary who changed the world of drug trafficking.",
+  "popularity": 11.2278,
+  "poster_path": "/c9MwIFMZupT4ziJ69pEkuKxrRaU.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-01-30",
+      "episode_count": 60,
+      "id": 117636,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/c9MwIFMZupT4ziJ69pEkuKxrRaU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.917,
+  "vote_count": 48,
+  "external_ids": {
+    "id": 86197,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

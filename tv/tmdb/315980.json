@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/jrgGoDVYP8QRr9sFvA8eobcxA2b.jpg",
+  "created_by": [
+    {
+      "id": 2410940,
+      "credit_id": "69ac9ca2404da5fd887ed40e",
+      "name": "Giorgos Tsiakkas",
+      "original_name": "Γιώργος Τσιάκκας",
+      "gender": 2,
+      "profile_path": "/impRCvyVtGAP7FihP66rVyvarzf.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-09-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.alphacyprus.com.cy/shows/ellinikes-seires/mple",
+  "id": 315980,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2019-03-21",
+  "last_episode_to_air": {
+    "id": 7016701,
+    "name": "Episode 45",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-03-21",
+    "episode_number": 45,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 315980,
+    "still_path": null
+  },
+  "name": "BLE.",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4924,
+      "logo_path": "/6Y6E2q7IyY5IEdbZ9t8jM5jxFsB.png",
+      "name": "Alpha Cyprus",
+      "origin_country": "CY"
+    }
+  ],
+  "number_of_episodes": 45,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "BLE.",
+  "overview": "",
+  "popularity": 9.5345,
+  "poster_path": "/m5QqUr3ObYutPpqrjXqMMZzSKmp.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 45,
+      "id": 504022,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 315980,
+    "imdb_id": "tt12339134",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 383061,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

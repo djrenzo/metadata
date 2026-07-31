@@ -1,0 +1,409 @@
+{
+  "adult": false,
+  "backdrop_path": "/uj3J20XtaNskVRmUz8anoIBtYFK.jpg",
+  "created_by": [
+    {
+      "id": 2901539,
+      "credit_id": "5fdf5c5a79b3d4003e2c3157",
+      "name": "Jan Kok",
+      "original_name": "Jan Kok",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 233931,
+      "credit_id": "5fdf5a3097fdec0040bb9bb6",
+      "name": "Joost Prinsen",
+      "original_name": "Joost Prinsen",
+      "gender": 2,
+      "profile_path": "/kei7afrBZxfbzYHLMUkfvxm1Gs8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1997-05-02",
+  "genres": [],
+  "homepage": "https://www.maxvandaag.nl/programmas/tv/met-het-mes-op-tafel/",
+  "id": 25870,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-05-21",
+  "last_episode_to_air": {
+    "id": 7211386,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-21",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 55,
+    "show_id": 25870,
+    "still_path": null
+  },
+  "name": "Met het mes op tafel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1074,
+      "logo_path": "/as9IofVgrJwSQSPi68nXPuoRRxp.png",
+      "name": "MAX",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2736,
+      "logo_path": "/bbHC6qV98IoKn3veSx8wDiOjtCi.png",
+      "name": "NPS",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 340,
+  "number_of_seasons": 30,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Met het mes op tafel",
+  "overview": "",
+  "popularity": 8.2342,
+  "poster_path": "/hfO3JcX51d9kHpRLL0aLqqaM1Dh.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-05-02",
+      "episode_count": 14,
+      "id": 36263,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-04",
+      "episode_count": 13,
+      "id": 36264,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-06-11",
+      "episode_count": 12,
+      "id": 36265,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-03",
+      "episode_count": 13,
+      "id": 36266,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-11-30",
+      "episode_count": 13,
+      "id": 36267,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-11-07",
+      "episode_count": 13,
+      "id": 36268,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-08",
+      "episode_count": 13,
+      "id": 36269,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-12-04",
+      "episode_count": 10,
+      "id": 36270,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-12-02",
+      "episode_count": 13,
+      "id": 36271,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-05-14",
+      "episode_count": 13,
+      "id": 36272,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-12-02",
+      "episode_count": 13,
+      "id": 36273,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-06-01",
+      "episode_count": 13,
+      "id": 36274,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-11-30",
+      "episode_count": 13,
+      "id": 36275,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-05-31",
+      "episode_count": 13,
+      "id": 36276,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-11-22",
+      "episode_count": 13,
+      "id": 36277,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-28",
+      "episode_count": 13,
+      "id": 36278,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-07",
+      "episode_count": 11,
+      "id": 36279,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-17",
+      "episode_count": 13,
+      "id": 36280,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-18",
+      "episode_count": 13,
+      "id": 36281,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-03",
+      "episode_count": 13,
+      "id": 36282,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 15,
+      "id": 36283,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-07-24",
+      "episode_count": 11,
+      "id": 36284,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 6,
+      "id": 36285,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 215410,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 215411,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 215412,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 503752,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-29",
+      "episode_count": 33,
+      "id": 480844,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-23",
+      "episode_count": 12,
+      "id": 503750,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-11",
+      "episode_count": 8,
+      "id": 513810,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 25870,
+    "imdb_id": "tt0397805",
+    "freebase_mid": "/m/07cg6k4",
+    "freebase_id": "/en/met_het_mes_op_tafel",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2457139",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

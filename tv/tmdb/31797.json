@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/njYzkd6I08qTQkEvRklGvC2WteX.jpg",
+  "created_by": [
+    {
+      "id": 165899,
+      "credit_id": "63247ae2511d09007f4f7850",
+      "name": "Simon Cowell",
+      "original_name": "Simon Cowell",
+      "gender": 2,
+      "profile_path": "/pKllSRO03fLD6z0dMMQAuooKXhF.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-09-11",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.xfactor.novatv.bg/",
+  "id": 31797,
+  "in_production": true,
+  "languages": [
+    "en",
+    "bg"
+  ],
+  "last_air_date": "2017-12-17",
+  "last_episode_to_air": {
+    "id": 5295152,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-17",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 31797,
+    "still_path": null
+  },
+  "name": "X Factor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 765,
+      "logo_path": "/ycpKApWXrNpeTvCW88Ai7w2hain.png",
+      "name": "NOVA",
+      "origin_country": "BG"
+    }
+  ],
+  "number_of_episodes": 60,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "BG"
+  ],
+  "original_language": "bg",
+  "original_name": "X Factor",
+  "overview": "X Factor is the Bulgarian version of The X Factor, a show originating from the United Kingdom. It is a television music talent show contested by aspiring pop singers drawn from public auditions. The show's inaugural season aired in 2011 on Nova Television.",
+  "popularity": 9.8438,
+  "poster_path": "/iTTiIU8zJe4l0bBh4QwNZKhPNp3.jpg",
+  "production_companies": [
+    {
+      "id": 21031,
+      "logo_path": "/1rgpVgyqxbOJiXdbUaHyo2FcRDy.png",
+      "name": "Global Group",
+      "origin_country": "BG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-09-11",
+      "episode_count": 11,
+      "id": 43296,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tHuCx6me2ea12b2eyXji6S371ss.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-07",
+      "episode_count": 13,
+      "id": 389372,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-21",
+      "episode_count": 14,
+      "id": 389373,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-20",
+      "episode_count": 13,
+      "id": 389374,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-10",
+      "episode_count": 9,
+      "id": 308331,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/y8g61DOyg7iuaMHCgcuk8WFmK7T.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Bulgarian",
+      "iso_639_1": "bg",
+      "name": "български език"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 31797,
+    "imdb_id": null,
+    "freebase_mid": "/m/09v1gzp",
+    "freebase_id": null,
+    "tvdb_id": 250699,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "xfactorbulgaria",
+    "instagram_id": "xfactorbg",
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1310445,
+      "credit_id": "64648a4d9f37b0015cc37af4",
+      "name": "Henry King Quitain",
+      "original_name": "Henry King Quitain",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2004-07-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12194,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2005-05-20",
+  "last_episode_to_air": {
+    "id": 3330713,
+    "name": "Episode 225",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-05-20",
+    "episode_number": 225,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 12194,
+    "still_path": null
+  },
+  "name": "Hiram",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 20,
+      "logo_path": "/kdcvqvutGKUsIkeSVGl8pQMkc3k.png",
+      "name": "ABS-CBN",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 225,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Hiram",
+  "overview": "Hiram was a TV drama series in the Philippines, popularly known as teleserye shown on ABS-CBN and worldwide on The Filipino Channel.",
+  "popularity": 10.483,
+  "poster_path": "/7MxXNO4uGoBp0Aox0sd1Ij3g1hu.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2004-07-12",
+      "episode_count": 225,
+      "id": 22908,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 12194,
+    "imdb_id": null,
+    "freebase_mid": "/m/07qqv6",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 17162,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

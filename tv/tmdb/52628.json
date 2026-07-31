@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/zHhv6jocEf4Y5YuDL9sdRRch7Gy.jpg",
+  "created_by": [
+    {
+      "id": 1933759,
+      "credit_id": "5e76b04d2f3b17001450e425",
+      "name": "Ruxandra Ion",
+      "original_name": "Ruxandra Ion",
+      "gender": 1,
+      "profile_path": "/kq4Va9iWP7KPjwZ4kchkpRo3rei.jpg"
+    },
+    {
+      "id": 2237203,
+      "credit_id": "60897fea904f6d0058836a6a",
+      "name": "Alex Fotea",
+      "original_name": "Alex Fotea",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1124223,
+      "credit_id": "60897fddffc9de00406f350f",
+      "name": "Iura Luncașu",
+      "original_name": "Iura Luncașu",
+      "gender": 2,
+      "profile_path": "/n6xcLzXkJELqzyR31RYgVB4kuHb.jpg"
+    }
+  ],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2008-09-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://voyo.protv.ro/seriale/36-regina",
+  "id": 52628,
+  "in_production": false,
+  "languages": [
+    "ro"
+  ],
+  "last_air_date": "2009-03-07",
+  "last_episode_to_air": {
+    "id": 5265551,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-03-07",
+    "episode_number": 160,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 85,
+    "season_number": 1,
+    "show_id": 52628,
+    "still_path": "/xkBSRq8F7H0L28algYybC8IYROG.jpg"
+  },
+  "name": "Regina",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 969,
+      "logo_path": "/p7iv8u65nbOCdS3RlMUnJKDVhUY.png",
+      "name": "Acasă",
+      "origin_country": "RO"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_name": "Regina",
+  "overview": "",
+  "popularity": 10.0361,
+  "poster_path": "/8ef2CzYmkvNvRXDfXXhGxXVHyKZ.jpg",
+  "production_companies": [
+    {
+      "id": 225565,
+      "logo_path": null,
+      "name": "Promance",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-29",
+      "episode_count": 160,
+      "id": 145766,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sLFhA7l0VOAQp93XYg9h1KjcVi5.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 52628,
+    "imdb_id": "tt1350328",
+    "freebase_mid": "/m/0w0s5s3",
+    "freebase_id": null,
+    "tvdb_id": 387414,
+    "tvrage_id": null,
+    "wikidata_id": "Q3423468",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

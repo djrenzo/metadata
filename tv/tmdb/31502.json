@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1981-04-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 31502,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1983-01-10",
+  "last_episode_to_air": {
+    "id": 756095,
+    "name": "Judy's Cousin",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1983-01-10",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 3,
+    "show_id": 31502,
+    "still_path": null
+  },
+  "name": "Private Benjamin",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Private Benjamin",
+  "overview": "Private Benjamin is an American sitcom based on the movie of the same name. The show aired on CBS from April 6, 1981, to January 10, 1983. Eileen Brennan, who reprised her role from the film, won an Emmy and Golden Globe Award for her work on the series.",
+  "popularity": 10.6891,
+  "poster_path": "/c2KBYuVIC81zzZwISx2Z2RA767k.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1981-04-06",
+      "episode_count": 4,
+      "id": 43031,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-10-12",
+      "episode_count": 22,
+      "id": 43032,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-09-27",
+      "episode_count": 13,
+      "id": 43033,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.455,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 31502,
+    "imdb_id": "tt0081918",
+    "freebase_mid": "/m/09gpr_x",
+    "freebase_id": null,
+    "tvdb_id": 73772,
+    "tvrage_id": null,
+    "wikidata_id": "Q3964234",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

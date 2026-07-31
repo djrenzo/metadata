@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/kvQE5pvZZWCIQ0uAQvzRmQO3nZM.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-07-18",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/los-50",
+  "id": 231344,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-12-09",
+  "last_episode_to_air": {
+    "id": 5812951,
+    "name": "Solo uno gana",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-12-09",
+    "episode_number": 47,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 127,
+    "season_number": 2,
+    "show_id": 231344,
+    "still_path": "/3STlO2yojZZm7rhYEBc9zOVcbJ.jpg"
+  },
+  "name": "Los 50",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 97,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "Los 50",
+  "overview": "Fifty TV stars are single handedly picked by a mysterious, masked Lion to participate in a competition like no other. Living together in an exotic country mansion and competing against each other in a relentless and unpredictable game, the stars must face challenges posed by the game master while making alliances and developing strategies to avoid elimination.",
+  "popularity": 9.4815,
+  "poster_path": "/5u4lYLk0kDf6XTUIENhXkaUV2jQ.jpg",
+  "production_companies": [
+    {
+      "id": 111824,
+      "logo_path": "/yLBlGPSfTi0GyXIn6uSgN6bGsy5.png",
+      "name": "Endemol Shine Boomdog",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-07-17",
+      "episode_count": 50,
+      "id": 350214,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ekCsIcf4kVij7dtbQRDHGDnPC6n.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2024-10-15",
+      "episode_count": 47,
+      "id": 421779,
+      "name": "Temporada 2",
+      "overview": "",
+      "poster_path": "/coVsr6NDOPV4mZF5AQ4c5HQVx5S.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.8,
+  "vote_count": 28,
+  "external_ids": {
+    "id": 231344,
+    "imdb_id": "tt27790209",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 436418,
+    "tvrage_id": null,
+    "wikidata_id": "Q120169810",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

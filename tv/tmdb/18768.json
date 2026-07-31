@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1958-01-12",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 18768,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1961-07-16",
+  "last_episode_to_air": {
+    "id": 568304,
+    "name": "Two for the Road",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1961-07-16",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 18768,
+    "still_path": null
+  },
+  "name": "Shirley Temple's Storybook",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 41,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Shirley Temple's Storybook",
+  "overview": "Shirley Temple's Storybook is an American children's anthology series hosted and narrated by actress Shirley Temple. The series features adaptations of fairy tales like Mother Goose and other family-oriented stories performed by well-known actors, although one episode, an adaptation of The House of the Seven Gables, was meant for older youngsters.\n\nTemple's three children made their acting debuts in the last episode of the first season, \"Mother Goose\".",
+  "popularity": 9.94,
+  "poster_path": "/144kJt2W8rBEvG579ncQAS2X2wB.jpg",
+  "production_companies": [
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    },
+    {
+      "id": 56309,
+      "logo_path": null,
+      "name": "Henry Jaffe Enterprises Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1958-01-12",
+      "episode_count": 16,
+      "id": 29305,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oDbpMHy5jyNChwHfD4HhKHO3Gq4.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-10-18",
+      "episode_count": 25,
+      "id": 29306,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/oDbpMHy5jyNChwHfD4HhKHO3Gq4.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 18768,
+    "imdb_id": "tt0051312",
+    "freebase_mid": "/m/0268vth",
+    "freebase_id": "/en/shirley_temples_storybook",
+    "tvdb_id": 76432,
+    "tvrage_id": null,
+    "wikidata_id": "Q7498861",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

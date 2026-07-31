@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/kE5JbHhylYfPOAsNGsy9YjlHTdl.jpg",
+  "created_by": [
+    {
+      "id": 1685746,
+      "credit_id": "57eb03d592514150180007cd",
+      "name": "Şebnem Çıtak",
+      "original_name": "Şebnem Çıtak",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1685744,
+      "credit_id": "634c2d1768b1ea007f596ff6",
+      "name": "Nilgün Öneş",
+      "original_name": "Nilgün Öneş",
+      "gender": 1,
+      "profile_path": "/vaiHJWKiSEAIlsq0z33Nmhvwmst.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2006-10-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://webtv.atv.com.tr/webtv/program/hatirla_sevgili",
+  "id": 15604,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2008-05-23",
+  "last_episode_to_air": {
+    "id": 3937075,
+    "name": "Episode 37",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-05-23",
+    "episode_number": 37,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 15604,
+    "still_path": null
+  },
+  "name": "Remember Darling",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 36,
+      "logo_path": "/qCnMXkdER5FYvmy2AGSMnAFH9ue.png",
+      "name": "atv",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 68,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Hatırla Sevgili",
+  "overview": "A love story at the end of 1950's in Turkey, Istanbul. In the political era of Turkey in that years, two young people from opposite families fall in love. Their families don't allow them to marry. They face lots of obstacles for years.",
+  "popularity": 10.0332,
+  "poster_path": "/n4Q7Ki1I4i8hBvo7XrS8zXkvik7.jpg",
+  "production_companies": [
+    {
+      "id": 73004,
+      "logo_path": null,
+      "name": "aSis Yapım",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-10-27",
+      "episode_count": 31,
+      "id": 75889,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-14",
+      "episode_count": 37,
+      "id": 80569,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.4,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 15604,
+    "imdb_id": "tt0878797",
+    "freebase_mid": "/m/03h3swb",
+    "freebase_id": "/en/hatirla_sevgili",
+    "tvdb_id": 251219,
+    "tvrage_id": null,
+    "wikidata_id": "Q3235474",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

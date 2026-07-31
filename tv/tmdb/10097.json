@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/6FGZXZrBPxwFkmkhUMXSW3by0M8.jpg",
+  "created_by": [
+    {
+      "id": 13594,
+      "credit_id": "5cb5fa4ac3a3686b0481eb8b",
+      "name": "Joseph Barbera",
+      "original_name": "Joseph Barbera",
+      "gender": 2,
+      "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg"
+    },
+    {
+      "id": 13620,
+      "credit_id": "5cb5fa3fc3a3686b0781ec8f",
+      "name": "William Hanna",
+      "original_name": "William Hanna",
+      "gender": 2,
+      "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1969-09-13",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 10097,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1970-01-03",
+  "last_episode_to_air": {
+    "id": 1693491,
+    "name": "Super Muttley",
+    "overview": "Muttley dreams he's a superhero.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1970-01-03",
+    "episode_number": 89,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 3,
+    "season_number": 1,
+    "show_id": 10097,
+    "still_path": "/634uZ6p8X3LtGOwHoVe7px4XOAx.jpg"
+  },
+  "name": "Dastardly and Muttley in Their Flying Machines",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 89,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dastardly and Muttley in Their Flying Machines",
+  "overview": "Dick Dastardly and his snickering canine co-pilot Muttley plot to stop Yankee Doodle Pigeon aboard their World War I flying machines.",
+  "popularity": 10.0251,
+  "poster_path": "/tKytNdXhBWPYBWC2DmogIWGBSVg.jpg",
+  "production_companies": [
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 20044,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/lVnduQHx7nHQoV8CdtzkJHiubXB.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-13",
+      "episode_count": 89,
+      "id": 20043,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tKytNdXhBWPYBWC2DmogIWGBSVg.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.049,
+  "vote_count": 91,
+  "external_ids": {
+    "id": 10097,
+    "imdb_id": "tt0063889",
+    "freebase_mid": "/m/056x47",
+    "freebase_id": "/en/dastardly_and_muttley_in_their_flying_machines",
+    "tvdb_id": 76263,
+    "tvrage_id": 3246,
+    "wikidata_id": "Q1050091",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

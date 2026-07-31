@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/hFonWSpq8QW399nbSNVCjzxLOSE.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2024-05-02",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.ccma.cat/3cat/les-feres/",
+  "id": 271538,
+  "in_production": true,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2025-11-14",
+  "last_episode_to_air": {
+    "id": 7473957,
+    "name": "Episode 18",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-18",
+    "episode_number": 18,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 16,
+    "season_number": 3,
+    "show_id": 271538,
+    "still_path": null
+  },
+  "name": "Les feres",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7167,
+      "logo_path": "/gUbU5TAWRQ7rV58zk1llnneaMMj.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "Les feres",
+  "overview": "",
+  "popularity": 10.7406,
+  "poster_path": "/ww5RDmxFDqUDSD9DFv6jPABZ56a.jpg",
+  "production_companies": [
+    {
+      "id": 211922,
+      "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    },
+    {
+      "id": 150120,
+      "logo_path": null,
+      "name": "Elsabeth Produccions",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-05-02",
+      "episode_count": 12,
+      "id": 418691,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ww5RDmxFDqUDSD9DFv6jPABZ56a.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-20",
+      "episode_count": 30,
+      "id": 434382,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lbk4fq1bHTw6y2vTEIasKUUXpYe.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-19",
+      "episode_count": 18,
+      "id": 479239,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 271538,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

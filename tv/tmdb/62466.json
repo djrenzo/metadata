@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/mzbaW6TjSFP5XgcCZd0kxKfLaeC.jpg",
+  "created_by": [
+    {
+      "id": 1456588,
+      "credit_id": "5537d8f2c3a3687845003dbd",
+      "name": "Darío Madrona",
+      "original_name": "Darío Madrona",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2545951,
+      "credit_id": "5f984b885bce9e0039aee993",
+      "name": "Ruth García",
+      "original_name": "Ruth García",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2010-01-12",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.antena3.com/series/los-protegidos/",
+  "id": 62466,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-06-13",
+  "last_episode_to_air": {
+    "id": 3237030,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2012-06-13",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 3,
+    "show_id": 62466,
+    "still_path": null
+  },
+  "name": "Los Protegidos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 400,
+      "logo_path": "/l7MngINTyv0O6mNlwNsUlhQ9iwZ.png",
+      "name": "Antena 3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 42,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Los Protegidos",
+  "overview": "",
+  "popularity": 10.0226,
+  "poster_path": "/nhhV1ezRv692vrw8IVLRAmmZ4HZ.jpg",
+  "production_companies": [
+    {
+      "id": 49394,
+      "logo_path": "/ksCltAjQsrjENzm9bbaA7Y9Rgr1.png",
+      "name": "Boomerang TV",
+      "origin_country": "ES"
+    },
+    {
+      "id": 54953,
+      "logo_path": null,
+      "name": "Ida y Vuelta",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-01-12",
+      "episode_count": 13,
+      "id": 66107,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dRmfAZ2WKRXpn4Br9OvcrUe4Zqr.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2011-01-16",
+      "episode_count": 14,
+      "id": 66108,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/az3ixkDO8qv8aOUMLZ1Cco6S5Zf.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2012-03-08",
+      "episode_count": 15,
+      "id": 66109,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/nhhV1ezRv692vrw8IVLRAmmZ4HZ.jpg",
+      "season_number": 3,
+      "vote_average": 3.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 62466,
+    "imdb_id": "tt1534370",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 181011,
+    "tvrage_id": null,
+    "wikidata_id": "Q2402176",
+    "facebook_id": "A3losprotegidos",
+    "instagram_id": null,
+    "twitter_id": "A3Losprotegidos"
+  }
+}

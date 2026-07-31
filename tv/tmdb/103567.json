@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/7mLN3c7INbWgAvle4dPWjgjTr4l.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2020-05-17",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.discoveryplus.dk/programmer/bare-elvira",
+  "id": 103567,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2021-12-24",
+  "last_episode_to_air": {
+    "id": 5874038,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-24",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 19,
+    "season_number": 2,
+    "show_id": 103567,
+    "still_path": null
+  },
+  "name": "Bare Elvira",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4440,
+      "logo_path": "/iKvdFk5lpbvs4g0vd6yVUcV36i3.png",
+      "name": "Discovery+",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 55,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Bare Elvira",
+  "overview": "",
+  "popularity": 10.8526,
+  "poster_path": "/1rtYlHN0ilF9hd8Nj88gQE5wssB.jpg",
+  "production_companies": [
+    {
+      "id": 156606,
+      "logo_path": "/jVvh0w5QuZ5f89zGOblTRsjtI8B.png",
+      "name": "United Production",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-05-17",
+      "episode_count": 25,
+      "id": 151098,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/e2zkLO2qREBOjyBlPgHORavtDhQ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-06",
+      "episode_count": 30,
+      "id": 189398,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6DQmLHmEnt379TWxdI5WZ2OsKQV.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 10,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 103567,
+    "imdb_id": "tt13079814",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 382500,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

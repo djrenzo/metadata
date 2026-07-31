@@ -1,0 +1,323 @@
+{
+  "adult": false,
+  "backdrop_path": "/seybe1nVuV1cut9yXgFN8R5MdWz.jpg",
+  "created_by": [
+    {
+      "id": 42,
+      "credit_id": "52576116760ee36aaa30546d",
+      "name": "Lars von Trier",
+      "original_name": "Lars von Trier",
+      "gender": 2,
+      "profile_path": "/a1zVySI0Yqqf3ORegQ1icMfvhAa.jpg"
+    }
+  ],
+  "episode_run_time": [
+    68
+  ],
+  "first_air_date": "1994-11-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://viaplay.no/serier/riket",
+  "id": 4267,
+  "in_production": false,
+  "languages": [
+    "da",
+    "la",
+    "sv",
+    "en"
+  ],
+  "last_air_date": "2022-10-30",
+  "last_episode_to_air": {
+    "id": 3996805,
+    "name": "Exodus",
+    "overview": "Karen, Krogen and Bulder are fighting against the clock. The time has come to clean The Kingdom of all evil spirits once and for all, but much can still go wrong.",
+    "vote_average": 7,
+    "vote_count": 2,
+    "air_date": "2022-10-30",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 3,
+    "show_id": 4267,
+    "still_path": "/jB6Ewx9aUWYU6ikTT4OLRafJjBL.jpg"
+  },
+  "name": "The Kingdom",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 391,
+      "logo_path": "/7xOoWHdhdfYE0Pn9ilYLB1lenpC.png",
+      "name": "DR1",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2869,
+      "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+      "name": "Viaplay",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Riget",
+  "overview": "The Kingdom is the most technologically advanced hospital in Denmark, a gleaming bastion of medical science. A rash of uncanny occurrences, however, begins to weaken the staff's faith in science – a phantom ambulance pulls in every night, but disappears; voices echo in the elevator shaft; and a pregnant doctor's fetus seems to be developing much faster than is natural.",
+  "popularity": 9.8302,
+  "poster_path": "/6Z0Hc9o6HIydmGOHok2e4FoWhXD.jpg",
+  "production_companies": [
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 183412,
+      "logo_path": "/aCu5rpsmB1l4mu7Zx49IYN4nZZs.png",
+      "name": "Ginger Pictures",
+      "origin_country": "BE"
+    },
+    {
+      "id": 119,
+      "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+      "name": "DR",
+      "origin_country": "DK"
+    },
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6505,
+      "logo_path": "/tjpzIYXGAh8DXoMIzYtuuUpiqb3.png",
+      "name": "Coproduction Office",
+      "origin_country": "DK"
+    },
+    {
+      "id": 118,
+      "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png",
+      "name": "Det Danske Filminstitut",
+      "origin_country": "DK"
+    },
+    {
+      "id": 123980,
+      "logo_path": null,
+      "name": "Greco",
+      "origin_country": ""
+    },
+    {
+      "id": 11332,
+      "logo_path": "/jL4OTBHDF4M6ZoG5ab4MPaXn3EW.png",
+      "name": "La Sept-Arte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11239,
+      "logo_path": null,
+      "name": "Liberator Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 851,
+      "logo_path": "/kieSA3GFVysJcAUXNRer06u6e5x.png",
+      "name": "MEDIA Programme of the European Union",
+      "origin_country": "BE"
+    },
+    {
+      "id": 54900,
+      "logo_path": "/yCYeqZosRZFwBNJK4clARa3E4la.png",
+      "name": "Nederlandse Omroepstichting (NOS)",
+      "origin_country": "NL"
+    },
+    {
+      "id": 5403,
+      "logo_path": "/fAz2WhTpoMxutBA92JqlfeHEGuz.png",
+      "name": "Nordisk Film & TV Fond",
+      "origin_country": "NO"
+    },
+    {
+      "id": 109843,
+      "logo_path": "/iwkwIEXWIPApzedElW5sY8LFZSx.png",
+      "name": "NRK",
+      "origin_country": "NO"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 97156,
+      "logo_path": null,
+      "name": "SVT Malmö",
+      "origin_country": "SE"
+    },
+    {
+      "id": 221825,
+      "logo_path": null,
+      "name": "TV Collaboration Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 8288,
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 11997,
+      "logo_path": "/jh15xr7Y10ZrgY1BwE3LGwcseu7.png",
+      "name": "BNP Paribas Fortis",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 12547,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/lReT7Feas2U4vjUZfuhab3pTanb.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-11-24",
+      "episode_count": 4,
+      "id": 12546,
+      "name": "The Kingdom I",
+      "overview": "At The Kingdom, Denmark's most technologically advanced hospital, a number of strange and otherworldly events begin occurring, much to the dismay of its doctors and patients. A ghostly ambulance appears and disappears, the voice of a little girl calls to a patient in an elevator shaft, and a doctor's fetus begins growing at an alarming rate.",
+      "poster_path": "/jmXIjQKzDu2lVHLvfIaACyzobxy.jpg",
+      "season_number": 1,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "1997-11-01",
+      "episode_count": 4,
+      "id": 12545,
+      "name": "The Kingdom II",
+      "overview": "The mutant fetus is born. Dr. Helmer comes under heavy scrutiny for a botched operation that left a patient braindead, and begins to dabble in the dark arts in order to ward off those seeking an end to his career. Hypochondriac Mrs. Drusse finally does have something bad happen to her medically when an ambulance hits her.",
+      "poster_path": "/irUg5eRKevlZTZ6hA5NafnufMiw.jpg",
+      "season_number": 2,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2022-10-09",
+      "episode_count": 5,
+      "id": 310768,
+      "name": "Exodus",
+      "overview": "Sleepwalker Karen is summoned to the Kingdom by a mysterious voice appearing to her in a nightmare, pleading for help. At the hospital, she comes across old friends of the Kingdom as well as new members of staff. To exorcise the evil spirits once and for all, Karen joins forces with the hospital porter, Bulder, and the heart surgeon, Judith – but satanic forces fight back.",
+      "poster_path": "/rsXM7Z5vav6EElhhvRtwuYh5QuD.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A baptism of fear awaits you at... THE KINGDOM",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 80,
+  "external_ids": {
+    "id": 4267,
+    "imdb_id": "tt0108906",
+    "freebase_mid": "/m/02_2b3",
+    "freebase_id": "/en/the_kingdom_1994",
+    "tvdb_id": 79137,
+    "tvrage_id": null,
+    "wikidata_id": "Q1331994",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

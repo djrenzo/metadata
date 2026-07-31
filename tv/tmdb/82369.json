@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/grDvhJYEZDVHqT0LSiOTmDclgS7.jpg",
+  "created_by": [
+    {
+      "id": 1575430,
+      "credit_id": "5faeb4e80d9f5a0042069bd3",
+      "name": "Gökçen Usta",
+      "original_name": "Gökçen Usta",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1606480,
+      "credit_id": "5faeb4f7245dbe003e6ab06d",
+      "name": "Merve Girgin",
+      "original_name": "Merve Girgin",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1256317,
+      "credit_id": "5faeb51f7ecd28003cbafa64",
+      "name": "Fatih Aksoy",
+      "original_name": "Fatih Aksoy",
+      "gender": 2,
+      "profile_path": "/bcgKRkfFUt00CTVG6wOSNmyMcC6.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2018-09-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tv8.com.tr/kizim",
+  "id": 82369,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2019-05-31",
+  "last_episode_to_air": {
+    "id": 1840099,
+    "name": "Episode 34",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-05-31",
+    "episode_number": 34,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 82369,
+    "still_path": null
+  },
+  "name": "My Little Girl",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2702,
+      "logo_path": "/nX4NrQzkUMjciGpripgTNLMPnJB.png",
+      "name": "TV8",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Kızım",
+  "overview": "Eight-year-old Öykü is an exceptional little girl, who unlike her peers is very empathetic and perceptive of the world around her. When her aunt, who has been her caregiver since birth, abandons her, Öykü will have to find her father, Demir. Unfortunately Demir, an irresponsible adult and a swindler who grew up in an orphanage, gets arrested the day Öykü comes to find him. Demir is released by the court on the condition that he takes care of his daughter, but Demir does not want to live with Öykü, whom he has just met - Demir and his partner-in-crime Ugur try to get rid of Öykü as they prepare for a big job. Their target, Candan has a seemingly quiet life, which only conceals her painful past. Fate will bring these people together, but none know that Öykü has a secret she cannot tell anyone.",
+  "popularity": 10.992,
+  "poster_path": "/8YfCSLOOQ8Me6y5CnTQfNsdz0ax.jpg",
+  "production_companies": [
+    {
+      "id": 58719,
+      "logo_path": "/991BsuqZrUI4N79qW87Ms9rwcpX.png",
+      "name": "MEDYAPIM",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-18",
+      "episode_count": 34,
+      "id": 109383,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8YfCSLOOQ8Me6y5CnTQfNsdz0ax.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 223,
+  "external_ids": {
+    "id": 82369,
+    "imdb_id": "tt8961058",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352215,
+    "tvrage_id": null,
+    "wikidata_id": "Q58808024",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

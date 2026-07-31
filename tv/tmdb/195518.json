@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/9hihRugXs804jkAUlL6HSi7iDYb.jpg",
+  "created_by": [
+    {
+      "id": 1155695,
+      "credit_id": "623612ee34e15200461e851d",
+      "name": "Dias Gomes",
+      "original_name": "Dias Gomes",
+      "gender": 2,
+      "profile_path": "/gFqaZccKbzfG4YzGo0U1hZfj2Gw.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1976-05-03",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 195518,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1976-12-31",
+  "last_episode_to_air": {
+    "id": 7183046,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1976-12-31",
+    "episode_number": 160,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 195518,
+    "still_path": null
+  },
+  "name": "Saramandaia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Saramandaia",
+  "overview": "Saramandaia is a Brazilian telenovela originally written by Dias Gomes in 1976. It's considered remarkable because of the Magic Realism (used by the author to subtly criticize the Military Regime of the time) and had 160 chapters.\n\nThe story centers on the name change that the city undergoes, promoted by the younger citizens and reviled by the older ones. It also focuses on the lives of the city's quirky residents.",
+  "popularity": 8.9475,
+  "poster_path": "/pKQ7NxHBr1boiWCZXC9o1mNLliY.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1976-05-03",
+      "episode_count": 160,
+      "id": 283959,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pKQ7NxHBr1boiWCZXC9o1mNLliY.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 195518,
+    "imdb_id": "tt0209788",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 443718,
+    "tvrage_id": null,
+    "wikidata_id": "Q3473452",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/5xZmiB68FtC29CiRWhXZygQdCKl.jpg",
+  "created_by": [
+    {
+      "id": 2327217,
+      "credit_id": "6055f7944557a0006816aba6",
+      "name": "Felipe Cano",
+      "original_name": "Felipe Cano",
+      "gender": 2,
+      "profile_path": "/9yWo7NQG6336CBCEB6du97UXriu.jpg"
+    },
+    {
+      "id": 2092183,
+      "credit_id": "6055f7a66f6a99002877d6b1",
+      "name": "Israel Sanchez",
+      "original_name": "Israel Sánchez",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2012-09-03",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 121253,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-12-17",
+  "last_episode_to_air": {
+    "id": 3065015,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-12-17",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 121253,
+    "still_path": null
+  },
+  "name": "Corazones Blindados",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Corazones Blindados",
+  "overview": "",
+  "popularity": 10.5615,
+  "poster_path": "/cFdjd1qHXnlJyO6j1RkQ4MO9R5C.jpg",
+  "production_companies": [
+    {
+      "id": 92435,
+      "logo_path": "/sS2aoNfKagyNkYDM9HNSsgciut2.png",
+      "name": "Teleset",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 85,
+      "id": 186936,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.7,
+  "vote_count": 87,
+  "external_ids": {
+    "id": 121253,
+    "imdb_id": "tt2523062",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5788207",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

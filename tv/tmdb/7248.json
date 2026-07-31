@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/pWZjTb2ixwVEzvnsvv3KYz5pvIs.jpg",
+  "created_by": [
+    {
+      "id": 1240498,
+      "credit_id": "52578a97760ee36aaa67898a",
+      "name": "Bruce Degen",
+      "original_name": "Bruce Degen",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1240497,
+      "credit_id": "52578a96760ee36aaa678981",
+      "name": "Joanna Cole",
+      "original_name": "Joanna Cole",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25,
+    26
+  ],
+  "first_air_date": "1994-09-10",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 7248,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1997-12-06",
+  "last_episode_to_air": {
+    "id": 385639,
+    "name": "Takes a Dive",
+    "overview": "When Wanda discovers that one of Ms. Frizzle’s ancestors was Redbeard the Pirate, she naturally wants to follow the treasure map he left. The map leads the class to a coral reef, where they learn firsthand that life there is risky.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "1997-12-06",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 4,
+    "show_id": 7248,
+    "still_path": "/1SLVmptebfuE2fxg7okHcjIG5N9.jpg"
+  },
+  "name": "The Magic School Bus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 122,
+      "logo_path": "/sTYUkII9IC015VMZEDkUVMnbpFt.png",
+      "name": "PBS Kids",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Magic School Bus",
+  "overview": "An eccentric schoolteacher takes her class on wondrous educational field trips with the help of a magical school bus.",
+  "popularity": 10.0223,
+  "poster_path": "/3A70wxUpplD4V3IcL8WmNFBgAbV.jpg",
+  "production_companies": [
+    {
+      "id": 82536,
+      "logo_path": "/mabdgKOeVcvGIQbAx4wNMzgTbkc.png",
+      "name": "South Carolina Educational Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1938,
+      "logo_path": "/Tmc9JLmLPTSQUgsMP4BjCN8Off.png",
+      "name": "Scholastic Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1023,
+      "logo_path": "/dJLh6G11paw58YGYYpcRZiKvzGW.png",
+      "name": "Nelvana",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-09-10",
+      "episode_count": 13,
+      "id": 17433,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7kMwrJSAPsCi204LND7PKAme7O2.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "1995-09-09",
+      "episode_count": 13,
+      "id": 17435,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sR6YhL88kcUbDCRpMbLAm15JAt2.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1996-09-14",
+      "episode_count": 13,
+      "id": 17434,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/da5qfAWluvAtVRD61Q2NaVY4txN.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1997-09-13",
+      "episode_count": 13,
+      "id": 17436,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/t4nogP7bxMFhNMptlJChNhygwjH.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Seat belts, everyone!",
+  "type": "Scripted",
+  "vote_average": 7.668,
+  "vote_count": 134,
+  "external_ids": {
+    "id": 7248,
+    "imdb_id": "tt0108847",
+    "freebase_mid": "/m/0411rf7",
+    "freebase_id": null,
+    "tvdb_id": 71416,
+    "tvrage_id": 5961,
+    "wikidata_id": "Q1189204",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

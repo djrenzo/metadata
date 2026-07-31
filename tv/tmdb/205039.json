@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/xB2vezSOt1BBmjB8KiZW24Xx925.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1988-06-26",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 205039,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "1990-08-29",
+  "last_episode_to_air": {
+    "id": 3811427,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1990-08-29",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 205039,
+    "still_path": null
+  },
+  "name": "Uğurlugiller",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 68,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Uğurlugiller",
+  "overview": "",
+  "popularity": 10.281,
+  "poster_path": "/75Dlm5kH5ZAtZliW2rFRIauP5gz.jpg",
+  "production_companies": [
+    {
+      "id": 178385,
+      "logo_path": null,
+      "name": "STR Entertainment",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1988-06-26",
+      "episode_count": 55,
+      "id": 299039,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-06-06",
+      "episode_count": 13,
+      "id": 299041,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 205039,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

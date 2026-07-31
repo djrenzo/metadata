@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/draGxDL9hObpdDFEfQuewvejzpO.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "2020-01-13",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 99241,
+  "in_production": true,
+  "languages": [
+    "en",
+    "ca",
+    "pt"
+  ],
+  "last_air_date": "2022-03-15",
+  "last_episode_to_air": {
+    "id": 4180566,
+    "name": "Halloween",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-03-15",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 6,
+    "season_number": 2,
+    "show_id": 99241,
+    "still_path": null
+  },
+  "name": "Mya Go",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 406,
+      "logo_path": "/bvjlXF06a7hR3vJ4IoFkGVLaBFo.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 1757,
+      "logo_path": "/ik9XikEiXCWipNqCx08G1dip21f.png",
+      "name": "RTÉjr",
+      "origin_country": "IE"
+    },
+    {
+      "id": 2623,
+      "logo_path": "/inGtGApEsEn7qBS7v5yvzNCU9la.png",
+      "name": "Gloob",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BR",
+    "IE",
+    "ES"
+  ],
+  "original_language": "en",
+  "original_name": "Mya Go",
+  "overview": "Set in the bustling town of Everyday, MyaGo lives here with the Go family. She embraces the joy of youth and her innate desire to try out and explore new things. She spends her days discovering the world around her and celebrates the wide variety of fun activities that Everyday has to offer.",
+  "popularity": 10.2852,
+  "poster_path": "/rUGJ0zA55t0rUHzCZb6Fx4DiZgp.jpg",
+  "production_companies": [
+    {
+      "id": 57903,
+      "logo_path": null,
+      "name": "Piranha Bar",
+      "origin_country": ""
+    },
+    {
+      "id": 20386,
+      "logo_path": null,
+      "name": "Entertainment Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 177444,
+      "logo_path": null,
+      "name": "Pil Animation",
+      "origin_country": ""
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 104,
+      "id": 143081,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zEQEkn9hLQg9U2gR6AIvm1xjIYS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 52,
+      "id": 325204,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rUGJ0zA55t0rUHzCZb6Fx4DiZgp.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 99241,
+    "imdb_id": "tt8960060",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 386422,
+    "tvrage_id": null,
+    "wikidata_id": "Q105883107",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

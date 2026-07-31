@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-11-05",
+  "genres": [],
+  "homepage": "",
+  "id": 97889,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2020-06-16",
+  "last_episode_to_air": {
+    "id": 2246997,
+    "name": "June 16, 2020",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-06-16",
+    "episode_number": 22,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 97889,
+    "still_path": null
+  },
+  "name": "WWE Backstage",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2317,
+      "logo_path": "/xAih9wNDjqvDmX9O9BA1bekRHQr.png",
+      "name": "FS1",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 38,
+  "number_of_seasons": 2,
+  "origin_country": [],
+  "original_language": "en",
+  "original_name": "WWE Backstage",
+  "overview": "WWE Backstage is a professional wrestling studio show where hosts and guests discuss the biggest news and stories in the WWE.",
+  "popularity": 9.4919,
+  "poster_path": "/kHk59JdUyPNzQdcXFThibR0T79L.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2019-11-05",
+      "episode_count": 12,
+      "id": 140902,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kHk59JdUyPNzQdcXFThibR0T79L.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-07",
+      "episode_count": 26,
+      "id": 149512,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 97889,
+    "imdb_id": "tt11378932",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 370158,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

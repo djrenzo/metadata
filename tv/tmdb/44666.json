@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/zGDdvASBEeBwcb85xJJiR4dx4aK.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "1987-10-21",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://lineup.toei-anim.co.jp/ja/tv/ladylady/",
+  "id": 44666,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1989-01-26",
+  "last_episode_to_air": {
+    "id": 1462479,
+    "name": "Episode 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1989-01-26",
+    "episode_number": 36,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 2,
+    "show_id": 44666,
+    "still_path": null
+  },
+  "name": "Lady Lady!!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 160,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 57,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "レディレディ！！",
+  "overview": "",
+  "popularity": 9.5839,
+  "poster_path": "/pAKZu7HmE3kOpcVkpAZuGMeuPaS.jpg",
+  "production_companies": [
+    {
+      "id": 5542,
+      "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+      "name": "Toei Animation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-10-21",
+      "episode_count": 21,
+      "id": 101505,
+      "name": "Lady Lady!!",
+      "overview": "",
+      "poster_path": "/pAKZu7HmE3kOpcVkpAZuGMeuPaS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-05-12",
+      "episode_count": 36,
+      "id": 101506,
+      "name": "Hello! Lady Lynn",
+      "overview": "",
+      "poster_path": "/uTbtPQqhsRqeq1sjz4RCVJyebuc.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.833,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 44666,
+    "imdb_id": "tt0294132",
+    "freebase_mid": "/m/0lhjcvf",
+    "freebase_id": null,
+    "tvdb_id": 241661,
+    "tvrage_id": null,
+    "wikidata_id": "Q135113097",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

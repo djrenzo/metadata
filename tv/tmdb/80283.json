@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/kbmyMgGHyQU6Q6H653qKA4V8uc7.jpg",
+  "created_by": [
+    {
+      "id": 1183723,
+      "credit_id": "5c431b0d9251411d860b91f2",
+      "name": "Walther Negrão",
+      "original_name": "Walther Negrão",
+      "gender": 2,
+      "profile_path": "/sLloM8nZyIxkKdpgGTHylVOqbHj.jpg"
+    },
+    {
+      "id": 583650,
+      "credit_id": "6772d61463f90f8f66927da6",
+      "name": "Suzana Pires",
+      "original_name": "Suzana Pires",
+      "gender": 1,
+      "profile_path": "/ymOgQW5pvFeZrO1d1BeqpezcqIy.jpg"
+    },
+    {
+      "id": 2069816,
+      "credit_id": "6772d61ee9cac07ec412bfb1",
+      "name": "Júlio Fischer",
+      "original_name": "Júlio Fischer",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2016-08-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 80283,
+  "in_production": false,
+  "languages": [
+    "pt",
+    "es"
+  ],
+  "last_air_date": "2017-03-21",
+  "last_episode_to_air": {
+    "id": 1509834,
+    "name": "Episode 175",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-03-21",
+    "episode_number": 175,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 80283,
+    "still_path": null
+  },
+  "name": "Rising Sun",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 175,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Sol Nascente",
+  "overview": "Alice is an independent woman, raised in a Japanese family; Mario is an immature guy of Italian origins. Two childhood friends from very distinct families, bond together by a complicity which spans generations. When Alice decides to live abroad, Mario begins to see in her more than just a friend. Now he will go out of his way to make this unlikely love story come to life in this romantic comedy tied by friendship.",
+  "popularity": 8.2514,
+  "poster_path": "/yJV7CViUax8YGvcdg1jU7ibyCun.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-08-29",
+      "episode_count": 175,
+      "id": 105323,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/JMuPnlfNsJpOg6uSYe55gIeaA2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Friendship can also become love",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 80283,
+    "imdb_id": "tt5975438",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 315290,
+    "tvrage_id": null,
+    "wikidata_id": "Q26251293",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

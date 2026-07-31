@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/qTPAAWDOL6U7ZFQXu1p5b8PLnea.jpg",
+  "created_by": [
+    {
+      "id": 2526119,
+      "credit_id": "66f6aa0254da42461f70c75f",
+      "name": "Amelia Dimoldenberg",
+      "original_name": "Amelia Dimoldenberg",
+      "gender": 1,
+      "profile_path": "/yQgnspeZZPq6ZHtzBbBUulgjeM6.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2014-12-03",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 272608,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-03-13",
+  "last_episode_to_air": {
+    "id": 7398177,
+    "name": "Zara Larsson",
+    "overview": "Amelia meets Zara Larsson for a date in a chicken shop.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-06-19",
+    "episode_number": 117,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 9,
+    "season_number": 1,
+    "show_id": 272608,
+    "still_path": "/gAQkhwbLfvOCyv4MkgnSaNh6Vpr.jpg"
+  },
+  "name": "Chicken Shop Date",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Chicken Shop Date",
+  "overview": "Amelia Dimoldenberg meets a celebrity guest at a local chicken shop for a date, engaging in casual, awkward, and sometimes flirtatious conversation.",
+  "popularity": 10.7475,
+  "poster_path": "/yWzqMTpyS6j16uBS4I7Sds02bY1.jpg",
+  "production_companies": [
+    {
+      "id": 240324,
+      "logo_path": null,
+      "name": "Dimz Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-07-19",
+      "episode_count": 38,
+      "id": 482607,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-12-03",
+      "episode_count": 117,
+      "id": 420468,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gUcfuzP0SyGLnamDZ3zjoXgeU96.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 272608,
+    "imdb_id": "tt9662962",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 404769,
+    "tvrage_id": null,
+    "wikidata_id": "Q124540432",
+    "facebook_id": null,
+    "instagram_id": "chickenshopdate",
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/kwGuWHVuamku1IJrBPW4S2nrfs1.jpg",
+  "created_by": [
+    {
+      "id": 1368388,
+      "credit_id": "640a3c4d2790bf0081cf2b68",
+      "name": "Anna Azevedo",
+      "original_name": "Anna Azevedo",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-09-16",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://globoplay.globo.com/sem-bloqueio/t/99pGLYfjdY/",
+  "id": 221955,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2024-09-13",
+  "last_episode_to_air": {
+    "id": 5589096,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-09-13",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 221955,
+    "still_path": null
+  },
+  "name": "Sem Bloqueio",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5326,
+      "logo_path": "/qbodYjIoPxGRMZtyu7QGGOnWkQ.png",
+      "name": "SporTV",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 15,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Sem Bloqueio",
+  "overview": "Sem Bloqueio will follow the behind-the-scenes action and off-court reality of the victorious girls of the Brazilian squad, their preparation and journey in the Nations League and the Paris 2024 Olympic Games.",
+  "popularity": 9.9572,
+  "poster_path": "/ni3rfydHXiBvGzbAoMtoNRhOjL8.jpg",
+  "production_companies": [
+    {
+      "id": 87983,
+      "logo_path": "/9BYbSn0fDieTZ74kyItUMcAKAIG.png",
+      "name": "Canal Azul",
+      "origin_country": "BR"
+    },
+    {
+      "id": 161929,
+      "logo_path": "/qbodYjIoPxGRMZtyu7QGGOnWkQ.png",
+      "name": "SporTV",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-16",
+      "episode_count": 5,
+      "id": 331826,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ni3rfydHXiBvGzbAoMtoNRhOjL8.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-15",
+      "episode_count": 5,
+      "id": 357317,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-23",
+      "episode_count": 5,
+      "id": 403067,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 221955,
+    "imdb_id": "tt27052961",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 424919,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

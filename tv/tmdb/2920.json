@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2507126,
+      "credit_id": "664fd63f781a6a5f8a18d2ac",
+      "name": "Alan Coleman",
+      "original_name": "Alan Coleman",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1974-03-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 2920,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1975-06-13",
+  "last_episode_to_air": {
+    "id": 2930936,
+    "name": "Episode 290",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1975-06-13",
+    "episode_number": 100,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 2920,
+    "still_path": null
+  },
+  "name": "Class of...",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 290,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Class of '74",
+  "overview": "Class of '74 was a secondary school-based, daily soap opera produced by the Reg Grundy Organisation and screened on the Seven Network in Australia starting March 1974. The main characters were a mix of teachers and other school personnel, and students. The series was aimed at a teenage audience. Each episode was 30 minutes; five episodes each week were broadcast, stripped across week nights in an early evening timeslot. The series was renamed Class of '75 for its second and final year. It also switched from black and white to colour during its second year on air.",
+  "popularity": 7.9583,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 28534,
+      "logo_path": null,
+      "name": "The Grundy Organization",
+      "origin_country": "AU"
+    },
+    {
+      "id": 46814,
+      "logo_path": "/b3sb5sFRj0EEpMHlNtFBO0fQKSw.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1974-03-18",
+      "episode_count": 190,
+      "id": 193791,
+      "name": "Class of '74",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 100,
+      "id": 193837,
+      "name": "Class of '75",
+      "overview": "",
+      "poster_path": "/hjnkt8ZQ9oNZITerEffq9Jsrvjf.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 2920,
+    "imdb_id": "tt0149430",
+    "freebase_mid": "/m/01hjl7",
+    "freebase_id": "/en/class_of_74",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5128028",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

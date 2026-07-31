@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/3PfezrOEgUlw03XKLuPjZt3sRJl.jpg",
+  "created_by": [
+    {
+      "id": 2141959,
+      "credit_id": "5bfda57b92514169ad02d2db",
+      "name": "Ivani Ribeiro",
+      "original_name": "Ivani Ribeiro",
+      "gender": 1,
+      "profile_path": "/8onmexHqwduu8CN8t9GbmeIo3f7.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1993-02-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 5576,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1993-09-24",
+  "last_episode_to_air": {
+    "id": 1869020,
+    "name": "Chapter 203",
+    "overview": "",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "1993-09-24",
+    "episode_number": 203,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 1,
+    "show_id": 5576,
+    "still_path": null
+  },
+  "name": "Secrets of Sand",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 203,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Mulheres de Areia",
+  "overview": "Twin sisters with contrasting personalities, Ruth and Raquel, rival in the fictional Pontal D'Areia, on the coast of Rio de Janeiro.",
+  "popularity": 10.5171,
+  "poster_path": "/zxjJx1m2Mz4zf1HtFrtyWzZfw6m.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    },
+    {
+      "id": 8413,
+      "logo_path": "/vZokJngHqGwMKJSgIUOky2Ui46a.png",
+      "name": "SIC - Sociedade Independente de Comunicação",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1993-02-01",
+      "episode_count": 203,
+      "id": 85523,
+      "name": "Temporada 1",
+      "overview": "",
+      "poster_path": "/zxjJx1m2Mz4zf1HtFrtyWzZfw6m.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 31,
+  "external_ids": {
+    "id": 5576,
+    "imdb_id": "tt0138247",
+    "freebase_mid": "/m/047d8jp",
+    "freebase_id": "/en/mulheres_de_areia",
+    "tvdb_id": 281319,
+    "tvrage_id": null,
+    "wikidata_id": "Q466801",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

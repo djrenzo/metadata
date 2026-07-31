@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/ut1sCfDiLGZEepBhXFqKb97uJiS.jpg",
+  "created_by": [
+    {
+      "id": 4377256,
+      "credit_id": "6728863c008c8137852df7b7",
+      "name": "Andrija Jarak",
+      "original_name": "Andrija Jarak",
+      "gender": 2,
+      "profile_path": "/taFHZ4Bck98O7xPW1jWyTbXuHAO.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-11-02",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://dosjejarak.rtl.hr/",
+  "id": 239275,
+  "in_production": true,
+  "languages": [
+    "hr"
+  ],
+  "last_air_date": "2025-12-29",
+  "last_episode_to_air": {
+    "id": 6778584,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-29",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 66,
+    "season_number": 3,
+    "show_id": 239275,
+    "still_path": "/eKdVf6gtQ3BfdUPmRhbB1az2opw.jpg"
+  },
+  "name": "The Jarak Dossier",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 324,
+      "logo_path": "/deuK1bWBjGfqMES4iGJTQquLmDP.png",
+      "name": "RTL Televizija",
+      "origin_country": "HR"
+    },
+    {
+      "id": 8912,
+      "logo_path": "/dVfKsdbep1CDQpLU4cByGN7Aola.png",
+      "name": "Voyo",
+      "origin_country": "HR"
+    }
+  ],
+  "number_of_episodes": 14,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_name": "Dosje Jarak",
+  "overview": "This documentary series examines the most unsettling criminal cases from Croatia and the region, reconstructing each crime through facts, testimonies, and archival records to reveal its circumstances, social context, and lasting impact on the public consciousness.",
+  "popularity": 9.8262,
+  "poster_path": "/9voQvI6vzAHvPIn1pzkqFXuIaH9.jpg",
+  "production_companies": [
+    {
+      "id": 174347,
+      "logo_path": null,
+      "name": "Voyo",
+      "origin_country": ""
+    },
+    {
+      "id": 166640,
+      "logo_path": "/uK1SJytO1HM70UpC1YGnTEw282f.png",
+      "name": "RTL Televizija",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-11-02",
+      "episode_count": 4,
+      "id": 365254,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9voQvI6vzAHvPIn1pzkqFXuIaH9.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-28",
+      "episode_count": 5,
+      "id": 426577,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/9ADEv2xF8ouDhFMjHzm46wyf1Jn.jpg",
+      "season_number": 2,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2025-12-01",
+      "episode_count": 5,
+      "id": 490614,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/iShrqoyMtHyM4HeYuFD4kr8czWi.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 239275,
+    "imdb_id": "tt31502199",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 441438,
+    "tvrage_id": null,
+    "wikidata_id": "Q130858978",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

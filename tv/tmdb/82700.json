@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/hcS061TTRke127eJtrbWWPIjUZe.jpg",
+  "created_by": [
+    {
+      "id": 1706378,
+      "credit_id": "5bb1d895c3a368141d012cfb",
+      "name": "Andrea De Sica",
+      "original_name": "Andrea De Sica",
+      "gender": 2,
+      "profile_path": "/5TlOJzfqeOM1GyAWn4FkaLw2brL.jpg"
+    },
+    {
+      "id": 2748663,
+      "credit_id": "602e8a1bd55c3d003e1fe061",
+      "name": "Antonio Le Fosse",
+      "original_name": "Antonio Le Fosse",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2323559,
+      "credit_id": "602e8a2455c1f4003c059812",
+      "name": "Giacomo Mazzariol",
+      "original_name": "Giacomo Mazzariol",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2748664,
+      "credit_id": "602e8a35c3bffe0040362229",
+      "name": "Marco Raspanti",
+      "original_name": "Marco Raspanti",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2982666,
+      "credit_id": "602e8a3f44ea540041d74cb6",
+      "name": "Romolo Re Salvador",
+      "original_name": "Romolo Re Salvador",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2748665,
+      "credit_id": "602e8a54cedac40041545b2a",
+      "name": "Eleonora Trucchi",
+      "original_name": "Eleonora Trucchi",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2018-11-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80211634",
+  "id": 82700,
+  "in_production": false,
+  "languages": [
+    "pt",
+    "es",
+    "it"
+  ],
+  "last_air_date": "2020-09-16",
+  "last_episode_to_air": {
+    "id": 2429426,
+    "name": "Beyond the Aquarium",
+    "overview": "As the case goes to trial, Chiara and Ludo weigh their options for the future and scour Rome for the one person who could help bring Fiore to justice.",
+    "vote_average": 5.833,
+    "vote_count": 6,
+    "air_date": "2020-09-16",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 3,
+    "show_id": 82700,
+    "still_path": "/ukvWDCL0dnXEcS3xqmhLiYhRc7D.jpg"
+  },
+  "name": "Baby",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 18,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Baby",
+  "overview": "Fed up with their families and classmates, two teen girls from a wealthy part of Rome are drawn to the city's underworld and start leading double lives.",
+  "popularity": 9.5367,
+  "poster_path": "/xswkOJni9tJYda2yN1QQtgBVaVJ.jpg",
+  "production_companies": [
+    {
+      "id": 88730,
+      "logo_path": "/rclWo1sEkHF2efRuPEkq9AsatL5.png",
+      "name": "Fabula Pictures",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-11-30",
+      "episode_count": 6,
+      "id": 110097,
+      "name": "Season 1",
+      "overview": "Fed up with their families and classmates, two teen girls from a wealthy part of Rome are drawn to the city's underworld and start leading double lives.",
+      "poster_path": "/9ybbT7fEPlablmEWcduP9RthaLo.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2019-10-18",
+      "episode_count": 6,
+      "id": 132083,
+      "name": "Season 2",
+      "overview": "Chiara struggles to break free from the underworld, Ludo faces new complications in every part of her life, and Damiano scrambles to pay off his debt.",
+      "poster_path": "/8QNWF4yyQbtDQMju6JFqfp0sHNE.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2020-09-16",
+      "episode_count": 6,
+      "id": 159821,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/wnRREEx8h2OBA3QuHxwZxfTqCcZ.jpg",
+      "season_number": 3,
+      "vote_average": 5.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Can you keep a secret?",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 911,
+  "external_ids": {
+    "id": 82700,
+    "imdb_id": "tt7645192",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 351911,
+    "tvrage_id": null,
+    "wikidata_id": "Q59101449",
+    "facebook_id": null,
+    "instagram_id": "baby_netflix",
+    "twitter_id": null
+  }
+}

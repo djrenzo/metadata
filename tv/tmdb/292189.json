@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/2MnJ7VIL5wDbKS6C6XnTZ5FLbVX.jpg",
+  "created_by": [
+    {
+      "id": 123455,
+      "credit_id": "683054f5d52d48e4412b62fe",
+      "name": "Henriette Steenstrup",
+      "original_name": "Henriette Steenstrup",
+      "gender": 1,
+      "profile_path": "/nlWESpEQczr8OwBbxuNTxLcNAkc.jpg"
+    },
+    {
+      "id": 1533275,
+      "credit_id": "683054fba64da04346b6a873",
+      "name": "Siri Seljeseth",
+      "original_name": "Siri Seljeseth",
+      "gender": 1,
+      "profile_path": "/2YLffjKUyXxl6NO282pOsu4oc9y.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2025-10-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://play.tv2.no/serier/nepobaby-e6rrt3cb",
+  "id": 292189,
+  "in_production": true,
+  "languages": [
+    "no"
+  ],
+  "last_air_date": "2025-11-11",
+  "last_episode_to_air": {
+    "id": 6255047,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-11",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 292189,
+    "still_path": "/tO0bfqzARega3KYTG9QA0v08Xqr.jpg"
+  },
+  "name": "Nepobaby",
+  "next_episode_to_air": {
+    "id": 7230133,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-28",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 292189,
+    "still_path": "/iF7i5thPhLJMj4DXDGXT3T1pG8A.jpg"
+  },
+  "networks": [
+    {
+      "id": 467,
+      "logo_path": "/3H7IFyVOoOwjd2nemF1TdQ2HRTR.png",
+      "name": "TV 2 Direkte",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Nepobaby",
+  "overview": "Emma is a working-class 25-year-old who discovers she's actually the daughter of a Norwegian shipping magnate. The news comes as a shock, and even more surprising is that she has been named in his will, inheriting a large portion of the family business, but the inheritance comes with an even greater revelation – four siblings she never knew existed.",
+  "popularity": 10.0297,
+  "poster_path": "/9aepIJg1PGd5DD6rgdVp1gG63YQ.jpg",
+  "production_companies": [
+    {
+      "id": 263160,
+      "logo_path": "/itKoh8og5WGqPfLw0LA67xH51vz.png",
+      "name": "Eldorado Content Club",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-10-23",
+      "episode_count": 6,
+      "id": 457748,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7RglOEbAvUTRazkt2X3soNZvSWW.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2026-08-28",
+      "episode_count": 6,
+      "id": 514533,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/m1urVhI9xlNtGxXfERsdBZFFnFi.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 292189,
+    "imdb_id": "tt34586849",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 457170,
+    "tvrage_id": null,
+    "wikidata_id": "Q136704530",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

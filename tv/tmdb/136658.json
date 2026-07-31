@@ -1,0 +1,140 @@
+{
+  "adult": false,
+  "backdrop_path": "/7IhLd6ySoUMCEuAXPLkApZfJLpB.jpg",
+  "created_by": [
+    {
+      "id": 126437,
+      "credit_id": "616d9cae6728a80043d3f724",
+      "name": "Riccardo Donna",
+      "original_name": "Riccardo Donna",
+      "gender": 2,
+      "profile_path": "/sZuxE2fgjZsihSBZhZwiqoj8Xdq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    49,
+    53,
+    55,
+    54,
+    48
+  ],
+  "first_air_date": "2021-10-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.raiplay.it/programmi/cuori",
+  "id": 136658,
+  "in_production": true,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2026-03-08",
+  "last_episode_to_air": {
+    "id": 6907197,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-08",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 136658,
+    "still_path": null
+  },
+  "name": "Hearts",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    },
+    {
+      "id": 3463,
+      "logo_path": "/xuijJ556OSE9xqw9C6Y8nf3liKP.png",
+      "name": "RaiPlay",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 40,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Cuori",
+  "overview": "Follows a pioneer of Italian cardiology and a specialist who returns from America and has to struggle with male stereotypes. The challenge of research and above all the fervent and driving atmosphere of the progressive Italy of the sixties.",
+  "popularity": 10.1484,
+  "poster_path": "/l6E0xqdKt6zk26xo5br03fO4rI6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-10-17",
+      "episode_count": 16,
+      "id": 216157,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/h5h4HSIIaTVEhLF8o4SsGH2PoL.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 12,
+      "id": 356287,
+      "name": "Season 2",
+      "overview": "Having become a father, Alberto has to face a new challenge: Luisa has had a heart attack, perhaps caused by the electroshock treatments that were supposed to treat her. It's a huge blow to the department.",
+      "poster_path": "/3UAstD5wE6QjgQPqab9PeeWDtPk.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-02-01",
+      "episode_count": 12,
+      "id": 498366,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.537,
+  "vote_count": 27,
+  "external_ids": {
+    "id": 136658,
+    "imdb_id": "tt14915596",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 408035,
+    "tvrage_id": null,
+    "wikidata_id": "Q109569198",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

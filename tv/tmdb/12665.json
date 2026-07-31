@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/a2gUUkejdTERdMZgaVcMKMjfsGL.jpg",
+  "created_by": [
+    {
+      "id": 138352,
+      "credit_id": "62e90e9b764b99005ee342de",
+      "name": "Alberto Cortés",
+      "original_name": "Alberto Cortés",
+      "gender": 2,
+      "profile_path": "/zbucMmHCj0biNNKXNKIpHsmUG24.jpg"
+    },
+    {
+      "id": 1127932,
+      "credit_id": "62e90e84fc5f0600610762ee",
+      "name": "Helen Hunt Jackson",
+      "original_name": "Helen Hunt Jackson",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 3646865,
+      "credit_id": "62e90e77091e62005d2b81dc",
+      "name": "Lucy Orozco",
+      "original_name": "Lucy Orozco",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2000-04-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12665,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2000-07-14",
+  "last_episode_to_air": {
+    "id": 4476413,
+    "name": "Episode 74",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-07-14",
+    "episode_number": 74,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 12665,
+    "still_path": null
+  },
+  "name": "Ramona",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 74,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Ramona",
+  "overview": "Ramona is a Mexican telenovela, based on the 1884 novel Ramona by Helen Hunt Jackson. It aired in 2000 on Televisa and was written by Lucy Orozco and Humberto Robles. This production featured Kate Del Castillo as Ramona and Eduardo Palomo as Alejandro.",
+  "popularity": 10.0442,
+  "poster_path": "/38LBnrLdN39rqlkcQiCiAir5ZHx.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-04-03",
+      "episode_count": 74,
+      "id": 292897,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kYiwijI2ckQISVbarnASnTUIkqc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 12665,
+    "imdb_id": "tt0211852",
+    "freebase_mid": "/m/05v5wf",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q753674",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 85843,
+      "credit_id": "5257fc9419c29531db312c88",
+      "name": "James Fritzell",
+      "original_name": "James Fritzell",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    30
+  ],
+  "first_air_date": "1968-09-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 10099,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1973-03-12",
+  "last_episode_to_air": {
+    "id": 417471,
+    "name": "Byline ... Alias Doris",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1973-03-12",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 10099,
+    "still_path": null
+  },
+  "name": "The Doris Day Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 128,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Doris Day Show",
+  "overview": "The Doris Day Show is an American sitcom that was originally broadcast on the CBS network from September 1968 until March 1973, remaining on the air for five seasons and 128 episodes. In addition to showcasing Doris Day, the show is remembered for its many abrupt format changes over the course of its five-year run. It is also remembered for Day's statement, in her autobiography Doris Day: Her Own Story, that her husband Martin Melcher had signed her to do the TV series without her knowledge, a fact she only discovered when Melcher died of heart disease on April 20, 1968. The TV show premiered on Tuesday, September 24, 1968.",
+  "popularity": 10.3045,
+  "poster_path": "/zdDgcr6w6l6eaYigrX5ggnuU5Mp.jpg",
+  "production_companies": [
+    {
+      "id": 1823,
+      "logo_path": null,
+      "name": "Arwin Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1968-09-24",
+      "episode_count": 28,
+      "id": 20047,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fsTyAxML6zy0jfW8DwDslfxPLuf.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-22",
+      "episode_count": 26,
+      "id": 20048,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1fNIatJltE2a9DX5BC04pgxbwr4.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1970-09-14",
+      "episode_count": 26,
+      "id": 20049,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/veO5pPn9SX975YbtGfBeTEINhL0.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-09-13",
+      "episode_count": 24,
+      "id": 20045,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/21Kr7aAh7uNdM4lW9MHYK9FYrjB.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-09-11",
+      "episode_count": 24,
+      "id": 20046,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/3qaKNQDRwkD3FVzpJR166EQ7Vib.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 10099,
+    "imdb_id": "tt0062558",
+    "freebase_mid": "/m/0559fq",
+    "freebase_id": "/en/the_doris_day_show",
+    "tvdb_id": 71658,
+    "tvrage_id": null,
+    "wikidata_id": "Q1248026",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

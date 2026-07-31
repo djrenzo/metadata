@@ -1,0 +1,195 @@
+{
+  "adult": false,
+  "backdrop_path": "/7EcIGw20qicWINn2BHWxa10V9ty.jpg",
+  "created_by": [
+    {
+      "id": 1397227,
+      "credit_id": "60099cfe2d531a00586156fe",
+      "name": "Tania Alexander",
+      "original_name": "Tania Alexander",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1236646,
+      "credit_id": "60099cf4e04d8a003ec2afb3",
+      "name": "Stephen Lambert",
+      "original_name": "Stephen Lambert",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2021-01-21",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 116278,
+  "in_production": true,
+  "languages": [
+    "no"
+  ],
+  "last_air_date": "2026-03-26",
+  "last_episode_to_air": {
+    "id": 7028851,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-28",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 116278,
+    "still_path": "/w7XtzdwxfhpLGwhcRPQZYJKRDGZ.jpg"
+  },
+  "name": "Sofa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 467,
+      "logo_path": "/3H7IFyVOoOwjd2nemF1TdQ2HRTR.png",
+      "name": "TV 2 Direkte",
+      "origin_country": "NO"
+    },
+    {
+      "id": 4461,
+      "logo_path": "/25brfrubMmEEdFJPX7z0uC9X1ju.png",
+      "name": "TV 2 Play",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 70,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Sofa",
+  "overview": "Sofa invites us into the living rooms of well-known personalities as they watch and react to TV from the comfort of their own couches - giving us a genuine fly-on-the-wall glimpse into their viewing habits.",
+  "popularity": 9.8269,
+  "poster_path": "/rQoKN5SYulhRBTyL4Ryxw0tz3MJ.jpg",
+  "production_companies": [
+    {
+      "id": 127425,
+      "logo_path": "/dQ8UIHRccY0mssU09d6nQOd4aFE.png",
+      "name": "Strix Televisjon [NO]",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-01-21",
+      "episode_count": 10,
+      "id": 175658,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rQoKN5SYulhRBTyL4Ryxw0tz3MJ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-14",
+      "episode_count": 10,
+      "id": 213913,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-13",
+      "episode_count": 10,
+      "id": 238897,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-19",
+      "episode_count": 10,
+      "id": 323371,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/imRCsy8KjpZvg6haUBpZzFlPev6.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-11",
+      "episode_count": 10,
+      "id": 369493,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/ttPN6QHijlMMzntk8XNnF7F0HRy.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-18",
+      "episode_count": 10,
+      "id": 441185,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/s8FxxXHj39y3nUqq9gaos7SMeH8.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-26",
+      "episode_count": 10,
+      "id": 499473,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/AfaUu1kL0QiYWpoPucLJt4kqNWC.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 116278,
+    "imdb_id": "tt5078830",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 395640,
+    "tvrage_id": null,
+    "wikidata_id": "Q25438670",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/mCbh1Mzcu6AlTO4aFlfnwfKsxsE.jpg",
+  "created_by": [
+    {
+      "id": 3027,
+      "credit_id": "5f909cd2383df20034afe307",
+      "name": "Stephen King",
+      "original_name": "Stephen King",
+      "gender": 2,
+      "profile_path": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1994-05-08",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9045,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1994-05-12",
+  "last_episode_to_air": {
+    "id": 403420,
+    "name": "The Stand",
+    "overview": "The final confrontation between good and evil takes shape. Tom gathers information and tries to return to Boulder. With Mother Abigail gone and several members of the committee killed in an explosion, Stu, Larry, Glen and Ralph set off West as instructed. Nadine and Harold set off for Las Vegas but Randall Flagg has something special in store for both of them. Flagg's group starts to fall apart. Trashcan Man decides to set the biggest fire of his life.",
+    "vote_average": 6.6,
+    "vote_count": 10,
+    "air_date": "1994-05-12",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 93,
+    "season_number": 1,
+    "show_id": 9045,
+    "still_path": "/vJIZXatYJ8cxblXLbQczP7pOfKn.jpg"
+  },
+  "name": "The Stand",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 4,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Stand",
+  "overview": "After a deadly plague kills most of the world’s population, the remaining survivors split into two groups - one led by a benevolent elder and the other by a maleficent being - to face each other in a final battle between good and evil.",
+  "popularity": 10.668,
+  "poster_path": "/o4Gb63aXRh5mMqGifYACixnxGkQ.jpg",
+  "production_companies": [
+    {
+      "id": 2483,
+      "logo_path": null,
+      "name": "Laurel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3156,
+      "logo_path": null,
+      "name": "Greengrass Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 18972,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/pOw4eEXL2FWay6K5uIsz8asht89.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-05-08",
+      "episode_count": 4,
+      "id": 18973,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/sqGJ2pC5X5cmMvRcjp91xmWwQcR.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The end of the world is just the beginning.",
+  "type": "Miniseries",
+  "vote_average": 6.81,
+  "vote_count": 525,
+  "external_ids": {
+    "id": 9045,
+    "imdb_id": "tt0108941",
+    "freebase_mid": "/m/09fc83",
+    "freebase_id": "/en/the_stand_1994",
+    "tvdb_id": 79866,
+    "tvrage_id": null,
+    "wikidata_id": "Q1752538",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

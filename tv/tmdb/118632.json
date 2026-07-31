@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1983-10-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 118632,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2001-12-01",
+  "last_episode_to_air": {
+    "id": 2726035,
+    "name": "Episode 68",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-12-01",
+    "episode_number": 68,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 118632,
+    "still_path": null
+  },
+  "name": "Das Verkehrsgericht",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 68,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Das Verkehrsgericht",
+  "overview": "",
+  "popularity": 10.0499,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-10-25",
+      "episode_count": 68,
+      "id": 181178,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 118632,
+    "imdb_id": "tt0299410",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q15804688",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

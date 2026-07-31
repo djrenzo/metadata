@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/lgfoRZXp5E0pvAFOHUvuIUDD5tN.jpg",
+  "created_by": [
+    {
+      "id": 2510048,
+      "credit_id": "5e1e1e7ba6c1040011841848",
+      "name": "Luis López Aliaga",
+      "original_name": "Luis López Aliaga",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2510049,
+      "credit_id": "5e1e1e84a6c1040011841852",
+      "name": "Ángela Bascuñán",
+      "original_name": "Ángela Bascuñán",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2357905,
+      "credit_id": "5e1e1e8da6c104001683f912",
+      "name": "Vicente Sabatini",
+      "original_name": "Vicente Sabatini",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2016-08-15",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 97880,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2017-03-14",
+  "last_episode_to_air": {
+    "id": 4611545,
+    "name": "Episode 149",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-03-14",
+    "episode_number": 149,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 97880,
+    "still_path": null
+  },
+  "name": "El camionero",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 149,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "El camionero",
+  "overview": "The story of a free spirit truck driver known for his easy-going life style with women.",
+  "popularity": 6.0584,
+  "poster_path": "/iNbWbcHQhPHzf4kt9YFa7Z6x1RY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-08-15",
+      "episode_count": 149,
+      "id": 140888,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vgyqEeMz8Fvfd7JXPE2uEEdJYgl.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 97880,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

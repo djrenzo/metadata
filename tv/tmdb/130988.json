@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/gQkTwTdRPq42WAGWHkYAKAwUJA2.jpg",
+  "created_by": [
+    {
+      "id": 3605482,
+      "credit_id": "64d4a13cdd926a01e732e1fa",
+      "name": "Perla Ramírez",
+      "original_name": "Perla Ramírez",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4207305,
+      "credit_id": "64d4a156db4ed6011c4add9d",
+      "name": "Ruth Viasús",
+      "original_name": "Ruth Viasús",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2004-08-17",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 130988,
+  "in_production": false,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "2005-08-29",
+  "last_episode_to_air": {
+    "id": 6402001,
+    "name": "Episode 270",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-08-29",
+    "episode_number": 270,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 130988,
+    "still_path": null
+  },
+  "name": "Séptima puerta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 270,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Séptima puerta",
+  "overview": "",
+  "popularity": 9.1792,
+  "poster_path": "/zIxrmnB5a9rXyWp6tUYZTgxZHO0.jpg",
+  "production_companies": [
+    {
+      "id": 2586,
+      "logo_path": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+      "name": "Caracol Televisión",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2004-08-17",
+      "episode_count": 270,
+      "id": 205531,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bqMnd36LhzgioM57TnxATzxsVXg.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 130988,
+    "imdb_id": "tt0449551",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6137065",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

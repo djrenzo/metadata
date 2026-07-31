@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/2pjskb0guIdWvdSvQbjDvPfQYxm.jpg",
+  "created_by": [
+    {
+      "id": 954258,
+      "credit_id": "5330523a9251413a75005a0f",
+      "name": "Valentina Párraga",
+      "original_name": "Valentina Párraga",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 937724,
+      "credit_id": "5330524b9251413a6f005bb7",
+      "name": "José Ignacio Cabrujas",
+      "original_name": "José Ignacio Cabrujas",
+      "gender": 2,
+      "profile_path": "/2oLfRG7zcXuSjQYQ8geiqTWwiSb.jpg"
+    },
+    {
+      "id": 989887,
+      "credit_id": "533052549251413a7b005a2f",
+      "name": "Julio César Mármol",
+      "original_name": "Julio César Mármol",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2013-01-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/la-patrona",
+  "id": 44914,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2013-07-04",
+  "last_episode_to_air": {
+    "id": 1741800,
+    "name": "Episode 128",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-07-04",
+    "episode_number": 128,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 44914,
+    "still_path": "/e1QlKyapT7mtcWkdw9oeVdAcyu4.jpg"
+  },
+  "name": "The Return",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 128,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "La Patrona",
+  "overview": "La Patrona is a Spanish-language telenovela produced by United States-based television network Telemundo Studios, Miami and Mexican Argos Comunicación. The telenovela is a remake of the Venezuelan telenovela La Dueña, written by José Ignacio Cabrujas.\n\nThe name reflects a local term or slang in Mexico to address a person recognized as the main boss. However, the title is also a reflection of both the protagonist and the antagonist struggle to conquer power, authority and respect in a labor field traditionally deemed to be a man's job.",
+  "popularity": 6.7556,
+  "poster_path": "/sY5Uf3VQmxA3MVxSgdDrHQcKwCV.jpg",
+  "production_companies": [
+    {
+      "id": 21123,
+      "logo_path": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 21124,
+      "logo_path": "/cqh1ellbulvv8lbRxiOajrE7X7G.png",
+      "name": "Argos Comunicación",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-01-08",
+      "episode_count": 128,
+      "id": 60156,
+      "name": "Season 1",
+      "overview": "Gabriela Suárez (Aracely Arámbula) is the only woman working in the gold mine that gives life and name to the town of San Pedro del Oro. Gabriela is the daughter of Tigre Suárez, the most experienced mining place, but being single mother and wife, suffering the taunts and abuse from some of the miners. Her strong character makes rebelling against these abuses.",
+      "poster_path": "/5xCnvd05gE9ghDAig9epZBaz7hb.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.795,
+  "vote_count": 331,
+  "external_ids": {
+    "id": 44914,
+    "imdb_id": "tt2585808",
+    "freebase_mid": "/m/0jwwcwj",
+    "freebase_id": null,
+    "tvdb_id": 292414,
+    "tvrage_id": null,
+    "wikidata_id": "Q423106",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

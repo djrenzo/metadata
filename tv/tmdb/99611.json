@@ -1,0 +1,228 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2014-09-27",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.thehenryford.org/explore/innovation-nation/",
+  "id": 99611,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-07-20",
+  "last_episode_to_air": {
+    "id": 5461056,
+    "name": "Mail Order Shopping",
+    "overview": "Searching for sunken treasure with an underwater drone; the paddleboard pumped up with a hydro jet; the ping pong robot sharpening one's backhand; when mail order shopping began.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-07-20",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 10,
+    "show_id": 99611,
+    "still_path": null
+  },
+  "name": "The Henry Ford's Innovation Nation",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 252,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Henry Ford's Innovation Nation",
+  "overview": "The Henry Ford’s Innovation Nation is a weekly Saturday morning show on CBS that showcases present-day change-makers from all over the world who are creating solutions to real needs. It is hosted by news correspondent and CBS Sunday Morning regular Mo Rocca. Each episode presents stories related to the process of innovation and also includes one story on The Henry Ford—its Archive of American Innovation, its unique visitor experiences and its unparalleled expertise. The intent is to stimulate curiosity and to inspire audiences with entertaining yet educational stories about yesterday and today’s visionaries and turning points that changed the course of history, as well as innovations and inventions that are changing the world today. The Henry Ford’s Innovation Nation is produced in partnership by The Henry Ford and Litton Entertainment, a leading independent production and distribution company.",
+  "popularity": 8.7631,
+  "poster_path": "/7YDU977mxN8Z67RT5CfSa8mpZgk.jpg",
+  "production_companies": [
+    {
+      "id": 159077,
+      "logo_path": null,
+      "name": "Ampersand Media",
+      "origin_country": ""
+    },
+    {
+      "id": 156341,
+      "logo_path": null,
+      "name": "Litton Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 159078,
+      "logo_path": null,
+      "name": "MTO Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 159079,
+      "logo_path": null,
+      "name": "Henry Ford Museum",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-27",
+      "episode_count": 26,
+      "id": 143699,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-03",
+      "episode_count": 26,
+      "id": 143726,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-01",
+      "episode_count": 26,
+      "id": 143727,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-30",
+      "episode_count": 26,
+      "id": 143728,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-29",
+      "episode_count": 26,
+      "id": 143729,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-28",
+      "episode_count": 26,
+      "id": 143730,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-02",
+      "episode_count": 26,
+      "id": 205885,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-02",
+      "episode_count": 22,
+      "id": 352375,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-01",
+      "episode_count": 23,
+      "id": 352406,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-07",
+      "episode_count": 25,
+      "id": 367240,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Dream Big...Don't Quit",
+  "type": "Documentary",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 99611,
+    "imdb_id": "tt4086030",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 287166,
+    "tvrage_id": null,
+    "wikidata_id": "Q55960534",
+    "facebook_id": "CBSInnovationNation",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

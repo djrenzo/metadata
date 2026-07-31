@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/wu444tM9YBllq9UcBv5TeidO3j3.jpg",
+  "created_by": [
+    {
+      "id": 1241108,
+      "credit_id": "5dd9db508e2e000015ef6436",
+      "name": "Adam Price",
+      "original_name": "Adam Price",
+      "gender": 2,
+      "profile_path": "/eJiR7YJilbjZodKpc8oMjmn8Pd.jpg"
+    },
+    {
+      "id": 1667966,
+      "credit_id": "64eb4808c613ce012cc61147",
+      "name": "Emilie Lebech Kaae",
+      "original_name": "Emilie Lebech Kaae",
+      "gender": 1,
+      "profile_path": "/ixfnXIBNh7NpIH7OpHLTl67JAy7.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-01-31",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80232926",
+  "id": 91557,
+  "in_production": false,
+  "languages": [
+    "no"
+  ],
+  "last_air_date": "2023-08-24",
+  "last_episode_to_air": {
+    "id": 4530011,
+    "name": "Ragnarok",
+    "overview": "Despite Edda's embrace of a new dawn, the young God of Thunder cannot evade the predestined future that awaits.",
+    "vote_average": 5.25,
+    "vote_count": 16,
+    "air_date": "2023-08-24",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 91557,
+    "still_path": "/lGvc2FXPGS1KuiBpqetRu33gZyE.jpg"
+  },
+  "name": "Ragnarok",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 18,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Ragnarok",
+  "overview": "A small Norwegian town experiencing warm winters and violent downpours seems to be headed for another Ragnarök -- unless someone intervenes in time.",
+  "popularity": 11.0186,
+  "poster_path": "/9rWGgUJSuVEgaScOKbJPc9wkR3v.jpg",
+  "production_companies": [
+    {
+      "id": 87754,
+      "logo_path": "/qoW4oiZk5rlL9RQjFgz2z6c35Et.png",
+      "name": "SAM Productions",
+      "origin_country": "DK"
+    },
+    {
+      "id": 25713,
+      "logo_path": null,
+      "name": "Ghost VFX",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-31",
+      "episode_count": 6,
+      "id": 128408,
+      "name": "Season 1",
+      "overview": "In a Norwegian town poisoned by pollution and rattled by melting glaciers, the End Times feel all too real. It’ll take a legend to battle an old evil.",
+      "poster_path": "/valg92zeiTvxRdZ7FZXuSql7UCL.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2021-05-27",
+      "episode_count": 6,
+      "id": 192651,
+      "name": "Season 2",
+      "overview": "Mythical chaos looms as Magne looks for help in his continuing fight against giant foes and deals with an unmanageable brother with godlike powers.",
+      "poster_path": "/zbTw0eIBsuMIbow5HkXt5uTr1xX.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2023-08-24",
+      "episode_count": 6,
+      "id": 329838,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/pDTFMAXLi8KsnsWFqPzjshYXRje.jpg",
+      "season_number": 3,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "This is where it all begins.",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 1136,
+  "external_ids": {
+    "id": 91557,
+    "imdb_id": "tt9251798",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 379873,
+    "tvrage_id": null,
+    "wikidata_id": "Q83962233",
+    "facebook_id": null,
+    "instagram_id": "ragnaroknetflix",
+    "twitter_id": null
+  }
+}

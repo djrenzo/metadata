@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/4dqq8nB8xmdam9UoCDGSJ1dElE9.jpg",
+  "created_by": [
+    {
+      "id": 1222919,
+      "credit_id": "5257867319c29531db29a327",
+      "name": "Bob Stewart",
+      "original_name": "Bob Stewart",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2021-02-22",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 6455,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-05-27",
+  "last_episode_to_air": {
+    "id": 3740635,
+    "name": "Mahjong Moms vs. Pam Family",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-05-27",
+    "episode_number": 45,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 6455,
+    "still_path": null
+  },
+  "name": "Chain Reaction",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 63,
+      "logo_path": "/8wCI3fSTKCU3R1PwgqA9ATKFy5D.png",
+      "name": "Game Show Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 183,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Chain Reaction",
+  "overview": "The game is centered around solving a word-chain puzzle. At the start of the show the chain comprised eight words. The words in the chain are linguistically or logically connected, with both the word at the top and the word at the bottom revealed at the outset. By making inferences based on the revealed words and the revealed letters in incomplete words, contestants try to fill in the word chains to score points.",
+  "popularity": 9.9073,
+  "poster_path": "/xhjoXm1WEvfQGYBGXKk8xk75z6s.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-02-22",
+      "episode_count": 65,
+      "id": 220375,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-08",
+      "episode_count": 73,
+      "id": 220376,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-28",
+      "episode_count": 45,
+      "id": 285077,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.75,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 6455,
+    "imdb_id": "tt0233038",
+    "freebase_mid": "/m/04fh2c",
+    "freebase_id": null,
+    "tvdb_id": 71766,
+    "tvrage_id": null,
+    "wikidata_id": "Q5067905",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

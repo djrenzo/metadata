@@ -1,0 +1,148 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1482403,
+      "credit_id": "64bf65808ee49c00c4b829aa",
+      "name": "Steve Sohmer",
+      "original_name": "Steve Sohmer",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1999-08-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 10000,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2001-05-30",
+  "last_episode_to_air": {
+    "id": 415487,
+    "name": "The Choice",
+    "overview": "Ryan gets a second chance to return to his teenage years to prevent his father, a successful doctor, from having a heart operation which led to him being brain damaged. He always blamed himself as he had talked his father into having the proceedure.\n\nMr. Smith gets to spend time with them and Rachel, Ryan's sister, lets him know who she thinks he really is: their guardian angel.\n\nDespite Ryan's pleading, his father still goes ahead with the surgery, this time with no complications and Ryan's finds himself not as a doctor - but as a priest, which he had always wanted to be.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-05-30",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 10000,
+    "still_path": null
+  },
+  "name": "Twice in a Lifetime",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 110,
+      "logo_path": "/uPoKSf3GtME7IZz4alnoWvc0nWx.png",
+      "name": "CTV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 44,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA",
+    "SE"
+  ],
+  "original_language": "en",
+  "original_name": "Twice in a Lifetime",
+  "overview": "Prematurely deceased people are given the opportunity to correct something that went wrong in their lives and thus change them for the better.",
+  "popularity": 10.2099,
+  "poster_path": "/Idn583Aa0knxM5P4SWqellWNUb.jpg",
+  "production_companies": [
+    {
+      "id": 40301,
+      "logo_path": null,
+      "name": "Pebblehut Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-08-25",
+      "episode_count": 22,
+      "id": 19919,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eBiD0PqMKaMYxXWbfktcQ6Gc2wp.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-08-20",
+      "episode_count": 22,
+      "id": 19920,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/eBiD0PqMKaMYxXWbfktcQ6Gc2wp.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 10000,
+    "imdb_id": "tt0207933",
+    "freebase_mid": "/m/0cg9lv",
+    "freebase_id": "/en/twice_in_a_lifetime",
+    "tvdb_id": 71385,
+    "tvrage_id": null,
+    "wikidata_id": "Q3024714",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

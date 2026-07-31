@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+  "created_by": [
+    {
+      "id": 1920791,
+      "credit_id": "5d85de9b336e01002914821d",
+      "name": "Yoo In-sik",
+      "original_name": "유인식",
+      "gender": 2,
+      "profile_path": "/6zbLpK1wRWySvpNx0KimiH1KNN6.jpg"
+    },
+    {
+      "id": 2415688,
+      "credit_id": "5d85deef336e01001914a517",
+      "name": "Jang Yeong-cheol",
+      "original_name": "Jang Yeong-cheol",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2019-09-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "https://programs.sbs.co.kr/drama/vagabond",
+  "id": 92983,
+  "in_production": false,
+  "languages": [
+    "ko",
+    "es",
+    "en",
+    "ar"
+  ],
+  "last_air_date": "2019-11-23",
+  "last_episode_to_air": {
+    "id": 1965567,
+    "name": "Episode 16",
+    "overview": "When Jessica asks for NIS protection in exchange for Samael's identity, Hae-ri heads to prison undercover. In hiding, Dal-geon plans his next steps.",
+    "vote_average": 7.6,
+    "vote_count": 11,
+    "air_date": "2019-11-23",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 63,
+    "season_number": 1,
+    "show_id": 92983,
+    "still_path": "/htevH7sdsls5DhjUWxf52m86qLS.jpg"
+  },
+  "name": "Vagabond",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "배가본드",
+  "overview": "Stuntman Cha Dal-geon gets involved in a tragic airplane crash and ends up discovering a national corruption scandal in the process. Go Hae-ri, the oldest daughter of a deceased marine, decides to work for the National Intelligence Service as a secret ops agent in order to support her mom and younger siblings, although all she wanted to do is to become a civil servant.",
+  "popularity": 11.1558,
+  "poster_path": "/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+  "production_companies": [
+    {
+      "id": 113206,
+      "logo_path": "/vGQkaberSfjePmaPRfTPXkeT9pT.png",
+      "name": "Celltrion Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 8881,
+      "logo_path": null,
+      "name": "Zak Productions",
+      "origin_country": "MA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-20",
+      "episode_count": 16,
+      "id": 131153,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5x5gMzDGQUqsKEeUw9DlJsPFLO8.jpg",
+      "season_number": 1,
+      "vote_average": 8.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Wheels turn on their axis…",
+  "type": "Scripted",
+  "vote_average": 8.288,
+  "vote_count": 513,
+  "external_ids": {
+    "id": 92983,
+    "imdb_id": "tt8523042",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 366777,
+    "tvrage_id": null,
+    "wikidata_id": "Q55695457",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

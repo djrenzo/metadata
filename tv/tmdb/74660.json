@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/y2eqMjgSAI9cvsvuqnWZljLhrdZ.jpg",
+  "created_by": [
+    {
+      "id": 1948854,
+      "credit_id": "64d93347b6c2641154f9e17a",
+      "name": "Meriç Acemi",
+      "original_name": "Meriç Acemi",
+      "gender": 1,
+      "profile_path": "/3MwCN7PyzpmfVhkxntVf7pi9TrQ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2017-10-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.startv.com.tr/dizi/ufak-tefek-cinayetler/",
+  "id": 74660,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2019-02-12",
+  "last_episode_to_air": {
+    "id": 1809949,
+    "name": "Episode 22",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-02-12",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 2,
+    "show_id": 74660,
+    "still_path": null
+  },
+  "name": "Stiletto Vendetta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 54,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Ufak Tefek Cinayetler",
+  "overview": "Three girls in high school made a prank on the fourth girl and caused her to be expelled from the high school with her teacher. After 20 years they got together in a high society environment.",
+  "popularity": 9.073,
+  "poster_path": "/7GOqhzNWIAwBDH4iY3E2w1XY8h3.jpg",
+  "production_companies": [
+    {
+      "id": 43853,
+      "logo_path": "/pAQVKxBUMbbeasH41x874EjtsSA.png",
+      "name": "Ay Yapım",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-10-23",
+      "episode_count": 32,
+      "id": 94362,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rKzQ0p74HPLNGrnlU9pXkxXoi7e.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2018-09-18",
+      "episode_count": 22,
+      "id": 105252,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hbnzzwZfISZkIoLOoGv0gUtZVOf.jpg",
+      "season_number": 2,
+      "vote_average": 4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.444,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 74660,
+    "imdb_id": "tt7535994",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 335895,
+    "tvrage_id": null,
+    "wikidata_id": "Q42799699",
+    "facebook_id": "ufaktefekcinayetlerstartv",
+    "instagram_id": "ufaktefekcinayetler_dizi",
+    "twitter_id": "ayyapim"
+  }
+}

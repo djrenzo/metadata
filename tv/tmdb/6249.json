@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1234666,
+      "credit_id": "525785a119c29531db28c5b7",
+      "name": "Don Kirshner",
+      "original_name": "Don Kirshner",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1973-09-27",
+  "genres": [],
+  "homepage": "",
+  "id": 6249,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "1976-03-27",
+  "last_episode_to_air": {
+    "id": 373451,
+    "name": "Bad Company / Barry Manilow / Black Sabbath / Captain & Tennille / Chuck Berry / Ike & Tina Turner Revue / Janis Ian / Labelle / Roger Daltrey / Rufus & Chaka Khan / Sha Na Na",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1976-03-27",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 3,
+    "show_id": 6249,
+    "still_path": null
+  },
+  "name": "Rock Concert",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 64,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rock Concert",
+  "overview": "Don Kirshner's Rock Concert is an American television music variety show that ran during the 1970s and early 1980s, created and produced by Don Kirshner and syndicated to television stations. It premiered on September 27, 1973, with a performance by The Rolling Stones; its last episode was in 1981.",
+  "popularity": 11.1646,
+  "poster_path": "/4qLa3uzz90looZy0y75ilON63rI.jpg",
+  "production_companies": [
+    {
+      "id": 12077,
+      "logo_path": "/s6p5INYKlo6gD6RFXlm9ACA2VVj.png",
+      "name": "Viacom Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1973-09-27",
+      "episode_count": 21,
+      "id": 16382,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-08-05",
+      "episode_count": 23,
+      "id": 16383,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-09-20",
+      "episode_count": 20,
+      "id": 16384,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 6249,
+    "imdb_id": "tt0252784",
+    "freebase_mid": "/m/025w9p_",
+    "freebase_id": "/en/don_kirshners_rock_concert",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5292926",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

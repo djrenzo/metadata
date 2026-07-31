@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/uC59DjmJalAFgosXCYIUnRHroQh.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2022-08-16",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.msnbc.com/alex-wagner-tonight",
+  "id": 207956,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-17",
+  "last_episode_to_air": {
+    "id": 5964430,
+    "name": "January 17, 2025",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-17",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 207956,
+    "still_path": null
+  },
+  "name": "Alex Wagner Tonight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 37,
+      "logo_path": "/tK9acpEuJgVLDTmnd6rdCsDYP0E.png",
+      "name": "MSNBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 353,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Alex Wagner Tonight",
+  "overview": "Alex Wagner brings years of reporting experience and insight to covering the news of the day, politics and the cultural trends shaping the United States and American lives, giving viewers a better understanding of the rapidly changing world.",
+  "popularity": 8.4804,
+  "poster_path": "/qbHPxFRxwBMQqSmpktgNgRAvlFj.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-08-16",
+      "episode_count": 75,
+      "id": 304360,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-03",
+      "episode_count": 133,
+      "id": 322919,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 137,
+      "id": 374268,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-07",
+      "episode_count": 8,
+      "id": 441194,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 207956,
+    "imdb_id": "tt21435480",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 423019,
+    "tvrage_id": null,
+    "wikidata_id": "",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

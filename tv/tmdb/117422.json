@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/oWexULOnhqBEdMbKbPsCsg9qFKb.jpg",
+  "created_by": [
+    {
+      "id": 2047799,
+      "credit_id": "60101512dd83fa003e94d742",
+      "name": "Josep Cister Rubio",
+      "original_name": "Josep Cister Rubio",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2021-01-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.rtve.es/alacarta/videos/dos-vidas/",
+  "id": 117422,
+  "in_production": true,
+  "languages": [
+    "fr",
+    "es"
+  ],
+  "last_air_date": "2021-10-20",
+  "last_episode_to_air": {
+    "id": 3309634,
+    "name": "Episode 192",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-10-20",
+    "episode_number": 192,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 117422,
+    "still_path": null
+  },
+  "name": "Dos vidas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 443,
+      "logo_path": "/dN6GTZyNY32q2onfrvJ2iAeE4su.png",
+      "name": "La 1",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 270,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Dos vidas",
+  "overview": "The story of Julia, a woman currently living out the life that her mother and future husband have planned for her. But just as she is about to get married, she discovers a great family secret that will change her forever. On the verge of a nervous breakdown, she decides to get away and finds refuge in a secluded town in the mountains of Madrid where she will have a complicated mission: to take control of her own destiny.",
+  "popularity": 10.2437,
+  "poster_path": "/gr4mvVThwX2lXajmScgzLKYcccS.jpg",
+  "production_companies": [
+    {
+      "id": 49394,
+      "logo_path": "/ksCltAjQsrjENzm9bbaA7Y9Rgr1.png",
+      "name": "Boomerang TV",
+      "origin_country": "ES"
+    },
+    {
+      "id": 27628,
+      "logo_path": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+      "name": "Bambú Producciones",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-01-25",
+      "episode_count": 270,
+      "id": 178152,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gr4mvVThwX2lXajmScgzLKYcccS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.7,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 117422,
+    "imdb_id": "tt13323392",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 395765,
+    "tvrage_id": null,
+    "wikidata_id": "Q100989649",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

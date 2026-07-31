@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/6GFmbbuF3UQKlfvIuL9iF73T5rQ.jpg",
+  "created_by": [
+    {
+      "id": 1259792,
+      "credit_id": "52597f70760ee34661a92f07",
+      "name": "Daniel Dangl",
+      "original_name": "Daniel Dangl",
+      "gender": 2,
+      "profile_path": "/dIMvUOLPNxVgEzF4rkB9NeyBFRT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2011-03-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.iprima.cz/serialy/prima-particka",
+  "id": 50898,
+  "in_production": true,
+  "languages": [
+    "cs",
+    "sk"
+  ],
+  "last_air_date": "2020-12-17",
+  "last_episode_to_air": {
+    "id": 7228279,
+    "name": "Episode 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-12-31",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 7,
+    "show_id": 50898,
+    "still_path": null
+  },
+  "name": "Partička",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 444,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Partička",
+  "overview": "Partička is an improvisation show of Prima TV, based on the Slovak version of the same name. The entire program is based on the improvisation of four actors in different games. As in the Slovak version, Daniel Dangl accompanies the show, and Marián Čurko is the music.",
+  "popularity": 9.5095,
+  "poster_path": "/e1DE9L7ECiYj4wSkIPvyZf7Aekd.jpg",
+  "production_companies": [
+    {
+      "id": 11280,
+      "logo_path": null,
+      "name": "Maya Production",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-03-18",
+      "episode_count": 117,
+      "id": 103945,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-21",
+      "episode_count": 17,
+      "id": 103946,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-01",
+      "episode_count": 13,
+      "id": 103947,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-06",
+      "episode_count": 17,
+      "id": 111633,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 12,
+      "id": 175771,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 17,
+      "id": 175830,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-22",
+      "episode_count": 14,
+      "id": 175852,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 16,
+      "id": 335122,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 38,
+      "id": 335124,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 10,
+      "id": 335125,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 335126,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 513402,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 513403,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 50898,
+    "imdb_id": "tt2147544",
+    "freebase_mid": "/m/0vsyfhf",
+    "freebase_id": null,
+    "tvdb_id": 251721,
+    "tvrage_id": null,
+    "wikidata_id": "Q12043877",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

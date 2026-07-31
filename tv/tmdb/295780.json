@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg",
+  "created_by": [
+    {
+      "id": 16376,
+      "credit_id": "693c7ad68b3a74d4baf77f6e",
+      "name": "Larry David",
+      "original_name": "Larry David",
+      "gender": 2,
+      "profile_path": "/ojPx93eaDcanOVi4AH14uAFwXhn.jpg"
+    },
+    {
+      "id": 57405,
+      "credit_id": "6a3f6018bf471b6e3d3cce76",
+      "name": "Jeff Schaffer",
+      "original_name": "Jeff Schaffer",
+      "gender": 2,
+      "profile_path": "/zjGUb5c4k6UiM3lyOwNk7GS04ED.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-06-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.hbo.com/content/life-larry-and-the-pursuit-of-unhappiness",
+  "id": 295780,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-24",
+  "last_episode_to_air": {
+    "id": 7037409,
+    "name": "Lincoln",
+    "overview": "Larry plays a key role during the showdown at the O.K. Corral. President Lincoln receives advice from his Chief of Staff, Lawrence Butterfield. President Johnson recruits Butterfield to help convince a grieving Mary Todd to move out of the White House.",
+    "vote_average": 3.5,
+    "vote_count": 2,
+    "air_date": "2026-07-24",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 1,
+    "show_id": 295780,
+    "still_path": "/aOAFi3NIsXf6dDK3JAJKsW8QZbh.jpg"
+  },
+  "name": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+  "next_episode_to_air": {
+    "id": 7037410,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 295780,
+    "still_path": "/uCvJn3mF0bLUE90HaNFxfuFFITv.jpg"
+  },
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 7,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+  "overview": "An improvised, comedic approach to major events in American history in celebration of the 250th anniversary of the founding of the United States.",
+  "popularity": 9.8641,
+  "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+  "production_companies": [
+    {
+      "id": 122147,
+      "logo_path": "/eotra9uY7zyivEzDL4bFdn7Elm4.png",
+      "name": "Higher Ground",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-06-26",
+      "episode_count": 7,
+      "id": 464822,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+      "season_number": 1,
+      "vote_average": 3.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "He can tell a lie.",
+  "type": "Miniseries",
+  "vote_average": 5,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 295780,
+    "imdb_id": "tt37543147",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 475441,
+    "tvrage_id": null,
+    "wikidata_id": "Q138858394",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

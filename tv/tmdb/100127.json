@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/n1bDvk7rCNCN1Y3DrhXFzMj8pOq.jpg",
+  "created_by": [
+    {
+      "id": 1585782,
+      "credit_id": "633a6cd1960cde007fc8490f",
+      "name": "Alessandro Marson",
+      "original_name": "Alessandro Marson",
+      "gender": 2,
+      "profile_path": "/1HFvTSXJBgzuqq8uNZYf60M5vUL.jpg"
+    },
+    {
+      "id": 1787189,
+      "credit_id": "633a6cc72b113d007fb42ebb",
+      "name": "Thereza Falcão",
+      "original_name": "Thereza Falcão",
+      "gender": 1,
+      "profile_path": "/Aqc0ZdSh5ExMAzqLl3rnLsnXZPP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-08-09",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://gshow.globo.com/novelas/nos-tempos-do-imperador/",
+  "id": 100127,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2022-02-04",
+  "last_episode_to_air": {
+    "id": 3715558,
+    "name": "Capítulo 154",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-02-04",
+    "episode_number": 154,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 39,
+    "season_number": 1,
+    "show_id": 100127,
+    "still_path": null
+  },
+  "name": "In the Emperor's Times",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 154,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Nos Tempos do Imperador",
+  "overview": "In 1856, the emperor Dom Pedro II lived a marriage of appearances with Teresa Cristina, with whom he was forced to marry at a young age by his parents' political alliance, having two daughters with her: Isabel and Leopoldina. He truly loves Countess Luisa, a cultured and time-ahead woman who fights for the abolitionist cause and women's rights, married to Eugenio, the emperor Napoleon's cousin. At the same time there are sisters Pilar and Dolores: the first went to a convent after her mother's death in childhood, growing up among books and dreaming of studying medicine - inspired by the story of Elizabeth Blackwell, the first doctor in the world -, while the second stayed at home to take care of her father, Colonel Eudoro, growing up repressed, illiterate and without vanity.",
+  "popularity": 8.4701,
+  "poster_path": "/5YW1k4mFB17STW4jy9mLGwHe53m.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-08-09",
+      "episode_count": 154,
+      "id": 144668,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5YW1k4mFB17STW4jy9mLGwHe53m.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 100127,
+    "imdb_id": "tt15204826",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 373896,
+    "tvrage_id": null,
+    "wikidata_id": "Q85312754",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

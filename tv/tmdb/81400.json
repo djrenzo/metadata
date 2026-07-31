@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/1ld9s03VRxTtsMEDf0vfVvFGE8l.jpg",
+  "created_by": [
+    {
+      "id": 57926,
+      "credit_id": "5b674ba4c3a36818970a6929",
+      "name": "Richard David Precht",
+      "original_name": "Richard David Precht",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2012-09-02",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://precht.zdf.de/",
+  "id": 81400,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-03-15",
+  "last_episode_to_air": {
+    "id": 7308622,
+    "name": "Episode 85",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-10",
+    "episode_number": 85,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 81400,
+    "still_path": "/qStJEJjG07iUqezgXt3JlJZqa9d.jpg"
+  },
+  "name": "Precht",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 84,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Precht",
+  "overview": "German talkshow hosted by Richard David Precht, a well known german philosopher and publisher, in which he speaks with a guest about a topic from culture, science, economy or politics in every episode",
+  "popularity": 10.8587,
+  "poster_path": "/mj7NXWbIIOuwLs0dfmokAmcaGVU.jpg",
+  "production_companies": [
+    {
+      "id": 52776,
+      "logo_path": null,
+      "name": "Interscience Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-09-02",
+      "episode_count": 85,
+      "id": 107393,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mj7NXWbIIOuwLs0dfmokAmcaGVU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 81400,
+    "imdb_id": "tt2366232",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 279954,
+    "tvrage_id": null,
+    "wikidata_id": "Q15840908",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

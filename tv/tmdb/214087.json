@@ -1,0 +1,185 @@
+{
+  "adult": false,
+  "backdrop_path": "/79ZOBxmfoUX0hMA4VbntBvYEeeo.jpg",
+  "created_by": [
+    {
+      "id": 2424678,
+      "credit_id": "636a529e9653f6007d9f7b6b",
+      "name": "Craig Malamut",
+      "original_name": "Craig Malamut",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1354843,
+      "credit_id": "636a5297350398007acdea7f",
+      "name": "Adam Malamut",
+      "original_name": "Adam Malamut",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-09-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.fox.com/universal-basic-guys",
+  "id": 214087,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-12",
+  "last_episode_to_air": {
+    "id": 6959774,
+    "name": "Crowmaster",
+    "overview": "Mark trains crows to bring him valuable sports cards and Darren faces off with a gaming nemesis.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-04-12",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 214087,
+    "still_path": "/i2NJOb3c2e2E3x8umQD2gEqILfu.jpg"
+  },
+  "name": "Universal Basic Guys",
+  "next_episode_to_air": {
+    "id": 7530398,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-27",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 214087,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Universal Basic Guys",
+  "overview": "Two brothers lose their jobs to automation and are given $3,000 a month in a new basic income program, allowing them to use their free time and free money to find purpose in a world where they're no longer needed.",
+  "popularity": 10.1325,
+  "poster_path": "/hdoEXYV82N3wMmWdvFinjyNOCt2.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 85721,
+      "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
+      "name": "FOX Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 30452,
+      "logo_path": "/zmU1ElCS02iL5N7E5MuY4fV7bCX.png",
+      "name": "Bento Box Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 240414,
+      "logo_path": null,
+      "name": "Mutsack",
+      "origin_country": ""
+    },
+    {
+      "id": 243125,
+      "logo_path": null,
+      "name": "One Man Canoe",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-08",
+      "episode_count": 13,
+      "id": 315678,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2QCSNNAzp7d5largo9YzYMcBRud.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2025-09-28",
+      "episode_count": 18,
+      "id": 467354,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hdoEXYV82N3wMmWdvFinjyNOCt2.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-09-27",
+      "episode_count": 1,
+      "id": 529955,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "No job. No prob.",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 214087,
+    "imdb_id": "tt23469464",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 426957,
+    "tvrage_id": null,
+    "wikidata_id": "Q129261572",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

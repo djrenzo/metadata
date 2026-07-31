@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/yEmGiYvCyJ32xuPZbmytTjXzF4S.jpg",
+  "created_by": [
+    {
+      "id": 1222787,
+      "credit_id": "66626a5c8aca51a8a209b0b8",
+      "name": "Jed Spingarn",
+      "original_name": "Jed Spingarn",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-22",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 254653,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-17",
+  "last_episode_to_air": {
+    "id": 6058681,
+    "name": "The Most Thunderful Time of the Year",
+    "overview": "Phoebe and Max tell holiday stories to compete in the Thundermans Story Slam, but it's Chloe's story that makes them understand the meaning of the holiday.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-17",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "126",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 254653,
+    "still_path": "/3EuzMPpnjHhsZUk2Yl131ZWZgYE.jpg"
+  },
+  "name": "The Thundermans: Undercover",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Thundermans: Undercover",
+  "overview": "Twins Phoebe and Max Thunderman embark on a mission to alleviate the threat in the seaside town of Secret Shores, as well as helping Chloe develop her superhero abilities by bringing her along on their undercover mission. Chloe forms a bond with two classmates while they investigate suspicious activity coming from the local school, who don’t realize their new friend has secret powers. As the danger increases, the Thunderman trio must stay in town indefinitely, leaving the squabbling twins in charge of raising their younger sister.",
+  "popularity": 9.4689,
+  "poster_path": "/zeynuCJTLvZBpNYtAzi5clXfBiq.jpg",
+  "production_companies": [
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-03-07",
+      "episode_count": 1,
+      "id": 449777,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-22",
+      "episode_count": 26,
+      "id": 394143,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dreqcshJxCfmliC1k2f7G3HOHiK.jpg",
+      "season_number": 1,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 464085,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.176,
+  "vote_count": 34,
+  "external_ids": {
+    "id": 254653,
+    "imdb_id": "tt32384391",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 457962,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1214074,
+      "credit_id": "66b71c4b3cd7f108072829ee",
+      "name": "Ralph Andrews",
+      "original_name": "Ralph Andrews",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "1989-01-05",
+  "genres": [],
+  "homepage": "http://www.lingo.tv/",
+  "id": 21527,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2010-10-08",
+  "last_episode_to_air": {
+    "id": 596835,
+    "name": "Season 22, Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-10-08",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 22,
+    "show_id": 21527,
+    "still_path": null
+  },
+  "name": "Lingo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 729,
+      "logo_path": "/vVmQTR6osEsk7bfsKKPQEVTejIG.png",
+      "name": "TROS",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 410,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "en",
+  "original_name": "Lingo",
+  "overview": "Lingo is a Dutch television game show based on the North American format of the same name. Each episode involves two teams of two people trying to guess and spell words. The amount of letters to guess varies from 5 to 8. The highest possible amount of money awarded is €5000.",
+  "popularity": 13.1437,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1989-01-05",
+      "episode_count": 1,
+      "id": 31271,
+      "name": "(nl) season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 109,
+      "id": 31272,
+      "name": "(nl) season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-07",
+      "episode_count": 291,
+      "id": 31273,
+      "name": "(nl) season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-27",
+      "episode_count": 9,
+      "id": 31274,
+      "name": "(nl) season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 21527,
+    "imdb_id": null,
+    "freebase_mid": "/m/06w45gk",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

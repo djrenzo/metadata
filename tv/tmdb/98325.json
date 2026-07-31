@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/x5ryxpWrnb2JCqZPYsVPAbF55R.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-03-25",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.kbsn.co.kr/program/index?program_code=PG20190129J",
+  "id": 98325,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-09-29",
+  "last_episode_to_air": {
+    "id": 6497270,
+    "name": "Episode 335",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-09-29",
+    "episode_number": 335,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 98325,
+    "still_path": null
+  },
+  "name": "Ask Us Anything Fortune Teller",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1923,
+      "logo_path": "/ns8dF9ebIfQRspDfwUAyMgoRnbD.png",
+      "name": "KBS Joy",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 335,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "무엇이든 물어보살",
+  "overview": "Love, work, relationships — all kinds of worries come to the fore as celebrity fortune tellers suggest solutions to guests’ life problems.",
+  "popularity": 8.1217,
+  "poster_path": "/k4pYDpozGhrb9aPs2kJkkuDKe7c.jpg",
+  "production_companies": [
+    {
+      "id": 77994,
+      "logo_path": "/mQcOwCeEkNJV3Iryh4YyKimXXPJ.png",
+      "name": "KBS Media",
+      "origin_country": "KR"
+    },
+    {
+      "id": 115631,
+      "logo_path": "/jEhWNgB1AX2ivucv38dKQ8HhcbY.png",
+      "name": "MYSTIC STORY",
+      "origin_country": "KR"
+    },
+    {
+      "id": 196560,
+      "logo_path": "/k1BF70MBgYORxqtpGVtXOBeHXiL.png",
+      "name": "KBS N",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-02-05",
+      "episode_count": 3,
+      "id": 428423,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/9wpVKSsCGzVI2OsvED0fqRyUL3b.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-25",
+      "episode_count": 335,
+      "id": 141559,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gGOPxRmeKU9ct1wqzUwypBuS0vb.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 98325,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

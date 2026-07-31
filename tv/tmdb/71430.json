@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": "/vmIEsrGSpfDhp2SrZz1zSscFspz.jpg",
+  "created_by": [
+    {
+      "id": 1274996,
+      "credit_id": "600ac7be3f8ede004261f475",
+      "name": "Pif",
+      "original_name": "Pif",
+      "gender": 2,
+      "profile_path": "/70VGX7qY2mMiYHdwfwxPUq9u3gj.jpg"
+    }
+  ],
+  "episode_run_time": [
+    12,
+    20
+  ],
+  "first_air_date": "2017-05-03",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.raiplay.it/programmi/caromarziano/",
+  "id": 71430,
+  "in_production": true,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2024-03-15",
+  "last_episode_to_air": {
+    "id": 5359000,
+    "name": "Episode 35",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-03-15",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 3,
+    "show_id": 71430,
+    "still_path": null
+  },
+  "name": "Caro Marziano",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3828,
+      "logo_path": "/3EOt7Yoe23FBVVAKbUPjMzxkzRD.png",
+      "name": "Rai Play",
+      "origin_country": "IT"
+    },
+    {
+      "id": 547,
+      "logo_path": "/eRLfW6GOHrV9rOE0YnUIYzIUjyz.png",
+      "name": "Rai 3",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 123,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Caro Marziano",
+  "overview": "",
+  "popularity": 10.4932,
+  "poster_path": "/ixUONqhW8TcVT3stszGyXMdQbQh.jpg",
+  "production_companies": [
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 21246,
+      "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-12-27",
+      "episode_count": 1,
+      "id": 460891,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-03",
+      "episode_count": 38,
+      "id": 87773,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mKS0Cr5IMbOPIxpjLZVHwkFPETW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-09",
+      "episode_count": 50,
+      "id": 323927,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/A3Wj3gv5pi9gyPRZ4exwIlRiLy6.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-29",
+      "episode_count": 35,
+      "id": 377829,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/A3Wj3gv5pi9gyPRZ4exwIlRiLy6.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 71430,
+    "imdb_id": "tt7124100",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 327589,
+    "tvrage_id": null,
+    "wikidata_id": "Q30889520",
+    "facebook_id": "1276552375727872",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/pZHKtXzxi6GIyL76YXtHe2SjUI0.jpg",
+  "created_by": [
+    {
+      "id": 1754020,
+      "credit_id": "61891710595a560029b5865f",
+      "name": "Jung Ha-yeon",
+      "original_name": "Jung Ha-yeon",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2001-05-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/end_program/drama/myungsung/",
+  "id": 620,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2003-02-05",
+  "last_episode_to_air": {
+    "id": 3736861,
+    "name": "Episode 124",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-02-05",
+    "episode_number": 124,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 620,
+    "still_path": null
+  },
+  "name": "Empress Myeongseong",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 124,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "명성황후",
+  "overview": "Based on the life of Empress Myeongseong (1851 - 1895), the first official wife of King Gojong, the 26th king of the Joseon dynasty. She was killed on October 8, 1895 by Japanese assassins.",
+  "popularity": 11.2961,
+  "poster_path": "/fdgaazAYS71AbzdiONPasjpDFdF.jpg",
+  "production_companies": [
+    {
+      "id": 86977,
+      "logo_path": null,
+      "name": "GM Agency",
+      "origin_country": ""
+    },
+    {
+      "id": 68634,
+      "logo_path": "/men5DE7jHhgKnQyuvhTtw2w5wBe.png",
+      "name": "Samhwa Networks",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-05-09",
+      "episode_count": 124,
+      "id": 85400,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qffIA4CvfuYVVYpYyYdogsV74WP.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 620,
+    "imdb_id": "tt2288116",
+    "freebase_mid": "/m/0f9w22",
+    "freebase_id": null,
+    "tvdb_id": 335314,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

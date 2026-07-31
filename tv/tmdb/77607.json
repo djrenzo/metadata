@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/e9mKvoAMjsC64rcd39c9tCJHoGR.jpg",
+  "created_by": [
+    {
+      "id": 1470920,
+      "credit_id": "5b9821ce0e0a26285c0056f4",
+      "name": "Mónica Agudelo Tenorio",
+      "original_name": "Mónica Agudelo Tenorio",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2339651,
+      "credit_id": "5d06a0b9c3a36877db21ebf3",
+      "name": "Vanesa Varela",
+      "original_name": "Vanesa Varela",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1244221,
+      "credit_id": "5d06a17c0e0a266424cbd0ab",
+      "name": "José Alberto Castro",
+      "original_name": "José Alberto Castro",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2339666,
+      "credit_id": "5d06a283c3a3680a5722376c",
+      "name": "Fernando Garcilita",
+      "original_name": "Fernando Garcilita",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-02-12",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 77607,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-07-05",
+  "last_episode_to_air": {
+    "id": 1864265,
+    "name": "Episode 91",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2019-07-05",
+    "episode_number": 91,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 77607,
+    "still_path": "/cL81J3vTS4oHWWNvOJreyrZCBxJ.jpg"
+  },
+  "name": "Laws of love",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Por amar sin ley",
+  "overview": "The story of two lawyers specializing in family law, Ricardo and Alejandra, that despite coming from two disappointments and being in a world where it seems that love loses strength, before so much divorce, they still have faith in finding true love.",
+  "popularity": 9.1133,
+  "poster_path": "/npiUbnBvgzAKvFe0eqT8VqhQ0yn.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-02-12",
+      "episode_count": 91,
+      "id": 100196,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-03",
+      "episode_count": 91,
+      "id": 119707,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/oP0eQkp9HBB8ZIHkgg4XIyMd2HR.jpg",
+      "season_number": 2,
+      "vote_average": 9.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 143,
+  "external_ids": {
+    "id": 77607,
+    "imdb_id": "tt7907384",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 342499,
+    "tvrage_id": null,
+    "wikidata_id": "Q47015367",
+    "facebook_id": "PorAmarSinLey",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

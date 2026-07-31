@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/gfA6kltfCqEVpkviA1gFyZNrUMM.jpg",
+  "created_by": [
+    {
+      "id": 6069319,
+      "credit_id": "69b44607a9b388d441dcecbf",
+      "name": "Samrat Ghosh",
+      "original_name": "Samrat Ghosh",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2021-01-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 204889,
+  "in_production": false,
+  "languages": [
+    "bn"
+  ],
+  "last_air_date": "2023-06-09",
+  "last_episode_to_air": {
+    "id": 7037182,
+    "name": "Episode 875",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-06-09",
+    "episode_number": 875,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 204889,
+    "still_path": null
+  },
+  "name": "Mithai",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7261,
+      "logo_path": null,
+      "name": "Zee Bangla",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 875,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_name": "Mithai",
+  "overview": "Mithai is a girl full of life, while Siddhartha is serious, intelligent, and self-centered. This culturally rich story revolves around traditional Bengali sweets and love.",
+  "popularity": 6.9534,
+  "poster_path": "/c9ECRSyYu5VZ3L8Q4FYy0sAwi09.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 875,
+      "id": 298803,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qq7evLWl1rXLzdzqKqJmvqucFei.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 204889,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

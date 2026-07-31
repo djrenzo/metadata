@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": "/tVuvFG14yhypkP1zdFjfx3BJTCO.jpg",
+  "created_by": [
+    {
+      "id": 1009348,
+      "credit_id": "583beeed925141239b0063c0",
+      "name": "Carlos Villegas Rosales",
+      "original_name": "Carlos Villegas Rosales",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-11-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/la-dona",
+  "id": 68878,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2020-06-04",
+  "last_episode_to_air": {
+    "id": 2209731,
+    "name": "Episode 60",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-06-04",
+    "episode_number": 60,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 68878,
+    "still_path": "/rYYFV1HpY46Y35TYCtMifTV1SR1.jpg"
+  },
+  "name": "La Doña",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 200,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US",
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "La Doña",
+  "overview": "A story of revenge and ambition, seduction and betrayal; all told from the perspective of an offended and abused woman named Altagracia. Altagracia represents the hundreds of thousands of Mexican women who have been victims of the violence by faceless men who are protected by impunity. But Altagracia, transformed into a strong-willed, ruthless man-eater known as La Doña, will seek out each and every one of these men to bring them to justice.",
+  "popularity": 10.0379,
+  "poster_path": "/xPe11sREBZIPUB1SnwckuElru1h.jpg",
+  "production_companies": [
+    {
+      "id": 21123,
+      "logo_path": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 21124,
+      "logo_path": "/cqh1ellbulvv8lbRxiOajrE7X7G.png",
+      "name": "Argos Comunicación",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-11-29",
+      "episode_count": 120,
+      "id": 82382,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/h2ihTRmBwS6FLCgG3eZrCZl2Dlj.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 80,
+      "id": 141549,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xPe11sREBZIPUB1SnwckuElru1h.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.369,
+  "vote_count": 640,
+  "external_ids": {
+    "id": 68878,
+    "imdb_id": "tt5663590",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 320271,
+    "tvrage_id": null,
+    "wikidata_id": "Q20656867",
+    "facebook_id": "LaDonaTLMD",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

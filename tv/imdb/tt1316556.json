@@ -87,6 +87,13 @@
     {
       "department": "Directing",
       "job": "Director",
+      "name": "Flávia Lacerda",
+      "profile_path": "/bzS2SZ5x6VBB2aP7f12iCADGytz.jpg",
+      "id": 1769034
+    },
+    {
+      "department": "Production",
+      "job": "Producer",
       "name": "Roberto Talma",
       "profile_path": "/pkSJUpH5wpnYkcAUvPIxwvsahE6.jpg",
       "id": 1691215
@@ -94,16 +101,9 @@
     {
       "department": "Directing",
       "job": "Director",
-      "name": "Mauro Mendonça Filho",
-      "profile_path": null,
-      "id": 1906411
-    },
-    {
-      "department": "Directing",
-      "job": "Director",
-      "name": "Flávia Lacerda",
-      "profile_path": "/bzS2SZ5x6VBB2aP7f12iCADGytz.jpg",
-      "id": 1769034
+      "name": "Roberto Talma",
+      "profile_path": "/pkSJUpH5wpnYkcAUvPIxwvsahE6.jpg",
+      "id": 1691215
     },
     {
       "department": "Directing",
@@ -115,23 +115,23 @@
     {
       "department": "Production",
       "job": "Producer",
-      "name": "Roberto Talma",
-      "profile_path": "/pkSJUpH5wpnYkcAUvPIxwvsahE6.jpg",
-      "id": 1691215
-    },
-    {
-      "department": "Production",
-      "job": "Producer",
       "name": "Vera Daflon",
       "profile_path": null,
       "id": 1947203
+    },
+    {
+      "department": "Directing",
+      "job": "Director",
+      "name": "Mauro Mendonça Filho",
+      "profile_path": null,
+      "id": 1906411
     }
   ],
   "director": [
-    "Roberto Talma",
-    "Mauro Mendonça Filho",
     "Flávia Lacerda",
-    "Tande Bressane"
+    "Roberto Talma",
+    "Tande Bressane",
+    "Mauro Mendonça Filho"
   ],
   "videos": [
     {

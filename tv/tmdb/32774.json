@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 951522,
+      "credit_id": "5e4b55154d0e8d00161547b0",
+      "name": "Pablo Illanes",
+      "original_name": "Pablo Illanes",
+      "gender": 2,
+      "profile_path": "/bOrVXyI8muyYrFpiVNtq1NW7IsU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "1997-07-21",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 32774,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1997-12-19",
+  "last_episode_to_air": {
+    "id": 2847524,
+    "name": "Episode 105",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1997-12-19",
+    "episode_number": 105,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 32774,
+    "still_path": null
+  },
+  "name": "Playa salvaje",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 105,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Playa salvaje",
+  "overview": "Mariano Acuña  is a widowed commercial pilot, father of a small daughter, who is torn between the love of Javiera Huidobro, an executive of a prestigious record company called Orbital Records and Deborah Meneses. a carefree young woman who resembles his wife in more than one way...",
+  "popularity": 15.4629,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 90682,
+      "logo_path": "/5RROwbMM2TNqISJUWfRrDEQu31V.png",
+      "name": "Pontificia Universidad Católica de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-07-21",
+      "episode_count": 105,
+      "id": 140619,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 32774,
+    "imdb_id": "tt0374443",
+    "freebase_mid": "/m/0c02ws9",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6079308",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1959-08-20",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 40737,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "1968-10-27",
+  "last_episode_to_air": {
+    "id": 1107325,
+    "name": "Episode 31",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1968-10-27",
+    "episode_number": 31,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 73,
+    "season_number": 1,
+    "show_id": 40737,
+    "still_path": null
+  },
+  "name": "Blaulicht",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1084,
+      "logo_path": "/fFuyvrv3NeDkA5QFd3g9zb70pUi.png",
+      "name": "DFF 1",
+      "origin_country": "XG"
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Blaulicht",
+  "overview": "Blaulicht is a German crime television drama series, whose 29 episodes were based on crime case files.",
+  "popularity": 12.1261,
+  "poster_path": "/vcPo48tnMzR3ylLJLiUlZMBoZqs.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1959-08-20",
+      "episode_count": 29,
+      "id": 60517,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 40737,
+    "imdb_id": "tt0821065",
+    "freebase_mid": "/m/0h64c_7",
+    "freebase_id": null,
+    "tvdb_id": 248594,
+    "tvrage_id": null,
+    "wikidata_id": "Q882963",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

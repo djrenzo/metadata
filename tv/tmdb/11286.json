@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1969-09-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 11286,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1972-03-31",
+  "last_episode_to_air": {
+    "id": 448942,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1972-03-31",
+    "episode_number": 125,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 11286,
+    "still_path": null
+  },
+  "name": "Bright Promise",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 321,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bright Promise",
+  "overview": "Bright Promise is an American daytime soap opera that ran on NBC from September 29, 1969 to March 31, 1972. It aired weekdays at 3:30 PM Eastern/2:30 PM Central.",
+  "popularity": 11.3141,
+  "poster_path": "/j63YsPAoYvJoKIKxZx2eGMVT7y0.jpg",
+  "production_companies": [
+    {
+      "id": 5409,
+      "logo_path": null,
+      "name": "Bing Crosby Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 66724,
+      "logo_path": null,
+      "name": "Frandor Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1969-09-29",
+      "episode_count": 257,
+      "id": 21783,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-09-28",
+      "episode_count": 63,
+      "id": 21784,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 21782,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 11286,
+    "imdb_id": "tt0063879",
+    "freebase_mid": "/m/03q9p2",
+    "freebase_id": "/en/bright_promise",
+    "tvdb_id": null,
+    "tvrage_id": 9958,
+    "wikidata_id": "Q4967471",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

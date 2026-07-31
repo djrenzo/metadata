@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/kJCnCR8mtb5FJa4kRIRSzDv0EDk.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1988-12-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 86711,
+  "in_production": false,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "1989-01-20",
+  "last_episode_to_air": {
+    "id": 1703955,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1989-01-20",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 86711,
+    "still_path": null
+  },
+  "name": "W labiryncie",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 555,
+      "logo_path": "/oq606JVmXAWtp6BeUqSSFdsp64O.png",
+      "name": "TVP",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "W labiryncie",
+  "overview": "",
+  "popularity": 14.4535,
+  "poster_path": "/5klyH2Z6H1wzllHrmCmNYY64Poj.jpg",
+  "production_companies": [
+    {
+      "id": 114636,
+      "logo_path": null,
+      "name": "Interpress-Film",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1988-12-30",
+      "episode_count": 52,
+      "id": 118620,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 68,
+      "id": 118621,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 86711,
+    "imdb_id": "tt0388654",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 276209,
+    "tvrage_id": null,
+    "wikidata_id": "Q9369515",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

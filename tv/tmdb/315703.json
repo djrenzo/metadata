@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2002-08-10",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 315703,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2012-12-30",
+  "last_episode_to_air": {
+    "id": 7007815,
+    "name": "Episode 177",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-12-30",
+    "episode_number": 177,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 315703,
+    "still_path": null
+  },
+  "name": "dctp Nachtclub",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 781,
+      "logo_path": "/tfrd4tN4KOr9cWmMBI1xdhWc6v6.png",
+      "name": "VOX",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 177,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "dctp Nachtclub",
+  "overview": "",
+  "popularity": 9.9978,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-08-10",
+      "episode_count": 177,
+      "id": 503610,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 315703,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

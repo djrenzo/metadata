@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/vKJGkOo3yqbpbZBv6133r8F3eUt.jpg",
+  "created_by": [
+    {
+      "id": 1224197,
+      "credit_id": "5b579c6ec3a3685c9103a98c",
+      "name": "J. J. Philbin",
+      "original_name": "J. J. Philbin",
+      "gender": 1,
+      "profile_path": "/78yW4aHveyQVpqG1NBnIUe1gUVn.jpg"
+    },
+    {
+      "id": 513378,
+      "credit_id": "5b579c64c3a3685c9103a984",
+      "name": "Elizabeth Meriwether",
+      "original_name": "Elizabeth Meriwether",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2018-09-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://abc.go.com/shows/single-parents",
+  "id": 81127,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-05-13",
+  "last_episode_to_air": {
+    "id": 2247491,
+    "name": "No. Wait. What? Hold on.",
+    "overview": "Angie struggles to recall the events of a wine-filled night of packing with Will, while Poppy secretly encourages Will to share his true feelings. Meanwhile, Derek arrives to gather Angie and her belongings, while Rory and Miggy are enlisted to find a hot guy to sublet the house.",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2020-05-13",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 81127,
+    "still_path": "/osbdbAoAtrHAncqEFtdyfSWiDIg.jpg"
+  },
+  "name": "Single Parents",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 45,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Single Parents",
+  "overview": "A group of single parents lean on each other to help raise their 7-year-old kids and maintain some kind of personal lives outside of parenthood.",
+  "popularity": 10.0897,
+  "poster_path": "/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 5536,
+      "logo_path": null,
+      "name": "Elizabeth Meriwether Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 267081,
+      "logo_path": null,
+      "name": "J. J. Philbin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 23,
+      "id": 106857,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sgEfoSCQD2WvlNQYJ7cjsNYUdoG.jpg",
+      "season_number": 1,
+      "vote_average": 1.9
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 22,
+      "id": 129419,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qL2MIOtTNLEKXGFZ0oKBqwbujIi.jpg",
+      "season_number": 2,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.833,
+  "vote_count": 69,
+  "external_ids": {
+    "id": 81127,
+    "imdb_id": "tt7845644",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 350179,
+    "tvrage_id": null,
+    "wikidata_id": "Q53807161",
+    "facebook_id": "SingleParentsTV",
+    "instagram_id": "singleparentstv",
+    "twitter_id": "SingleParentsTV"
+  }
+}

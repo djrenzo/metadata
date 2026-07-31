@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/pt6OqBG5cFB9EsjZimzDNFyoZfC.jpg",
+  "created_by": [
+    {
+      "id": 6036111,
+      "credit_id": "6a0f36e6b063e48fb0dfb3f6",
+      "name": "Ibou Gueye",
+      "original_name": "Ibou Gueye",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-07-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 323205,
+  "in_production": true,
+  "languages": [
+    "wo"
+  ],
+  "last_air_date": "2025-11-11",
+  "last_episode_to_air": {
+    "id": 7590523,
+    "name": "Episode 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-29",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 2,
+    "show_id": 323205,
+    "still_path": null
+  },
+  "name": "Borom Keur",
+  "next_episode_to_air": {
+    "id": 7590524,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-02",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 323205,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 36,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "SN"
+  ],
+  "original_language": "wo",
+  "original_name": "Borom Keur",
+  "overview": "After the patriarch's death, a family tears itself apart over his fortune, long-hidden secrets resurface, all leading to total chaos.",
+  "popularity": 10.1936,
+  "poster_path": "/lNyJpOsfxPRWk7dz35bMQtpNJug.jpg",
+  "production_companies": [
+    {
+      "id": 126929,
+      "logo_path": "/A6O5S3KkDKZ3HX3yUrbNn2OsCSO.png",
+      "name": "Evenprod",
+      "origin_country": "SN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SN",
+      "name": "Senegal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-07-14",
+      "episode_count": 34,
+      "id": 517701,
+      "name": "Season 1",
+      "overview": "When a father dies suddenly, he leaves behind a complex family situation. His two legal wives believe that their children are the sole heirs to his estate.",
+      "poster_path": "/o0w8xv49opkIuRjEi9TVCmUjZso.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-14",
+      "episode_count": 17,
+      "id": 518212,
+      "name": "Season 2",
+      "overview": "After the death of the patriarch, a family is torn apart to inherit his fortune, long-hidden secrets resurface, all causing total chaos.",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 323205,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 478309,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

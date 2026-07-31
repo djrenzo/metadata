@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2018-12-22",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 157672,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2022-03-05",
+  "last_episode_to_air": {
+    "id": 7317735,
+    "name": "Episode 87",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-13",
+    "episode_number": 87,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 157672,
+    "still_path": null
+  },
+  "name": "Schlager-Spaß",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1162,
+      "logo_path": "/f3WRCoSDZyXYmG6mcg3adgSAnfe.png",
+      "name": "SWR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 41,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Schlager-Spaß",
+  "overview": "",
+  "popularity": 16.5125,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2018-12-22",
+      "episode_count": 87,
+      "id": 243997,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 157672,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

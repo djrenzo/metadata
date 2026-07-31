@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/60WZ1gH7BWDegRe7KaFBuaKMelR.jpg",
+  "created_by": [
+    {
+      "id": 3134867,
+      "credit_id": "60d426ca006eee00465075ea",
+      "name": "Lee Sang-hyun",
+      "original_name": "이상현",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3134868,
+      "credit_id": "60d426ddce4ddc005c911b3a",
+      "name": "서자영",
+      "original_name": "서자영",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    65
+  ],
+  "first_air_date": "2017-03-05",
+  "genres": [],
+  "homepage": "http://tv.jtbc.joins.com/jtbclecture",
+  "id": 72725,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2023-06-18",
+  "last_episode_to_air": {
+    "id": 6227972,
+    "name": "Episode 270",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-06-18",
+    "episode_number": 270,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 72725,
+    "still_path": null
+  },
+  "name": "JTBC Lecture",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 885,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 284,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "차이나는 클라스",
+  "overview": "",
+  "popularity": 7.7636,
+  "poster_path": "/tdFphDlezP1eWpv1l3HSDHynHNy.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-05",
+      "episode_count": 268,
+      "id": 90263,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/w1QNwY6AegfFS2FATZDylS5KMPK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-19",
+      "episode_count": 15,
+      "id": 303075,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/et2cpJeGJSyF1xqt8RuTbR5s94f.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-07",
+      "episode_count": 1,
+      "id": 303842,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/r4e9e9Nct6lZhI1W6IardGZJk0h.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 72725,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "jtbclecture",
+    "instagram_id": "jtbclecture",
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 3639280,
+      "credit_id": "62e139d35ca7042619f4289f",
+      "name": "Hans-Günther Brüske",
+      "original_name": "Hans-Günther Brüske",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    52
+  ],
+  "first_air_date": "2002-05-10",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 40906,
+  "in_production": true,
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "last_air_date": "2020-05-17",
+  "last_episode_to_air": {
+    "id": 2280534,
+    "name": "Episode 144",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-05-17",
+    "episode_number": 144,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 1,
+    "show_id": 40906,
+    "still_path": null
+  },
+  "name": "Through the Night with...",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 662,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1628,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 144,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Durch die Nacht mit …",
+  "overview": "Durch die Nacht mit … is a German documentary film television series produced by ZDF for Franco-German television channel ARTE. Locations are mainly in France or Germany.\n\nThe title of the French version is Au cœur de la nuit.\n\nTwo Celebrities spend an filmed evening together. One of them is the host who sets the location and the program. There is no moderator.",
+  "popularity": 9.1643,
+  "poster_path": "/4QTD3vYn0ejM8xADgixQHo79VIN.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-05-10",
+      "episode_count": 144,
+      "id": 87558,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 40906,
+    "imdb_id": "tt0385406",
+    "freebase_mid": "/m/0h693b0",
+    "freebase_id": null,
+    "tvdb_id": 181061,
+    "tvrage_id": null,
+    "wikidata_id": "Q1266873",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

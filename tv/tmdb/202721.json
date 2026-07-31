@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/9DXlcqtTPL7EZ8hsh017DGabWvw.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2022-05-24",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://viaplay.dk/serier/paradise",
+  "id": 202721,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2022-11-08",
+  "last_episode_to_air": {
+    "id": 5270439,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-11-08",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 202721,
+    "still_path": null
+  },
+  "name": "Paradise",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1649,
+      "logo_path": "/kf1R7pshifwcdkhJO5tAEY1wInQ.png",
+      "name": "TV3",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Paradise",
+  "overview": "Welcome to Paradise. Party, fidelity, and survival. Play with everyone, but trust no one - because who knows whether tactics or friendship will win out in the end?",
+  "popularity": 11.3147,
+  "poster_path": "/t8VATrRHCUnXXD0RSS5D0FwaGd7.jpg",
+  "production_companies": [
+    {
+      "id": 145883,
+      "logo_path": "/easeFvAh0prCVrPs3H9t9seoq5e.png",
+      "name": "Mastiff",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2022-05-24",
+      "episode_count": 39,
+      "id": 294907,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-08",
+      "episode_count": 39,
+      "id": 387923,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 202721,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 419813,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

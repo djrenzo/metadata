@@ -25,15 +25,22 @@ const TMDB_API_BASE = "https://api.themoviedb.org/3";
 const TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p/w500";
 const TMDB_MAX_PAGE = 500; // hard limit imposed by TMDB's API
 
+const CINEMETA_API_BASE = (imdb_id) => `https://cinemeta-live.strem.io/meta/series/${imdb_id}.json`;
+
 // ---- config from env ------------------------------------------------------
 
 const TMDB_BEARER_TOKEN = process.env.TMDB_BEARER_TOKEN;
 const START_PAGE = parseInt(process.env.START_PAGE ?? "1", 10);
 const END_PAGE = parseInt(process.env.END_PAGE ?? "1", 10);
 const OUTPUT_DIR = process.env.OUTPUT_DIR ?? ".";
-const DELAY_MS = parseInt(process.env.DELAY_MS ?? "250", 10);
+const DELAY_MS = parseInt(process.env.DELAY_MS ?? "500", 10);
 
 const SERIES_DIR = path.join(OUTPUT_DIR, "tv", "tmdb");
+const SERIES_DIR_IMDB = path.join(OUTPUT_DIR, "tv", "imdb");
+const HEADERS = {
+  Authorization: `Bearer ${TMDB_BEARER_TOKEN}`,
+  Accept: "application/json",
+};
 
 // ---- helpers ----------------------------------------------------------
 
@@ -52,14 +59,69 @@ async function fetchDiscoverPage(page) {
 
   const response = await fetch(url, {
     headers: {
-      Authorization: `Bearer ${TMDB_BEARER_TOKEN}`,
-      Accept: "application/json",
+      ...HEADERS,
     },
   });
 
   if (!response.ok) {
     const body = await response.text().catch(() => "");
     throw new Error(`Page ${page} failed: HTTP ${response.status} ${body.slice(0, 200)}`);
+  }
+
+  return response.json();
+}
+
+/**
+ * Fetches the full details for a TV series by TMDB ID.
+ */
+async function fetchID(tmdb_id) {
+  const url = new URL(`${TMDB_API_BASE}/tv/${tmdb_id}`);
+
+  const response = await fetch(url, {
+    headers: {
+      ...HEADERS,
+    },
+  });
+
+  if (!response.ok) {
+    const body = await response.text().catch(() => "");
+    throw new Error(`TV series ${tmdb_id} failed: HTTP ${response.status} ${body.slice(0, 200)}`);
+  }
+
+  return response.json();
+}
+
+/**
+ * Fetches the full details for a TV series by IMDB ID.
+ */
+async function fetchIMDB(imdb_id) {
+  const url = new URL(`${CINEMETA_API_BASE(imdb_id)}`);
+
+  const response = await fetch(url);
+
+  if (!response.ok) {
+    const body = await response.text().catch(() => "");
+    throw new Error(`TV series ${imdb_id} failed: HTTP ${response.status} ${body.slice(0, 200)}`);
+  }
+
+  return response.json();
+}
+
+/**
+ * Fetches the external IDs for a TV series by TMDB ID.
+ */
+async function fetchExternalIDS(tmdb_id) {
+  const url = new URL(`${TMDB_API_BASE}/tv/${tmdb_id}/external_ids`);
+
+  const response = await fetch(url, {
+    headers: {
+      ...HEADERS,
+    },
+  });
+
+  if (!response.ok) {
+    const body = await response.text().catch(() => "");
+    throw new Error(`TV series ${tmdb_id} failed: HTTP ${response.status} ${body.slice(0, 200)}`);
   }
 
   return response.json();
@@ -73,8 +135,8 @@ function toSeriesRecord(result) {
     tmdb_id: String(result.id),
     title: result.name,
     url: `https://www.themoviedb.org/tv/${result.id}`,
-    poster: result.poster_path ? `${TMDB_IMAGE_BASE}${result.poster_path}` : null,
-    backdrop: result.backdrop_path ? `${TMDB_IMAGE_BASE}${result.backdrop_path}` : null,
+    poster: result.poster_path || null,
+    backdrop: result.backdrop_path || null,
     first_air_date: result.first_air_date || null,
     overview: result.overview || null,
     original_language: result.original_language || null,
@@ -91,6 +153,22 @@ function toSeriesRecord(result) {
 async function writeSeriesFile(series) {
   const filePath = path.join(SERIES_DIR, `${series.tmdb_id}.json`);
   await writeFile(filePath, JSON.stringify(series, null, 2), "utf-8");
+}
+
+/**
+ * Writes a single series to OUTPUT_DIR/tv/tmdb/{tmdb_id}.json
+ */
+async function writeSeriesFile2(tmdb_id, data) {
+  const filePath = path.join(SERIES_DIR, `${tmdb_id}.json`);
+  await writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
+}
+
+/**
+ * Writes a single series to OUTPUT_DIR/tv/imdb/{imdb_id}.json
+ */
+async function writeIMDBFile(imdb_id, data) {
+  const filePath = path.join(SERIES_DIR_IMDB, `${imdb_id}.json`);
+  await writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
 }
 
 // ---- main ---------------------------------------------------------------
@@ -114,6 +192,7 @@ async function main() {
   console.log(`Fetching pages ${START_PAGE}-${effectiveEndPage} into ${SERIES_DIR}/`);
 
   await mkdir(SERIES_DIR, { recursive: true });
+  await mkdir(SERIES_DIR_IMDB, { recursive: true });
 
   let totalWritten = 0;
 
@@ -136,8 +215,27 @@ async function main() {
     }
 
     for (const result of results) {
-      const series = toSeriesRecord(result);
-      await writeSeriesFile(series);
+    //   const series = toSeriesRecord(result);
+    //   await writeSeriesFile(series);
+
+      const tmdb_id = String(result.id);
+      const data = await fetchID(tmdb_id);
+      const external_ids = await fetchExternalIDS(tmdb_id);
+
+      const imdb_id = external_ids.imdb_id ?? null;
+      if (imdb_id) {
+        try {
+          const imdb_data = await fetchIMDB(imdb_id);
+          const imdb_meta = imdb_data.meta ?? null;
+          await writeIMDBFile(imdb_id, imdb_meta);
+        } catch (err) {
+          console.error(`  series ${tmdb_id} IMDB fetch failed: ${err.message}`);
+        }
+      }
+    
+      data.external_ids = external_ids;
+
+      await writeSeriesFile2(tmdb_id, data);
       totalWritten++;
     }
 

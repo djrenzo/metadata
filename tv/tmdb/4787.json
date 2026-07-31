@@ -1,0 +1,264 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    23
+  ],
+  "first_air_date": "1998-12-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.cc.com/shows/comedy-central-presents/",
+  "id": 4787,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-03-25",
+  "last_episode_to_air": {
+    "id": 343419,
+    "name": "Natasha Leggero",
+    "overview": "",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "2011-03-25",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 15,
+    "show_id": 4787,
+    "still_path": null
+  },
+  "name": "Comedy Central Presents",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 286,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Comedy Central Presents",
+  "overview": "These half-hour specials showcased some of the best up-and-coming comedians of the moment. The show was a pivotal stepping stone for many of today's stand-up stars.",
+  "popularity": 11.0004,
+  "poster_path": "/223LsiI29uOQpdN32QdeMTfmB5R.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-10-28",
+      "episode_count": 20,
+      "id": 14518,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-01",
+      "episode_count": 8,
+      "id": 14503,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1999-05-29",
+      "episode_count": 12,
+      "id": 14504,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-06-07",
+      "episode_count": 16,
+      "id": 14505,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2000-12-04",
+      "episode_count": 8,
+      "id": 14506,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-25",
+      "episode_count": 16,
+      "id": 14507,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-22",
+      "episode_count": 11,
+      "id": 14508,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-02-07",
+      "episode_count": 29,
+      "id": 14509,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-30",
+      "episode_count": 28,
+      "id": 14510,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-25",
+      "episode_count": 24,
+      "id": 14511,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-17",
+      "episode_count": 24,
+      "id": 14512,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2007-01-12",
+      "episode_count": 20,
+      "id": 14513,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2008-01-11",
+      "episode_count": 24,
+      "id": 14514,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2009-01-09",
+      "episode_count": 24,
+      "id": 14516,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2010-02-19",
+      "episode_count": 24,
+      "id": 14515,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2011-01-21",
+      "episode_count": 18,
+      "id": 14517,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.985,
+  "vote_count": 33,
+  "external_ids": {
+    "id": 4787,
+    "imdb_id": "tt0497480",
+    "freebase_mid": "/m/03crx_",
+    "freebase_id": "/en/comedy_central_presents",
+    "tvdb_id": 74337,
+    "tvrage_id": null,
+    "wikidata_id": "Q5151435",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

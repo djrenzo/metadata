@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/olMxdNBX5kn1uqhr3nty7aAUOp3.jpg",
+  "created_by": [
+    {
+      "id": 209883,
+      "credit_id": "5906f4d8c3a3684a4e02d537",
+      "name": "Peter Berry",
+      "original_name": "Peter Berry",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2008-02-17",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b00937z6",
+  "id": 7096,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2008-03-16",
+  "last_episode_to_air": {
+    "id": 384317,
+    "name": "Episode 5",
+    "overview": "As Stephen finally pieces together the conspiracy, Michael's illness worsens and another moves to tie up all the loose ends.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-03-16",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 56,
+    "season_number": 1,
+    "show_id": 7096,
+    "still_path": "/7d7zMuPguAUF4TiRj9M4JtRuVrH.jpg"
+  },
+  "name": "The Last Enemy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 5,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Last Enemy",
+  "overview": "Reclusive mathematician Stephen Ezard returns to England after years in China, finds his brother's widow, and becomes entangled in a plot involving a new national database (TIA) and a terrorist scheme.",
+  "popularity": 10.7687,
+  "poster_path": "/wlBj7IPDHiIBFsGILZkG3LL8IlJ.jpg",
+  "production_companies": [
+    {
+      "id": 1370,
+      "logo_path": "/uch218gB4XWNz3JNhlc65A5Q207.png",
+      "name": "Castel Film",
+      "origin_country": "RO"
+    },
+    {
+      "id": 2961,
+      "logo_path": null,
+      "name": "Box TV",
+      "origin_country": ""
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 10197,
+      "logo_path": "/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png",
+      "name": "GBH",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-02-17",
+      "episode_count": 5,
+      "id": 17306,
+      "name": "Miniseries",
+      "overview": "Reclusive mathematician Stephen Ezard returns to England after years in China, finds his brother's widow, and becomes entangled in a plot involving a new national database (TIA) and a terrorist scheme.",
+      "poster_path": "/7Mu8GYXej6yi7F7f4zzcIXqDOZi.jpg",
+      "season_number": 1,
+      "vote_average": 2.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 6.667,
+  "vote_count": 27,
+  "external_ids": {
+    "id": 7096,
+    "imdb_id": "tt0966151",
+    "freebase_mid": "/m/03qcl1g",
+    "freebase_id": null,
+    "tvdb_id": 81383,
+    "tvrage_id": null,
+    "wikidata_id": "Q7745745",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

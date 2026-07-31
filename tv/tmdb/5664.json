@@ -1,0 +1,508 @@
+{
+  "adult": false,
+  "backdrop_path": "/9BAWhvzY7mkmfczGdrEfOxfxWpJ.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1989-11-26",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.mtv.com/shows/unplugged",
+  "id": 5664,
+  "in_production": true,
+  "languages": [
+    "en",
+    "hi",
+    "it"
+  ],
+  "last_air_date": "2023-12-15",
+  "last_episode_to_air": {
+    "id": 5877888,
+    "name": "A Hip Hop 50th Celebration of Jersey's Finest",
+    "overview": "An elite lineup of the Garden State's greatest superstars, including Queen Latifah, Wyclef Jean, Redman, Naughty By Nature's own Treach, Poor Righteous Teachers, Heather B, and hip hop pioneers The Sugarhill Gang, with musical direction from Emmy-winning artist, Adam Blackstone, joined forces on-stage for a once-in-a-lifetime episode of the iconic music series taped at the historic Newark Symphony Hall. Additional performances from Lady Luck and Lords of the Underground solidify the night as a true salute to Jersey hip hop.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-15",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 75,
+    "season_number": 34,
+    "show_id": 5664,
+    "still_path": "/b0fVsm4ThDW1SBG2oYpcXcfalHD.jpg"
+  },
+  "name": "MTV Unplugged",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 33,
+      "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+      "name": "MTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 451,
+      "logo_path": "/hP68W3FIJAyd4bv8UPgmbUPL2R5.png",
+      "name": "Palladia",
+      "origin_country": "US"
+    },
+    {
+      "id": 8880,
+      "logo_path": "/pYTonUHGc1uT2H9borzH5Du0JFb.png",
+      "name": "MTV Live",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 172,
+  "number_of_seasons": 35,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "MTV Unplugged",
+  "overview": "MTV's acclaimed music series showcases today's top artists and rising stars in the industry performing acoustic versions of their songs.",
+  "popularity": 10.4398,
+  "poster_path": "/wq1XgtmQbhMax38ZHxLeqSxayGx.jpg",
+  "production_companies": [
+    {
+      "id": 6043,
+      "logo_path": null,
+      "name": "MTV Networks",
+      "origin_country": "US"
+    },
+    {
+      "id": 21228,
+      "logo_path": null,
+      "name": "Dakota North Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 91410,
+      "logo_path": "/klnZXdGFzDn6fBqHgJs91PYLSUZ.png",
+      "name": "Den of Thieves",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 10,
+      "id": 15769,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/ul97rRFwB1SYuWGHe374f3s3s4J.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-11-25",
+      "episode_count": 19,
+      "id": 15756,
+      "name": "Season 1",
+      "overview": "1989-1990",
+      "poster_path": "/oGDwIxqmoNoNHe9KvccAMuueN0J.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-03-02",
+      "episode_count": 7,
+      "id": 15757,
+      "name": "Season 2",
+      "overview": "1991",
+      "poster_path": "/xj4U354pUL22ryXvCPo0woiIvig.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-03-10",
+      "episode_count": 10,
+      "id": 15759,
+      "name": "Season 3",
+      "overview": "1992",
+      "poster_path": "/rhKq19tUmdkTTx0nkVUVY7JoLmk.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-02-12",
+      "episode_count": 13,
+      "id": 15758,
+      "name": "Season 4",
+      "overview": "1993",
+      "poster_path": "/J1JUudzi50OgQhIMFSOLwkwvph.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "1994-02-02",
+      "episode_count": 10,
+      "id": 15760,
+      "name": "Season 5",
+      "overview": "1994",
+      "poster_path": "/rE2YmJugIIfirzCITUbq0qIkAJK.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-03-20",
+      "episode_count": 10,
+      "id": 15761,
+      "name": "Season 6",
+      "overview": "1995",
+      "poster_path": "/vUDNwq1uYiyHV6pLeaQDojt3pXg.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-04-15",
+      "episode_count": 8,
+      "id": 15762,
+      "name": "Season 7",
+      "overview": "1996",
+      "poster_path": "/46Nm2HuhhNTIeFGeduZ26BmDva6.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-04-19",
+      "episode_count": 9,
+      "id": 15763,
+      "name": "Season 8",
+      "overview": "1997",
+      "poster_path": "/712fLppxh0geyV5YRkEpBh0uXCk.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-22",
+      "episode_count": 2,
+      "id": 15777,
+      "name": "Season 9",
+      "overview": "1998",
+      "poster_path": "/2ULARASbyfCUhFSoCUgEr55PyLG.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-03-23",
+      "episode_count": 5,
+      "id": 15765,
+      "name": "Season 10",
+      "overview": "1999",
+      "poster_path": "/z2UP1ax0IYfFXoy1lAA7gWYmEpc.jpg",
+      "season_number": 10,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2000-12-07",
+      "episode_count": 2,
+      "id": 15766,
+      "name": "Season 11",
+      "overview": "2000",
+      "poster_path": "/sdo0u2qbjhEMgYvBn56uACMlBdf.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-05-21",
+      "episode_count": 7,
+      "id": 15767,
+      "name": "Season 12",
+      "overview": "2001",
+      "poster_path": "/e80p2DIv1FWY8us81riYMH0x60y.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-23",
+      "episode_count": 3,
+      "id": 15764,
+      "name": "Season 13",
+      "overview": "2002",
+      "poster_path": "/e1PQYbEEnoPJhO4tEaTeO5y1VF9.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-07-13",
+      "episode_count": 1,
+      "id": 15768,
+      "name": "Season 14",
+      "overview": "2003",
+      "poster_path": "/9RNSuLeXHN2ZV9i4MVHrp69AdDk.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 15778,
+      "name": "Season 15",
+      "overview": "2004",
+      "poster_path": "/kJR005enAQCerVPdx4WxE7AkeI2.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-22",
+      "episode_count": 1,
+      "id": 15770,
+      "name": "Season 16",
+      "overview": "2005",
+      "poster_path": "/86lEAfwoy0BRBB5P6gSNjfxV5gW.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-31",
+      "episode_count": 1,
+      "id": 15776,
+      "name": "Season 17",
+      "overview": "2006",
+      "poster_path": "/xqF05FXwtI2c2IZTgFLlwmrWXCQ.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-22",
+      "episode_count": 4,
+      "id": 15771,
+      "name": "Season 18",
+      "overview": "2007",
+      "poster_path": "/vpyJd7err9i8EB9Rr54Vj2eg0gq.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-06-04",
+      "episode_count": 2,
+      "id": 15772,
+      "name": "Season 19",
+      "overview": "2008",
+      "poster_path": "/wVpZWa2Yf5LKofYZyMKjPDKsU54.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-05-20",
+      "episode_count": 7,
+      "id": 15773,
+      "name": "Season 20",
+      "overview": "2009",
+      "poster_path": "/nCioZO3IGSoaJEfSergagD1QxWh.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-08",
+      "episode_count": 18,
+      "id": 15775,
+      "name": "Season 21",
+      "overview": "2010",
+      "poster_path": "/qdjSdhl1c6afqE9CHhq28ndkrjW.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-07",
+      "episode_count": 12,
+      "id": 15774,
+      "name": "Season 22",
+      "overview": "2011",
+      "poster_path": "/uaycV8pWtW0K1y2CLTypWhyabLe.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-08",
+      "episode_count": 3,
+      "id": 351255,
+      "name": "Season 23",
+      "overview": "2012",
+      "poster_path": "/lWXj6WAMalLwmxyeSz2DiyMKuYP.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-11",
+      "episode_count": 1,
+      "id": 351258,
+      "name": "Season 24",
+      "overview": "2013",
+      "poster_path": "/sQFutkicwV52KaRRbeEJBFiuND5.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-28",
+      "episode_count": 5,
+      "id": 92432,
+      "name": "Season 25",
+      "overview": "2014",
+      "poster_path": "/jaj2GnoQavQmrjEKKMTy1bBr8kZ.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 214642,
+      "name": "Season 26",
+      "overview": "2015",
+      "poster_path": "/nkCwX3ZOmEfYm0I7yRvrgnWmgNg.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 214643,
+      "name": "Season 27",
+      "overview": "2016",
+      "poster_path": "/4B9wBrFUP2oQ4nJNWlQw9qJL2ja.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 214644,
+      "name": "Season 28",
+      "overview": "2017",
+      "poster_path": "/5GTuzpZrbbKXzubg9yJsf1SSXZu.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 214646,
+      "name": "Season 29",
+      "overview": "2018",
+      "poster_path": "/9XMWgReMBJoZGEy9Aqs9vlAJlKw.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-01",
+      "episode_count": 1,
+      "id": 214647,
+      "name": "Season 30",
+      "overview": "2019",
+      "poster_path": "/uNocn1zxWeNVMmjCq70IOJIsFuJ.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-15",
+      "episode_count": 1,
+      "id": 214648,
+      "name": "At Home",
+      "overview": "In 2020, in light of the COVID-19 pandemic, MTV rebranded the show to MTV Unplugged at Home, as part of the network's #AloneTogether campaign, a social media initiative created to encourage the practice of social distancing among young people \"in the hope of 'flattening the curve'\" of the outbreak. It became an online series instead, with episodes released on MTV's YouTube, Instagram, and Twitter accounts, and featured a mix of local and international artists performing from their respective homes around the world.",
+      "poster_path": "/18nVq8SCYTRbadJnX2o7UvlqyAj.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-22",
+      "episode_count": 3,
+      "id": 214649,
+      "name": "Season 32",
+      "overview": "2021",
+      "poster_path": "/4NVmERpw60f09rPmqiNSYoyeRaB.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-08",
+      "episode_count": 1,
+      "id": 308561,
+      "name": "Season 33",
+      "overview": "2022",
+      "poster_path": "/hBxxhbP8K34tMlxVIBuYTESqr5v.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-15",
+      "episode_count": 1,
+      "id": 436328,
+      "name": "Season 34",
+      "overview": "2023",
+      "poster_path": "/eXEVWa9nbV1WlcXqdRmYjXCebrM.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 497109,
+      "name": "Season 35",
+      "overview": "2024",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.143,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 5664,
+    "imdb_id": "tt0149314",
+    "freebase_mid": "/m/01bs9t",
+    "freebase_id": "/en/mtv_unplugged",
+    "tvdb_id": 75822,
+    "tvrage_id": null,
+    "wikidata_id": "Q10913761",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

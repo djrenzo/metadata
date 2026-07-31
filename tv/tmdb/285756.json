@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/c1IU5jO1IQLCZYIeleuUIAYlblP.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2011-02-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 285756,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2011-03-16",
+  "last_episode_to_air": {
+    "id": 7252264,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-07-22",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 285756,
+    "still_path": null
+  },
+  "name": "Confidencial",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 55,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Confidencial",
+  "overview": "",
+  "popularity": 11.343,
+  "poster_path": "/jjRIypD5L0Hqtc32CMpglNaYsrX.jpg",
+  "production_companies": [
+    {
+      "id": 2586,
+      "logo_path": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+      "name": "Caracol Televisión",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-02-07",
+      "episode_count": 55,
+      "id": 445105,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-18",
+      "episode_count": 5,
+      "id": 445108,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 285756,
+    "imdb_id": "tt5837866",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

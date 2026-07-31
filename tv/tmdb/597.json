@@ -1,0 +1,201 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 188926,
+      "credit_id": "6a05bf995bb080aca5db1730",
+      "name": "Matt MacLeod",
+      "original_name": "Matt MacLeod",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 4149757,
+      "credit_id": "6a05bfad6b87e71c51848121",
+      "name": "Julia Keatley",
+      "original_name": "Julia Keatley",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245193,
+      "credit_id": "6a05bfcd14fa1ccb725c00a4",
+      "name": "Philip Keatley",
+      "original_name": "Philip Keatley",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1998-01-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.ctv.ca/servlet/ArticleNews/show/CTVShows/20040824/ColdSquad-default/20060901/",
+  "id": 597,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2005-06-04",
+  "last_episode_to_air": {
+    "id": 34097,
+    "name": "And the Fury (2)",
+    "overview": "Harper searches desperately for his missing daughter, praying that he will find her before it is too late. Sam has the perfect suspect, an well-known surgeon, but the only witness against him is very unstable.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2005-06-04",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 7,
+    "show_id": 597,
+    "still_path": null
+  },
+  "name": "Cold Squad",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 110,
+      "logo_path": "/uPoKSf3GtME7IZz4alnoWvc0nWx.png",
+      "name": "CTV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 98,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Cold Squad",
+  "overview": "Cold Squad is a Canadian police procedural television series first broadcast in 1998 that followed the investigations of a part of the Vancouver Police Department Homicide Division tasked with solving cold cases, the titular Cold Squad, as led by Sergeant Ali McCormick (Julie Stewart).\n\nThe cast of Cold Squad was diverse and changing, McCormick being the only character to appear in all 7 seasons. Between the second and third seasons, almost the entire on-screen cast other than Julie Stewart were replaced. This along with the new sets, a significant revamp of the credits and theme music, and even having McCormick's hair change from auburn to dirty-blonde all contributed to a considerable reworking of the series.",
+  "popularity": 14.2855,
+  "poster_path": "/4JC7VvbplEXMGw2jW15QzHqqoN6.jpg",
+  "production_companies": [
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-01-23",
+      "episode_count": 11,
+      "id": 1808,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "1998-09-25",
+      "episode_count": 15,
+      "id": 1806,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "1999-10-22",
+      "episode_count": 13,
+      "id": 1810,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2000-10-06",
+      "episode_count": 20,
+      "id": 1811,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-29",
+      "episode_count": 13,
+      "id": 1812,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2002-09-21",
+      "episode_count": 13,
+      "id": 1807,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2004-09-04",
+      "episode_count": 13,
+      "id": 1809,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 597,
+    "imdb_id": "tt0138959",
+    "freebase_mid": "/m/0546gq",
+    "freebase_id": "/en/cold_squad",
+    "tvdb_id": 76008,
+    "tvrage_id": null,
+    "wikidata_id": "Q1112362",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

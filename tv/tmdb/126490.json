@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Fvy7f583EJIgqdtCeOFbTsltv8.jpg",
+  "created_by": [
+    {
+      "id": 4797455,
+      "credit_id": "6682b4b95dcd9c8e46774523",
+      "name": "陈歆宇",
+      "original_name": "陈歆宇",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 5603758,
+      "credit_id": "6890301c61ecb3e4d6a468be",
+      "name": "王鹏飞",
+      "original_name": "王鹏飞",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2019-01-05",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 126490,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2025-10-26",
+  "last_episode_to_air": {
+    "id": 6612206,
+    "name": "EP12-2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-10-26",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 4,
+    "show_id": 126490,
+    "still_path": "/1fXfaAvs5IYFOswFCfdRHO2NjGf.jpg"
+  },
+  "name": "My Little One",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 952,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan Television",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1631,
+      "logo_path": "/iE3rtBcUfWGiJosaZv2TroBxEZz.png",
+      "name": "Mango TV",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 66,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "我家那闺女",
+  "overview": "",
+  "popularity": 10.5753,
+  "poster_path": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
+  "production_companies": [
+    {
+      "id": 15692,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan TV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 139947,
+      "logo_path": "/yTjVB6bJfdbuuZOhKdmjkY70cxn.png",
+      "name": "MangoTV",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-24",
+      "episode_count": 86,
+      "id": 400726,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/mf7pe1v6qV4XVyu92nOQxHvjyMi.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-05",
+      "episode_count": 12,
+      "id": 197102,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vGxIFZdKbJUzpD4PHYvmk1ZC0iA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-23",
+      "episode_count": 12,
+      "id": 197103,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xW4Py9bTVLYBrEcI6JjMBDPawMC.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-09",
+      "episode_count": 16,
+      "id": 400724,
+      "name": "2024",
+      "overview": "",
+      "poster_path": "/scGF0Q6rmPOplJ75vtlvlwEIAeO.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-10",
+      "episode_count": 25,
+      "id": 467660,
+      "name": "2025",
+      "overview": "",
+      "poster_path": "/8gV9bRO0jVhjOPGD2s2HzyWtl9V.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 482253,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 126490,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

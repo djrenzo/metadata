@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2006-06-03",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 240259,
+  "in_production": false,
+  "languages": [
+    "cn"
+  ],
+  "last_air_date": "2010-01-30",
+  "last_episode_to_air": {
+    "id": 5192497,
+    "name": "Episode 159",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-01-30",
+    "episode_number": 159,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 240259,
+    "still_path": null
+  },
+  "name": "Be My Guest",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 48,
+      "logo_path": "/v78f4q6DYdRB8dLj4rQBpqQG8pW.png",
+      "name": "TVB Jade",
+      "origin_country": "HK"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_name": "志雲飯局",
+  "overview": "",
+  "popularity": 10.5488,
+  "poster_path": "/wdS8hKzxFQmuC9ehNv43V3mq9OO.jpg",
+  "production_companies": [
+    {
+      "id": 79261,
+      "logo_path": "/4OKzkasr0IV8CSqejjgRfKw7e0m.png",
+      "name": "TVB",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-06-03",
+      "episode_count": 160,
+      "id": 367181,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 240259,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

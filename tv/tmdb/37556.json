@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1254122,
+      "credit_id": "5258e9d2760ee3466187d2fd",
+      "name": "NOS Journaal",
+      "original_name": "NOS Journaal",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "1981-01-05",
+  "genres": [],
+  "homepage": "http://jeugdjournaal.nl/",
+  "id": 37556,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2010-10-08",
+  "last_episode_to_air": {
+    "id": 848865,
+    "name": "Season 31, Episode 62",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-10-08",
+    "episode_number": 62,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 10,
+    "season_number": 31,
+    "show_id": 37556,
+    "still_path": null
+  },
+  "name": "Jeugdjournaal",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1433,
+      "logo_path": "/eDObRs53SyWCHlnFoKTTnwZGPpB.png",
+      "name": "NPO 1",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2412,
+      "logo_path": "/4GaXwPcTDWaZ83a9hOt2fTgh1kQ.png",
+      "name": "NPO 2",
+      "origin_country": "NL"
+    },
+    {
+      "id": 1194,
+      "logo_path": "/wVbxJBRSvSdGeLTm4z7WOBgTD1B.png",
+      "name": "NPO 3",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 566,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Jeugdjournaal",
+  "overview": "Jeugdjournaal is a Dutch television news programme produced by the Dutch public service broadcaster NOS for children. The programme has been broadcast since 1981.\n\nThe aim of Jeugdjournaal is to present news that is both of interest and understanding to young viewers, without shying away from the main national and international news headlines. The broadcasts are viewed extensively by older viewers; about one-sixth of the programme's viewership are adults.\n\nJeugdjournaal is involved in setting up similar shows in several countries where neutral news broadcasts are scarce.\n\nA main evening programme airs at 6:45pm, running for 15 minutes every night on Nederland 3. A 5-minute update also airs on weekdays at 4:25pm. The short afternoon updates and a weekly compilation programme are broadcast on the international Dutch-language television station, BVN.",
+  "popularity": 9.4179,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 512,
+      "id": 48910,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-06",
+      "episode_count": 54,
+      "id": 48911,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 37556,
+    "imdb_id": "tt0397799",
+    "freebase_mid": "/m/026r24l",
+    "freebase_id": "/en/jeugdjournaal",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

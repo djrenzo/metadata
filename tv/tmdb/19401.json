@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/ndbch3UDR1tdxkJ9PVBBbh1sZHe.jpg",
+  "created_by": [
+    {
+      "id": 128924,
+      "credit_id": "5ba691a2c3a3680e65012643",
+      "name": "Piero Schivazappa",
+      "original_name": "Piero Schivazappa",
+      "gender": 2,
+      "profile_path": "/4eGEAHDW1QoNmcAZRS1iyn9b1pK.jpg"
+    },
+    {
+      "id": 1782603,
+      "credit_id": "5ba6919c0e0a2635f9012970",
+      "name": "Franco Rossi",
+      "original_name": "Franco Rossi",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 25826,
+      "credit_id": "5ba691a6c3a3680e4d01601b",
+      "name": "Mario Bava",
+      "original_name": "Mario Bava",
+      "gender": 2,
+      "profile_path": "/vDx5usGSp8Fygmvo4jnepQ4EQRN.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1968-03-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "",
+  "id": 19401,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "1968-05-05",
+  "last_episode_to_air": {
+    "id": 1104207,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1968-05-05",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 19401,
+    "still_path": "/z5KJGxVt3iK48sSTSXRMVpWuPKf.jpg"
+  },
+  "name": "The Odyssey",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1196,
+      "logo_path": "/j1A7mEWCvFT6eRxOnqapNbikIyk.png",
+      "name": "ORTF Télévision",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Odissea",
+  "overview": "Odysseus' journey, told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+  "popularity": 12.023,
+  "poster_path": "/4iBgeghJz97TjQK9CUPyD8kz8K3.jpg",
+  "production_companies": [
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1293,
+      "logo_path": "/4r2EdENtYK1Ddxmciod3XvmfA9k.png",
+      "name": "ORTF",
+      "origin_country": "FR"
+    },
+    {
+      "id": 99996,
+      "logo_path": "/liznTlaTMPe5rcFO5wSTSJAzyKj.png",
+      "name": "Bavaria Fiction",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1968-03-24",
+      "episode_count": 8,
+      "id": 70302,
+      "name": "Miniseries",
+      "overview": "Odysseus' journey told in Homer's Iliad and Odyssey. After fighting in the Trojan War, Odysseus spends years trying to return home to Itaka.",
+      "poster_path": "/AtXW9fRdIy8M2m9RtgrdWLpqCIL.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 8.571,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 19401,
+    "imdb_id": "tt0064750",
+    "freebase_mid": "/m/05zwkn5",
+    "freebase_id": "/en/lodissea",
+    "tvdb_id": 206071,
+    "tvrage_id": null,
+    "wikidata_id": "Q556119",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

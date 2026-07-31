@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 234560,
+      "credit_id": "6451f6d310561100e3e60c22",
+      "name": "Gina Marissa Tagasa-Gil",
+      "original_name": "Gina Marissa Tagasa-Gil",
+      "gender": 1,
+      "profile_path": "/c7wO6Tz7F5ck2p4XwwadDfbqjjh.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1995-07-31",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 18866,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "1996-08-09",
+  "last_episode_to_air": {
+    "id": 4410834,
+    "name": "Episode 268",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-08-09",
+    "episode_number": 268,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 18866,
+    "still_path": null
+  },
+  "name": "Kadenang Kristal",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 268,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Kadenang Kristal",
+  "overview": "Kadenang Kristal was a Philippine television series produced by TAPE, Inc. and aired over GMA Network. Directed by Gina Alajar, this drama series is all about love, family and friendship. This is also the first teledrama of TAPE Inc. in primetime block.",
+  "popularity": 17.7794,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 36982,
+      "logo_path": null,
+      "name": "Tape Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-07-31",
+      "episode_count": 268,
+      "id": 339428,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 18866,
+    "imdb_id": null,
+    "freebase_mid": "/m/064q1fm",
+    "freebase_id": "/en/kadenang_kristal",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

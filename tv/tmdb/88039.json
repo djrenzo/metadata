@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/pZuOqZOf9wueklYTLaPhtjcEspf.jpg",
+  "created_by": [
+    {
+      "id": 3426999,
+      "credit_id": "629167a5fb834600666fcd77",
+      "name": "Inês Gomes",
+      "original_name": "Inês Gomes",
+      "gender": 0,
+      "profile_path": "/1NLJsgicqk4ts6hLU5dxe1bPYov.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-09-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.sptelevisao.pt/pt/producoes/novelas/amor-maior/",
+  "id": 88039,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2017-09-30",
+  "last_episode_to_air": {
+    "id": 3749311,
+    "name": "Episode 163",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-09-30",
+    "episode_number": 163,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 88039,
+    "still_path": null
+  },
+  "name": "More Than Love",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 333,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Amor Maior",
+  "overview": "",
+  "popularity": 9.8295,
+  "poster_path": "/v7uoKg3Ka7cFOzcYbCZomyxIJeU.jpg",
+  "production_companies": [
+    {
+      "id": 92108,
+      "logo_path": "/ufaY7DMZUz56C6iaIdaFTZDqYPY.png",
+      "name": "SP Televisão",
+      "origin_country": "PT"
+    },
+    {
+      "id": 8413,
+      "logo_path": "/vZokJngHqGwMKJSgIUOky2Ui46a.png",
+      "name": "SIC - Sociedade Independente de Comunicação",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 170,
+      "id": 121354,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-29",
+      "episode_count": 163,
+      "id": 295338,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 88039,
+    "imdb_id": "tt5845202",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 316351,
+    "tvrage_id": null,
+    "wikidata_id": "Q28679603",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

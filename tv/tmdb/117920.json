@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1184327,
+      "credit_id": "601e84b7cedac4003d1d8fee",
+      "name": "Artur Ribeiro",
+      "original_name": "Artur Ribeiro",
+      "gender": 2,
+      "profile_path": "/fJxSerUjqEhsIAi9ObxU0lkeziW.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2015-09-28",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://tviplayer.iol.pt/programa/santa-barbara/5540bacd0cf241ea7db3a1e2/t1",
+  "id": 117920,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2016-10-01",
+  "last_episode_to_air": {
+    "id": 2697311,
+    "name": "Episode 271",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-10-01",
+    "episode_number": 271,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 117920,
+    "still_path": null
+  },
+  "name": "Santa Bárbara",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 271,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Santa Bárbara",
+  "overview": "",
+  "popularity": 9.7321,
+  "poster_path": "/2cnAnhxRkTLGkkSB0HV3XjPNr6.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2015-09-28",
+      "episode_count": 271,
+      "id": 179316,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 117920,
+    "imdb_id": "tt4649174",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 301324,
+    "tvrage_id": null,
+    "wikidata_id": "Q21337011",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/pGW53bLFTUG8Gjx5SDb3hpDQ5Yd.jpg",
+  "created_by": [
+    {
+      "id": 52779,
+      "credit_id": "668f9e53727e3bd273f6c6a0",
+      "name": "Ryan Murphy",
+      "original_name": "Ryan Murphy",
+      "gender": 2,
+      "profile_path": "/uPojf0hEIpud1huRC9NY7R55OSy.jpg"
+    },
+    {
+      "id": 69697,
+      "credit_id": "66f75d01140fbf6a1a5f0b76",
+      "name": "Jon Robin Baitz",
+      "original_name": "Jon Robin Baitz",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2063565,
+      "credit_id": "66f75d07f5d56e9ed8a1e875",
+      "name": "Joe Baken",
+      "original_name": "Joe Baken",
+      "gender": 2,
+      "profile_path": "/sn3MJQQFCzqn71ioarXHKFRJiBm.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-09-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://abc.com/show/b052ca15-d1e1-4aa4-9568-15c87b104c02",
+  "id": 249695,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-15",
+  "last_episode_to_air": {
+    "id": 6039165,
+    "name": "The Wave (2)",
+    "overview": "When Max's transmission goes silent, he and Barry seek refuge in an abandoned church while Tristan takes charge of The Odyssey. With time running out, Avery leads a high-stakes rescue mission to find Max.",
+    "vote_average": 4,
+    "vote_count": 4,
+    "air_date": "2025-05-15",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 249695,
+    "still_path": "/9grkyIM4DiWF0NYDlwaZElPid84.jpg"
+  },
+  "name": "Doctor Odyssey",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 18,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Doctor Odyssey",
+  "overview": "Max is the new on-board doctor for a luxury cruise ship where the small but mighty medical team navigate unique medical crises and each other, miles from shore.",
+  "popularity": 13.717,
+  "poster_path": "/78KamrNZE0ZzPLBjEug16BASJ5M.jpg",
+  "production_companies": [
+    {
+      "id": 19328,
+      "logo_path": "/2AdkrU1av4fDGw0Zaf68XH4YcqC.png",
+      "name": "Ryan Murphy Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 240712,
+      "logo_path": null,
+      "name": "Scratchpad",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-26",
+      "episode_count": 18,
+      "id": 384687,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/78KamrNZE0ZzPLBjEug16BASJ5M.jpg",
+      "season_number": 1,
+      "vote_average": 4.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Big deck energy.",
+  "type": "Scripted",
+  "vote_average": 6.444,
+  "vote_count": 81,
+  "external_ids": {
+    "id": 249695,
+    "imdb_id": "tt31849826",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 447900,
+    "tvrage_id": null,
+    "wikidata_id": "Q129252935",
+    "facebook_id": null,
+    "instagram_id": "doctorodyssey",
+    "twitter_id": null
+  }
+}

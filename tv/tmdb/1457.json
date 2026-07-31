@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/6d1yCaiI7AexmtGX2vORqEbZ0oV.jpg",
+  "created_by": [
+    {
+      "id": 9156,
+      "credit_id": "68c7f1929fc9ced421f22102",
+      "name": "Andrew Davies",
+      "original_name": "Andrew Davies",
+      "gender": 2,
+      "profile_path": "/gOxUTVdqNinS2KQvEyIAMKPKt6s.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "1995-09-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/b009016x",
+  "id": 1457,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1995-10-29",
+  "last_episode_to_air": {
+    "id": 69412,
+    "name": "Episode 6",
+    "overview": "Mrs Bennet is delighted to have one of her daughters married at last. Elizabeth sees Wickham in his true colours when she meets him again after his elopement. There is great excitement in the neighbourhood when Bingley returns to Netherfield, bringing Darcy with him.",
+    "vote_average": 8.1,
+    "vote_count": 7,
+    "air_date": "1995-10-29",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 1457,
+    "still_path": "/jWo9b44r8e8O2G8G6qRpaUUX41R.jpg"
+  },
+  "name": "Pride and Prejudice",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Pride and Prejudice",
+  "overview": "Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.",
+  "popularity": 13.8205,
+  "poster_path": "/7od3Mob2qu5lL1l5RsdV6xuEquw.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1996-03-28",
+      "episode_count": 9,
+      "id": 3914,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/egcRn3u2hav3cWHWxNYuoEN0xP6.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-24",
+      "episode_count": 6,
+      "id": 3913,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/v2xwOTCRCPoEWxVUi2Qz5w8s3mH.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The celebrated BBC dramatisation of a classic romance",
+  "type": "Miniseries",
+  "vote_average": 8.2,
+  "vote_count": 561,
+  "external_ids": {
+    "id": 1457,
+    "imdb_id": "tt0112130",
+    "freebase_mid": "/m/03ysmw",
+    "freebase_id": null,
+    "tvdb_id": 71691,
+    "tvrage_id": 4888,
+    "wikidata_id": "Q855673",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

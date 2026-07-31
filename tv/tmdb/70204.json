@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/quC9EyY5UJ6hu3QklXXsaro45bp.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1998-03-02",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 70204,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2000-12-01",
+  "last_episode_to_air": {
+    "id": 1646785,
+    "name": "Episode 682",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-12-01",
+    "episode_number": 682,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 70204,
+    "still_path": null
+  },
+  "name": "Soonpoong Clinic",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 682,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "순풍산부인과",
+  "overview": "",
+  "popularity": 11.3753,
+  "poster_path": "/cRvExNNMVinTXyW8YITQQ62oznN.jpg",
+  "production_companies": [
+    {
+      "id": 38369,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "Seoul Broadcasting System",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-03-02",
+      "episode_count": 682,
+      "id": 84939,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cRvExNNMVinTXyW8YITQQ62oznN.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 70204,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 292706,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

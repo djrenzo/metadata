@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/nz2awazfRX9NpG9wps9IZgv6Bxo.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2019-08-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/series-y-novelas/el-final-del-paraiso",
+  "id": 95439,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-10-11",
+  "last_episode_to_air": {
+    "id": 3315953,
+    "name": "Episode 82",
+    "overview": "Santiago and Titi face off. Mariana's father wants to avenge his son. The new Mano Negra sends Yadith to watch over Mariana.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-12-09",
+    "episode_number": 82,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 95439,
+    "still_path": "/o5I2VYkswQz0Qpe0nhQRlfHdO4y.jpg"
+  },
+  "name": "El final del paraíso",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 90,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "El final del paraíso",
+  "overview": "In this new era, Catalina, now head of the DEA in Colombia, has a new challenge: to track down a criminal organization that is trafficking a new synthetic drug. What she ignores is that her daughter is part of the Cartel that traffics them and that Yésica, her worst enemy, is infiltrated in the DEA.",
+  "popularity": 11.5302,
+  "poster_path": "/1B2upXyWC74tRmg6UEtuvIm08rQ.jpg",
+  "production_companies": [
+    {
+      "id": 120759,
+      "logo_path": null,
+      "name": "Telemundo Global Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 6980,
+      "logo_path": "/vl8ZrvkRz9j0U67hGVyIyLK3GjM.png",
+      "name": "Fox Telecolombia",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-08-13",
+      "episode_count": 90,
+      "id": 135791,
+      "name": "Season 1",
+      "overview": "In Colombia, the DEA's new director targets a gang of dealers pushing a powerful drug while contending with an enemy who possesses a deep network.",
+      "poster_path": "/69qxniGeRfNDKHQJbS4rQ5D08bK.jpg",
+      "season_number": 1,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 239394,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.53,
+  "vote_count": 82,
+  "external_ids": {
+    "id": 95439,
+    "imdb_id": "tt10367818",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 382088,
+    "tvrage_id": null,
+    "wikidata_id": "Q65616961",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "adult": false,
+  "backdrop_path": "/8LkGGqYuoqq64jpZmpEtOoapTys.jpg",
+  "created_by": [
+    {
+      "id": 8952,
+      "credit_id": "52578d4e760ee36aaa699372",
+      "name": "Bert Schneider",
+      "original_name": "Bert Schneider",
+      "gender": 2,
+      "profile_path": "/yOJ0JICwgb1FjgHWNPEuKDiCNlY.jpg"
+    },
+    {
+      "id": 19450,
+      "credit_id": "52578d4e760ee36aaa69936a",
+      "name": "Bob Rafelson",
+      "original_name": "Bob Rafelson",
+      "gender": 2,
+      "profile_path": "/tRTlLdcgGdV0R3EgrZig9zQw0Tk.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1966-09-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.monkees.com/",
+  "id": 7626,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1968-03-25",
+  "last_episode_to_air": {
+    "id": 388877,
+    "name": "Mijacogeo - The Frodis Caper",
+    "overview": "The Monkees match wits with the insane Wizard Glick (Rip Taylor), who is out to control the minds of television viewers worldwide.",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "1968-03-25",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 2,
+    "show_id": 7626,
+    "still_path": "/yJgrIb4OOgpqDqSijTCGuNBVpN3.jpg"
+  },
+  "name": "The Monkees",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 58,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Monkees",
+  "overview": "Micky, Mike, Peter, and Davy are four young men in mid-1960s LA, members of a struggling country-folk-rock band looking for their big break amid madcap encounters with a variety of people straight out of TV and movie central casting, with full knowledge that their existence is part of a weekly television series.",
+  "popularity": 11.3595,
+  "poster_path": "/kNhWFmfVGkNfF3o3kdKUKgvdnaN.jpg",
+  "production_companies": [
+    {
+      "id": 4541,
+      "logo_path": null,
+      "name": "Raybert Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 19,
+      "id": 17759,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/csS22gbhi91Zm5ENtWsrKj4MXSG.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-09-12",
+      "episode_count": 32,
+      "id": 17757,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xdQwcxyvoAt0V8Wu17MQ3qVEkjV.jpg",
+      "season_number": 1,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1967-09-11",
+      "episode_count": 26,
+      "id": 17758,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xJzbmv4jXZ3121Xlz4IFJMDV7MG.jpg",
+      "season_number": 2,
+      "vote_average": 6.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Who's putting who on? You'll never know till you see this show!",
+  "type": "Scripted",
+  "vote_average": 6.537,
+  "vote_count": 54,
+  "external_ids": {
+    "id": 7626,
+    "imdb_id": "tt0060010",
+    "freebase_mid": "/m/04ggf7p",
+    "freebase_id": null,
+    "tvdb_id": 72109,
+    "tvrage_id": 5990,
+    "wikidata_id": "Q1031053",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

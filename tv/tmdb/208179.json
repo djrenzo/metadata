@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2395482,
+      "credit_id": "62fa265b258823007f60d20e",
+      "name": "Franck Bertrand",
+      "original_name": "Franck Bertrand",
+      "gender": 2,
+      "profile_path": "/hvchgU8tgW9KNXrF53y1H53Ghtn.jpg"
+    },
+    {
+      "id": 1305766,
+      "credit_id": "62fa267548333a00804235b9",
+      "name": "Jacqueline Monsigny",
+      "original_name": "Jacqueline Monsigny",
+      "gender": 1,
+      "profile_path": "/w7ruB0XDStZytFGzMQbpTbdq7yK.jpg"
+    },
+    {
+      "id": 1263068,
+      "credit_id": "62fa266848333a0083f0547b",
+      "name": "Thibaut Chatel",
+      "original_name": "Thibaut Chatel",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1998-04-06",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 208179,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1998-04-06",
+  "last_episode_to_air": {
+    "id": 3893071,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-04-06",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 208179,
+    "still_path": null
+  },
+  "name": "SOS Croco",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 65,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE",
+    "KR",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "SOS Croco",
+  "overview": "",
+  "popularity": 11.447,
+  "poster_path": "/z48q2yVNrkTqVKCXzxcEB07DbxT.jpg",
+  "production_companies": [
+    {
+      "id": 22728,
+      "logo_path": "/lgW9VWuX3WFyzuyiJRVFE1khDWs.png",
+      "name": "AB Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 210728,
+      "logo_path": null,
+      "name": "Studios Animage",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 84339,
+      "logo_path": "/xHTkcQihsN49kgVZNWEHT4omGym.png",
+      "name": "ZDF Enterprises",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-04-06",
+      "episode_count": 65,
+      "id": 304733,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 208179,
+    "imdb_id": "tt4629566",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q906248",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

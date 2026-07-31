@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 5842351,
+      "credit_id": "69f5dc57d43dddd4cc2a4333",
+      "name": "Tony MacLaren",
+      "original_name": "Tony MacLaren",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1980-01-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 231328,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1981-04-03",
+  "last_episode_to_air": {
+    "id": 4602599,
+    "name": "Episode #2.26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1981-04-03",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 231328,
+    "still_path": null
+  },
+  "name": "Together",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 53,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Together",
+  "overview": "Residents of a sheltered accommodation  block run by a warden go about their business.",
+  "popularity": 11.4529,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 32480,
+      "logo_path": "/pFgAR4uEgMVQ1yvc4gVJMXLwhWF.png",
+      "name": "Southern Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1980-01-24",
+      "episode_count": 27,
+      "id": 350188,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-08",
+      "episode_count": 26,
+      "id": 350191,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 231328,
+    "imdb_id": "tt1003253",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 386188,
+    "tvrage_id": null,
+    "wikidata_id": "Q25183557",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

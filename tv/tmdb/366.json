@@ -1,0 +1,195 @@
+{
+  "adult": false,
+  "backdrop_path": "/co4zb5Ab1HuDWQYpQfplCB1nZvn.jpg",
+  "created_by": [
+    {
+      "id": 1261338,
+      "credit_id": "64e4b24d5258ae010bd7b1e2",
+      "name": "Iain Lauchlan",
+      "original_name": "Iain Lauchlan",
+      "gender": 2,
+      "profile_path": "/l8cBAOLjvPGHH2LRpAJGMiO9qiH.jpg"
+    },
+    {
+      "id": 1232917,
+      "credit_id": "69b41d9b1b5c4f4cd367280a",
+      "name": "Will Brenton",
+      "original_name": "Will Brenton",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "1999-09-06",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/cbeebies/tweenies/",
+  "id": 366,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2002-07-25",
+  "last_episode_to_air": {
+    "id": 4676642,
+    "name": "What Makes Summer?",
+    "overview": "Max and the Tweenies make a summer collage.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-07-25",
+    "episode_number": 69,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 366,
+    "still_path": null
+  },
+  "name": "Tweenies",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 15,
+      "logo_path": "/12roOdtGhLUriCtk1Qwu9eD5Nab.png",
+      "name": "CBBC",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 390,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Tweenies",
+  "overview": "Tweenies Bella, Milo, Fizz and Jake get into many adventures such as visiting a farm, watching puppet shows, learning new songs and listening to stories.",
+  "popularity": 13.8313,
+  "poster_path": "/vY69uInloqhFSzihcxqwkJPuK39.jpg",
+  "production_companies": [
+    {
+      "id": 206809,
+      "logo_path": null,
+      "name": "Wish Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-10-27",
+      "episode_count": 20,
+      "id": 1072,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 85,
+      "id": 1071,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-31",
+      "episode_count": 45,
+      "id": 353591,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-07-24",
+      "episode_count": 30,
+      "id": 353592,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-09",
+      "episode_count": 40,
+      "id": 353593,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-11",
+      "episode_count": 60,
+      "id": 353594,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-24",
+      "episode_count": 61,
+      "id": 353595,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-12-31",
+      "episode_count": 69,
+      "id": 353596,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.1,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 366,
+    "imdb_id": "tt0289832",
+    "freebase_mid": "/m/04mm81",
+    "freebase_id": "/en/tweenies",
+    "tvdb_id": 72851,
+    "tvrage_id": 1202,
+    "wikidata_id": "Q1569073",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "adult": false,
+  "backdrop_path": "/sVfa2RIX6nJFYI9xS4OKICZRs7M.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2013-01-24",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.zdf.de/serien/heldt",
+  "id": 60851,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2021-02-03",
+  "last_episode_to_air": {
+    "id": 2464376,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 1,
+    "vote_count": 2,
+    "air_date": "2021-02-03",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 8,
+    "show_id": 60851,
+    "still_path": null
+  },
+  "name": "Heldt",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 108,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Heldt",
+  "overview": "",
+  "popularity": 11.6525,
+  "poster_path": "/aAumvjn7QDj5i0uKmphKgbsAFza.jpg",
+  "production_companies": [
+    {
+      "id": 133259,
+      "logo_path": "/AvequB83b4pOBao1npClRt0MRiO.png",
+      "name": "Sony Pictures Film und Fernseh Produktions GmbH",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-01-24",
+      "episode_count": 6,
+      "id": 60906,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lLDEQhMDp6IDJmSyHpLVq4ezO2j.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 12,
+      "id": 60907,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ybg5NkAdChRB10RcYfspyLN3W4K.jpg",
+      "season_number": 2,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2015-01-28",
+      "episode_count": 15,
+      "id": 66664,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/vjkDxL50ZBFjF0ucnesiESHMDlR.jpg",
+      "season_number": 3,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2016-09-21",
+      "episode_count": 18,
+      "id": 80241,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/rh6XJCMrkkVUnkkpn2MrSmkk9Q7.jpg",
+      "season_number": 4,
+      "vote_average": 1.5
+    },
+    {
+      "air_date": "2017-09-20",
+      "episode_count": 18,
+      "id": 92107,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/7gXgFeTZEbVEDIK9vAOACbZLv5U.jpg",
+      "season_number": 5,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2018-01-24",
+      "episode_count": 12,
+      "id": 97089,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/aVypHE08Q0RftGFMupoWMBtyZD8.jpg",
+      "season_number": 6,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 15,
+      "id": 134480,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/o1HILO5Xnm7ZSzR4umO5CrT5i2P.jpg",
+      "season_number": 7,
+      "vote_average": 1.5
+    },
+    {
+      "air_date": "2020-10-14",
+      "episode_count": 12,
+      "id": 165743,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/tUl75uxCkbvF9ShNsDJytjPpNEf.jpg",
+      "season_number": 8,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 60851,
+    "imdb_id": "tt2487938",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 266252,
+    "tvrage_id": null,
+    "wikidata_id": "Q15815007",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

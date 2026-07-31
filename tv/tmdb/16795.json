@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/hyqZRA6pvyBljSIvH1eAUZsO2zE.jpg",
+  "created_by": [
+    {
+      "id": 1259766,
+      "credit_id": "60dfddd6b686b9005e46dfc4",
+      "name": "Alberto Gómez",
+      "original_name": "Alberto Gómez",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1303825,
+      "credit_id": "60dfdde4ef9d7200479198ea",
+      "name": "Carlos Romero",
+      "original_name": "Carlos Romero",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1994-12-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 16795,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1995-11-07",
+  "last_episode_to_air": {
+    "id": 4799276,
+    "name": "Episode 281",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1995-11-07",
+    "episode_number": 281,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 16795,
+    "still_path": null
+  },
+  "name": "Como tú, ninguna",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 281,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Como tú, ninguna",
+  "overview": "Como Tu, Ninguna is a Venezuelan telenovela that was produced by and seen on Venevisión. This telenovela lasted 281 episodes and was distributed internationally by Venevisión International. It was the first telenovela having Gabriela Spanic as the female lead and by casualty of life, she played a double role nearly the end of the story almost exactly as she would make it in La Usurpadora.",
+  "popularity": 10.0272,
+  "poster_path": "/gJ6gedUGVFFrkP60scd1f6HISlx.jpg",
+  "production_companies": [
+    {
+      "id": 118838,
+      "logo_path": null,
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-12-07",
+      "episode_count": 281,
+      "id": 201077,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 16795,
+    "imdb_id": "tt0215401",
+    "freebase_mid": "/m/0ggpdn",
+    "freebase_id": "/en/como_tu_ninguna",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q730004",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/b4MWFEp2lSBgIo6byrRvqRXXz8e.jpg",
+  "created_by": [
+    {
+      "id": 1228401,
+      "credit_id": "52578a5c760ee36aaa674acf",
+      "name": "Ron Leavitt",
+      "original_name": "Ron Leavitt",
+      "gender": 2,
+      "profile_path": "/6OpKNuGNiowTEkmC4oUeXm1lIyv.jpg"
+    },
+    {
+      "id": 1213885,
+      "credit_id": "52578a5b760ee36aaa674ac9",
+      "name": "Michael G. Moye",
+      "original_name": "Michael G. Moye",
+      "gender": 2,
+      "profile_path": "/9R5OTR84brCIalYL94s4gsUL565.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2005-04-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://telefe.com/casados-con-hijos/",
+  "id": 7217,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2020-06-09",
+  "last_episode_to_air": {
+    "id": 3463978,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-06-09",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 3,
+    "show_id": 7217,
+    "still_path": null
+  },
+  "name": "Casados con Hijos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 96,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 216,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Casados con Hijos",
+  "overview": "Argentine re-make of American television series Married... with Children. It follows the Argento family and their lives.",
+  "popularity": 10.9208,
+  "poster_path": "/dtH2Rn6MqZ8pstFzvEC2XGROKpt.jpg",
+  "production_companies": [
+    {
+      "id": 8046,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-04-12",
+      "episode_count": 137,
+      "id": 17398,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2006-08-14",
+      "episode_count": 75,
+      "id": 17399,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2020-04-27",
+      "episode_count": 4,
+      "id": 241138,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.114,
+  "vote_count": 271,
+  "external_ids": {
+    "id": 7217,
+    "imdb_id": "tt0451493",
+    "freebase_mid": "/m/0404clc",
+    "freebase_id": "/en/casados_con_hijos",
+    "tvdb_id": 257438,
+    "tvrage_id": null,
+    "wikidata_id": "Q1974208",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

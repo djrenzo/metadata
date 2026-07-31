@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/93ko1JDLkyMUqYAWrU4fCNrAmBX.jpg",
+  "created_by": [
+    {
+      "id": 2087486,
+      "credit_id": "64d7cef5d100b6011c81d398",
+      "name": "Meriç Demiray",
+      "original_name": "Meriç Demiray",
+      "gender": 0,
+      "profile_path": "/1UABQkIFgI1ntjQ2Fe4j8qzBKXp.jpg"
+    },
+    {
+      "id": 3755004,
+      "credit_id": "64d7cf10069f0e00ae6647c3",
+      "name": "Cenk Boğatur",
+      "original_name": "Cenk Boğatur",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1757160,
+      "credit_id": "64d7cf1e001bbd00e35b5a0d",
+      "name": "Cem Görgeç",
+      "original_name": "Cem Görgeç",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1284147,
+      "credit_id": "64d7cf2837109700e2258144",
+      "name": "Barış Erdoğan",
+      "original_name": "Barış Erdoğan",
+      "gender": 2,
+      "profile_path": "/fKh7PDLcFlHX0ekit0Q8NLP2J7y.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2002-12-13",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 49882,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2003-06-27",
+  "last_episode_to_air": {
+    "id": 5991763,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-06-27",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 49882,
+    "still_path": null
+  },
+  "name": "Gülbeyaz",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Gülbeyaz",
+  "overview": "",
+  "popularity": 12.7743,
+  "poster_path": "/820PEgWlCp0sT4KbQOruLnd7gw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-12-13",
+      "episode_count": 26,
+      "id": 312256,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 49882,
+    "imdb_id": "tt0421355",
+    "freebase_mid": "/m/0vpfjp3",
+    "freebase_id": null,
+    "tvdb_id": 302393,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

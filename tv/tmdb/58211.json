@@ -1,0 +1,241 @@
+{
+  "adult": false,
+  "backdrop_path": "/i7vHlPqXKa41a7eBBv1F8Du9j6j.jpg",
+  "created_by": [
+    {
+      "id": 2286819,
+      "credit_id": "5cb03dca9251412f9d237d9b",
+      "name": "Jarmila Kratochvílová",
+      "original_name": "Jarmila Kratochvílová",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2122313,
+      "credit_id": "5cb03db9c3a3681e7aab0b1f",
+      "name": "Katarína Moláková",
+      "original_name": "Katarína Moláková",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2286822,
+      "credit_id": "5cb03de40e0a2626c8c3fcaf",
+      "name": "Barbora Lukáčová",
+      "original_name": "Barbora Lukáčová",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2286821,
+      "credit_id": "5cb03ddd0e0a2626c5c40907",
+      "name": "Jana Borsuková",
+      "original_name": "Jana Borsuková",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2163767,
+      "credit_id": "5cb03dd50e0a2626d3c3ed2f",
+      "name": "Diana Kacarová",
+      "original_name": "Diana Kacarová",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2286818,
+      "credit_id": "5cb03dc20e0a2626e9c3f983",
+      "name": "Danica Haláková",
+      "original_name": "Danica Haláková",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2013-01-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://burlivevino.markiza.sk/",
+  "id": 58211,
+  "in_production": false,
+  "languages": [
+    "sk"
+  ],
+  "last_air_date": "2017-06-19",
+  "last_episode_to_air": {
+    "id": 1756896,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-06-19",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 9,
+    "show_id": 58211,
+    "still_path": null
+  },
+  "name": "Búrlivé víno",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 550,
+      "logo_path": "/e3v7L2zlVEO1GLH7pv0f1CNFIeK.png",
+      "name": "Markíza",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 213,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Búrlivé víno",
+  "overview": "",
+  "popularity": 10.3425,
+  "poster_path": "/cVvNbOleX8cmIZV4HkWIvaOPKml.jpg",
+  "production_companies": [
+    {
+      "id": 89538,
+      "logo_path": null,
+      "name": "Media Pro Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 109,
+      "id": 122113,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-20",
+      "episode_count": 94,
+      "id": 122114,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-20",
+      "episode_count": 4,
+      "id": 122115,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-18",
+      "episode_count": 1,
+      "id": 122116,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 1,
+      "id": 122117,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-17",
+      "episode_count": 1,
+      "id": 122118,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 1,
+      "id": 122119,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-26",
+      "episode_count": 1,
+      "id": 122120,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-19",
+      "episode_count": 1,
+      "id": 122121,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 58211,
+    "imdb_id": "tt2692466",
+    "freebase_mid": "/m/0wsdjx_",
+    "freebase_id": null,
+    "tvdb_id": 121957,
+    "tvrage_id": null,
+    "wikidata_id": "Q13402105",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

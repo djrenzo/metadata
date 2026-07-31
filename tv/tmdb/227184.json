@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Y8LN3mOE8rlWPpQUX9CKPatJVQ.jpg",
+  "created_by": [
+    {
+      "id": 1255797,
+      "credit_id": "647002b9336e01010971781f",
+      "name": "Janete Clair",
+      "original_name": "Janete Clair",
+      "gender": 1,
+      "profile_path": "/gofxAPVRb5FQCElrrovgGSogGbt.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1971-06-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 227184,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1972-04-08",
+  "last_episode_to_air": {
+    "id": 7214236,
+    "name": "Episode 258",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1972-04-08",
+    "episode_number": 258,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 227184,
+    "still_path": null
+  },
+  "name": "O Homem Que Deve Morrer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 258,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "O Homem Que Deve Morrer",
+  "overview": "",
+  "popularity": 8.8044,
+  "poster_path": "/8aKuXwdRWNb2zMHhlheNACLqlcd.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1971-06-14",
+      "episode_count": 258,
+      "id": 342439,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8aKuXwdRWNb2zMHhlheNACLqlcd.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 227184,
+    "imdb_id": "tt0209645",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q10339248",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

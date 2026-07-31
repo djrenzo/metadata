@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    51
+  ],
+  "first_air_date": "2007-09-03",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.ceskatelevize.cz/porady/10150778447-historie-cs/",
+  "id": 94797,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2021-04-17",
+  "last_episode_to_air": {
+    "id": 2850524,
+    "name": "Episode 506",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-04-17",
+    "episode_number": 506,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 1,
+    "show_id": 94797,
+    "still_path": null
+  },
+  "name": "Historie.cs",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2384,
+      "logo_path": "/mSGMeLPTTCKKB9DVMJoFFzWNUqd.png",
+      "name": "ČT2",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 3388,
+      "logo_path": "/27GU3PdUPXwsX5TqoGKCraPJj6T.png",
+      "name": "ČT24",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 505,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Historie.cs",
+  "overview": "",
+  "popularity": 9.2224,
+  "poster_path": "/1xiuPpYnLsuI5pAHIEKdFHGpYxl.jpg",
+  "production_companies": [
+    {
+      "id": 487,
+      "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-09-03",
+      "episode_count": 505,
+      "id": 134586,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 94797,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

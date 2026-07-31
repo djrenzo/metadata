@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1220818,
+      "credit_id": "52583747760ee36aaa956a85",
+      "name": "Irna Phillips",
+      "original_name": "Irna Phillips",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1958-12-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 14995,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "1963-03-29",
+  "last_episode_to_air": {
+    "id": 532999,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1963-03-29",
+    "episode_number": 62,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 14995,
+    "still_path": null
+  },
+  "name": "Young Doctor Malone",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 322,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Young Doctor Malone",
+  "overview": "Young Doctor Malone is an American soap opera, created by Irna Phillips, which had a long run on radio and television from 1939 to 1963. The producer was Betty Corday, who also produced Pepper Young's Family and later was a co-creator with husband Ted Corday of NBC Daytime's Days of our Lives.\n\nSponsored by General Foods and Post Cereals, the radio serial began on the Blue Network on November 20, 1939. The 15-minute program aired daily at 11:15am, continuing until April 26, 1940. Without a break, it moved to CBS on April 29, 1940, where it was heard for two decades, first airing at 2:00pm weekdays and then 1:30pm. In 1945, Procter & Gamble assumed sponsorship of the program.",
+  "popularity": 11.7911,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1958-12-29",
+      "episode_count": 257,
+      "id": 26585,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-12-28",
+      "episode_count": 64,
+      "id": 26586,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 26587,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 14995,
+    "imdb_id": "tt0051330",
+    "freebase_mid": "/m/0d_flg",
+    "freebase_id": "/en/young_doctor_malone",
+    "tvdb_id": null,
+    "tvrage_id": 7319,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

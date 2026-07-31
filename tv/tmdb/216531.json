@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/4b11v7dY6IDDHkHIJk67MSKwOKh.jpg",
+  "created_by": [
+    {
+      "id": 1782554,
+      "credit_id": "639e960b8ddc340084049ba2",
+      "name": "Máximo Soto",
+      "original_name": "Máximo Soto",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3835526,
+      "credit_id": "639e9613be6d8800d9cc5f44",
+      "name": "Eduardo Thomas",
+      "original_name": "Eduardo Thomas",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1982-03-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 216531,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1982-03-29",
+  "last_episode_to_air": {
+    "id": 4109645,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1982-03-29",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 216531,
+    "still_path": null
+  },
+  "name": "Pelito",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 340,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Pelito",
+  "overview": "",
+  "popularity": 13.9167,
+  "poster_path": "/tMkZsstJgv2GEZoR7xYpTN1d9Up.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1982-03-29",
+      "episode_count": 85,
+      "id": 320464,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 85,
+      "id": 320466,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 85,
+      "id": 320467,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 85,
+      "id": 320468,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 216531,
+    "imdb_id": "tt0219447",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q19647498",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

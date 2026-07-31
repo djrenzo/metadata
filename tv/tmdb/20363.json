@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 82790,
+      "credit_id": "5258627c760ee3466113686a",
+      "name": "John Monks Jr.",
+      "original_name": "John Monks Jr.",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1220870,
+      "credit_id": "5258627c760ee34661136870",
+      "name": "Ted Corday",
+      "original_name": "Ted Corday",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1965-09-27",
+  "genres": [],
+  "homepage": "",
+  "id": 20363,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "1966-07-01",
+  "last_episode_to_air": {
+    "id": 583083,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1966-07-01",
+    "episode_number": 199,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 20363,
+    "still_path": null
+  },
+  "name": "Paradise Bay",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 199,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Paradise Bay",
+  "overview": "Paradise Bay is an American daytime soap opera which aired on NBC Daytime from September 27, 1965 to July 1, 1966. The show was created by Ted Corday who created the long-running soap opera Days of our Lives.\n\nThe show aired in the morning at 11:30 AM; it was paired with Morning Star which aired before it and also was created by Ted Corday. Paradise Bay was one of the first soap operas to air in color.",
+  "popularity": 14.0457,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1965-09-27",
+      "episode_count": 199,
+      "id": 30403,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 20363,
+    "imdb_id": "tt0058839",
+    "freebase_mid": "/m/03nsmpd",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q7134238",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

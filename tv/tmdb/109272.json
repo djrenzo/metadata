@@ -1,0 +1,209 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2771051,
+      "credit_id": "5f588d75e86017003a048bf0",
+      "name": "Róka Ildikó",
+      "original_name": "Róka Ildikó",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2771050,
+      "credit_id": "5f588d7e8c22c00037caf3e2",
+      "name": "Móczár István",
+      "original_name": "Móczár István",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2007-01-07",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 109272,
+  "in_production": true,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2019-05-19",
+  "last_episode_to_air": {
+    "id": 2420309,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-05-19",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 12,
+    "show_id": 109272,
+    "still_path": null
+  },
+  "name": "Ízőrzők",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1058,
+      "logo_path": "/bPTVfSbxQsQJucD6ev7eF1c5n6j.png",
+      "name": "Duna",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 199,
+  "number_of_seasons": 11,
+  "origin_country": [],
+  "original_language": "hu",
+  "original_name": "Ízőrzők",
+  "overview": "",
+  "popularity": 17.193,
+  "poster_path": "/cdVWPksosWvY22Vk5JgpOF3HVVU.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2007-01-07",
+      "episode_count": 4,
+      "id": 161960,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 13,
+      "id": 161966,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 20,
+      "id": 161970,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 24,
+      "id": 161974,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 26,
+      "id": 161985,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-08",
+      "episode_count": 17,
+      "id": 161986,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 15,
+      "id": 161988,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 20,
+      "id": 161989,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 20,
+      "id": 161990,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 20,
+      "id": 161991,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 20,
+      "id": 161992,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 109272,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

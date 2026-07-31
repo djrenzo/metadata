@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1998-11-29",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 320058,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "1998-12-06",
+  "last_episode_to_air": {
+    "id": 7168266,
+    "name": "Episode 753",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-19",
+    "episode_number": 753,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 320058,
+    "still_path": null
+  },
+  "name": "Sternstunde Kunst",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 571,
+      "logo_path": "/txYJaM2VKunNRk3JooH1mnsVSOg.png",
+      "name": "SRF 1",
+      "origin_country": "CH"
+    }
+  ],
+  "number_of_episodes": 2,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_name": "Sternstunde Kunst",
+  "overview": "",
+  "popularity": 10.2219,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-11-29",
+      "episode_count": 753,
+      "id": 511604,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 320058,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/2o2ezQF47lc9ecdBCqOldzGEQ4F.jpg",
+  "created_by": [
+    {
+      "id": 233915,
+      "credit_id": "5c83d09592514127631f0d89",
+      "name": "Miguel Falabella",
+      "original_name": "Miguel Falabella",
+      "gender": 2,
+      "profile_path": "/jAP3HMxJ2zeQVUqIXb4MS95jbrU.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2008-10-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 36131,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2009-03-13",
+  "last_episode_to_air": {
+    "id": 1654074,
+    "name": "Episode 136",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-03-13",
+    "episode_number": 136,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 36131,
+    "still_path": null
+  },
+  "name": "Negócio da China",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 136,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Negócio da China",
+  "overview": "",
+  "popularity": 10.0986,
+  "poster_path": "/2Gty3fN5vtjedprOnKLDgqYUR4E.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-10-06",
+      "episode_count": 136,
+      "id": 114874,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zqQatZLKQmDLzjf3wteAgd9VLAc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 36131,
+    "imdb_id": "tt1316556",
+    "freebase_mid": "/m/0gfvm35",
+    "freebase_id": null,
+    "tvdb_id": 330588,
+    "tvrage_id": 22578,
+    "wikidata_id": "Q10336002",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/vFmxWgYOHnDdrt2PA9Uc3tErpsQ.jpg",
+  "created_by": [
+    {
+      "id": 2130945,
+      "credit_id": "615a05b9eb14fa008c12e143",
+      "name": "Nathalie Abdelnour",
+      "original_name": "Nathalie Abdelnour",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1362963,
+      "credit_id": "615a05c469eb90008a3cd05b",
+      "name": "Elsa Marpeau",
+      "original_name": "Elsa Marpeau",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1362965,
+      "credit_id": "615a05cd93828e0089936dc6",
+      "name": "Mathieu Missoffe",
+      "original_name": "Mathieu Missoffe",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1449629,
+      "credit_id": "615a05d9c8a2d4008c7671a6",
+      "name": "Elodie Namer",
+      "original_name": "Elodie Namer",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2008-09-29",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 104588,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2010-08-23",
+  "last_episode_to_air": {
+    "id": 2322501,
+    "name": "Episode 100",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-08-23",
+    "episode_number": 100,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 104588,
+    "still_path": null
+  },
+  "name": "Seconde Chance",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 270,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Seconde Chance",
+  "overview": "",
+  "popularity": 9.6081,
+  "poster_path": "/2jW9TUWFuSqZKUlpqW3jV2ijlYj.jpg",
+  "production_companies": [
+    {
+      "id": 84613,
+      "logo_path": null,
+      "name": "Alma Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-29",
+      "episode_count": 100,
+      "id": 153104,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qEgSUENk0hreGNmu9EOrZz3VB3l.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 80,
+      "id": 154655,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qEgSUENk0hreGNmu9EOrZz3VB3l.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 90,
+      "id": 486478,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/bDgRJCDLETe1ZlfJAuyNBs9gg1t.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 104588,
+    "imdb_id": "tt1324069",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1972111",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

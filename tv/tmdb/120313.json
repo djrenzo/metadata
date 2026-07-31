@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/cFGxpqj086ZTLHQvUoqsYww4LHD.jpg",
+  "created_by": [
+    {
+      "id": 1521412,
+      "credit_id": "6045ce4c72c13e002b8c6cb0",
+      "name": "Peter Falktoft",
+      "original_name": "Peter Falktoft",
+      "gender": 2,
+      "profile_path": "/6g2lNf3dDxNOnRo4ozulg6Gp4WS.jpg"
+    },
+    {
+      "id": 1521415,
+      "credit_id": "6045ce550102c900774c0304",
+      "name": "Esben Bjerre",
+      "original_name": "Esben Bjerre",
+      "gender": 2,
+      "profile_path": "/A9qx9PPIPM6XfSPlY0MxJpjOZ66.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2014-10-20",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 120313,
+  "in_production": false,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2015-05-07",
+  "last_episode_to_air": {
+    "id": 2778844,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-05-07",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 120313,
+    "still_path": null
+  },
+  "name": "Monte Carlo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1384,
+      "logo_path": "/8q11BvNFwYKOtWOUxWDQyoJZd2s.png",
+      "name": "DR3",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 88,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Monte Carlo",
+  "overview": "",
+  "popularity": 22.2268,
+  "poster_path": "/eUsgBBytY1MoV2HlHhPW4NUqS9H.jpg",
+  "production_companies": [
+    {
+      "id": 639,
+      "logo_path": "/fNhXK0DtWWGh7Diy10kPvKPLk5h.png",
+      "name": "DR TV",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-10-20",
+      "episode_count": 36,
+      "id": 184861,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-09",
+      "episode_count": 52,
+      "id": 184862,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 120313,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

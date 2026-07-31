@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/eisNn4SS8Dzbow5L9PRUvR4WQTw.jpg",
+  "created_by": [
+    {
+      "id": 970757,
+      "credit_id": "62fd337a209f18007fdcfd23",
+      "name": "Liliana Abud",
+      "original_name": "Liliana Abud",
+      "gender": 1,
+      "profile_path": "/6OpjbFZX9jVLEdUMg2WNbShfGKi.jpg"
+    },
+    {
+      "id": 1462544,
+      "credit_id": "62fd3388e55937007c3da6ab",
+      "name": "Arturo Moya Grau",
+      "original_name": "Arturo Moya Grau",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1151007,
+      "credit_id": "62fd3395e559370093bc4fbe",
+      "name": "Salvador Mejía",
+      "original_name": "Salvador Mejía",
+      "gender": 2,
+      "profile_path": "/c0PgJwp9hTuM5bxjUtvSAJ6GPJ2.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2005-02-07",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.esmas.com/lamadrastra/",
+  "id": 13093,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2005-07-22",
+  "last_episode_to_air": {
+    "id": 2055660,
+    "name": "Episode 120",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-07-22",
+    "episode_number": 120,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 13093,
+    "still_path": null
+  },
+  "name": "La Madrastra",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "La Madrastra",
+  "overview": "After twenty years, María obtains her freedom and returns to Mexico to find Patricia's real murderer. She marries Esteban, her husband, again to regain the affection of her children, who reject her for being their stepmother.",
+  "popularity": 15.6733,
+  "poster_path": "/kt8bb1jcMlcYObzPpoQYV8Adf9p.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-02-07",
+      "episode_count": 120,
+      "id": 125569,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/apORQncFIksfpQE3niu0Xo8B9xd.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.1,
+  "vote_count": 204,
+  "external_ids": {
+    "id": 13093,
+    "imdb_id": "tt0430839",
+    "freebase_mid": "/m/0g0xyw",
+    "freebase_id": "/en/la_madrastra",
+    "tvdb_id": 332447,
+    "tvrage_id": null,
+    "wikidata_id": "Q469935",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

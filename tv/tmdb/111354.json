@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/5HqX80ttim9zRYzdbX6jXTdRv24.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2020-10-10",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.tv-asahi.co.jp/azatokute/#/",
+  "id": 111354,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-07-16",
+  "last_episode_to_air": {
+    "id": 7599594,
+    "name": "Episode 250",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-23",
+    "episode_number": 250,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 111354,
+    "still_path": "/eB0AQuedUmmBZRzbj4QaShL8lU0.jpg"
+  },
+  "name": "What's So Wrong with \"Azatoi\"?",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 254,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "あざとくて何が悪いの？",
+  "overview": "Ryota Yamasato, Minami Tanaka, and Ayaka Hironaka The three too-dangerous men and women talk in-depth about the words and actions of \"bruising men and women\"!",
+  "popularity": 11.1311,
+  "poster_path": "/huWuJ3iVW69YyhPL2CS8o5M0uFx.jpg",
+  "production_companies": [
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-27",
+      "episode_count": 6,
+      "id": 193042,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/u6oRIZ6XkQaE8ePCoePLWVb2RE7.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-10",
+      "episode_count": 250,
+      "id": 165369,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2E2XGiAT28Bm4G888zX9Z1laJ9o.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 353430,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/xAsbN7KYp52RsdWKC1axkDHsngv.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 111354,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "azatoinsta",
+    "twitter_id": "azatokute"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/mDRnbzGiOtjUHqIXbNMp0aZrfjq.jpg",
+  "created_by": [
+    {
+      "id": 45407,
+      "credit_id": "5953332bc3a3680d7302af14",
+      "name": "Mark Duplass",
+      "original_name": "Mark Duplass",
+      "gender": 2,
+      "profile_path": "/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+      "id": 45405,
+      "credit_id": "5953331e9251412b2302f4bb",
+      "name": "Jay Duplass",
+      "original_name": "Jay Duplass",
+      "gender": 2,
+      "profile_path": "/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2017-07-28",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.hbo.com/room-104",
+  "id": 72581,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-10-09",
+  "last_episode_to_air": {
+    "id": 2333965,
+    "name": "Generations",
+    "overview": "While Keir prepares for his Generations Ceremony, he reflects on his life and relives painful memories of the moments that shaped him.  Series finale.",
+    "vote_average": 3.9,
+    "vote_count": 10,
+    "air_date": "2020-10-09",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 4,
+    "show_id": 72581,
+    "still_path": "/mxfISp5naXYU8K8ta6b7nuVUBN3.jpg"
+  },
+  "name": "Room 104",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Room 104",
+  "overview": "An anthology series set in a single hotel room, where every guest who comes to stay reveals a unique set of circumstances and quirks.",
+  "popularity": 11.5135,
+  "poster_path": "/wOyn9r9VC2pJhXasUKxlpEmCAGV.jpg",
+  "production_companies": [
+    {
+      "id": 1974,
+      "logo_path": "/t8p2PpDBJo282a5TTr6Ln0wVkMZ.png",
+      "name": "Duplass Brothers Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-07-28",
+      "episode_count": 12,
+      "id": 89933,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2VGHgzdUhVkTAIMoEfX0GaApBqg.jpg",
+      "season_number": 1,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2018-11-09",
+      "episode_count": 12,
+      "id": 110146,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/haa6ey7SBkmoIb0f1BU7m5P91CD.jpg",
+      "season_number": 2,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2019-09-13",
+      "episode_count": 12,
+      "id": 128368,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8TWsUDRlQAlypdePJ4B0oVEYXI5.jpg",
+      "season_number": 3,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2020-07-24",
+      "episode_count": 12,
+      "id": 151305,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/ru7cocPN36iCLAYfPFmL7B3joLC.jpg",
+      "season_number": 4,
+      "vote_average": 3.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Some places change you.",
+  "type": "Scripted",
+  "vote_average": 5.712,
+  "vote_count": 158,
+  "external_ids": {
+    "id": 72581,
+    "imdb_id": "tt6064882",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 328308,
+    "tvrage_id": null,
+    "wikidata_id": "Q28324881",
+    "facebook_id": "Room104HBO",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

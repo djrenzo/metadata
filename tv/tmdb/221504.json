@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/w1OI696IzYW37hZwdLfiGUYzAvX.jpg",
+  "created_by": [
+    {
+      "id": 222147,
+      "credit_id": "65249c35ea84c7014e01cbc0",
+      "name": "Michelle Lamoreaux",
+      "original_name": "Michelle Lamoreaux",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 222148,
+      "credit_id": "65249bf174507d01395f77e1",
+      "name": "Robert Lamoreaux",
+      "original_name": "Robert Lamoreaux",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-11-02",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://unicornacademy.com",
+  "id": 221504,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-03-19",
+  "last_episode_to_air": {
+    "id": 7060588,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-19",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 5,
+    "show_id": 221504,
+    "still_path": null
+  },
+  "name": "Unicorn Academy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Unicorn Academy",
+  "overview": "When a dark force threatens to destroy Unicorn Island, a brave teen and her five schoolmates must rise up to protect their beloved magical academy.",
+  "popularity": 12.4417,
+  "poster_path": "/5aex9xH2Tq9G9m9WyhPJiyVOJol.jpg",
+  "production_companies": [
+    {
+      "id": 71738,
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+      "name": "Spin Master",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-11-02",
+      "episode_count": 9,
+      "id": 331023,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/iuxH52TvBkPTBvdjgOEJ6RKvOPR.jpg",
+      "season_number": 1,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2024-06-27",
+      "episode_count": 10,
+      "id": 396050,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-04-09",
+      "episode_count": 1,
+      "id": 435164,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2025-11-13",
+      "episode_count": 1,
+      "id": 475410,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-19",
+      "episode_count": 8,
+      "id": 505989,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Magical bonds. Unlimited possibilities.",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 53,
+  "external_ids": {
+    "id": 221504,
+    "imdb_id": "tt27423738",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 431911,
+    "tvrage_id": null,
+    "wikidata_id": "Q124094274",
+    "facebook_id": "UnicornAcademy",
+    "instagram_id": "unicornacademy",
+    "twitter_id": null
+  }
+}

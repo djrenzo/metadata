@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/f9Ocz7bTPoWIZs4yiWzwlchJX3Q.jpg",
+  "created_by": [
+    {
+      "id": 3978476,
+      "credit_id": "6910fe987be3c0786ace8a34",
+      "name": "Daniel Sama",
+      "original_name": "Daniel Sama",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3978457,
+      "credit_id": "6910fe9d47d1fab49c31b1be",
+      "name": "Raül Asensio",
+      "original_name": "Raül Asensio",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-11-09",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.3cat.cat/3cat/la-cabra/",
+  "id": 305278,
+  "in_production": true,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2026-02-01",
+  "last_episode_to_air": {
+    "id": 7377999,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-07",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 305278,
+    "still_path": null
+  },
+  "name": "La cabra",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7167,
+      "logo_path": "/gUbU5TAWRQ7rV58zk1llnneaMMj.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "La cabra",
+  "overview": "",
+  "popularity": 15.1577,
+  "poster_path": "/cfH9tcYkAAtRSHCuAO6JjCPIrwE.jpg",
+  "production_companies": [
+    {
+      "id": 230015,
+      "logo_path": null,
+      "name": "KOKORO Content",
+      "origin_country": "ES"
+    },
+    {
+      "id": 211922,
+      "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-11-09",
+      "episode_count": 30,
+      "id": 484139,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cfH9tcYkAAtRSHCuAO6JjCPIrwE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 305278,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

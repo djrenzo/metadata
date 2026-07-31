@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/gPzr8YPIDzL8g4fqFXYL7Hy6nUH.jpg",
+  "created_by": [
+    {
+      "id": 2177455,
+      "credit_id": "6352a476f3b49a0086248869",
+      "name": "Fatih Solmaz",
+      "original_name": "Fatih Solmaz",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1999-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 49390,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2004-01-05",
+  "last_episode_to_air": {
+    "id": 4098458,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-01-05",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 49390,
+    "still_path": null
+  },
+  "name": "Ayrılsak da Beraberiz",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    },
+    {
+      "id": 36,
+      "logo_path": "/qCnMXkdER5FYvmy2AGSMnAFH9ue.png",
+      "name": "atv",
+      "origin_country": "TR"
+    },
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 288,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Ayrılsak da Beraberiz",
+  "overview": "",
+  "popularity": 10.0049,
+  "poster_path": "/e5BRK6uoOUAP44SuInXDBOgHdBy.jpg",
+  "production_companies": [
+    {
+      "id": 55071,
+      "logo_path": "/fxOS29DowOFtuaPfFgxYR2eoXP6.png",
+      "name": "MinT Production",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 52,
+      "id": 190099,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-09",
+      "episode_count": 180,
+      "id": 190100,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 190101,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-10",
+      "episode_count": 39,
+      "id": 190102,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-15",
+      "episode_count": 17,
+      "id": 190103,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.957,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 49390,
+    "imdb_id": "tt0493471",
+    "freebase_mid": "/m/0v9ymn7",
+    "freebase_id": null,
+    "tvdb_id": 249924,
+    "tvrage_id": null,
+    "wikidata_id": "Q6097000",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

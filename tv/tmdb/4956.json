@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/xQAR02lSpL5dW0LXHLNrFM5b7Bq.jpg",
+  "created_by": [
+    {
+      "id": 1238257,
+      "credit_id": "52577c60760ee36aaa5922e7",
+      "name": "Scott Adams",
+      "original_name": "Scott Adams",
+      "gender": 2,
+      "profile_path": "/px76PCY9LGYxhWR6f9jcIEWXbCJ.jpg"
+    },
+    {
+      "id": 6767,
+      "credit_id": "62bf9f9c105611007eb69f59",
+      "name": "Larry Charles",
+      "original_name": "Larry Charles",
+      "gender": 2,
+      "profile_path": "/rt48JIfeIJPNNZftESWnMEuzAXN.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1999-01-25",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 4956,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2000-07-25",
+  "last_episode_to_air": {
+    "id": 1013038,
+    "name": "Ethics",
+    "overview": "After the company employees are forced to take ethical-training classes, Dilbert is put in charge of designing a nationwide Internet voting network. His scruples are put to the test when an attractive female representative of a tobacco special-interest group tries to seduce him.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2000-07-25",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 4956,
+    "still_path": "/psAhdWiWwQAm7p3RY5LVdMoIHX1.jpg"
+  },
+  "name": "Dilbert",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 40,
+      "logo_path": "/333LtWX9Z7H9uRrNcCl1JcTvdpR.png",
+      "name": "UPN",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dilbert",
+  "overview": "Dilbert, a socially awkward but highly competent engineer, works in a dysfunctional workplace. The series satirizes corporate culture, featuring clueless managers, pointless meetings, bizarre company policies, and the daily frustrations of modern office life.",
+  "popularity": 10.5774,
+  "poster_path": "/oS6RTmGw0NueQbUiHGfIJ3QvbD0.jpg",
+  "production_companies": [
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 90045,
+      "logo_path": null,
+      "name": "Idbox",
+      "origin_country": ""
+    },
+    {
+      "id": 16345,
+      "logo_path": null,
+      "name": "United Media Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 72898,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-25",
+      "episode_count": 13,
+      "id": 59655,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gKoE4lsk62zgBIlmO24viYjS2IM.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1999-11-02",
+      "episode_count": 17,
+      "id": 59656,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bASehBKTcEHxPYDhL1rGd59Hygz.jpg",
+      "season_number": 2,
+      "vote_average": 5.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.757,
+  "vote_count": 74,
+  "external_ids": {
+    "id": 4956,
+    "imdb_id": "tt0118984",
+    "freebase_mid": "/m/02pj_v0",
+    "freebase_id": null,
+    "tvdb_id": 78581,
+    "tvrage_id": null,
+    "wikidata_id": "Q3027966",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

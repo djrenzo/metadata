@@ -1,0 +1,213 @@
+{
+  "adult": false,
+  "backdrop_path": "/ms6ldaiHeAkJxicCHs5b4IULhrn.jpg",
+  "created_by": [
+    {
+      "id": 1222919,
+      "credit_id": "525899c3760ee346615d930f",
+      "name": "Bob Stewart",
+      "original_name": "Bob Stewart",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2727594,
+      "credit_id": "5f23f1523503980033e5c95a",
+      "name": "Corinne Fix",
+      "original_name": "Corinne Fix",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2727595,
+      "credit_id": "5f23f166c3514c0037315e0b",
+      "name": "Franck Marty",
+      "original_name": "Franck Marty",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1987-12-13",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/le-juste-prix",
+  "id": 30763,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2024-06-07",
+  "last_episode_to_air": {
+    "id": 5375563,
+    "name": "Episode 65",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-06-07",
+    "episode_number": 65,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 30763,
+    "still_path": null
+  },
+  "name": "Le Juste Prix",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 712,
+      "logo_path": "/ebCZs9U5Kq1GqOFBT1tlH1lZd8p.png",
+      "name": "M6",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 241,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Le Juste Prix",
+  "overview": "Le Juste Prix is a French adaptation of the American game show The Price Is Right that airs on TF1. It first premiered in 1988 and ran until the original version was canceled in 2001. In 2002 a brief sequel, Le Juste Euro, ran on France 2 and was hosted by Patrice Laffont, it only ran for two episodes. On July 27, 2009 a new version of Le Juste Prix premiered on TF1. The current version is hosted by Vincent Lagaf with Gerard Vivès as announcer.",
+  "popularity": 11.6216,
+  "poster_path": "/sNJmEmhAjL9tTt3zUVY4XF0OMIo.jpg",
+  "production_companies": [
+    {
+      "id": 137940,
+      "logo_path": null,
+      "name": "Tilt productions",
+      "origin_country": ""
+    },
+    {
+      "id": 137941,
+      "logo_path": null,
+      "name": "Pearson Television France",
+      "origin_country": ""
+    },
+    {
+      "id": 137942,
+      "logo_path": null,
+      "name": "Hervé Hubert",
+      "origin_country": "FR"
+    },
+    {
+      "id": 158715,
+      "logo_path": "/blTsHf2xrkAFDv5fqijitaxOEc7.png",
+      "name": "Fremantle France",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-12-13",
+      "episode_count": 108,
+      "id": 157761,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-12-31",
+      "episode_count": 17,
+      "id": 209293,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-07-27",
+      "episode_count": 24,
+      "id": 209294,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-11",
+      "episode_count": 65,
+      "id": 379726,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/txzYEEwlTamJMfwOwp6s5PNNpnc.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-05",
+      "episode_count": 26,
+      "id": 385488,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-04",
+      "episode_count": 1,
+      "id": 385491,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.4,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 30763,
+    "imdb_id": "tt8578136",
+    "freebase_mid": "/m/07k4273",
+    "freebase_id": "/en/le_juste_prix",
+    "tvdb_id": 337902,
+    "tvrage_id": null,
+    "wikidata_id": "Q3223822",
+    "facebook_id": "lejusteprix",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/fBXEzaKPy7gao9UaexCcrKk0Fuy.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2017-03-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 70681,
+  "in_production": false,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2019-03-28",
+  "last_episode_to_air": {
+    "id": 1724557,
+    "name": "Smell of Onion",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-03-28",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 2,
+    "show_id": 70681,
+    "still_path": "/cNNQK9CQn3IxpKGx2R9S1d6bOev.jpg"
+  },
+  "name": "Tóth János",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1058,
+      "logo_path": "/bPTVfSbxQsQJucD6ev7eF1c5n6j.png",
+      "name": "Duna",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Tóth János",
+  "overview": "",
+  "popularity": 19.2951,
+  "poster_path": "/45AncxyRBgjTnVpw0HTgXf01qIn.jpg",
+  "production_companies": [
+    {
+      "id": 41304,
+      "logo_path": null,
+      "name": "MédiaKlikk",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-09",
+      "episode_count": 52,
+      "id": 86116,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/45AncxyRBgjTnVpw0HTgXf01qIn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-22",
+      "episode_count": 52,
+      "id": 100320,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 70681,
+    "imdb_id": "tt6628438",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 323840,
+    "tvrage_id": null,
+    "wikidata_id": "Q29346104",
+    "facebook_id": "TothJanossorozat",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

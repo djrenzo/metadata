@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/UsR3dJrhu95wG9P1eiUFlEjdxu.jpg",
+  "created_by": [
+    {
+      "id": 1257394,
+      "credit_id": "55763fc292514110b700042d",
+      "name": "Gilberto Braga",
+      "original_name": "Gilberto Braga",
+      "gender": 2,
+      "profile_path": "/jlfCpcclHDL27EPkvNB0rx2sfRf.jpg"
+    },
+    {
+      "id": 1256935,
+      "credit_id": "55763fc9c3a368569a00321a",
+      "name": "Ricardo Linhares",
+      "original_name": "Ricardo Linhares",
+      "gender": 2,
+      "profile_path": "/cUElLjN3xVxT8O7b0C8WEOX3cMp.jpg"
+    },
+    {
+      "id": 1257385,
+      "credit_id": "55763fd0c3a36824d8005a5b",
+      "name": "João Ximenes Braga",
+      "original_name": "João Ximenes Braga",
+      "gender": 2,
+      "profile_path": "/wyrtnZR3tXD4TO6uAzY5lqBHcKv.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2015-03-16",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://gshow.globo.com/novelas/babilonia/",
+  "id": 62916,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2015-08-28",
+  "last_episode_to_air": {
+    "id": 4246945,
+    "name": "Chapter 143",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-08-28",
+    "episode_number": 143,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 1,
+    "show_id": 62916,
+    "still_path": "/57cVA106xoQ6OXJXXHSYKYYQKD3.jpg"
+  },
+  "name": "Ambitious Women",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 143,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Babilônia",
+  "overview": "In Ambitious Women, all levels of ambition are revealed in a plot full of greed, revenge and struggle for power, through the conflicts of three strong women with very different personalities.",
+  "popularity": 10.8954,
+  "poster_path": "/lohscDSlBScXyEWoNT90S3QL7fi.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-03-16",
+      "episode_count": 143,
+      "id": 67553,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lohscDSlBScXyEWoNT90S3QL7fi.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The battle between power and justice.",
+  "type": "Scripted",
+  "vote_average": 5.538,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 62916,
+    "imdb_id": "tt4644530",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 292754,
+    "tvrage_id": null,
+    "wikidata_id": "Q19367400",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

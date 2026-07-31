@@ -1,0 +1,188 @@
+{
+  "adult": false,
+  "backdrop_path": "/dSUEZ5vhRi03GP4OjcQITXRz76A.jpg",
+  "created_by": [
+    {
+      "id": 3242157,
+      "credit_id": "628b86dd209f1812c5556d90",
+      "name": "João Miguel Tavares",
+      "original_name": "João Miguel Tavares",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3242155,
+      "credit_id": "628b86f22495ab74dbd20d9a",
+      "name": "Carlos Vaz Marques",
+      "original_name": "Carlos Vaz Marques",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3242156,
+      "credit_id": "628b86c0ec455255ec42ab22",
+      "name": "Pedro Mexia",
+      "original_name": "Pedro Mexia",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2027320,
+      "credit_id": "628b8671ec455255ebd7c309",
+      "name": "Ricardo Araújo Pereira",
+      "original_name": "Ricardo Araújo Pereira",
+      "gender": 2,
+      "profile_path": "/k3i5AWX2VKbJUX6Vp9KgU6kLOCU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2020-01-11",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://sicnoticias.pt/programas/programa-cujo-nome-estamos-legalmente-impedidos-de-dizer",
+  "id": 134242,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-05-27",
+  "last_episode_to_air": {
+    "id": 4485090,
+    "name": "Episode 39",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-05-27",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 134242,
+    "still_path": null
+  },
+  "name": "Governo Sombra",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4762,
+      "logo_path": null,
+      "name": "SIC Notícias",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 166,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Governo Sombra",
+  "overview": "",
+  "popularity": 15.2847,
+  "poster_path": "/831WPP5LV81QD70nk05Z0nH1gv5.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-03-23",
+      "episode_count": 8,
+      "id": 212066,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-11",
+      "episode_count": 30,
+      "id": 212061,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-29",
+      "episode_count": 49,
+      "id": 212071,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-04",
+      "episode_count": 18,
+      "id": 212083,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-08",
+      "episode_count": 30,
+      "id": 239270,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-03",
+      "episode_count": 39,
+      "id": 310724,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 134242,
+    "imdb_id": "",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

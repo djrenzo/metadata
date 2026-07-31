@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1238947,
+      "credit_id": "52582e80760ee36aaa8be56e",
+      "name": "Irving Vendig",
+      "original_name": "Irving Vendig",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1968-12-30",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 14125,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1969-06-27",
+  "last_episode_to_air": {
+    "id": 514736,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1969-06-27",
+    "episode_number": 129,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 14125,
+    "still_path": null
+  },
+  "name": "Hidden Faces",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 129,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Hidden Faces",
+  "overview": "Hidden Faces is an American soap opera that aired on NBC from December 30, 1968 to June 27, 1969. The series was created by Irving Vendig, who also created the long-running Procter & Gamble serial The Edge of Night. The serial focused on a law firm that was dealing with a high profile murder case throughout its 127-episode run.\n\nSome of the show's stars were Conard Fowkes, Louise Shaffer, Tony Lo Bianco, Stephen Joyce, and a very young Linda Blair.",
+  "popularity": 18.6793,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1968-12-30",
+      "episode_count": 129,
+      "id": 25435,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 14125,
+    "imdb_id": "tt0062571",
+    "freebase_mid": "/m/03h4011",
+    "freebase_id": null,
+    "tvdb_id": 299035,
+    "tvrage_id": null,
+    "wikidata_id": "Q17055132",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

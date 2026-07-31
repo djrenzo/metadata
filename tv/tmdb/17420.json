@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/irMQGGIGogje2If5PiQ9Z5qaBOa.jpg",
+  "created_by": [
+    {
+      "id": 28485,
+      "credit_id": "52585145760ee34661055453",
+      "name": "Steve Pemberton",
+      "original_name": "Steve Pemberton",
+      "gender": 2,
+      "profile_path": "/j4AFPsF6DM9nfccol3VFQgPJ6Ia.jpg"
+    },
+    {
+      "id": 34551,
+      "credit_id": "52585145760ee3466105544d",
+      "name": "Reece Shearsmith",
+      "original_name": "Reece Shearsmith",
+      "gender": 2,
+      "profile_path": "/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2009-06-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/psychoville",
+  "id": 17420,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-06-06",
+  "last_episode_to_air": {
+    "id": 554914,
+    "name": "Andrews Nanotech",
+    "overview": "The secret of the missing locket is finally exposed and the enormity of what is at stake revealed. But are there enough characters left alive to care?",
+    "vote_average": 8.5,
+    "vote_count": 2,
+    "air_date": "2011-06-06",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 17420,
+    "still_path": "/i5BWFCKnBqhAzydmcrYlmEf39KD.jpg"
+  },
+  "name": "Psychoville",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Psychoville",
+  "overview": "Five strangers receive blackmail notes from an anonymous source, leading them on a dark and surreal journey as their lives unravel, featuring bizarre characters like a man-child, a one-handed clown, and a blind millionaire.",
+  "popularity": 10.2886,
+  "poster_path": "/iGAdkXpbangnl2FoKdZQvJRkU0R.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-31",
+      "episode_count": 1,
+      "id": 28338,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/hD2bDY7oVGXFblmKhC6bz6LPwJZ.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-18",
+      "episode_count": 7,
+      "id": 28337,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/q0eCsfAy1AHtWgQgctYzbecv95G.jpg",
+      "season_number": 1,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2011-05-05",
+      "episode_count": 6,
+      "id": 28339,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/afWIgVHfXmMhr7QiLUpIRhU1EDn.jpg",
+      "season_number": 2,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.93,
+  "vote_count": 100,
+  "external_ids": {
+    "id": 17420,
+    "imdb_id": "tt1305562",
+    "freebase_mid": "/m/05f3fjm",
+    "freebase_id": "/en/psychoville",
+    "tvdb_id": 99101,
+    "tvrage_id": 22870,
+    "wikidata_id": "Q1107270",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

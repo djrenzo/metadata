@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/rNnTUZgVhzJc36FViudinVPBDSh.jpg",
+  "created_by": [
+    {
+      "id": 1705420,
+      "credit_id": "65faa2fe5be00e017c6e1753",
+      "name": "Julián Sastre",
+      "original_name": "Julián Sastre",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2359646,
+      "credit_id": "65faa2f660620a017c2541de",
+      "name": "Nando Abad",
+      "original_name": "Nando Abad",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1404782,
+      "credit_id": "6537cd29c50ad200ca88fe64",
+      "name": "Alberto Caballero",
+      "original_name": "Alberto Caballero",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1577413,
+      "credit_id": "6537cd307fcab3014e3684c7",
+      "name": "Araceli Álvarez de Sotomayor",
+      "original_name": "Araceli Álvarez de Sotomayor",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1404784,
+      "credit_id": "6537cd37c50ad200eb2df8d3",
+      "name": "Daniel Deorador",
+      "original_name": "Daniel Deorador",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2024-04-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/83072677",
+  "id": 237964,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-08-21",
+  "last_episode_to_air": {
+    "id": 6372632,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2025-08-21",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 33,
+    "season_number": 3,
+    "show_id": 237964,
+    "still_path": "/gdfP0JfzBQMiXeZof0hgDHllpbJ.jpg"
+  },
+  "name": "Death Inc.",
+  "next_episode_to_air": {
+    "id": 7323994,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-07",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 237964,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 6920,
+      "logo_path": "/tZSV7HC7DVgzXwDSkuu3PkW8C1w.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Muertos S.L.",
+  "overview": "When the founder of Torregrosa Funeral Home dies, his scheming right-hand man is poised to take over the business. But the owner's widow has other plans.",
+  "popularity": 12.9237,
+  "poster_path": "/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+  "production_companies": [
+    {
+      "id": 103863,
+      "logo_path": null,
+      "name": "Contubernio Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-04-04",
+      "episode_count": 8,
+      "id": 362409,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ce3gsh5ZcOLei0egXHYxO5KST3e.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2025-01-16",
+      "episode_count": 6,
+      "id": 432545,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/3yr1eSGkD2ypR6U7aW8jtGET15e.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2025-08-21",
+      "episode_count": 6,
+      "id": 464846,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/homffQxwR4eJQ3iLBD3dCDRvzmM.jpg",
+      "season_number": 3,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2026-08-07",
+      "episode_count": 6,
+      "id": 519274,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 41,
+  "external_ids": {
+    "id": 237964,
+    "imdb_id": "tt29614148",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 441201,
+    "tvrage_id": null,
+    "wikidata_id": "Q125081321",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

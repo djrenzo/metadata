@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/VtQW2ipAgHM4dF5vadokxIvABl.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "2023-06-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://ici.tou.tv/premier-trio",
+  "id": 227660,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-06-12",
+  "last_episode_to_air": {
+    "id": 6512245,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-06-12",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 3,
+    "show_id": 227660,
+    "still_path": "/hmXF9werQOjzqzuALGUKc0epI3x.jpg"
+  },
+  "name": "First Line",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3529,
+      "logo_path": "/wP7QDZA7TOCa3B5rD00DtBjI31.png",
+      "name": "ICI TOU.TV Extra",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Premier trio",
+  "overview": "Chloé, a star hockey player, wants to make her place on a men's AAA team. Between budding loves, friendships and betrayals, she tries to find her place on the ice and in life.",
+  "popularity": 11.4218,
+  "poster_path": "/vaXBot4sKiXPWQCNNdzx75QtVrs.jpg",
+  "production_companies": [
+    {
+      "id": 177412,
+      "logo_path": "/bKra68ezsOuaRPH1quYiFTT3RXj.png",
+      "name": "AVANTI │TOAST",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-06-01",
+      "episode_count": 26,
+      "id": 343353,
+      "name": "Season 1",
+      "overview": "Star hockey player Chloé Béliveau is invited to the selection camp of a Bantam AAA team... for men! From then on, her sole goal is to make her mark among these elite players. Through budding romances, complicated friendships, and painful betrayals, she must learn to assert herself, both on the ice and in life.",
+      "poster_path": "/ftGX85es3a1t064JgaPcc2gpUNF.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-06",
+      "episode_count": 26,
+      "id": 398223,
+      "name": "Season 2",
+      "overview": "The Lynx return from the tournament and are looking to win the playoffs. The arrival of a new player on the team particularly affects Xavier. Chloé gives her all to make her mark on the boys' team.",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-05-08",
+      "episode_count": 26,
+      "id": 455499,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 227660,
+    "imdb_id": "tt28015642",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 434851,
+    "tvrage_id": null,
+    "wikidata_id": "Q125961712",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

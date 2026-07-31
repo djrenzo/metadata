@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/iytBTUEuzt7Ap1mJ22FZFYNLLqS.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2016-10-19",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://enter.jtbc.joins.com/1rice",
+  "id": 71963,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2020-02-26",
+  "last_episode_to_air": {
+    "id": 2158541,
+    "name": "Episode 164",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-02-26",
+    "episode_number": 164,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 80,
+    "season_number": 1,
+    "show_id": 71963,
+    "still_path": null
+  },
+  "name": "Let's Eat Dinner Together",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 885,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 164,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "한끼줍쇼",
+  "overview": "As more and more people are getting used to eating dinner alone, Kang Ho-dong and Lee Kyung-kyu visit ordinary Korean families at dinner time and share their lives as they eat dinner together.",
+  "popularity": 10.5746,
+  "poster_path": "/ssSlNCa17L8ZD7KvGICE3bXURql.jpg",
+  "production_companies": [
+    {
+      "id": 90935,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-10-19",
+      "episode_count": 164,
+      "id": 88822,
+      "name": "Season 1",
+      "overview": "National emcees Lee Gyeong-gyu and Kang Ho-dong set out to share a meal at a stranger’s home with celebrity guests in a new neighborhood each week.",
+      "poster_path": "/wa5KKeAKaLJOGHJgvfJfVD7Ok8u.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 71963,
+    "imdb_id": "tt7996906",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 322130,
+    "tvrage_id": null,
+    "wikidata_id": "Q28699026",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

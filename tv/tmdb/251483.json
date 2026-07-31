@@ -1,0 +1,1821 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2013-09-06",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.youtube.com/@extrahistory",
+  "id": 251483,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-08-17",
+  "last_episode_to_air": {
+    "id": 5545708,
+    "name": "Path to Betrayal",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-08-17",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 174,
+    "show_id": 251483,
+    "still_path": null
+  },
+  "name": "Extra History",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 513,
+  "number_of_seasons": 174,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Extra History",
+  "overview": "Videos of an educational YouTube channel made up of entertainment enthusiasts with backgrounds in game design, television production, literature and academia. The team creates short-form animated video essays every week about world history.",
+  "popularity": 8.84,
+  "poster_path": "/bk8ezBPyztkjHHJo5dMF9k4kniY.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2013-09-06",
+      "episode_count": 4,
+      "id": 387744,
+      "name": "Rome: The Punic Wars",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-30",
+      "episode_count": 4,
+      "id": 387747,
+      "name": "World War I: The Seminal Tragedy",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-11-08",
+      "episode_count": 6,
+      "id": 387749,
+      "name": "Warring States Japan: Sengoku Jidai",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-28",
+      "episode_count": 5,
+      "id": 387750,
+      "name": "England: South Sea Bubble",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-05-16",
+      "episode_count": 4,
+      "id": 387751,
+      "name": "Zulu Empire",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-20",
+      "episode_count": 12,
+      "id": 387752,
+      "name": "Byzantine Empire: Justinian and Theodora",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-08",
+      "episode_count": 6,
+      "id": 387753,
+      "name": "Europe: The First Crusade",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-26",
+      "episode_count": 5,
+      "id": 387754,
+      "name": "Korea: Admiral Yi",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-31",
+      "episode_count": 2,
+      "id": 387755,
+      "name": "Middle East: Odenathus",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-14",
+      "episode_count": 4,
+      "id": 387756,
+      "name": "England: The Broad Street Pump",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-09",
+      "episode_count": 2,
+      "id": 387757,
+      "name": "Mary Seacole",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-15",
+      "episode_count": 5,
+      "id": 387758,
+      "name": "World War II: The Battle of Kursk",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-12",
+      "episode_count": 6,
+      "id": 387759,
+      "name": "Suleiman the Magnificent",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-05",
+      "episode_count": 4,
+      "id": 387760,
+      "name": "WWII: The Resource War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-30",
+      "episode_count": 4,
+      "id": 387761,
+      "name": "Early Christian Schisms",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-04",
+      "episode_count": 2,
+      "id": 387762,
+      "name": "The History of Writing",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-11",
+      "episode_count": 1,
+      "id": 387763,
+      "name": "Samuel HaNagid",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-18",
+      "episode_count": 4,
+      "id": 387764,
+      "name": "First Opium War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-16",
+      "episode_count": 1,
+      "id": 387765,
+      "name": "Urbino",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-30",
+      "episode_count": 1,
+      "id": 387766,
+      "name": "Lindisfarne",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-06",
+      "episode_count": 6,
+      "id": 387767,
+      "name": "The Brothers Gracchi",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-25",
+      "episode_count": 2,
+      "id": 387768,
+      "name": "Hiawatha",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-01",
+      "episode_count": 6,
+      "id": 387769,
+      "name": "The History of Paper Money",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-11-11",
+      "episode_count": 1,
+      "id": 387770,
+      "name": "Veterans Day",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-11-19",
+      "episode_count": 6,
+      "id": 387771,
+      "name": "Simón Bolívar",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-28",
+      "episode_count": 6,
+      "id": 387772,
+      "name": "Catherine the Great",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-18",
+      "episode_count": 5,
+      "id": 387773,
+      "name": "Ned Kelly",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-22",
+      "episode_count": 1,
+      "id": 387775,
+      "name": "Mary Anning",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-06",
+      "episode_count": 4,
+      "id": 387776,
+      "name": "The Articles of Confederation",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-11",
+      "episode_count": 4,
+      "id": 387777,
+      "name": "Hunting the Bismarck",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-03",
+      "episode_count": 2,
+      "id": 387778,
+      "name": "Kamehameha the Great",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-06",
+      "episode_count": 4,
+      "id": 387779,
+      "name": "D-Day",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-24",
+      "episode_count": 4,
+      "id": 387780,
+      "name": "The Bronze Age Collapse",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-05",
+      "episode_count": 1,
+      "id": 387781,
+      "name": "Saragarhi",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-19",
+      "episode_count": 5,
+      "id": 387782,
+      "name": "Great Northern War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-30",
+      "episode_count": 1,
+      "id": 387783,
+      "name": "The Collapse of the Carolingian Empire",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-13",
+      "episode_count": 6,
+      "id": 387784,
+      "name": "Otto von Bismarck",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-07",
+      "episode_count": 1,
+      "id": 387785,
+      "name": "Berlin Airlift",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-09",
+      "episode_count": 5,
+      "id": 387786,
+      "name": "Khosrau Anushirawan",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-17",
+      "episode_count": 2,
+      "id": 387787,
+      "name": "WW1 Christmas Truce",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-27",
+      "episode_count": 1,
+      "id": 387936,
+      "name": "Cheng I Sao",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-15",
+      "episode_count": 3,
+      "id": 387937,
+      "name": "Cuban Missile Crisis",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-17",
+      "episode_count": 6,
+      "id": 387938,
+      "name": "Genghis Khan",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-05",
+      "episode_count": 2,
+      "id": 387939,
+      "name": "The Danelaw",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-07",
+      "episode_count": 1,
+      "id": 387940,
+      "name": "The Triangle Shirtwaist Fire",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-14",
+      "episode_count": 5,
+      "id": 387945,
+      "name": "The Empire of Mali",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-26",
+      "episode_count": 5,
+      "id": 387946,
+      "name": "The History of Non-Euclidian Geometry",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-07",
+      "episode_count": 2,
+      "id": 387947,
+      "name": "Thermopylae",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-07",
+      "episode_count": 7,
+      "id": 387948,
+      "name": "1918 Flu Pandemic",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-26",
+      "episode_count": 1,
+      "id": 387949,
+      "name": "Pellagra",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-25",
+      "episode_count": 5,
+      "id": 387950,
+      "name": "Kingdom of Majapahit",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-06",
+      "episode_count": 2,
+      "id": 387951,
+      "name": "Battle of Saipan",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-16",
+      "episode_count": 6,
+      "id": 387952,
+      "name": "Quantum Computing",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-13",
+      "episode_count": 1,
+      "id": 387953,
+      "name": "Julie d'Aubigny",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-27",
+      "episode_count": 6,
+      "id": 387954,
+      "name": "Viking Expansion",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-22",
+      "episode_count": 2,
+      "id": 387955,
+      "name": "Defense of Poland",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-12-15",
+      "episode_count": 5,
+      "id": 387956,
+      "name": "Sun Yat-sen",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-31",
+      "episode_count": 2,
+      "id": 387957,
+      "name": "Tuberculosis",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-02",
+      "episode_count": 1,
+      "id": 387958,
+      "name": "Jane Austen",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-16",
+      "episode_count": 5,
+      "id": 387959,
+      "name": "Irish Potato Famine",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-23",
+      "episode_count": 1,
+      "id": 388177,
+      "name": "The Boston Massacre",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-06",
+      "episode_count": 3,
+      "id": 388178,
+      "name": "Siege of Vienna",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-27",
+      "episode_count": 2,
+      "id": 388179,
+      "name": "Queen Nzinga",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-11",
+      "episode_count": 1,
+      "id": 388181,
+      "name": "U.S. Civil War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-09",
+      "episode_count": 2,
+      "id": 388182,
+      "name": "The Three Kingdoms",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-25",
+      "episode_count": 6,
+      "id": 388183,
+      "name": "History of England",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-06",
+      "episode_count": 5,
+      "id": 388184,
+      "name": "Joan of Arc",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-01",
+      "episode_count": 1,
+      "id": 388185,
+      "name": "The Warsaw Uprising",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-10",
+      "episode_count": 1,
+      "id": 388186,
+      "name": "Hogs in History",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-24",
+      "episode_count": 5,
+      "id": 388187,
+      "name": "The Inca Empire",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-19",
+      "episode_count": 2,
+      "id": 388188,
+      "name": "History of Dentistry",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-28",
+      "episode_count": 1,
+      "id": 388189,
+      "name": "Charles Darwin",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-12",
+      "episode_count": 5,
+      "id": 388190,
+      "name": "Building Angkor",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-31",
+      "episode_count": 6,
+      "id": 388191,
+      "name": "History of Space Travel",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-09",
+      "episode_count": 1,
+      "id": 388192,
+      "name": "The Berlin Wall",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 75,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-16",
+      "episode_count": 1,
+      "id": 388193,
+      "name": "Akhenaten",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 76,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-30",
+      "episode_count": 5,
+      "id": 388194,
+      "name": "Policing London",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 77,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-19",
+      "episode_count": 1,
+      "id": 388195,
+      "name": "History of Vaccines",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 78,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-04",
+      "episode_count": 1,
+      "id": 388196,
+      "name": "Allan Pinkerton",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 79,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-18",
+      "episode_count": 6,
+      "id": 388197,
+      "name": "The Haitian Revolution",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 80,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-07",
+      "episode_count": 6,
+      "id": 388198,
+      "name": "Ibn Battuta",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 81,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-01",
+      "episode_count": 1,
+      "id": 388199,
+      "name": "Rasputin",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 82,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-25",
+      "episode_count": 1,
+      "id": 388200,
+      "name": "The 1929 Stock Market Crash",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 83,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-02",
+      "episode_count": 5,
+      "id": 388201,
+      "name": "Dividing the Middle East",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 84,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-28",
+      "episode_count": 2,
+      "id": 388202,
+      "name": "The Field of the Cloth of Gold",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 85,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-06",
+      "episode_count": 1,
+      "id": 388203,
+      "name": "The Sacred Band",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 86,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-20",
+      "episode_count": 5,
+      "id": 388204,
+      "name": "Exploring the Pacific",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 87,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-03",
+      "episode_count": 1,
+      "id": 388205,
+      "name": "The Burning of Black Wall Street",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 88,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-25",
+      "episode_count": 1,
+      "id": 388206,
+      "name": "Marie Antoinette",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 89,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-30",
+      "episode_count": 2,
+      "id": 388207,
+      "name": "The Trojan War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 90,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-08",
+      "episode_count": 5,
+      "id": 388208,
+      "name": "Rome & The Third Century Crisis",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 91,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-27",
+      "episode_count": 2,
+      "id": 388209,
+      "name": "Syphilis",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 92,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-10",
+      "episode_count": 1,
+      "id": 388210,
+      "name": "The Harlem Hellfighters",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 93,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-12",
+      "episode_count": 1,
+      "id": 388211,
+      "name": "Bartolomé de las Casas",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 94,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-26",
+      "episode_count": 5,
+      "id": 388212,
+      "name": "Cleopatra",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 95,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-27",
+      "episode_count": 1,
+      "id": 388213,
+      "name": "Voting in America",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 96,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-30",
+      "episode_count": 1,
+      "id": 388214,
+      "name": "The Beast of Gévaudan",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 97,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-12",
+      "episode_count": 1,
+      "id": 388215,
+      "name": "The Harlem Renaissance",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 98,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-14",
+      "episode_count": 5,
+      "id": 388216,
+      "name": "End of the Samurai",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 99,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-19",
+      "episode_count": 1,
+      "id": 388217,
+      "name": "The Polio Epidemic",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 100,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-19",
+      "episode_count": 1,
+      "id": 388218,
+      "name": "Francis Walsingham",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 101,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-02",
+      "episode_count": 5,
+      "id": 388219,
+      "name": "Saladin & the 3rd Crusade",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 102,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-28",
+      "episode_count": 1,
+      "id": 388220,
+      "name": "Black Boxing Heavyweights",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 103,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-04",
+      "episode_count": 1,
+      "id": 388221,
+      "name": "Redlining",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 104,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-06",
+      "episode_count": 1,
+      "id": 388222,
+      "name": "Crusader States Craziness",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 105,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-18",
+      "episode_count": 1,
+      "id": 388223,
+      "name": "Interstate Displacement",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 106,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-20",
+      "episode_count": 5,
+      "id": 388224,
+      "name": "Teddy Roosevelt the Trustbuster",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 107,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-04",
+      "episode_count": 1,
+      "id": 388225,
+      "name": "Do No Harm: Black Medical Exploitation",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 108,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-27",
+      "episode_count": 1,
+      "id": 388226,
+      "name": "The Assassination of Medgar Evers",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 109,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-10",
+      "episode_count": 4,
+      "id": 388227,
+      "name": "Jewish Pirates",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 110,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-29",
+      "episode_count": 1,
+      "id": 388228,
+      "name": "Rome: Battle of the Milvian Bridge",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 111,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-08",
+      "episode_count": 2,
+      "id": 388229,
+      "name": "Climbing the Matterhorn",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 112,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-29",
+      "episode_count": 5,
+      "id": 388230,
+      "name": "Thirty Years' War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 113,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-03",
+      "episode_count": 1,
+      "id": 388231,
+      "name": "Negro League Baseball",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 114,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-03",
+      "episode_count": 1,
+      "id": 388232,
+      "name": "The Harlem Numbers Racket & Stephanie St Clair",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 115,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-17",
+      "episode_count": 5,
+      "id": 388233,
+      "name": "Vlad the Impaler",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 116,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-12",
+      "episode_count": 2,
+      "id": 388234,
+      "name": "History of Coffee",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 117,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-21",
+      "episode_count": 1,
+      "id": 388235,
+      "name": "The Erfurt Latrine Disaster",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 118,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-04",
+      "episode_count": 4,
+      "id": 388236,
+      "name": "Grigori Rasputin",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 119,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-16",
+      "episode_count": 1,
+      "id": 388237,
+      "name": "Marcus Garvey",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 120,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-02",
+      "episode_count": 2,
+      "id": 388238,
+      "name": "The Great Emu War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 121,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-23",
+      "episode_count": 5,
+      "id": 388239,
+      "name": "Conquest of India",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 122,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-11",
+      "episode_count": 2,
+      "id": 388240,
+      "name": "The Discovery of Insulin",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 123,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-27",
+      "episode_count": 1,
+      "id": 388241,
+      "name": "The Cotton Gin",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 124,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-11",
+      "episode_count": 5,
+      "id": 388242,
+      "name": "Japanese Militarism",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 125,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-30",
+      "episode_count": 1,
+      "id": 388243,
+      "name": "Götz of the Iron Hand",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 126,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-11",
+      "episode_count": 1,
+      "id": 388244,
+      "name": "The Zimmermann Telegram",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 127,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-29",
+      "episode_count": 5,
+      "id": 388245,
+      "name": "Empire of Brazil",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 128,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 388246,
+      "name": "Maya Angelou",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 129,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-05",
+      "episode_count": 1,
+      "id": 388247,
+      "name": "Mary Toft",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 130,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-19",
+      "episode_count": 5,
+      "id": 388248,
+      "name": "History of Beer",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 131,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-23",
+      "episode_count": 1,
+      "id": 388249,
+      "name": "Great Disappointment",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 132,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-28",
+      "episode_count": 1,
+      "id": 388250,
+      "name": "New England Vampire Panic",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 133,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-07",
+      "episode_count": 5,
+      "id": 388251,
+      "name": "Tulip Mania",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 134,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-03",
+      "episode_count": 1,
+      "id": 388252,
+      "name": "Carlisle Boarding School",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 135,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-11",
+      "episode_count": 1,
+      "id": 388253,
+      "name": "Billie Holiday vs The US Government",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 136,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-25",
+      "episode_count": 6,
+      "id": 388254,
+      "name": "Ethiopian Empire",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 137,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-20",
+      "episode_count": 4,
+      "id": 388255,
+      "name": "Eleanor of Aquitaine",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 138,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-17",
+      "episode_count": 2,
+      "id": 388256,
+      "name": "Battle of Blair Mountain",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 139,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-09",
+      "episode_count": 5,
+      "id": 388257,
+      "name": "The Irish Easter Rising",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 140,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-12",
+      "episode_count": 1,
+      "id": 388258,
+      "name": "The Battle of Culloden",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 141,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-21",
+      "episode_count": 6,
+      "id": 388259,
+      "name": "The Path to Pearl Harbor",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 142,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-12",
+      "episode_count": 1,
+      "id": 388260,
+      "name": "Christmas Chaos at West Point",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 143,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-14",
+      "episode_count": 5,
+      "id": 388261,
+      "name": "Frederick the Great",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 144,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-18",
+      "episode_count": 1,
+      "id": 388262,
+      "name": "The Real Red Wedding",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 145,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-23",
+      "episode_count": 2,
+      "id": 388263,
+      "name": "Operation Avalanche",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 146,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-04",
+      "episode_count": 5,
+      "id": 388264,
+      "name": "John Brown",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 147,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-08",
+      "episode_count": 1,
+      "id": 388265,
+      "name": "The American Revolution’s Forgotten War Crime",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 148,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-22",
+      "episode_count": 6,
+      "id": 388266,
+      "name": "Napoleon in Egypt",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 149,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-27",
+      "episode_count": 1,
+      "id": 388267,
+      "name": "A Race to Ancient Secrets",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 150,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-01",
+      "episode_count": 1,
+      "id": 388268,
+      "name": "The Mass-Murdering Mongoose",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 151,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-10",
+      "episode_count": 5,
+      "id": 388269,
+      "name": "The Crimean War",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 152,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-29",
+      "episode_count": 5,
+      "id": 388270,
+      "name": "The Buddhist Expansion",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 153,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-16",
+      "episode_count": 5,
+      "id": 388271,
+      "name": "Henry Ford",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 154,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-05",
+      "episode_count": 2,
+      "id": 388272,
+      "name": "Ramesses the Great",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 155,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-04",
+      "episode_count": 4,
+      "id": 388273,
+      "name": "The Little Ice Age",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 156,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-14",
+      "episode_count": 1,
+      "id": 390041,
+      "name": "The Draft Riots of 1863",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 157,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-02",
+      "episode_count": 2,
+      "id": 390044,
+      "name": "Shootout at the OK Corral",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 158,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-14",
+      "episode_count": 1,
+      "id": 390046,
+      "name": "The Dodo Bird",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 159,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-23",
+      "episode_count": 1,
+      "id": 390047,
+      "name": "The REAL War on Christmas",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 160,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-30",
+      "episode_count": 5,
+      "id": 390048,
+      "name": "Wu Zetian",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 161,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-03",
+      "episode_count": 1,
+      "id": 390049,
+      "name": "The Disastrous History of the First Transatlantic Cable",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 162,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-07",
+      "episode_count": 1,
+      "id": 390050,
+      "name": "Pigs",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 163,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-17",
+      "episode_count": 4,
+      "id": 390051,
+      "name": "Sitting Bull",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 164,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-16",
+      "episode_count": 1,
+      "id": 390052,
+      "name": "Jim Thorpe",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 165,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-23",
+      "episode_count": 1,
+      "id": 390053,
+      "name": "John L. Sullivan",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 166,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-04-06",
+      "episode_count": 5,
+      "id": 390054,
+      "name": "Secret Societies",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 167,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-11",
+      "episode_count": 1,
+      "id": 398295,
+      "name": "The Great Locomotive Chase",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 168,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-25",
+      "episode_count": 4,
+      "id": 398296,
+      "name": "Hypatia of Alexandria",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 169,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-22",
+      "episode_count": 1,
+      "id": 407737,
+      "name": "The Dark History of the Panama Railroad",
+      "overview": "Eager to join the California Gold Rush, you choose the 40-day steamship route through Panama over the grueling overland journey. But Panama's jungles, lethal diseases, and treacherous terrain await. Enter William H. Aspinwall, a visionary shipping magnate, who aims to revolutionize this journey with the Panama Railroad. Discover the harrowing tale of its construction, the immense human cost, and how it transformed travel and trade forever.",
+      "poster_path": null,
+      "season_number": 170,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-29",
+      "episode_count": 1,
+      "id": 407738,
+      "name": "History of the Board Game",
+      "overview": "Join us as we delve into the history of board games, from ancient times to the Victorian era's moral games like The Mansion of Happiness, and discover how George B. Parker's vision transformed games into the entertainment products we know today. Learn about his journey from a young innovator to the founder of Parker Brothers, a company that would shape the future of gaming.",
+      "poster_path": null,
+      "season_number": 171,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-13",
+      "episode_count": 4,
+      "id": 407739,
+      "name": "Invasion of Quebec",
+      "overview": "Dive into the backstory of early American military efforts, the rivalry between Benedict Arnold and Ethan Allen, and the critical impact of the Seven Years' War on the American Revolution. A blend of success and chaos that defined America’s first military disaster and the near-miraculous campaign that followed in the Invasion of Quebec, the American Disaster.",
+      "poster_path": null,
+      "season_number": 172,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-16",
+      "episode_count": 1,
+      "id": 407740,
+      "name": "The Calendar's 10,000 Year History",
+      "overview": "Join us as we journey through the history of timekeeping, from ancient civilizations to the Julian calendar introduced by Julius Caesar and how the inaccuracies in the led to Pope Gregory to an intervention! Resulting in the creation of the Gregorian calendar we use today.",
+      "poster_path": null,
+      "season_number": 173,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-10",
+      "episode_count": 2,
+      "id": 407741,
+      "name": "Benedict Arnold",
+      "overview": "Benedict Arnold's aggressive leadership at Saratoga nearly earns him a hero's death, but instead, it leads him to a path of pain and betrayal. As a once revered Continental Army leader, his appointment as Philadelphia's military governor exposes him to corruption, extravagant living, and the allure of Peggy Shippen, a Loyalist's daughter. Now he's accused of corruption and Arnold's dreams begin to unravel and he betrays the country he fought for by contacting British spy Major John André through his wife, Peggy.",
+      "poster_path": null,
+      "season_number": 174,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 251483,
+    "imdb_id": "tt7940026",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 294916,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

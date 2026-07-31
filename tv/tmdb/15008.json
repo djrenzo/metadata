@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    25,
+    30
+  ],
+  "first_air_date": "2000-01-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.abc.net.au/tv/something/",
+  "id": 15008,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2002-05-02",
+  "last_episode_to_air": {
+    "id": 533281,
+    "name": "I'll Be Seeing You",
+    "overview": "Dave and Helen get married. Annie renews her contract. Julia faces surgery. Wayne shows an interest in Annie.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-05-02",
+    "episode_number": 320,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 15008,
+    "still_path": null
+  },
+  "name": "Something in the Air",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 18,
+      "logo_path": "/kMvN5R8g6L0SY5r9YZw9foYGQr0.png",
+      "name": "ABC TV",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 320,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Something in the Air",
+  "overview": "Something in the Air was an Australian television soap opera transmitted by the Australian Broadcasting Corporation between 2000 and 2002. It was one of the first programs in Australia that was filmed in widescreen. It won the AACTA Award for Best Television Drama Series in 2001.",
+  "popularity": 10.4963,
+  "poster_path": "/k4Rdtd2kfkAY7F6yJRzsS907LtK.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2000-01-17",
+      "episode_count": 160,
+      "id": 26606,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 160,
+      "id": 26605,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 396102,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 15008,
+    "imdb_id": "tt0217960",
+    "freebase_mid": "/m/07t8yd",
+    "freebase_id": "/en/something_in_the_air",
+    "tvdb_id": 81573,
+    "tvrage_id": null,
+    "wikidata_id": "Q7560223",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

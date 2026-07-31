@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/8cfBqez6WVL3D494ie1BQQLU3m7.jpg",
+  "created_by": [
+    {
+      "id": 1215279,
+      "credit_id": "525758ee19c29531db163bbe",
+      "name": "Bill Todman",
+      "original_name": "Bill Todman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1211893,
+      "credit_id": "525758ee19c29531db163bc4",
+      "name": "Mark Goodson",
+      "original_name": "Mark Goodson",
+      "gender": 2,
+      "profile_path": "/rdXYxS6wMggkgkMo6JZlVX1NnNf.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1984-06-04",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 3914,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1986-01-01",
+  "last_episode_to_air": {
+    "id": 7065407,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 3914,
+    "still_path": null
+  },
+  "name": "Body Language",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 350,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Body Language",
+  "overview": "Body Language is an American game show produced by Mark Goodson Productions. The show aired on CBS from June 4, 1984 until January 3, 1986, and was hosted by Tom Kennedy. Johnny Olson announced until his death in October 1985; Gene Wood and Bob Hilton shared the announcing duties afterward, and had substituted on occasion before that.\n\nThe show pitted two teams against each other, each consisting of a contestant and a celebrity guest. The gameplay centered around the party game charades, in the same vein as the earlier Goodson program Showoffs, but contestants also had to solve word puzzles to win money, making Body Language a cross between Showoffs and Password Plus.",
+  "popularity": 9.8647,
+  "poster_path": "/jWhUP0dx74Lc6cu6Yqiy15llH6Y.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1984-06-04",
+      "episode_count": 145,
+      "id": 11682,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-12-31",
+      "episode_count": 204,
+      "id": 444589,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 1,
+      "id": 444590,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 3914,
+    "imdb_id": "tt0135081",
+    "freebase_mid": "/m/05v67k",
+    "freebase_id": null,
+    "tvdb_id": 78747,
+    "tvrage_id": 18901,
+    "wikidata_id": "Q4936838",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

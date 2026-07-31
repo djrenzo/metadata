@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/iPzuUglKoIdWzETeRl6XEUeYdwr.jpg",
+  "created_by": [
+    {
+      "id": 1608092,
+      "credit_id": "6055f03b6e3deb0054e6504e",
+      "name": "Ricardo Alvarez Canales",
+      "original_name": "Ricardo Alvarez Canales",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2020-04-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/series-y-novelas/100-dias-para-enamorarnos",
+  "id": 102966,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2021-07-14",
+  "last_episode_to_air": {
+    "id": 2749064,
+    "name": "Episode 35",
+    "overview": "The friends race to arrange a wedding in 24 hours. As Day 100 looms, Connie and Plutarco reminisce about the past months. Max gets a call from Miami.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-07-14",
+    "episode_number": 35,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 102966,
+    "still_path": "/we3unQn9Z8HSoGlNUKgCplfbA9U.jpg"
+  },
+  "name": "100 días para enamorarnos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 92,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "100 días para enamorarnos",
+  "overview": "Two couples who struggle to be near each other decide to give another chance for each other, 100 days for them to fall back in love.",
+  "popularity": 9.0691,
+  "poster_path": "/r13t1ohRQAlZpsjxgTKY7ypkWPc.jpg",
+  "production_companies": [
+    {
+      "id": 120759,
+      "logo_path": null,
+      "name": "Telemundo Global Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-04-28",
+      "episode_count": 57,
+      "id": 149817,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/r13t1ohRQAlZpsjxgTKY7ypkWPc.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2021-02-10",
+      "episode_count": 35,
+      "id": 180896,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/tgrOOrdKje4a2Ptvnrj3bN4Kb8c.jpg",
+      "season_number": 2,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.716,
+  "vote_count": 1041,
+  "external_ids": {
+    "id": 102966,
+    "imdb_id": "tt11243606",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 381410,
+    "tvrage_id": null,
+    "wikidata_id": "Q84458170",
+    "facebook_id": "100dias",
+    "instagram_id": "100dias",
+    "twitter_id": null
+  }
+}

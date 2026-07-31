@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1232960,
+      "credit_id": "5257491b760ee36aaa107b13",
+      "name": "George F. Walker",
+      "original_name": "George F. Walker",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1232961,
+      "credit_id": "5257491c760ee36aaa107b1c",
+      "name": "Dani Romain",
+      "original_name": "Dani Romain",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1232966,
+      "credit_id": "66d01da387e0dbf08a9929a0",
+      "name": "Bernard Zukerman",
+      "original_name": "Bernard Zukerman",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2004-01-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 2882,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-03-15",
+  "last_episode_to_air": {
+    "id": 220208,
+    "name": "Episode 13",
+    "overview": "Jack makes a deal with a drug dealer; a criminal threatens to kill an eyewitness.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-03-15",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 2882,
+    "still_path": null
+  },
+  "name": "This Is Wonderland",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/zjgqkIvBURbwoHbHhmnzaTFyZgR.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "This Is Wonderland",
+  "overview": "Alice De Raey is a newly minted attorney who joins the chaotic world of criminal justice in Toronto. She's exposed to the seamier side of life, the backroom deals that make the system work accompanied by the usual eccentric characters.",
+  "popularity": 10.5667,
+  "poster_path": "/oDVf1KgCH4FhmyGAa1EJa6sXXr6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-01-12",
+      "episode_count": 13,
+      "id": 9294,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-25",
+      "episode_count": 13,
+      "id": 9295,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-11-23",
+      "episode_count": 13,
+      "id": 9296,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Law and Order...Without the Order.",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 2882,
+    "imdb_id": "tt0385482",
+    "freebase_mid": "/m/0268x1",
+    "freebase_id": "/en/this_is_wonderland",
+    "tvdb_id": 73283,
+    "tvrage_id": 6334,
+    "wikidata_id": "Q3612275",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

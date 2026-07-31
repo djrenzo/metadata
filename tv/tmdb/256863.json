@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/oMbwD3fQbvkMkTU4TjywdKp5B9d.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2009-09-21",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 256863,
+  "in_production": true,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2009-09-21",
+  "last_episode_to_air": {
+    "id": 5417820,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-09-21",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 256863,
+    "still_path": null
+  },
+  "name": "Megaminimals",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 406,
+      "logo_path": "/bvjlXF06a7hR3vJ4IoFkGVLaBFo.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 7296,
+      "logo_path": "/ahniTxMTbtEOUuXNfmMevlSoNN.png",
+      "name": "SX3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 173,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "Megaminimals",
+  "overview": "",
+  "popularity": 20.2555,
+  "poster_path": "/lh6oVTqelS6V8ZbH59YRRQz6EJM.jpg",
+  "production_companies": [
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 104,
+      "id": 398413,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 69,
+      "id": 435407,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 256863,
+    "imdb_id": "tt5690332",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

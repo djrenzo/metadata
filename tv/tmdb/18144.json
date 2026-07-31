@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/fhm1lJIX695x4Oebhl67iv9Vv1.jpg",
+  "created_by": [
+    {
+      "id": 1303068,
+      "credit_id": "533083bc9251413a81005ec2",
+      "name": "Orlando Merino",
+      "original_name": "Orlando Merino",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1303067,
+      "credit_id": "533083c39251413a78005cc9",
+      "name": "Jaime García Estrada",
+      "original_name": "Jaime García Estrada",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1997-10-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 18144,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1998-03-27",
+  "last_episode_to_air": {
+    "id": 4520924,
+    "name": "Episode 120",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-03-27",
+    "episode_number": 120,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 18144,
+    "still_path": null
+  },
+  "name": "Hurricane",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Huracán",
+  "overview": "Huracán is a Mexican telenovela shown in Mexico from October 13, 1997 to March 27, 1998, starring with the late Jorge Russek, Fernando Balzaretti, and Eduardo Palomo.",
+  "popularity": 12.722,
+  "poster_path": "/t6OZoRigzXda5KHZ7AFdgj4e8JO.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-10-13",
+      "episode_count": 120,
+      "id": 60165,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 18144,
+    "imdb_id": "tt0171387",
+    "freebase_mid": "/m/05q9g_c",
+    "freebase_id": null,
+    "tvdb_id": 281732,
+    "tvrage_id": null,
+    "wikidata_id": "Q3293159",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/cB5el4pMtwQt7d2VKmLESG23wum.jpg",
+  "created_by": [
+    {
+      "id": 1366711,
+      "credit_id": "6814e2c0a80e8a4e9aa20bca",
+      "name": "Dimitris Arvanitis",
+      "original_name": "Δημήτρης Αρβανίτης",
+      "gender": 2,
+      "profile_path": "/gCHO8sm2x2hu5MTDbXZbmJjFyKG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2009-09-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 53672,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2012-01-06",
+  "last_episode_to_air": {
+    "id": 6202682,
+    "name": "Episode 49",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-01-06",
+    "episode_number": 49,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 3,
+    "show_id": 53672,
+    "still_path": null
+  },
+  "name": "The life of the other woman",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 401,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Η Ζωή της Άλλης",
+  "overview": "",
+  "popularity": 10.1797,
+  "poster_path": "/A2Rpwgn9u3kNSRnvcFZ4W8wZubJ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-27",
+      "episode_count": 201,
+      "id": 175056,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 151,
+      "id": 454334,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-17",
+      "episode_count": 49,
+      "id": 454337,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/qEfKUbwLGfx894irBG0c9hnPI9W.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.2,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 53672,
+    "imdb_id": "tt1517116",
+    "freebase_mid": "/m/0w2hprv",
+    "freebase_id": null,
+    "tvdb_id": 202521,
+    "tvrage_id": null,
+    "wikidata_id": "Q16332572",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

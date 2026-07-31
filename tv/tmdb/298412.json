@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    28
+  ],
+  "first_air_date": "2025-11-24",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 298412,
+  "in_production": true,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2026-03-13",
+  "last_episode_to_air": {
+    "id": 6865355,
+    "name": "Final Crossroads",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-13",
+    "episode_number": 80,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 298412,
+    "still_path": null
+  },
+  "name": "Roja",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 42,
+      "logo_path": "/gVinXXdpdbLHuXTUUfx4R9PyuPB.png",
+      "name": "TV5",
+      "origin_country": "PH"
+    },
+    {
+      "id": 3920,
+      "logo_path": "/eK7hBqDuNwvHqBoWtVgCdNIehsU.png",
+      "name": "Kapamilya Channel",
+      "origin_country": "PH"
+    },
+    {
+      "id": 6982,
+      "logo_path": null,
+      "name": "A2Z",
+      "origin_country": "PH"
+    },
+    {
+      "id": 8833,
+      "logo_path": null,
+      "name": "AllTV2",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 80,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Roja",
+  "overview": "As a hostage crisis unfolds at his parents' resort, Liam must team up with his friend-turned-enemy and put aside old grudges to protect their loved ones.",
+  "popularity": 19.0118,
+  "poster_path": "/j3kxW11zRS0WknMGXpKp9D1nvTn.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-11-24",
+      "episode_count": 80,
+      "id": 469969,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qFKKuevPKLAjiaHMt8zoGigJbep.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 298412,
+    "imdb_id": "tt37918904",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q136645300",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

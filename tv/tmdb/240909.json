@@ -1,0 +1,140 @@
+{
+  "adult": false,
+  "backdrop_path": "/55Z8gBdyHn4MzXqv0wjX2vZpn2B.jpg",
+  "created_by": [
+    {
+      "id": 1215602,
+      "credit_id": "65ca223eb6cff10185a86361",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2024-02-11",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.canalrcn.com/la-casa-de-los-famosos/",
+  "id": 240909,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2026-03-24",
+  "last_episode_to_air": {
+    "id": 7303029,
+    "name": "La historia no termina",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-29",
+    "episode_number": 138,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 3,
+    "show_id": 240909,
+    "still_path": "/oSN0ZRWNWuRmQ0wRCmokrasXeSG.jpg"
+  },
+  "name": "La Casa de los Famosos Colombia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 340,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "La Casa de los Famosos Colombia",
+  "overview": "",
+  "popularity": 11.0273,
+  "poster_path": "/gpjREcm3xsm5kgrBKqSyfGbUAjV.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-02-11",
+      "episode_count": 128,
+      "id": 368476,
+      "name": "Temporada 1",
+      "overview": "",
+      "poster_path": "/lCn94cscNlFToXIbIWRSGBqb20Q.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2025-01-26",
+      "episode_count": 135,
+      "id": 439116,
+      "name": "Temporada 2",
+      "overview": "",
+      "poster_path": "/xCvZ0H1RiWhU6yFtzRJL3PSI2jF.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-12",
+      "episode_count": 138,
+      "id": 492775,
+      "name": "Temporada 3",
+      "overview": "",
+      "poster_path": "/gpjREcm3xsm5kgrBKqSyfGbUAjV.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 492776,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.3,
+  "vote_count": 31,
+  "external_ids": {
+    "id": 240909,
+    "imdb_id": "tt30308872",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 444495,
+    "tvrage_id": null,
+    "wikidata_id": "Q124292845",
+    "facebook_id": null,
+    "instagram_id": "lacasadelosfamososcolombia1",
+    "twitter_id": null
+  }
+}

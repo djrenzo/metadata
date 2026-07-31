@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/jXiKtz7PPWOI4zKl5CdtrKyLUh8.jpg",
+  "created_by": [
+    {
+      "id": 265415,
+      "credit_id": "5258a217760ee34661663839",
+      "name": "Duncan Rouleau",
+      "original_name": "Duncan Rouleau",
+      "gender": 2,
+      "profile_path": "/hGJdEQVMOdBD9erLCbJDvcKRwsH.jpg"
+    },
+    {
+      "id": 207269,
+      "credit_id": "5258a217760ee3466166383f",
+      "name": "Joe Kelly",
+      "original_name": "Joe Kelly",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1237905,
+      "credit_id": "5258a217760ee34661663845",
+      "name": "Joe Casey",
+      "original_name": "Joe Casey",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1237903,
+      "credit_id": "5258a217760ee3466166384b",
+      "name": "Steven T. Seagle",
+      "original_name": "Steven T. Seagle",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    23
+  ],
+  "first_air_date": "2010-04-23",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "http://www.cartoonnetwork.com/tv_shows/generatorrex/index.html",
+  "id": 32118,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2012-12-27",
+  "last_episode_to_air": {
+    "id": 763717,
+    "name": "Target: Consortium",
+    "overview": "Jungle Cat returns to assist the team in their efforts to infiltrate Providence as the Consortium reunites for the first time since the Event.",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "2012-12-27",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 3,
+    "show_id": 32118,
+    "still_path": "/9deCQlc5sGAAAWYUJnPzSK6UOD.jpg"
+  },
+  "name": "Generator Rex",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 59,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Generator Rex",
+  "overview": "Generator Rex, an average teenager with the ability to turn his body into amazing machines, helps the secret organization Providence save the world from the nanite threat and dangerous EVO monsters.",
+  "popularity": 11.3787,
+  "poster_path": "/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
+  "production_companies": [
+    {
+      "id": 7899,
+      "logo_path": "/qnhd98hnBxCMMMod58FJqbCZ5O7.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 78253,
+      "logo_path": "/9TKvqez9Es23bsemwO8tARXAA1q.png",
+      "name": "Man of Action Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-04-23",
+      "episode_count": 21,
+      "id": 43546,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rfoB4B3gbndqJwA6w8VDHw2ednb.jpg",
+      "season_number": 1,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2011-02-04",
+      "episode_count": 19,
+      "id": 43547,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6dYJJfgl2He0T1uDxeYoFVOxv9h.jpg",
+      "season_number": 2,
+      "vote_average": 9.1
+    },
+    {
+      "air_date": "2011-11-11",
+      "episode_count": 19,
+      "id": 43548,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/ifcKQv58tszWWyKXSfFoDzbR3A0.jpg",
+      "season_number": 3,
+      "vote_average": 8.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.538,
+  "vote_count": 421,
+  "external_ids": {
+    "id": 32118,
+    "imdb_id": "tt1636691",
+    "freebase_mid": "/m/0b741hg",
+    "freebase_id": "/en/generator_rex",
+    "tvdb_id": 158551,
+    "tvrage_id": null,
+    "wikidata_id": "Q910185",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

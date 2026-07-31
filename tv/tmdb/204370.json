@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/xGKTgJlqCkq6tAK2sOTdULh7YaX.jpg",
+  "created_by": [
+    {
+      "id": 1241049,
+      "credit_id": "62ae9ada0c3ec800619287e5",
+      "name": "Glória Perez",
+      "original_name": "Glória Perez",
+      "gender": 1,
+      "profile_path": "/qMId1ZOitGWB60UFs1fgTPTsJSW.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2022-10-10",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://gshow.globo.com/novelas/travessia/",
+  "id": 204370,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-05-05",
+  "last_episode_to_air": {
+    "id": 4363757,
+    "name": "Episode 179",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-05-05",
+    "episode_number": 179,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 80,
+    "season_number": 1,
+    "show_id": 204370,
+    "still_path": null
+  },
+  "name": "The Path",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 179,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Travessia",
+  "overview": "After having her life course changed by a fake image and losing her childhood sweetheart to greed and power, Brisa, a strong woman, will struggle to rebuild her journey, raise her son, rediscover true love, and discover the truth about her origin.",
+  "popularity": 10.1081,
+  "poster_path": "/pl8a4A0JQGr2aHd9RrI0SbewjIr.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-10",
+      "episode_count": 179,
+      "id": 297946,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jFZJEoPzt2RKSsZG8QEWptX5Xyw.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.1,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 204370,
+    "imdb_id": "tt21312616",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420138,
+    "tvrage_id": null,
+    "wikidata_id": "Q113247967",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

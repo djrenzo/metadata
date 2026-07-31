@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/hasAXr0fgl2uaz2alWGxdCT9WA.jpg",
+  "created_by": [
+    {
+      "id": 2604997,
+      "credit_id": "6283f77f65686e0050a0840b",
+      "name": "Matthew Schlissel",
+      "original_name": "Matthew Schlissel",
+      "gender": 2,
+      "profile_path": "/k5ucJPHEVVJiTonXEwEQxeedVvM.jpg"
+    },
+    {
+      "id": 3553714,
+      "credit_id": "6283f773cd204600a8b3fa50",
+      "name": "Catlan McClelland",
+      "original_name": "Catlan McClelland",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2024-01-07",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.fox.com/grimsburg",
+  "id": 202224,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-07-17",
+  "last_episode_to_air": {
+    "id": 6265097,
+    "name": "Across the Flute-iverse",
+    "overview": "An interdimensional rift appears in Grimsburg and through it emerges the Multi-Flutes, an elite squad of Flutes from different dimensions.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-07-17",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 202224,
+    "still_path": null
+  },
+  "name": "Grimsburg",
+  "next_episode_to_air": {
+    "id": 6825684,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-27",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 202224,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 27,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Grimsburg",
+  "overview": "Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there’s one mystery he still can’t crack — his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he’s got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.",
+  "popularity": 11.624,
+  "poster_path": "/91KT0G2yCRJGIvsP5rZqzAOA5d8.jpg",
+  "production_companies": [
+    {
+      "id": 30452,
+      "logo_path": "/zmU1ElCS02iL5N7E5MuY4fV7bCX.png",
+      "name": "Bento Box Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 75060,
+      "logo_path": "/iS6njjhHMBYIcwcBrjNfd53dyXQ.png",
+      "name": "The Jackal Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 85721,
+      "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
+      "name": "FOX Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 13,
+      "id": 294139,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tfWgaT55Oe3B8EPSe3x2TcIVsNG.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2025-02-16",
+      "episode_count": 13,
+      "id": 437840,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/91KT0G2yCRJGIvsP5rZqzAOA5d8.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-09-27",
+      "episode_count": 1,
+      "id": 467423,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.111,
+  "vote_count": 27,
+  "external_ids": {
+    "id": 202224,
+    "imdb_id": "tt15791752",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420069,
+    "tvrage_id": null,
+    "wikidata_id": "Q115803763",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "GrimsburgFOX"
+  }
+}

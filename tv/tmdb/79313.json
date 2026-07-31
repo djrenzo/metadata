@@ -1,0 +1,271 @@
+{
+  "adult": false,
+  "backdrop_path": "/ilEht2mkC51htymkX4zYN3vuS77.jpg",
+  "created_by": [
+    {
+      "id": 234336,
+      "credit_id": "5aee90e1925141764f0010f5",
+      "name": "Frédéric Rossif",
+      "original_name": "Frédéric Rossif",
+      "gender": 2,
+      "profile_path": "/lDhKDrqxaG2HgY8yidzgdsSf0td.jpg"
+    },
+    {
+      "id": 1117828,
+      "credit_id": "5aee90c5c3a3681421000fb3",
+      "name": "François Chalais",
+      "original_name": "François Chalais",
+      "gender": 2,
+      "profile_path": "/u6gsP4kPcuHRjG1iYa563Ja5y3Q.jpg"
+    },
+    {
+      "id": 1727080,
+      "credit_id": "5aee9100925141764f001113",
+      "name": "Philippe Ducrest",
+      "original_name": "Philippe Ducrest",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1478002,
+      "credit_id": "5aee90d3c3a3681403000fd8",
+      "name": "Jean Kerchbron",
+      "original_name": "Jean Kerchbron",
+      "gender": 2,
+      "profile_path": "/6mM3LRmV5cporlVTUyFnPOrZFbm.jpg"
+    },
+    {
+      "id": 2037183,
+      "credit_id": "5aee90f09251417639001077",
+      "name": "Jean Bescont",
+      "original_name": "Jean Bescont",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2037184,
+      "credit_id": "5aee9114c3a36813fd001c39",
+      "name": "Jacques Planché",
+      "original_name": "Jacques Planché",
+      "gender": 2,
+      "profile_path": "/t6A0cod7gCUAQNBZL09HjeB7AHl.jpg"
+    },
+    {
+      "id": 2037185,
+      "credit_id": "5aee9122c3a368140f001b39",
+      "name": "Denise Billon",
+      "original_name": "Denise Billon",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2037186,
+      "credit_id": "5aee9134925141766f0012ae",
+      "name": "Jean-Pierre Fleury",
+      "original_name": "Jean-Pierre Fleury",
+      "gender": 2,
+      "profile_path": "/tQTVb7ktoGb4PVGSxdFSjIR51aL.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1956-02-04",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 79313,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1965-07-24",
+  "last_episode_to_air": {
+    "id": 4131557,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1965-07-24",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 10,
+    "show_id": 79313,
+    "still_path": null
+  },
+  "name": "Cinépanorama",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1196,
+      "logo_path": "/j1A7mEWCvFT6eRxOnqapNbikIyk.png",
+      "name": "ORTF Télévision",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Cinépanorama",
+  "overview": "",
+  "popularity": 11.517,
+  "poster_path": "/aA3E04yh8xeNbOEp3Imsq2gqidc.jpg",
+  "production_companies": [
+    {
+      "id": 16180,
+      "logo_path": "/tE5t6MnMhvyc34beR4Qf6hM2c5K.png",
+      "name": "INA",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1956-02-04",
+      "episode_count": 11,
+      "id": 103401,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aA3E04yh8xeNbOEp3Imsq2gqidc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-01-24",
+      "episode_count": 12,
+      "id": 322206,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-01-16",
+      "episode_count": 12,
+      "id": 322214,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-01-24",
+      "episode_count": 12,
+      "id": 322220,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-01-23",
+      "episode_count": 10,
+      "id": 322228,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-01-14",
+      "episode_count": 7,
+      "id": 322231,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-01-06",
+      "episode_count": 10,
+      "id": 322233,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-01-19",
+      "episode_count": 10,
+      "id": 322240,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-01-11",
+      "episode_count": 13,
+      "id": 322241,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-01-30",
+      "episode_count": 7,
+      "id": 322244,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 79313,
+    "imdb_id": "tt0341719",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 436925,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

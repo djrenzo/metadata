@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/uDh2I8jBu2TEdNGt6lH8T5hO7v4.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2018-11-07",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://program.kbs.co.kr/2tv/enter/brain/pc/index.html",
+  "id": 117717,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-03-19",
+  "last_episode_to_air": {
+    "id": 7357740,
+    "name": "Episode 317",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-05",
+    "episode_number": 317,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 117717,
+    "still_path": null
+  },
+  "name": "Problem Child in House",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 306,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "옥탑방의 문제아들",
+  "overview": "In a society that puts the spotlight on the smart guys only, there are people who do not have a grain of common sense. In this knowledge-talk show, these problematic people get locked up in a rooftop house and are allowed to go home only if they get 10 questions right.",
+  "popularity": 9.6461,
+  "poster_path": "/bBshgkvqqGInROvibmss2TfUnU3.jpg",
+  "production_companies": [
+    {
+      "id": 74238,
+      "logo_path": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-11-07",
+      "episode_count": 317,
+      "id": 178819,
+      "name": "Season 1",
+      "overview": "There is only one rule on this show! You can’t leave until you answer all 10 questions! A quiz talk show where the cast struggles over trivia questions!",
+      "poster_path": "/22aNen6ITkFseIxT5Il7psjFZQC.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 117717,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 357364,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

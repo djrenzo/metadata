@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2002-11-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 23032,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2003-10-31",
+  "last_episode_to_air": {
+    "id": 619156,
+    "name": "Episode 239",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-10-31",
+    "episode_number": 239,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 23032,
+    "still_path": null
+  },
+  "name": "Honest Living",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 239,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "똑바로 살아라",
+  "overview": "",
+  "popularity": 10.1036,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2002-11-05",
+      "episode_count": 239,
+      "id": 32987,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 23032,
+    "imdb_id": null,
+    "freebase_mid": "/m/07cf3nm",
+    "freebase_id": "/en/honest_living",
+    "tvdb_id": null,
+    "tvrage_id": 14184,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

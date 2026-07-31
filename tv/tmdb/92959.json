@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-12-16",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.kanald.com.tr/dostlar-mahallesi",
+  "id": 92959,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2017-12-30",
+  "last_episode_to_air": {
+    "id": 4131728,
+    "name": "Episode 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-30",
+    "episode_number": 3,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 92959,
+    "still_path": null
+  },
+  "name": "Dostlar Mahallesi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 3,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Dostlar Mahallesi",
+  "overview": "",
+  "popularity": 13.7327,
+  "poster_path": "/xOiYqICh14pKGeiiSAKj36XpnFq.jpg",
+  "production_companies": [
+    {
+      "id": 16499,
+      "logo_path": "/d4Y5soaQuCLFbZaqwjAkbBzj9e3.png",
+      "name": "Erler Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-12-16",
+      "episode_count": 3,
+      "id": 131106,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 92959,
+    "imdb_id": "tt7374198",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

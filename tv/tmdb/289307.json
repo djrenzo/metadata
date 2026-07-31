@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1267887,
+      "credit_id": "6803fdbce3fac2f90289b284",
+      "name": "Geraldo Vietri",
+      "original_name": "Geraldo Vietri",
+      "gender": 2,
+      "profile_path": "/8TUL5ScoW4Oo64jsVGo7p9I8Dvc.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1971-03-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 289307,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1972-03-11",
+  "last_episode_to_air": {
+    "id": 6144257,
+    "name": "Episode 304",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1972-03-11",
+    "episode_number": 304,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 289307,
+    "still_path": null
+  },
+  "name": "A Fábrica",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3053,
+      "logo_path": "/moVF4LeI4lv2tCvqe7J6h3KRY98.png",
+      "name": "TV Tupi",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 304,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "A Fábrica",
+  "overview": "",
+  "popularity": 9.7147,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 69529,
+      "logo_path": null,
+      "name": "Rede Tupi",
+      "origin_country": ""
+    },
+    {
+      "id": 83040,
+      "logo_path": "/hYyMxPniIu9xdQ1Q5Q9XsqG4tS1.png",
+      "name": "TV Tupi",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1971-03-01",
+      "episode_count": 304,
+      "id": 452439,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 289307,
+    "imdb_id": "tt0209630",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16484396",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

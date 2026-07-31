@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2061173,
+      "credit_id": "5b1c91490e0a261fa7023f12",
+      "name": "Martha Mendonça",
+      "original_name": "Martha Mendonça",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2013-05-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://gnt.globo.com/series/as-canalhas/",
+  "id": 80094,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2015-05-26",
+  "last_episode_to_air": {
+    "id": 1503564,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-05-26",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 80094,
+    "still_path": null
+  },
+  "name": "As Canalhas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1139,
+      "logo_path": "/xokfH7EDKgtrW1ajFRYeId2jMui.png",
+      "name": "GNT",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "As Canalhas",
+  "overview": "",
+  "popularity": 12.469,
+  "poster_path": "/pgtzqhy86b8UNV1cr6hkAZhGWN3.jpg",
+  "production_companies": [
+    {
+      "id": 77847,
+      "logo_path": "/eJcUVHgCqsKXX5QjD7emhsynTyX.png",
+      "name": "GNT",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-05-04",
+      "episode_count": 13,
+      "id": 104954,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-04-07",
+      "episode_count": 13,
+      "id": 104955,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2015-03-02",
+      "episode_count": 13,
+      "id": 104956,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 80094,
+    "imdb_id": "tt2814370",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 271858,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

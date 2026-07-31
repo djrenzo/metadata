@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/sRJo1YEF1b858xuKPd83AHWVjrf.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2017-03-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 71100,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2017-04-28",
+  "last_episode_to_air": {
+    "id": 1314391,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-04-28",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 71100,
+    "still_path": "/amg1NJ6eqDwnP3RtxPYeviaTjBg.jpg"
+  },
+  "name": "In the Name of People",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 952,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan Television",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "人民的名义",
+  "overview": "In the fictional city of Jingzhou, prosecutor Tian Guofu and anti-corruption officer Sha Ruijin investigate high-level corruption, uncovering a complex web of political intrigue and power struggles. As they pursue justice, they face immense challenges, navigating a dangerous landscape where loyalty, ambition, and morality collide.",
+  "popularity": 11.5391,
+  "poster_path": "/v0kZJmHpQTms264js0YHYMLV7Oy.jpg",
+  "production_companies": [
+    {
+      "id": 261185,
+      "logo_path": null,
+      "name": "最高人民检察院影视中心",
+      "origin_country": "CN"
+    },
+    {
+      "id": 130485,
+      "logo_path": null,
+      "name": "Ministry of Public Security Golden Shield Film and Television Culture Center 公安部金盾影视文化中心",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-28",
+      "episode_count": 52,
+      "id": 87100,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/v0kZJmHpQTms264js0YHYMLV7Oy.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.439,
+  "vote_count": 49,
+  "external_ids": {
+    "id": 71100,
+    "imdb_id": "tt6742348",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 327209,
+    "tvrage_id": null,
+    "wikidata_id": "Q29250485",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

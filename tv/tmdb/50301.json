@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2008-09-15",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 50301,
+  "in_production": false,
+  "languages": [
+    "mo"
+  ],
+  "last_air_date": "2009-06-02",
+  "last_episode_to_air": {
+    "id": 1996663,
+    "name": "Episode 175",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-06-02",
+    "episode_number": 175,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 2,
+    "show_id": 50301,
+    "still_path": null
+  },
+  "name": "Îngerașii",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 969,
+      "logo_path": "/p7iv8u65nbOCdS3RlMUnJKDVhUY.png",
+      "name": "Acasă",
+      "origin_country": "RO"
+    }
+  ],
+  "number_of_episodes": 175,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "mo",
+  "original_name": "Îngerașii",
+  "overview": "",
+  "popularity": 18.7017,
+  "poster_path": "/u9yFsQQceWtIcwMbPOHB4yT7TB0.jpg",
+  "production_companies": [
+    {
+      "id": 3244,
+      "logo_path": null,
+      "name": "Media Pro Pictures",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-15",
+      "episode_count": 71,
+      "id": 136579,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/u9yFsQQceWtIcwMbPOHB4yT7TB0.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 104,
+      "id": 136583,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/u9yFsQQceWtIcwMbPOHB4yT7TB0.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Moldavian",
+      "iso_639_1": "mo",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 50301,
+    "imdb_id": "tt1397427",
+    "freebase_mid": "/m/0vthpgd",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

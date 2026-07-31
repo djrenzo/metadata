@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/DFRKXpyk1n5RZFDmgnax3ry7fC.jpg",
+  "created_by": [
+    {
+      "id": 97262,
+      "credit_id": "5ef36035907f2600368672ab",
+      "name": "Jennifer Ventimilia",
+      "original_name": "Jennifer Ventimilia",
+      "gender": 1,
+      "profile_path": "/lHlsgjI3InSlL963SvEvDtbiszs.jpg"
+    },
+    {
+      "id": 97263,
+      "credit_id": "6200806a7fcab300d2b49088",
+      "name": "Joshua Sternin",
+      "original_name": "Joshua Sternin",
+      "gender": 2,
+      "profile_path": "/kxY5W9jizhw9cUwe2k0oaLDr4TM.jpg"
+    },
+    {
+      "id": 1090638,
+      "credit_id": "62dedd7a0d9f5a004fc31591",
+      "name": "David Pressler",
+      "original_name": "David Pressler",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2012-08-04",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 51808,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-03-04",
+  "last_episode_to_air": {
+    "id": 3375004,
+    "name": "Monster Lie",
+    "overview": "Robot and Monster lie to Perry that his homemade cologne smells good, even though it makes them stink.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-03-04",
+    "episode_number": 50,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 1,
+    "show_id": 51808,
+    "still_path": "/lF0BozkdurfzTEP2qLE9870HbIS.jpg"
+  },
+  "name": "Robot and Monster",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 188,
+      "logo_path": "/jQmuRRuydB4XPm6yTv6Src7LPZa.png",
+      "name": "Noggin",
+      "origin_country": "US"
+    },
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    },
+    {
+      "id": 224,
+      "logo_path": "/xlUUkgMevNvnKXcZ5z7F6R2CaGw.png",
+      "name": "Nicktoons",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Robot and Monster",
+  "overview": "It's Robot and Monster, an unlikely duo in society where their different species usually don't get along, but everyone does share one common trait - they all love bacon! This buddy comedy shows that opposites really do attract, hilariously!",
+  "popularity": 10.9921,
+  "poster_path": "/rcckppfyUFVgPIxWtYJjRtjSytI.jpg",
+  "production_companies": [
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 137376,
+      "logo_path": null,
+      "name": "LowBar Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 137377,
+      "logo_path": null,
+      "name": "Smasho! Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-01-10",
+      "episode_count": 3,
+      "id": 497238,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-04",
+      "episode_count": 50,
+      "id": 234066,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xSLaUKZ50kIfPnXXW5SQ7M9ePVn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 51808,
+    "imdb_id": "tt2349440",
+    "freebase_mid": "/m/0kfrr8y",
+    "freebase_id": null,
+    "tvdb_id": 261235,
+    "tvrage_id": null,
+    "wikidata_id": "Q3389299",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

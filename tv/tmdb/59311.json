@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/aOjQbFvW95muZzlfwsSyssgOQcO.jpg",
+  "created_by": [
+    {
+      "id": 3335393,
+      "credit_id": "61ab9abc22e4800041a05d87",
+      "name": "Nacho Viale",
+      "original_name": "Nacho Viale",
+      "gender": 2,
+      "profile_path": "/v5H72g7hX0RAzhiEqv4jMCBLtql.jpg"
+    },
+    {
+      "id": 2167658,
+      "credit_id": "61ab9aafcfe48f001d128f2e",
+      "name": "Martín Kweller",
+      "original_name": "Martín Kweller",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2012-04-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 59311,
+  "in_production": true,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2012-11-28",
+  "last_episode_to_air": {
+    "id": 3475462,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-11-28",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 59311,
+    "still_path": null
+  },
+  "name": "La Dueña",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 96,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "en",
+  "original_name": "La Dueña",
+  "overview": "La Dueña is a 2012 Argentine miniseries. It is a blockbuster starring Mirtha Legrand, who worked on this series after 46 years of retirement from acting in television.",
+  "popularity": 11.6298,
+  "poster_path": "/pEOS7MDxRTLXgZJ9JrzTcZkVODY.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2012-04-18",
+      "episode_count": 32,
+      "id": 234266,
+      "name": "La dueña",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 59311,
+    "imdb_id": null,
+    "freebase_mid": "/m/0n48jhs",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

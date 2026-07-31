@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/qaKnYL4XAHIdUDoxF3ZGyb8FEaw.jpg",
+  "created_by": [
+    {
+      "id": 2406895,
+      "credit_id": "5f9b056ae942ee003dae12c6",
+      "name": "Hozan Akko",
+      "original_name": "Hozan Akko",
+      "gender": 2,
+      "profile_path": "/e0dE7StfCE9WeVPtOOj9gWfKmWU.jpg"
+    },
+    {
+      "id": 1617955,
+      "credit_id": "5fad32c1c2823a0041cd0088",
+      "name": "Said Serhan",
+      "original_name": "Said Serhan",
+      "gender": 2,
+      "profile_path": "/tw5kq4tYDyOMs2iWjMSCBbRgEt3.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2017-05-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "https://shahid.mbc.net/en/series/Al-Hayba/series-236321",
+  "id": 84299,
+  "in_production": false,
+  "languages": [
+    "ar"
+  ],
+  "last_air_date": "2021-11-25",
+  "last_episode_to_air": {
+    "id": 3302929,
+    "name": "Episode 30",
+    "overview": "Sultan’s house is empty and Jabal’s mom announces the start of the battle in Al Hayba. Wadee’ builds his final case against Jabal.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-11-25",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 5,
+    "show_id": 84299,
+    "still_path": "/k9ke81ieTtPwgicuV3p65v00eZQ.jpg"
+  },
+  "name": "Al Hayba",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1887,
+      "logo_path": "/flwsZsMjK3z94qpTL29HzFBdLiE.png",
+      "name": "MBC Drama",
+      "origin_country": "SA"
+    },
+    {
+      "id": 3626,
+      "logo_path": "/fPku7XI2slnF3LDaL5Tmiajjmke.png",
+      "name": "MBC Shahid",
+      "origin_country": "SA"
+    }
+  ],
+  "number_of_episodes": 150,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "AE"
+  ],
+  "original_language": "ar",
+  "original_name": "الهيبة",
+  "overview": "In a village by the Lebanon-Syria border, the head of an arms-smuggling clan contends with family conflicts, power struggles and complicated love.",
+  "popularity": 11.291,
+  "poster_path": "/heUxSI3Ul0L53XuziidcWv9GoQo.jpg",
+  "production_companies": [
+    {
+      "id": 113683,
+      "logo_path": "/uZdNSJsqITbNXQap4fWSxUG3dmE.png",
+      "name": "Cedars Art Production",
+      "origin_country": "LB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "LB",
+      "name": "Lebanon"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-05-27",
+      "episode_count": 30,
+      "id": 113091,
+      "name": "Season 1",
+      "overview": "Jabal, the smuggler and Sheikh of the clan is known for his resolve. Alia, his brother’s widow, enters his life and her love shakes his world.",
+      "poster_path": "/jKNGce7HGp7w5tbfM65DX2DKaXh.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2018-05-17",
+      "episode_count": 30,
+      "id": 117060,
+      "name": "The Return",
+      "overview": "After his father's death, Jabal seeks revenge which involves him in tribal conflicts, he must tie loose ends with his rivals to regain his dignity.",
+      "poster_path": "/kVzfh52N4fpGtSXrN2EBBBn23DV.jpg",
+      "season_number": 2,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2019-05-06",
+      "episode_count": 30,
+      "id": 123488,
+      "name": "The Harvest",
+      "overview": "Amid the conflicts in the life of Jabal Sheikh Al-Jabal and losing trust , he stays in Beirut for a family affair and falls in love with a reporter.",
+      "poster_path": "/9nD3oFKjExcWBsk9gw34wfAg4w1.jpg",
+      "season_number": 3,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2020-10-31",
+      "episode_count": 30,
+      "id": 165932,
+      "name": "The Payback",
+      "overview": "The ambush that has been set for Jabal changes the life of him and his family forever. His reaction will equal his pain.",
+      "poster_path": "/heUxSI3Ul0L53XuziidcWv9GoQo.jpg",
+      "season_number": 4,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2021-10-17",
+      "episode_count": 30,
+      "id": 214500,
+      "name": "Jabal",
+      "overview": "Jabal uncovers a plan to turn the water dam in Al Hayba into an illegal border crossing, setting the scene for a major clash.",
+      "poster_path": "/3QTp0Vu3t3ZfHwMvOOLpCUkJHZN.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.569,
+  "vote_count": 29,
+  "external_ids": {
+    "id": 84299,
+    "imdb_id": "tt7035576",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 329984,
+    "tvrage_id": null,
+    "wikidata_id": "Q60748494",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

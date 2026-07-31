@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2009-03-02",
+  "genres": [],
+  "homepage": "",
+  "id": 27900,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2009-10-05",
+  "last_episode_to_air": {
+    "id": 700329,
+    "name": "Season 2, Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-10-05",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 2,
+    "show_id": 27900,
+    "still_path": null
+  },
+  "name": "RTL Vandaag",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 86,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "en",
+  "original_name": "RTL Vandaag",
+  "overview": "",
+  "popularity": 20.4846,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-03-02",
+      "episode_count": 85,
+      "id": 39055,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-05",
+      "episode_count": 1,
+      "id": 39056,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 27900,
+    "imdb_id": null,
+    "freebase_mid": "/m/07cg_dv",
+    "freebase_id": "/en/rtl_vandaag",
+    "tvdb_id": null,
+    "tvrage_id": 23138,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

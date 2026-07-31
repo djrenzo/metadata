@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/p7A7R4k8Fha8fcvICE6TEDCwKEj.jpg",
+  "created_by": [
+    {
+      "id": 3501983,
+      "credit_id": "64783445cf4b8b0122746da7",
+      "name": "Luis Felipe Salamanca",
+      "original_name": "Luis Felipe Salamanca",
+      "gender": 2,
+      "profile_path": "/dWXVPH1OyLok71nySFSgBIXcWrA.jpg"
+    },
+    {
+      "id": 1175766,
+      "credit_id": "6478344de323f300a7d43536",
+      "name": "Dago García",
+      "original_name": "Dago García",
+      "gender": 2,
+      "profile_path": "/gMU6DvmbGvQOGgrySykcBSwCKE5.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2007-02-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.esmas.com/yoamoajuanquerendon/",
+  "id": 14301,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2008-02-08",
+  "last_episode_to_air": {
+    "id": 4486396,
+    "name": "Episode 260",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-02-08",
+    "episode_number": 260,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 14301,
+    "still_path": null
+  },
+  "name": "Yo amo a Juan Querendón",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 260,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Yo amo a Juan Querendón",
+  "overview": "Yo Amo a Juan Querendón is a Mexican telenovela that aired on Univision at 7pm/6c for one year beginning in February 2007. The plot surrounded the story of Juan Dominguez and his interactions with the Cachon Family. The program was a remake of Pedro El Escamoso, a Colombian telenovela.",
+  "popularity": 10.2882,
+  "poster_path": "/mAzX6wuwJNgP30I4MpcOh9pwJMl.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-02-12",
+      "episode_count": 260,
+      "id": 343309,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/15ilfn3x2cGMjO0Ns31squ1kYOS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 14301,
+    "imdb_id": "tt0970166",
+    "freebase_mid": "/m/02x16ps",
+    "freebase_id": "/en/yo_amo_a_juan_querendon",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q3282792",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

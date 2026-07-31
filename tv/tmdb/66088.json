@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/8TCE4m05nSrJnhAtnK3tfslRgRS.jpg",
+  "created_by": [
+    {
+      "id": 1754020,
+      "credit_id": "64282bf8c044290298ceb298",
+      "name": "Jung Ha-yeon",
+      "original_name": "Jung Ha-yeon",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1382817,
+      "credit_id": "64282c0b960cde0103a49b1d",
+      "name": "Mahinur Ergun",
+      "original_name": "Mahinur Ergun",
+      "gender": 1,
+      "profile_path": "/dGj4FUsi23paCaSZ3kzpgaUHaxq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2016-02-09",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.kanald.com.tr/hayat-sarkisi/",
+  "id": 66088,
+  "in_production": false,
+  "languages": [
+    "es",
+    "tr"
+  ],
+  "last_air_date": "2017-05-23",
+  "last_episode_to_air": {
+    "id": 2509572,
+    "name": "Episode 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-05-23",
+    "episode_number": 36,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 2,
+    "show_id": 66088,
+    "still_path": "/lmk1fzz9Kqv3vNAiyHoyhZNcZQ9.jpg"
+  },
+  "name": "Hayat Şarkısı",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 57,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Hayat Şarkısı",
+  "overview": "Melek and Kerim are betrothed at a young age by their fathers. Time passes and Kerim's family gets rich. Meanwhile Melek's family continues to struggle in life. Hülya, Melek's sister, is determined to run away from her poor life. She will do what it takes to get herself accepted into Kerim's family.",
+  "popularity": 14.5932,
+  "poster_path": "/tKnTX6OLF5NTtlz5OcA8Qzsu472.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-02-09",
+      "episode_count": 21,
+      "id": 75952,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7ZThnFEnuGiTEoQPIXgHDODwnPE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-20",
+      "episode_count": 36,
+      "id": 168799,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7ZThnFEnuGiTEoQPIXgHDODwnPE.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Hayat Sarkisi",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 66088,
+    "imdb_id": "tt5302120",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 308731,
+    "tvrage_id": null,
+    "wikidata_id": "Q23662558",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

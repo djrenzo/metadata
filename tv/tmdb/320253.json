@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1998-04-08",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 320253,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "1998-04-08",
+  "last_episode_to_air": {
+    "id": 7178362,
+    "name": "Episode 897",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-19",
+    "episode_number": 897,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 320253,
+    "still_path": null
+  },
+  "name": "Sternstunde Philosophie",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 571,
+      "logo_path": "/txYJaM2VKunNRk3JooH1mnsVSOg.png",
+      "name": "SRF 1",
+      "origin_country": "CH"
+    },
+    {
+      "id": 1132,
+      "logo_path": "/bwqI45tuLt3qygttnZUz4Imh1dC.png",
+      "name": "3sat",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 1,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_name": "Sternstunde Philosophie",
+  "overview": "",
+  "popularity": 8.3488,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-04-08",
+      "episode_count": 897,
+      "id": 512051,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 320253,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

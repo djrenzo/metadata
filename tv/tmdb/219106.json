@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "2023-01-23",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 219106,
+  "in_production": true,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2025-07-18",
+  "last_episode_to_air": {
+    "id": 6539279,
+    "name": "Klea Pineda",
+    "overview": "Kapuso actress Klea Pineda sits down with Boy Abunda to talk about her personal life and career",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-07-18",
+    "episode_number": 642,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 19,
+    "season_number": 3,
+    "show_id": 219106,
+    "still_path": "/gxnJAuMbMXO0gRMVQaZSHUws0hm.jpg"
+  },
+  "name": "Fast Talk with Boy Abunda",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 395,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Fast Talk with Boy Abunda",
+  "overview": "The latest multi-platform showbiz news and talk show, where the hottest issues in Philippine showbiz will be revealed one by one, as well as amazing hot seat interviews with celebrities including the so-called King of Talk.",
+  "popularity": 9.9008,
+  "poster_path": "/rKb7xx3IBKiAFBIfEwEgDmB0B7a.jpg",
+  "production_companies": [
+    {
+      "id": 136033,
+      "logo_path": "/xScMx3yhjr5OENl6raSP2xwiu0k.png",
+      "name": "GMA Entertainment Group",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-23",
+      "episode_count": 393,
+      "id": 326155,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/g7iUpulhfnWn6AJVW3RVD4JLsPV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 475892,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rKb7xx3IBKiAFBIfEwEgDmB0B7a.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 475891,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/rKb7xx3IBKiAFBIfEwEgDmB0B7a.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 219106,
+    "imdb_id": "tt26440417",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q116692745",
+    "facebook_id": "FastTalkGMA",
+    "instagram_id": null,
+    "twitter_id": "FastTalkGMA"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/qtFfhpELr39jLEUIsKlScbEFJFm.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    25
+  ],
+  "first_air_date": "1995-04-19",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 35594,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "1996-01-03",
+  "last_episode_to_air": {
+    "id": 1511688,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-01-29",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 35594,
+    "still_path": null
+  },
+  "name": "Nováci",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 124,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Nováci",
+  "overview": "The misadventures of the Nováci family.",
+  "popularity": 12.1477,
+  "poster_path": "/9KXAnFYqH3NCj72bZAIQarSLxUt.jpg",
+  "production_companies": [
+    {
+      "id": 6376,
+      "logo_path": null,
+      "name": "ČNTS – TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-04-19",
+      "episode_count": 72,
+      "id": 105593,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 52,
+      "id": 105594,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 35594,
+    "imdb_id": "tt0318235",
+    "freebase_mid": "/m/0gfjsjh",
+    "freebase_id": null,
+    "tvdb_id": 316565,
+    "tvrage_id": 16545,
+    "wikidata_id": "Q7065159",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

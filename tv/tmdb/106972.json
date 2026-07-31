@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/7Iu69THqdJ4CKJo9JpZsCbtvIq9.jpg",
+  "created_by": [
+    {
+      "id": 2713729,
+      "credit_id": "5f35efc0c4f55200320ab4ba",
+      "name": "Sergio Bravo",
+      "original_name": "Sergio Bravo",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40,
+    80,
+    113,
+    45,
+    50
+  ],
+  "first_air_date": "2000-03-06",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tvn.cl/teleseries/romane/",
+  "id": 106972,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2000-08-15",
+  "last_episode_to_air": {
+    "id": 2388790,
+    "name": "Episode 115",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-08-15",
+    "episode_number": 115,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 106972,
+    "still_path": "/voSmci8BqSLSYl8MCrtByrpZ3vh.jpg"
+  },
+  "name": "Romané",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 115,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Romané",
+  "overview": "A caravan of gypsies arrives in Mejillones, Chile, to celebrate the marriage of their patriarch, without imagining that the unexpected arrival of his daughter after two decades, will revive a stormy past.",
+  "popularity": 17.6625,
+  "poster_path": "/hX8l4RBqTp97mOSUQe0dkWVIUSM.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-03-06",
+      "episode_count": 115,
+      "id": 158147,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 106972,
+    "imdb_id": "tt0242231",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6111439",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

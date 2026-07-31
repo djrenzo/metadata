@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/soX9OtOT6C2yA4Kq2MwiN08Yxaj.jpg",
+  "created_by": [
+    {
+      "id": 1244781,
+      "credit_id": "67def9d830e65e7beec6f57b",
+      "name": "Walcyr Carrasco",
+      "original_name": "Walcyr Carrasco",
+      "gender": 2,
+      "profile_path": "/jHccyieekvEgdubgoavpvbkURJN.jpg"
+    },
+    {
+      "id": 5321751,
+      "credit_id": "67e00143978bda8ae24da2e1",
+      "name": "Guga de Oliveira",
+      "original_name": "Guga de Oliveira",
+      "gender": 2,
+      "profile_path": "/8MmdfQfFTMYLcbThmU6umHjadMe.jpg"
+    },
+    {
+      "id": 1326703,
+      "credit_id": "69fbeeebe95d145b6c59f8c2",
+      "name": "Bráulio Pedroso",
+      "original_name": "Bráulio Pedroso",
+      "gender": 2,
+      "profile_path": "/eJBUiqVCRkzVqfKlenJxQZIQ1jB.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1989-10-23",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 286059,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1990-05-05",
+  "last_episode_to_air": {
+    "id": 6145249,
+    "name": "Episode 168",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1990-05-05",
+    "episode_number": 168,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 286059,
+    "still_path": null
+  },
+  "name": "Cortina de Vidro",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 128,
+      "logo_path": "/jQ6pbmLCO2mheofZJPPByy7Wozq.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 168,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Cortina de Vidro",
+  "overview": "",
+  "popularity": 10.9742,
+  "poster_path": "/8nA8em59parBZepGSj2wxCRnPTV.jpg",
+  "production_companies": [
+    {
+      "id": 257217,
+      "logo_path": null,
+      "name": "Miksom",
+      "origin_country": ""
+    },
+    {
+      "id": 40992,
+      "logo_path": "/72MOBef2ZwKXLS6sI5XPKMz6Pu1.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1989-10-23",
+      "episode_count": 168,
+      "id": 445664,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/obpb5EUnVKzi8YBlru6wErEhhcA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 286059,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

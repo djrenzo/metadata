@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/dWblWJ1lIpeUlKwNX8sRgzlS4ey.jpg",
+  "created_by": [
+    {
+      "id": 2007871,
+      "credit_id": "617bf0450d5d850065f932bd",
+      "name": "Philippe Poirier",
+      "original_name": "Philippe Poirier",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2007872,
+      "credit_id": "617bf0523f7e1d002c3dfd3f",
+      "name": "Patrick Regnard",
+      "original_name": "Patrick Regnard",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    6
+  ],
+  "first_air_date": "2006-01-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-5/grabouillon/",
+  "id": 91955,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2006-01-01",
+  "last_episode_to_air": {
+    "id": 1875733,
+    "name": "Fresh Paint",
+    "overview": "Petunia, Loopdidoo and Oodles paint their clubhouse.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 6,
+    "season_number": 1,
+    "show_id": 91955,
+    "still_path": null
+  },
+  "name": "Loopdidoo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 255,
+      "logo_path": "/8xK6AdNT6PfRyygRvb2MKCoqrv2.png",
+      "name": "France 5",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 147,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Grabouillon",
+  "overview": "LOOPDIDOO tells the adventures of an eager pup and his 5-year-old human, Petunia. Each day is a new slate for these two best pals, typically bringing much mischief along with fun times together. Sometimes they're joined by Loopdidoo's feline nemesis, Oodles, who keeps the doggy on his toes with his antics.",
+  "popularity": 9.6009,
+  "poster_path": "/vZsnkM8lSmgHJmlPGwbF8RVyCa6.jpg",
+  "production_companies": [
+    {
+      "id": 42171,
+      "logo_path": "/yTvfCUChMCmeEbjWNyIFGwgiXQE.png",
+      "name": "Blue Spirit",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 435365,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 52,
+      "id": 129081,
+      "name": "Loopdidoo (Season 1)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 52,
+      "id": 217560,
+      "name": "Loopdidoo (Season 2)",
+      "overview": "",
+      "poster_path": "/o6VyT5L3J2Qdk6RUip3hV6GKYmC.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 217561,
+      "name": "Loopdidoo's Holidays (Part 1)",
+      "overview": "",
+      "poster_path": "/a51SEE3yizH4H3M6mNy2VwLqc1g.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 18,
+      "id": 217562,
+      "name": "Loopdidoo's Holidays (Part 2)",
+      "overview": "",
+      "poster_path": "/2IoliALVNkimF2TBfOUE3NBBGNp.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 25,
+      "id": 217563,
+      "name": "No School for Loopdidoo",
+      "overview": "",
+      "poster_path": "/fxjVU65u9RGrWH4756cixvytWjr.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Meet the goofiest dog on the planet!",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 91955,
+    "imdb_id": "tt0892184",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 207781,
+    "tvrage_id": null,
+    "wikidata_id": "Q3112957",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

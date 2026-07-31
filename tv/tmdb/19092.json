@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/pX0YNhgplZW4zCcA4jDVrr2wBiM.jpg",
+  "created_by": [
+    {
+      "id": 3893,
+      "credit_id": "5258598d760ee346610de935",
+      "name": "David S. Goyer",
+      "original_name": "David S. Goyer",
+      "gender": 2,
+      "profile_path": "/gf44Hr3HJuWK7ZMHQKzDNBe0ylI.jpg"
+    },
+    {
+      "id": 2386,
+      "credit_id": "5258598d760ee346610de93b",
+      "name": "Brannon Braga",
+      "original_name": "Brannon Braga",
+      "gender": 2,
+      "profile_path": "/e2lvaxWUG5dcbl36BEi4po6M0YB.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2009-09-24",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/flashforward",
+  "id": 19092,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-05-27",
+  "last_episode_to_air": {
+    "id": 570430,
+    "name": "Future Shock",
+    "overview": "The day of the prophesized flashforwad date arrives as everyone waits to see if their predictions take place. Mark uncovers the date of the next blackout, and Simon, with Demetri, attempts to stop it from happening by breaking into the NLAP mainframe.",
+    "vote_average": 9,
+    "vote_count": 10,
+    "air_date": "2010-05-27",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 19092,
+    "still_path": "/pBLxm4cncoRIp6BJcqMuvOhIsDf.jpg"
+  },
+  "name": "FlashForward",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "FlashForward",
+  "overview": "When the entire world blacks out for two minutes and seventeen seconds, everyone sees a flash of their own future 6 months from the present. For some, the future is hopeful, while for others, it is unexpected. For a few, it doesn't seem to exist. Knowing their fate will alter each person's life, destinies will be changed.",
+  "popularity": 11.5394,
+  "poster_path": "/7iu2HJ8ZSNbBgFLi42JNcuPjBax.jpg",
+  "production_companies": [
+    {
+      "id": 423,
+      "logo_path": "/uvA6e2O31qaonsbYd8tjvgqmNXh.png",
+      "name": "Phantom Four",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 39,
+      "id": 29512,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 22,
+      "id": 29511,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kwoavHvK5tBWYi9O9fJ7lwaGYyh.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Everyone in the world will get a flash of their own future.",
+  "type": "Scripted",
+  "vote_average": 7.023,
+  "vote_count": 546,
+  "external_ids": {
+    "id": 19092,
+    "imdb_id": "tt1441135",
+    "freebase_mid": "/m/05b3j4q",
+    "freebase_id": null,
+    "tvdb_id": 84024,
+    "tvrage_id": null,
+    "wikidata_id": "Q476857",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

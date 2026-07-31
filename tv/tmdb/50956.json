@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": "/bW8pgBPzIw6jn9D7ZcO1aCC9oEz.jpg",
+  "created_by": [
+    {
+      "id": 1259869,
+      "credit_id": "52597fce760ee34661a93a7f",
+      "name": "Roni Idor",
+      "original_name": "Roni Idor",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1259871,
+      "credit_id": "52597fd0760ee34661a93a91",
+      "name": "Etsion Nimrod",
+      "original_name": "Etsion Nimrod",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1259872,
+      "credit_id": "52597fd2760ee34661a93a9a",
+      "name": "Dror Nobleman",
+      "original_name": "Dror Nobleman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1259870,
+      "credit_id": "52597fd0760ee34661a93a88",
+      "name": "Limor Nachmias",
+      "original_name": "Limor Nachmias",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 68051,
+      "credit_id": "52597fd3760ee34661a93ab1",
+      "name": "Gal Zaid",
+      "original_name": "Gal Zaid",
+      "gender": 2,
+      "profile_path": "/xmLQanfxuzkQ7H2srzoZYOMKFGl.jpg"
+    },
+    {
+      "id": 1259873,
+      "credit_id": "52597fd3760ee34661a93aa3",
+      "name": "Lachmi Saar",
+      "original_name": "Lachmi Saar",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2006-04-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.dorimediadistribution.com/product/325800",
+  "id": 50956,
+  "in_production": false,
+  "languages": [
+    "he"
+  ],
+  "last_air_date": "2009-12-23",
+  "last_episode_to_air": {
+    "id": 1592930,
+    "name": "Episode 70",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-12-23",
+    "episode_number": 70,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 3,
+    "show_id": 50956,
+    "still_path": null
+  },
+  "name": "HaAlufa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 363,
+      "logo_path": "/rh4989ODELTUDYaGL5lfeuPeDk0.png",
+      "name": "HOT3",
+      "origin_country": "IL"
+    }
+  ],
+  "number_of_episodes": 288,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IE",
+    "IL"
+  ],
+  "original_language": "he",
+  "original_name": "האלופה",
+  "overview": "",
+  "popularity": 11.6326,
+  "poster_path": "/j8cXlENdmsDnbu9v0JpFhf7YxTm.jpg",
+  "production_companies": [
+    {
+      "id": 92920,
+      "logo_path": null,
+      "name": "Dori Media Darset",
+      "origin_country": "IL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-04-02",
+      "episode_count": 119,
+      "id": 110721,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-25",
+      "episode_count": 99,
+      "id": 110722,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-13",
+      "episode_count": 70,
+      "id": 110723,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 50956,
+    "imdb_id": "tt0807979",
+    "freebase_mid": "/m/0vsy8b2",
+    "freebase_id": null,
+    "tvdb_id": 253767,
+    "tvrage_id": null,
+    "wikidata_id": "Q12406368",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

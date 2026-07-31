@@ -1,0 +1,681 @@
+{
+  "adult": false,
+  "backdrop_path": "/2pRmH3le9BwulALJhFFCYjmBj8s.jpg",
+  "created_by": [
+    {
+      "id": 1991834,
+      "credit_id": "5a9ef9a1c3a3680a2000475a",
+      "name": "Gustavo Lorca",
+      "original_name": "Gustavo Lorca",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1991835,
+      "credit_id": "5a9ef9af0e0a2641d7005351",
+      "name": "Carlos Ansaldo",
+      "original_name": "Carlos Ansaldo",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    300,
+    360
+  ],
+  "first_air_date": "1963-02-14",
+  "genres": [],
+  "homepage": "https://www.festivaldevinachile.cl",
+  "id": 77728,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-03-01",
+  "last_episode_to_air": {
+    "id": 6017667,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-03-01",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 315,
+    "season_number": 56,
+    "show_id": 77728,
+    "still_path": null
+  },
+  "name": "Viña del Mar International Song Festival",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    },
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    },
+    {
+      "id": 531,
+      "logo_path": "/kFWoj3vcB9l91Hz9hWtTwDBcB27.png",
+      "name": "UCV Televisión",
+      "origin_country": "CL"
+    },
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    },
+    {
+      "id": 805,
+      "logo_path": "/nZAblk9dd36BmwuPoK61Tb2xHTQ.png",
+      "name": "Chilevisión",
+      "origin_country": "CL"
+    },
+    {
+      "id": 1530,
+      "logo_path": "/nLB04d4R5UrlH3AsYDRAcgAbtq7.png",
+      "name": "TNT Latin America",
+      "origin_country": ""
+    },
+    {
+      "id": 1651,
+      "logo_path": "/mGIwo5uKaPMK4sRNwSwRl9nmRtd.png",
+      "name": "Fox Latin America",
+      "origin_country": ""
+    },
+    {
+      "id": 2739,
+      "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+      "name": "Disney+",
+      "origin_country": ""
+    },
+    {
+      "id": 4697,
+      "logo_path": "/s8kZw4nGzlGPiL8qghKWQhGIjq4.png",
+      "name": "Star+",
+      "origin_country": ""
+    },
+    {
+      "id": 5200,
+      "logo_path": "/wJ8VxBhbIkwvg7yCpgvuhyKf3ka.png",
+      "name": "Canal 9",
+      "origin_country": "CL"
+    },
+    {
+      "id": 5201,
+      "logo_path": "/fLvIov11xLjV93nK92D9NQ33l7B.png",
+      "name": "Fox Life",
+      "origin_country": ""
+    },
+    {
+      "id": 5202,
+      "logo_path": "/aVfrlEES7jHriJ97MV5yheNkRsQ.png",
+      "name": "A&E",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 257,
+  "number_of_seasons": 48,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Festival Internacional de la Canción de Viña del Mar",
+  "overview": "A yearly musical contest organized by the municipality of Viña del Mar, Chile which takes place during the last week of February at the Quinta Vergara Amphitheater since February 21, 1960.",
+  "popularity": 10.3034,
+  "poster_path": "/u5muV6ulY272YIdHSUGDnBb2FtF.jpg",
+  "production_companies": [
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    },
+    {
+      "id": 99317,
+      "logo_path": "/4CcGDD59ApqUwbN6mT6US30aJTr.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    },
+    {
+      "id": 75686,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    },
+    {
+      "id": 154651,
+      "logo_path": "/nZAblk9dd36BmwuPoK61Tb2xHTQ.png",
+      "name": "Chilevisión",
+      "origin_country": "CL"
+    },
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1963-02-14",
+      "episode_count": 1,
+      "id": 100392,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-15",
+      "episode_count": 1,
+      "id": 141529,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-02-12",
+      "episode_count": 1,
+      "id": 190586,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-02-02",
+      "episode_count": 1,
+      "id": 190588,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-02-07",
+      "episode_count": 1,
+      "id": 190590,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-02-12",
+      "episode_count": 1,
+      "id": 190591,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-02-03",
+      "episode_count": 6,
+      "id": 141530,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-02-01",
+      "episode_count": 6,
+      "id": 141531,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-31",
+      "episode_count": 6,
+      "id": 141533,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-02-06",
+      "episode_count": 6,
+      "id": 141534,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-02-05",
+      "episode_count": 6,
+      "id": 141535,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-02-18",
+      "episode_count": 6,
+      "id": 190592,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-02-17",
+      "episode_count": 6,
+      "id": 190593,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-02-09",
+      "episode_count": 6,
+      "id": 190595,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-02-08",
+      "episode_count": 6,
+      "id": 190596,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-02-13",
+      "episode_count": 6,
+      "id": 190600,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-02-05",
+      "episode_count": 6,
+      "id": 190601,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-11",
+      "episode_count": 6,
+      "id": 190602,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-02-17",
+      "episode_count": 6,
+      "id": 190603,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-02-17",
+      "episode_count": 6,
+      "id": 190604,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-02-21",
+      "episode_count": 6,
+      "id": 190605,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-02-05",
+      "episode_count": 6,
+      "id": 190607,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-02-12",
+      "episode_count": 6,
+      "id": 190608,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-02-09",
+      "episode_count": 6,
+      "id": 141536,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-02-15",
+      "episode_count": 6,
+      "id": 141537,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-02-07",
+      "episode_count": 6,
+      "id": 144006,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-02-13",
+      "episode_count": 6,
+      "id": 144007,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-02-18",
+      "episode_count": 6,
+      "id": 144008,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-10",
+      "episode_count": 6,
+      "id": 144009,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-02-09",
+      "episode_count": 6,
+      "id": 144010,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-15",
+      "episode_count": 6,
+      "id": 144011,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-02-20",
+      "episode_count": 6,
+      "id": 144012,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-20",
+      "episode_count": 6,
+      "id": 144033,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-20",
+      "episode_count": 6,
+      "id": 144034,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-22",
+      "episode_count": 6,
+      "id": 144031,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-21",
+      "episode_count": 5,
+      "id": 144032,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-20",
+      "episode_count": 6,
+      "id": 144025,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-21",
+      "episode_count": 6,
+      "id": 144026,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-23",
+      "episode_count": 6,
+      "id": 144027,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-22",
+      "episode_count": 6,
+      "id": 144016,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/w5Eotfy7Pz4oWzJ1WKAPdUImMDD.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-21",
+      "episode_count": 6,
+      "id": 144017,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-21",
+      "episode_count": 6,
+      "id": 144018,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-19",
+      "episode_count": 6,
+      "id": 144019,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/lnc7O2XJYNd9i3rp6WSa6LSZpsX.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-19",
+      "episode_count": 6,
+      "id": 144020,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-23",
+      "episode_count": 6,
+      "id": 144015,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-22",
+      "episode_count": 6,
+      "id": 144014,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-19",
+      "episode_count": 6,
+      "id": 314553,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-23",
+      "episode_count": 6,
+      "id": 444726,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/u5muV6ulY272YIdHSUGDnBb2FtF.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 77728,
+    "imdb_id": "tt2062574",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "elfestivaldevina",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

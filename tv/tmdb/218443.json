@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/gT4NjehbQFEiKnNOlDEqNEWa8TW.jpg",
+  "created_by": [
+    {
+      "id": 1889131,
+      "credit_id": "63c569f2a6725400c1020991",
+      "name": "Maria João Mira",
+      "original_name": "Maria João Mira",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3566387,
+      "credit_id": "63c56a06988afd00c4c71062",
+      "name": "Diogo Horta",
+      "original_name": "Diogo Horta",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2007-03-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/programa/ilha-dos-amores/53c6b3943004dc006243d1ff/sinopse",
+  "id": 218443,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2007-12-09",
+  "last_episode_to_air": {
+    "id": 4654742,
+    "name": "Episode 214",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-12-09",
+    "episode_number": 214,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 218443,
+    "still_path": null
+  },
+  "name": "Ilha dos Amores",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 214,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Ilha dos Amores",
+  "overview": "",
+  "popularity": 9.7031,
+  "poster_path": "/um9lP4irDeFCMlipKoVqZFmNF8m.jpg",
+  "production_companies": [
+    {
+      "id": 170797,
+      "logo_path": null,
+      "name": "Fealmar",
+      "origin_country": ""
+    },
+    {
+      "id": 170798,
+      "logo_path": null,
+      "name": "NBP",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-03-26",
+      "episode_count": 214,
+      "id": 324641,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ppc6KeIyQHt0xJ4cx7Vzlw3SJvS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 218443,
+    "imdb_id": "tt0951898",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 357310,
+    "tvrage_id": null,
+    "wikidata_id": "Q18363125",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "adult": false,
+  "backdrop_path": "/aRSD2ejbNqmAamcAtafflXbU2ih.jpg",
+  "created_by": [
+    {
+      "id": 1215602,
+      "credit_id": "54a984969251414d5d004db8",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55,
+    25
+  ],
+  "first_air_date": "2014-01-06",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.utopiatv.nl/",
+  "id": 61806,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2016-10-01",
+  "last_episode_to_air": {
+    "id": 1218985,
+    "name": "Episode 693",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-10-01",
+    "episode_number": 174,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 61806,
+    "still_path": null
+  },
+  "name": "Utopia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1034,
+      "logo_path": "/6la8Z1gCxiZlLVIFe3l4Jv8c2Uu.png",
+      "name": "SBS6",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Utopia",
+  "overview": "",
+  "popularity": 11.3872,
+  "poster_path": "/u2Jq02W659PauuH9W0Dp9Z7ssb.jpg",
+  "production_companies": [
+    {
+      "id": 37873,
+      "logo_path": "/kejyjdzZg04SMRkRT6w8piOmXOd.png",
+      "name": "Talpa Media",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-01-06",
+      "episode_count": 258,
+      "id": 64279,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 27,
+      "id": 64636,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 3,
+      "id": 75057,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 105169,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 523250,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 523251,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 3.3,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 61806,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 277036,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

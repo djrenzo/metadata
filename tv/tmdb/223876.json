@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/tAIfga2OoZE2qNUCu7JOzbupCD3.jpg",
+  "created_by": [
+    {
+      "id": 134810,
+      "credit_id": "6436ad84946318009a2e3e04",
+      "name": "Guillaume Lemans",
+      "original_name": "Guillaume Lemans",
+      "gender": 2,
+      "profile_path": "/oSxlaRJrXy4tcsvHl2XnPZlw36u.jpg"
+    },
+    {
+      "id": 232981,
+      "credit_id": "6436ad8f945d3601258aa17a",
+      "name": "Xabi Molia",
+      "original_name": "Xabi Molia",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-09-29",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 223876,
+  "in_production": true,
+  "languages": [
+    "fr",
+    "de"
+  ],
+  "last_air_date": "2025-11-10",
+  "last_episode_to_air": {
+    "id": 6520677,
+    "name": "Episode 8",
+    "overview": "Irène's investigation has become too dangerous and must be stopped. Held prisoner by the Germans, Gabriel and Djibouti receive help. The Sentinels will have to face the Übermensch, their most formidable enemy...",
+    "vote_average": 7.5,
+    "vote_count": 4,
+    "air_date": "2025-11-10",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 223876,
+    "still_path": "/g5ABud1JAcaqz3WQztK5ofL7Hqg.jpg"
+  },
+  "name": "The Sentinels",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 285,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Sentinelles",
+  "overview": "1915, WWI. French Private Gabriel is presumed dead. Selected for a top-secret program, he’s given a serum that makes him stronger and faster. To see his family again, he must join the Sentinels, elite soldiers on a mission to end the war.",
+  "popularity": 12.681,
+  "poster_path": "/sPSAHmFFgF9rDZG7xnajlSKeRtZ.jpg",
+  "production_companies": [
+    {
+      "id": 134965,
+      "logo_path": null,
+      "name": "Esprits Frappeurs",
+      "origin_country": "FR"
+    },
+    {
+      "id": 198278,
+      "logo_path": "/qythZiV7eBrkZtakeiNDU1UedX8.png",
+      "name": "Federation Studios",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-29",
+      "episode_count": 8,
+      "id": 335768,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lrH7mfuHH9JdMbjIhoBP8GCV8Wz.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "A different kind of war. A new breed of soldier.",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 32,
+  "external_ids": {
+    "id": 223876,
+    "imdb_id": "tt10094546",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 453223,
+    "tvrage_id": null,
+    "wikidata_id": "Q121816867",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

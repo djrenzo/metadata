@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2002-01-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 130174,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2002-03-05",
+  "last_episode_to_air": {
+    "id": 3102000,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-03-05",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 130174,
+    "still_path": null
+  },
+  "name": "Sex and Zen",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 10,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_name": "偷情宝鉴",
+  "overview": "",
+  "popularity": 11.266,
+  "poster_path": "/tjA4tpmtO2IKdqrwAkhzOSixppS.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 10,
+      "id": 204136,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 204300,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 204301,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 1,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 130174,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

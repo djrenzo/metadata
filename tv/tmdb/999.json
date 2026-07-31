@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": "/9GbnI3EzZLGkKYbI1dw27vLBJks.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2004-01-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.bestweekever.tv/",
+  "id": 999,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-03-08",
+  "last_episode_to_air": {
+    "id": 52980,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-03-08",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 7,
+    "show_id": 999,
+    "still_path": null
+  },
+  "name": "Best Week Ever",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    },
+    {
+      "id": 664,
+      "logo_path": "/nXv4IJqVHwFcAnDyJMv4P8UbrwS.png",
+      "name": "VH1 Classic",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Best Week Ever",
+  "overview": "Best Week Ever is a weekly television program on the United States cable/satellite network VH1. It started airing in 2004 and was put on hiatus in the summer of 2009. In January 2010, it was announced that the show was cancelled. On August 3, 2012, VH1 announced the return of Best Week Ever. New weekly episodes began January 18, 2013.\n\nOn the show, comedians analyze the previous week's developments in pop culture, including recent happenings in entertainment and celebrity gossip.\n\nThe show's tagline is, \"It's everything you love, everything you missed, and all the stuff you need to see again.\"",
+  "popularity": 11.2472,
+  "poster_path": "/jSdiH87vkxM0aXTvkaOOvtIHYCg.jpg",
+  "production_companies": [
+    {
+      "id": 10692,
+      "logo_path": "/qFS7NEIS3fiBW1wi6VMAcwAsFCX.png",
+      "name": "VH1",
+      "origin_country": "US"
+    },
+    {
+      "id": 17627,
+      "logo_path": null,
+      "name": "VH1 Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-01-23",
+      "episode_count": 33,
+      "id": 2859,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-17",
+      "episode_count": 13,
+      "id": 2862,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-21",
+      "episode_count": 15,
+      "id": 2863,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-13",
+      "episode_count": 26,
+      "id": 2861,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-15",
+      "episode_count": 30,
+      "id": 2860,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 2864,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-18",
+      "episode_count": 7,
+      "id": 2865,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 999,
+    "imdb_id": "tt0405520",
+    "freebase_mid": "/m/03nn11",
+    "freebase_id": "/en/best_week_ever",
+    "tvdb_id": 73846,
+    "tvrage_id": 2767,
+    "wikidata_id": "Q4896832",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

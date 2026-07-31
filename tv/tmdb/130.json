@@ -1,0 +1,185 @@
+{
+  "adult": false,
+  "backdrop_path": "/5GMQBGCiDUOKAsJeldusezidedt.jpg",
+  "created_by": [
+    {
+      "id": 946417,
+      "credit_id": "52533d1f19c295794007b800",
+      "name": "Arlene Klasky",
+      "original_name": "Arlene Klasky",
+      "gender": 1,
+      "profile_path": "/ao1l6vGslT9FVDcPaFMFTw1rYsi.jpg"
+    },
+    {
+      "id": 36697,
+      "credit_id": "52533d2019c295794007b922",
+      "name": "Gábor Csupó",
+      "original_name": "Gábor Csupó",
+      "gender": 2,
+      "profile_path": "/h78onamy0s7rDWtlbarRVGZqWF.jpg"
+    },
+    {
+      "id": 166408,
+      "credit_id": "52533d2119c295794007b92a",
+      "name": "Paul Germain",
+      "original_name": "Paul Germain",
+      "gender": 2,
+      "profile_path": "/scyHxr0dnUXi8IUQ6KPuw63HiWd.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2003-04-12",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.nick.com/shows/all-grown-up",
+  "id": 130,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2008-08-17",
+  "last_episode_to_air": {
+    "id": 2816102,
+    "name": "Golden Boy",
+    "overview": "In the series finale, When Tommy forgoes going to the traditional opening day ball game outing with his Grandpa in order to patch things up with his former girlfriend Rachel, Lou takes Dil instead. This makes Tommy jealous as he and Dil compete to be Lou's favorite grandson during a fishing trip.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-08-17",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 5,
+    "show_id": 130,
+    "still_path": "/ofKbDVwBBeyrooeWpQC4zk8crQh.jpg"
+  },
+  "name": "All Grown Up!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "All Grown Up!",
+  "overview": "The former \"Rugrats\" tots now face preteen issues and dilemmas.",
+  "popularity": 10.6436,
+  "poster_path": "/e950CuuRk3MdRytXJ9cE905QrLS.jpg",
+  "production_companies": [
+    {
+      "id": 59150,
+      "logo_path": "/r5SBUNdHCnrDUbZ7hA1SFOOKpGB.png",
+      "name": "Klasky-Csupo",
+      "origin_country": "US"
+    },
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-04-12",
+      "episode_count": 12,
+      "id": 392,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eM71VnfQpHcN35HqhbJzA6GqnZs.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2004-06-04",
+      "episode_count": 12,
+      "id": 393,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/5Z3jI6DHmH32pQbNp9MfQyWzUlr.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2005-02-12",
+      "episode_count": 9,
+      "id": 394,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/oiLkzE0I25rkeLYoadIffTIPVXp.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2005-10-10",
+      "episode_count": 9,
+      "id": 395,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/xUJZ5CEmXfcXHxzIZHpNEPvvKyg.jpg",
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2007-11-21",
+      "episode_count": 10,
+      "id": 396,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/AkMrJYbCl8aVqchgWfk3J6plgQp.jpg",
+      "season_number": 5,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 210,
+  "external_ids": {
+    "id": 130,
+    "imdb_id": "tt0387714",
+    "freebase_mid": "/m/01xdq8",
+    "freebase_id": "/en/all_grown_up",
+    "tvdb_id": 71148,
+    "tvrage_id": null,
+    "wikidata_id": "Q971920",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

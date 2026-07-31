@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/l0h78qv8IgupnZy1EkUhJ53KmaJ.jpg",
+  "created_by": [
+    {
+      "id": 2105102,
+      "credit_id": "638f25b6ba131b00c17f60dc",
+      "name": "Fethi Kantarcı",
+      "original_name": "Fethi Kantarcı",
+      "gender": 2,
+      "profile_path": "/rL3vkewuAWSC3TQXRlWFUiQB3Bf.jpg"
+    },
+    {
+      "id": 2705288,
+      "credit_id": "638f25c304733f00c59e3bd6",
+      "name": "Saygın Delibaş",
+      "original_name": "Saygın Delibaş",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2006-06-19",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 214440,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2008-06-09",
+  "last_episode_to_air": {
+    "id": 4390637,
+    "name": "Episode 41",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-06-09",
+    "episode_number": 41,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 214440,
+    "still_path": null
+  },
+  "name": "İki Aile",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 93,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "İki Aile",
+  "overview": "",
+  "popularity": 11.3777,
+  "poster_path": "/rbSO9JmPLQ87FqkVkwVv54Mhppu.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2006-06-19",
+      "episode_count": 52,
+      "id": 316351,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-03",
+      "episode_count": 41,
+      "id": 319089,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 214440,
+    "imdb_id": "tt0834023",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 316273,
+    "tvrage_id": null,
+    "wikidata_id": "Q6454716",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

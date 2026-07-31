@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/AfhDPw3x2WfMTfszcAVhngRWlA2.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-12-13",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81553471",
+  "id": 236450,
+  "in_production": true,
+  "languages": [
+    "pl",
+    "es"
+  ],
+  "last_air_date": "2025-09-17",
+  "last_episode_to_air": {
+    "id": 6448189,
+    "name": "The Harvest Festival",
+    "overview": "Jan Paweł uses the festivities of the harvest to enter the race for community leader, but his aspirations are overshadowed by an unforeseen opponent.",
+    "vote_average": 8,
+    "vote_count": 6,
+    "air_date": "2025-09-17",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 2,
+    "show_id": 236450,
+    "still_path": "/1lP90zH6EtLaz1JYIWe23gZSdLg.jpg"
+  },
+  "name": "1670",
+  "next_episode_to_air": {
+    "id": 7391350,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-05",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 236450,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 17,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "1670",
+  "overview": "A zany nobleman contends with family feuds and clashes with peasants in his quest to become the most famous person in Poland.",
+  "popularity": 12.2828,
+  "poster_path": "/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg",
+  "production_companies": [
+    {
+      "id": 10826,
+      "logo_path": "/nnXr9tDsIU7uGjVOFrjsSK2jYuY.png",
+      "name": "Akson Studio",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-12-13",
+      "episode_count": 8,
+      "id": 359674,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vDZ2uMixOQoHRVTGnuHSdxypXxv.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2025-09-17",
+      "episode_count": 8,
+      "id": 441101,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dKSNUPW4bBCGswtNy8fNtR1V5Zp.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2026-08-05",
+      "episode_count": 1,
+      "id": 466147,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/lAFJp0NgAInJsUUpw18GcXl1N82.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.419,
+  "vote_count": 137,
+  "external_ids": {
+    "id": 236450,
+    "imdb_id": "tt29420686",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 441363,
+    "tvrage_id": null,
+    "wikidata_id": "Q123315231",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

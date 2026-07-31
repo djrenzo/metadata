@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": "/vnwJwSHhXVcY7sEATgUiCOW5py7.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2008-09-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tv.nova.cz/porad/kriminalka-andel",
+  "id": 37732,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2025-12-08",
+  "last_episode_to_air": {
+    "id": 6602339,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-08",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 7,
+    "show_id": 37732,
+    "still_path": null
+  },
+  "name": "Kriminálka Anděl",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 109,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Kriminálka Anděl",
+  "overview": "Kriminálka Anděl is a Czech crime drama television series which premiered on TV Nova in 2008. Third season was shooting since April 2010 and broadcast since March 21, 2011. This TV series has an origin in the Slovak crime series Mesto tieňov.",
+  "popularity": 12.6405,
+  "poster_path": "/8qkjgr3xIp8uRqWy3VWaHdieMJs.jpg",
+  "production_companies": [
+    {
+      "id": 118868,
+      "logo_path": null,
+      "name": "Media Pro Pictures",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 83880,
+      "logo_path": "/fE2kkrLqz2EMDad4p43uYSN1yot.png",
+      "name": "DNA Production",
+      "origin_country": "SK"
+    },
+    {
+      "id": 31292,
+      "logo_path": "/6EeaMNiKbomWHsB5jq5W5vflOj2.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 13,
+      "id": 49061,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jgjeLOtcjjxDdpp3eNjT2BEkA7f.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-08",
+      "episode_count": 16,
+      "id": 49060,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jgjeLOtcjjxDdpp3eNjT2BEkA7f.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-06",
+      "episode_count": 16,
+      "id": 49062,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-31",
+      "episode_count": 16,
+      "id": 79863,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vdOtRS5BgQb49iuMZtp4Usy3Nwp.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-28",
+      "episode_count": 16,
+      "id": 353428,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/orWxTORdTEgRi3SzieDzZz3D0qL.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-19",
+      "episode_count": 16,
+      "id": 407023,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-25",
+      "episode_count": 16,
+      "id": 470602,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 37732,
+    "imdb_id": "tt1322074",
+    "freebase_mid": "/m/0gfhc0s",
+    "freebase_id": null,
+    "tvdb_id": 253208,
+    "tvrage_id": null,
+    "wikidata_id": "Q6437048",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

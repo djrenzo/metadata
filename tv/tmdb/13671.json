@@ -1,0 +1,282 @@
+{
+  "adult": false,
+  "backdrop_path": "/5QRtx6B30yDhQrwVgLwIQBVgniN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2002-03-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.idols.mnet.co.za/",
+  "id": 13671,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-11-04",
+  "last_episode_to_air": {
+    "id": 4980706,
+    "name": "Finale",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-11-04",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 19,
+    "show_id": 13671,
+    "still_path": null
+  },
+  "name": "Idols (South Africa)",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 192,
+      "logo_path": "/dJ9KWprPx7AXMOxBrGJoadLhhZQ.png",
+      "name": "M-Net",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 6860,
+      "logo_path": "/taIR7cfQTFs18GMCQtYSFFypwnF.png",
+      "name": "Mzanzi Magic",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 388,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_name": "Idols (South Africa)",
+  "overview": "Idols was a television show on the South African television network Mzansi Magic, and previously on M-Net, based on the popular British show Pop Idol. The show was a contest to determine the best young singer in South Africa.",
+  "popularity": 9.7979,
+  "poster_path": "/AlhCJYcJjzIoPaS0nmQdYHW98n7.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2002-03-10",
+      "episode_count": 15,
+      "id": 24750,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-07-20",
+      "episode_count": 14,
+      "id": 368707,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-07-31",
+      "episode_count": 18,
+      "id": 368708,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-19",
+      "episode_count": 17,
+      "id": 368709,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-01",
+      "episode_count": 14,
+      "id": 24752,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-07-18",
+      "episode_count": 23,
+      "id": 24751,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-06-05",
+      "episode_count": 27,
+      "id": 24753,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-03",
+      "episode_count": 27,
+      "id": 24754,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-07-28",
+      "episode_count": 29,
+      "id": 368713,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-13",
+      "episode_count": 28,
+      "id": 368715,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-07-12",
+      "episode_count": 20,
+      "id": 368716,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-17",
+      "episode_count": 20,
+      "id": 368717,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-09",
+      "episode_count": 20,
+      "id": 368718,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-08",
+      "episode_count": 20,
+      "id": 368719,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-07",
+      "episode_count": 20,
+      "id": 368720,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-02",
+      "episode_count": 20,
+      "id": 368721,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-11",
+      "episode_count": 20,
+      "id": 368722,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-17",
+      "episode_count": 18,
+      "id": 368723,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-08",
+      "episode_count": 18,
+      "id": 368724,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 13671,
+    "imdb_id": "tt4764576",
+    "freebase_mid": "/m/02czn3",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

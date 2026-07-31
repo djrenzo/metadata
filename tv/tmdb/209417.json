@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/c2X8BeiJ36zevQQu78VoYb65Xm.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1966-04-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/archives/asadora/drama/d_006.html",
+  "id": 209417,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1967-04-01",
+  "last_episode_to_air": {
+    "id": 3929494,
+    "name": "Episode 310",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1967-04-01",
+    "episode_number": 310,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 209417,
+    "still_path": null
+  },
+  "name": "Ohanahan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 469,
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "name": "NHK G",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 310,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "おはなはん",
+  "overview": "The 6th NHK Asadora. Starring Fumie Kashiyama as a woman, born in the Meiji era, who raises a family by herself.",
+  "popularity": 11.4605,
+  "poster_path": "/uvLeJxlfKOhPXH3KQ6l2UO1kiCk.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1966-04-04",
+      "episode_count": 310,
+      "id": 307091,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uvLeJxlfKOhPXH3KQ6l2UO1kiCk.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 209417,
+    "imdb_id": "tt2906740",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

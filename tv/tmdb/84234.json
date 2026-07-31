@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": "/Z0UN39PL1p7i5eLSCVMorRdjU8.jpg",
+  "created_by": [
+    {
+      "id": 1449274,
+      "credit_id": "5bf4acb2c3a36818ae0a1e05",
+      "name": "Clothilde Jamin",
+      "original_name": "Clothilde Jamin",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1449285,
+      "credit_id": "5bf4aca70e0a2626740aa1b8",
+      "name": "Clélia Constantine",
+      "original_name": "Clélia Constantine",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    52
+  ],
+  "first_air_date": "2018-12-06",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/balthazar",
+  "id": 84234,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2023-02-23",
+  "last_episode_to_air": {
+    "id": 4178241,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 8.8,
+    "vote_count": 2,
+    "air_date": "2023-02-23",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 5,
+    "show_id": 84234,
+    "still_path": "/jk9DfWPKmUgrRuF9CGGMpMHCICq.jpg"
+  },
+  "name": "Balthazar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 38,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Balthazar",
+  "overview": "Facing a series of complex murder cases, new police commander Hélène Bach must learn to work with the brilliant yet exasperating Raphaël, who can make the dead speak like no-one else.",
+  "popularity": 13.3336,
+  "poster_path": "/98ZGgws85ybGSZ52NWx0iwbmXfL.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-12-06",
+      "episode_count": 6,
+      "id": 112999,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mtSiAKQqPS3GvUekBDe8dfwniVR.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2019-11-21",
+      "episode_count": 10,
+      "id": 135390,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hzBqAvqhaUE0lMnp7EqcuNfMILe.jpg",
+      "season_number": 2,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2020-11-12",
+      "episode_count": 8,
+      "id": 167810,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/fTinkAwWg1L9NcOWhkRmq3ZvgJx.jpg",
+      "season_number": 3,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2022-03-10",
+      "episode_count": 8,
+      "id": 243467,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/8NOEyqWs1q4Sp2uM7nGGPRn1tL2.jpg",
+      "season_number": 4,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2023-01-19",
+      "episode_count": 6,
+      "id": 318878,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/98ZGgws85ybGSZ52NWx0iwbmXfL.jpg",
+      "season_number": 5,
+      "vote_average": 8.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.71,
+  "vote_count": 126,
+  "external_ids": {
+    "id": 84234,
+    "imdb_id": "tt9293466",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352121,
+    "tvrage_id": null,
+    "wikidata_id": "Q60846569",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "adult": false,
+  "backdrop_path": "/cAgh4wZcKlTBw0v7wKTp5oU9nxp.jpg",
+  "created_by": [
+    {
+      "id": 3244034,
+      "credit_id": "64524741d48cee00fced2ce3",
+      "name": "Selin Atasoy Hartevioğlu",
+      "original_name": "Selin Atasoy Hartevioğlu",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1578625,
+      "credit_id": "6452473c091e620144d6b2a9",
+      "name": "Ahmet Saatçioğlu",
+      "original_name": "Ahmet Saatçioğlu",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2010-07-08",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.kanald.com.tr/kanit",
+  "id": 65625,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2013-02-03",
+  "last_episode_to_air": {
+    "id": 1610388,
+    "name": "Enlightenment",
+    "overview": "The team's conflict with Komiser Yaman reaches its climax when Dr. Ece is kidnapped from the morgue while under his watch. Convinced Yaman is responsible, Orhan and Selim race against time, following Ece's hidden clues to save her.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2013-02-03",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 75,
+    "season_number": 3,
+    "show_id": 65625,
+    "still_path": null
+  },
+  "name": "Kanıt",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 100,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Kanıt",
+  "overview": "Each episode, police inspectors Orhan and Selim try and solve puzzling cases with the help and guidance of forensics. Professor Sevil Atasoy, a forensic scientist, also joins us sometimes to tell relevant anecdotes.",
+  "popularity": 14.9942,
+  "poster_path": "/aCqCVQOHCriAVqbFQaUxY4enLwj.jpg",
+  "production_companies": [
+    {
+      "id": 4179,
+      "logo_path": "/vx8dHTiQg2SPXrvDOmCDm6BCRJR.png",
+      "name": "ANS Prodüksiyon",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2010-07-08",
+      "episode_count": 49,
+      "id": 74638,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 9.1
+    },
+    {
+      "air_date": "2011-07-15",
+      "episode_count": 42,
+      "id": 111894,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2012-11-05",
+      "episode_count": 9,
+      "id": 111895,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.964,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 65625,
+    "imdb_id": "tt2151208",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6096748",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

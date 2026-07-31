@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2018-01-13",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.kbsn.co.kr/program/index?program_code=PG2180017J",
+  "id": 100064,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-02-04",
+  "last_episode_to_air": {
+    "id": 6051541,
+    "name": "Episode 261",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-02-04",
+    "episode_number": 261,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 65,
+    "season_number": 3,
+    "show_id": 100064,
+    "still_path": null
+  },
+  "name": "Love Naggers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1923,
+      "logo_path": "/ns8dF9ebIfQRspDfwUAyMgoRnbD.png",
+      "name": "KBS Joy",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 359,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "연애의 참견",
+  "overview": "From the quirky to the scandalous, any relationship is fair game for a panel of love experts who comb over text messages and revel in reenactments.",
+  "popularity": 10.6393,
+  "poster_path": "/5CxwFNv9YVk1YyAkzbyXAMplbfX.jpg",
+  "production_companies": [
+    {
+      "id": 196560,
+      "logo_path": "/k1BF70MBgYORxqtpGVtXOBeHXiL.png",
+      "name": "KBS N",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-13",
+      "episode_count": 26,
+      "id": 144545,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5CxwFNv9YVk1YyAkzbyXAMplbfX.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-14",
+      "episode_count": 72,
+      "id": 144546,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/vFZ9AMlhI3nFA91AnRfVJh9BHBW.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-07",
+      "episode_count": 261,
+      "id": 144547,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/n34JmSlg8VTbNR49jZ21L5qeMG2.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 100064,
+    "imdb_id": "tt14493840",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 382970,
+    "tvrage_id": null,
+    "wikidata_id": "Q85982673",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

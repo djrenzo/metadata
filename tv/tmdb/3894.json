@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/s2PGiHAgQynRZjFWhiL5ob9Bosu.jpg",
+  "created_by": [
+    {
+      "id": 567257,
+      "credit_id": "525758b719c29531db161099",
+      "name": "Paul Heyman",
+      "original_name": "Paul Heyman",
+      "gender": 2,
+      "profile_path": "/1SyptQybrCPRdHDQr0UD2CTaxcW.jpg"
+    },
+    {
+      "id": 57342,
+      "credit_id": "525758b719c29531db161093",
+      "name": "Vince McMahon",
+      "original_name": "Vince McMahon",
+      "gender": 2,
+      "profile_path": "/3m4Z7YwnTqgLlQWP7A7TgYOJrj7.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2006-06-13",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.wwe.com/shows/ecw",
+  "id": 3894,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-02-16",
+  "last_episode_to_air": {
+    "id": 3258819,
+    "name": "An Extreme Farewell",
+    "overview": "Another historic chapter in the legacy of sports-entertainment comes to an end with the final episode of ECW. While the WWE Universe watches in anticipation over what comes next for several ECW Superstars, Christian puts the ECW Championship on the line for the last time against Ezekiel Jackson. All this and more on ECW's last stand in WWE.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-02-16",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 5,
+    "show_id": 3894,
+    "still_path": null
+  },
+  "name": "WWE ECW",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 77,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 193,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "WWE ECW",
+  "overview": "ECW was a professional wrestling television program for WWE, based on the independent Extreme Championship Wrestling promotion that lasted from 1992 to 2001. The show's name also referred to the ECW brand, in which WWE employees were assigned to work and perform, complementary to WWE's other brands, Raw and SmackDown. It debuted on June 13, 2006 on Sci Fi in the United States and ran for close to four years until it aired its final episode on February 16, 2010 on the rebranded Syfy. It was replaced the following week with WWE NXT.",
+  "popularity": 10.7223,
+  "poster_path": "/h3qIiG22Uy62ZgLLtXkh5PdfiSL.jpg",
+  "production_companies": [
+    {
+      "id": 13651,
+      "logo_path": "/rVJkMs9cSaE1BQoPiDcH6OxmaVZ.png",
+      "name": "WWE Home Video",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-06-07",
+      "episode_count": 1,
+      "id": 236869,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/ngSrx3vX17R8YCz11qz3hvIIi6a.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-06-13",
+      "episode_count": 29,
+      "id": 214158,
+      "name": "Season 1",
+      "overview": "WWE brings back a beloved brand in ECW",
+      "poster_path": "/4Xyuv23n6dogRw9iejLEAIHpKLP.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 52,
+      "id": 214159,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/nkIDaWJzMLiec31auXDCqhZAPrO.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 53,
+      "id": 214160,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/hKo1vpFKY8QjVrwKB6280oixh0R.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-06",
+      "episode_count": 52,
+      "id": 214161,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/xJVpylJwLljmbQQRTkdi4P0NlgK.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-05",
+      "episode_count": 7,
+      "id": 214162,
+      "name": "Season 5",
+      "overview": "The end of Extreme",
+      "poster_path": "/cP029rVLsd6snodUimMvl3a3yVU.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 33,
+  "external_ids": {
+    "id": 3894,
+    "imdb_id": "tt0810614",
+    "freebase_mid": "/m/0dfrx7",
+    "freebase_id": null,
+    "tvdb_id": 79859,
+    "tvrage_id": null,
+    "wikidata_id": "Q776675",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

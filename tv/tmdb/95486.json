@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/l3QyCntq6m4E7WTCLsq4DC7NLW1.jpg",
+  "created_by": [
+    {
+      "id": 5314043,
+      "credit_id": "67f11bf10c791beb57ad45e2",
+      "name": "Qing Mei",
+      "original_name": "青浼",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2021-06-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 95486,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2021-07-19",
+  "last_episode_to_air": {
+    "id": 3040846,
+    "name": "Claiming the Crown",
+    "overview": "ZGDX puts everything on the line as they compete against YQCB to take home the title of national champions.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2021-07-19",
+    "episode_number": 31,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 95486,
+    "still_path": "/p29JG5VaAgPgYS4mnVdMIzBN3zx.jpg"
+  },
+  "name": "Falling Into Your Smile",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1419,
+      "logo_path": "/w2TeR3fvPZ9a617tNIF1oOfyPtk.png",
+      "name": "Youku",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 31,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "你微笑时很美",
+  "overview": "After joining an all-male e-sports team, an amateur gamer tests her skills and leads her team to the world championships.",
+  "popularity": 11.9638,
+  "poster_path": "/tUZIA55rA44TazA11urdbHRtYJK.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-06-23",
+      "episode_count": 31,
+      "id": 135881,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jhKW4nNJg0UbKNIZPfYAhZiWbIe.jpg",
+      "season_number": 1,
+      "vote_average": 9.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 107,
+  "external_ids": {
+    "id": 95486,
+    "imdb_id": "tt11290960",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 399900,
+    "tvrage_id": null,
+    "wikidata_id": "Q97179301",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

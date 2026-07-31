@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Xs3yguz9UQPyGyY2zZ99WtX3iT.jpg",
+  "created_by": [
+    {
+      "id": 1256431,
+      "credit_id": "69f2518bac838fd0967bee48",
+      "name": "Carlos Duplat Sanjuan",
+      "original_name": "Carlos Duplat",
+      "gender": 1,
+      "profile_path": "/l5kcRUtbNQXxyCMQ8b3bLMxonnJ.jpg"
+    },
+    {
+      "id": 3739435,
+      "credit_id": "69f251a794137f186322df17",
+      "name": "Luz Mariela Santofimio",
+      "original_name": "Luz Mariela Santofimio",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2013-06-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 79048,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2013-08-21",
+  "last_episode_to_air": {
+    "id": 1477329,
+    "name": "Episode 61",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-08-21",
+    "episode_number": 61,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 79048,
+    "still_path": null
+  },
+  "name": "La Prepago",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 61,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "La Prepago",
+  "overview": "La Prepago is about a woman living a double life: one as a beautiful university student with a normal love life from a traditional family; the other as a high-class escort who is paid for companionship and to satisfy the sexual appetites of men.",
+  "popularity": 17.2499,
+  "poster_path": "/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg",
+  "production_companies": [
+    {
+      "id": 59028,
+      "logo_path": "/lV4ZJIG0MrYgqFZz1rjhyEUe1Xc.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    },
+    {
+      "id": 92435,
+      "logo_path": "/sS2aoNfKagyNkYDM9HNSsgciut2.png",
+      "name": "Teleset",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-06-19",
+      "episode_count": 61,
+      "id": 102919,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/s8f5VSb1ANC9rjLgcS3lJLuK12W.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.279,
+  "vote_count": 226,
+  "external_ids": {
+    "id": 79048,
+    "imdb_id": "tt2199866",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5964928",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

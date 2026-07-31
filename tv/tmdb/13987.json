@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/kbZYb5mGVaX2NmMTu86F1Tac6br.jpg",
+  "created_by": [
+    {
+      "id": 1232774,
+      "credit_id": "631c373c19690c0084850056",
+      "name": "Hugo León Ferrer",
+      "original_name": "Hugo León Ferrer",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3251121,
+      "credit_id": "631c37301ac292007aa7469b",
+      "name": "Jimena Romero",
+      "original_name": "Jimena Romero",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2007-12-04",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13987,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2008-08-01",
+  "last_episode_to_air": {
+    "id": 4620756,
+    "name": "Episode 171",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-08-01",
+    "episode_number": 171,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 13987,
+    "still_path": null
+  },
+  "name": "Victoria",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 171,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO",
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "Victoria",
+  "overview": "A woman who falls in love with a dashing younger man, when her marriage collapses around her.",
+  "popularity": 17.9699,
+  "poster_path": "/dwytw6meU43StC069duRHf9tV1v.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2007-12-04",
+      "episode_count": 171,
+      "id": 160432,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.188,
+  "vote_count": 176,
+  "external_ids": {
+    "id": 13987,
+    "imdb_id": null,
+    "freebase_mid": "/m/03c5fbp",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

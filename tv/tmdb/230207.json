@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2015-08-09",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 230207,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-11-02",
+  "last_episode_to_air": {
+    "id": 6562790,
+    "name": "Episode 297",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-02",
+    "episode_number": 297,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 230207,
+    "still_path": null
+  },
+  "name": "Sportclub Story",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 577,
+      "logo_path": "/3VwpncXscRwvbbeA5E7LX3yTCbD.png",
+      "name": "NDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 297,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Sportclub Story",
+  "overview": "",
+  "popularity": 10.387,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-08-09",
+      "episode_count": 297,
+      "id": 359305,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6HUFN7W3uD6Dqnv16GHbtC8ZH5X.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 230207,
+    "imdb_id": "tt11546646",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q117553641",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

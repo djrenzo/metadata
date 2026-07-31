@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2006-09-18",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.meganshow.com/",
+  "id": 10269,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2007-01-24",
+  "last_episode_to_air": {
+    "id": 421960,
+    "name": "Chandra Wilson, Jesse Bradford, Clay Aiken",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-01-24",
+    "episode_number": 76,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 10269,
+    "still_path": null
+  },
+  "name": "The Megan Mullally Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 68,
+      "logo_path": "/65r0kR6MfOBYF0gEQsJGM6v5fEG.png",
+      "name": "TBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 76,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Megan Mullally Show",
+  "overview": "Two-time Emmy Award-winner Megan Mullally, coming off eight seasons as wisecracking socialite Karen Walker on NBC's \"Will & Grace,\" moves into the driver's seat as host for this daytime talk show. Each episode is an entertaining hour featuring a mix of celebrities, real people, music, and comedy. Megan will interview top celebrities and also introduce the world to guests of all kinds — from quirky characters to funny kids to offbeat experts.",
+  "popularity": 11.7243,
+  "poster_path": "/wijfK5Q5eFdUbCbxEvdt7lMZwWS.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-18",
+      "episode_count": 76,
+      "id": 20284,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wijfK5Q5eFdUbCbxEvdt7lMZwWS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.667,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 10269,
+    "imdb_id": "tt0486539",
+    "freebase_mid": "/m/0dnvws",
+    "freebase_id": "/en/the_megan_mullally_show",
+    "tvdb_id": null,
+    "tvrage_id": 11508,
+    "wikidata_id": "Q1920029",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

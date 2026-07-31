@@ -1,0 +1,398 @@
+{
+  "adult": false,
+  "backdrop_path": "/uVczE4Dy5UmGDgwm5ighMeAWx3h.jpg",
+  "created_by": [
+    {
+      "id": 1335523,
+      "credit_id": "571b6b76c3a368243400117d",
+      "name": "Piero Angela",
+      "original_name": "Piero Angela",
+      "gender": 2,
+      "profile_path": "/xyMelzsxNjulXIAj5j7RyNgTpPJ.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1995-01-27",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.superquark.rai.it/",
+  "id": 66325,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2022-08-24",
+  "last_episode_to_air": {
+    "id": 6601589,
+    "name": "The last ice",
+    "overview": "Glaciers around the world are melting ever faster, and it's estimated that by the end of the century, those in the Alps will have disappeared completely. For this reason, they are also monitored from space by satellites, but it's also essential to study them from within, to discover what weakens their \"heart.\" This mechanism appears to be the cause of recent and sudden catastrophes like those on the Marmolada. This is the story of the Doc Lab documentary, \"Gli Ultimi Ghiacci,\" directed by Marco Visalberghi, which opens the final episode of \"Superquark,\" Piero Angela's final legacy. The documentary \"enters\" the glaciers, tunnels, and so-called glacial mills, accompanied by speleologist Francesco Sauro and astronaut Luca Parmitano, to reveal the secrets and unusual faces of these ice giants.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-08-24",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 121,
+    "season_number": 29,
+    "show_id": 66325,
+    "still_path": "/jwowXMpYXb77tltujNT0ibse7FC.jpg"
+  },
+  "name": "Superquark",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 365,
+  "number_of_seasons": 29,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Superquark",
+  "overview": "Television program of cultural diffusion, born in September 1995, designed and conducted by Piero Angela, development of transmission appreciated Quark.",
+  "popularity": 10.4333,
+  "poster_path": "/eL2tdorNto6Pz1vxwauw83dNUX.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-06-09",
+      "episode_count": 61,
+      "id": 449437,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/tuhr6E07wIZAyYklHW33MPRM4k8.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-27",
+      "episode_count": 16,
+      "id": 76592,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-12",
+      "episode_count": 18,
+      "id": 76702,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-17",
+      "episode_count": 17,
+      "id": 76703,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-24",
+      "episode_count": 19,
+      "id": 76704,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-11-13",
+      "episode_count": 21,
+      "id": 76705,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-19",
+      "episode_count": 17,
+      "id": 76706,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-06-13",
+      "episode_count": 14,
+      "id": 76707,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-05",
+      "episode_count": 14,
+      "id": 76708,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-12",
+      "episode_count": 15,
+      "id": 76709,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-06-10",
+      "episode_count": 15,
+      "id": 76710,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-07-06",
+      "episode_count": 14,
+      "id": 76711,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-09",
+      "episode_count": 14,
+      "id": 76712,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-06-29",
+      "episode_count": 13,
+      "id": 76713,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-07",
+      "episode_count": 13,
+      "id": 76714,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-03",
+      "episode_count": 11,
+      "id": 76715,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-16",
+      "episode_count": 11,
+      "id": 76716,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-06-24",
+      "episode_count": 12,
+      "id": 76717,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-06-16",
+      "episode_count": 12,
+      "id": 76718,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-07-05",
+      "episode_count": 10,
+      "id": 76719,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-07-04",
+      "episode_count": 10,
+      "id": 76720,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-03",
+      "episode_count": 10,
+      "id": 78472,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-25",
+      "episode_count": 10,
+      "id": 78473,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-13",
+      "episode_count": 9,
+      "id": 170244,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-21",
+      "episode_count": 9,
+      "id": 170245,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-04",
+      "episode_count": 9,
+      "id": 170246,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-06-26",
+      "episode_count": 9,
+      "id": 170247,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-15",
+      "episode_count": 7,
+      "id": 202056,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-14",
+      "episode_count": 8,
+      "id": 298796,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-06",
+      "episode_count": 8,
+      "id": 479870,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 9,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 66325,
+    "imdb_id": "tt2724556",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 285027,
+    "tvrage_id": null,
+    "wikidata_id": "Q3978011",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

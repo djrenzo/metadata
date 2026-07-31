@@ -1,0 +1,253 @@
+{
+  "adult": false,
+  "backdrop_path": "/2NSZXUNVa5u6I5fEJ2fA91tdPsv.jpg",
+  "created_by": [
+    {
+      "id": 1230839,
+      "credit_id": "52573076760ee3776a33fb81",
+      "name": "John Flanagan",
+      "original_name": "John Flanagan",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1230840,
+      "credit_id": "52573077760ee3776a33fb89",
+      "name": "Gary Reilly",
+      "original_name": "Gary Reilly",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1987-02-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 2314,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1994-08-17",
+  "last_episode_to_air": {
+    "id": 170114,
+    "name": "What a Blast! (Finale)",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-08-17",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 14,
+    "show_id": 2314,
+    "still_path": null
+  },
+  "name": "Hey Dad..!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 291,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Hey Dad..!",
+  "overview": "Hey Dad..! was an Australian sitcom produced by Gary Reilly Productions, originally airing from 1987 to 1994 on the Seven Network.",
+  "popularity": 11.4775,
+  "poster_path": "/4YF0uUI8iYRDpC7KwNxYzHfxTO7.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1987-01-01",
+      "episode_count": 1,
+      "id": 7234,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-11",
+      "episode_count": 39,
+      "id": 7231,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xYqA0oldDtkGUf6LIJQMJnhpuKZ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-02-10",
+      "episode_count": 39,
+      "id": 7235,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-02-08",
+      "episode_count": 49,
+      "id": 7232,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-04-04",
+      "episode_count": 34,
+      "id": 7236,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-03-13",
+      "episode_count": 13,
+      "id": 94695,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-08-21",
+      "episode_count": 13,
+      "id": 94696,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-02-12",
+      "episode_count": 13,
+      "id": 94697,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-05-20",
+      "episode_count": 13,
+      "id": 94698,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-02",
+      "episode_count": 13,
+      "id": 94699,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-02-10",
+      "episode_count": 13,
+      "id": 94701,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-05-12",
+      "episode_count": 13,
+      "id": 94703,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-15",
+      "episode_count": 13,
+      "id": 94704,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-02-16",
+      "episode_count": 13,
+      "id": 94705,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-05-25",
+      "episode_count": 13,
+      "id": 7233,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 2314,
+    "imdb_id": "tt0086729",
+    "freebase_mid": "/m/05dy_s",
+    "freebase_id": "/en/hey_dad",
+    "tvdb_id": 77934,
+    "tvrage_id": 1873,
+    "wikidata_id": "Q1247801",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

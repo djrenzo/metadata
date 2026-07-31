@@ -1,0 +1,166 @@
+{
+  "adult": false,
+  "backdrop_path": "/cgpYz5dMjgBRV1yyEslBTl3Bib1.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2001-11-08",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/2tv/enter/happytogether3",
+  "id": 5709,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-07-17",
+  "last_episode_to_air": {
+    "id": 7499876,
+    "name": "Episode 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 79,
+    "season_number": 5,
+    "show_id": 5709,
+    "still_path": "/eU1TcjfhL7V8koG4ndH82hbup6O.jpg"
+  },
+  "name": "Happy Together",
+  "next_episode_to_air": {
+    "id": 7499877,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 5709,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 159,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "해피투게더",
+  "overview": "Happy Together is a Korean entertainment talk show.",
+  "popularity": 10.0675,
+  "poster_path": "/nhaIw45ofMnxsYZ0ubE2L8jIm56.jpg",
+  "production_companies": [
+    {
+      "id": 74238,
+      "logo_path": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-11-08",
+      "episode_count": 131,
+      "id": 73839,
+      "name": "Happy Together",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-05-05",
+      "episode_count": 1,
+      "id": 77116,
+      "name": "Happy Together Friends",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-07-05",
+      "episode_count": 13,
+      "id": 77117,
+      "name": "Happy Together 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-11",
+      "episode_count": 9,
+      "id": 119761,
+      "name": "Happy Together Season 4",
+      "overview": "",
+      "poster_path": "/orDHlqUILjeEgrdqO2Cw6a3CYke.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-07-10",
+      "episode_count": 5,
+      "id": 528725,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/dpy3K6BdEc6J5eLD2xC4Ss7OTWl.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 5709,
+    "imdb_id": "tt6096850",
+    "freebase_mid": "/m/03c5wq5",
+    "freebase_id": null,
+    "tvdb_id": 271464,
+    "tvrage_id": null,
+    "wikidata_id": "Q484277",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

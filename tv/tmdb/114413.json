@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/y4m4AgDPcoWB3f5ezc1YHsCJbGx.jpg",
+  "created_by": [
+    {
+      "id": 66511,
+      "credit_id": "605673376f6a990054c7038d",
+      "name": "Michael Colton",
+      "original_name": "Michael Colton",
+      "gender": 2,
+      "profile_path": "/1vtNY6kdCiTSjjwHalqfDgL4XJ4.jpg"
+    },
+    {
+      "id": 66510,
+      "credit_id": "6056733b6e3deb003de0efc6",
+      "name": "John Aboud",
+      "original_name": "John Aboud",
+      "gender": 2,
+      "profile_path": "/aeKRw8iYx5KNtrHskWYdKt9egwx.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2021-04-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://abc.com/shows/home-economics",
+  "id": 114413,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2023-01-18",
+  "last_episode_to_air": {
+    "id": 4131787,
+    "name": "Emergency Preparedness Kit, $129.99",
+    "overview": "A natural disaster strikes, trapping the family under one roof and without power. As their electronic battery lives are depleted, the Hayworths are left with nothing to do but examine their own lives on the season three finale.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-01-18",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 114413,
+    "still_path": null
+  },
+  "name": "Home Economics",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 42,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Home Economics",
+  "overview": "The heartwarming yet uncomfortable relationship between three adult siblings: one in the 1%, one middle-class and one barely holding on.",
+  "popularity": 14.0993,
+  "poster_path": "/svYYne5mdKQVyIFwzkMVS2t35Ok.jpg",
+  "production_companies": [
+    {
+      "id": 28523,
+      "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 25039,
+      "logo_path": null,
+      "name": "The Tannenbaum Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 183299,
+      "logo_path": "/1sBJ2JXoGp342x53gaRPglrNPgh.png",
+      "name": "Colton & Aboud",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-04-07",
+      "episode_count": 7,
+      "id": 171562,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rUc8yYULWJToIiKleEIlTqXOfP4.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 22,
+      "id": 202436,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rKQCUHOr6bukvfQRJdLdFKXnYN.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 13,
+      "id": 297658,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/svYYne5mdKQVyIFwzkMVS2t35Ok.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Divided by money. United by family.",
+  "type": "Scripted",
+  "vote_average": 6.54,
+  "vote_count": 50,
+  "external_ids": {
+    "id": 114413,
+    "imdb_id": "tt9214684",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 354960,
+    "tvrage_id": null,
+    "wikidata_id": "Q105274009",
+    "facebook_id": "HomeEconomicsABC",
+    "instagram_id": "homeeconomicsabc",
+    "twitter_id": "HomeEconABC"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2085123,
+      "credit_id": "683648fba2ae0df7eb038149",
+      "name": "Anvar Abbasov",
+      "original_name": "Ənvər Abbasov",
+      "gender": 2,
+      "profile_path": "/tGJtPBHjifwmidNjDBI6q8S5AuW.jpg"
+    },
+    {
+      "id": 4218637,
+      "credit_id": "68364900977e78e7aaa87c2d",
+      "name": "Samid Aghayev",
+      "original_name": "Samid Ağayev",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-10-19",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 292528,
+  "in_production": true,
+  "languages": [
+    "az"
+  ],
+  "last_air_date": "2021-04-11",
+  "last_episode_to_air": {
+    "id": 6359413,
+    "name": "Episode 83",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-04-11",
+    "episode_number": 83,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 292528,
+    "still_path": null
+  },
+  "name": "Comedykhana",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7675,
+      "logo_path": "/sOAgbZF9ELjXKojWw8OiUQ0gWFi.png",
+      "name": "Xəzər TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "number_of_episodes": 83,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AZ"
+  ],
+  "original_language": "az",
+  "original_name": "Komedixana",
+  "overview": "Komedixana is a comedy show that has been broadcasted on the Azerbaijani Khazar TV channel since 2019.",
+  "popularity": 18.7332,
+  "poster_path": "/yHHjOa11eQ5q6nyxKYu5uxNnOde.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2019-10-19",
+      "episode_count": 83,
+      "id": 458402,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Azərbaycan"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 292528,
+    "imdb_id": "tt20196356",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "komedixana_official",
+    "twitter_id": null
+  }
+}

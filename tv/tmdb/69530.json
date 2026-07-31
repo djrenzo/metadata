@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/sEZ3aPWTJLRyFWaIBt8zg0GoUiy.jpg",
+  "created_by": [
+    {
+      "id": 1772006,
+      "credit_id": "5e1428dd5907de0012e1b047",
+      "name": "Jeffrey Chiang",
+      "original_name": "Jeffrey Chiang",
+      "gender": 2,
+      "profile_path": "/gpkgiynRsp1BE7XecA068NanUDk.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2017-01-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 69530,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2017-04-04",
+  "last_episode_to_air": {
+    "id": 1299619,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-04-04",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 69530,
+    "still_path": "/k5rPrTIl0vfwvzVZhw6Pm7xFhtP.jpg"
+  },
+  "name": "The Legend of the Condor Heroes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1056,
+      "logo_path": "/neufSFU0ZrXxA3c0JRNpuNXzLdx.png",
+      "name": "Dragon Television 东方卫视",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "射雕英雄传",
+  "overview": "During the Southern Song dynasty, Guo Jing and Yang Kang, two boys orphaned by war, grow up on opposite paths—one becoming a patriotic hero, the other consumed by ambition and betrayal.",
+  "popularity": 11.0561,
+  "poster_path": "/iCT2zw90GvrBCnZDGZqDlVoAuJU.jpg",
+  "production_companies": [
+    {
+      "id": 10338,
+      "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+      "name": "Perfect World Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 280860,
+      "logo_path": null,
+      "name": "完美建信",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-09",
+      "episode_count": 52,
+      "id": 83697,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9Cs550R7Dj4vSAcjnpuK8rpdxnf.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 21,
+  "external_ids": {
+    "id": 69530,
+    "imdb_id": "tt6774544",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 323917,
+    "tvrage_id": null,
+    "wikidata_id": "Q28417339",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

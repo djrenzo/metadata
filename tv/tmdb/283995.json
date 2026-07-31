@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/1QXYndQg8cBUsTLygW8lfCtwmUi.jpg",
+  "created_by": [
+    {
+      "id": 1788354,
+      "credit_id": "6a1d2b54658b031acf880479",
+      "name": "Sumeet Hukamchand Mittal",
+      "original_name": "Sumeet Hukamchand Mittal",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1788353,
+      "credit_id": "6a1d2b699e2b0edfb5742f30",
+      "name": "Shashi Mittal",
+      "original_name": "Shashi Mittal",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2022-07-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 283995,
+  "in_production": true,
+  "languages": [
+    "bn"
+  ],
+  "last_air_date": "2023-04-08",
+  "last_episode_to_air": {
+    "id": 7338875,
+    "name": "Episode 265",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-04-08",
+    "episode_number": 265,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 283995,
+    "still_path": null
+  },
+  "name": "Indrani",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2584,
+      "logo_path": "/5Bj8Mtk5rQnBwcKKb1lWSkeqzTd.png",
+      "name": "Colors Bangla",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 265,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_name": "Indrani",
+  "overview": "Dr. Indrani hides her pain with forced smiles. Young Dr. Aditya falls for her warmth. Can love break through societal pressure and give her happiness?",
+  "popularity": 23.0396,
+  "poster_path": "/9RTWNhJsWu09Ll60WbGMHc34t6r.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-07-18",
+      "episode_count": 265,
+      "id": 442003,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cDHkbjkNQUbLKrAeUsZ8yeFNtuk.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 283995,
+    "imdb_id": "tt31153764",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/lPngbBaCqSga0LpWBDhEgrtsSRp.jpg",
+  "created_by": [
+    {
+      "id": 3258830,
+      "credit_id": "629f87cb1130bd009fc64cf8",
+      "name": "Anthony Van Biervliet",
+      "original_name": "Anthony Van Biervliet",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2023-05-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.vrt.be/vrtnu/a-z/knokke-off/",
+  "id": 203616,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-04-03",
+  "last_episode_to_air": {
+    "id": 6757595,
+    "name": "Reign of Terror",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-03",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 203616,
+    "still_path": "/l2pb0Y3wva9dcXw9NkOmVhjyqpS.jpg"
+  },
+  "name": "High Tides",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1028,
+      "logo_path": "/nlcRu8gGckTe83evTTtwbM3SCYz.png",
+      "name": "VRT 1",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Knokke off",
+  "overview": "Over a tense summer on the Belgian coast, a wealthy friend group faces adulthood's harsh realities while grappling with love and societal expectations.",
+  "popularity": 11.7872,
+  "poster_path": "/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
+  "production_companies": [
+    {
+      "id": 144320,
+      "logo_path": null,
+      "name": "Dingie",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12025,
+      "logo_path": "/sLVmKLJ2E0KSsfKiIYDjo4v6Y5l.png",
+      "name": "VRT",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 432401,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/wsEKebUPBypHMySGZtqONTApssK.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-12",
+      "episode_count": 10,
+      "id": 296610,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9kDIRWtR9YS6LviYko9hetnZ2Ph.jpg",
+      "season_number": 1,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2024-12-06",
+      "episode_count": 8,
+      "id": 369554,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/q8QdTf95UrFpxbY98f8J9NThRhM.jpg",
+      "season_number": 2,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2026-04-03",
+      "episode_count": 8,
+      "id": 441158,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/2H5baOZrlVMMHPSFWyIpmhI8ODF.jpg",
+      "season_number": 3,
+      "vote_average": 2.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.705,
+  "vote_count": 73,
+  "external_ids": {
+    "id": 203616,
+    "imdb_id": "tt21093806",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 434847,
+    "tvrage_id": null,
+    "wikidata_id": "Q117309306",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

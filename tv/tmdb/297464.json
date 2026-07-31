@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/wJBYXpzKHZNWnkfMuXhr40daPan.jpg",
+  "created_by": [
+    {
+      "id": 1563037,
+      "credit_id": "69bb6c10de4745b3d3052697",
+      "name": "Lina Uribe",
+      "original_name": "Lina Uribe",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2739922,
+      "credit_id": "69bb6c1622a7387373052610",
+      "name": "Dario Vanegas",
+      "original_name": "Dario Vanegas",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-09-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81733765",
+  "id": 297464,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-09-24",
+  "last_episode_to_air": {
+    "id": 6471067,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-09-24",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 1,
+    "show_id": 297464,
+    "still_path": "/xafldBHy90yBzpa8qTowUuEGIWh.jpg"
+  },
+  "name": "The Guest",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "La huésped",
+  "overview": "A seemingly perfect household unravels when an unexpected visitor arrives, exposing hidden tensions and political aspirations that threaten to tear the family apart.",
+  "popularity": 14.7735,
+  "poster_path": "/fBMRxziwviMBVLOCe1i4qtwRXKj.jpg",
+  "production_companies": [
+    {
+      "id": 65821,
+      "logo_path": null,
+      "name": "CMO Producciones",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-24",
+      "episode_count": 20,
+      "id": 468141,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sOmgZQDVbdewlCLJre5rzeN3On3.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.643,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 297464,
+    "imdb_id": "tt37065878",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 466519,
+    "tvrage_id": null,
+    "wikidata_id": "Q135982830",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

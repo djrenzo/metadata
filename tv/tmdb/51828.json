@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/rk0OEhCP1qhk9SFNSeWxPXDRzEe.jpg",
+  "created_by": [
+    {
+      "id": 145867,
+      "credit_id": "5af22dbd0e0a266887003523",
+      "name": "Kasper Barfoed",
+      "original_name": "Kasper Barfoed",
+      "gender": 2,
+      "profile_path": "/c6TLcZcXjYGirZ3RW4zmUN7kDv8.jpg"
+    },
+    {
+      "id": 1497155,
+      "credit_id": "673a4132624a85b8899edcac",
+      "name": "Elsebeth Egholm",
+      "original_name": "Elsebeth Egholm",
+      "gender": 1,
+      "profile_path": "/97UKXL4anbg8WqVucLFvt3t8iSP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2013-01-07",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 51828,
+  "in_production": false,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2016-10-20",
+  "last_episode_to_air": {
+    "id": 1233714,
+    "name": "Every man is an island (part 2)",
+    "overview": "Anne gets a wake-up call. Rose's life changes. Bo asks for another chance. Nina fights back. Dicte crosses a moral boundary to stop Maj's stalker.",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2016-10-20",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 51828,
+    "still_path": "/hFKXg6CKSxrmDfM21Rgu5IvFonO.jpg"
+  },
+  "name": "Dicte",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 125,
+      "logo_path": "/2cDF7NrooRYZhET5fCcTiXATD5j.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Dicte",
+  "overview": "Newly divorced journalist returns to her hometown to restart her life and work through her past.",
+  "popularity": 11.4603,
+  "poster_path": "/uDJ1wQtvJhlRVkAnc1hTNjriemE.jpg",
+  "production_companies": [
+    {
+      "id": 5123,
+      "logo_path": "/vkNtfMgiOdBYc6hECG9i6WQnvFs.png",
+      "name": "Miso Film",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-01-07",
+      "episode_count": 10,
+      "id": 63038,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fLTr1aBuhZdTc4stnue9u4JBAwj.jpg",
+      "season_number": 1,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2014-09-24",
+      "episode_count": 10,
+      "id": 63039,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/69OUoOUHoXk40N7zSnGfx1okI0q.jpg",
+      "season_number": 2,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2016-08-22",
+      "episode_count": 10,
+      "id": 79451,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/mNkvEiDRSx2f7VfJ9ZrFmXBDFm2.jpg",
+      "season_number": 3,
+      "vote_average": 6.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.98,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 51828,
+    "imdb_id": "tt2025899",
+    "freebase_mid": "/m/0v_c8wt",
+    "freebase_id": null,
+    "tvdb_id": 265571,
+    "tvrage_id": null,
+    "wikidata_id": "Q8321947",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

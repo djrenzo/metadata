@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2011-09-11",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 81784,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2015-11-22",
+  "last_episode_to_air": {
+    "id": 1554774,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-11-22",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 81784,
+    "still_path": null
+  },
+  "name": "Günther Jauch",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Günther Jauch",
+  "overview": "",
+  "popularity": 17.2701,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-09-11",
+      "episode_count": 35,
+      "id": 108135,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-19",
+      "episode_count": 40,
+      "id": 108136,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-25",
+      "episode_count": 37,
+      "id": 108137,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 34,
+      "id": 108138,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 10,
+      "id": 108139,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 81784,
+    "imdb_id": "tt2052635",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1561556",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

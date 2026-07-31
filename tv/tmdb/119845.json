@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/jzjmaQViwuzl82lTniqMQch9jk1.jpg",
+  "created_by": [
+    {
+      "id": 81702,
+      "credit_id": "603d8bb115376c00444b7fd1",
+      "name": "Robert Munic",
+      "original_name": "Robert Munic",
+      "gender": 2,
+      "profile_path": "/tXkP4CwmFxihWb5rIN8KsybkgfL.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2022-02-06",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.starz.com/us/en/series/power-book-iv-force/62261",
+  "id": 119845,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2026-01-16",
+  "last_episode_to_air": {
+    "id": 6576223,
+    "name": "Beginning of the End",
+    "overview": "Tommy orchestrates his plan to dominate Chicago's drug trade, facing immense personal sacrifices as he concludes his journey.",
+    "vote_average": 7.5,
+    "vote_count": 5,
+    "air_date": "2026-01-16",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 62,
+    "season_number": 3,
+    "show_id": 119845,
+    "still_path": "/rWwKWovqmjNfYS17hcnIm4WrhzV.jpg"
+  },
+  "name": "Power Book IV: Force",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 318,
+      "logo_path": "/qx3Y9LCaK4mq1ykFuDIfjshlo3U.png",
+      "name": "STARZ",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Power Book IV: Force",
+  "overview": "Tommy Egan leaves New York behind and plans to take on Chicago, using his outsider status to break all the local rules and rewrite them on his quest to become the biggest drug dealer in the city.",
+  "popularity": 12.092,
+  "poster_path": "/yzL4Tqbw2JA9MCsHJWFC4xV1IYU.jpg",
+  "production_companies": [
+    {
+      "id": 153513,
+      "logo_path": null,
+      "name": "End of Episode",
+      "origin_country": "US"
+    },
+    {
+      "id": 45147,
+      "logo_path": "/sLv0CvsijmrzpzPCuiNigJp5YHF.png",
+      "name": "G-Unit Film & Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 28523,
+      "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 147507,
+      "logo_path": null,
+      "name": "Pull The Pin Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 45149,
+      "logo_path": null,
+      "name": "Atmosphere Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-02-06",
+      "episode_count": 10,
+      "id": 183946,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yzL4Tqbw2JA9MCsHJWFC4xV1IYU.jpg",
+      "season_number": 1,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2023-09-01",
+      "episode_count": 10,
+      "id": 341894,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/cR0ursLXoT0zfX9XDGAzQRAnK0W.jpg",
+      "season_number": 2,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2025-11-07",
+      "episode_count": 10,
+      "id": 461941,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/nE2BDOHbbWTJmuPBJ0kKba60nj7.jpg",
+      "season_number": 3,
+      "vote_average": 6.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "More power. More problems.",
+  "type": "Scripted",
+  "vote_average": 8.271,
+  "vote_count": 231,
+  "external_ids": {
+    "id": 119845,
+    "imdb_id": "tt11761194",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 377593,
+    "tvrage_id": null,
+    "wikidata_id": "Q110819487",
+    "facebook_id": "ForceStarz",
+    "instagram_id": "forcestarz",
+    "twitter_id": "ForceStarz"
+  }
+}

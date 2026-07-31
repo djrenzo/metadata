@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2016-12-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 217733,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2016-12-22",
+  "last_episode_to_air": {
+    "id": 4141664,
+    "name": "Part 4",
+    "overview": "Sofia turns up at Emil's door after having run away. She tells him all that has happened, and he offers to help her get it all sorted out.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-12-22",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 1,
+    "show_id": 217733,
+    "still_path": "/iLaCT6fG5E0XXd0g9BpJVvlPEaz.jpg"
+  },
+  "name": "Klassen: Juletyven",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2151,
+      "logo_path": "/udkodZN7FY6iXsYQjPDJwj3ex7H.png",
+      "name": "DR Ultra",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 5,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Klassen: Juletyven",
+  "overview": "Sofia and Emil have agreed to give each other presents for Christmas. When the present for Sofia turns out to be expensive, Emil asks his friend Liam for help earning some money.",
+  "popularity": 11.8007,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 96859,
+      "logo_path": "/yJAr9yuVtHOIDXklEHhwIrXKy8G.png",
+      "name": "STV Production",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-12-19",
+      "episode_count": 5,
+      "id": 323007,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 217733,
+    "imdb_id": "tt6330212",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 371981,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

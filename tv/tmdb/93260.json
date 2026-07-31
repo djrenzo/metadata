@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Nl0mYdmLlzFbHR9i9mvoDL6GVh.jpg",
+  "created_by": [
+    {
+      "id": 1232814,
+      "credit_id": "5f60bc3d706b9f0039077eb1",
+      "name": "Michael Rubiner",
+      "original_name": "Michael Rubiner",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2019-10-14",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.nick.com/shows/the-casagrandes",
+  "id": 93260,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2022-09-30",
+  "last_episode_to_air": {
+    "id": 3659907,
+    "name": "Movers and Fakers",
+    "overview": "Tired of not having a space of his own, Bobby secretly moves into a vacant apartment unit in the building.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-09-30",
+    "episode_number": 37,
+    "episode_type": "finale",
+    "production_code": "320B",
+    "runtime": 11,
+    "season_number": 3,
+    "show_id": 93260,
+    "still_path": "/sZWpo0yiV97VGsF50aSUEJ0pcIN.jpg"
+  },
+  "name": "The Casagrandes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 112,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Casagrandes",
+  "overview": "The Casagrandes tells the story of Ronnie Anne, an independent, adventurous, 11-year-old who explores city life with her big, loving, multi-generational Mexican-American family.",
+  "popularity": 10.5654,
+  "poster_path": "/AarlHgaDolXnWQCFqiFLlpCKuwk.jpg",
+  "production_companies": [
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-10-14",
+      "episode_count": 38,
+      "id": 131664,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/r4bxPUwIENsYbIWtWbGnsKu4HiV.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2021-01-22",
+      "episode_count": 37,
+      "id": 165197,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/yOIiVDBuuxvmizlGpmwGK457FR1.jpg",
+      "season_number": 2,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2021-09-17",
+      "episode_count": 37,
+      "id": 214245,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/yOIiVDBuuxvmizlGpmwGK457FR1.jpg",
+      "season_number": 3,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 30,
+  "external_ids": {
+    "id": 93260,
+    "imdb_id": "tt9165462",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 344898,
+    "tvrage_id": null,
+    "wikidata_id": "Q65065824",
+    "facebook_id": null,
+    "instagram_id": "thecasagrandes",
+    "twitter_id": null
+  }
+}

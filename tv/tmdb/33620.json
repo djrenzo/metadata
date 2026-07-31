@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/8emE8RoR4JWvpNLeUEXg2liAQUE.jpg",
+  "created_by": [
+    {
+      "id": 1510561,
+      "credit_id": "59fc0756c3a3681aa502640e",
+      "name": "Jean-Luc Azoulay",
+      "original_name": "Jean-Luc Azoulay",
+      "gender": 2,
+      "profile_path": "/lABKfACDsXiGBiiKxDj30D7SCl3.jpg"
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "1992-05-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 33620,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1994-11-22",
+  "last_episode_to_air": {
+    "id": 777608,
+    "name": "Démangeaisons",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-11-22",
+    "episode_number": 272,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 33620,
+    "still_path": "/cYmSDSsfDA4H6KYFfXn6qgNCPkj.jpg"
+  },
+  "name": "Hélène et les Garçons",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 272,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Hélène et les Garçons",
+  "overview": "The sitcom follows Hélène Girard and her friends in their life as students.",
+  "popularity": 10.7312,
+  "poster_path": "/zOiXZAZGQq34PGlU6yOUly4HpOz.jpg",
+  "production_companies": [
+    {
+      "id": 22728,
+      "logo_path": "/lgW9VWuX3WFyzuyiJRVFE1khDWs.png",
+      "name": "AB Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-07-02",
+      "episode_count": 8,
+      "id": 152763,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/maIeqG8nE8V3l0uXbBQpIUkGGDE.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-05-11",
+      "episode_count": 272,
+      "id": 44576,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zOiXZAZGQq34PGlU6yOUly4HpOz.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 33,
+  "external_ids": {
+    "id": 33620,
+    "imdb_id": "tt0172009",
+    "freebase_mid": "/m/0crd51m",
+    "freebase_id": null,
+    "tvdb_id": 83116,
+    "tvrage_id": 15376,
+    "wikidata_id": "Q1972066",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

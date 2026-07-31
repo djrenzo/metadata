@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/1lKn0qrRGEDZpQEcdRlIB4tZIr8.jpg",
+  "created_by": [
+    {
+      "id": 2289831,
+      "credit_id": "647e562fcf4b8b00c3d3698c",
+      "name": "Yoon Ji-ryun",
+      "original_name": "윤지련",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2937987,
+      "credit_id": "647e56270e29a22be2937505",
+      "name": "Jeon Ki-sang",
+      "original_name": "Jeon Ki-sang",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    65
+  ],
+  "first_air_date": "2009-01-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/drama/f4/",
+  "id": 16420,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2009-03-31",
+  "last_episode_to_air": {
+    "id": 548655,
+    "name": "Episode 25",
+    "overview": "Jun-pyo asks Yumi to make the lunchbox again, proving that Yumi had taken credit for the lunch that Jan-di had made for him.",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "2009-03-31",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 65,
+    "season_number": 1,
+    "show_id": 16420,
+    "still_path": "/zq5lnUAs0Q7ueE15hJyTGPh11DU.jpg"
+  },
+  "name": "Boys Over Flowers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 25,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "꽃보다 남자",
+  "overview": "Unassuming high school girl Jan-di stands up to — and eventually falls for — a spoiled rich kid who belongs to the school's most powerful clique.",
+  "popularity": 11.9745,
+  "poster_path": "/ty8uAV6ihcpw6yfYoMxTulXZRYA.jpg",
+  "production_companies": [
+    {
+      "id": 64888,
+      "logo_path": "/nAD5G1QkIQVa72mkPKpL0ChaKwK.png",
+      "name": "Group Eight",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 6,
+      "id": 27714,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/w9kNXZ6Yc6yNaqyza1SOKiGJv6S.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 25,
+      "id": 27715,
+      "name": "Season 1",
+      "overview": "Working-class girl Geum Jan-di winds up at an exclusive prep academy and teams up with the popular boys of F4, who literally rule the school.",
+      "poster_path": "/knyTDHr7b0dPJUeJz2W3MfFfmFO.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.266,
+  "vote_count": 1839,
+  "external_ids": {
+    "id": 16420,
+    "imdb_id": "tt1370334",
+    "freebase_mid": "/m/05b55yr",
+    "freebase_id": null,
+    "tvdb_id": 95371,
+    "tvrage_id": 26994,
+    "wikidata_id": "Q482653",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

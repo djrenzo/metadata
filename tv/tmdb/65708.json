@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/gder6NtVlBIpenWWMOwpbQK05Uc.jpg",
+  "created_by": [
+    {
+      "id": 23227,
+      "credit_id": "56d0eeefc3a3681e570074b1",
+      "name": "Steven Knight",
+      "original_name": "Steven Knight",
+      "gender": 2,
+      "profile_path": "/vmM9j2yXI8A3AccX3YgOEZHQWcO.jpg"
+    },
+    {
+      "id": 1717283,
+      "credit_id": "585b20ff925141594102fd99",
+      "name": "Chips Hardy",
+      "original_name": "Chips Hardy",
+      "gender": 2,
+      "profile_path": "/Auh3AC1hOlNP5Sn2FnSNAXDzfnc.jpg"
+    },
+    {
+      "id": 2524,
+      "credit_id": "585b20fac3a3682fb80979be",
+      "name": "Tom Hardy",
+      "original_name": "Tom Hardy",
+      "gender": 2,
+      "profile_path": "/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2017-01-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b088s45m",
+  "id": 65708,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-02-25",
+  "last_episode_to_air": {
+    "id": 1261756,
+    "name": "Episode 8",
+    "overview": "As James Delaney conspires to escape, an enraged Prince Regent unleashes one final plan to destroy him.",
+    "vote_average": 8.892,
+    "vote_count": 51,
+    "air_date": "2017-02-25",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 1,
+    "show_id": 65708,
+    "still_path": "/qiRiUlw6s71KONNLtE8P326B2tK.jpg"
+  },
+  "name": "Taboo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Taboo",
+  "overview": "Adventurer James Keziah Delaney returns to London from Africa in 1814 along with fourteen stolen diamonds to seek vengeance after the death of his father.",
+  "popularity": 13.9421,
+  "poster_path": "/om1wVOuEtwH3krHutIWO9sJzkS5.jpg",
+  "production_companies": [
+    {
+      "id": 73649,
+      "logo_path": "/8hQkBDxJDc63VpJS38i6DTURYXk.png",
+      "name": "Hardy Son & Baker",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1645,
+      "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+      "name": "Scott Free Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-07",
+      "episode_count": 8,
+      "id": 74875,
+      "name": "Series 1",
+      "overview": "1814: James Keziah Delaney returns to London from Africa and is encircled by conspiracy, murder and betrayal.",
+      "poster_path": "/7rBS0WDaUZeRXFPg3X6aPNr2GvY.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.895,
+  "vote_count": 1497,
+  "external_ids": {
+    "id": 65708,
+    "imdb_id": "tt3647998",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 292157,
+    "tvrage_id": 41814,
+    "wikidata_id": "Q17021920",
+    "facebook_id": "TabooFX",
+    "instagram_id": "taboofx",
+    "twitter_id": "TabooFX"
+  }
+}

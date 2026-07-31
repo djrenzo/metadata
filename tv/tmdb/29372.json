@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/g2zDWVAz5SzJI4RZzVV6Vt8Inds.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2006-10-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 29372,
+  "in_production": false,
+  "languages": [
+    "en",
+    "el"
+  ],
+  "last_air_date": "2008-07-07",
+  "last_episode_to_air": {
+    "id": 4016694,
+    "name": "Episode 34",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-07-07",
+    "episode_number": 34,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 29372,
+    "still_path": null
+  },
+  "name": "TV Tiglon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 763,
+      "logo_path": "/jaY3I8qSvcymAOMsafafhFatC80.png",
+      "name": "Alpha TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 74,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "TV Tiglon",
+  "overview": "",
+  "popularity": 20.7194,
+  "poster_path": "/dZJUXaX3GxZuD4mWEfJNF2h8hu7.jpg",
+  "production_companies": [
+    {
+      "id": 184540,
+      "logo_path": null,
+      "name": "On Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 40238,
+      "logo_path": "/jaY3I8qSvcymAOMsafafhFatC80.png",
+      "name": "Alpha TV",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-10-04",
+      "episode_count": 40,
+      "id": 40741,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-03",
+      "episode_count": 34,
+      "id": 206949,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 29372,
+    "imdb_id": "tt1016143",
+    "freebase_mid": "/m/07chkdq",
+    "freebase_id": "/en/tv_tiglon",
+    "tvdb_id": null,
+    "tvrage_id": 18582,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/7esDVGdVWqLkpsrUV4bb4QoXLMU.jpg",
+  "created_by": [
+    {
+      "id": 11092,
+      "credit_id": "5cd405a092514103043b43be",
+      "name": "Simon Kinberg",
+      "original_name": "Simon Kinberg",
+      "gender": 2,
+      "profile_path": "/uEGvyKEVEotzWNeU0g2bN6b6s9q.jpg"
+    },
+    {
+      "id": 291263,
+      "credit_id": "5cd405aa0e0a265e0060d52b",
+      "name": "Jordan Peele",
+      "original_name": "Jordan Peele",
+      "gender": 2,
+      "profile_path": "/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg"
+    },
+    {
+      "id": 13268,
+      "credit_id": "5cd405970e0a265e0660d9b9",
+      "name": "Rod Serling",
+      "original_name": "Rod Serling",
+      "gender": 2,
+      "profile_path": "/yrQvDQ08tBOgnhY8tG6Oc0RBGde.jpg"
+    },
+    {
+      "id": 1458689,
+      "credit_id": "5cd405b70e0a265df660d4f9",
+      "name": "Marco Ramirez",
+      "original_name": "Marco Ramirez",
+      "gender": 2,
+      "profile_path": "/4BUR6d8744yqhnqY53UmW5iEpFJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2019-04-01",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/the-twilight-zone",
+  "id": 83135,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es",
+    "pt"
+  ],
+  "last_air_date": "2020-06-25",
+  "last_episode_to_air": {
+    "id": 2320610,
+    "name": "You Might Also Like",
+    "overview": "Stay-at-home housewife Mrs. Warren looks forward to acquiring the widely marketed 'Egg,' an enigmatic device that promises to make everything better for everyone forever. But further investigation soon reveals the unsavory truth about this mysterious product.",
+    "vote_average": 5,
+    "vote_count": 16,
+    "air_date": "2020-06-25",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 83135,
+    "still_path": "/54Hjwp0Chy3dig6yPFEo0yTyayV.jpg"
+  },
+  "name": "The Twilight Zone",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1709,
+      "logo_path": "/rSWD2WoY26KJmOw7QHvZjC5OEWG.png",
+      "name": "CBS All Access",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Twilight Zone",
+  "overview": "Tales of science fiction, fantasy and the occult, exploring humanity's hopes, despairs, prides and prejudices in metaphoric ways. Next stop ahead The Twilight Zone.",
+  "popularity": 11.3226,
+  "poster_path": "/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg",
+  "production_companies": [
+    {
+      "id": 28788,
+      "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+      "name": "Genre Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 88934,
+      "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+      "name": "Monkeypaw Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-01",
+      "episode_count": 10,
+      "id": 110914,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/b1eMr4pPpRbI6rhACV1XYx1VD53.jpg",
+      "season_number": 1,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2020-06-25",
+      "episode_count": 10,
+      "id": 150619,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg",
+      "season_number": 2,
+      "vote_average": 6.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "What dimension are you even in?",
+  "type": "Scripted",
+  "vote_average": 6.72,
+  "vote_count": 452,
+  "external_ids": {
+    "id": 83135,
+    "imdb_id": "tt2583620",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 358915,
+    "tvrage_id": null,
+    "wikidata_id": "Q57270033",
+    "facebook_id": "TheTwilightZone",
+    "instagram_id": "thetwilightzone",
+    "twitter_id": "TheTwilightZone"
+  }
+}

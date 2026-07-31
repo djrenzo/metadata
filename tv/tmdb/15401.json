@@ -1,0 +1,638 @@
+{
+  "adult": false,
+  "backdrop_path": "/wHDOeqRx8II7vaNnyk5to8Q8KoJ.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1991-02-01",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.tv8.se/efterlyst",
+  "id": 15401,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2026-03-26",
+  "last_episode_to_air": {
+    "id": 7037111,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-26",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 67,
+    "show_id": 15401,
+    "still_path": "/m24oNDe8IJ92VeTSMTsR2Jf5oOD.jpg"
+  },
+  "name": "Efterlyst",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 457,
+      "logo_path": "/vBtUCGxKBPm7eCryMEYkwAgGCuc.png",
+      "name": "TV3",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1141,
+      "logo_path": "/4xyjzCRkpueVLcTxvFapZZPNUJg.png",
+      "name": "TV8",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 686,
+  "number_of_seasons": 53,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Efterlyst",
+  "overview": "Efterlyst is a Swedish TV program, equivalent of America's Most Wanted. The show plays security camera footage, reconstructions of crimes, and then takes calls and tips from the Swedish public. Efterlyst has since its start gotten many leads that have led to the arrest of many of Sweden's most noted criminals. In Swedish prisons, Efterlyst is commonly referred to as \"Golartimmen\", literally meaning \"Snitch-hour\".\n\nThe host, Hasse Aro, was, until the season of 2009, assisted by crime-expert Leif G W Persson. From the 2010 season he is assisted by former State Police Chief Tommy Lindström. Since 2011 he is assisted by Jens Lapidus and Thomas Bodström. In the 2012 season only Thomas Bodström will assist as expert commentator.",
+  "popularity": 9.0282,
+  "poster_path": "/diZbJ4rI84eZt8bifgp39VDjrc4.jpg",
+  "production_companies": [
+    {
+      "id": 4982,
+      "logo_path": "/jrYmyTLXXSBY3NgBc4u5CDHlZic.png",
+      "name": "Strix Television",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-02-01",
+      "episode_count": 1,
+      "id": 443826,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-05",
+      "episode_count": 13,
+      "id": 513347,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-03",
+      "episode_count": 15,
+      "id": 513346,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-02-11",
+      "episode_count": 12,
+      "id": 513345,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-09",
+      "episode_count": 15,
+      "id": 513340,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-03",
+      "episode_count": 15,
+      "id": 489085,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-07",
+      "episode_count": 14,
+      "id": 489095,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-02-15",
+      "episode_count": 12,
+      "id": 513316,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-27",
+      "episode_count": 10,
+      "id": 513317,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-02-07",
+      "episode_count": 12,
+      "id": 513318,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-19",
+      "episode_count": 12,
+      "id": 513319,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-02-06",
+      "episode_count": 15,
+      "id": 513320,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-04",
+      "episode_count": 13,
+      "id": 513321,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-15",
+      "episode_count": 14,
+      "id": 513322,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-02",
+      "episode_count": 16,
+      "id": 513323,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-27",
+      "episode_count": 14,
+      "id": 513324,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-08",
+      "episode_count": 15,
+      "id": 513325,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-19",
+      "episode_count": 20,
+      "id": 26946,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-31",
+      "episode_count": 10,
+      "id": 68312,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-18",
+      "episode_count": 1,
+      "id": 68311,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-06",
+      "episode_count": 15,
+      "id": 68310,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-17",
+      "episode_count": 18,
+      "id": 68309,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-17",
+      "episode_count": 14,
+      "id": 26947,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-04",
+      "episode_count": 14,
+      "id": 26945,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-02",
+      "episode_count": 14,
+      "id": 26942,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-03",
+      "episode_count": 18,
+      "id": 26948,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-08",
+      "episode_count": 14,
+      "id": 26944,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-02",
+      "episode_count": 16,
+      "id": 26951,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-24",
+      "episode_count": 11,
+      "id": 26943,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-11",
+      "episode_count": 12,
+      "id": 68308,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-29",
+      "episode_count": 9,
+      "id": 26949,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-09",
+      "episode_count": 18,
+      "id": 26950,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-16",
+      "episode_count": 10,
+      "id": 68307,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-08",
+      "episode_count": 20,
+      "id": 68313,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-01",
+      "episode_count": 12,
+      "id": 68314,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-02",
+      "episode_count": 11,
+      "id": 68315,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-01",
+      "episode_count": 5,
+      "id": 513326,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-30",
+      "episode_count": 15,
+      "id": 513327,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-31",
+      "episode_count": 18,
+      "id": 513328,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/ab3FBnUSyhnD92WNw5RojVup2gZ.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-05",
+      "episode_count": 14,
+      "id": 513329,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/k1FjCMlQahM1ZG3r2v3VEvHc2gY.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-30",
+      "episode_count": 17,
+      "id": 513330,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/k1FjCMlQahM1ZG3r2v3VEvHc2gY.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-03",
+      "episode_count": 10,
+      "id": 513331,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/eSAbyLrIJ2IzicHA2IaNiN77kNc.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-04",
+      "episode_count": 19,
+      "id": 513332,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/k1FjCMlQahM1ZG3r2v3VEvHc2gY.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-09",
+      "episode_count": 14,
+      "id": 513333,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": "/k1FjCMlQahM1ZG3r2v3VEvHc2gY.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-03",
+      "episode_count": 10,
+      "id": 513334,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": "/k1FjCMlQahM1ZG3r2v3VEvHc2gY.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-08",
+      "episode_count": 15,
+      "id": 513335,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": "/rDz3MYC2E6gAp938ouxlytjUei7.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-09",
+      "episode_count": 10,
+      "id": 489075,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": "/rDz3MYC2E6gAp938ouxlytjUei7.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-07",
+      "episode_count": 8,
+      "id": 489076,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": "/qLcC3EkY60UPZKMmHVcLWLCPyKC.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-01",
+      "episode_count": 10,
+      "id": 489077,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": "/oY5rpHiUzIKUEX577T4TZTk1zRJ.jpg",
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-30",
+      "episode_count": 11,
+      "id": 489054,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": "/gzEZmyZhFLJpfRTJbcHh3sXP1VM.jpg",
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-07",
+      "episode_count": 14,
+      "id": 489056,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": "/gzEZmyZhFLJpfRTJbcHh3sXP1VM.jpg",
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-05",
+      "episode_count": 10,
+      "id": 489060,
+      "name": "Season 66",
+      "overview": "",
+      "poster_path": "/diZbJ4rI84eZt8bifgp39VDjrc4.jpg",
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-22",
+      "episode_count": 10,
+      "id": 496804,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": "/5xspMNPix7srofYcaqI2hv21fKZ.jpg",
+      "season_number": 67,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 9,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 15401,
+    "imdb_id": "tt0295084",
+    "freebase_mid": "/m/03cdd7_",
+    "freebase_id": null,
+    "tvdb_id": 83113,
+    "tvrage_id": 12259,
+    "wikidata_id": "Q5347634",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

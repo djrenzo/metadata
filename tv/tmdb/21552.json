@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    24
+  ],
+  "first_air_date": "1956-04-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 21552,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1958-04-01",
+  "last_episode_to_air": {
+    "id": 597150,
+    "name": "Trail Blazer",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1958-04-01",
+    "episode_number": 29,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 21552,
+    "still_path": null
+  },
+  "name": "Telephone Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 82,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Telephone Time",
+  "overview": "Telephone Time is an American anthology drama series that aired on CBS in 1956, and on ABC from 1957 to 1958. The series features plays by John Nesbitt who hosted the first season. Frank C. Baxter hosted the 1957 and 1958 seasons. The program was directed by Arthur Hiller.",
+  "popularity": 13.8033,
+  "poster_path": "/gkmQa9zWPMUBoce66ersUh8eDt6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1956-04-08",
+      "episode_count": 17,
+      "id": 31297,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-16",
+      "episode_count": 36,
+      "id": 31298,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "1957-09-10",
+      "episode_count": 29,
+      "id": 31299,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 21552,
+    "imdb_id": "tt0048903",
+    "freebase_mid": "/m/06w6vhs",
+    "freebase_id": null,
+    "tvdb_id": 72068,
+    "tvrage_id": null,
+    "wikidata_id": "Q7696483",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

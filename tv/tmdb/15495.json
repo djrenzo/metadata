@@ -1,0 +1,556 @@
+{
+  "adult": false,
+  "backdrop_path": "/pdyvOVTMCI6OAmsZrH6sESxmTmb.jpg",
+  "created_by": [
+    {
+      "id": 1767569,
+      "credit_id": "58b678d8c3a3680598007279",
+      "name": "Harry Corbett",
+      "original_name": "Harry Corbett",
+      "gender": 2,
+      "profile_path": "/c2hlNsLNVJqeav0of7wQT6YCODn.jpg"
+    }
+  ],
+  "episode_run_time": [
+    15,
+    10,
+    20
+  ],
+  "first_air_date": "1955-01-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://thesootyshow.com/",
+  "id": 15495,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1992-11-30",
+  "last_episode_to_air": {
+    "id": 1290090,
+    "name": "Fanatical Fun",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1992-11-30",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 42,
+    "show_id": 15495,
+    "still_path": null
+  },
+  "name": "The Sooty Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3546,
+      "logo_path": "/imf3gQOupRLdbwRC6FalEovuAPS.png",
+      "name": "BBC Television",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 604,
+  "number_of_seasons": 42,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Sooty Show",
+  "overview": "The Sooty Show is a British children's Puppet series which aired on the BBC from 1955 to 1967 and ITV from 1968 to 1992. It follows the adventures and comedic day to day life of puppets Sooty, Sweep and Soo with their owner Harry Corbett, and in later years, his son Matthew.",
+  "popularity": 15.9651,
+  "poster_path": "/yXypqULA3DdVZK67Nai3LnMDzDj.jpg",
+  "production_companies": [
+    {
+      "id": 5846,
+      "logo_path": "/h9O2O30eqiYaNi8qRKclV2U4Wjw.png",
+      "name": "Thames Television",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2011-11-01",
+      "episode_count": 12,
+      "id": 27057,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-01-16",
+      "episode_count": 36,
+      "id": 27047,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-10-07",
+      "episode_count": 19,
+      "id": 27048,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-29",
+      "episode_count": 19,
+      "id": 27049,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-10-12",
+      "episode_count": 17,
+      "id": 27050,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-10-11",
+      "episode_count": 19,
+      "id": 27051,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-10-09",
+      "episode_count": 18,
+      "id": 27052,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-10-01",
+      "episode_count": 12,
+      "id": 27053,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-09-30",
+      "episode_count": 8,
+      "id": 27054,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-07-14",
+      "episode_count": 21,
+      "id": 27055,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-08-23",
+      "episode_count": 12,
+      "id": 27043,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-10-03",
+      "episode_count": 13,
+      "id": 27044,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-10-09",
+      "episode_count": 13,
+      "id": 27045,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-09-10",
+      "episode_count": 13,
+      "id": 27046,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-07-30",
+      "episode_count": 14,
+      "id": 86091,
+      "name": "Season 14",
+      "overview": "The Sooty Show now moves to ITV.",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-08-06",
+      "episode_count": 14,
+      "id": 86092,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-04-27",
+      "episode_count": 14,
+      "id": 86094,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-09-04",
+      "episode_count": 18,
+      "id": 86095,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-01-06",
+      "episode_count": 13,
+      "id": 86096,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-07-14",
+      "episode_count": 13,
+      "id": 86120,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-04",
+      "episode_count": 11,
+      "id": 86148,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-09-12",
+      "episode_count": 13,
+      "id": 86149,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-09-25",
+      "episode_count": 13,
+      "id": 86151,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-03-06",
+      "episode_count": 13,
+      "id": 86152,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-12-25",
+      "episode_count": 14,
+      "id": 86163,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-09-24",
+      "episode_count": 14,
+      "id": 86169,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-10-06",
+      "episode_count": 13,
+      "id": 86205,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-09-06",
+      "episode_count": 13,
+      "id": 86214,
+      "name": "Season 27",
+      "overview": "Matthew Corbett now takes over the bulk of the work on the show.\n\nHarry Corbett has a segment in each episode where he remembers classic moments.",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-20",
+      "episode_count": 13,
+      "id": 86218,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-02-06",
+      "episode_count": 9,
+      "id": 86263,
+      "name": "Season 29",
+      "overview": "Each episode of this season has part of a serialized adventure story shown around the midway point, 'The Case of the Black Hand' stars Sooty as Sherlock Holmes tracking down 'The Master criminal'.\n\nThis is the last Season to have the \"filmed on a stage in front of a studio audience\" format. From this point on the show becomes sitcom like with the episodes set at 'Sooteries cottage'.",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-05",
+      "episode_count": 7,
+      "id": 86265,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-14",
+      "episode_count": 13,
+      "id": 86266,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-05",
+      "episode_count": 13,
+      "id": 86270,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-10-14",
+      "episode_count": 20,
+      "id": 86310,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-03",
+      "episode_count": 14,
+      "id": 86312,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-04-08",
+      "episode_count": 13,
+      "id": 86313,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-07",
+      "episode_count": 13,
+      "id": 86326,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-07",
+      "episode_count": 13,
+      "id": 86340,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-06",
+      "episode_count": 14,
+      "id": 86341,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-05",
+      "episode_count": 13,
+      "id": 86342,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-03",
+      "episode_count": 13,
+      "id": 86367,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-23",
+      "episode_count": 13,
+      "id": 86368,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-07",
+      "episode_count": 13,
+      "id": 86387,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.444,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 15495,
+    "imdb_id": "tt0264301",
+    "freebase_mid": "/m/03m3n3h",
+    "freebase_id": "/en/the_sooty_show",
+    "tvdb_id": 74461,
+    "tvrage_id": 2098,
+    "wikidata_id": "Q7765306",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

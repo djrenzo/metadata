@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1796213,
+      "credit_id": "5d25fc4f69d2801be004ab4a",
+      "name": "Vipul D. Shah",
+      "original_name": "Vipul D. Shah",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1966868,
+      "credit_id": "5d25fc5869d2802c6e014f3e",
+      "name": "Sanjeev Sharma",
+      "original_name": "Sanjeev Sharma",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2015-09-15",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://colorstv.com/in/comedy-nights-bachao/",
+  "id": 90990,
+  "in_production": true,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2016-11-26",
+  "last_episode_to_air": {
+    "id": 1847907,
+    "name": "Episode 33",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-11-26",
+    "episode_number": 33,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 2,
+    "show_id": 90990,
+    "still_path": null
+  },
+  "name": "Comedy Nights Bachao",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 524,
+      "logo_path": "/1qTv9p35O9i5x0Swg1VbfzLqYBq.png",
+      "name": "Colors",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 64,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Comedy Nights Bachao",
+  "overview": "Based on the format of roast comedy, the show features comic crusaders who take a jibe at celebrity guests testing their patience through slapstick humor and make unpleasant jokes about them.",
+  "popularity": 15.6558,
+  "poster_path": "/rGyQWDNyDkzF9sKZ33RLM3ihhNG.jpg",
+  "production_companies": [
+    {
+      "id": 112670,
+      "logo_path": "/3THCQhFGQRvmy14KSZFkFjKXNQ4.png",
+      "name": "Optimystix Entertainment India",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-15",
+      "episode_count": 31,
+      "id": 127450,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-16",
+      "episode_count": 33,
+      "id": 127451,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 90990,
+    "imdb_id": "tt8616144",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 300546,
+    "tvrage_id": null,
+    "wikidata_id": "Q20899410",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

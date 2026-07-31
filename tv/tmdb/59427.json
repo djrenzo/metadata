@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/hutyHRPoY0woAZCJtLmosJHuTjQ.jpg",
+  "created_by": [
+    {
+      "id": 1237905,
+      "credit_id": "60188c72cb3084003fce65f9",
+      "name": "Joe Casey",
+      "original_name": "Joe Casey",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 265415,
+      "credit_id": "60188c6db97442003c21988f",
+      "name": "Duncan Rouleau",
+      "original_name": "Duncan Rouleau",
+      "gender": 2,
+      "profile_path": "/hGJdEQVMOdBD9erLCbJDvcKRwsH.jpg"
+    },
+    {
+      "id": 1237903,
+      "credit_id": "60188c76fb3f61003ec74bed",
+      "name": "Steven T. Seagle",
+      "original_name": "Steven T. Seagle",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 207269,
+      "credit_id": "60188c6aea3949003f290e5d",
+      "name": "Joe Kelly",
+      "original_name": "Joe Kelly",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2013-05-26",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 59427,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2019-03-03",
+  "last_episode_to_air": {
+    "id": 1718612,
+    "name": "House of M",
+    "overview": "The past actions of Black Panther and the Avengers come back to haunt them.",
+    "vote_average": 3,
+    "vote_count": 3,
+    "air_date": "2019-03-03",
+    "episode_number": 23,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 5,
+    "show_id": 59427,
+    "still_path": "/u0VRv6E3M48NzdZ4LoUurx4LVB.jpg"
+  },
+  "name": "Marvel's Avengers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 44,
+      "logo_path": "/nKM9EnV7jTpt3MKRbhBusJ03lAY.png",
+      "name": "Disney XD",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Marvel's Avengers",
+  "overview": "The further adventures of the Marvel Universe's mightiest general membership superhero team. With an all-star roster consisting of Iron Man, Captain America, Thor, Hulk, Hawkeye, Falcon and, occasionally--when she feels like it and only when she feels like it--Black Widow, the Avengers are a team in the truest sense. The Avengers save the world from the biggest threats imaginable--threats no single super hero could withstand.",
+  "popularity": 17.5224,
+  "poster_path": "/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
+  "production_companies": [
+    {
+      "id": 13252,
+      "logo_path": "/aGeUvfSNA8gRl6ZjvmLQOsb7PMw.png",
+      "name": "Marvel Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-06-03",
+      "episode_count": 6,
+      "id": 122744,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/40T7kuvUqONopgSw8bxvTFFSLYt.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-05-26",
+      "episode_count": 26,
+      "id": 64183,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3hDR6u7vy0UgFp64KwzWCj73TKm.jpg",
+      "season_number": 1,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 26,
+      "id": 64184,
+      "name": "Season 2",
+      "overview": "The first half of the second season deals with the team facing Thanos, as he competes with them to obtain the Infinity Stones, followed by a five-episode arc detailing the return of Ultron, who plans to exterminate the human race. The rest of the season details the arrival of the Squadron Supreme and their confrontation with the Avengers.",
+      "poster_path": "/5xXLD7bR8RpXYAxlo9eIfC6VHSo.jpg",
+      "season_number": 2,
+      "vote_average": 4.4
+    },
+    {
+      "air_date": "2016-03-13",
+      "episode_count": 26,
+      "id": 75230,
+      "name": "Ultron Revolution",
+      "overview": "In season 3, Ultron returns after his apparent demise and seeks revenge on the Avengers. The Avengers must defeat him as well as new threats like Baron Zemo's Masters of Evil and Kang the Conqueror. Vision, Black Panther, Captain Marvel, Ms. Marvel, and the Inhumans are also introduced.",
+      "poster_path": "/tfwczYRkDmhHjpd5Pmzog8ZsWJD.jpg",
+      "season_number": 3,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "2017-06-17",
+      "episode_count": 25,
+      "id": 89597,
+      "name": "Secret Wars",
+      "overview": "",
+      "poster_path": "/k8Nv5b6WQUlyR6U6DLr2E5hpJ4b.jpg",
+      "season_number": 4,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2018-09-23",
+      "episode_count": 23,
+      "id": 109734,
+      "name": "Black Panther's Quest",
+      "overview": "",
+      "poster_path": "/rw9kT0ogOPmVbSlyxUFOp0jxspA.jpg",
+      "season_number": 5,
+      "vote_average": 3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 686,
+  "external_ids": {
+    "id": 59427,
+    "imdb_id": "tt2455546",
+    "freebase_mid": "/m/0k3n07b",
+    "freebase_id": null,
+    "tvdb_id": 264030,
+    "tvrage_id": 31945,
+    "wikidata_id": "Q3896442",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

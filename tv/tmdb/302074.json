@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/1bGWVysGyy7iTd0cwSZH7OVKaeb.jpg",
+  "created_by": [
+    {
+      "id": 1637030,
+      "credit_id": "68df3766cdd69eb7665b8435",
+      "name": "Carl Hiaasen",
+      "original_name": "Carl Hiaasen",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3402646,
+      "credit_id": "68df377381570d0c899727c7",
+      "name": "Rob Doherty",
+      "original_name": "Rob Doherty",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-03-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://abc.com/show/42dc1837-dd3d-4192-8185-9cda9628808c",
+  "id": 302074,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-28",
+  "last_episode_to_air": {
+    "id": 7149448,
+    "name": "Even Walls Fall Down",
+    "overview": "After R.J. learns the truth about what happened on the fateful day Lucas stole his camera, he enlists his inner circle to help him take down Victor Ochoa.",
+    "vote_average": 7,
+    "vote_count": 3,
+    "air_date": "2026-04-28",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "1XHK09",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 302074,
+    "still_path": "/wwmjQ3wFilBNzjSplgwHcz1qSNq.jpg"
+  },
+  "name": "R.J. Decker",
+  "next_episode_to_air": {
+    "id": 7601766,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-15",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 302074,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "R.J. Decker",
+  "overview": "Ex-con photographer RJ Decker becomes a PI in South Florida, solving strange cases with help from his journalist ex, her cop wife, and an enigmatic woman from his past who may help or destroy him.",
+  "popularity": 18.4068,
+  "poster_path": "/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
+  "production_companies": [
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 23829,
+      "logo_path": "/iT5fXEYjz1pzCejNmKNCylxxh4a.png",
+      "name": "Timberman/Beverly Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 291721,
+      "logo_path": null,
+      "name": "Hill of Beans Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-03-03",
+      "episode_count": 9,
+      "id": 478070,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2026-09-15",
+      "episode_count": 1,
+      "id": 532868,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Private eye. Public mess.",
+  "type": "Scripted",
+  "vote_average": 7.865,
+  "vote_count": 37,
+  "external_ids": {
+    "id": 302074,
+    "imdb_id": "tt37063558",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 466025,
+    "tvrage_id": null,
+    "wikidata_id": "Q138555024",
+    "facebook_id": null,
+    "instagram_id": "rjdeckerabc",
+    "twitter_id": "rjdeckerabc"
+  }
+}

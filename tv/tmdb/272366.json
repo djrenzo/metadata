@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/5a7uevYvf9zQ12sWxa0eEw11Ums.jpg",
+  "created_by": [
+    {
+      "id": 3096495,
+      "credit_id": "672a3bf250e15e8f5a582467",
+      "name": "Spiros Mihalopoulos",
+      "original_name": "Σπύρος Μιχαλόπουλος",
+      "gender": 2,
+      "profile_path": "/tOnxqgFMferH5eALFt2i6Zs1Ryj.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2024-09-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.alphatv.gr/show/agios-erotas/",
+  "id": 272366,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2026-06-17",
+  "last_episode_to_air": {
+    "id": 7421995,
+    "name": "Episode 130",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-17",
+    "episode_number": 130,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 65,
+    "season_number": 2,
+    "show_id": 272366,
+    "still_path": null
+  },
+  "name": "Agios Erotas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 763,
+      "logo_path": "/jaY3I8qSvcymAOMsafafhFatC80.png",
+      "name": "Alpha TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 280,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Άγιος Έρωτας",
+  "overview": "A young priest and professor of theology upsets a small town upon his arrival. Apart from charm, however, it also hides secrets. No one knows the real reason it is there. And no one can predict, least of all himself, that the young daughter of the most powerful man in the area will prove to be his greatest test.",
+  "popularity": 18.6207,
+  "poster_path": "/yJ2KgfNMPJ3NUbC6cL63v8DiMjl.jpg",
+  "production_companies": [
+    {
+      "id": 220597,
+      "logo_path": null,
+      "name": "Primavisione",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-25",
+      "episode_count": 150,
+      "id": 420075,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-23",
+      "episode_count": 130,
+      "id": 476892,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 272366,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 453774,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

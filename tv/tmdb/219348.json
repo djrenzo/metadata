@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/y7Xm7CRxR0Wxn5kLnLRZyvxEIy0.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-09-30",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://gshow.globo.com/programas/se-joga/",
+  "id": 219348,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2021-08-28",
+  "last_episode_to_air": {
+    "id": 4336866,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-08-28",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 219348,
+    "still_path": null
+  },
+  "name": "Se Joga",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 143,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Se Joga",
+  "overview": "",
+  "popularity": 28.1087,
+  "poster_path": "/l3z1npwrU5iFTWtvmbsimwyOA6q.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-30",
+      "episode_count": 119,
+      "id": 326581,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lLxsOt5FDmv50jaUPquOOJ3YkJ1.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-06",
+      "episode_count": 24,
+      "id": 326582,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/l3z1npwrU5iFTWtvmbsimwyOA6q.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 219348,
+    "imdb_id": "tt10969770",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 370307,
+    "tvrage_id": null,
+    "wikidata_id": "Q86730095",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

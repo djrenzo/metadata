@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/rfIF8tnmBCCj72s8WtKKJtlQ3wL.jpg",
+  "created_by": [
+    {
+      "id": 65304,
+      "credit_id": "6471792e9408ec013e7ffcd7",
+      "name": "Franc Roddam",
+      "original_name": "Franc Roddam",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2018-06-05",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.canalrcn.com/masterchef/",
+  "id": 127881,
+  "in_production": true,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "2025-07-29",
+  "last_episode_to_air": {
+    "id": 6415431,
+    "name": "Un veredicto difícil de pasar",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-07-29",
+    "episode_number": 34,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 7,
+    "show_id": 127881,
+    "still_path": null
+  },
+  "name": "Masterchef Celebrity: Colombia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 449,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Masterchef Celebrity: Colombia",
+  "overview": "A culinary competition featuring celebrity contestants.",
+  "popularity": 14.7812,
+  "poster_path": "/zUWqZRKdWt6UAIsLBtHGLENXOru.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-05",
+      "episode_count": 65,
+      "id": 200063,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/e1mPOW2hFBkYKvFZ39TLX23L6la.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 311380,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/839TAAG8bOB41PT2KziNXFpzrDV.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-05",
+      "episode_count": 81,
+      "id": 199892,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zUWqZRKdWt6UAIsLBtHGLENXOru.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-20",
+      "episode_count": 23,
+      "id": 245120,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/b9pmeSREgqFeAIdkry6ijEsi2E1.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-29",
+      "episode_count": 122,
+      "id": 342563,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/52TNndluyOzOdYk7ax16qu22EhH.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-18",
+      "episode_count": 123,
+      "id": 417996,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-18",
+      "episode_count": 34,
+      "id": 462416,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 2.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 127881,
+    "imdb_id": "tt15048040",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q54837855",
+    "facebook_id": null,
+    "instagram_id": "masterchefcelebrityco",
+    "twitter_id": null
+  }
+}

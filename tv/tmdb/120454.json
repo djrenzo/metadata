@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/2ykLpdtlZSnNeYHSGP5PtRqgSfU.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2016-09-26",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 120454,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-04-19",
+  "last_episode_to_air": {
+    "id": 4354661,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-04-19",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 6,
+    "show_id": 120454,
+    "still_path": null
+  },
+  "name": "Spotlight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 775,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 296,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "DE",
+    "US"
+  ],
+  "original_language": "de",
+  "original_name": "Spotlight",
+  "overview": "Profiles and interviews with sports personalities.",
+  "popularity": 21.1149,
+  "poster_path": "/w06r2rsRi8HcyQQhI2WafkTlFof.jpg",
+  "production_companies": [
+    {
+      "id": 51150,
+      "logo_path": null,
+      "name": "UFA Serial Drama",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-12-27",
+      "episode_count": 6,
+      "id": 185372,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-26",
+      "episode_count": 31,
+      "id": 185218,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-23",
+      "episode_count": 31,
+      "id": 185365,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 93,
+      "id": 185369,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-15",
+      "episode_count": 93,
+      "id": 185490,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-04",
+      "episode_count": 35,
+      "id": 185573,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-03",
+      "episode_count": 13,
+      "id": 336452,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/bclV5bGfbNZRx2yhVTPypyMRJer.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.25,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 120454,
+    "imdb_id": "tt6222202",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 335664,
+    "tvrage_id": null,
+    "wikidata_id": "Q117448683",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

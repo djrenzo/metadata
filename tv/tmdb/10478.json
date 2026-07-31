@@ -1,0 +1,736 @@
+{
+  "adult": false,
+  "backdrop_path": "/2tsV5aUtmeiIzZUHpBDUkZjTqzI.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    27
+  ],
+  "first_air_date": "1967-02-23",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "http://www.pbs.org/weta/washingtonweek/",
+  "id": 10478,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-01",
+  "last_episode_to_air": {
+    "id": 7421576,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 61,
+    "show_id": 10478,
+    "still_path": null
+  },
+  "name": "Washington Week with The Atlantic",
+  "next_episode_to_air": {
+    "id": 7421577,
+    "name": "Episode 31",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 31,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 61,
+    "show_id": 10478,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 120,
+      "logo_path": "/pjQ7a6Pplwm6KmR4kunOwoiqYaO.png",
+      "name": "National Educational Television",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 590,
+  "number_of_seasons": 60,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Washington Week with The Atlantic",
+  "overview": "Journalists participate in a round-table discussion of news events in this award-winning public affairs series. It first aired in 1967, making it the longest-running prime-time news and public affairs program on television.",
+  "popularity": 14.0279,
+  "poster_path": "/tGaKgK9WqXp9IoryrypCfg3a1vD.jpg",
+  "production_companies": [
+    {
+      "id": 10725,
+      "logo_path": "/rLfwt5kPoXfJweOsEDgJhhBnN7Q.png",
+      "name": "WETA",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-06",
+      "episode_count": 20,
+      "id": 105297,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-02-23",
+      "episode_count": 1,
+      "id": 316298,
+      "name": "1967",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-01-05",
+      "episode_count": 1,
+      "id": 316299,
+      "name": "1968",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-03",
+      "episode_count": 1,
+      "id": 316300,
+      "name": "1969",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-01-02",
+      "episode_count": 1,
+      "id": 316301,
+      "name": "1970",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-01-01",
+      "episode_count": 1,
+      "id": 316302,
+      "name": "1971",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-07",
+      "episode_count": 1,
+      "id": 316303,
+      "name": "1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-05",
+      "episode_count": 1,
+      "id": 316304,
+      "name": "1973",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-04",
+      "episode_count": 1,
+      "id": 316305,
+      "name": "1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-03",
+      "episode_count": 1,
+      "id": 316306,
+      "name": "1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-02",
+      "episode_count": 1,
+      "id": 316307,
+      "name": "1976",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-07",
+      "episode_count": 1,
+      "id": 316308,
+      "name": "1977",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-06",
+      "episode_count": 1,
+      "id": 316309,
+      "name": "1978",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-05",
+      "episode_count": 1,
+      "id": 316310,
+      "name": "1979",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-04",
+      "episode_count": 1,
+      "id": 316311,
+      "name": "1980",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-02",
+      "episode_count": 1,
+      "id": 316312,
+      "name": "1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-01",
+      "episode_count": 1,
+      "id": 316313,
+      "name": "1982",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-07",
+      "episode_count": 1,
+      "id": 316315,
+      "name": "1983",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-06",
+      "episode_count": 1,
+      "id": 316314,
+      "name": "1984",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-04",
+      "episode_count": 1,
+      "id": 316316,
+      "name": "1985",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-03",
+      "episode_count": 1,
+      "id": 316317,
+      "name": "1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-02",
+      "episode_count": 1,
+      "id": 316318,
+      "name": "1987",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-01",
+      "episode_count": 1,
+      "id": 316319,
+      "name": "1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-06",
+      "episode_count": 1,
+      "id": 316320,
+      "name": "1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-05",
+      "episode_count": 1,
+      "id": 316321,
+      "name": "1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 1,
+      "id": 316322,
+      "name": "1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-03",
+      "episode_count": 1,
+      "id": 316362,
+      "name": "1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 2,
+      "id": 316364,
+      "name": "1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-07",
+      "episode_count": 1,
+      "id": 316365,
+      "name": "1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-06",
+      "episode_count": 1,
+      "id": 316366,
+      "name": "1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-05",
+      "episode_count": 1,
+      "id": 316367,
+      "name": "1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 1,
+      "id": 316369,
+      "name": "1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 1,
+      "id": 316370,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-07",
+      "episode_count": 1,
+      "id": 316368,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-05",
+      "episode_count": 1,
+      "id": 316371,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-04",
+      "episode_count": 1,
+      "id": 316372,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-03",
+      "episode_count": 1,
+      "id": 316376,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 1,
+      "id": 316377,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-07",
+      "episode_count": 1,
+      "id": 316378,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-06",
+      "episode_count": 1,
+      "id": 316379,
+      "name": "2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-05",
+      "episode_count": 1,
+      "id": 316380,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-04",
+      "episode_count": 1,
+      "id": 316381,
+      "name": "2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 1,
+      "id": 316382,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 1,
+      "id": 316383,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-07",
+      "episode_count": 1,
+      "id": 316384,
+      "name": "2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-06",
+      "episode_count": 1,
+      "id": 316385,
+      "name": "2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-04",
+      "episode_count": 1,
+      "id": 316386,
+      "name": "2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-03",
+      "episode_count": 1,
+      "id": 316387,
+      "name": "2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 1,
+      "id": 316388,
+      "name": "2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-08",
+      "episode_count": 1,
+      "id": 316389,
+      "name": "2015",
+      "overview": "",
+      "poster_path": "/l0jxBfB2QQh4lKOGmRBbSgmBOYa.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-08",
+      "episode_count": 52,
+      "id": 105294,
+      "name": "2016",
+      "overview": "",
+      "poster_path": "/l0jxBfB2QQh4lKOGmRBbSgmBOYa.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-06",
+      "episode_count": 52,
+      "id": 105295,
+      "name": "2017",
+      "overview": "",
+      "poster_path": "/r4ipDu3Jl3cGvWazqhBKLiyvd9r.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-05",
+      "episode_count": 52,
+      "id": 105296,
+      "name": "2018",
+      "overview": "",
+      "poster_path": "/1VGSH1pRukLQW1OhJk4GIipMVUD.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-04",
+      "episode_count": 52,
+      "id": 316390,
+      "name": "2019",
+      "overview": "",
+      "poster_path": "/1VGSH1pRukLQW1OhJk4GIipMVUD.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-03",
+      "episode_count": 52,
+      "id": 316391,
+      "name": "2020",
+      "overview": "",
+      "poster_path": "/1VGSH1pRukLQW1OhJk4GIipMVUD.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 53,
+      "id": 316392,
+      "name": "2021",
+      "overview": "",
+      "poster_path": "/1827E5BqQCVMsTWbYkXjlTXYKw2.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-07",
+      "episode_count": 53,
+      "id": 241333,
+      "name": "2022",
+      "overview": "",
+      "poster_path": "/1827E5BqQCVMsTWbYkXjlTXYKw2.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 52,
+      "id": 341747,
+      "name": "2023",
+      "overview": "After nearly two years as moderator, Yamiche Alcindor steps down following the February 24th episode. Guest moderators have filled in since then with Jeffrey Goldberg taking the helm beginning August 11th.",
+      "poster_path": "/9Ntlq9HK2zpCAhcuZQJ59mblFvt.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 52,
+      "id": 395535,
+      "name": "2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-03",
+      "episode_count": 52,
+      "id": 438525,
+      "name": "2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-02",
+      "episode_count": 35,
+      "id": 497990,
+      "name": "2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 9.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 10478,
+    "imdb_id": "tt0409637",
+    "freebase_mid": "/m/05pxkj",
+    "freebase_id": "/en/washington_week",
+    "tvdb_id": 316836,
+    "tvrage_id": null,
+    "wikidata_id": "Q7972523",
+    "facebook_id": "washingtonweek",
+    "instagram_id": "washingtonweekpbs",
+    "twitter_id": "washingtonweek"
+  }
+}

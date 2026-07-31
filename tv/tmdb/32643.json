@@ -1,0 +1,658 @@
+{
+  "adult": false,
+  "backdrop_path": "/vzEuIz63NCwIkfRUtXbYsFiekdC.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1996-05-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.avrotros.nl/dit-was-het-nieuws/",
+  "id": 32643,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-04-04",
+  "last_episode_to_air": {
+    "id": 7083249,
+    "name": "Merel Westrik & Geraldine Kemper",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-04",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 50,
+    "show_id": 32643,
+    "still_path": "/tTRKErI3ohMElkdXAF0YIFqFNt.jpg"
+  },
+  "name": "Dit Was Het Nieuws",
+  "next_episode_to_air": {
+    "id": 7134396,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-03",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 51,
+    "show_id": 32643,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    },
+    {
+      "id": 729,
+      "logo_path": "/vVmQTR6osEsk7bfsKKPQEVTejIG.png",
+      "name": "TROS",
+      "origin_country": "NL"
+    },
+    {
+      "id": 1433,
+      "logo_path": "/eDObRs53SyWCHlnFoKTTnwZGPpB.png",
+      "name": "NPO 1",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2737,
+      "logo_path": "/982W7v4h7zS9yO4VZIjHw1ORCl.png",
+      "name": "NOS",
+      "origin_country": "NL"
+    },
+    {
+      "id": 6151,
+      "logo_path": "/6m7tt5SjL5GmN0NgdTVnfpymEZP.png",
+      "name": "NPO Start",
+      "origin_country": "NL"
+    },
+    {
+      "id": 7789,
+      "logo_path": "/ykwJ0zgpWtn0KN9FPPYCnNy8W3C.png",
+      "name": "AVROTROS",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 315,
+  "number_of_seasons": 51,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Dit Was Het Nieuws",
+  "overview": "Dit was het nieuws is a Dutch television program of RTL4, wherein two teams give a satirical account of the previous week's news. The program has the form of a game show in which two teams, each with a team leader and weekly guest, compete against each other. The scoring is not serious; after the first round, for instance, the score is always 4-4.",
+  "popularity": 16.7928,
+  "poster_path": "/7zqjmcWFmhoEoWt76TnHgEjXcec.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2010-06-05",
+      "episode_count": 2,
+      "id": 181903,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-05-17",
+      "episode_count": 6,
+      "id": 43908,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-17",
+      "episode_count": 7,
+      "id": 43927,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-31",
+      "episode_count": 7,
+      "id": 43919,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-06",
+      "episode_count": 7,
+      "id": 43914,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 10,
+      "id": 43912,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-12-10",
+      "episode_count": 8,
+      "id": 43916,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-06-06",
+      "episode_count": 3,
+      "id": 43905,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-14",
+      "episode_count": 8,
+      "id": 43925,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-05-26",
+      "episode_count": 6,
+      "id": 43915,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-11-17",
+      "episode_count": 7,
+      "id": 43924,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-05-18",
+      "episode_count": 7,
+      "id": 43917,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-11-09",
+      "episode_count": 8,
+      "id": 43920,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-05-17",
+      "episode_count": 6,
+      "id": 43909,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-11-08",
+      "episode_count": 7,
+      "id": 43928,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-04-24",
+      "episode_count": 7,
+      "id": 43910,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-11-06",
+      "episode_count": 7,
+      "id": 43921,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-05-07",
+      "episode_count": 6,
+      "id": 43922,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-11-12",
+      "episode_count": 7,
+      "id": 43911,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-04-29",
+      "episode_count": 6,
+      "id": 43907,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-11-18",
+      "episode_count": 6,
+      "id": 43929,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-04-23",
+      "episode_count": 6,
+      "id": 43913,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-11-10",
+      "episode_count": 6,
+      "id": 43906,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-26",
+      "episode_count": 6,
+      "id": 43926,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-11-08",
+      "episode_count": 6,
+      "id": 43923,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-25",
+      "episode_count": 6,
+      "id": 43918,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 6,
+      "id": 181814,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-05-21",
+      "episode_count": 6,
+      "id": 181815,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-01",
+      "episode_count": 5,
+      "id": 181816,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-03",
+      "episode_count": 6,
+      "id": 181817,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-08",
+      "episode_count": 7,
+      "id": 181818,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 181819,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 181820,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 181821,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 181822,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-17",
+      "episode_count": 7,
+      "id": 181823,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-09",
+      "episode_count": 7,
+      "id": 181824,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-31",
+      "episode_count": 7,
+      "id": 181825,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-07",
+      "episode_count": 7,
+      "id": 181826,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-05",
+      "episode_count": 7,
+      "id": 181827,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-14",
+      "episode_count": 7,
+      "id": 181828,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-02",
+      "episode_count": 7,
+      "id": 197537,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-24",
+      "episode_count": 7,
+      "id": 241240,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-01",
+      "episode_count": 7,
+      "id": 302159,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-09",
+      "episode_count": 7,
+      "id": 325645,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-28",
+      "episode_count": 7,
+      "id": 350115,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-07",
+      "episode_count": 7,
+      "id": 375976,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-05",
+      "episode_count": 7,
+      "id": 403330,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-02-20",
+      "episode_count": 7,
+      "id": 442526,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-04",
+      "episode_count": 7,
+      "id": 454321,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-26",
+      "episode_count": 7,
+      "id": 491721,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-09-03",
+      "episode_count": 7,
+      "id": 510059,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 32643,
+    "imdb_id": "tt0271905",
+    "freebase_mid": "/m/0bs0khw",
+    "freebase_id": null,
+    "tvdb_id": 125011,
+    "tvrage_id": null,
+    "wikidata_id": "Q2315148",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

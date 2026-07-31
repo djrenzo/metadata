@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/nzJHHM507YrrMFGWDoc0IjXrK69.jpg",
+  "created_by": [
+    {
+      "id": 4275,
+      "credit_id": "5a5a67a1c3a36867d30114d0",
+      "name": "Alain Chabat",
+      "original_name": "Alain Chabat",
+      "gender": 2,
+      "profile_path": "/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+    },
+    {
+      "id": 1247612,
+      "credit_id": "5aec101e0e0a266e1d003b54",
+      "name": "Kader Aoun",
+      "original_name": "Kader Aoun",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2001-08-27",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tmc/burger-quiz",
+  "id": 53007,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2020-04-01",
+  "last_episode_to_air": {
+    "id": 2680933,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-04-01",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 4,
+    "show_id": 53007,
+    "still_path": null
+  },
+  "name": "Burger Quiz",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 285,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1133,
+      "logo_path": "/mG8AujLo1qacorLWNXqHqMCxlPM.png",
+      "name": "TMC",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 163,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Burger Quiz",
+  "overview": "A French humorous game show taking place in a burger restaurant which is managed by the TV host.",
+  "popularity": 20.4644,
+  "poster_path": "/oiT0r9RW98aDvELLkpG2QG0uU4e.jpg",
+  "production_companies": [
+    {
+      "id": 104189,
+      "logo_path": "/bxxgJe4n4BEUjQx3aYAk7rvlMXx.png",
+      "name": "R&G Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6900,
+      "logo_path": null,
+      "name": "Chez Wam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-15",
+      "episode_count": 12,
+      "id": 56177,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-27",
+      "episode_count": 72,
+      "id": 56176,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-25",
+      "episode_count": 40,
+      "id": 103013,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/iOJYnvcMkL8AsqwpQbIN5CNVaLc.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-28",
+      "episode_count": 38,
+      "id": 113577,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/65OpHPHGF1IGQquYBQDXQXPArs0.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-20",
+      "episode_count": 13,
+      "id": 137503,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.389,
+  "vote_count": 27,
+  "external_ids": {
+    "id": 53007,
+    "imdb_id": "tt0295072",
+    "freebase_mid": "/m/0w1rs4n",
+    "freebase_id": null,
+    "tvdb_id": 255097,
+    "tvrage_id": null,
+    "wikidata_id": "Q2928453",
+    "facebook_id": "BurgerQuiz",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

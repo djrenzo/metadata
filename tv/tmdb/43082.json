@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/qo5H027TuPR3FpTMLD2l9IOLjMy.jpg",
+  "created_by": [
+    {
+      "id": 298410,
+      "credit_id": "525963c2760ee3466198f80d",
+      "name": "Keegan-Michael Key",
+      "original_name": "Keegan-Michael Key",
+      "gender": 2,
+      "profile_path": "/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "id": 291263,
+      "credit_id": "69c47eedba8d9f6fe1ade4ce",
+      "name": "Jordan Peele",
+      "original_name": "Jordan Peele",
+      "gender": 2,
+      "profile_path": "/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "2012-01-31",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.cc.com/shows/key-and-peele",
+  "id": 43082,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-09-09",
+  "last_episode_to_air": {
+    "id": 1099655,
+    "name": "The End",
+    "overview": "Ray Parker Jr. has some new songs; a man can't stop saying \"deez nuts\"; Keegan has to call 911; a young man learns about Negrotown.",
+    "vote_average": 9,
+    "vote_count": 3,
+    "air_date": "2015-09-09",
+    "episode_number": 11,
+    "episode_type": "finale",
+    "production_code": "422",
+    "runtime": 20,
+    "season_number": 5,
+    "show_id": 43082,
+    "still_path": "/cerlkqYBhAe4UGIHemSzU6A4TrQ.jpg"
+  },
+  "name": "Key & Peele",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 53,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Key & Peele",
+  "overview": "Key & Peele is an American sketch comedy television show. It stars Keegan-Michael Key and Jordan Peele, both former cast members of MADtv. Each episode of the show consists of several pre-taped sketches starring the two actors, introduced by Key and Peele in front of a live studio audience.",
+  "popularity": 18.8476,
+  "poster_path": "/24csSdkE6gbYBCK6ngknvsJ1Zdj.jpg",
+  "production_companies": [
+    {
+      "id": 88934,
+      "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+      "name": "Monkeypaw Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 299008,
+      "logo_path": null,
+      "name": "Cindylou",
+      "origin_country": "US"
+    },
+    {
+      "id": 299009,
+      "logo_path": null,
+      "name": "Martel & Roberts Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 37845,
+      "logo_path": null,
+      "name": "Principato-Young Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1538,
+      "logo_path": "/1y7qNFwczl2zZS62Hrlw6dsAwgR.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 18,
+      "id": 52548,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-31",
+      "episode_count": 8,
+      "id": 52546,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eDUXoRjFZPmw5KyYQzyzaBHTqz.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2012-09-26",
+      "episode_count": 10,
+      "id": 52547,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/uPawz6mIFh2Wfe3ey411KcQKEU7.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2013-09-18",
+      "episode_count": 13,
+      "id": 52549,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/41ZhS9SFIs5popLOC4fg1Qd702c.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2014-09-24",
+      "episode_count": 11,
+      "id": 62827,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/fwdRmdBgLwpzMUKcxLeyBlXkRPN.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2015-07-08",
+      "episode_count": 11,
+      "id": 68890,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/6ec3GwmT7H9uCn5EFiGpcoqpa3w.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.67,
+  "vote_count": 250,
+  "external_ids": {
+    "id": 43082,
+    "imdb_id": "tt1981558",
+    "freebase_mid": "/m/0hzn1l2",
+    "freebase_id": null,
+    "tvdb_id": 255325,
+    "tvrage_id": 30543,
+    "wikidata_id": "Q6398006",
+    "facebook_id": "KeyAndPeele",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

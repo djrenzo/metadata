@@ -1,0 +1,501 @@
+{
+  "adult": false,
+  "backdrop_path": "/c8db6dTAt0uLjYyQ4kyJrgZpmjQ.jpg",
+  "created_by": [
+    {
+      "id": 553297,
+      "credit_id": "5f023d1315959f00385b10d6",
+      "name": "Takashi Yanase",
+      "original_name": "やなせたかし",
+      "gender": 2,
+      "profile_path": "/cZkItyHKlRntw20zJzrqA2WeSut.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1988-10-03",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 56389,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2025-04-11",
+  "last_episode_to_air": {
+    "id": 6089792,
+    "name": "Episode 1690",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-04-11",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 38,
+    "show_id": 56389,
+    "still_path": null
+  },
+  "name": "Go! Anpanman",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 57,
+      "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+      "name": "Nippon TV",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 170,
+  "number_of_seasons": 38,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "それいけ!アンパンマン",
+  "overview": "Anpanman is a superhero who dedicates himself to the cause of justice, aiding the plight of unfortunate souls. Anpanman will go anywhere to help anyone in trouble, to drive away villains, and to save people from starvation by allowing them to eat his face. What? Let his face be eaten? No need to worry. His face is made with sweet anpan (bread filled with bean jam), hence the name Anpanman. Anpanman's very life depends on allowing others to eat, and once eaten, Anpanman can restore himself endlessly. He does not look handsome or strong, but he never fears any adventure and is continuously flying to aid the hungry people and the children with difficulties. Anpanman is the hero of the new age, glowing with friendship, endeavour and justice.",
+  "popularity": 16.6293,
+  "poster_path": "/dz2Hzfbgdh6lGV0gMbzYZRpKPX.jpg",
+  "production_companies": [
+    {
+      "id": 20868,
+      "logo_path": "/jhJGtYghSVawQJygEnJymQAqAb2.png",
+      "name": "Telecom Animation Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-11-21",
+      "episode_count": 51,
+      "id": 58200,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-03",
+      "episode_count": 52,
+      "id": 58182,
+      "name": "1988",
+      "overview": "",
+      "poster_path": "/p5gJa3Fs9MOI9qyShlgRb1RHl6W.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-09",
+      "episode_count": 50,
+      "id": 58191,
+      "name": "1989",
+      "overview": "",
+      "poster_path": "/36RLOgGCfebChG1cZz1GbzxP4Aw.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-08",
+      "episode_count": 4,
+      "id": 58190,
+      "name": "1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-07",
+      "episode_count": 1,
+      "id": 58185,
+      "name": "1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-13",
+      "episode_count": 2,
+      "id": 58196,
+      "name": "1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-11",
+      "episode_count": 1,
+      "id": 58202,
+      "name": "1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-10",
+      "episode_count": 1,
+      "id": 58198,
+      "name": "1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-09",
+      "episode_count": 2,
+      "id": 58195,
+      "name": "1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-08",
+      "episode_count": 1,
+      "id": 58192,
+      "name": "1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-10",
+      "episode_count": 2,
+      "id": 58184,
+      "name": "1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-23",
+      "episode_count": 1,
+      "id": 58201,
+      "name": "1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-08",
+      "episode_count": 1,
+      "id": 58179,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-07",
+      "episode_count": 1,
+      "id": 58187,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-05",
+      "episode_count": 1,
+      "id": 58199,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-04",
+      "episode_count": 2,
+      "id": 58180,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-10",
+      "episode_count": 1,
+      "id": 58197,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-09",
+      "episode_count": 2,
+      "id": 58189,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-07",
+      "episode_count": 1,
+      "id": 58183,
+      "name": "2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-06",
+      "episode_count": 2,
+      "id": 58181,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-05",
+      "episode_count": 1,
+      "id": 58188,
+      "name": "2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-04",
+      "episode_count": 2,
+      "id": 58186,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-09",
+      "episode_count": 1,
+      "id": 58193,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-08",
+      "episode_count": 2,
+      "id": 58194,
+      "name": "2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-07",
+      "episode_count": 1,
+      "id": 76500,
+      "name": "2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-13",
+      "episode_count": 1,
+      "id": 114952,
+      "name": "2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-04",
+      "episode_count": 2,
+      "id": 114953,
+      "name": "2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-10",
+      "episode_count": 2,
+      "id": 114951,
+      "name": "2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 422587,
+      "name": "2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 422588,
+      "name": "2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 422589,
+      "name": "2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 422590,
+      "name": "2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 401100,
+      "name": "2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 401103,
+      "name": "2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 421476,
+      "name": "2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 421477,
+      "name": "2022",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 421478,
+      "name": "2023",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 421479,
+      "name": "2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-10",
+      "episode_count": 12,
+      "id": 449451,
+      "name": "2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 56389,
+    "imdb_id": "tt0367414",
+    "freebase_mid": "/m/0wb6y9b",
+    "freebase_id": null,
+    "tvdb_id": 167921,
+    "tvrage_id": null,
+    "wikidata_id": "Q568361",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

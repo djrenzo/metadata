@@ -1,0 +1,152 @@
+{
+  "adult": false,
+  "backdrop_path": "/dvEgcDus45sslWmCzxdSkSTD8U7.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    48
+  ],
+  "first_air_date": "2013-10-28",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://noovo.ca/emissions/en-mode-salvail/",
+  "id": 64614,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2017-10-17",
+  "last_episode_to_air": {
+    "id": 1374399,
+    "name": "Episode 18",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-10-17",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 5,
+    "show_id": 64614,
+    "still_path": null
+  },
+  "name": "En mode Salvail",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 583,
+      "logo_path": "/l3TVdYRGHqcDWMXxHdofswgynW9.png",
+      "name": "V",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 398,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "En mode Salvail",
+  "overview": "What to expect: interviews, musical performances, a fierce band, surprising stories and most of all, guests who are more than happy to play along and follow Éric Salvail on his beautifully crazy tangents!",
+  "popularity": 16.9267,
+  "poster_path": "/60LW30jI1P86aNRYzn3fk6UumBN.jpg",
+  "production_companies": [
+    {
+      "id": 69536,
+      "logo_path": null,
+      "name": "Salvail & Co.",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-10-27",
+      "episode_count": 88,
+      "id": 72534,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 88,
+      "id": 72535,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-28",
+      "episode_count": 100,
+      "id": 72536,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-19",
+      "episode_count": 104,
+      "id": 79638,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-17",
+      "episode_count": 18,
+      "id": 91498,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 2,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 64614,
+    "imdb_id": "tt7730170",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 275062,
+    "tvrage_id": null,
+    "wikidata_id": "Q16632054",
+    "facebook_id": "enmodesalvail",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

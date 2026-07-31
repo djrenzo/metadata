@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": "/kNcXpTKuchASCk5hFejbra14rvo.jpg",
+  "created_by": [
+    {
+      "id": 575464,
+      "credit_id": "52597e5e760ee34661a8efcd",
+      "name": "Birol Güven",
+      "original_name": "Birol Güven",
+      "gender": 2,
+      "profile_path": "/rEfkltixTvQ0GqAv08ahUxESkUR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2012-01-24",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.trt1.com.tr/arsiv/seksenler",
+  "id": 50666,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2022-06-10",
+  "last_episode_to_air": {
+    "id": 5778546,
+    "name": "Episode 655",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-10",
+    "episode_number": 151,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 74,
+    "season_number": 10,
+    "show_id": 50666,
+    "still_path": null
+  },
+  "name": "Seksenler",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 655,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Seksenler",
+  "overview": "Turkey's series about the events experienced in the 1980s",
+  "popularity": 13.0186,
+  "poster_path": "/lRFRmCUmD8UzLhG4MnbJptX8FTL.jpg",
+  "production_companies": [
+    {
+      "id": 55071,
+      "logo_path": "/fxOS29DowOFtuaPfFgxYR2eoXP6.png",
+      "name": "MinT Production",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 55645,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-24",
+      "episode_count": 21,
+      "id": 55646,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gTEMwIXU1UPyLQO3WR9T2ceQKxA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-07-24",
+      "episode_count": 48,
+      "id": 55644,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-03",
+      "episode_count": 53,
+      "id": 138436,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-02",
+      "episode_count": 38,
+      "id": 138437,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-24",
+      "episode_count": 33,
+      "id": 138438,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-24",
+      "episode_count": 35,
+      "id": 138439,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/yEhNXFyy5BjI4VbyIPkEHTlK818.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-11",
+      "episode_count": 127,
+      "id": 138440,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-05",
+      "episode_count": 136,
+      "id": 203286,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-25",
+      "episode_count": 13,
+      "id": 203287,
+      "name": "Season 9: Summer",
+      "overview": "",
+      "poster_path": "/hGztqECMmO8VRWsg04bSJMW4hog.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-11",
+      "episode_count": 151,
+      "id": 308254,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 50666,
+    "imdb_id": "tt2361816",
+    "freebase_mid": "/m/0v0hsv8",
+    "freebase_id": null,
+    "tvdb_id": 256173,
+    "tvrage_id": 18028,
+    "wikidata_id": "Q6101572",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "SeksenlerMinT"
+  }
+}

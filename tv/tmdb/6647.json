@@ -1,0 +1,521 @@
+{
+  "adult": false,
+  "backdrop_path": "/slVKYnKNyfcPv35AG3MXlAq9IqV.jpg",
+  "created_by": [
+    {
+      "id": 1220819,
+      "credit_id": "525787b219c29531db2ad77b",
+      "name": "William J. Bell",
+      "original_name": "William J. Bell",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1689203,
+      "credit_id": "57f40aca9251417fe3001566",
+      "name": "Lee Phillip Bell",
+      "original_name": "Lee Phillip Bell",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1987-03-23",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.cbs.com/daytime/the_bold_and_the_beautiful/",
+  "id": 6647,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-22",
+  "last_episode_to_air": {
+    "id": 7547222,
+    "name": "Thursday, July 30, 2026",
+    "overview": "Dylan's unexpected confession stuns Electra. Taylor sees cracks forming in Finn's stance on Sheila.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 223,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 19,
+    "season_number": 39,
+    "show_id": 6647,
+    "still_path": null
+  },
+  "name": "The Bold and the Beautiful",
+  "next_episode_to_air": {
+    "id": 7547232,
+    "name": "Friday, July 31, 2026",
+    "overview": "Sheila confides in Li. Steffy considers the risks of Sheila's return. Will tries to make amends with Electra.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 224,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 19,
+    "season_number": 39,
+    "show_id": 6647,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8807,
+  "number_of_seasons": 39,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Bold and the Beautiful",
+  "overview": "Continuing drama combining romance and intrigue set against the glittering backdrop of Beverly Hills and the American fashion industry.",
+  "popularity": 15.2391,
+  "poster_path": "/rbmLSQHmSSCBhSfRhvToAEvSsqI.jpg",
+  "production_companies": [
+    {
+      "id": 137856,
+      "logo_path": null,
+      "name": "Bell-Phillip Television Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-03-23",
+      "episode_count": 241,
+      "id": 74877,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sBM68N6Ndxtrv9WCkB4TmI9SYBM.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "1988-03-21",
+      "episode_count": 252,
+      "id": 74878,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/5ZdToaQweSxSMZxcNjCAWjvSdMG.jpg",
+      "season_number": 2,
+      "vote_average": 9
+    },
+    {
+      "air_date": "1989-01-10",
+      "episode_count": 254,
+      "id": 74879,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/nGGbH2GU7HpRdfbWLoY6r4lKpt1.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-03-19",
+      "episode_count": 247,
+      "id": 74881,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/gJ4AhtgOHrkYJ8Fbyw6NK1tXboI.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-03-19",
+      "episode_count": 253,
+      "id": 74882,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/9brAzKqQ46GmBAxQoNAIClwA3nF.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-03-17",
+      "episode_count": 252,
+      "id": 74883,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-03-23",
+      "episode_count": 253,
+      "id": 74884,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-03-14",
+      "episode_count": 251,
+      "id": 74885,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-03-27",
+      "episode_count": 251,
+      "id": 74886,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-03-25",
+      "episode_count": 252,
+      "id": 74887,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-03-27",
+      "episode_count": 252,
+      "id": 74888,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-05",
+      "episode_count": 250,
+      "id": 74889,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-03-23",
+      "episode_count": 255,
+      "id": 74890,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2000-03-23",
+      "episode_count": 250,
+      "id": 74891,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2001-03-23",
+      "episode_count": 247,
+      "id": 74892,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-03-25",
+      "episode_count": 249,
+      "id": 74893,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-03-24",
+      "episode_count": 252,
+      "id": 74894,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-22",
+      "episode_count": 87,
+      "id": 74895,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-19",
+      "episode_count": 254,
+      "id": 74896,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-18",
+      "episode_count": 256,
+      "id": 74897,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-24",
+      "episode_count": 251,
+      "id": 74898,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 251,
+      "id": 74899,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-21",
+      "episode_count": 255,
+      "id": 74900,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 8,
+      "id": 154745,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 257,
+      "id": 74901,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 74902,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-23",
+      "episode_count": 252,
+      "id": 74903,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-22",
+      "episode_count": 253,
+      "id": 74904,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 110,
+      "id": 66620,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-19",
+      "episode_count": 145,
+      "id": 73571,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-18",
+      "episode_count": 253,
+      "id": 93074,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-17",
+      "episode_count": 251,
+      "id": 112235,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 184,
+      "id": 132677,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-21",
+      "episode_count": 250,
+      "id": 163768,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/8wDMGqVhABcSwbgkGKqvN8x3G4m.jpg",
+      "season_number": 34,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 250,
+      "id": 213794,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2022-09-26",
+      "episode_count": 250,
+      "id": 306806,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/7kuA6jfxpxQxU7gpzcxy17xdGd5.jpg",
+      "season_number": 36,
+      "vote_average": 9.2
+    },
+    {
+      "air_date": "2023-09-21",
+      "episode_count": 250,
+      "id": 354111,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/7kuA6jfxpxQxU7gpzcxy17xdGd5.jpg",
+      "season_number": 37,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2024-09-16",
+      "episode_count": 250,
+      "id": 407540,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/brUeKhjWQSR5va5bGrUMO6bpakP.jpg",
+      "season_number": 38,
+      "vote_average": 9.7
+    },
+    {
+      "air_date": "2025-09-15",
+      "episode_count": 229,
+      "id": 443232,
+      "name": "Season 39",
+      "overview": "Set in the glamorous world of the Los Angeles fashion scene, this soap opera focuses on the wealthy and powerful Forrester family.",
+      "poster_path": "/brUeKhjWQSR5va5bGrUMO6bpakP.jpg",
+      "season_number": 39,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "B&B",
+  "type": "Scripted",
+  "vote_average": 5.7,
+  "vote_count": 147,
+  "external_ids": {
+    "id": 6647,
+    "imdb_id": "tt0092325",
+    "freebase_mid": "/m/01b65l",
+    "freebase_id": "/en/the_bold_and_the_beautiful",
+    "tvdb_id": 79838,
+    "tvrage_id": null,
+    "wikidata_id": "Q82729",
+    "facebook_id": "TheBoldandtheBeautiful",
+    "instagram_id": "boldandbeautifulcbs",
+    "twitter_id": "BandB_CBS"
+  }
+}

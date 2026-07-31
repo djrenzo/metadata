@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/k5f8Z8mnInQF9KBT4M6Oxs3itKY.jpg",
+  "created_by": [
+    {
+      "id": 1628619,
+      "credit_id": "62ebc3f4f1b571006135d0fb",
+      "name": "José A. Ferrara",
+      "original_name": "José A. Ferrara",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3535452,
+      "credit_id": "62ebc3ea2736480060e26c6f",
+      "name": "Ligia Lezama",
+      "original_name": "Ligia Lezama",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1994-01-17",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 207455,
+  "in_production": false,
+  "languages": [
+    "es",
+    "ru",
+    "en"
+  ],
+  "last_air_date": "1994-08-02",
+  "last_episode_to_air": {
+    "id": 4800879,
+    "name": "Episode 137",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-08-02",
+    "episode_number": 137,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 207455,
+    "still_path": null
+  },
+  "name": "Morena Clara",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 137,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE",
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "Morena Clara",
+  "overview": "",
+  "popularity": 31.1873,
+  "poster_path": "/rW9AEsMTowj6KlVEluUBGs0eJKM.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-01-17",
+      "episode_count": 137,
+      "id": 303425,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 207455,
+    "imdb_id": "tt0222597",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1179202",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

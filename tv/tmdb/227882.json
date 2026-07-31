@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/iIXTXlAq3u15ekh3dB4Ftz66M20.jpg",
+  "created_by": [
+    {
+      "id": 4096633,
+      "credit_id": "647c82d1e323f300e524fd61",
+      "name": "小茉",
+      "original_name": "小茉",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4096632,
+      "credit_id": "647c82bb0e29a200a660e00a",
+      "name": "老高",
+      "original_name": "老高",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-05-05",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.youtube.com/@laogao",
+  "id": 227882,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2025-08-20",
+  "last_episode_to_air": {
+    "id": 6482260,
+    "name": "Episode 354",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-08-20",
+    "episode_number": 354,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 2,
+    "show_id": 227882,
+    "still_path": "/qZ6Xn6e25a1bcYXbFF3VQJ8Wu6p.jpg"
+  },
+  "name": "Mr & Mrs Gao",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 459,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "JP",
+    "SG",
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "老高与小茉",
+  "overview": "",
+  "popularity": 14.242,
+  "poster_path": "/xIvpeg9j8oa6iqBTd6qJ3BG5HoZ.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2021-06-02",
+      "episode_count": 344,
+      "id": 468231,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-05",
+      "episode_count": 76,
+      "id": 343729,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-09",
+      "episode_count": 354,
+      "id": 395351,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395353,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-03",
+      "episode_count": 29,
+      "id": 395355,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395354,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 227882,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

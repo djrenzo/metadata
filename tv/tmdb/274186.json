@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/tYdiOHuCXBufdeCrkD5ozGNcASZ.jpg",
+  "created_by": [
+    {
+      "id": 1838797,
+      "credit_id": "67a0cb4d776edf4be39550a6",
+      "name": "Patrícia Müller",
+      "original_name": "Patrícia Müller",
+      "gender": 1,
+      "profile_path": "/wnIw64LJsCubJWly0jmDz8U5LLP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2025-02-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 274186,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2026-05-16",
+  "last_episode_to_air": {
+    "id": 7555121,
+    "name": "Episode 241",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 241,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 274186,
+    "still_path": "/kJmrt7NlVTBRaH2bsq9OlaQDCLl.jpg"
+  },
+  "name": "A Protegida",
+  "next_episode_to_air": {
+    "id": 7596808,
+    "name": "Episode 242",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-01",
+    "episode_number": 242,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 274186,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 235,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "A Protegida",
+  "overview": "In the heart of the Alentejo countryside, Mariana and José Diogo are two children whose backgrounds could not be more different: she is the fruit of a loving relationship; he's an orphan. She has a safe haven in her family to run to when she gets hurt; he can only run to her.",
+  "popularity": 18.2784,
+  "poster_path": "/qUcK2iHLuYlAXbq3bEmWmQ93zlc.jpg",
+  "production_companies": [
+    {
+      "id": 86448,
+      "logo_path": "/ouoDVGGHRAE7WfPtMKZn6kKDMec.png",
+      "name": "TVI - Televisão Independente",
+      "origin_country": "PT"
+    },
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-02-17",
+      "episode_count": 242,
+      "id": 423241,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qUcK2iHLuYlAXbq3bEmWmQ93zlc.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 274186,
+    "imdb_id": "tt33719192",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 460139,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

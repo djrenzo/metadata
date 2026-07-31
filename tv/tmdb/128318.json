@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2000-08-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 128318,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2000-08-01",
+  "last_episode_to_air": {
+    "id": 3048516,
+    "name": "Episode 267",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-08-01",
+    "episode_number": 267,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 128318,
+    "still_path": "/ju2kWWbTH6TxfnvNULwJOyAPASg.jpg"
+  },
+  "name": "Idler: Sister Ma",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 455,
+      "logo_path": "/nVB8ZIvScEvI4vKT3h4PXjeUR5U.png",
+      "name": "Beijing Television 北京卫视",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 267,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "闲人马大姐",
+  "overview": "Chinese sitcom set in a residential neighborhood in Beijing, centered on Ma Xiao Yan, a middle aged woman known as Sister Ma, her relatives and friends.",
+  "popularity": 14.9829,
+  "poster_path": "/3ZaDKlJbEXs6pmhNdzGWHhSr3zP.jpg",
+  "production_companies": [
+    {
+      "id": 123012,
+      "logo_path": null,
+      "name": "英氏影视公司",
+      "origin_country": ""
+    },
+    {
+      "id": 206627,
+      "logo_path": null,
+      "name": "北京亚环影音制作有限公司",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-08-01",
+      "episode_count": 267,
+      "id": 200605,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/EbH4QP2SD3RtTqkCIwbAORDHP0.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 128318,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 360013,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

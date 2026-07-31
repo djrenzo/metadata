@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2014-09-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 208303,
+  "in_production": false,
+  "languages": [
+    "lt"
+  ],
+  "last_air_date": "2017-03-23",
+  "last_episode_to_air": {
+    "id": 4085135,
+    "name": "Episode 115",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-03-23",
+    "episode_number": 115,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 3,
+    "show_id": 208303,
+    "still_path": null
+  },
+  "name": "Rezidentai",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 785,
+      "logo_path": "/9HKK1RivzMGNQXfo3Cgi1Ptm5cF.png",
+      "name": "TV3",
+      "origin_country": "LT"
+    }
+  ],
+  "number_of_episodes": 279,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "LT"
+  ],
+  "original_language": "lt",
+  "original_name": "Rezidentai",
+  "overview": "",
+  "popularity": 29.8488,
+  "poster_path": "/sX9FOFdtyTvfexhOL5ao3aDPEQS.jpg",
+  "production_companies": [
+    {
+      "id": 97578,
+      "logo_path": "/wOvuCsQ2i2uRRK6uMP6k6JW5BEi.png",
+      "name": "Videometra",
+      "origin_country": "LT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 45,
+      "id": 304911,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sX9FOFdtyTvfexhOL5ao3aDPEQS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-30",
+      "episode_count": 119,
+      "id": 316222,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/n5pFDbQtDbMCx084B5U9psxAd87.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 115,
+      "id": 316223,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/sX9FOFdtyTvfexhOL5ao3aDPEQS.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvių"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 208303,
+    "imdb_id": "tt9835468",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 333108,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "Rezidentai",
+    "instagram_id": "tv3televizija",
+    "twitter_id": "rezidentai"
+  }
+}

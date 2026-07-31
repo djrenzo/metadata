@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/qht3Kk0qt345f1tX2aIk9GFlDAy.jpg",
+  "created_by": [
+    {
+      "id": 2163002,
+      "credit_id": "61eeff7c02842000c17e640c",
+      "name": "Giorgos Kritikos",
+      "original_name": "Γιώργος Κρητικός",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-10-03",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.alphatv.gr/show/ela-sti-thesi-moy/",
+  "id": 87215,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2021-07-09",
+  "last_episode_to_air": {
+    "id": 3466256,
+    "name": "Episode 208",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-07-09",
+    "episode_number": 208,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 5,
+    "show_id": 87215,
+    "still_path": null
+  },
+  "name": "Ela sti thesi mou",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 763,
+      "logo_path": "/jaY3I8qSvcymAOMsafafhFatC80.png",
+      "name": "Alpha TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 934,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Έλα στη Θέση μου",
+  "overview": "A closeted young man goes home for the holidays and struggles to reveal his dire circumstances to his conservative family.",
+  "popularity": 13.7231,
+  "poster_path": "/xNS9txJaBEa8YWVj6g5kI70rlRD.jpg",
+  "production_companies": [
+    {
+      "id": 116730,
+      "logo_path": null,
+      "name": "J.K. Productions",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-10-03",
+      "episode_count": 188,
+      "id": 119658,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 186,
+      "id": 241237,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 187,
+      "id": 241239,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 165,
+      "id": 241242,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 208,
+      "id": 241270,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 87215,
+    "imdb_id": "tt6353592",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 317988,
+    "tvrage_id": null,
+    "wikidata_id": "Q31942212",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "adult": false,
+  "backdrop_path": "/iYW7VpKmr7J3VaDb7xaikk89nbm.jpg",
+  "created_by": [
+    {
+      "id": 100197,
+      "credit_id": "651c3619967cc73425f1c409",
+      "name": "Jools Holland",
+      "original_name": "Jools Holland",
+      "gender": 2,
+      "profile_path": "/e1JATtQMNq3KM2KN8mKUw4uIOkL.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1992-10-09",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/later/",
+  "id": 10959,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-07",
+  "last_episode_to_air": {
+    "id": 7402029,
+    "name": "Episode 6",
+    "overview": "Jools welcomes queen of country pop Shania Twain, global star Sam Smith, poet and songwriter Arlo Parks, Quebec duo Angine de Poitrine and Geordie jazz band Knats.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-21",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 68,
+    "show_id": 10959,
+    "still_path": "/7hXcLzTVuZsnMyYLCuV3mH6YB5G.jpg"
+  },
+  "name": "Later... with Jools Holland",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 477,
+  "number_of_seasons": 68,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Later... with Jools Holland",
+  "overview": "Later... with Jools Holland is a contemporary British music television show hosted by Jools Holland.",
+  "popularity": 14.7471,
+  "poster_path": "/d5CQAazlyahqsJlb7WLBvhmHOYE.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1995-02-05",
+      "episode_count": 47,
+      "id": 295506,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-10-08",
+      "episode_count": 10,
+      "id": 220650,
+      "name": "Season 1",
+      "overview": "Jools Holland introduces a new ten-part live music series.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-05-06",
+      "episode_count": 10,
+      "id": 220721,
+      "name": "Season 2",
+      "overview": "Jools returns for his second series of live music.",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-05-06",
+      "episode_count": 7,
+      "id": 235375,
+      "name": "Season 3",
+      "overview": "Series 3 of Jools Holland's live music showcase.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-11-04",
+      "episode_count": 6,
+      "id": 235376,
+      "name": "Season 4",
+      "overview": "Jools Holland returns for the fourth season of his eclectic music show.",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-05-12",
+      "episode_count": 6,
+      "id": 235377,
+      "name": "Season 5",
+      "overview": "Jools Holland makes a welcome return with another series of live music.",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-06-30",
+      "episode_count": 6,
+      "id": 235378,
+      "name": "Season 6",
+      "overview": "Series six of the wide ranging music showcase.",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-03-30",
+      "episode_count": 6,
+      "id": 235379,
+      "name": "Season 7",
+      "overview": "Jools Holland returns with another eclectic blend of live music performances.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-28",
+      "episode_count": 6,
+      "id": 235380,
+      "name": "Season 8",
+      "overview": "Season 8 of Jools Holland's live music showcase.",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-21",
+      "episode_count": 6,
+      "id": 235382,
+      "name": "Season 9",
+      "overview": "Series 9 of Jools Holland's eclectic live music mix.",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-05",
+      "episode_count": 6,
+      "id": 235383,
+      "name": "Season 10",
+      "overview": "Jools Holland introduces the 10th series of his live music showcase.",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-02-13",
+      "episode_count": 6,
+      "id": 235384,
+      "name": "Season 11",
+      "overview": "Series 11 of the live music showcase.",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-16",
+      "episode_count": 8,
+      "id": 235385,
+      "name": "Season 12",
+      "overview": "Jools Holland returns with another eclectic mix of artists.",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-04-16",
+      "episode_count": 6,
+      "id": 235386,
+      "name": "Season 13",
+      "overview": "Jools Holland introduces another collection of live performances.",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-16",
+      "episode_count": 8,
+      "id": 235387,
+      "name": "Season 14",
+      "overview": "Another eclectic mix of live music.",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-04-14",
+      "episode_count": 6,
+      "id": 235388,
+      "name": "Season 15",
+      "overview": "Jools Holland returns with his fifteenth series of live music.",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-13",
+      "episode_count": 8,
+      "id": 235776,
+      "name": "Season 16",
+      "overview": "Series sixteen of the eclectic music show.",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-04-13",
+      "episode_count": 6,
+      "id": 235391,
+      "name": "Season 17",
+      "overview": "Jools Holland introduces another collection of top drawer performances.",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-12",
+      "episode_count": 8,
+      "id": 235393,
+      "name": "Season 18",
+      "overview": "Highlights from the new series of Later include Alicia Keys, Muse and The Beta Band.",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-12",
+      "episode_count": 6,
+      "id": 235394,
+      "name": "Season 19",
+      "overview": "Another eclectic blend of live music from Jools Holland.",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-18",
+      "episode_count": 8,
+      "id": 235395,
+      "name": "Season 20",
+      "overview": "Jools Holland presents the twentieth series of his live music show.",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-05-16",
+      "episode_count": 6,
+      "id": 235626,
+      "name": "Season 21",
+      "overview": "Series twenty-one of the eclectic show.",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-17",
+      "episode_count": 6,
+      "id": 235627,
+      "name": "Season 22",
+      "overview": "Jools Holland returns with another series of live studio performances.",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-05-07",
+      "episode_count": 7,
+      "id": 235628,
+      "name": "Season 23",
+      "overview": "Jools Holland introduces another series of live performances.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-01",
+      "episode_count": 7,
+      "id": 235629,
+      "name": "Season 24",
+      "overview": "Series twenty-four of Jools Holland's live music showcase.",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-05-13",
+      "episode_count": 9,
+      "id": 235630,
+      "name": "Season 25",
+      "overview": "Jools Holland returns for his twenty-fifth series of Later...",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-21",
+      "episode_count": 7,
+      "id": 235767,
+      "name": "Season 26",
+      "overview": "Jools Holland returns for his twenty-sixth series of Later...",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-05-05",
+      "episode_count": 8,
+      "id": 235768,
+      "name": "Season 27",
+      "overview": "Jools Holland returns for his twenty-seventh series of Later...",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-11-03",
+      "episode_count": 6,
+      "id": 235769,
+      "name": "Season 28",
+      "overview": "Jools Holland returns for his twenty-eighth series of Later...",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-05-04",
+      "episode_count": 6,
+      "id": 235770,
+      "name": "Season 29",
+      "overview": "Jools Holland returns for his twenty-ninth series of Later...",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-11-02",
+      "episode_count": 8,
+      "id": 235771,
+      "name": "Season 30",
+      "overview": "Jools Holland returns for his thirtieth series of Later…",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-01",
+      "episode_count": 6,
+      "id": 237300,
+      "name": "Season 31",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-03-31",
+      "episode_count": 8,
+      "id": 237301,
+      "name": "Season 32",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-16",
+      "episode_count": 9,
+      "id": 237302,
+      "name": "Season 33",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-10",
+      "episode_count": 7,
+      "id": 237303,
+      "name": "Season 34",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 10,
+      "id": 237304,
+      "name": "Season 35",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-13",
+      "episode_count": 7,
+      "id": 246461,
+      "name": "Season 36",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-17",
+      "episode_count": 10,
+      "id": 246462,
+      "name": "Season 37",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-08",
+      "episode_count": 8,
+      "id": 246466,
+      "name": "Season 38",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-23",
+      "episode_count": 10,
+      "id": 246463,
+      "name": "Season 39",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-20",
+      "episode_count": 6,
+      "id": 246464,
+      "name": "Season 40",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-25",
+      "episode_count": 10,
+      "id": 283087,
+      "name": "Season 41",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-12",
+      "episode_count": 8,
+      "id": 295049,
+      "name": "Season 42",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists.",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-20",
+      "episode_count": 8,
+      "id": 283811,
+      "name": "Season 43",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-04-18",
+      "episode_count": 7,
+      "id": 295051,
+      "name": "Season 44",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists.",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-19",
+      "episode_count": 8,
+      "id": 283843,
+      "name": "Season 45",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-17",
+      "episode_count": 7,
+      "id": 283844,
+      "name": "Season 46",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-18",
+      "episode_count": 8,
+      "id": 283849,
+      "name": "Season 47",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-22",
+      "episode_count": 7,
+      "id": 283813,
+      "name": "Season 48",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-16",
+      "episode_count": 8,
+      "id": 283841,
+      "name": "Season 49",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-12",
+      "episode_count": 8,
+      "id": 295052,
+      "name": "Season 50",
+      "overview": "Jools Holland introduces a diverse mix of new musical talent and established artists.",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-30",
+      "episode_count": 6,
+      "id": 295056,
+      "name": "Season 51",
+      "overview": "Music programme featuring sessions from contemporary and classic artists.",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-12",
+      "episode_count": 6,
+      "id": 104938,
+      "name": "Season 52",
+      "overview": "Music sessions from classic and contemporary artists.",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-29",
+      "episode_count": 6,
+      "id": 295453,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-17",
+      "episode_count": 6,
+      "id": 295454,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-15",
+      "episode_count": 6,
+      "id": 295455,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-25",
+      "episode_count": 7,
+      "id": 295456,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-19",
+      "episode_count": 6,
+      "id": 295457,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-14",
+      "episode_count": 6,
+      "id": 295458,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-02",
+      "episode_count": 6,
+      "id": 283845,
+      "name": "Autumn 2021",
+      "overview": "Jools Holland chats to contemporary artists at his studio Helicon Mountain, introduces live performances and delves into the Later… archive.",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-14",
+      "episode_count": 6,
+      "id": 294061,
+      "name": "Series 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-01",
+      "episode_count": 6,
+      "id": 310216,
+      "name": "Series 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-20",
+      "episode_count": 6,
+      "id": 341757,
+      "name": "Series 62",
+      "overview": "Jools brings together hot, legendary and undiscovered artists for live studio performances, interviews and musical magic.",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-14",
+      "episode_count": 6,
+      "id": 362956,
+      "name": "Series 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-18",
+      "episode_count": 6,
+      "id": 393066,
+      "name": "Series 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-19",
+      "episode_count": 6,
+      "id": 425938,
+      "name": "Series 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-05-18",
+      "episode_count": 6,
+      "id": 457397,
+      "name": "Series 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-05",
+      "episode_count": 6,
+      "id": 477256,
+      "name": "Series 67",
+      "overview": "",
+      "poster_path": "/iQTvli8B2F8lrhZm5W5eguKUsNc.jpg",
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-17",
+      "episode_count": 6,
+      "id": 515031,
+      "name": "Series 68",
+      "overview": "",
+      "poster_path": "/d5CQAazlyahqsJlb7WLBvhmHOYE.jpg",
+      "season_number": 68,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.6,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 10959,
+    "imdb_id": "tt0103469",
+    "freebase_mid": "/m/01wkth",
+    "freebase_id": "/en/later_with_jools_holland",
+    "tvdb_id": 72150,
+    "tvrage_id": null,
+    "wikidata_id": "Q616417",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-01-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 223248,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-01-23",
+  "last_episode_to_air": {
+    "id": 6186339,
+    "name": "Episode 100",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-01-23",
+    "episode_number": 100,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 223248,
+    "still_path": null
+  },
+  "name": "益智宝贝",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 660,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "益智宝贝",
+  "overview": "",
+  "popularity": 14.2556,
+  "poster_path": "/hJIjpDbAounpMCVrQcVMjRpMW7D.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 460,
+      "id": 334450,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hLR80lhaXlw8KiAz5uXmHZWrNCS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-01",
+      "episode_count": 100,
+      "id": 438396,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7sHQWy6MvtKFA6hGXPdknDxniYm.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-01",
+      "episode_count": 100,
+      "id": 453717,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/wygur5FoSm5waedSzhgjlUw2a6C.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 223248,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "adult": false,
+  "backdrop_path": "/zYsrtMe8iw2aD02W5PuoSRDJKNg.jpg",
+  "created_by": [
+    {
+      "id": 570328,
+      "credit_id": "60ca38642fccee0056cc7ee2",
+      "name": "Zep",
+      "original_name": "Zep",
+      "gender": 2,
+      "profile_path": "/Fu8SUZfR8IGlWb1fFrumVuYFkz.jpg"
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "2001-04-04",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 66610,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2017-06-11",
+  "last_episode_to_air": {
+    "id": 1943967,
+    "name": "Episode 75",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-06-11",
+    "episode_number": 75,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 10,
+    "season_number": 4,
+    "show_id": 66610,
+    "still_path": "/h2OkC5dHHGCR2wnA8N38CUjTcTO.jpg"
+  },
+  "name": "Tootuff",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 682,
+      "logo_path": "/uMMKGhrUmfXtE5SXLCyNtH6gJsV.png",
+      "name": "Canal J",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 326,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "original_language": "fr",
+  "original_name": "Titeuf",
+  "overview": "",
+  "popularity": 19.0944,
+  "poster_path": "/58BLXyYTVx1yw78Cu83itWNhE3F.jpg",
+  "production_companies": [
+    {
+      "id": 62041,
+      "logo_path": "/tqvwJdwaZxDqgsqUoyN1ogCjEjO.png",
+      "name": "MoonScoop",
+      "origin_country": "FR"
+    },
+    {
+      "id": 51894,
+      "logo_path": "/5MzegO5DwTgaoVKmWgLekEhA79z.png",
+      "name": "France Animation",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-04-04",
+      "episode_count": 78,
+      "id": 77414,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/iauYE7xNEZobly8PvJc3XOuwPfQ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-01",
+      "episode_count": 16,
+      "id": 78521,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fXE3EwF4dKACnC5SqUmm3ls0xg0.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-27",
+      "episode_count": 160,
+      "id": 78522,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/snxQ13QvGFYm5z5Q3wgqpQaL6qm.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-16",
+      "episode_count": 76,
+      "id": 78523,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/dongNj44M1pfewyzhUFKT6Tk9wO.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.955,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 66610,
+    "imdb_id": "tt0281498",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 100991,
+    "tvrage_id": null,
+    "wikidata_id": "Q174874",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

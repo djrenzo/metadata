@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/xpvADQD7auqYtaHU8NS6T0FmFzI.jpg",
+  "created_by": [
+    {
+      "id": 1232847,
+      "credit_id": "58e653a5c3a3684a79032cc6",
+      "name": "Inés Rodena",
+      "original_name": "Inés Rodena",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1979-04-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 12680,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1980-03-21",
+  "last_episode_to_air": {
+    "id": 4511654,
+    "name": "Chapter 248",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1980-03-21",
+    "episode_number": 248,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 1,
+    "show_id": 12680,
+    "still_path": "/tuKvg8hTSNq7iFDfZxnS0V4McVZ.jpg"
+  },
+  "name": "The Rich Also Cry",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 248,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Los ricos también lloran",
+  "overview": "Popular telenovela produced in Mexico in 1979, starring Verónica Castro, Rogelio Guerra and Rocío Banquells. Castro also sang the theme Aprendí a Llorar, a song written by Lolita de la Colina. The telenovela was produced by Chilean Valentín Pimstein and Carlos Romero, it was directed by Rafael Banquells. The story was written by Inés Rodena and adapted by Valeria Philips.",
+  "popularity": 16.3457,
+  "poster_path": "/bYrC9ReL44aNI6uxAYSGN50r7Yb.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1979-04-09",
+      "episode_count": 248,
+      "id": 87168,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bYrC9ReL44aNI6uxAYSGN50r7Yb.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 12680,
+    "imdb_id": "tt0211855",
+    "freebase_mid": "/m/0768p2",
+    "freebase_id": "/en/los_ricos_tambien_lloran",
+    "tvdb_id": 296990,
+    "tvrage_id": null,
+    "wikidata_id": "Q1261532",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

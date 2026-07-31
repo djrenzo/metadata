@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/vDZ8fJhiMDVINf7mJcmKj6pYaYV.jpg",
+  "created_by": [
+    {
+      "id": 488,
+      "credit_id": "525412e019c2957940354c89",
+      "name": "Steven Spielberg",
+      "original_name": "Steven Spielberg",
+      "gender": 2,
+      "profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "id": 1211984,
+      "credit_id": "59ddd7159251412505084b36",
+      "name": "John Falsey",
+      "original_name": "John Falsey",
+      "gender": 2,
+      "profile_path": "/mwgwFERqIG5PWuWIDOHtl9pK9aJ.jpg"
+    },
+    {
+      "id": 23757,
+      "credit_id": "59ddd718925141251408a5b0",
+      "name": "Joshua Brand",
+      "original_name": "Joshua Brand",
+      "gender": 2,
+      "profile_path": "/w1Y4d7SE9fzNcV4y1lyk7P2CdnH.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1985-09-29",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://tv.apple.com/us/show/amazing-stories/umc.cmc.15p55n2osur6c56uam2gxhye3",
+  "id": 1026,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1987-04-10",
+  "last_episode_to_air": {
+    "id": 54513,
+    "name": "Miss Stardust",
+    "overview": "An extraterrestrial threatens to destroy the earth unless the \"Miss Stardust\" beauty-pageant promoter allows entrants from other planets.",
+    "vote_average": 7.3,
+    "vote_count": 7,
+    "air_date": "1987-04-10",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 2,
+    "show_id": 1026,
+    "still_path": "/yRmsFSIEEtmBUB0fJzHqkaekfZc.jpg"
+  },
+  "name": "Amazing Stories",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 45,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Amazing Stories",
+  "overview": "A truly amazing, fantastical, science fiction, funny and odd, and sometimes scary, sad and endearing anthology series presented by Steven Spielberg with guest appearances by many famous actors, actresses, and directors.",
+  "popularity": 17.6242,
+  "poster_path": "/66Utyft9WHPQJSU7f7MbEB72dkc.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1985-09-29",
+      "episode_count": 24,
+      "id": 2924,
+      "name": "Season 1",
+      "overview": "The first season of this anthology series sets the tone with tales of light humor and even heavy drama with a twist of magic!",
+      "poster_path": "/40xGUyMjBK1cQb2NZeVGHfhnIrf.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1986-09-22",
+      "episode_count": 21,
+      "id": 2923,
+      "name": "Season 2",
+      "overview": "The second season of this anthology series continues unique tales of fun, adventure and excitement!",
+      "poster_path": "/f5Z18c36UY8X0STfXtqRVCDu9Ze.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.478,
+  "vote_count": 231,
+  "external_ids": {
+    "id": 1026,
+    "imdb_id": "tt0088478",
+    "freebase_mid": "/m/037wr5",
+    "freebase_id": null,
+    "tvdb_id": 76149,
+    "tvrage_id": 2583,
+    "wikidata_id": "Q940102",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

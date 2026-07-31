@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/pWVSgA0zdrmhi4ZH22WtGei643g.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2001-01-19",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 319412,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2020-03-22",
+  "last_episode_to_air": {
+    "id": 7143388,
+    "name": "Episode 888",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-25",
+    "episode_number": 888,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 319412,
+    "still_path": null
+  },
+  "name": "Reporter",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 571,
+      "logo_path": "/txYJaM2VKunNRk3JooH1mnsVSOg.png",
+      "name": "SRF 1",
+      "origin_country": "CH"
+    }
+  ],
+  "number_of_episodes": 736,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_name": "Reporter",
+  "overview": "",
+  "popularity": 33.019,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-01-19",
+      "episode_count": 883,
+      "id": 510338,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 319412,
+    "imdb_id": "tt14467422",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 341328,
+    "tvrage_id": null,
+    "wikidata_id": "Q2798011",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

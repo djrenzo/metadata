@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 55983,
+      "credit_id": "5257fec119c29531db339893",
+      "name": "Jim Henson",
+      "original_name": "Jim Henson",
+      "gender": 2,
+      "profile_path": "/93vzGW2kWwmAJ8HpbErzKMHXDME.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1989-04-14",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10254,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1993-08-07",
+  "last_episode_to_air": {
+    "id": 421757,
+    "name": "Living with Dinosaurs",
+    "overview": "A socially awkward boy struggles with a new school, an unemployed stepfather, a pregnant mother, and asthma. The boy finds comfort in his favorite stuffed toy, a dinosaur named Dog.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1993-08-07",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 10254,
+    "still_path": null
+  },
+  "name": "The Jim Henson Hour",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Jim Henson Hour",
+  "overview": "An hour-long anthology series hosted by Jim Henson and generally included two segments. The first, MuppeTelevision, features comedy skits starring the Muppets, as well as frequent guest appearances by popular entertainers. The second often rebroadcasts original productions, primarily The StoryTeller.",
+  "popularity": 10.8101,
+  "poster_path": "/w3ETHcUlUexcmYNN4FuLyLH6UmX.jpg",
+  "production_companies": [
+    {
+      "id": 2504,
+      "logo_path": "/yxP3Gnk7sm7rACmDj0InTjXZw8R.png",
+      "name": "Jim Henson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 77036,
+      "logo_path": "/kOMlBrT2bnbGYYWnHryWjrezZJ7.png",
+      "name": "Jim Henson Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-09-25",
+      "episode_count": 2,
+      "id": 20269,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-04-14",
+      "episode_count": 12,
+      "id": 20268,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 7.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 10254,
+    "imdb_id": "tt0096619",
+    "freebase_mid": "/m/02s8jc",
+    "freebase_id": "/en/the_jim_henson_hour",
+    "tvdb_id": 70713,
+    "tvrage_id": null,
+    "wikidata_id": "Q7743268",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

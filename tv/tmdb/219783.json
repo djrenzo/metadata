@@ -1,0 +1,196 @@
+{
+  "adult": false,
+  "backdrop_path": "/cSGIZSkGEKxZD2HWWu1kgFnXXoU.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-02-05",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://program.kbs.co.kr/2tv/enter/theseasons/pc/index.html",
+  "id": 219783,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-06-12",
+  "last_episode_to_air": {
+    "id": 7588421,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 219783,
+    "still_path": null
+  },
+  "name": "The Seasons",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 149,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "더 시즌즈",
+  "overview": "",
+  "popularity": 14.5321,
+  "poster_path": "/5WUFnTXfJkadGV5Ho5JzhdZ3sH0.jpg",
+  "production_companies": [
+    {
+      "id": 74238,
+      "logo_path": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-20",
+      "episode_count": 1,
+      "id": 522522,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-05",
+      "episode_count": 12,
+      "id": 327515,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/21GDnusL4C44q1XtmgBZc1ZC8Pa.jpg",
+      "season_number": 1,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2023-05-14",
+      "episode_count": 14,
+      "id": 339844,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/zmRaRYxDoG61sjDc5l7Wn9SlKiG.jpg",
+      "season_number": 2,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2023-09-01",
+      "episode_count": 14,
+      "id": 354210,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/xIEl6bJIXWwZmlGAVv5knxdfAES.jpg",
+      "season_number": 3,
+      "vote_average": 9.7
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 13,
+      "id": 371649,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/fbMeXnN6PqVeTISRX6aasWNdsAL.jpg",
+      "season_number": 4,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": "2024-04-26",
+      "episode_count": 17,
+      "id": 388666,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/u2XWPDfmKdwShc3eVxqjiAaxbS0.jpg",
+      "season_number": 5,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2024-09-27",
+      "episode_count": 20,
+      "id": 419447,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/sseqyHZKiQ8Oon74nXs4EPxXLOa.jpg",
+      "season_number": 6,
+      "vote_average": 9.6
+    },
+    {
+      "air_date": "2025-03-14",
+      "episode_count": 22,
+      "id": 444749,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/vFjZHitUA78RCIQllO7FhNo37ea.jpg",
+      "season_number": 7,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": "2025-09-05",
+      "episode_count": 25,
+      "id": 471328,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/cv3rZ6zcH4fCCLlfVikc1YTg4B8.jpg",
+      "season_number": 8,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2026-03-27",
+      "episode_count": 17,
+      "id": 505629,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/1SGB23LR7QVQKWgD3KksS20aMGc.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 219783,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 430505,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "theseasons2023",
+    "twitter_id": null
+  }
+}

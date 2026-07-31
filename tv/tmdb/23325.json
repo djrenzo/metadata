@@ -1,0 +1,287 @@
+{
+  "adult": false,
+  "backdrop_path": "/7IhirVZmkVQKUO5mmH1cG3OuOE.jpg",
+  "created_by": [
+    {
+      "id": 1224145,
+      "credit_id": "539dc8bb0e0a261335005152",
+      "name": "Stefan Kuhlmann",
+      "original_name": "Stefan Kuhlmann",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1995-12-27",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 23325,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2012-06-09",
+  "last_episode_to_air": {
+    "id": 1065035,
+    "name": "Episode 21",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-06-09",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 16,
+    "show_id": 23325,
+    "still_path": null
+  },
+  "name": "Unser Charly",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 221,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Unser Charly",
+  "overview": "The exciting stories about the cheeky chimpanzee Charly, who finds a new home with a Berlin vet family.",
+  "popularity": 14.6317,
+  "poster_path": "/kp2FfrHfgvKN2azjsTr9vswTkJw.jpg",
+  "production_companies": [
+    {
+      "id": 2125,
+      "logo_path": null,
+      "name": "Phoenix Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1358,
+      "logo_path": null,
+      "name": "Phoebus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-12-27",
+      "episode_count": 5,
+      "id": 33263,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-12-26",
+      "episode_count": 13,
+      "id": 33264,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-26",
+      "episode_count": 14,
+      "id": 33265,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-20",
+      "episode_count": 16,
+      "id": 33266,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-12-31",
+      "episode_count": 16,
+      "id": 33267,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-26",
+      "episode_count": 15,
+      "id": 33268,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-12-25",
+      "episode_count": 15,
+      "id": 33269,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-20",
+      "episode_count": 13,
+      "id": 33270,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-06",
+      "episode_count": 13,
+      "id": 33271,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-12-25",
+      "episode_count": 13,
+      "id": 33272,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-25",
+      "episode_count": 13,
+      "id": 33273,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-06",
+      "episode_count": 13,
+      "id": 33274,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-26",
+      "episode_count": 13,
+      "id": 33275,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-26",
+      "episode_count": 13,
+      "id": 33276,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-09",
+      "episode_count": 15,
+      "id": 33278,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-07",
+      "episode_count": 21,
+      "id": 33277,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.7,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 23325,
+    "imdb_id": "tt0112207",
+    "freebase_mid": "/m/07cf776",
+    "freebase_id": "/en/unser_charly",
+    "tvdb_id": 248397,
+    "tvrage_id": 18254,
+    "wikidata_id": "Q480073",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

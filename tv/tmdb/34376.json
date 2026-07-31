@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/aiEblNA6Ww4jzKZiqQbfpv8XpzQ.jpg",
+  "created_by": [
+    {
+      "id": 82725,
+      "credit_id": "551040bbc3a368488600ce6f",
+      "name": "Álex Pina",
+      "original_name": "Álex Pina",
+      "gender": 2,
+      "profile_path": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+    },
+    {
+      "id": 1261480,
+      "credit_id": "551040aec3a3681db200bdf0",
+      "name": "Daniel Écija",
+      "original_name": "Daniel Écija",
+      "gender": 2,
+      "profile_path": "/kAO5PnkXVPlaTmXSfoXkUVSLoKI.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2005-10-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.antena3.com/series/los-hombres-de-paco/",
+  "id": 34376,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2021-09-05",
+  "last_episode_to_air": {
+    "id": 2923631,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-09-05",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 56,
+    "season_number": 10,
+    "show_id": 34376,
+    "still_path": "/rEKlxBgOfDkPpLdrGH6AZtkcu81.jpg"
+  },
+  "name": "Paco's Men",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 400,
+      "logo_path": "/l7MngINTyv0O6mNlwNsUlhQ9iwZ.png",
+      "name": "Antena 3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 3744,
+      "logo_path": "/t6FPoKU3jDeCtIFpbxiIkhkQ5gm.png",
+      "name": "Atresplayer",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 133,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Los hombres de Paco",
+  "overview": "Follows police officer Francisco \"Paco\" Miranda and his men through funny cases.",
+  "popularity": 14.4897,
+  "poster_path": "/o18qCrSlgQXoRIDwCRiIz9IPyqY.jpg",
+  "production_companies": [
+    {
+      "id": 42819,
+      "logo_path": "/f5h7s7xdwG3mL3F3MWnQfwMdRli.png",
+      "name": "Globomedia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-01-04",
+      "episode_count": 5,
+      "id": 102305,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/wY8kHTFJCxQ3H34AWFRh0xqLTVJ.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-09",
+      "episode_count": 13,
+      "id": 65443,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jxbnGFj6gD0inEXdZVFRoEFaClQ.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2006-03-16",
+      "episode_count": 14,
+      "id": 65444,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/426PRPixeLxn9M6bIX1C06mDRam.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-10",
+      "episode_count": 13,
+      "id": 65445,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/qEEbqe01whilV2c5I41FebhlHng.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-04-18",
+      "episode_count": 13,
+      "id": 65446,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/AvmhuDlWbBQfySgth55JTNVwu82.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-08",
+      "episode_count": 13,
+      "id": 65447,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/hp0OtfZG520iz0G36M6gBsNCtZ5.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-22",
+      "episode_count": 13,
+      "id": 65448,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/fOCRcco9yyGUYH0xZ1Z6vBtyF5T.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-06",
+      "episode_count": 13,
+      "id": 65449,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/vYPNifvtFy00kcPCKiAYLsg4ZzO.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-15",
+      "episode_count": 12,
+      "id": 65450,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/v7VYeU1EEvLS32EjCt5WcVtQhco.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-17",
+      "episode_count": 13,
+      "id": 65451,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/gRzqFyLzILJn2JfBN5jYbRstcJN.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-10",
+      "episode_count": 16,
+      "id": 151013,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/o18qCrSlgQXoRIDwCRiIz9IPyqY.jpg",
+      "season_number": 10,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.862,
+  "vote_count": 207,
+  "external_ids": {
+    "id": 34376,
+    "imdb_id": "tt0475464",
+    "freebase_mid": "/m/0ds137l",
+    "freebase_id": null,
+    "tvdb_id": 80116,
+    "tvrage_id": null,
+    "wikidata_id": "Q1236363",
+    "facebook_id": "hombresdepaco",
+    "instagram_id": "hombresdepaco",
+    "twitter_id": "hombresdepaco"
+  }
+}

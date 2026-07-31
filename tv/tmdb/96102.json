@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg",
+  "created_by": [
+    {
+      "id": 1691327,
+      "credit_id": "5de70712a7e3630019708f83",
+      "name": "Lee Woo-jung",
+      "original_name": "이우정",
+      "gender": 1,
+      "profile_path": "/wf3PwOoGnLTrKGby594IYeDm46Z.jpg"
+    },
+    {
+      "id": 1691328,
+      "credit_id": "60bff753dcb6a3002ab0d549",
+      "name": "Shin Won-ho",
+      "original_name": "신원호",
+      "gender": 2,
+      "profile_path": "/2skcn2e1GDFo5DLgJK3R4IDGXCz.jpg"
+    }
+  ],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2020-03-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://program.tving.com/tvn/doctorlife/",
+  "id": 96102,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2021-09-16",
+  "last_episode_to_air": {
+    "id": 3017199,
+    "name": "Episode 12",
+    "overview": "A series of tough choices and sudden crises keeps life at the hospital as busy as ever. Through it all, the five friends continue to follow their hearts.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-09-16",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 122,
+    "season_number": 2,
+    "show_id": 96102,
+    "still_path": "/7rIQKG6D1m3UCSVeBnSpHtPzaam.jpg"
+  },
+  "name": "Hospital Playlist",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 866,
+      "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "슬기로운 의사생활",
+  "overview": "Every day is extraordinary for five doctors and their patients inside a hospital, where birth, death and everything in between coexist.",
+  "popularity": 16.3161,
+  "poster_path": "/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+  "production_companies": [
+    {
+      "id": 129223,
+      "logo_path": "/j5z3VHCFQ8Q98SWtIBJBsOMFmtt.png",
+      "name": "Egg is Coming",
+      "origin_country": "KR"
+    },
+    {
+      "id": 128404,
+      "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-06-04",
+      "episode_count": 4,
+      "id": 154950,
+      "name": "Specials",
+      "overview": "The special extra episode of Hospital Playlist featured interviews with the cast, behind-the-scenes footage from the set, song performances and hilarious bloopers from season 1.\n\nIt also shows the very first time the whole cast met each other as well as the first script reading.",
+      "poster_path": "/4hH3BJqOQ9ReWOA68A6vMb5isK3.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-12",
+      "episode_count": 12,
+      "id": 137314,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2rxlNtPsAKFH7zIvFqFKZcqvIWW.jpg",
+      "season_number": 1,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2021-06-17",
+      "episode_count": 12,
+      "id": 190643,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7zhlpKM9IoVJn5Bo6mRIYoJ25oe.jpg",
+      "season_number": 2,
+      "vote_average": 9.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The slightly special everyday of us ordinary people",
+  "type": "Scripted",
+  "vote_average": 8.572,
+  "vote_count": 174,
+  "external_ids": {
+    "id": 96102,
+    "imdb_id": "tt11769304",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 367083,
+    "tvrage_id": null,
+    "wikidata_id": "Q83625648",
+    "facebook_id": null,
+    "instagram_id": "hospitalplaylist_official",
+    "twitter_id": null
+  }
+}

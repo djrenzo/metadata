@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/qyRJPtJkJz7wtS4UJnJez9S3WOM.jpg",
+  "created_by": [
+    {
+      "id": 1216573,
+      "credit_id": "5a2f89b4c3a3680b931735a1",
+      "name": "Dustin Thomason",
+      "original_name": "Dustin Thomason",
+      "gender": 2,
+      "profile_path": "/n8t7E7iL6zrv81fOvvVckhSW5XH.jpg"
+    },
+    {
+      "id": 2190248,
+      "credit_id": "5c09c493c3a368252002f146",
+      "name": "Sam Shaw",
+      "original_name": "Sam Shaw",
+      "gender": 2,
+      "profile_path": "/fEcDAHtFBVYCCfsVy4TeNlIRGit.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2018-07-25",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.hulu.com/castle-rock",
+  "id": 71116,
+  "in_production": false,
+  "languages": [
+    "it",
+    "en"
+  ],
+  "last_air_date": "2019-12-11",
+  "last_episode_to_air": {
+    "id": 1988542,
+    "name": "Clean",
+    "overview": "Annie and her remaining unconverted allies devise a plan to blow up the Angel statue and release the townspeople from their collective trance.",
+    "vote_average": 7.8,
+    "vote_count": 18,
+    "air_date": "2019-12-11",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "T50.10210",
+    "runtime": 49,
+    "season_number": 2,
+    "show_id": 71116,
+    "still_path": "/oRvvslU6hgC5A3r0lmoHy28E8YI.jpg"
+  },
+  "name": "Castle Rock",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Castle Rock",
+  "overview": "Based on the stories of Stephen King, the series intertwines characters and themes from the fictional town of Castle Rock.",
+  "popularity": 17.108,
+  "poster_path": "/6dnUpv9ghx84pgxlMOb4uuJrWDs.jpg",
+  "production_companies": [
+    {
+      "id": 11461,
+      "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+      "name": "Bad Robot",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 231508,
+      "logo_path": null,
+      "name": "Darkbloom Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 231506,
+      "logo_path": "/tvfItsHl3v7V1Pgi3YFjxOfO2GJ.png",
+      "name": "Old Curiosity Shop",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-07-19",
+      "episode_count": 16,
+      "id": 113601,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/2tBjknt6doSMwHgkf4Y8pHM5LVo.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-25",
+      "episode_count": 10,
+      "id": 87133,
+      "name": "Season 1",
+      "overview": "Based on the works of Stephen King, this horror series weaves together his characters and stories set in the fictional town of Castle Rock, Maine.",
+      "poster_path": "/eNqQ4nY9BO1gpjfZnb62wZcRm6R.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2019-10-23",
+      "episode_count": 10,
+      "id": 123776,
+      "name": "Season 2",
+      "overview": "A feud over real estate and control of the Merrill crime family becomes murderous just as mentally ill nurse Annie Wilkes arrives in Castle Rock.",
+      "poster_path": "/iOE6laWU3DYtioecHlcVMHxfIDp.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.234,
+  "vote_count": 695,
+  "external_ids": {
+    "id": 71116,
+    "imdb_id": "tt6548228",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 331600,
+    "tvrage_id": null,
+    "wikidata_id": "Q28954025",
+    "facebook_id": "CastleRockHulu",
+    "instagram_id": "castlerockhulu",
+    "twitter_id": "castlerockhulu"
+  }
+}

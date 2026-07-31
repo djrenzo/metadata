@@ -1,0 +1,188 @@
+{
+  "adult": false,
+  "backdrop_path": "/yWVqYVOUcS6vu22v4BPXKJW10m5.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2021-08-16",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://voyo.nova.cz/titul/4765-na-lovu",
+  "id": 206679,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2025-05-03",
+  "last_episode_to_air": {
+    "id": 6156749,
+    "name": "Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-05-03",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 206679,
+    "still_path": null
+  },
+  "name": "Na lovu",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 5174,
+      "logo_path": "/urFAfEj1atKaaI9fMyvsdaaXqfB.png",
+      "name": "Voyo",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 667,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Na lovu",
+  "overview": "Na Lovu is a Czech game-show, based on the license of the popular global format The Chase. A heart-racing quiz show where four competitors must pit their wits and face off against Lovec (the Chaser), a ruthless quiz genius determined to stop them from winning cash prizes.",
+  "popularity": 14.4326,
+  "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+  "production_companies": [
+    {
+      "id": 31292,
+      "logo_path": "/6EeaMNiKbomWHsB5jq5W5vflOj2.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-02-05",
+      "episode_count": 43,
+      "id": 336383,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-16",
+      "episode_count": 89,
+      "id": 302127,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+      "season_number": 1,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 104,
+      "id": 302129,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-22",
+      "episode_count": 180,
+      "id": 331219,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/p8662JsWNGxGThJI94DLkSxsjy6.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-18",
+      "episode_count": 83,
+      "id": 354548,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-19",
+      "episode_count": 81,
+      "id": 378991,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-19",
+      "episode_count": 80,
+      "id": 406394,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-06",
+      "episode_count": 50,
+      "id": 435830,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.4,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 206679,
+    "imdb_id": "tt21340756",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 431701,
+    "tvrage_id": null,
+    "wikidata_id": "Q107920585",
+    "facebook_id": "nalovucesko",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

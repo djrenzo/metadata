@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": "/sWTLd1LR1TT6iWsSTDOiVTe9pZk.jpg",
+  "created_by": [
+    {
+      "id": 2190774,
+      "credit_id": "5d9c87a4439be1001279b164",
+      "name": "Búss Gábor Olivér",
+      "original_name": "Búss Gábor Olivér",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2428323,
+      "credit_id": "5d9c87c3439be1001279b1bb",
+      "name": "Bereczki Viktor",
+      "original_name": "Bereczki Viktor",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1962751,
+      "credit_id": "5d9c879a6d675a0028f363ec",
+      "name": "Barbara Hámori",
+      "original_name": "Hámori Barbara",
+      "gender": 1,
+      "profile_path": "/kfga4O88UsKOQtmDlKdRTzMDStt.jpg"
+    },
+    {
+      "id": 1962748,
+      "credit_id": "5d9c87aea1353300128f04c7",
+      "name": "Gábor Domokos",
+      "original_name": "Gábor Domokos",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2019-01-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://rtl.hu/rtlklub/dragaorokosok",
+  "id": 85425,
+  "in_production": false,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2024-08-27",
+  "last_episode_to_air": {
+    "id": 5812759,
+    "name": "Episode 71",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-08-27",
+    "episode_number": 71,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 85425,
+    "still_path": null
+  },
+  "name": "Dear Heirs",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 833,
+      "logo_path": "/r3GEPOAXaREH765QVreesBK9mE0.png",
+      "name": "RTL",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 456,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Drága örökösök",
+  "overview": "Hungarian remake of the Bulgarian series about a disconnect family living together in order to get an inheritance.",
+  "popularity": 15.4581,
+  "poster_path": "/r6B4o4Bgg7cQmt8XDsGsyYaLHmP.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 81,
+      "id": 115324,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/i6zkDUUnUVmtS07fI7BwClLhecT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-12",
+      "episode_count": 61,
+      "id": 128945,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/mdyfJNLLE7WdC1WpJJUqtcjtKzm.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 80,
+      "id": 140099,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-21",
+      "episode_count": 67,
+      "id": 163357,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-27",
+      "episode_count": 96,
+      "id": 322037,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-21",
+      "episode_count": 71,
+      "id": 396528,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 85425,
+    "imdb_id": "tt9480432",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 357561,
+    "tvrage_id": null,
+    "wikidata_id": "Q59816864",
+    "facebook_id": "dragaorokosok",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

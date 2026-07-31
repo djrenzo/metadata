@@ -1,0 +1,308 @@
+{
+  "adult": false,
+  "backdrop_path": "/2DgKCfO49b8KwF18bWPS1Efpjpt.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "1987-09-17",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-5/le-monde-en-face/",
+  "id": 95221,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-05-17",
+  "last_episode_to_air": {
+    "id": 7260909,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2026-05-17",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 76,
+    "season_number": 20,
+    "show_id": 95221,
+    "still_path": "/rfdtIeAnhV1MEEaaHo08bzfgk80.jpg"
+  },
+  "name": "The World in Front",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 255,
+      "logo_path": "/8xK6AdNT6PfRyygRvb2MKCoqrv2.png",
+      "name": "France 5",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 513,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Le Monde en face",
+  "overview": "Weekly current affairs show",
+  "popularity": 15.9788,
+  "poster_path": "/rs0TKkcfuCjb3Ein1v3ZOUYTqDU.jpg",
+  "production_companies": [
+    {
+      "id": 40409,
+      "logo_path": null,
+      "name": "Maha Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-09-17",
+      "episode_count": 1,
+      "id": 135405,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-14",
+      "episode_count": 1,
+      "id": 149401,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-15",
+      "episode_count": 13,
+      "id": 149402,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-05",
+      "episode_count": 46,
+      "id": 149403,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-18",
+      "episode_count": 35,
+      "id": 149404,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-10",
+      "episode_count": 46,
+      "id": 149405,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-08",
+      "episode_count": 50,
+      "id": 149407,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-07",
+      "episode_count": 47,
+      "id": 149408,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-06",
+      "episode_count": 36,
+      "id": 149409,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-05",
+      "episode_count": 37,
+      "id": 149410,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 24,
+      "id": 149411,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-10",
+      "episode_count": 28,
+      "id": 149412,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-08",
+      "episode_count": 25,
+      "id": 149413,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-07",
+      "episode_count": 26,
+      "id": 149414,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-05",
+      "episode_count": 23,
+      "id": 176243,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-09",
+      "episode_count": 17,
+      "id": 284126,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-15",
+      "episode_count": 16,
+      "id": 352337,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-11",
+      "episode_count": 14,
+      "id": 406804,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-19",
+      "episode_count": 19,
+      "id": 438694,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-18",
+      "episode_count": 9,
+      "id": 494499,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 6.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 95221,
+    "imdb_id": "tt4981826",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 288141,
+    "tvrage_id": null,
+    "wikidata_id": "Q16654011",
+    "facebook_id": "LemondeenfaceF5",
+    "instagram_id": null,
+    "twitter_id": "lemondeenface"
+  }
+}

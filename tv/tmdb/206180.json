@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/eND0QkFMyqWONmAy1lBKtPjsrFF.jpg",
+  "created_by": [
+    {
+      "id": 1580327,
+      "credit_id": "62e446c2e86017005f3e009f",
+      "name": "Nuran Evren Şit",
+      "original_name": "Nuran Evren Şit",
+      "gender": 1,
+      "profile_path": "/8BUCWpFVAvZ4HK25sL2GtsOSRPR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    54
+  ],
+  "first_air_date": "2022-07-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81380432",
+  "id": 206180,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2026-06-24",
+  "last_episode_to_air": {
+    "id": 7268503,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-24",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 63,
+    "season_number": 3,
+    "show_id": 206180,
+    "still_path": "/7OfwBDfzH4C0KIsVlpBfTbyaOSt.jpg"
+  },
+  "name": "Another Self",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Zeytin Ağacı",
+  "overview": "Three friends arrive in a seaside town, where they connect with their spiritual selves and suddenly face unresolved trauma from their families' pasts.",
+  "popularity": 20.4649,
+  "poster_path": "/zogTjQRIJsmg8yvIo8gDLtp65th.jpg",
+  "production_companies": [
+    {
+      "id": 142312,
+      "logo_path": null,
+      "name": "OGM Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-07-28",
+      "episode_count": 8,
+      "id": 301111,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/s1AZwYGpt1b9mQ8og7EYKuocikz.jpg",
+      "season_number": 1,
+      "vote_average": 9.3
+    },
+    {
+      "air_date": "2024-07-11",
+      "episode_count": 8,
+      "id": 392003,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/gaC7Rk1w1YzYXRjBbCx34GAjvqy.jpg",
+      "season_number": 2,
+      "vote_average": 8.7
+    },
+    {
+      "air_date": "2026-06-24",
+      "episode_count": 8,
+      "id": 516260,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4sJYMVWiL3bXCIk4jd64Ha2p1mM.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 122,
+  "external_ids": {
+    "id": 206180,
+    "imdb_id": "tt14899624",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 421634,
+    "tvrage_id": null,
+    "wikidata_id": "Q113326229",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

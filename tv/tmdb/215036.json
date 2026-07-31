@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/gvtKtzhDmOJGWSotqaEzXYYR8tu.jpg",
+  "created_by": [
+    {
+      "id": 3845103,
+      "credit_id": "63a8befd0f21c60084b2e794",
+      "name": "Kul Mahay",
+      "original_name": "Kul Mahay",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3845106,
+      "credit_id": "63a8bfad91b53000c309435e",
+      "name": "Adriel Leff",
+      "original_name": "Adriel Leff",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    58
+  ],
+  "first_air_date": "2022-12-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/p0db975h",
+  "id": 215036,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-23",
+  "last_episode_to_air": {
+    "id": 7503976,
+    "name": "Episode 2",
+    "overview": "Lindo and the team recover the murder weapon and uncover new leads that challenge their assumptions as tensions rise within the community.",
+    "vote_average": 3.167,
+    "vote_count": 3,
+    "air_date": "2026-07-30",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 3,
+    "show_id": 215036,
+    "still_path": "/vtd7avS3C5cs4VAtdasCk3WUukB.jpg"
+  },
+  "name": "Granite Harbour",
+  "next_episode_to_air": {
+    "id": 7503977,
+    "name": "Episode 3",
+    "overview": "As the case reaches a stunning conclusion, Lindo and Bart face a race against time to find the real killer as long held secrets are finally revealed.",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2026-08-06",
+    "episode_number": 3,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 3,
+    "show_id": 215036,
+    "still_path": "/z9XolWUq9ueRe5XvI6X2TM3AN2q.jpg"
+  },
+  "networks": [
+    {
+      "id": 3278,
+      "logo_path": "/81igZwiplDuM1jqLiUMFjB6wdJm.png",
+      "name": "BBC Scotland",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 9,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Granite Harbour",
+  "overview": "Lance Corporal Davis Lindo arrives in Aberdeen Scotland as a new detective trainee. Having completed his final tour with the Royal Military Police, Lindo dreams of being a detective at New Scotland Yard. However, he finds himself being sent to train as a Detective Constable in the North East of Scotland, he must quickly adapt to his new life in Aberdeen, a world away from anything the soldier has known before.",
+  "popularity": 17.4334,
+  "poster_path": "/8xHI2UUMBiKoox2QkI37C26j8EL.jpg",
+  "production_companies": [
+    {
+      "id": 186988,
+      "logo_path": null,
+      "name": "LA Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 121614,
+      "logo_path": "/3Dkij1sDiqYWH7TG7FDHQNX769E.png",
+      "name": "Dopamine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-12-01",
+      "episode_count": 3,
+      "id": 317479,
+      "name": "Series 1",
+      "overview": "Trainee detective Davis Lindo is assigned to a high-profile murder case on his first day.",
+      "poster_path": "/5qAT9yBbJKRkNk5QRMXTLiq3BO8.jpg",
+      "season_number": 1,
+      "vote_average": 3.3
+    },
+    {
+      "air_date": "2024-05-02",
+      "episode_count": 3,
+      "id": 389222,
+      "name": "Series 2",
+      "overview": "Lindo and Bart return to investigate two fatal cases with dark conspiracies at their heart",
+      "poster_path": "/8xHI2UUMBiKoox2QkI37C26j8EL.jpg",
+      "season_number": 2,
+      "vote_average": 3.8
+    },
+    {
+      "air_date": "2026-07-23",
+      "episode_count": 3,
+      "id": 528880,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 1.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Aberdeen, oil, murder - it's all new to a trainee detective thrown in the deep end.",
+  "type": "Scripted",
+  "vote_average": 4.7,
+  "vote_count": 15,
+  "external_ids": {
+    "id": 215036,
+    "imdb_id": "tt20224612",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 427325,
+    "tvrage_id": null,
+    "wikidata_id": "Q115938187",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

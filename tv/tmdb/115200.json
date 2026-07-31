@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "1991-07-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 115200,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1992-03-16",
+  "last_episode_to_air": {
+    "id": 7509919,
+    "name": "Episode 260",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1992-03-16",
+    "episode_number": 260,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 115200,
+    "still_path": null
+  },
+  "name": "Riviera",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 260,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Riviera",
+  "overview": "",
+  "popularity": 23.0124,
+  "poster_path": "/n1saEYaULgs648W3CNzGe0aofua.jpg",
+  "production_companies": [
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 304261,
+      "logo_path": null,
+      "name": "EC Télévision",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-07-01",
+      "episode_count": 260,
+      "id": 173425,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 115200,
+    "imdb_id": "tt0167704",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q30742527",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

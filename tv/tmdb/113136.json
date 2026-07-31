@@ -1,0 +1,500 @@
+{
+  "adult": false,
+  "backdrop_path": "/yj7c5yyT9aUAIMUVTXqdOgfjoOP.jpg",
+  "created_by": [
+    {
+      "id": 2856619,
+      "credit_id": "5fb0432f202e11003f1d4bd0",
+      "name": "Roberta Petrelluzzi",
+      "original_name": "Roberta Petrelluzzi",
+      "gender": 0,
+      "profile_path": "/u7W3HoM6dx5hJonYr3WVBoxPSOG.jpg"
+    },
+    {
+      "id": 2856616,
+      "credit_id": "5fb04210d0b434003c9ea212",
+      "name": "Ninì Perno",
+      "original_name": "Ninì Perno",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2856620,
+      "credit_id": "5fb0433cc15f89004083fce3",
+      "name": "Tommi Liberti",
+      "original_name": "Tommi Liberti",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    70
+  ],
+  "first_air_date": "1988-01-18",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.raiplay.it/programmi/ungiornoinpretura",
+  "id": 113136,
+  "in_production": true,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2025-05-06",
+  "last_episode_to_air": {
+    "id": 7533337,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-15",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 113136,
+    "still_path": null
+  },
+  "name": "Un giorno in pretura",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 547,
+      "logo_path": "/eRLfW6GOHrV9rOE0YnUIYzIUjyz.png",
+      "name": "Rai 3",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 647,
+  "number_of_seasons": 37,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Un giorno in pretura",
+  "overview": "",
+  "popularity": 13.3679,
+  "poster_path": "/7elQFGXZ3MxM64ksYrquwjxXhHi.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1989-08-28",
+      "episode_count": 12,
+      "id": 304723,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-18",
+      "episode_count": 23,
+      "id": 168688,
+      "name": "Season 1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-19",
+      "episode_count": 41,
+      "id": 168689,
+      "name": "Season 1988-1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 9
+    },
+    {
+      "air_date": "1989-10-02",
+      "episode_count": 38,
+      "id": 168696,
+      "name": "Season 1989-1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-09",
+      "episode_count": 22,
+      "id": 168697,
+      "name": "Season 1990-1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-10-09",
+      "episode_count": 18,
+      "id": 168698,
+      "name": "Season 1991-1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-11-20",
+      "episode_count": 17,
+      "id": 168699,
+      "name": "Season 1992-1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-08-30",
+      "episode_count": 45,
+      "id": 168701,
+      "name": "Season 1993-1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-04",
+      "episode_count": 18,
+      "id": 168702,
+      "name": "Season 1994-1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-05",
+      "episode_count": 8,
+      "id": 168703,
+      "name": "Season 1995-1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-04-07",
+      "episode_count": 8,
+      "id": 168704,
+      "name": "Season 1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-18",
+      "episode_count": 10,
+      "id": 168705,
+      "name": "Season 1998-1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-12",
+      "episode_count": 7,
+      "id": 168706,
+      "name": "Season 2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-25",
+      "episode_count": 12,
+      "id": 168707,
+      "name": "Season 2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-16",
+      "episode_count": 15,
+      "id": 168708,
+      "name": "Season 2002-2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-20",
+      "episode_count": 17,
+      "id": 168709,
+      "name": "Season 2003-2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-23",
+      "episode_count": 13,
+      "id": 168710,
+      "name": "Season 2004-2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-01",
+      "episode_count": 13,
+      "id": 168711,
+      "name": "Season 2005-2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-23",
+      "episode_count": 18,
+      "id": 168712,
+      "name": "Season 2006-2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-15",
+      "episode_count": 17,
+      "id": 168713,
+      "name": "Season 2007-2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-13",
+      "episode_count": 18,
+      "id": 168714,
+      "name": "Season 2008-2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-31",
+      "episode_count": 12,
+      "id": 168715,
+      "name": "Season 2009-2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-14",
+      "episode_count": 21,
+      "id": 168716,
+      "name": "Season 2010-2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-03",
+      "episode_count": 17,
+      "id": 168717,
+      "name": "Season 2011-2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-15",
+      "episode_count": 19,
+      "id": 168718,
+      "name": "Season 2012-2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-19",
+      "episode_count": 17,
+      "id": 168719,
+      "name": "Season 2013-2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-25",
+      "episode_count": 18,
+      "id": 168721,
+      "name": "Season 2014-2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-07",
+      "episode_count": 16,
+      "id": 168722,
+      "name": "Season 2015-2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-17",
+      "episode_count": 21,
+      "id": 168723,
+      "name": "Season 2016-2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-30",
+      "episode_count": 20,
+      "id": 168724,
+      "name": "Season 2017-2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-22",
+      "episode_count": 12,
+      "id": 168725,
+      "name": "Season 2018-2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-27",
+      "episode_count": 13,
+      "id": 168726,
+      "name": "Season 2019-2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-19",
+      "episode_count": 16,
+      "id": 168727,
+      "name": "Season 2020-2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-18",
+      "episode_count": 19,
+      "id": 221185,
+      "name": "Season 2021-2022",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2022-10-01",
+      "episode_count": 17,
+      "id": 321886,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2023-10-07",
+      "episode_count": 14,
+      "id": 362674,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-09-14",
+      "episode_count": 17,
+      "id": 434823,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2025-08-31",
+      "episode_count": 12,
+      "id": 530056,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 113136,
+    "imdb_id": "tt10645912",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 340542,
+    "tvrage_id": null,
+    "wikidata_id": "Q4003859",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

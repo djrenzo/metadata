@@ -1,0 +1,234 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    210
+  ],
+  "first_air_date": "1999-01-04",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.gm.tv/",
+  "id": 37057,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2010-07-16",
+  "last_episode_to_air": {
+    "id": 835777,
+    "name": "Series 12, Show 197",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-07-16",
+    "episode_number": 197,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 210,
+    "season_number": 12,
+    "show_id": 37057,
+    "still_path": null
+  },
+  "name": "CITV Breakfast",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    },
+    {
+      "id": 149,
+      "logo_path": "/fYi08k1rC5L0OOqgwyXfcAKCZ2H.png",
+      "name": "ITV2",
+      "origin_country": "GB"
+    },
+    {
+      "id": 261,
+      "logo_path": "/igyJPr4pId4XeRP5IJPieGYYeDn.png",
+      "name": "ITV4",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7966,
+      "logo_path": "/wB8tvca8opc4Dwzu6Y3Mk0uXGrL.png",
+      "name": "GMTV (Good Morning Television)",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 3760,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "CITV Breakfast",
+  "overview": "CITV Breakfast is a British digital television station owned by ITV Breakfast Limited, part of ITV plc. It broadcasts every morning between 06:00 and 09:25. It was originally designed to complement its sister channel GMTV, and offered children's programming every day. On weekdays teleshopping was shown for the first half hour until 6.30am followed by Action Stations! until 9.25am.\n\nWeekends changed to pre-school programming, with Wakey! Wakey! airing 06:00 to 09:00 on Saturdays and Sundays. A teleshopping strand was featured on Saturdays and Sundays airing from 09:00-09:25. A repeat of The Sunday Programme was aired at 07:55-08:55 each Sunday from 1999-2008. The station closed down at 09:25, although viewers didn't notice any changeover between GMTV2 and CITV.\n\nOn 17 March 2008, ITV2 and its one-hour timeshift channel have been broadcasting 24 hours a day, meaning GMTV2 programming moved from ITV2 to ITV4, broadcasting its usual hours. The stand continues to be simulcast on CITV.\n\nAs of November 2006, a one hour delayed version of GMTV2 had been available on ITV2+1 on Sky and also on Freeview, running from 07:00 to 10:25, however due to the change from ITV2 to ITV4, GMTV2 was available one hour later on ITV4+1 on Sky Channel 180.",
+  "popularity": 17.6066,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 270533,
+      "logo_path": "/wB8tvca8opc4Dwzu6Y3Mk0uXGrL.png",
+      "name": "ITV Breakfast",
+      "origin_country": "GB"
+    },
+    {
+      "id": 214075,
+      "logo_path": "/aBuAiCG3pa8iJASHXg81xjsIRTf.png",
+      "name": "CITV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 352,
+      "id": 48220,
+      "name": "Gmtv2 season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 361,
+      "id": 48221,
+      "name": "Gmtv2 season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 358,
+      "id": 48222,
+      "name": "Gmtv2 season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 341,
+      "id": 48223,
+      "name": "Gmtv2 season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 331,
+      "id": 48224,
+      "name": "Gmtv2 season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 342,
+      "id": 48225,
+      "name": "Gmtv2 season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 323,
+      "id": 48226,
+      "name": "Gmtv2 season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 318,
+      "id": 48227,
+      "name": "Gmtv2 season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 304,
+      "id": 48228,
+      "name": "Gmtv2 season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 302,
+      "id": 48229,
+      "name": "Gmtv2 season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 279,
+      "id": 48230,
+      "name": "Gmtv2 season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 149,
+      "id": 48219,
+      "name": "Gmtv2 season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 37057,
+    "imdb_id": null,
+    "freebase_mid": "/m/03x64w",
+    "freebase_id": "/en/gmtv2",
+    "tvdb_id": null,
+    "tvrage_id": 24215,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

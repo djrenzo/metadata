@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/t9bqKlU2ACrImM64Z0d56eALSt9.jpg",
+  "created_by": [
+    {
+      "id": 2680556,
+      "credit_id": "64f5edbe77d23b00ec067866",
+      "name": "Filipa Poppe",
+      "original_name": "Filipa Poppe",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2302083,
+      "credit_id": "64f5edca3d43e03890362d0b",
+      "name": "Joana Andrade",
+      "original_name": "Joana Andrade",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2017-09-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://sic.sapo.pt/Programas/paixao",
+  "id": 73953,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2018-09-24",
+  "last_episode_to_air": {
+    "id": 4703671,
+    "name": "Episode 177",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-09-24",
+    "episode_number": 177,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 73953,
+    "still_path": null
+  },
+  "name": "Paixão",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 320,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Paixão",
+  "overview": "With Algarve and South Africa as main stages, Paixão tells the story of a love that was destroyed by a lie. This is the story of a man determined to fight for justice and to recover ten years of his life and an unshakable love that resists time and all threats.",
+  "popularity": 15.5366,
+  "poster_path": "/aJtoBVayILbOHgaeSHlkkqRWQNm.jpg",
+  "production_companies": [
+    {
+      "id": 92108,
+      "logo_path": "/ufaY7DMZUz56C6iaIdaFTZDqYPY.png",
+      "name": "SP Televisão",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-18",
+      "episode_count": 143,
+      "id": 114755,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/n1t1Q0J3JWpV2MX9ibBzFyMtO1X.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-05",
+      "episode_count": 177,
+      "id": 355516,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/n1t1Q0J3JWpV2MX9ibBzFyMtO1X.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.4,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 73953,
+    "imdb_id": "tt6976178",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 332243,
+    "tvrage_id": null,
+    "wikidata_id": "Q33133746",
+    "facebook_id": "novelapaixao",
+    "instagram_id": "paixao_sic",
+    "twitter_id": "paixaosic"
+  }
+}

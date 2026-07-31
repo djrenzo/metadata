@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": "/s3zoWwy6w3YTqIS01OYIVfaSDKg.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    13
+  ],
+  "first_air_date": "2021-12-10",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 157689,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-04-11",
+  "last_episode_to_air": {
+    "id": 7125625,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-11",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 13,
+    "season_number": 5,
+    "show_id": 157689,
+    "still_path": "/bN5v9lGSa48DerfzN1ct4U0PYOf.jpg"
+  },
+  "name": "熊熊帮帮团",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1330,
+      "logo_path": "/fNxBFqWr7eWEgNeBDvvCxsSItXx.png",
+      "name": "iQiyi",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1419,
+      "logo_path": "/w2TeR3fvPZ9a617tNIF1oOfyPtk.png",
+      "name": "Youku",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1631,
+      "logo_path": "/iE3rtBcUfWGiJosaZv2TroBxEZz.png",
+      "name": "Mango TV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2007,
+      "logo_path": "/6Lfll43wYG2eyereOBjpYFRSGs4.png",
+      "name": "Tencent Video",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2465,
+      "logo_path": "/pb8Fon4VjQ7BpGcthzjOqBIzyfW.png",
+      "name": "CCTV-14",
+      "origin_country": "CN"
+    },
+    {
+      "id": 3127,
+      "logo_path": "/j2ypJLHH2smn8epaLc6myMM8y8q.png",
+      "name": "Aniworld TV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 5821,
+      "logo_path": "/w8EOv8EYe8FQztnlUjwoRBaR00I.png",
+      "name": "Shanghai Toonmax TV",
+      "origin_country": "CN"
+    },
+    {
+      "id": 7866,
+      "logo_path": "/hrpZhCvGW2BGZWLOGneTzlR2tuc.png",
+      "name": "BRTV-Kaku Kids 北京广播电视台卡酷少儿频道",
+      "origin_country": "CN"
+    },
+    {
+      "id": 7946,
+      "logo_path": "/dxt3hsJD3SjzjJnpsbuo0twXmPz.png",
+      "name": "JIA JIA Cartoon",
+      "origin_country": "CN"
+    },
+    {
+      "id": 7947,
+      "logo_path": "/j29sU56gm4d6yGkMLQ7OIc7Ss55.png",
+      "name": "Youman Cartoon Satellite TV",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "熊熊帮帮团",
+  "overview": "",
+  "popularity": 14.7037,
+  "poster_path": "/4gG4PuzXthqn4m5L8G6WZH78Q2g.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-12-10",
+      "episode_count": 52,
+      "id": 244031,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5StS8sa4A3XHBiVcuzLbbaDIT5h.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-14",
+      "episode_count": 52,
+      "id": 356745,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/m1UH51WHS3ZPwYFbsz7qx8kgiUu.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-20",
+      "episode_count": 26,
+      "id": 437714,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4S5PhYUxCJIfL87KxxYVVPsac3u.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 26,
+      "id": 491475,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wn05gRcZUp49cUSqrfpKwbiuW4w.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-31",
+      "episode_count": 26,
+      "id": 509625,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/A7b79hcTJqseMO81G9e0Qf0cSpB.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 157689,
+    "imdb_id": "tt15731684",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

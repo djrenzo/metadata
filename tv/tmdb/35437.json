@@ -1,0 +1,238 @@
+{
+  "adult": false,
+  "backdrop_path": "/6LxouBis9kSjstupw8ifGa2t5re.jpg",
+  "created_by": [
+    {
+      "id": 1253430,
+      "credit_id": "5258de6e760ee3466177bc6a",
+      "name": "László Czető Bernát",
+      "original_name": "László Czető Bernát",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1987-05-07",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 35437,
+  "in_production": false,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "1999-12-30",
+  "last_episode_to_air": {
+    "id": 1606382,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-12-30",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 13,
+    "show_id": 35437,
+    "still_path": null
+  },
+  "name": "Szomszédok",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 831,
+      "logo_path": "/f5Sn7vW86OR8wsoLmc0qPi34hXB.png",
+      "name": "Magyar Televízió",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 331,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Szomszédok",
+  "overview": "Szomszédok was a Hungarian television series, occasionally called the Hungarian Dallas, that ran from 1987–1999 and produced 331 episodes, airing its grand finale on December 31, 1999.\n\nThe series was a soap opera, dealing with the lives of ordinary people, living and working in or around an average lakótelep. Its characters were explored, over time, in equal depth: ranging from elderly pensioners, busy middle aged professionals, up-and-coming young people, and children growing into their teens.\n\nMany consider Szomszédok to be the definitive Hungarian television series, being a period piece of sorts that covers the last few years of the communist era, the rendszerváltozás, and nearly a decade of the new market economy Hungary thereafter.",
+  "popularity": 18.3924,
+  "poster_path": "/y9bQWK6bJgde3YseKKaLvpwmF0T.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-05-07",
+      "episode_count": 18,
+      "id": 46150,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7GkPxkQ56sxZ48dMPqrSddQhwAA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-14",
+      "episode_count": 26,
+      "id": 46149,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/alM5uqjjH1OEYhOvrqcIkd92QUh.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-12",
+      "episode_count": 26,
+      "id": 91803,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-11",
+      "episode_count": 26,
+      "id": 98471,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-10",
+      "episode_count": 26,
+      "id": 98479,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-09",
+      "episode_count": 26,
+      "id": 99016,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-07",
+      "episode_count": 26,
+      "id": 99021,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-06",
+      "episode_count": 26,
+      "id": 99281,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-05",
+      "episode_count": 26,
+      "id": 99285,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-04",
+      "episode_count": 26,
+      "id": 103008,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 26,
+      "id": 103012,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 27,
+      "id": 103041,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-14",
+      "episode_count": 26,
+      "id": 111652,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.25,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 35437,
+    "imdb_id": "tt0108950",
+    "freebase_mid": "/m/09s9mv",
+    "freebase_id": "/en/szomszedok",
+    "tvdb_id": 235401,
+    "tvrage_id": 25775,
+    "wikidata_id": "Q948625",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

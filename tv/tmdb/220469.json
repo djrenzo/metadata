@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 147625,
+      "credit_id": "63ec89d2699fb7009e3d5ecf",
+      "name": "Mahmut Bengi",
+      "original_name": "Mahmut Bengi",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2004-09-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 220469,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2006-06-30",
+  "last_episode_to_air": {
+    "id": 4236112,
+    "name": "Episode 42",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-06-30",
+    "episode_number": 42,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 220469,
+    "still_path": null
+  },
+  "name": "Cold February",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 962,
+      "logo_path": "/ocg7ggjBkHjBoWsivNoLfcepQHi.png",
+      "name": "Samanyolu TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Şubat Soğuğu",
+  "overview": "",
+  "popularity": 26.7102,
+  "poster_path": "/rSQ7ks13hUmnmg3vQo55y1fdpI8.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2004-09-21",
+      "episode_count": 36,
+      "id": 329017,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-16",
+      "episode_count": 42,
+      "id": 329018,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 220469,
+    "imdb_id": "tt0430854",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

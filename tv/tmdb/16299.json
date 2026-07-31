@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/gaQ5JplQmjA27owgDSxFVOMK5wb.jpg",
+  "created_by": [
+    {
+      "id": 81012,
+      "credit_id": "648dc4232f8d09013af9bb17",
+      "name": "Adrián Suar",
+      "original_name": "Adrián Suar",
+      "gender": 2,
+      "profile_path": "/a75QAiWiI4jJoGyYY2Tw6ELAkkA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2002-01-28",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.pol-ka.com.ar/amores/",
+  "id": 16299,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2004-01-02",
+  "last_episode_to_air": {
+    "id": 4530208,
+    "name": "Episode 218",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-01-02",
+    "episode_number": 218,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 16299,
+    "still_path": null
+  },
+  "name": "Son amores",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 368,
+      "logo_path": "/j8Sb3Y5vo3wfOjMExmxLF08mLwX.png",
+      "name": "eltrece",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 463,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Son amores",
+  "overview": "Son amores is an Argentine telenovela originally broadcast between 2002-2003. It was produced by Pol-Ka Producciones & broadcast by Canal 13 in Argentina.",
+  "popularity": 13.072,
+  "poster_path": "/aZ0zzbukErHz8LupomSPMG1U1a6.jpg",
+  "production_companies": [
+    {
+      "id": 27281,
+      "logo_path": "/n4OjEuaiEaiUn0WwJHHKXPkmHAD.png",
+      "name": "Pol-Ka Producciones",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-01-28",
+      "episode_count": 245,
+      "id": 199493,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-03-03",
+      "episode_count": 218,
+      "id": 199494,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 16299,
+    "imdb_id": "tt0307832",
+    "freebase_mid": "/m/02pjljt",
+    "freebase_id": "/en/son_amores",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q938817",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

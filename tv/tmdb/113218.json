@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": "/i8NGdMIyZnGNpSHLDtpPwYXidPe.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2020-11-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 113218,
+  "in_production": true,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2023-10-01",
+  "last_episode_to_air": {
+    "id": 4719562,
+    "name": "Episode 21",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-10-01",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 113218,
+    "still_path": null
+  },
+  "name": "Imlie",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5390,
+      "logo_path": "/nP2y2kj6gwku5REdtPVeArhAptW.png",
+      "name": "Bollywood بالعربي",
+      "origin_country": "EG"
+    },
+    {
+      "id": 159,
+      "logo_path": "/9cEITzi1VyVkre3Fom57vJBOEW3.png",
+      "name": "StarPlus",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 970,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "इमली",
+  "overview": "All Imlie wanted was to create a name for herself in the city. But upon her arrival, she finds herself caught in the middle of Aditya and Malini's love story.",
+  "popularity": 16.0108,
+  "poster_path": "/sltUDXvpDZK3aVIdtkbImhcJv8t.jpg",
+  "production_companies": [
+    {
+      "id": 91482,
+      "logo_path": "/nJzdivoGRaJNUYeKv1cxEmmo0zi.png",
+      "name": "4 Lions Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-11-16",
+      "episode_count": 579,
+      "id": 168903,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/brajFHvqeitbp7ifevWpFpirS4S.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-19",
+      "episode_count": 370,
+      "id": 318275,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/aVAQ6q6TRiWAIgFd2hC5h4iWLp2.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 21,
+      "id": 356349,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/41Aik5UxsTq0WdPZ6G15uAV7ti6.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.416,
+  "vote_count": 83,
+  "external_ids": {
+    "id": 113218,
+    "imdb_id": "tt13364380",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 392515,
+    "tvrage_id": null,
+    "wikidata_id": "Q104572703",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

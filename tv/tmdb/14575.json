@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1956-06-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 14575,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1960-06-20",
+  "last_episode_to_air": {
+    "id": 4030664,
+    "name": "Martha Raye, Frank Gorshin, Buddy Greco, The Nikolais Dancers",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1960-06-20",
+    "episode_number": 31,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 5,
+    "show_id": 14575,
+    "still_path": null
+  },
+  "name": "The Steve Allen Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    },
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 163,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Steve Allen Show",
+  "overview": "",
+  "popularity": 16.7753,
+  "poster_path": "/6Adg8Zw4RkuWVvqMEH3CK5EhCDl.jpg",
+  "production_companies": [
+    {
+      "id": 64876,
+      "logo_path": null,
+      "name": "Bellmeadows Enterprises",
+      "origin_country": ""
+    },
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1956-06-24",
+      "episode_count": 9,
+      "id": 26035,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-16",
+      "episode_count": 48,
+      "id": 26036,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-22",
+      "episode_count": 40,
+      "id": 26037,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-09-07",
+      "episode_count": 35,
+      "id": 26038,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-09-28",
+      "episode_count": 31,
+      "id": 26039,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 14575,
+    "imdb_id": "tt0048899",
+    "freebase_mid": "/m/03bx7rq",
+    "freebase_id": "/en/the_steve_allen_show",
+    "tvdb_id": 71678,
+    "tvrage_id": null,
+    "wikidata_id": "Q7766497",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

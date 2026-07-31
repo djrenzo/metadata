@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2020-12-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 319814,
+  "in_production": false,
+  "languages": [
+    "bn"
+  ],
+  "last_air_date": "2023-02-05",
+  "last_episode_to_air": {
+    "id": 7154323,
+    "name": "Episode 756",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-02-05",
+    "episode_number": 756,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 319814,
+    "still_path": null
+  },
+  "name": "Kanyadaan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9018,
+      "logo_path": null,
+      "name": "Sun Bangla",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 756,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "bn",
+  "original_name": "Kanyadaan",
+  "overview": "",
+  "popularity": 24.6159,
+  "poster_path": "/z3sORvY2XqeTq34FcnC1oOl4MOf.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-12-07",
+      "episode_count": 756,
+      "id": 511116,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zkXEKg1acLs5lS8WeCrafGWKTaT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 319814,
+    "imdb_id": "tt21742516",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q113541023",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

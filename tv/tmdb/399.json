@@ -1,0 +1,350 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    180
+  ],
+  "first_air_date": "1995-08-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.skysports.com/socceram",
+  "id": 399,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-08-21",
+  "last_episode_to_air": {
+    "id": 3206382,
+    "name": "Episode 2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-08-21",
+    "episode_number": 2,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 180,
+    "season_number": 26,
+    "show_id": 399,
+    "still_path": null
+  },
+  "name": "Soccer AM",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 107,
+      "logo_path": "/xeyAPBYArO8q60Z7UJcXf6WPXBX.png",
+      "name": "Sky Sports",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 427,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Soccer AM",
+  "overview": "Soccer AM is a British Saturday-morning football-based comedy/talk show, predominantly based around the Premier League. Originally presented by Jane Hoffen, Gary Stevens and Russ Williams, they lasted just a year before Helen Chamberlain and Tim Lovejoy replaced them, where Lovejoy served for over a decade. He has since been replaced by Andy Goldstein and, more recently, Max Rushden. The show has been aired on Sky Sports 2 each Saturday morning of the football season since 1995 from 7:00am or 9:00am to noon originally and currently between 10:00am and 12:00pm. In early 2009, the 500th episode was broadcast. Although the show is filmed live from 2010 it has been broadcast on a momentary delay due to bad language and/or inappropriate content from certain guests.\n\nThe show's current sponsor is Procter & Gamble through their Head & Shoulders brand. The show was previously sponsored by Frijj, a brand of milkshake, after Dairy Crest signed a £2 million sponsorship deal.\n\nParts of the show have remained since the beginning, whilst new items have been introduced each season. In that respect, it is almost the same every week, the difference being new football footage and comedy skits. Every week sees a new group of celebrity guests, generally featuring at least one footballer who is free on the Saturday, and a mix of musicians, TV personalities, and other sportsmen.",
+  "popularity": 15.5511,
+  "poster_path": "/eGJPC5WBy18kMo28Rky3fe1FBjs.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 1171,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-08-12",
+      "episode_count": 3,
+      "id": 1163,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-02",
+      "episode_count": 23,
+      "id": 1172,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-07",
+      "episode_count": 43,
+      "id": 1173,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-08-19",
+      "episode_count": 42,
+      "id": 1174,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-11",
+      "episode_count": 41,
+      "id": 1175,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-08-17",
+      "episode_count": 16,
+      "id": 1176,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-08-16",
+      "episode_count": 1,
+      "id": 210368,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-14",
+      "episode_count": 21,
+      "id": 1164,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-13",
+      "episode_count": 40,
+      "id": 1165,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-19",
+      "episode_count": 40,
+      "id": 1166,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-11",
+      "episode_count": 41,
+      "id": 1167,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 37,
+      "id": 1168,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-15",
+      "episode_count": 25,
+      "id": 1169,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-14",
+      "episode_count": 10,
+      "id": 1170,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-01",
+      "episode_count": 1,
+      "id": 210377,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-01",
+      "episode_count": 21,
+      "id": 1177,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-17",
+      "episode_count": 6,
+      "id": 1178,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-01",
+      "episode_count": 1,
+      "id": 210369,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-01",
+      "episode_count": 3,
+      "id": 210370,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-01",
+      "episode_count": 2,
+      "id": 210371,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-12",
+      "episode_count": 1,
+      "id": 210372,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-11",
+      "episode_count": 1,
+      "id": 210373,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-10",
+      "episode_count": 1,
+      "id": 210374,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-12",
+      "episode_count": 5,
+      "id": 210375,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-14",
+      "episode_count": 2,
+      "id": 210376,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 399,
+    "imdb_id": "tt0270804",
+    "freebase_mid": "/m/051wy3",
+    "freebase_id": "/en/soccer_am",
+    "tvdb_id": 71409,
+    "tvrage_id": 6972,
+    "wikidata_id": "Q16850337",
+    "facebook_id": "SoccerAM",
+    "instagram_id": "socceram",
+    "twitter_id": "SoccerAM"
+  }
+}

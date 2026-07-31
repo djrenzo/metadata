@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/v713kGiwYw2amhk6v9lfxvAYncv.jpg",
+  "created_by": [
+    {
+      "id": 1456398,
+      "credit_id": "66a76b2976e52c86403a404d",
+      "name": "Pablo Aramendi",
+      "original_name": "Pablo Aramendi",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1076025,
+      "credit_id": "66a060ea112956a68172a3fb",
+      "name": "Fernando Rovzar",
+      "original_name": "Fernando Rovzar",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-07-30",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.73wmdmkfpta5ul1vbwckmme39",
+  "id": 253983,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-09-24",
+  "last_episode_to_air": {
+    "id": 5334724,
+    "name": "Valentina",
+    "overview": "The Azules pull their resources together to try and save one of their own, putting the future of the female police force at risk.",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2024-09-24",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 1,
+    "show_id": 253983,
+    "still_path": "/f2DyHHPHw6LCCaw4iunLaMWeNDc.jpg"
+  },
+  "name": "Women in Blue",
+  "next_episode_to_air": {
+    "id": 7082855,
+    "name": "Mauricio",
+    "overview": "New lieutenant María and the Azules set their sights on investigating the murder of a college student.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-11",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 56,
+    "season_number": 2,
+    "show_id": 253983,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 18,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Las azules",
+  "overview": "In 1971, four women defy ultraconservative norms and join Mexico's first female police force—only to discover that it's a publicity stunt to distract the media from a serial killer. As the body count grows, they make a pact to bring the killer to justice.",
+  "popularity": 18.0446,
+  "poster_path": "/yyFmTJYoeMfeF16EXBEj5HYn2Xj.jpg",
+  "production_companies": [
+    {
+      "id": 107558,
+      "logo_path": "/gfEtcH7hmqUPFkCgERa2JoUIxEE.png",
+      "name": "Lemon Studios",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-07-30",
+      "episode_count": 10,
+      "id": 392927,
+      "name": "Season 1",
+      "overview": "Set in 1970 and inspired by true events, “Women in Blue” tells the story of four women who defy the ultraconservative norms of the time and join Mexico’s first female police force, only to discover that their squad is a publicity stunt to distract the media from a brutal serial killer. As the body count grows, María, whose determination to catch the killer becomes an obsession, Gabina, whose father is a renowned cop, Ángeles, a brilliant fingerprint analyst, and Valentina, a young rebel, set up a secret investigation to achieve what no male officer has been able to do and bring the serial killer to justice.",
+      "poster_path": "/5JMYd2jYZGQ0KKcSQ8MH6k49XnF.jpg",
+      "season_number": 1,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2026-08-11",
+      "episode_count": 8,
+      "id": 507180,
+      "name": "Season 2",
+      "overview": "In season two, now promoted to lieutenant, María finds herself torn between the rules she's sworn to uphold and a relentless pull toward the truth when the body of a student activist is discovered, and the Azules are pulled into an investigation that reaches back to the student massacre of 1968. Before they can make sense of what they've found, the body of a person connected to that brutal chapter of history is found, sending shock waves through the department. Someone is delivering justice straight to the police's door, and the Azules are the department's last hope of stopping the killer. As María, Valentina, Gabina and Ángeles fight battles both inside and outside the precinct, buried truths rise to the surface and they're forced to confront an uncomfortable question: in a system plagued with corruption, what is the cost of fighting for their ideals?",
+      "poster_path": "/yyFmTJYoeMfeF16EXBEj5HYn2Xj.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Defy the system. Discover the truth.",
+  "type": "Scripted",
+  "vote_average": 7.283,
+  "vote_count": 53,
+  "external_ids": {
+    "id": 253983,
+    "imdb_id": "tt20516590",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420507,
+    "tvrage_id": null,
+    "wikidata_id": "Q125867678",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

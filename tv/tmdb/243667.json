@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/ok4o447Or0uUFODg648gUB1Gz9B.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2015-01-05",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 243667,
+  "in_production": false,
+  "languages": [
+    "sk",
+    "cs"
+  ],
+  "last_air_date": "2016-01-08",
+  "last_episode_to_air": {
+    "id": 5075641,
+    "name": "Episode 41",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-01-08",
+    "episode_number": 41,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 2,
+    "show_id": 243667,
+    "still_path": null
+  },
+  "name": "Divoké kone",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 935,
+      "logo_path": "/o3psjR1jVKfhZiVUazPVfio2yKe.png",
+      "name": "TV JOJ",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 129,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Divoké kone",
+  "overview": "",
+  "popularity": 28.1187,
+  "poster_path": "/boIioZGgdQAuCZcytkdmCjovoPX.jpg",
+  "production_companies": [
+    {
+      "id": 76750,
+      "logo_path": "/5jTfcrz0IUNrMA5Ant0Jh02GCVq.png",
+      "name": "Televízia JOJ",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 88,
+      "id": 374265,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oMDPnSr56vMHW2d4cnpLtuHebuK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-17",
+      "episode_count": 41,
+      "id": 374278,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/boIioZGgdQAuCZcytkdmCjovoPX.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 243667,
+    "imdb_id": "tt4883340",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 290694,
+    "tvrage_id": null,
+    "wikidata_id": "Q19679416",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

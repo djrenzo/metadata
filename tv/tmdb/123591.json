@@ -1,0 +1,270 @@
+{
+  "adult": false,
+  "backdrop_path": "/znf5Z1LSFYFOsRGClXwclqIhf83.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "2021-04-18",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://www.smurf.com",
+  "id": 123591,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-05-25",
+  "last_episode_to_air": {
+    "id": 6248062,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-05-25",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 3,
+    "show_id": 123591,
+    "still_path": "/sAj0kJ6yxo0TzqMMaPCTQyyic7o.jpg"
+  },
+  "name": "The Smurfs",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3511,
+      "logo_path": "/dRvulHecDfIgJNBA4Dyltcpaqm5.png",
+      "name": "La Trois",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Schtroumpfs",
+  "overview": "Blue and small, standing only three apples high, the Smurfs might be hard to tell apart at first. However, each Smurf is a distinct individual with his or her own personality, their names say it all",
+  "popularity": 14.379,
+  "poster_path": "/uiOT3X9p9eB1V5QQeSP0yAIP5gV.jpg",
+  "production_companies": [
+    {
+      "id": 152873,
+      "logo_path": "/4OhVzKPHCbDjz6Y21EmdJlKatu1.png",
+      "name": "Peyo Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 95416,
+      "logo_path": "/gVFPBmeddZHqOXZCcFHSae8DQ3I.png",
+      "name": "Dupuis",
+      "origin_country": "BE"
+    },
+    {
+      "id": 177311,
+      "logo_path": null,
+      "name": "Dreamwall",
+      "origin_country": ""
+    },
+    {
+      "id": 151832,
+      "logo_path": null,
+      "name": "Gao Shan Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 223203,
+      "logo_path": null,
+      "name": "Jungler",
+      "origin_country": ""
+    },
+    {
+      "id": 271647,
+      "logo_path": null,
+      "name": "Zero Retake",
+      "origin_country": ""
+    },
+    {
+      "id": 50519,
+      "logo_path": "/1dtumlarEVXeYX1BrUFS9qLoG2Z.png",
+      "name": "KiKA",
+      "origin_country": "DE"
+    },
+    {
+      "id": 83064,
+      "logo_path": "/qOS4uj4tFon7IUHvp09QRMTaUIm.png",
+      "name": "Ketnet",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 152662,
+      "logo_path": "/1SJateP6NARfOFuC229wsOAv3KH.png",
+      "name": "Dargaud Média",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13668,
+      "logo_path": "/azhapBvZ8g1UWyyQQhhcRR9bM9x.png",
+      "name": "RTS",
+      "origin_country": "CH"
+    },
+    {
+      "id": 12352,
+      "logo_path": "/fkIacb6MddD6trIWamr33SIcUAn.png",
+      "name": "Wallimage",
+      "origin_country": "BE"
+    },
+    {
+      "id": 78299,
+      "logo_path": "/6oR2zvVsvJzk94rake7LdnFkorQ.png",
+      "name": "Screen Flanders",
+      "origin_country": "BE"
+    },
+    {
+      "id": 271650,
+      "logo_path": "/oftrunqs2VrzNJ7vT08UqYlDyKo.png",
+      "name": "Flanders Innovation and Entrepreneurship (VLAIO)",
+      "origin_country": ""
+    },
+    {
+      "id": 196116,
+      "logo_path": null,
+      "name": "Flanders Audiovisual Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 11997,
+      "logo_path": "/jh15xr7Y10ZrgY1BwE3LGwcseu7.png",
+      "name": "BNP Paribas Fortis",
+      "origin_country": "BE"
+    },
+    {
+      "id": 81530,
+      "logo_path": null,
+      "name": "Go West Invest",
+      "origin_country": ""
+    },
+    {
+      "id": 93878,
+      "logo_path": null,
+      "name": "Région Réunion",
+      "origin_country": ""
+    },
+    {
+      "id": 8161,
+      "logo_path": "/vqB76m8bZtK9J0i01tzDfEPkfIv.png",
+      "name": "Ellipsanime Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 95851,
+      "logo_path": null,
+      "name": "Les Cartooneurs Associés",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-04-18",
+      "episode_count": 52,
+      "id": 191098,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uiOT3X9p9eB1V5QQeSP0yAIP5gV.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 52,
+      "id": 316971,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/9lbGxMNv9wRdupobUtDCFaHGLzT.jpg",
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2024-08-25",
+      "episode_count": 52,
+      "id": 419608,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/cKS6zWYne9ah8zO04Plw6sIqdQa.jpg",
+      "season_number": 3,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "A new touch of blue.",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 190,
+  "external_ids": {
+    "id": 123591,
+    "imdb_id": "tt14670820",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 392426,
+    "tvrage_id": null,
+    "wikidata_id": "Q454398",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

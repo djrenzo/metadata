@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg",
+  "created_by": [
+    {
+      "id": 1809273,
+      "credit_id": "5ca775b8925141258edf70c7",
+      "name": "Bob Jaques",
+      "original_name": "Bob Jaques",
+      "gender": 2,
+      "profile_path": "/oLKPxMV6lsVWlf4wfFddADFSX1J.jpg"
+    },
+    {
+      "id": 34480,
+      "credit_id": "5ca775ce0e0a261f4133f43f",
+      "name": "Alan Zaslove",
+      "original_name": "Alan Zaslove",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "1999-05-08",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 9980,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2003-04-06",
+  "last_episode_to_air": {
+    "id": 4491290,
+    "name": "I Know What You Did Last Night",
+    "overview": "To be on TV, Woody and Winnie spend the night in a haunted castle.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-04-06",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 3,
+    "show_id": 9980,
+    "still_path": null
+  },
+  "name": "The New Woody Woodpecker Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    },
+    {
+      "id": 46,
+      "logo_path": "/nXrfHqHOtLcrSKPz2do1duM3cwT.png",
+      "name": "YTV",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2686,
+      "logo_path": "/rUb71E91POVCxpXGJ49pf6m8Ukk.png",
+      "name": "Fox Kids",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 163,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The New Woody Woodpecker Show",
+  "overview": "The funny bird drives people crazy with his antics.",
+  "popularity": 15.7953,
+  "poster_path": "/oizXc3SnlSWDqPMmfe4koUj4RRo.jpg",
+  "production_companies": [
+    {
+      "id": 4285,
+      "logo_path": "/2lYBhGMYUUUToRssPb2Oxka5MrP.png",
+      "name": "Universal Cartoon Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-05-08",
+      "episode_count": 69,
+      "id": 68514,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oizXc3SnlSWDqPMmfe4koUj4RRo.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2000-09-02",
+      "episode_count": 49,
+      "id": 97272,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/aVcg9d3vNznvpfTzYwfFuSFRy8P.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-05-04",
+      "episode_count": 45,
+      "id": 121691,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/szg7ggp1OE1LRjx87LbycOnjjkf.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.609,
+  "vote_count": 69,
+  "external_ids": {
+    "id": 9980,
+    "imdb_id": "tt0281474",
+    "freebase_mid": "/m/0drl_w",
+    "freebase_id": "/en/the_new_woody_woodpecker_show",
+    "tvdb_id": 239711,
+    "tvrage_id": null,
+    "wikidata_id": "Q2317085",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

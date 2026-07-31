@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/aP0V3qTB1iy3JW90EKVpLPNhMia.jpg",
+  "created_by": [
+    {
+      "id": 1224056,
+      "credit_id": "61a111943d4d96009195547e",
+      "name": "Jason Tracey",
+      "original_name": "Jason Tracey",
+      "gender": 2,
+      "profile_path": "/b8HojF1ohN5UX3QuiRkDuD5QkE9.jpg"
+    },
+    {
+      "id": 1039314,
+      "credit_id": "62238bc159e8a9001bfb0697",
+      "name": "Anthony E. Zuiker",
+      "original_name": "Anthony E. Zuiker",
+      "gender": 2,
+      "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg"
+    },
+    {
+      "id": 1214544,
+      "credit_id": "62238c2721c4ca001d8e5c41",
+      "name": "Ann Donahue",
+      "original_name": "Ann Donahue",
+      "gender": 1,
+      "profile_path": "/loRNThhBJCx3FJi2RQvX519WD1j.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2021-10-06",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/csi-vegas",
+  "id": 122194,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-05-19",
+  "last_episode_to_air": {
+    "id": 5267858,
+    "name": "Tunnel Vision",
+    "overview": "After an explosion in a bio lab, the CSI team races to determine which nerve agent left one of their own unconscious, while the others explore a dangerous underground tunnel to find another CSI who got kidnapped during the blast.",
+    "vote_average": 8.3,
+    "vote_count": 3,
+    "air_date": "2024-05-19",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 122194,
+    "still_path": "/qb6FoCzWH1wRcJWVtl7fmtvFnqW.jpg"
+  },
+  "name": "CSI: Vegas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 41,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CSI: Vegas",
+  "overview": "Facing an existential threat that could bring down the Crime Lab, a brilliant team of forensic investigators must welcome back old friends and deploy new techniques to preserve and serve justice in Sin City.",
+  "popularity": 17.7717,
+  "poster_path": "/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg",
+  "production_companies": [
+    {
+      "id": 40041,
+      "logo_path": "/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png",
+      "name": "Jerry Bruckheimer Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-10-06",
+      "episode_count": 10,
+      "id": 188661,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rUrZj1su654gz9neAiJs9z1y56Z.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2022-09-29",
+      "episode_count": 21,
+      "id": 298431,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7x1DwPyjVCFekAj6QBeS6DIOODf.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-02-18",
+      "episode_count": 10,
+      "id": 365566,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Truth lies here.",
+  "type": "Scripted",
+  "vote_average": 7.692,
+  "vote_count": 325,
+  "external_ids": {
+    "id": 122194,
+    "imdb_id": "tt12887536",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 400248,
+    "tvrage_id": null,
+    "wikidata_id": "Q106910380",
+    "facebook_id": "CSICBS",
+    "instagram_id": "CSICBS",
+    "twitter_id": "CSICBS"
+  }
+}

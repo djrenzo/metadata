@@ -1,0 +1,191 @@
+{
+  "adult": false,
+  "backdrop_path": "/iFB8TiYON7yC3qO6f0jfLd3YKVp.jpg",
+  "created_by": [
+    {
+      "id": 551888,
+      "credit_id": "5257f91719c29531db2dfa87",
+      "name": "George Schlatter",
+      "original_name": "George Schlatter",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1227201,
+      "credit_id": "5257f91719c29531db2dfa81",
+      "name": "Ed Friendly",
+      "original_name": "Ed Friendly",
+      "gender": 2,
+      "profile_path": "/2rQtaOstwQuQDpxJrQ1ul4hccng.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1968-01-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9895,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1973-03-12",
+  "last_episode_to_air": {
+    "id": 413162,
+    "name": "Episode 24",
+    "overview": "Sketches include Beauty parlor, Girdle shop visit with Edith-Ann,, Marriage counselor, Cannibal blackouts, Fickle finger of fate aware, Emission quickie, Plastic surgery, Study of wife swapping, Trading stamps, Noise line, Lily's stammering lady, Preview of upcoming shows, The Swizzlers, General Bullwright's report, and Clown closing. Featuring Sammy Davis, Jr",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1973-03-12",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 6,
+    "show_id": 9895,
+    "still_path": "/mtrCe4uzqZsbcgiVTftdFVRXcc4.jpg"
+  },
+  "name": "Rowan & Martin's Laugh-In",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 141,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rowan & Martin's Laugh-In",
+  "overview": "An American sketch comedy television program hosted by comedians Dan Rowan and Dick Martin.",
+  "popularity": 17.4122,
+  "poster_path": "/abMymAYr5R1yVeNl9NZs3x27RoY.jpg",
+  "production_companies": [
+    {
+      "id": 66792,
+      "logo_path": null,
+      "name": "Romart Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 66793,
+      "logo_path": null,
+      "name": "George Schlatter-Ed Friendly Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1967-09-09",
+      "episode_count": 14,
+      "id": 19776,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-01-22",
+      "episode_count": 14,
+      "id": 19770,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tXzcCkut7YmDdvYYAaxXfV8Cux6.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1968-09-16",
+      "episode_count": 26,
+      "id": 19773,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/67Xuh7oBdAUt6GRcXbhte7OmTl1.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-15",
+      "episode_count": 26,
+      "id": 19772,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/vyorPvwvNHEJE1aYjvTPkBbFyE3.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-09-14",
+      "episode_count": 26,
+      "id": 19771,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/kCyZKcV4JbfbvH1VIh0uUEUaXvR.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-09-13",
+      "episode_count": 24,
+      "id": 19774,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/hSCWWS7VN4wSxIKXYgw4NI0Cl92.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-09-11",
+      "episode_count": 24,
+      "id": 19775,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/A7d27KPvCTa6JCwpDNVDwnIIYO4.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Sock it to me!",
+  "type": "Scripted",
+  "vote_average": 6.75,
+  "vote_count": 36,
+  "external_ids": {
+    "id": 9895,
+    "imdb_id": "tt0062601",
+    "freebase_mid": "/m/0qkpx",
+    "freebase_id": "/en/rowan_martins_laugh_in",
+    "tvdb_id": 71413,
+    "tvrage_id": null,
+    "wikidata_id": "Q3235088",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2004-09-13",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 319,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-05-11",
+  "last_episode_to_air": {
+    "id": 16279,
+    "name": "Alan Cumming, Harry Smith, Jennifer Weiner",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-05-11",
+    "episode_number": 154,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 319,
+    "still_path": null
+  },
+  "name": "The Tony Danza Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 328,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Tony Danza Show",
+  "overview": "The Tony Danza Show was a daytime variety talk show that premiered on September 13, 2004 in syndication and was distributed by Buena Vista Television.",
+  "popularity": 15.4203,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 65379,
+      "logo_path": null,
+      "name": "Riverward Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 65380,
+      "logo_path": null,
+      "name": "Katie Face Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2004-09-13",
+      "episode_count": 175,
+      "id": 944,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 153,
+      "id": 945,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.375,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 319,
+    "imdb_id": "tt0421470",
+    "freebase_mid": "/m/05syyc",
+    "freebase_id": "/en/the_tony_danza_show",
+    "tvdb_id": 74800,
+    "tvrage_id": 6248,
+    "wikidata_id": "Q7769570",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

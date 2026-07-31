@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 152076,
+      "credit_id": "685740669e45758214493067",
+      "name": "Sarah Pia Anderson",
+      "original_name": "Sarah Pia Anderson",
+      "gender": 1,
+      "profile_path": "/oOKCyZjPNK5KSMzkWRAKBiDD1aB.jpg"
+    }
+  ],
+  "episode_run_time": [
+    100
+  ],
+  "first_air_date": "1977-09-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 44697,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1979-05-16",
+  "last_episode_to_air": {
+    "id": 4153165,
+    "name": "In England's Green and Pleasant Land",
+    "overview": "Authorities must decide if the repentance of a reformed convicted murderer is genuine so he can be prepared for release.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1979-05-16",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 44697,
+    "still_path": null
+  },
+  "name": "BBC2 Play of the Week",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 38,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "BBC2 Play of the Week",
+  "overview": "An anthology of plays and novels adapted into feature length TV movies, broadcast on BBC2 from September 1977 to April 1979.",
+  "popularity": 12.4952,
+  "poster_path": "/bxw3egrIzeydlHvSruBVDpa3AU8.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1977-09-21",
+      "episode_count": 23,
+      "id": 323707,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-20",
+      "episode_count": 15,
+      "id": 323708,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 44697,
+    "imdb_id": "tt0958967",
+    "freebase_mid": "/m/0b_xhxz",
+    "freebase_id": null,
+    "tvdb_id": 280118,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

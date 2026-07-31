@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/wPNBOUMxSWKysHxQW4Q1hC99L4k.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60,
+    30
+  ],
+  "first_air_date": "2016-05-11",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80049872",
+  "id": 66488,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-12-15",
+  "last_episode_to_air": {
+    "id": 2529653,
+    "name": "Dinner Party: Ending on a High Note",
+    "overview": "Wiz Khalifa, Jill Scott, Shania Twain and Imagine Dragons frontman Dan Reynolds open up about inspiration, success and the emotional power of music.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-15",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 2,
+    "show_id": 66488,
+    "still_path": null
+  },
+  "name": "Chelsea",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Chelsea",
+  "overview": "It's not her first talk show, but it is a first of its kind. Ideas, people and places that fascinate her, all in her unique style.",
+  "popularity": 18.4481,
+  "poster_path": "/lDbyyKRDk5FmDY98eCc97gUEZod.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-05-11",
+      "episode_count": 90,
+      "id": 77016,
+      "name": "Best of 2016",
+      "overview": "Armed with her sharp wit and curiosity, Chelsea Handler hosts a groundbreaking talk show full of famous faces, big ideas and mind-blowing adventures.",
+      "poster_path": "/cAEkGDb93yaynfFf9ANHklLFQop.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2017-04-14",
+      "episode_count": 30,
+      "id": 85924,
+      "name": "Season 2",
+      "overview": "She's biting, she's brassy, and she's back. Host Chelsea Handler returns with season two of her convention-defying talk show, switching to an hourly, once-a-week format with new episodes each Friday.",
+      "poster_path": "/nQ2vIFAEyTcubJ7VLVwWQw61ERT.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.123,
+  "vote_count": 77,
+  "external_ids": {
+    "id": 66488,
+    "imdb_id": "tt5672036",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 309058,
+    "tvrage_id": null,
+    "wikidata_id": "Q23647040",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

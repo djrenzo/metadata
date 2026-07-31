@@ -1,0 +1,156 @@
+{
+  "adult": false,
+  "backdrop_path": "/lJrciegsSN6izYvVJ8udxllM2hD.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2019-05-27",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://sic.pt/Programas/golpe-de-sorte",
+  "id": 89766,
+  "in_production": false,
+  "languages": [
+    "es",
+    "pt"
+  ],
+  "last_air_date": "2021-02-20",
+  "last_episode_to_air": {
+    "id": 2731236,
+    "name": "Episode 116",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-02-20",
+    "episode_number": 116,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 4,
+    "show_id": 89766,
+    "still_path": null
+  },
+  "name": "Golpe de Sorte",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 242,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Golpe de Sorte",
+  "overview": "",
+  "popularity": 15.0192,
+  "poster_path": "/crPj51OVO5pQm5nUJV4bCwQhbnS.jpg",
+  "production_companies": [
+    {
+      "id": 155391,
+      "logo_path": "/mLnKZPHuej6G84ETAyZvWwqYyTH.png",
+      "name": "Coral Europa",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-05-27",
+      "episode_count": 30,
+      "id": 124929,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5jkZ6kJIMWURIQuHzQlLGxB6wBY.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-01",
+      "episode_count": 53,
+      "id": 138575,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/uEgKQtgnR83shoTboczecKyMdma.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-15",
+      "episode_count": 43,
+      "id": 138576,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/eIQb8fnVlFk8PbOgsaQnOSSXyQ1.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 116,
+      "id": 177287,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/m5RnRwdc95a7c2YKI14DFfKLN6K.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 89766,
+    "imdb_id": "tt10133388",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 363559,
+    "tvrage_id": null,
+    "wikidata_id": "Q64840892",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

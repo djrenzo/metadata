@@ -1,0 +1,174 @@
+{
+  "adult": false,
+  "backdrop_path": "/4QrmsUEZgIjzr64MpHprZYEChUN.jpg",
+  "created_by": [
+    {
+      "id": 1108689,
+      "credit_id": "560e2606c3a368681000bbf2",
+      "name": "Fred Hamilton",
+      "original_name": "Fred Hamilton",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    50
+  ],
+  "first_air_date": "1950-09-10",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1048,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1955-12-25",
+  "last_episode_to_air": {
+    "id": 55264,
+    "name": "Robert Paige",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1955-12-25",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 1048,
+    "still_path": null
+  },
+  "name": "The Colgate Comedy Hour",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 208,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Colgate Comedy Hour",
+  "overview": "The Colgate Comedy Hour is an American comedy-musical variety series that aired live on the NBC network from 1950 to 1955. The show starred many notable comedians and entertainers of the era, including Eddie Cantor, Dean Martin and Jerry Lewis, Fred Allen, Donald O'Connor, Bud Abbott and Lou Costello, Bob Hope, Jimmy Durante, Ray Bolger, Gordon MacRae, Ben Blue, Robert Paige, Tony Curtis, Burt Lancaster, Broadway dancer Wayne Lamb and Spike Jones and His City Slickers.",
+  "popularity": 15.4421,
+  "poster_path": "/oWvIOn94vgsrius8HYTreQgJtjp.jpg",
+  "production_companies": [
+    {
+      "id": 64615,
+      "logo_path": null,
+      "name": "Colgate-Palmolive-Peet",
+      "origin_country": ""
+    },
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1950-09-10",
+      "episode_count": 42,
+      "id": 2976,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1ko0e4a7SoGP4Pgb6bfoEfBsSkD.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1951-09-02",
+      "episode_count": 42,
+      "id": 2977,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7fvET8bA1wJLv8HsvB2IQTWfURI.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1952-09-21",
+      "episode_count": 39,
+      "id": 2978,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/nsa3qlq1YvRQ8rj1rePiJdUE5n7.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1953-10-04",
+      "episode_count": 34,
+      "id": 2979,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/klR4s2hqZio6WOjvomYclac1ddc.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-09-19",
+      "episode_count": 39,
+      "id": 2980,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/j7RBTXWu4Sj0aSEFw66QRvWyJr8.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-09-18",
+      "episode_count": 12,
+      "id": 2981,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/1yxW5env26j08REQTUl41yLmDva.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "This was a Colgate-sponsored comedy hour that featured many notable comedians and entertainers of the era as guest stars.",
+  "type": "Scripted",
+  "vote_average": 6.9,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 1048,
+    "imdb_id": "tt0042094",
+    "freebase_mid": "/m/0fhm54",
+    "freebase_id": "/en/the_colgate_comedy_hour",
+    "tvdb_id": 73091,
+    "tvrage_id": null,
+    "wikidata_id": "Q1252607",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

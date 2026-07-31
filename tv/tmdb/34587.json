@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/sjLv7xpBCP7DZiYS41hMFPRyLQl.jpg",
+  "created_by": [
+    {
+      "id": 150259,
+      "credit_id": "5258d947760ee34661726352",
+      "name": "Osman Sınav",
+      "original_name": "Osman Sınav",
+      "gender": 2,
+      "profile_path": "/9Ghd7cgOed8u7m7OyBWuF8RCUno.jpg"
+    },
+    {
+      "id": 70582,
+      "credit_id": "60997c9d41eee1003bd94dd0",
+      "name": "Raci Şaşmaz",
+      "original_name": "Raci Şaşmaz",
+      "gender": 2,
+      "profile_path": "/t7DkEl1jPHe2p29CttDZKcjFDI3.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2003-01-15",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.kurtlarvadisi.com/",
+  "id": 34587,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2005-12-29",
+  "last_episode_to_air": {
+    "id": 788963,
+    "name": "Episode 97",
+    "overview": "The big finale of Valley of the Wolves! Polat Alemdar, who was born Efe Yakup Karahanlı, grew up as Ali Candan, then changed his face and his whole life, confronts the world barons on his way to crush the mafia. Will Polat, who risks everything to protect those he loves, be able to do the same against Lisa and Amon? On the other side, his beloved Elif, whom he could not give up even after becoming Polat Alemdar, is dying. Will Polat be able to see his beloved one last time before she dies? As Operation Valley of the Wolves comes to an end, Polat is answering for his loved ones and his life in court. How will Polat appear in court? What awaits him in court?",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "air_date": "2005-12-29",
+    "episode_number": 11,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 121,
+    "season_number": 4,
+    "show_id": 34587,
+    "still_path": "/2nRxKF6nkubeDnPXkfNGA7paemx.jpg"
+  },
+  "name": "Valley of the Wolves",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 750,
+      "logo_path": "/5F1z8mqADtXwFUdwui5AQcfqJNn.png",
+      "name": "Show TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 97,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Kurtlar Vadisi",
+  "overview": "One of Turkey's most iconic and influential dramas, Valley of the Wolves follows Polat Alemdar, an undercover agent who infiltrates Istanbul's most dangerous crime organisation after years of preparation. Combining organised crime, covert operations and sharp political commentary, the series fearlessly tackles Turkey's shadowy relationship between the state, the mafia and power — and became a cultural phenomenon that spawned multiple films and spin-offs.",
+  "popularity": 15.7827,
+  "poster_path": "/aGi8EuXsf5bbM4O59Uu0pucLcT.jpg",
+  "production_companies": [
+    {
+      "id": 58135,
+      "logo_path": "/1o1yIEtI1Fpwiq8it884t2szo0A.png",
+      "name": "Pana Film",
+      "origin_country": "TR"
+    },
+    {
+      "id": 41675,
+      "logo_path": null,
+      "name": "Sinegraf",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-01-15",
+      "episode_count": 20,
+      "id": 45331,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hE7eMxN3MGAkGAG0UrO1DPcbG3I.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 35,
+      "id": 45333,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/2plvVWF2WdMdAJo0oVne0mMPcR5.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2004-09-01",
+      "episode_count": 31,
+      "id": 45332,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/368FEcAotHEFZ9pUrWZSaOBPZJF.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2005-10-06",
+      "episode_count": 11,
+      "id": 45334,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/TrMhU5FixxlT2xl9x3lKUgZp7p.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.271,
+  "vote_count": 83,
+  "external_ids": {
+    "id": 34587,
+    "imdb_id": "tt0421384",
+    "freebase_mid": "/m/0bj3_b",
+    "freebase_id": "/en/kurtlar_vadisi",
+    "tvdb_id": 263771,
+    "tvrage_id": null,
+    "wikidata_id": "Q13407659",
+    "facebook_id": "officialpanafilm",
+    "instagram_id": null,
+    "twitter_id": "panafilm"
+  }
+}

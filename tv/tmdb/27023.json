@@ -1,0 +1,877 @@
+{
+  "adult": false,
+  "backdrop_path": "/AvydGD3Y03ad7QLxQ3tAZ3VVkng.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1953-03-19",
+  "genres": [],
+  "homepage": "http://www.oscars.org/",
+  "id": 27023,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-03-15",
+  "last_episode_to_air": {
+    "id": 6056273,
+    "name": "98th Academy Awards",
+    "overview": "Conan O'Brien hosts honors for achievements in film at the Dolby Theatre at Ovation Hollywood.",
+    "vote_average": 6.4,
+    "vote_count": 5,
+    "air_date": "2026-03-15",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 178,
+    "season_number": 74,
+    "show_id": 27023,
+    "still_path": "/ut8xN6mtazEf364VdeQnOMTOz7c.jpg"
+  },
+  "name": "The Oscars",
+  "next_episode_to_air": {
+    "id": 7125007,
+    "name": "99th Academy Awards",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2027-03-14",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 75,
+    "show_id": 27023,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 76,
+  "number_of_seasons": 76,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Oscars",
+  "overview": "An annual American awards ceremony honoring cinematic achievements in the film industry. The various category winners are awarded a copy of a statuette, officially the Academy Award of Merit, that is better known by its nickname Oscar.",
+  "popularity": 18.5311,
+  "poster_path": "/wyMHJMQp8WpmBg9CxefvbQnFhrm.jpg",
+  "production_companies": [
+    {
+      "id": 43330,
+      "logo_path": null,
+      "name": "Academy of Motion Picture Arts and Sciences (AMPAS)",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1953-03-19",
+      "episode_count": 1,
+      "id": 83631,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yzdgzUUb1CnDJfJpqAmMytNi8Aw.jpg",
+      "season_number": 1,
+      "vote_average": 1.8
+    },
+    {
+      "air_date": "1954-03-25",
+      "episode_count": 1,
+      "id": 37758,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-03-30",
+      "episode_count": 1,
+      "id": 37759,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-03-21",
+      "episode_count": 1,
+      "id": 37760,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-03-27",
+      "episode_count": 1,
+      "id": 37761,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-03-26",
+      "episode_count": 1,
+      "id": 37762,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1959-04-06",
+      "episode_count": 1,
+      "id": 37763,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-04-04",
+      "episode_count": 1,
+      "id": 37764,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-04-17",
+      "episode_count": 1,
+      "id": 37765,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-04-09",
+      "episode_count": 1,
+      "id": 37766,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-04-08",
+      "episode_count": 1,
+      "id": 37767,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "1964-04-13",
+      "episode_count": 1,
+      "id": 37768,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-04-05",
+      "episode_count": 1,
+      "id": 37769,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-04-18",
+      "episode_count": 1,
+      "id": 37770,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-04-10",
+      "episode_count": 1,
+      "id": 37771,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-04-10",
+      "episode_count": 1,
+      "id": 37772,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-04-14",
+      "episode_count": 1,
+      "id": 37773,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-04-07",
+      "episode_count": 1,
+      "id": 37774,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-04-15",
+      "episode_count": 1,
+      "id": 37775,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-04-10",
+      "episode_count": 1,
+      "id": 37776,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-03-27",
+      "episode_count": 1,
+      "id": 37777,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-04-02",
+      "episode_count": 1,
+      "id": 37778,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-04-08",
+      "episode_count": 1,
+      "id": 37779,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-03-29",
+      "episode_count": 1,
+      "id": 37780,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-03-28",
+      "episode_count": 1,
+      "id": 37781,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-04-03",
+      "episode_count": 1,
+      "id": 37782,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1979-04-09",
+      "episode_count": 1,
+      "id": 37783,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-04-14",
+      "episode_count": 1,
+      "id": 37784,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-03-31",
+      "episode_count": 1,
+      "id": 37785,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-03-29",
+      "episode_count": 1,
+      "id": 37786,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-04-11",
+      "episode_count": 1,
+      "id": 37787,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-04-09",
+      "episode_count": 1,
+      "id": 37788,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1985-03-25",
+      "episode_count": 1,
+      "id": 37789,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-03-24",
+      "episode_count": 1,
+      "id": 37790,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-03-30",
+      "episode_count": 1,
+      "id": 37791,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-04-11",
+      "episode_count": 1,
+      "id": 37792,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-03-29",
+      "episode_count": 1,
+      "id": 37793,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-03-26",
+      "episode_count": 1,
+      "id": 37794,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1991-03-25",
+      "episode_count": 1,
+      "id": 37795,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-03-30",
+      "episode_count": 1,
+      "id": 37796,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-03-29",
+      "episode_count": 1,
+      "id": 37797,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-03-21",
+      "episode_count": 1,
+      "id": 37798,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-03-27",
+      "episode_count": 1,
+      "id": 37799,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-03-25",
+      "episode_count": 1,
+      "id": 37800,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "1997-03-24",
+      "episode_count": 1,
+      "id": 37801,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/wyD8GcNSOeZGB0q5NmiDhbUyzLt.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-03-23",
+      "episode_count": 1,
+      "id": 37802,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/3vOYt5oPqOYzIDYRrEatJwIYThb.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-03-21",
+      "episode_count": 1,
+      "id": 37803,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/aiufcurjORbestMmp7AHa4FMZNG.jpg",
+      "season_number": 47,
+      "vote_average": 4.8
+    },
+    {
+      "air_date": "2000-03-26",
+      "episode_count": 1,
+      "id": 37804,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/hUlS3K11VCprcGzFXX3vKBlVi82.jpg",
+      "season_number": 48,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2001-03-25",
+      "episode_count": 1,
+      "id": 37805,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/kOS8poHfRaKwjUGXlfJEoDFpNpW.jpg",
+      "season_number": 49,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "2002-03-24",
+      "episode_count": 1,
+      "id": 37806,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/cqkbUhAKUht8OKQg9gNkurHCiu6.jpg",
+      "season_number": 50,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2003-03-23",
+      "episode_count": 1,
+      "id": 37807,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/gdopqf5cbq5N4mBRiWvMNwQsbjk.jpg",
+      "season_number": 51,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2004-02-29",
+      "episode_count": 1,
+      "id": 37808,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": "/82MunZIC9IJSPJbRftWjdjTjTrm.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-27",
+      "episode_count": 1,
+      "id": 37809,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/yLWEqR2jShjlX1mDmAC5OEhwJ3r.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-03-05",
+      "episode_count": 1,
+      "id": 37810,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/rTiRJ40OxefhZ8vE78UKnhoDNBt.jpg",
+      "season_number": 54,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2007-02-25",
+      "episode_count": 1,
+      "id": 37811,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/iUNRqU1HkCjjJ8VDGXyzjRFCrtX.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-24",
+      "episode_count": 1,
+      "id": 37812,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/nb0X4V5zZy7UNXTLA3Anqnz8oll.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-22",
+      "episode_count": 1,
+      "id": 37813,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/dEBX2wchvr23mHIq9WaS1uzBrxx.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-07",
+      "episode_count": 1,
+      "id": 37814,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": "/4juv6XrDfUvxISRhYxoYZvhqU3g.jpg",
+      "season_number": 58,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2011-02-27",
+      "episode_count": 1,
+      "id": 59723,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": "/lcJJp6mJ5IfLU37XJA4zPDdHqlw.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-25",
+      "episode_count": 1,
+      "id": 59724,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": "/pdSgSJzMkJ25EvtlGzGOGsjPuYs.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-24",
+      "episode_count": 1,
+      "id": 59725,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": "/ryj3hvPsiQnoCMlvYFTcsW8Phdl.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-22",
+      "episode_count": 1,
+      "id": 65111,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": "/xwBdP4eU0OiZNsI0tAmGE1p3jhA.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-22",
+      "episode_count": 1,
+      "id": 65112,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": "/p9Kw4FhIHLAKjLMzh71WpQTPWYA.jpg",
+      "season_number": 63,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2016-02-28",
+      "episode_count": 1,
+      "id": 74573,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": "/7UMiYNPpdFn2ahYnp1Qzb4PR4Ts.jpg",
+      "season_number": 64,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2017-02-26",
+      "episode_count": 1,
+      "id": 84210,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": "/gxDDJAOjk5d9aYlwZNW9t5waMtq.jpg",
+      "season_number": 65,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-03-04",
+      "episode_count": 1,
+      "id": 100029,
+      "name": "Season 66",
+      "overview": "",
+      "poster_path": "/vEu443d5G56IFe7VfqEYF8NjJoj.jpg",
+      "season_number": 66,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-02-24",
+      "episode_count": 1,
+      "id": 119462,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": "/8ruWKMSxTKhNN3umHtezvKBrczH.jpg",
+      "season_number": 67,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2020-02-09",
+      "episode_count": 1,
+      "id": 140122,
+      "name": "Season 68",
+      "overview": "",
+      "poster_path": "/aX6xpvbADHo9PG8lAjTHabGbG9P.jpg",
+      "season_number": 68,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2021-04-25",
+      "episode_count": 1,
+      "id": 185769,
+      "name": "Season 69",
+      "overview": "",
+      "poster_path": "/meL7Cfnju7e0tvArEunUDRWtiqL.jpg",
+      "season_number": 69,
+      "vote_average": 4.2
+    },
+    {
+      "air_date": "2022-03-27",
+      "episode_count": 1,
+      "id": 285100,
+      "name": "Season 70",
+      "overview": "",
+      "poster_path": "/8BjJPRw1fbfgvUsdm0F82bSDiXh.jpg",
+      "season_number": 70,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2023-03-12",
+      "episode_count": 1,
+      "id": 321551,
+      "name": "Season 71",
+      "overview": "",
+      "poster_path": "/nD351FFSnFeIqlKbG8A2PFstvuU.jpg",
+      "season_number": 71,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-03-10",
+      "episode_count": 1,
+      "id": 365902,
+      "name": "Season 72",
+      "overview": "",
+      "poster_path": "/8un7H0P6WQOKmXQOqh5e34PvOpu.jpg",
+      "season_number": 72,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2025-03-02",
+      "episode_count": 1,
+      "id": 395198,
+      "name": "Season 73",
+      "overview": "The Emmy® Award-winning television host, writer, producer and comedian Conan O’Brien will host the 97th Oscars®. It will be O’Brien’s first time hosting the broadcast. The Oscars will air live on ABC from the Dolby Theatre in Hollywood, Los Angeles on Sunday, March 2, 2025.",
+      "poster_path": "/raJbNbGKi1VHFYC26wsYCILJLQX.jpg",
+      "season_number": 73,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2026-03-15",
+      "episode_count": 1,
+      "id": 446810,
+      "name": "Season 74",
+      "overview": "",
+      "poster_path": "/uFf0Ny0dQ7MESd4dGM2YilmDngy.jpg",
+      "season_number": 74,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2027-03-14",
+      "episode_count": 1,
+      "id": 509588,
+      "name": "Season 75",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 75,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2028-03-05",
+      "episode_count": 1,
+      "id": 509589,
+      "name": "Season 76",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 76,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "He was made for this.",
+  "type": "Scripted",
+  "vote_average": 6.988,
+  "vote_count": 82,
+  "external_ids": {
+    "id": 27023,
+    "imdb_id": null,
+    "freebase_mid": "/m/0g_w",
+    "freebase_id": "/en/the_academy_awards",
+    "tvdb_id": 85269,
+    "tvrage_id": 7194,
+    "wikidata_id": "Q19020",
+    "facebook_id": "TheAcademy",
+    "instagram_id": "theacademy",
+    "twitter_id": "TheAcademy"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/7DOQKioQwhvUSF9djiC6Opb083a.jpg",
+  "created_by": [
+    {
+      "id": 1261462,
+      "credit_id": "65a107c819690c01318abf98",
+      "name": "Ramón Campos",
+      "original_name": "Ramón Campos",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1261463,
+      "credit_id": "65a107dc19690c01288ab982",
+      "name": "Gema R. Neira",
+      "original_name": "Gema R. Neira",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2015-04-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.rtve.es/television/seis-hermanas/",
+  "id": 62522,
+  "in_production": true,
+  "languages": [
+    "it",
+    "es"
+  ],
+  "last_air_date": "2015-10-16",
+  "last_episode_to_air": {
+    "id": 2442298,
+    "name": "Episode 247",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-06-15",
+    "episode_number": 247,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 62522,
+    "still_path": null
+  },
+  "name": "Six Sisters",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 443,
+      "logo_path": "/dN6GTZyNY32q2onfrvJ2iAeE4su.png",
+      "name": "La 1",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 492,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Seis hermanas",
+  "overview": "Six sisters of an upper-class Spanish family experience difficulties in taking over the family's fabrics business after their father's death in 1913.",
+  "popularity": 14.2844,
+  "poster_path": "/sZ6KyLsnkCLwNetqYup3PI1yhnZ.jpg",
+  "production_companies": [
+    {
+      "id": 27628,
+      "logo_path": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+      "name": "Bambú Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 210360,
+      "logo_path": null,
+      "name": "Televisión Española",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-04-22",
+      "episode_count": 1,
+      "id": 501836,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-23",
+      "episode_count": 492,
+      "id": 66281,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sZ6KyLsnkCLwNetqYup3PI1yhnZ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 62522,
+    "imdb_id": "tt4485006",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 294847,
+    "tvrage_id": null,
+    "wikidata_id": "Q19818209",
+    "facebook_id": "SeisHermanas",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

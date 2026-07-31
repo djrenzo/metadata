@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/fypGcrQCyb9vQ7L8AM6PHCjQSBC.jpg",
+  "created_by": [
+    {
+      "id": 7624,
+      "credit_id": "62d352ee158c85029e9b166b",
+      "name": "Stan Lee",
+      "original_name": "Stan Lee",
+      "gender": 2,
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    },
+    {
+      "id": 7625,
+      "credit_id": "62d352ffd4653700508ead48",
+      "name": "Steve Ditko",
+      "original_name": "Steve Ditko",
+      "gender": 2,
+      "profile_path": "/sqPKdwqnnXymA0lxli7jP3Iwcjq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2008-03-08",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 3854,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2009-11-18",
+  "last_episode_to_air": {
+    "id": 986177,
+    "name": "Final Curtain",
+    "overview": "When Peter breaks up with Liz to be with Gwen, nothing goes as planned. Likewise for Spider-Man, who finally unmasks the Green Goblin.",
+    "vote_average": 4.5,
+    "vote_count": 16,
+    "air_date": "2009-11-18",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 3854,
+    "still_path": "/aE1CeKfro3FQh99Wo9mj4pNBN2u.jpg"
+  },
+  "name": "The Spectacular Spider-Man",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 44,
+      "logo_path": "/nKM9EnV7jTpt3MKRbhBusJ03lAY.png",
+      "name": "Disney XD",
+      "origin_country": "US"
+    },
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Spectacular Spider-Man",
+  "overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
+  "popularity": 17.3011,
+  "poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
+  "production_companies": [
+    {
+      "id": 23548,
+      "logo_path": null,
+      "name": "Adelaide Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 7438,
+      "logo_path": "/cGP6zJ8nHOrmYRLKROmSFtOXfsi.png",
+      "name": "Culver Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 7505,
+      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+      "name": "Marvel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-03-08",
+      "episode_count": 13,
+      "id": 60525,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/p4MOucpDNuRuQ1ZPrErZMKU3s0k.jpg",
+      "season_number": 1,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2009-06-22",
+      "episode_count": 13,
+      "id": 60526,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rONBGuiggABjRSQcvxw1z0KboVI.jpg",
+      "season_number": 2,
+      "vote_average": 4.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.6,
+  "vote_count": 913,
+  "external_ids": {
+    "id": 3854,
+    "imdb_id": "tt0976192",
+    "freebase_mid": "/m/0fxqk5",
+    "freebase_id": "/en/untitled_spider-man_animated_series",
+    "tvdb_id": 81494,
+    "tvrage_id": null,
+    "wikidata_id": "Q460707",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

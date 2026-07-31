@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/dRaab9MUm7WoI4rAubbSxJ3IOSA.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2013-09-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.sptelevisao.pt/pt/producoes/novelas/sol-de-inverno/",
+  "id": 157660,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2014-09-21",
+  "last_episode_to_air": {
+    "id": 4695893,
+    "name": "Episode 282",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-09-21",
+    "episode_number": 282,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 157660,
+    "still_path": null
+  },
+  "name": "Winter Sun",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 282,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Sol de Inverno",
+  "overview": "",
+  "popularity": 14.6919,
+  "poster_path": "/8oVKRRHLDJLen7ad8gqNp3MGb4B.jpg",
+  "production_companies": [
+    {
+      "id": 92108,
+      "logo_path": "/ufaY7DMZUz56C6iaIdaFTZDqYPY.png",
+      "name": "SP Televisão",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 282,
+      "id": 243949,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 157660,
+    "imdb_id": "tt2999034",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 353140,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "soldeinvernonasic",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

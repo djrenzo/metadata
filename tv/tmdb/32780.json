@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2004180,
+      "credit_id": "63cc4987532acb0081e81e9c",
+      "name": "Jorge Maestro",
+      "original_name": "Jorge Maestro",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2010-03-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.tvazteca.com/telenovelas/vidasrobadas/",
+  "id": 32780,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2010-09-21",
+  "last_episode_to_air": {
+    "id": 4750692,
+    "name": "Episode 141",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-09-21",
+    "episode_number": 141,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 32780,
+    "still_path": null
+  },
+  "name": "Vidas Robadas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3295,
+      "logo_path": "/yJyGhrAaFdmOHjiSjinNjIcErHs.png",
+      "name": "Azteca Uno",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 141,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Vidas Robadas",
+  "overview": "Vidas Robadas is the title of a Spanish-language telenovela produced by the Mexican television network TV Azteca. It is internationally known as \"Infamia\". It stars Carla Hernandez, Andres Palacios and marks the return of the grand actress, Cristian Bach to the television screen.",
+  "popularity": 32.5312,
+  "poster_path": "/6zPlwg7imF0YCizCqFvvbHvQUsL.jpg",
+  "production_companies": [
+    {
+      "id": 21117,
+      "logo_path": "/kqJuk6phgSj4DIXLFWvHVO0gcH4.png",
+      "name": "TV Azteca",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-03-08",
+      "episode_count": 141,
+      "id": 325398,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 32780,
+    "imdb_id": "tt1595336",
+    "freebase_mid": "/m/0c030t7",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q4847896",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

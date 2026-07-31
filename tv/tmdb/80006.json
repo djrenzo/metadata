@@ -1,0 +1,191 @@
+{
+  "adult": false,
+  "backdrop_path": "/p4CVpI0c8wDhwfTUDRn4ZlWIhpf.jpg",
+  "created_by": [
+    {
+      "id": 151380,
+      "credit_id": "5b1507039251417855005d41",
+      "name": "Peter Paige",
+      "original_name": "Peter Paige",
+      "gender": 2,
+      "profile_path": "/9qLFoMRyGjYx0yjdNvJLyR5m3OR.jpg"
+    },
+    {
+      "id": 1257795,
+      "credit_id": "5b1507070e0a262de2007b65",
+      "name": "Bradley Bredeweg",
+      "original_name": "Bradley Bredeweg",
+      "gender": 2,
+      "profile_path": "/viya7bdfpI2IcPArS7hAwZ73hO6.jpg"
+    },
+    {
+      "id": 62141,
+      "credit_id": "5b1506f79251417835007b6d",
+      "name": "Joanna Johnson",
+      "original_name": "Joanna Johnson",
+      "gender": 1,
+      "profile_path": "/dI0cGomu3vOBadoQBGxKelstpzU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2019-01-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://freeform.go.com/shows/good-trouble",
+  "id": 80006,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-03-05",
+  "last_episode_to_air": {
+    "id": 4984005,
+    "name": "What Now?",
+    "overview": "The Coterie crew says farewell as everyone takes control of their futures. A final piece of evidence against Silas is revealed as Mariana decides about her future with Evan and Joaquin.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2024-03-05",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 5,
+    "show_id": 80006,
+    "still_path": "/ixmQH8QBoz7zxOuDofAbjl2TZxh.jpg"
+  },
+  "name": "Good Trouble",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1267,
+      "logo_path": "/jk2Z7WH6JnHSZrxouYh4sireM3a.png",
+      "name": "Freeform",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 88,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Good Trouble",
+  "overview": "After moving to The Coterie in Downtown Los Angeles, Callie and Mariana Foster realize that living on their own is not all that it’s cracked up to be.",
+  "popularity": 16.5193,
+  "poster_path": "/tmB1PghtrIBbdrFAmRncuO1wQLQ.jpg",
+  "production_companies": [
+    {
+      "id": 1620,
+      "logo_path": "/yTI712cgl8hh6FNT5E6td0eHfNb.png",
+      "name": "Nuyorican Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 212911,
+      "logo_path": null,
+      "name": "Blazing Elm Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 212912,
+      "logo_path": null,
+      "name": "J.J. Prods",
+      "origin_country": ""
+    },
+    {
+      "id": 127128,
+      "logo_path": "/jk2Z7WH6JnHSZrxouYh4sireM3a.png",
+      "name": "Freeform Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-01-08",
+      "episode_count": 13,
+      "id": 104750,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1t3Gz16w4DG9lmPynJnPNMtWVJx.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-06-18",
+      "episode_count": 18,
+      "id": 121343,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/z3lxmx7R1cDgiSVh1FFHUZyDCIV.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2021-02-17",
+      "episode_count": 19,
+      "id": 176606,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/w6lrwNUaMR81qNez63JOGxFAE1K.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2022-03-09",
+      "episode_count": 18,
+      "id": 210653,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/tmB1PghtrIBbdrFAmRncuO1wQLQ.jpg",
+      "season_number": 4,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2023-03-16",
+      "episode_count": 20,
+      "id": 323939,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/aONjwYY9ZwidxLZizDKSCzN1aR6.jpg",
+      "season_number": 5,
+      "vote_average": 6.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Cause your effect.",
+  "type": "Scripted",
+  "vote_average": 7.417,
+  "vote_count": 180,
+  "external_ids": {
+    "id": 80006,
+    "imdb_id": "tt7820906",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 351504,
+    "tvrage_id": null,
+    "wikidata_id": "Q54024745",
+    "facebook_id": "GoodTrouble",
+    "instagram_id": "goodtrouble",
+    "twitter_id": "GoodTrouble"
+  }
+}

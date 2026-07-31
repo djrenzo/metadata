@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/dMM9pFclduZN3Jy2757fDcrsNMa.jpg",
+  "created_by": [
+    {
+      "id": 3501983,
+      "credit_id": "62537e6855937b045eefbdeb",
+      "name": "Luis Felipe Salamanca",
+      "original_name": "Luis Felipe Salamanca",
+      "gender": 2,
+      "profile_path": "/dWXVPH1OyLok71nySFSgBIXcWrA.jpg"
+    },
+    {
+      "id": 1175766,
+      "credit_id": "62537e734df291009db43dee",
+      "name": "Dago García",
+      "original_name": "Dago García",
+      "gender": 2,
+      "profile_path": "/gMU6DvmbGvQOGgrySykcBSwCKE5.jpg"
+    }
+  ],
+  "episode_run_time": [
+    48
+  ],
+  "first_air_date": "2001-08-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 132908,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2003-08-29",
+  "last_episode_to_air": {
+    "id": 3188026,
+    "name": "Episode 327",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-08-29",
+    "episode_number": 327,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 132908,
+    "still_path": null
+  },
+  "name": "Pedro El Escamoso",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 327,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Pedro El Escamoso",
+  "overview": "A charming man moves to the big city and falls for a female executive in this comedic telenovela.",
+  "popularity": 13.585,
+  "poster_path": "/v0DhAsHHiFpMmbe6zWG6F15gh4f.jpg",
+  "production_companies": [
+    {
+      "id": 53653,
+      "logo_path": null,
+      "name": "Caracol",
+      "origin_country": ""
+    },
+    {
+      "id": 2586,
+      "logo_path": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+      "name": "Caracol Televisión",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-08-24",
+      "episode_count": 327,
+      "id": 209558,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4Ya8a1kVgnjTRtzCooodr04GUrI.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.82,
+  "vote_count": 50,
+  "external_ids": {
+    "id": 132908,
+    "imdb_id": "tt0283770",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 369854,
+    "tvrage_id": null,
+    "wikidata_id": "Q601680",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

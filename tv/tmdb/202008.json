@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/y5LHvBtdeHQnCZzRQjFZ5gcwA2s.jpg",
+  "created_by": [
+    {
+      "id": 3549650,
+      "credit_id": "62800271907f26009ed00767",
+      "name": "Alidha Ávila",
+      "original_name": "Alidha Ávila",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1302025,
+      "credit_id": "628002873876510055b274ec",
+      "name": "José Alcalde",
+      "original_name": "José Alcalde",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1418760,
+      "credit_id": "628002a4880551006472067a",
+      "name": "Sergio Dalma",
+      "original_name": "Sergio Dalma",
+      "gender": 0,
+      "profile_path": "/9gcQ7t9TUPBkAzkWP9vE9xh3ZrI.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1999-06-02",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 202008,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1999-10-26",
+  "last_episode_to_air": {
+    "id": 4677575,
+    "name": "Episode 126",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-10-26",
+    "episode_number": 126,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 202008,
+    "still_path": null
+  },
+  "name": "Mujer Secreta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 289,
+      "logo_path": "/eFSACJaHlGL4X9UwimqWs2n0URg.png",
+      "name": "RCTV",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Mujer Secreta",
+  "overview": "",
+  "popularity": 27.9091,
+  "poster_path": "/8wk26nEt3gfiOqNkOBpE8VTDbcj.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-06-02",
+      "episode_count": 126,
+      "id": 293783,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 202008,
+    "imdb_id": "tt0326477",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q278845",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

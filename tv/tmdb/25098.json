@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1960-06-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 25098,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1961-03-09",
+  "last_episode_to_air": {
+    "id": 650737,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1961-03-09",
+    "episode_number": 183,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 25098,
+    "still_path": null
+  },
+  "name": "Full Circle",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Full Circle",
+  "overview": "Full Circle is a short-lived American soap opera that aired on CBS from June 27, 1960 to March 10, 1961. The half-hour series starred Dyan Cannon and Jean Byron, and was the first American soap opera to be broadcast live from Hollywood.",
+  "popularity": 14.5634,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1960-06-27",
+      "episode_count": 182,
+      "id": 35325,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 25098,
+    "imdb_id": "tt0053504",
+    "freebase_mid": "/m/07cfy4b",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 10090,
+    "wikidata_id": "Q5508008",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

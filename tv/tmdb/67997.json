@@ -1,0 +1,469 @@
+{
+  "adult": false,
+  "backdrop_path": "/aOBoOrQMxoOFqUVQmbEGdpT8717.jpg",
+  "created_by": [
+    {
+      "id": 1241179,
+      "credit_id": "5edd5769f36a32001f8a28af",
+      "name": "Charlie Parsons",
+      "original_name": "Charlie Parsons",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2001-08-04",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.tf1.fr/tf1/koh-lanta",
+  "id": 67997,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-06-23",
+  "last_episode_to_air": {
+    "id": 7419293,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-23",
+    "episode_number": 32,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 33,
+    "show_id": 67997,
+    "still_path": "/69hjWp7RDSOgRuEOSmhgLdpWxND.jpg"
+  },
+  "name": "Koh-Lanta",
+  "next_episode_to_air": {
+    "id": 7563147,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 34,
+    "show_id": 67997,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 464,
+  "number_of_seasons": 34,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Koh-Lanta",
+  "overview": "Fourteen to eighteen contestants have to survive on an uninhabited island for 40 days (20 days in the special editions). It's up to them to find food to accompany the meagre ration of rice provided at the start of the adventure. They have to build a shelter to protect themselves from the elements (bad weather, insects, etc.) and maintain the fire that they managed to build or that they won in the first comfort test.",
+  "popularity": 14.4101,
+  "poster_path": "/ixJpa9KUNOXceD07PnxRkEeCXBs.jpg",
+  "production_companies": [
+    {
+      "id": 47539,
+      "logo_path": "/aB6x075oAHrSUIq2ajzQXheZDFa.png",
+      "name": "Adventure Line Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 237009,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/3icyEM3aSm0NvnyC3MMSazFNn6z.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-04",
+      "episode_count": 13,
+      "id": 80471,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eNFynKfbKzcnmbmx1CyQc980UE6.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-28",
+      "episode_count": 13,
+      "id": 81311,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bXKAZarez4P4dUSCG2Edw8rEC0n.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-06-06",
+      "episode_count": 13,
+      "id": 81312,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8E2CVwEwNT58OOSMib1Sz2ALQtk.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-07-02",
+      "episode_count": 13,
+      "id": 81313,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/cKLESzArX3vEe5Dw7SEEvr6DVbi.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-07-01",
+      "episode_count": 13,
+      "id": 81314,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/vaPlaHo4SnWdN0M13H9IAbESzlL.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-07-21",
+      "episode_count": 13,
+      "id": 81315,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/xQcr0UHmjlImZMC4WqlhUvBNmsX.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-29",
+      "episode_count": 13,
+      "id": 81316,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/n1eBfWcocseqUgDCH8uuxkjlcA7.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-04",
+      "episode_count": 13,
+      "id": 81317,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/h8WSK0niWtZf94IHUsd7gMTD1K1.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-13",
+      "episode_count": 9,
+      "id": 81318,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/c0IyAZcZq93gyc2cTjEIeXp5kf6.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-28",
+      "episode_count": 13,
+      "id": 81319,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/zViF6wTnJ74AYMgBcA4A0SmlIRT.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-26",
+      "episode_count": 9,
+      "id": 81320,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/snzXXcQCjtJzZaHyXmFP6KYuGI6.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-17",
+      "episode_count": 14,
+      "id": 81321,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/6LH5Ki0E1t2YctLEccLCtDzoS0D.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-09",
+      "episode_count": 14,
+      "id": 81322,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/sUHOHRiSaJ6jVw882SXAc8Z3gg0.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-06",
+      "episode_count": 9,
+      "id": 81323,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/i342yru0v11TXwqlNHOiBmHzGBa.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-11-02",
+      "episode_count": 14,
+      "id": 81324,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/9Q1tVimfemninnaOwJ9c7KuIIkh.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-12",
+      "episode_count": 9,
+      "id": 81325,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/fNKa06fALD7x71bMyNsVHXam86R.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-24",
+      "episode_count": 14,
+      "id": 81326,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/2Rffw3EfkfHtqJ6NqcOarYkLn7V.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-12",
+      "episode_count": 14,
+      "id": 81327,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/5R0z1U76ruasIgqF8KliAfnVOnw.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-26",
+      "episode_count": 14,
+      "id": 81328,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/1XYXB4bskGFCLjGNyFSemYsJiYM.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-10",
+      "episode_count": 14,
+      "id": 85074,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/7L1ClNIEf7KUIunUPqyic50odU.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-01",
+      "episode_count": 14,
+      "id": 92236,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/bhC97q1yiqG5RNN431lln1foaoG.jpg",
+      "season_number": 21,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-03-16",
+      "episode_count": 11,
+      "id": 100948,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/os47xzaEaVVl6PccLgBITOtefXU.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-15",
+      "episode_count": 14,
+      "id": 121057,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/eDERqhLeDfdGNzq6bSn5Esr6g69.jpg",
+      "season_number": 23,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2020-02-21",
+      "episode_count": 15,
+      "id": 143830,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/bEpYpdqXZMy9jJyAeKvSN60YoVv.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-28",
+      "episode_count": 16,
+      "id": 160636,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/rAzlwWY0TIm3ygMr2zKVFA6Wscb.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-12",
+      "episode_count": 13,
+      "id": 184720,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/3sPTLiNpTu3jPJUkh2eVrlAiMix.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-24",
+      "episode_count": 15,
+      "id": 204531,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/nobpFWoRksZZV2LuH1h9nMA1f6g.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-22",
+      "episode_count": 17,
+      "id": 242347,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/div4itbtLp5Sdlo69otl5DQem3r.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-21",
+      "episode_count": 17,
+      "id": 329523,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/6duYSKHpo1ewVW4XKN85EKnH3O3.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-13",
+      "episode_count": 16,
+      "id": 377826,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/dT6ONigNZP2Bx9yO4hGLdm07g7Z.jpg",
+      "season_number": 30,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-08-20",
+      "episode_count": 16,
+      "id": 404841,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/7NF90vyqdFI0DFwodxI1VFixbPx.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-25",
+      "episode_count": 17,
+      "id": 438287,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/hv0IQjBDHdbnE7EIZbj5CZCp3xL.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-03",
+      "episode_count": 32,
+      "id": 499754,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/u7jBduq0mSsZm0vT229yf1dwh8m.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-09-01",
+      "episode_count": 1,
+      "id": 531253,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/wD1d70DhW9Bg9MRZ2E4uglY66VW.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.2,
+  "vote_count": 17,
+  "external_ids": {
+    "id": 67997,
+    "imdb_id": "tt0312093",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 111421,
+    "tvrage_id": null,
+    "wikidata_id": "Q1707097",
+    "facebook_id": "Kohlanta.tf1.fr",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

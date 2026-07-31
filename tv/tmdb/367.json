@@ -1,0 +1,283 @@
+{
+  "adult": false,
+  "backdrop_path": "/mDPGW3RLYiipUYOl9g0hdGhIWcG.jpg",
+  "created_by": [
+    {
+      "id": 42095,
+      "credit_id": "5253518d19c2957940121656",
+      "name": "Casper Christensen",
+      "original_name": "Casper Christensen",
+      "gender": 2,
+      "profile_path": "/aWYixFWELPzgpCLE4FTMNmdlYOW.jpg"
+    },
+    {
+      "id": 89973,
+      "credit_id": "5253518d19c295794012165c",
+      "name": "Frank Hvam",
+      "original_name": "Frank Hvam",
+      "gender": 2,
+      "profile_path": "/fmIW2EN38orLgAyV56veOjOGNTP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2005-02-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://play.tv2.dk/serie/klovn",
+  "id": 367,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2026-07-19",
+  "last_episode_to_air": {
+    "id": 7409615,
+    "name": "Episode 2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 11,
+    "show_id": 367,
+    "still_path": "/oMTqeY1YtJfEVASOnPSJAUPzbLF.jpg"
+  },
+  "name": "Klovn",
+  "next_episode_to_air": {
+    "id": 7409616,
+    "name": "Episode 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-02",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 11,
+    "show_id": 367,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 101,
+      "logo_path": "/sa7WIkkl34Hh8xj8hFRfrZNaLis.png",
+      "name": "TV 2 Zulu",
+      "origin_country": "DK"
+    },
+    {
+      "id": 125,
+      "logo_path": "/2cDF7NrooRYZhET5fCcTiXATD5j.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 4461,
+      "logo_path": "/25brfrubMmEEdFJPX7z0uC9X1ju.png",
+      "name": "TV 2 Play",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 103,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Klovn",
+  "overview": "Klovn is a Danish sitcom, which first aired on the Danish TV channel TV2 Zulu. It focuses on the life of the main character Frank and Casper. The show builds its comedy around quiet everyday situations, social awkwardness, uncomfortable silences and general faux pas.\n\nKlovn usually gets compared to the American sitcom Curb Your Enthusiasm by Larry David. It’s also shot handheld, in a pseudo-realistic style. Some have also mistakenly compared the theme to Curb Your Enthusiasm’s, despite it being a direct reference to Jacques Tati’s Mr. Hulot movies. The poster for the first film can be seen in Casper and Frank’s offices throughout the series.  Klovn initially ran 6 seasons on TV2 Zulu from 2005-2009 and was renewed with an additional 3 seasons that aired from 2018-2022.",
+  "popularity": 18.0177,
+  "poster_path": "/lq4lTNeScVNoulCBUhtSTif5R6N.jpg",
+  "production_companies": [
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 758,
+      "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 181720,
+      "logo_path": null,
+      "name": "Nutmeg Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-11-27",
+      "episode_count": 1,
+      "id": 1080,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/4hr6aDSx09OHl2rQA2brP1WP535.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-07",
+      "episode_count": 10,
+      "id": 1073,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lFdJCnAZPGKveCBiXdHSA52BLOj.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 10,
+      "id": 1075,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/gRbcGojS8LpewJInzqJ4Ju3EOqp.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2006-03-06",
+      "episode_count": 10,
+      "id": 1076,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/yfBFWgJeCsFp3ERka18LSnqG8s8.jpg",
+      "season_number": 3,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 10,
+      "id": 1074,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/zDzwSko2WuA5RfpZ1wj6tXU7tNN.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2008-03-03",
+      "episode_count": 10,
+      "id": 1077,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/gIKd0GXUEIe7cm6Wgzk9qYIriGV.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2009-02-23",
+      "episode_count": 10,
+      "id": 1078,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/f7tIif3piwWaRrxzg2EfWJgKCkP.jpg",
+      "season_number": 6,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-08-13",
+      "episode_count": 10,
+      "id": 107944,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/mX3LDT4q4W9TcNkqVOKAAP56fWI.jpg",
+      "season_number": 7,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2021-06-06",
+      "episode_count": 8,
+      "id": 197862,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/jeuP22dhJC9q8x53gpcJo1wNaYm.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-18",
+      "episode_count": 8,
+      "id": 300091,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/9SaK0O4jX2aEizYCZJMTIU0fxPx.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-20",
+      "episode_count": 8,
+      "id": 461292,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/vOHjpwk88JbOaeMOe1tfFYyXT71.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-07-19",
+      "episode_count": 9,
+      "id": 523621,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/An4Zvk9S8CoQDU7ONBLUFaAupBO.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 529151,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 30,
+  "external_ids": {
+    "id": 367,
+    "imdb_id": "tt0434695",
+    "freebase_mid": "/m/0b9t8m",
+    "freebase_id": "/en/klovn",
+    "tvdb_id": 79269,
+    "tvrage_id": 14600,
+    "wikidata_id": "Q1757847",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "adult": false,
+  "backdrop_path": "/g2ZuwiiaLjHQTJEcFssYiBbjjes.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1979-08-03",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.svt.se/allsang",
+  "id": 5177,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2026-07-14",
+  "last_episode_to_air": {
+    "id": 7419304,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-28",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 41,
+    "show_id": 5177,
+    "still_path": null
+  },
+  "name": "Allsång på Skansen",
+  "next_episode_to_air": {
+    "id": 7419305,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-04",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 41,
+    "show_id": 5177,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 299,
+  "number_of_seasons": 41,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Allsång på Skansen",
+  "overview": "Allsång på Skansen is a Swedish tv show held at Skansen, Stockholm, every summer on Tuesdays. The audience is supposed to sing-along with musical guests to well-known Swedish songs. The show started in 1935 on a small scale - about fifty people in the audience. Today about 10 000–25 500 people come to each performance.",
+  "popularity": 16.5132,
+  "poster_path": "/bgMdnWpwPBBT2Maqlnn2tZglsB2.jpg",
+  "production_companies": [
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-07-24",
+      "episode_count": 14,
+      "id": 205597,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-08-03",
+      "episode_count": 5,
+      "id": 15057,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-07-04",
+      "episode_count": 8,
+      "id": 15058,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-08-03",
+      "episode_count": 4,
+      "id": 126668,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-07-04",
+      "episode_count": 4,
+      "id": 15059,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-07-17",
+      "episode_count": 5,
+      "id": 126669,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-07-16",
+      "episode_count": 5,
+      "id": 126670,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-06-30",
+      "episode_count": 10,
+      "id": 126671,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-06-22",
+      "episode_count": 9,
+      "id": 126672,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-07-12",
+      "episode_count": 7,
+      "id": 126673,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-07-11",
+      "episode_count": 7,
+      "id": 126674,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-06-18",
+      "episode_count": 9,
+      "id": 126677,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-07-01",
+      "episode_count": 7,
+      "id": 126678,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-06-30",
+      "episode_count": 7,
+      "id": 126679,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-06-29",
+      "episode_count": 7,
+      "id": 126680,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-06-27",
+      "episode_count": 7,
+      "id": 126681,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-26",
+      "episode_count": 7,
+      "id": 126682,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-25",
+      "episode_count": 7,
+      "id": 126683,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-06-24",
+      "episode_count": 7,
+      "id": 126684,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-06-29",
+      "episode_count": 7,
+      "id": 126685,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-28",
+      "episode_count": 7,
+      "id": 126686,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-06-27",
+      "episode_count": 6,
+      "id": 126702,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-26",
+      "episode_count": 7,
+      "id": 126703,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-06-24",
+      "episode_count": 7,
+      "id": 126704,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-23",
+      "episode_count": 7,
+      "id": 126705,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-06-29",
+      "episode_count": 8,
+      "id": 126706,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-06-28",
+      "episode_count": 8,
+      "id": 126707,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-26",
+      "episode_count": 8,
+      "id": 126708,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/2PmNGoWLeFmnenxJuzGVYh4NZ1E.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-25",
+      "episode_count": 8,
+      "id": 126709,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-06-24",
+      "episode_count": 8,
+      "id": 126710,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-23",
+      "episode_count": 8,
+      "id": 126711,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-28",
+      "episode_count": 8,
+      "id": 126786,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-27",
+      "episode_count": 8,
+      "id": 126787,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-26",
+      "episode_count": 8,
+      "id": 126788,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-06-25",
+      "episode_count": 8,
+      "id": 126789,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-23",
+      "episode_count": 8,
+      "id": 205792,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-29",
+      "episode_count": 8,
+      "id": 205793,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-28",
+      "episode_count": 8,
+      "id": 299452,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-27",
+      "episode_count": 8,
+      "id": 355946,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/kH2yVUwYMG4vT42qd6B20m44TDo.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-25",
+      "episode_count": 8,
+      "id": 430141,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/kOar2cWewK7mM9qGOeyEAsSqW60.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-24",
+      "episode_count": 8,
+      "id": 501992,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/Uqf0abM5m7be6XJzVG3v3wyOC0.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-23",
+      "episode_count": 8,
+      "id": 524215,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/ewSBDpX8DGnBhW9MFtmO8jrxIwu.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 5177,
+    "imdb_id": "tt0444985",
+    "freebase_mid": "/m/0776_g",
+    "freebase_id": "/en/allsang_pa_skansen",
+    "tvdb_id": 115331,
+    "tvrage_id": null,
+    "wikidata_id": "Q1757014",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

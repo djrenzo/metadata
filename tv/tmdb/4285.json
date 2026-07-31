@@ -1,0 +1,156 @@
+{
+  "adult": false,
+  "backdrop_path": "/b6lZg69n0pejkK6LTGIcCqEGFns.jpg",
+  "created_by": [
+    {
+      "id": 1236267,
+      "credit_id": "5257621a760ee36aaa3195ac",
+      "name": "Chiung Yao",
+      "original_name": "瓊瑤",
+      "gender": 1,
+      "profile_path": "/kHBtAMm5TzlOwYnlHYQl6Afj6TE.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1998-04-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.hnetv.com/hzgg/index.htm",
+  "id": 4285,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2004-04-05",
+  "last_episode_to_air": {
+    "id": 2668270,
+    "name": "Episode 40",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-04-05",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 3,
+    "show_id": 4285,
+    "still_path": "/6tUPuLV341jpIvASxcCVwhOGYvL.jpg"
+  },
+  "name": "My Fair Princess",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 48,
+      "logo_path": "/v78f4q6DYdRB8dLj4rQBpqQG8pW.png",
+      "name": "TVB Jade",
+      "origin_country": "HK"
+    },
+    {
+      "id": 403,
+      "logo_path": "/volHUxY1MHjSPI4ju7j36EdhR2m.png",
+      "name": "CTV",
+      "origin_country": "TW"
+    },
+    {
+      "id": 952,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan Television",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 192,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_name": "还珠格格",
+  "overview": "Centers around the legend of Princess Huanzhu during the reign of the Qianlong Emperor of the Qing Dynasty.",
+  "popularity": 19.0811,
+  "poster_path": "/4c8BanaITeHM6Eu2UykW4xrZovx.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-04-28",
+      "episode_count": 24,
+      "id": 12618,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kVSyyy7fSI9G0OPExdOXlxQkvsS.jpg",
+      "season_number": 1,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "1999-04-21",
+      "episode_count": 48,
+      "id": 84895,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6qrSdRfsKibzWANuL2xJRv8HeR2.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2003-07-07",
+      "episode_count": 40,
+      "id": 132195,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/tXHgIkicynqsrbp1BJAmvggoRPO.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 80,
+      "id": 490704,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.708,
+  "vote_count": 48,
+  "external_ids": {
+    "id": 4285,
+    "imdb_id": "tt0456785",
+    "freebase_mid": "/m/08pp6n",
+    "freebase_id": "/en/princess_pearl",
+    "tvdb_id": 249465,
+    "tvrage_id": null,
+    "wikidata_id": "Q715815",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

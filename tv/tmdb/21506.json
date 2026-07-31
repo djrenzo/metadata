@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1957-09-30",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 21506,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1958-07-28",
+  "last_episode_to_air": {
+    "id": 596218,
+    "name": "The Last Town Car",
+    "overview": "Edith Miller (Claudette Colbert) believes she may be losing her mind. Wherever Edith goes, she is confronted by the appearance of an old town car.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "1958-07-28",
+    "episode_number": 42,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 21506,
+    "still_path": null
+  },
+  "name": "Suspicion",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 42,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Suspicion",
+  "overview": "Suspicion is the title of an American television mystery drama series which aired on the NBC from 1957 through 1959. The executive producer of Suspicion was film director Alfred Hitchcock.",
+  "popularity": 15.2635,
+  "poster_path": "/g3InNLJAdrkhYAqTTj8b4yClfj6.jpg",
+  "production_companies": [
+    {
+      "id": 10717,
+      "logo_path": null,
+      "name": "Shamley Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10044,
+      "logo_path": null,
+      "name": "Revue Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1957-09-30",
+      "episode_count": 42,
+      "id": 31252,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/a7lR3qxbL4whcWtLxYwKZyl9x11.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.222,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 21506,
+    "imdb_id": "tt0050064",
+    "freebase_mid": "/m/06w24kx",
+    "freebase_id": null,
+    "tvdb_id": 71783,
+    "tvrage_id": 896,
+    "wikidata_id": "Q1542649",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

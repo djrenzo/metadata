@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/nZGTrIBHpqZ25VojxQ43C2AA9CA.jpg",
+  "created_by": [
+    {
+      "id": 1540992,
+      "credit_id": "64eb5ba3c3c89101007db115",
+      "name": "José Simón Escalona",
+      "original_name": "José Simón Escalona",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1997-03-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9697,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1997-09-10",
+  "last_episode_to_air": {
+    "id": 4683289,
+    "name": "Episode 145",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1997-09-10",
+    "episode_number": 145,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 9697,
+    "still_path": null
+  },
+  "name": "Llovizna",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 289,
+      "logo_path": "/eFSACJaHlGL4X9UwimqWs2n0URg.png",
+      "name": "RCTV",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 145,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Llovizna",
+  "overview": "Llovizna is a 1997 telenovela from Venezuela, starring Scarlet Ortiz and Luis Fernandez. It was produced by the now defunct RCTV. This telenovela contained 145 episodes.",
+  "popularity": 31.2406,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 93259,
+      "logo_path": "/rMYiGrEDx7GdOcfv91pVRYovmWA.png",
+      "name": "RCTV",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-03-25",
+      "episode_count": 145,
+      "id": 115236,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 9697,
+    "imdb_id": "tt0147776",
+    "freebase_mid": "/m/0cl3l7",
+    "freebase_id": "/en/llovizna",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1249031",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

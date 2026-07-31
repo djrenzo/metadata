@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    125,
+    135
+  ],
+  "first_air_date": "2002-04-29",
+  "genres": [],
+  "homepage": "",
+  "id": 2484,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2003-12-19",
+  "last_episode_to_air": {
+    "id": 189335,
+    "name": "Episode 410",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-12-19",
+    "episode_number": 240,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 2484,
+    "still_path": null
+  },
+  "name": "RI:SE",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 26,
+      "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+      "name": "Channel 4",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 410,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "RI:SE",
+  "overview": "RI:SE is a breakfast television show made by Princess Productions in collaboration with BSkyB for Channel 4 in the United Kingdom. It was scheduled to replace The Big Breakfast after declining ratings. It launched on 29 April 2002. The programme was broadcast between 06:55 and 09:00 in the morning - nationally in the UK.",
+  "popularity": 15.9728,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2002-04-29",
+      "episode_count": 170,
+      "id": 7902,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-20",
+      "episode_count": 240,
+      "id": 7903,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 2484,
+    "imdb_id": "tt0317016",
+    "freebase_mid": "/m/019rsc",
+    "freebase_id": "/en/ri_se",
+    "tvdb_id": 70735,
+    "tvrage_id": 574,
+    "wikidata_id": "Q7276742",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2016-11-28",
+  "genres": [],
+  "homepage": "",
+  "id": 205940,
+  "in_production": true,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2017-08-25",
+  "last_episode_to_air": {
+    "id": 3834056,
+    "name": "Episode 40",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-08-25",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 205940,
+    "still_path": null
+  },
+  "name": "Holnap tali!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6056,
+      "logo_path": null,
+      "name": "M2 Petőfi TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Holnap tali!",
+  "overview": "",
+  "popularity": 30.746,
+  "poster_path": "/e7wBZdWINgAm4MO2BU0dKWxkaet.jpg",
+  "production_companies": [
+    {
+      "id": 178712,
+      "logo_path": null,
+      "name": "Whatever Media",
+      "origin_country": ""
+    },
+    {
+      "id": 58974,
+      "logo_path": "/rRZEkPtbwVqBUjSQxaq1FtXSHoe.png",
+      "name": "MTVA",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-11-28",
+      "episode_count": 60,
+      "id": 300672,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-13",
+      "episode_count": 60,
+      "id": 300682,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-03",
+      "episode_count": 40,
+      "id": 300686,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 205940,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 343823,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

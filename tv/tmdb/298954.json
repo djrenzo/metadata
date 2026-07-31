@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/d22rcSrAWU7BMFItDphrJ6Ube0I.jpg",
+  "created_by": [
+    {
+      "id": 79602,
+      "credit_id": "68b5f92a02be9ac67f39822c",
+      "name": "Luc Dionne",
+      "original_name": "Luc Dionne",
+      "gender": 2,
+      "profile_path": "/1WqIXYwh3yvb4RDRl4gE9CG89AX.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2025-09-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/antigang/site",
+  "id": 298954,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-03-24",
+  "last_episode_to_air": {
+    "id": 6956484,
+    "name": "Episode 116",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-16",
+    "episode_number": 116,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 1,
+    "show_id": 298954,
+    "still_path": null
+  },
+  "name": "Antigang",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 116,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Antigang",
+  "overview": "The show follows a special police unit dedicated to fighting organized crime and major criminal networks, including street gangs, biker gangs, Italian/Irish/Lebanese mafias, and Mexican cartels.",
+  "popularity": 25.1834,
+  "poster_path": "/nSjS6oQFkpCPvZPAeZCEqo5Nxv8.jpg",
+  "production_companies": [
+    {
+      "id": 68120,
+      "logo_path": "/cd63bYczHLOooHLppy4WgGGlYan.png",
+      "name": "Aetios Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 116,
+      "id": 471174,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/njHnK8KFj4maXM9vgIyRxsqlSKe.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 298954,
+    "imdb_id": "tt38590149",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 463931,
+    "tvrage_id": null,
+    "wikidata_id": "Q135334059",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

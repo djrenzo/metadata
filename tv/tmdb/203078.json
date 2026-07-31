@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/1eNuj8gxVOzOe8MFNKTcTTrvbFy.jpg",
+  "created_by": [
+    {
+      "id": 989865,
+      "credit_id": "62ea23948566d2005fb038f6",
+      "name": "Olegario Barrera",
+      "original_name": "Olegario Barrera",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3648148,
+      "credit_id": "62ea239e1e6489005dc08eff",
+      "name": "Jhonny Pulido Mora",
+      "original_name": "Jhonny Pulido Mora",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2003-08-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 203078,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2004-02-09",
+  "last_episode_to_air": {
+    "id": 4665805,
+    "name": "Episode 130",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-02-09",
+    "episode_number": 130,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 203078,
+    "still_path": null
+  },
+  "name": "La cuaima",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 289,
+      "logo_path": "/eFSACJaHlGL4X9UwimqWs2n0URg.png",
+      "name": "RCTV",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 130,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "La cuaima",
+  "overview": "",
+  "popularity": 29.6544,
+  "poster_path": "/frHY3bQcsTua0BxhY6tFTo0fFTv.jpg",
+  "production_companies": [
+    {
+      "id": 93259,
+      "logo_path": "/rMYiGrEDx7GdOcfv91pVRYovmWA.png",
+      "name": "RCTV",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-08-06",
+      "episode_count": 130,
+      "id": 295472,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 203078,
+    "imdb_id": "tt0375291",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5963098",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

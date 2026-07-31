@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/m2WvwdkykFNoNoOjEYk2bBFDzER.jpg",
+  "created_by": [
+    {
+      "id": 1349641,
+      "credit_id": "62a98b0aeb14fa09ddbfabfc",
+      "name": "Thop Nazareno",
+      "original_name": "Thop Nazareno",
+      "gender": 2,
+      "profile_path": "/pQOQbX5UV9HCa7PQffIOauRea4M.jpg"
+    },
+    {
+      "id": 1201553,
+      "credit_id": "62a98b153d4d96341c18f7d0",
+      "name": "John Paul Bedia",
+      "original_name": "John Paul Bedia",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2021-04-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 128561,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2022-05-19",
+  "last_episode_to_air": {
+    "id": 4187021,
+    "name": "Episode 202",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-05-19",
+    "episode_number": 202,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 128561,
+    "still_path": null
+  },
+  "name": "Niña Niño",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 42,
+      "logo_path": "/gVinXXdpdbLHuXTUUfx4R9PyuPB.png",
+      "name": "TV5",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 202,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Niña Niño",
+  "overview": "Niña and Niño move to the big city together and realize that life is anything but a bed of roses. They struggle to make ends meet as con-artists until an unexpected event changes their lives.",
+  "popularity": 24.4988,
+  "poster_path": "/oNh7lYz9064T7lPBYOaleVmoJle.jpg",
+  "production_companies": [
+    {
+      "id": 9158,
+      "logo_path": null,
+      "name": "Spring Films",
+      "origin_country": "PH"
+    },
+    {
+      "id": 112932,
+      "logo_path": "/huRBXhMcjhG4dydjOokyGwgppGj.png",
+      "name": "Cignal Entertainment",
+      "origin_country": "PH"
+    },
+    {
+      "id": 209440,
+      "logo_path": "/1KuRjvuBSOBG0M8KVqaRoyuj6e5.png",
+      "name": "Cornerstone Studios",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-04-05",
+      "episode_count": 202,
+      "id": 201131,
+      "name": "Season 1",
+      "overview": "Niña and Niño move to the big city together and realize that life is anything but a bed of roses. They struggle to make ends meet as con-artists until an unexpected event changes their lives.",
+      "poster_path": "/6XeC1ZcgNFZ5WSTL4wCBuRaQxlX.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 128561,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 439896,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

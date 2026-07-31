@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/kGgJR0JyxIjmugpGJx0UpujxFA4.jpg",
+  "created_by": [
+    {
+      "id": 2252572,
+      "credit_id": "6894cadabfb0c41f7379592b",
+      "name": "Steven Conner",
+      "original_name": "Steven Conner",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2094090,
+      "credit_id": "6894cae2c9554823cba32cce",
+      "name": "Dustin Ferrer",
+      "original_name": "Dustin Ferrer",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-09-08",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81388359",
+  "id": 293703,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-01-01",
+  "last_episode_to_air": {
+    "id": 6812471,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-01-01",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 293703,
+    "still_path": null
+  },
+  "name": "Dr. Seuss's Red Fish, Blue Fish",
+  "next_episode_to_air": {
+    "id": 7575445,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-10",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 293703,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dr. Seuss's Red Fish, Blue Fish",
+  "overview": "One fish, two fish, meet Red Fish and Blue Fish! From there to here — and from here to there — these friends find opposites everywhere!",
+  "popularity": 17.0454,
+  "poster_path": "/fhtkX44A4cTYMNKNcosEFYX7zfq.jpg",
+  "production_companies": [
+    {
+      "id": 71739,
+      "logo_path": "/9VhJRP6kUOJWH5QvSTeqMQFWuql.png",
+      "name": "Atomic Cartoons",
+      "origin_country": "CA"
+    },
+    {
+      "id": 180651,
+      "logo_path": "/qYmXnLachOZkLaVn6UTaMDUpHey.png",
+      "name": "Dr. Seuss Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 5,
+      "id": 460610,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rdLzn2lXXoB0KB2ho3EtVHoVsmp.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 6,
+      "id": 489986,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-10",
+      "episode_count": 1,
+      "id": 531834,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 293703,
+    "imdb_id": "tt18940264",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 466629,
+    "tvrage_id": null,
+    "wikidata_id": "Q136506703",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/izA8dORQJsva6AwFsOBxoOmawnp.jpg",
+  "created_by": [
+    {
+      "id": 57202,
+      "credit_id": "61eec985cd204600e5792ba8",
+      "name": "Peter Fincham",
+      "original_name": "Peter Fincham",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-02-07",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://acorn.tv/chelseadetective/",
+  "id": 156240,
+  "in_production": true,
+  "languages": [
+    "en",
+    "hu"
+  ],
+  "last_air_date": "2025-04-21",
+  "last_episode_to_air": {
+    "id": 6069380,
+    "name": "For the Greater Good",
+    "overview": "A climate scientist is found dead in a stolen car's trunk. As detectives Max and Layla investigate, they uncover possible links to his upcoming conference speech and a complex web of deception.",
+    "vote_average": 5.8,
+    "vote_count": 4,
+    "air_date": "2025-04-21",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 3,
+    "show_id": 156240,
+    "still_path": "/yRjQ6eEl1mpL1HSLj8gxDNbpXAY.jpg"
+  },
+  "name": "The Chelsea Detective",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2697,
+      "logo_path": "/dwHtgdgA2G69Anoq1zWxcrzYUGi.png",
+      "name": "Acorn TV",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Chelsea Detective",
+  "overview": "Detective Inspector Max Arnold lives on a battered houseboat at the end of Cheyne Walk after separating from his art dealer wife Astrid. The son of a local bookshop owner, Max is a far cry from the affluent elite whose crimes he'll help solve along with D.C. Priya Shamsie.",
+  "popularity": 16.5135,
+  "poster_path": "/5wkzja9xjIPMc46cAGuei172lnu.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 80893,
+      "logo_path": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+      "name": "BBC Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 84098,
+      "logo_path": null,
+      "name": "Acorn Media Enterprises",
+      "origin_country": "GB"
+    },
+    {
+      "id": 114378,
+      "logo_path": "/u2LABgcjXoomyWSr2T3NHAqxSl7.png",
+      "name": "Expectation TV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-02-07",
+      "episode_count": 4,
+      "id": 241231,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7trNByyUlj6RsJxwQ6A8UciBClC.jpg",
+      "season_number": 1,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2023-08-28",
+      "episode_count": 4,
+      "id": 351262,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/kGqnqfS0YM4xEAu7iNo5cBGxmhI.jpg",
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2024-12-19",
+      "episode_count": 4,
+      "id": 428621,
+      "name": "Season 3",
+      "overview": "Season 3 finds Max and Layla investigating the discovery of an ex-soldier’s body in an allotment, the brutal murder of an antiques dealer, and the mysterious case of a climate scientist found dead in a stolen car. But, while Max remains adept at solving crimes, things are far from straightforward at home. After all their ups and downs, Max and his estranged wife, Astrid are now trying couples therapy in a bid to revive their relationship and unpack where it all went wrong for them.",
+      "poster_path": "/eDzir7uCy9CF0YzZ2QFpUHGcZq2.jpg",
+      "season_number": 3,
+      "vote_average": 6.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.294,
+  "vote_count": 68,
+  "external_ids": {
+    "id": 156240,
+    "imdb_id": "tt14321914",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 405327,
+    "tvrage_id": null,
+    "wikidata_id": "Q111733643",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

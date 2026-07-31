@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/2KzRW0vaaO91zTeWuCHPMaJjesu.jpg",
+  "created_by": [
+    {
+      "id": 1214405,
+      "credit_id": "5e98a4020582240015aed8eb",
+      "name": "Rolin Jones",
+      "original_name": "Rolin Jones",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1236251,
+      "credit_id": "5e98a40ed144430019516723",
+      "name": "Ron Fitzgerald",
+      "original_name": "Ron Fitzgerald",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-06-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.hbo.com/perry-mason",
+  "id": 85853,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2023-04-24",
+  "last_episode_to_air": {
+    "id": 4222237,
+    "name": "Chapter Sixteen",
+    "overview": "As their final day in court nears, Mateo and Rafael prepare for the worst, while Perry, Della, and Paul work with an unlikely ally to sway the prosecution’s hand. Then, after making his closing arguments, Perry faces the consequences of his relentless pursuit of justice.",
+    "vote_average": 5.8,
+    "vote_count": 8,
+    "air_date": "2023-04-24",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 2,
+    "show_id": 85853,
+    "still_path": "/eLMqp2OwOFi3ubSCFk1X936oDHc.jpg"
+  },
+  "name": "Perry Mason",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Perry Mason",
+  "overview": "Set in 1932 Los Angeles, the series focuses on the origin story of famed defense lawyer Perry Mason. Living check-to-check as a low-rent private investigator, Mason is haunted by his wartime experiences in France and suffering the effects of a broken marriage. L.A. is booming while the rest of the country recovers from the Great Depression — but a kidnapping gone very wrong leads to Mason exposing a fractured city as he uncovers the truth of the crime.",
+  "popularity": 17.2981,
+  "poster_path": "/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+  "production_companies": [
+    {
+      "id": 27467,
+      "logo_path": "/xYus2VP8xXlaZ4KSBDVGltoEnuP.png",
+      "name": "Team Downey",
+      "origin_country": "US"
+    },
+    {
+      "id": 176351,
+      "logo_path": null,
+      "name": "Dwight Street Book Club",
+      "origin_country": "US"
+    },
+    {
+      "id": 176352,
+      "logo_path": null,
+      "name": "Inflatable Moose Co.",
+      "origin_country": "US"
+    },
+    {
+      "id": 210861,
+      "logo_path": null,
+      "name": "AMBEG Screen Products",
+      "origin_country": ""
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-06-21",
+      "episode_count": 8,
+      "id": 116697,
+      "name": "Season 1",
+      "overview": "In 1932 Los Angeles, a low-rent private investigator digs into a controversial and politically loaded case.",
+      "poster_path": "/3ehyP6VLEYmNjaH7Zdf05uBXNW6.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2023-03-06",
+      "episode_count": 8,
+      "id": 319148,
+      "name": "Season 2",
+      "overview": "Months after the Dodson case has come to an end, the scion of a powerful oil family is brutally murdered. When the DA goes to the city’s Hoovervilles to pinpoint the most obvious of suspects, Perry, Della, and Paul find themselves at the center of a case that will uncover far reaching conspiracies and force them to reckon with what it truly means to be guilty.",
+      "poster_path": "/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+      "season_number": 2,
+      "vote_average": 6.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "There's power in the truth.",
+  "type": "Scripted",
+  "vote_average": 7.222,
+  "vote_count": 383,
+  "external_ids": {
+    "id": 85853,
+    "imdb_id": "tt2077823",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 363026,
+    "tvrage_id": null,
+    "wikidata_id": "Q60771449",
+    "facebook_id": null,
+    "instagram_id": "perrymasonhbo",
+    "twitter_id": null
+  }
+}

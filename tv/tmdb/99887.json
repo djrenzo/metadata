@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/7Ot9aV285FAnTF1XCsN3DRX1kOP.jpg",
+  "created_by": [
+    {
+      "id": 3019428,
+      "credit_id": "65748c8a4bfa5400fe7e5699",
+      "name": "Abhimanyu Singh",
+      "original_name": "Abhimanyu Singh",
+      "gender": 2,
+      "profile_path": "/je4OX7ofgqT2QEHEkHecGQq5C01.jpg"
+    },
+    {
+      "id": 2491540,
+      "credit_id": "65748c81a84a4700c421bc80",
+      "name": "Ashok Banker",
+      "original_name": "Ashok Banker",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2015-02-02",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 99887,
+  "in_production": false,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2016-10-07",
+  "last_episode_to_air": {
+    "id": 2871710,
+    "name": "Series Finale: Ashoka - The Unforgotten Hero!",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-10-07",
+    "episode_number": 442,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 99887,
+    "still_path": null
+  },
+  "name": "The Great Emperor Ashoka",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 524,
+      "logo_path": "/1qTv9p35O9i5x0Swg1VbfzLqYBq.png",
+      "name": "Colors",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 442,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Chakravartin Ashoka Samrat",
+  "overview": "The story of Ashoka, emperor of the Maurya Empire, from his early struggles to his reign as a ruthless emperor.",
+  "popularity": 14.0878,
+  "poster_path": "/9ISFxYeaaAyKyV3YVM9SdovQf5c.jpg",
+  "production_companies": [
+    {
+      "id": 107641,
+      "logo_path": null,
+      "name": "Contiloe Pictures",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-02-02",
+      "episode_count": 442,
+      "id": 144216,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 99887,
+    "imdb_id": "tt4505268",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 294904,
+    "tvrage_id": null,
+    "wikidata_id": "Q18209477",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

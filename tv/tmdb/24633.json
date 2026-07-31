@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/j95mWCXaJrVnFKbeTF0YupMrV0N.jpg",
+  "created_by": [
+    {
+      "id": 2815647,
+      "credit_id": "5f87c41172a2c90036ae6dcc",
+      "name": "Im Sung-han",
+      "original_name": "임성한",
+      "gender": 1,
+      "profile_path": "/lHSRx8YasIELhCLdSQupkmK362f.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2002-06-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.imbc.com/broad/tv/drama/mermaid",
+  "id": 24633,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2003-06-27",
+  "last_episode_to_air": {
+    "id": 644315,
+    "name": "Episode 246",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-06-27",
+    "episode_number": 246,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 24633,
+    "still_path": null
+  },
+  "name": "Story of a Mermaid",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 246,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "인어 아가씨",
+  "overview": "An estranged daughter vows to take revenge on her father, who abandoned her and her mother.",
+  "popularity": 16.1637,
+  "poster_path": "/6fGAljQDfHDbYNKSAkUZ5RQVYLJ.jpg",
+  "production_companies": [
+    {
+      "id": 26511,
+      "logo_path": "/muK9W0KLV8KfEnR7MYu0YpfpdnO.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-06-24",
+      "episode_count": 246,
+      "id": 34808,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.1,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 24633,
+    "imdb_id": "tt4684808",
+    "freebase_mid": "/m/07cfrbh",
+    "freebase_id": "/en/miss_mermaid",
+    "tvdb_id": 418554,
+    "tvrage_id": 14243,
+    "wikidata_id": "Q485597",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

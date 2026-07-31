@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/tNBh0lYehykXxSN2UTJxoGTWHoN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    64
+  ],
+  "first_air_date": "2019-09-09",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/on-va-se-le-dire/site",
+  "id": 92806,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-10-13",
+  "last_episode_to_air": {
+    "id": 3971257,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-10-13",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 92806,
+    "still_path": null
+  },
+  "name": "On va se le dire",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 362,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "On va se le dire",
+  "overview": "Host Sébastien Diaz, known for his curiosity, is interested in absolutely everything that's going on in the world. At the rate things are changing, every day brings surprising new trends, unusual developments and contradictory social movements. Sébastien is joined by regular contributors and invites various celebrities to talk about the hottest topics in this modern round table.",
+  "popularity": 14.2621,
+  "poster_path": "/zP9aaC35KwAyI2NPXGRa5YuvqC4.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 110,
+      "id": 130765,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-13",
+      "episode_count": 116,
+      "id": 159394,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 116,
+      "id": 205981,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 20,
+      "id": 309875,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 92806,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "onvaseledire",
+    "instagram_id": "onvaseledire",
+    "twitter_id": null
+  }
+}

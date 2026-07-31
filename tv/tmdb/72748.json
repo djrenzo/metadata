@@ -1,0 +1,193 @@
+{
+  "adult": false,
+  "backdrop_path": "/x9yqsGeZjqmlCh5qVfhmFPp2kcH.jpg",
+  "created_by": [
+    {
+      "id": 10966,
+      "credit_id": "656b4f6f4a4bf600c501fcf0",
+      "name": "J.K. Rowling",
+      "original_name": "J.K. Rowling",
+      "gender": 1,
+      "profile_path": "/8VDx3K8NBGJDEWr4KdsGsuT8wuj.jpg"
+    },
+    {
+      "id": 1235286,
+      "credit_id": "656b4f81fcadb400c8dcd9c9",
+      "name": "Ben Richards",
+      "original_name": "Ben Richards",
+      "gender": 2,
+      "profile_path": "/hurMZX4mczS1MrXvpIvxxcYwlbf.jpg"
+    },
+    {
+      "id": 1466234,
+      "credit_id": "656b4f9156846300cdb84324",
+      "name": "Tom Edge",
+      "original_name": "Tom Edge",
+      "gender": 2,
+      "profile_path": "/3dHJwo0dDBw2HI0X407XsUET4jV.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-08-27",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b093ypxy",
+  "id": 72748,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-12-24",
+  "last_episode_to_air": {
+    "id": 5791479,
+    "name": "Episode 4",
+    "overview": "The agency is the target of a devastating attack. Strike figures out who killed Edie, and having secured proof, Robin puts herself in danger in order to save lives.",
+    "vote_average": 6.083,
+    "vote_count": 12,
+    "air_date": "2024-12-24",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 56,
+    "season_number": 6,
+    "show_id": 72748,
+    "still_path": "/o1jVojN7HylduIryrsP3iuc0yAt.jpg"
+  },
+  "name": "Strike",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 19,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Strike",
+  "overview": "A war veteran turned private detective operates out of a tiny office in London’s Denmark Street. Although wounded both physically and psychologically, his unique insight and background as a military police investigator prove crucial in solving complex crimes that have baffled the police. Based on the bestselling novels written by J.K. Rowling under the pseudonym Robert Galbraith.",
+  "popularity": 14.1501,
+  "poster_path": "/9IF5DMeUcEaPXclFAfyMGP8CRg5.jpg",
+  "production_companies": [
+    {
+      "id": 44826,
+      "logo_path": null,
+      "name": "Brontë Film & TV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-08-27",
+      "episode_count": 3,
+      "id": 90294,
+      "name": "The Cuckoo's Calling",
+      "overview": "Cormoran Strike, an injured war veteran turned PI, seeks the truth surrounding the mysterious death of supermodel Lula Landry alongside temp secretary, Robin Ellacott.",
+      "poster_path": "/6Gd968b5HXi4jAERCmsQZFnPC75.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2017-09-10",
+      "episode_count": 2,
+      "id": 92290,
+      "name": "The Silkworm",
+      "overview": "When novelist Owen Quine goes missing, his wife calls in private detective Cormoran Strike thinking her husband has gone off by himself for a few days—as he has done before. But as Strike investigates, it becomes clear that there is more to Quine's disappearance than his wife realizes.",
+      "poster_path": "/9k8L7ZQifDte9m4gfzG5P2x1RjD.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-02-25",
+      "episode_count": 2,
+      "id": 99449,
+      "name": "Career of Evil",
+      "overview": "When a mysterious package is delivered to Robin Ellacott, she is horrified to discover that it contains a woman's severed leg. Her boss, private detective Cormoran Strike, is less surprised but no less alarmed. With the police focusing on the one suspect Strike is increasingly sure is not the perpetrator, he and Robin take matters into their own hands, and delve into the dark and twisted worlds of the other three men. But as more horrendous acts occur, time is running out for the two of them...",
+      "poster_path": "/79xVensFDRG2uiZQgaik8fbrlLo.jpg",
+      "season_number": 3,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2020-08-30",
+      "episode_count": 4,
+      "id": 159787,
+      "name": "Lethal White",
+      "overview": "A troubled young man named Billy comes to private eye Cormoran Strike’s office to ask for his help investigating a crime he thinks he witnessed as a child. Strike and Robin set off on a twisting trail that leads them through the backstreets of London, into a secretive inner sanctum within Parliament and to a beautiful but sinister manor house deep in the countryside.",
+      "poster_path": "/9TCDGA7ZpzB7vmItH2st20kfWR.jpg",
+      "season_number": 4,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2022-12-11",
+      "episode_count": 4,
+      "id": 318039,
+      "name": "Troubled Blood",
+      "overview": "Private detective Cormoran Strike is visiting his family in Cornwall when he’s approached by a woman, Anna Phipps asking for help finding her mother, Margot Bamborough, who went missing under mysterious circumstances in 1974. Never tackling a cold case before, he’s intrigued and takes it on, adding to the long list of cases that he and his partner are currently working on. As Strike and Robin investigate Margot’s disappearance, they come up against a fiendishly complex case with a psychopathic serial killer and witnesses who cannot all be trusted.",
+      "poster_path": "/tCQ82khGnWEpWbsc46IhuRS9cmz.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2024-12-16",
+      "episode_count": 4,
+      "id": 335102,
+      "name": "The Ink Black Heart",
+      "overview": "When frantic, desperate Edie Ledwell appears in the office begging to speak to her, private detective Robin Ellacott doesn't know quite what to make of the situation. The co-creator of a popular cartoon, The Ink Black Heart, Edie is being persecuted by a mysterious online figure who goes by the pseudonym of Anomie. Edie is desperate to uncover Anomie's true identity.",
+      "poster_path": "/f7ZQH573uPtGPgfVxXZZRWn10lv.jpg",
+      "season_number": 6,
+      "vote_average": 5.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.179,
+  "vote_count": 256,
+  "external_ids": {
+    "id": 72748,
+    "imdb_id": "tt4276618",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 319742,
+    "tvrage_id": null,
+    "wikidata_id": "Q28443753",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

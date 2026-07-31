@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/yGdYv9YZ4Fk9YQcj1oWnNZJOpG2.jpg",
+  "created_by": [
+    {
+      "id": 2815852,
+      "credit_id": "5f8812dd8258fc0034aec962",
+      "name": "Güliz Kucur",
+      "original_name": "Güliz Kucur",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2004-11-12",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.erlerfilm.com/?d258/yabanci-damat",
+  "id": 15576,
+  "in_production": false,
+  "languages": [
+    "tr",
+    "el",
+    "en"
+  ],
+  "last_air_date": "2007-06-15",
+  "last_episode_to_air": {
+    "id": 2462970,
+    "name": "Episode 106",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-06-15",
+    "episode_number": 37,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 80,
+    "season_number": 3,
+    "show_id": 15576,
+    "still_path": null
+  },
+  "name": "Borders of Love",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 106,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Yabancı Damat",
+  "overview": "",
+  "popularity": 25.5738,
+  "poster_path": "/ugW8lozhM22cRgnqGApUPyLtsfE.jpg",
+  "production_companies": [
+    {
+      "id": 16499,
+      "logo_path": "/d4Y5soaQuCLFbZaqwjAkbBzj9e3.png",
+      "name": "Erler Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-11-12",
+      "episode_count": 29,
+      "id": 74601,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-30",
+      "episode_count": 40,
+      "id": 74602,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-06",
+      "episode_count": 37,
+      "id": 74603,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/cBlt4FtLxLWspFqs2XZt5PHuBEn.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 15576,
+    "imdb_id": "tt0434735",
+    "freebase_mid": "/m/0b1kw9",
+    "freebase_id": "/en/yabanci_damat",
+    "tvdb_id": 358510,
+    "tvrage_id": null,
+    "wikidata_id": "Q3394733",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

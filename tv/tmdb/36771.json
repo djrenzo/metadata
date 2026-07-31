@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/jcp0FyfdfNX9B0VwuGxNYHgJsUh.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2001-09-10",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://ramdam.telequebec.tv",
+  "id": 36771,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2008-12-12",
+  "last_episode_to_air": {
+    "id": 1208561,
+    "name": "Episode 65",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-12-12",
+    "episode_number": 65,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 8,
+    "show_id": 36771,
+    "still_path": null
+  },
+  "name": "Ramdam",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1131,
+      "logo_path": "/c1YCG42hBUQruiOKRT7xD6erGZd.png",
+      "name": "Télé-Québec",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 785,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Ramdam",
+  "overview": "The ups and downs of the L'Espérance-Laporte-Carpentier, a large blended family made up primarily of young teenagers.",
+  "popularity": 14.7146,
+  "poster_path": "/8YT45DIjyGawOR7ZoeQ3m8QZBCc.jpg",
+  "production_companies": [
+    {
+      "id": 56498,
+      "logo_path": null,
+      "name": "Vivaclic",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-09-10",
+      "episode_count": 100,
+      "id": 68019,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fKZNsuvIZqg0YOc1r6N58S0rCEQ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-09",
+      "episode_count": 100,
+      "id": 68020,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/m9QloLc4Vfq3aPkMHWyu2wHjOtX.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-15",
+      "episode_count": 100,
+      "id": 68021,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/wFXrKjDsJOlypE3uTlySUbOYaws.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-13",
+      "episode_count": 100,
+      "id": 68022,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 100,
+      "id": 68023,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 100,
+      "id": 68024,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 120,
+      "id": 68025,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-15",
+      "episode_count": 65,
+      "id": 68026,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 36771,
+    "imdb_id": "tt0300842",
+    "freebase_mid": "/m/0gftf7m",
+    "freebase_id": null,
+    "tvdb_id": 100941,
+    "tvrage_id": null,
+    "wikidata_id": "Q3418422",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

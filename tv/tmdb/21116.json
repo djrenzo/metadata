@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/s4ZnPpSVJwtq8sclFuYz5zYQLeS.jpg",
+  "created_by": [
+    {
+      "id": 50223,
+      "credit_id": "5381119e0e0a2657cd001479",
+      "name": "Wolfgang Rademann",
+      "original_name": "Wolfgang Rademann",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1981-11-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://traumschiff.zdf.de/das-traumschiff/das-traumschiff-5988794.html",
+  "id": 21116,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-01-01",
+  "last_episode_to_air": {
+    "id": 7089908,
+    "name": "Episode 109",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-05",
+    "episode_number": 109,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 21116,
+    "still_path": "/ss9qBEOSYfRGMawcjGACvyoIJP6.jpg"
+  },
+  "name": "Das Traumschiff",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 111,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Das Traumschiff",
+  "overview": "The series is about a cruise ship that travels to places around the world.",
+  "popularity": 18.8352,
+  "poster_path": "/6Jb2jvnbly0E0xLvpTCLsr9wD2O.jpg",
+  "production_companies": [
+    {
+      "id": 23451,
+      "logo_path": "/etKVcIPvGwznZ8oLbKQjmVIvLIb.png",
+      "name": "Polyphon",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1986-11-30",
+      "episode_count": 27,
+      "id": 194562,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-11-22",
+      "episode_count": 109,
+      "id": 31006,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/byfqJsqzx1AagUvMO3y9pZ0nRoC.jpg",
+      "season_number": 1,
+      "vote_average": 6.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 17,
+  "external_ids": {
+    "id": 21116,
+    "imdb_id": "tt0207932",
+    "freebase_mid": "/m/04q8q11",
+    "freebase_id": "/en/das_traumschiff",
+    "tvdb_id": 133371,
+    "tvrage_id": 0,
+    "wikidata_id": "Q370296",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

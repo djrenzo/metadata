@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/hFiHhlMVviANdlzs35FQphZoJuz.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2013-04-25",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.ntv.co.jp/ninosan/",
+  "id": 82913,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2022-02-27",
+  "last_episode_to_air": {
+    "id": 3767965,
+    "name": "Episode 100",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-02-27",
+    "episode_number": 100,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 82913,
+    "still_path": null
+  },
+  "name": "Ninosan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 57,
+      "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+      "name": "Nippon TV",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 417,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ニノさん",
+  "overview": "This is an all-in-one variety show with a wide range of topics and themes. Watch the witty Kazunari Ninomiya from ARASHI hosting his own show!",
+  "popularity": 13.66,
+  "poster_path": "/rZbv78hLKlkHuLQ1vPBSs6YXBH4.jpg",
+  "production_companies": [
+    {
+      "id": 6755,
+      "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-04-25",
+      "episode_count": 10,
+      "id": 110447,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/s9WIFSimRczU7O2ikaCQx1XuhYV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-06",
+      "episode_count": 307,
+      "id": 296557,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/caoEKhhPdSOjK09TJUdm0mha6Vo.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-05",
+      "episode_count": 100,
+      "id": 296562,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 82913,
+    "imdb_id": "tt3661704",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q11324576",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

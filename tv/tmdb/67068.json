@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/6s505qgO7KDC2k0zyjx6KOlYgo1.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2016-07-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://v2.videoland.com/nieuwe-tijden-p_131",
+  "id": 67068,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2018-08-31",
+  "last_episode_to_air": {
+    "id": 4170243,
+    "name": "Episode 75",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-08-31",
+    "episode_number": 75,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 3,
+    "show_id": 67068,
+    "still_path": null
+  },
+  "name": "Nieuwe Tijden",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1334,
+      "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+      "name": "Videoland",
+      "origin_country": "NL"
+    },
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 225,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Nieuwe Tijden",
+  "overview": "",
+  "popularity": 27.1595,
+  "poster_path": "/xPBFKclVq1CbF2Hccq3kmZI0s88.jpg",
+  "production_companies": [
+    {
+      "id": 66389,
+      "logo_path": "/ewSYWqmrOst8pEyFu1w2dG0EP9T.png",
+      "name": "Endemol",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-07-04",
+      "episode_count": 75,
+      "id": 78412,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nPzoL9iN8GCihMwX6fFKaFkTH3Z.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-24",
+      "episode_count": 75,
+      "id": 85069,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/3DytJBZKken5n6FdxJx1BzbaBfi.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-22",
+      "episode_count": 75,
+      "id": 324930,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/kQerNeQPqM9YYvHPosD9d37mfPX.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 67068,
+    "imdb_id": "tt5804954",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 314130,
+    "tvrage_id": null,
+    "wikidata_id": "Q24040039",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

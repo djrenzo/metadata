@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+  "created_by": [
+    {
+      "id": 1223887,
+      "credit_id": "5da08cd74a22260013e0bcaa",
+      "name": "Chris Fedak",
+      "original_name": "Chris Fedak",
+      "gender": 2,
+      "profile_path": "/hXpF1sWzhoFXPEnM7TvL8XMFwlC.jpg"
+    },
+    {
+      "id": 2013886,
+      "credit_id": "5da08cec4a2226001fe10afe",
+      "name": "Sam Sklaver",
+      "original_name": "Sam Sklaver",
+      "gender": 2,
+      "profile_path": "/xm9OCJcksY3DIxfJyRLMSYhuG9f.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2019-09-23",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.fox.com/prodigal-son/",
+  "id": 91875,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-05-18",
+  "last_episode_to_air": {
+    "id": 2928497,
+    "name": "The Last Weekend",
+    "overview": "The search for a serial killer known as \"The Woodsman\" might help the NYPD find one of their own.",
+    "vote_average": 7.8,
+    "vote_count": 5,
+    "air_date": "2021-05-18",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 91875,
+    "still_path": "/qjCr5CN7wlUWRbVEzXvhMIqzn5Z.jpg"
+  },
+  "name": "Prodigal Son",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 33,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Prodigal Son",
+  "overview": "The son of a notorious serial killer becomes an acclaimed criminal psychologist who uses his unique insight into how killers think to help the NYPD.",
+  "popularity": 17.1504,
+  "poster_path": "/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+  "production_companies": [
+    {
+      "id": 27711,
+      "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+      "name": "Berlanti Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 151740,
+      "logo_path": null,
+      "name": "Sklaverworth Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 151741,
+      "logo_path": null,
+      "name": "VHPT! Co.",
+      "origin_country": ""
+    },
+    {
+      "id": 85721,
+      "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
+      "name": "FOX Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 403401,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/1hyoKDbq0FJ8Q7jOD9PgvUJI7xz.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-23",
+      "episode_count": 20,
+      "id": 128937,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2021-01-12",
+      "episode_count": 13,
+      "id": 168388,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1huPpms7f5MwBq37en8lOUnF1Zg.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Enter the mind of a serial killer.",
+  "type": "Scripted",
+  "vote_average": 8.07,
+  "vote_count": 464,
+  "external_ids": {
+    "id": 91875,
+    "imdb_id": "tt10327354",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352883,
+    "tvrage_id": null,
+    "wikidata_id": "Q63965736",
+    "facebook_id": "ProdigalSonFOX",
+    "instagram_id": "prodigalsonfox",
+    "twitter_id": "prodigalsonfox"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/vbR7HopbRg15qt11wAYLqHu4KI7.jpg",
+  "created_by": [
+    {
+      "id": 954258,
+      "credit_id": "58e132e992514128100013a4",
+      "name": "Valentina Párraga",
+      "original_name": "Valentina Párraga",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1994-05-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 45259,
+  "in_production": false,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "1994-12-07",
+  "last_episode_to_air": {
+    "id": 4799747,
+    "name": "Episode 152",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-12-07",
+    "episode_number": 152,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 45259,
+    "still_path": null
+  },
+  "name": "María Celeste",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 152,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "María Celeste",
+  "overview": "Maria Celeste was a Venezuelan telenovela produced by Venevisión and broadcast by that TV network in 1994.",
+  "popularity": 25.9104,
+  "poster_path": "/jPwe4og2gx6UceJjIFdopd9QBIO.jpg",
+  "production_companies": [
+    {
+      "id": 118838,
+      "logo_path": null,
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-05-02",
+      "episode_count": 152,
+      "id": 86948,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 45259,
+    "imdb_id": "tt0222592",
+    "freebase_mid": "/m/0j_5f6j",
+    "freebase_id": null,
+    "tvdb_id": 415581,
+    "tvrage_id": null,
+    "wikidata_id": "Q5490118",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

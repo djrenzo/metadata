@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1090107,
+      "credit_id": "5bc0a5ffc3a3682d5b019212",
+      "name": "Felipe Neto",
+      "original_name": "Felipe Neto",
+      "gender": 2,
+      "profile_path": "/kPCVUdI5WHkIxryQ3fk43ooIgKs.jpg"
+    }
+  ],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "2011-06-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 80704,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2018-08-18",
+  "last_episode_to_air": {
+    "id": 1553410,
+    "name": "Episode 639",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-08-18",
+    "episode_number": 639,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 5,
+    "season_number": 1,
+    "show_id": 80704,
+    "still_path": null
+  },
+  "name": "Parafernalha",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 639,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Parafernalha",
+  "overview": "",
+  "popularity": 14.0623,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 110014,
+      "logo_path": null,
+      "name": "Paramaker",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-06-16",
+      "episode_count": 639,
+      "id": 106096,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 80704,
+    "imdb_id": "tt4597534",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 350032,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

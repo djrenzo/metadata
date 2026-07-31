@@ -1,0 +1,777 @@
+{
+  "adult": false,
+  "backdrop_path": "/xZwohsOk8Q3nx3FmdR8Z6zhUwAE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "1963-07-17",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://thenextmissusa.com",
+  "id": 23902,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-10-24",
+  "last_episode_to_air": {
+    "id": 6230153,
+    "name": "The 74th Annual Miss USA Pageant",
+    "overview": "Miss USA 2025 was the 74th edition of the Miss USA pageant, held at the Grand Sierra Resort in Reno, Nevada, on October 24, 2025. This marked the first edition under the direction of Thomas Brodeur, who acquired the franchise.\n\nThe outgoing titleholder, Alma Cooper from Michigan, did not attend the event for personal reasons, marking the first time since 1953 where the outgoing titleholder did not crown her successor. Miss Universe 2024, Victoria Kjær Theilvig, took her place.\n\nContestants from fifty states and the District of Columbia competed in this edition. The competition was presented by Miss USA 2015, Olivia Jordan and Emmanuel Acho. For the first time since the pageant became independent from Miss Universe in 1965, the event was not televised on any major American television network. Instead, it was broadcast exclusively on the streaming provider Queen Beauty Network.[",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-10-24",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 63,
+    "show_id": 23902,
+    "still_path": null
+  },
+  "name": "Miss USA",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    },
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    },
+    {
+      "id": 367,
+      "logo_path": "/ngpAA1R1mOkiwC7RAxTbgbip6DZ.png",
+      "name": "Reelz",
+      "origin_country": "US"
+    },
+    {
+      "id": 1080,
+      "logo_path": "/jQ5GW25gdpP0ooM22Kt6Oo8TRl.png",
+      "name": "fyi",
+      "origin_country": "US"
+    },
+    {
+      "id": 8723,
+      "logo_path": null,
+      "name": "Queen Beauty Network",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 70,
+  "number_of_seasons": 64,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Miss USA",
+  "overview": "The Miss USA Pageant is a beauty contest that has been held annually since 1952 to select the United States entrant in the Miss Universe pageant. The Miss Universe Organization operates both pageants, as well as Miss Teen USA.",
+  "popularity": 15.2156,
+  "poster_path": "/l9FnshEyCCNzR84f1fZQghuhjV0.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-05-11",
+      "episode_count": 1,
+      "id": 88301,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-07-17",
+      "episode_count": 1,
+      "id": 33954,
+      "name": "Miss USA 1963",
+      "overview": "Miss USA 1963 was the 12th Miss USA pageant, held at the Miami Beach Auditorium, Miami Beach, Florida on July 17, 1963. This was the first Miss USA to be broadcast on television, first aired on CBS.\n\nContestants from forty-two states and the District of Columbia competed in the pageant.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-07-29",
+      "episode_count": 1,
+      "id": 423141,
+      "name": "Miss USA 1964",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-06-04",
+      "episode_count": 1,
+      "id": 423142,
+      "name": "Miss USA 1965",
+      "overview": "Miss USA 1965 was the 14th Miss USA pageant, held in Miami Beach, Florida on June 4, 1965. This was the first Miss USA pageant to be televised live (on the CBS network), and the first to be a self-contained production, held several weeks before, and independent of, the Miss Universe pageant.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-05-21",
+      "episode_count": 1,
+      "id": 423143,
+      "name": "Miss USA 1966",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-05-20",
+      "episode_count": 1,
+      "id": 423144,
+      "name": "Miss USA 1967",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-05-18",
+      "episode_count": 1,
+      "id": 423145,
+      "name": "Miss USA 1968",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-05-24",
+      "episode_count": 1,
+      "id": 423146,
+      "name": "Miss USA 1969",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-05-16",
+      "episode_count": 1,
+      "id": 423147,
+      "name": "Miss USA 1970",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-05-22",
+      "episode_count": 1,
+      "id": 423148,
+      "name": "Miss USA 1971",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-05-20",
+      "episode_count": 1,
+      "id": 423149,
+      "name": "Miss USA 1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-05-19",
+      "episode_count": 1,
+      "id": 423150,
+      "name": "Miss USA 1973",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-05-18",
+      "episode_count": 1,
+      "id": 423151,
+      "name": "Miss USA 1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-05-17",
+      "episode_count": 1,
+      "id": 423152,
+      "name": "Miss USA 1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-05-15",
+      "episode_count": 1,
+      "id": 423153,
+      "name": "Miss USA 1976",
+      "overview": "Miss USA 1976 was the 25th Miss USA pageant, televised live by CBS from Niagara Falls, New York, on May 15, 1976.",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-05-14",
+      "episode_count": 1,
+      "id": 423154,
+      "name": "Miss USA 1977",
+      "overview": "Miss USA 1977 was the 26th Miss USA pageant, televised live by CBS from the Gillard Municipal Auditorium in Charleston, South Carolina on May 14, 1977.",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-04-29",
+      "episode_count": 1,
+      "id": 423155,
+      "name": "Miss USA 1978",
+      "overview": "Miss USA 1978 was the 27th Miss USA pageant, televised live by CBS from the Gillard Municipal Auditorium in Charleston, South Carolina on April 29, 1978.",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-04-30",
+      "episode_count": 1,
+      "id": 423156,
+      "name": "Miss USA 1979",
+      "overview": "Miss USA 1979 was the 28th Miss USA pageant, televised live by CBS from the Gulf Coast Convention Center in Biloxi, Mississippi on April 30, 1979.",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-05-15",
+      "episode_count": 1,
+      "id": 423157,
+      "name": "Miss USA 1980",
+      "overview": "Miss USA 1980 was the 29th Miss USA pageant, televised live on May 15 from the Gulf Coast Convention Center in Biloxi, Mississippi on CBS.",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-05-21",
+      "episode_count": 1,
+      "id": 423158,
+      "name": "Miss USA 1981",
+      "overview": "Miss USA 1981 was the 30th Miss USA pageant, held at the Gulf Coast Convention Center in Biloxi, Mississippi on May 21, 1981.\n\nContestants from forty-nine states and the District of Columbia competed in the pageant.",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-05-13",
+      "episode_count": 1,
+      "id": 423159,
+      "name": "Miss USA 1982",
+      "overview": "Miss USA 1982 was the 31st Miss USA pageant, televised live on May 13, 1982, from the Gulf Coast Convention Center in Biloxi, Mississippi on CBS.",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-05-12",
+      "episode_count": 1,
+      "id": 423160,
+      "name": "Miss USA 1983",
+      "overview": "Miss USA 1983 was the 32nd Miss USA pageant, televised live from the Knoxville Civic Center in Knoxville, Tennessee, on May 12, 1983. The pageant was hosted by Bob Barker, with color commentary from Joan Van Ark.",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-05-17",
+      "episode_count": 1,
+      "id": 423161,
+      "name": "Miss USA 1984",
+      "overview": "Miss USA 1984 was the 33rd Miss USA pageant, televised live from Lakeland Civic Auditorium, Lakeland, Florida on May 17, 1984. The pageant was hosted by Bob Barker. It was the first time the pageant had been held in Florida since 1971, the last time the pageant had been held in its old home of Miami Beach.",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-05-13",
+      "episode_count": 1,
+      "id": 423162,
+      "name": "Miss USA 1985",
+      "overview": "Miss USA 1985 was the 34th Miss USA pageant, televised live from the Lakeland Civic Auditorium in Lakeland, Florida on May 13, 1985, in honor of the city's centennial anniversary with a special cameo appearance by Mayor Thomas R. Shaw.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-05-20",
+      "episode_count": 1,
+      "id": 423163,
+      "name": "Miss USA 1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-17",
+      "episode_count": 1,
+      "id": 423164,
+      "name": "Miss USA 1987",
+      "overview": "Miss USA 1987 was the 36th Miss USA pageant, televised live on February 17 from Albuquerque, New Mexico on CBS. The ceremonies were hosted for the last time by Bob Barker.",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-03-01",
+      "episode_count": 1,
+      "id": 423165,
+      "name": "Miss USA 1988",
+      "overview": "Miss USA 1988 was the 37th Miss USA pageant, televised live from the El Paso Civic Center in El Paso, Texas on March 1, 1988.",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-02-28",
+      "episode_count": 1,
+      "id": 423166,
+      "name": "Miss USA 1989",
+      "overview": "Miss USA 1989 was the 38th Miss USA pageant, televised live from the Mobile Civic Center Theatre in Mobile, Alabama on February 28, 1989.",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-03-02",
+      "episode_count": 1,
+      "id": 423167,
+      "name": "Miss USA 1990",
+      "overview": "Miss USA 1990 was the 39th Miss USA pageant, televised live from the Century II Convention Center in Wichita, Kansas on March 2, 1990.",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-03-07",
+      "episode_count": 1,
+      "id": 423168,
+      "name": "Miss USA 1991",
+      "overview": "Miss USA 1991 was the 40th anniversary of the Miss USA pageant, televised live from the Century II Convention Center in Wichita, Kansas on February 22, 1991.",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-02-07",
+      "episode_count": 1,
+      "id": 423169,
+      "name": "Miss USA 1992",
+      "overview": "Miss USA 1992 was the 41st Miss USA pageant, televised live from the Century II Convention Center in Wichita, Kansas on February 7, 1992.",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-02-19",
+      "episode_count": 1,
+      "id": 423170,
+      "name": "Miss USA 1993",
+      "overview": "Miss USA 1993 was the 42nd Miss USA pageant, televised live from the Century II Convention Center in Wichita, Kansas on February 19, 1993. The pageant was held in Wichita, Kansas, for the fourth and last consecutive year, and was hosted by Dick Clark for the final time, with color commentary by Leeza Gibbons and Courtney Gibbs, Miss USA 1988.\n\nThis was also the last time the State Costume competition took place and would not return until twenty-eight years later in 2021, under a different organization.",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-02-11",
+      "episode_count": 1,
+      "id": 423171,
+      "name": "Miss USA 1994",
+      "overview": "Miss USA 1994 was the 43rd Miss USA pageant, televised live from the South Padre Island Convention Centre on South Padre Island, Texas on February 11, 1994.\n\nThe pageant was hosted by Bob Goen for the first of three years replacing Dick Clark, with color commentary by Arthel Neville and a special guest appearance by Laura Harring, Miss USA 1985. Entertainment was provided by Doug Stone. During the live broadcast, the organizers of that year's Miss Universe pageant held in Manila, Philippines were introduced during the show along with that country's representative to said international competition, Charlene Bonin Gonzales, Miss Philippines 1994.",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-02-10",
+      "episode_count": 1,
+      "id": 423172,
+      "name": "Miss USA 1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-02-02",
+      "episode_count": 1,
+      "id": 423173,
+      "name": "Miss USA 1996",
+      "overview": "Miss USA 1996 was the 45th Miss USA pageant, held at South Padre Island Convention Centre on South Padre Island, Texas culminating in the final competition and crowning on February 2, 1996.",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-02-05",
+      "episode_count": 1,
+      "id": 423174,
+      "name": "Miss USA 1997",
+      "overview": "Miss USA 1997 was the 46th Miss USA pageant, held at Shreveport, Louisiana in January and February, 1997. Delegates arrived in the city on January 19, the preliminary competition was held on February 2, 1997 and the final competition on February 5, 1997. The event, held at the Hirsch Memorial Coliseum was broadcast live on CBS.",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-03-10",
+      "episode_count": 1,
+      "id": 423175,
+      "name": "Miss USA 1998",
+      "overview": "Miss USA 1998 was the 47th Miss USA pageant, held in Shreveport, Louisiana in March, 1998. The preliminary competition was held on March 6, 1998, and the final competition on March 10, 1998.",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-02-05",
+      "episode_count": 1,
+      "id": 423176,
+      "name": "Miss USA 1999",
+      "overview": "Miss USA 1999 was the 48th Miss USA pageant, held at the Grande Palace Theatre in Branson, Missouri on February 4, 1999. Kimberly Pressler became the fourth former Miss Teen USA state delegate in five years to win or inherit the Miss USA title.",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-04",
+      "episode_count": 1,
+      "id": 423177,
+      "name": "Miss USA 2000",
+      "overview": "Miss USA 2000 was the 49th Miss USA pageant, held at The Grand Palace, in Branson, Missouri on February 4, 2000. At the conclusion of the final competition.",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-03-02",
+      "episode_count": 1,
+      "id": 423178,
+      "name": "Miss USA 2001",
+      "overview": "Miss USA 2001 was the 50th Miss USA pageant, held at the Genesis Convention Center in Gary, Indiana on March 2, 2001.",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-03-01",
+      "episode_count": 1,
+      "id": 423179,
+      "name": "Miss USA 2002",
+      "overview": "Miss USA 2002 was the 51st Miss USA pageant, held at Genesis Convention Center in Gary, Indiana on March 1, 2002.\n\nThis was the last Miss USA show was aired on CBS.",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-03-24",
+      "episode_count": 1,
+      "id": 423180,
+      "name": "Miss USA 2003",
+      "overview": "Miss USA 2003 was the 52nd Miss USA pageant, held at the San Antonio Municipal Auditorium in San Antonio, Texas on March 24, 2003. It was the first time it had been held in this state since 1996 when the pageant was held in South Padre Island. Beginning with Miss USA 2003, NBC assumed co-ownership of the pageant along with Donald Trump, and as a result began televising the pageant.\n\nDaisy Fuentes co-hosted the event for the first time (although she had been a color commentator in 1995), joined by Billy Bush, who would also host the 2004 and 2005 events, as well as the Miss Universe pageants all three years. Color commentary was added by the reigning Miss USA Shauntay Hinton. Entertainment was provided by Burn The Floor.\n\nThe judges included future first lady Melania Knauss, soap-opera star Kristian Alfonso, football player Warren Sapp, actor Mekhi Phifer and former astronaut John Blaha.",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-04-12",
+      "episode_count": 1,
+      "id": 423181,
+      "name": "Miss USA 2004",
+      "overview": "Miss USA 2004 was the 53rd Miss USA pageant, held at the Dolby Theatre in Hollywood, California on April 12, 2004.\n\nPageant co-owner Donald Trump opened the pageant by telling Castillo \"You're fired\", his catchphrase from his television program, The Apprentice. The pageant was hosted by Billy Bush and Nancy O'Dell. This was the first time this partnership had hosted the pageant. Bush had previously hosted Miss USA 2003 and Miss Universe 2003.",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-04-11",
+      "episode_count": 1,
+      "id": 423182,
+      "name": "Miss USA 2005",
+      "overview": "Miss USA 2005 was the 54th Miss USA pageant, held in Baltimore, Maryland on April 11, 2005. Fifty-one state titleholders competed for the title of Miss USA in the Hippodrome Theatre on April 11, 2005. The hosts were Access Hollywood stars Nancy O'Dell and Billy Bush.",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-04-21",
+      "episode_count": 1,
+      "id": 423183,
+      "name": "Miss USA 2006",
+      "overview": "Miss USA 2006 was the 55th Miss USA pageant, held at the Royal Farms Arena in Baltimore, Maryland on April 21, 2006.\n\nThis was the second consecutive year that the pageant was held in Baltimore, although the venue changed from the Hippodrome Theater to the larger 1st Mariner Arena. Delegates arrived in the city on 2 April 2006, and were involved in three weeks of events, appearances and preliminary competitions before the final competition. This included a trip to New York City to attend a book launch for The Miss Universe Guide to Beauty and make media appearances on Regis and Kathy, The Early Show and Total Request Live.",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-23",
+      "episode_count": 1,
+      "id": 423184,
+      "name": "Miss USA 2007",
+      "overview": "Miss USA 2007 was the 56th Miss USA pageant, held at Dolby Theatre in Los Angeles, California on March 23, 2007, after two weeks of events and preliminary competition. The pageant was broadcast live on NBC from the Kodak Theatre in Los Angeles, California one month earlier than the 2006 pageant. This was the second time that the pageant was held at this venue; it was previously held there in 2004, when Shandi Finnessey of Missouri was crowned Miss USA 2004. The host hotel was the Wilshire Grand.",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-11",
+      "episode_count": 1,
+      "id": 423185,
+      "name": "Miss USA 2008",
+      "overview": "Miss USA 2008 was the 57th Miss USA pageant, held at The AXIS in Paradise, Nevada, on April 11, 2008.\n\nBrother/sister duo Donny and Marie Osmond hosted the live telecast for the first time, and Finger Eleven performed their single \"Paralyzer\".",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-19",
+      "episode_count": 1,
+      "id": 423186,
+      "name": "Miss USA 2009",
+      "overview": "Miss USA 2009 was the 58th Miss USA pageant, held at the Planet Hollywood Theatre for the Performing Arts in Paradise, Nevada, on April 19, 2009.\n\nThe event was hosted by Billy Bush of Access Hollywood and actress Nadine Velazquez; Bush returned to host the pageant which he last emceed in 2005. He had previously co-hosted Miss USA 2003 with Daisy Fuentes and Miss USA 2004–2005 with Nancy O'Dell. Entertainment was provided by Kevin Rudolf who performed \"Let It Rock\" during the swimsuit competition and The Veronicas performed \"Untouched\" during the evening gown competition.[",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-05-16",
+      "episode_count": 1,
+      "id": 423187,
+      "name": "Miss USA 2010",
+      "overview": "Miss USA 2010 was the 59th Miss USA pageant, held at the Planet Hollywood Theatre for the Performing Arts in Paradise, Nevada, on May 16, 2010, which was broadcast live on NBC.",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-06-19",
+      "episode_count": 1,
+      "id": 423188,
+      "name": "Miss USA 2011",
+      "overview": "Miss USA 2011 was the 60th Anniversary of the Miss USA pageant, held at the Planet Hollywood Theatre for the Performing Arts in Paradise, Nevada, on June 19, 2011.",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-03",
+      "episode_count": 1,
+      "id": 423189,
+      "name": "Miss USA 2012",
+      "overview": "Miss USA 2012 was the 61st Miss USA pageant, held on June 3, 2012, at The AXIS, located inside the Planet Hollywood Las Vegas in Paradise, Nevada, and it was televised live on NBC.",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2013-06-16",
+      "episode_count": 1,
+      "id": 423190,
+      "name": "Miss USA 2013",
+      "overview": "Miss USA 2013 was the 62nd Miss USA pageant, held on June 16, 2013 at The AXIS in Paradise, Nevada. The 50 states and the District of Columbia competed for the title and the pageant was televised live on NBC.  Viewers were able to interact with the pageant via Twitter and Zeebox. Fans were able to vote for their favorite contestant through the Miss USA website, from May 15 to June 15.",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-06-08",
+      "episode_count": 1,
+      "id": 423191,
+      "name": "Miss USA 2014",
+      "overview": "Miss USA 2014 was the 63rd Miss USA pageant, held at the Baton Rouge River Center Arena in Baton Rouge, Louisiana on June 8, 2014. All fifty states and the District of Columbia competed. The preliminary competition was not webcast live for the first time in five years, but excerpts were distributed post-competition via website Hulu. The final night of competition was televised on NBC.",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-07-12",
+      "episode_count": 1,
+      "id": 423192,
+      "name": "Miss USA 2015",
+      "overview": "Miss USA 2015 was the 64th Miss USA pageant, held at the Baton Rouge River Center Arena in Baton Rouge, Louisiana, on July 12, 2015. All fifty states and the District of Columbia competed.  The pageant was broadcast on Reelz after remarks made by Miss Universe Organization owner Donald Trump regarding Mexican immigrants during Trump's speech announcing his candidacy for the Republican nomination for U.S. President on June 16, 2015, in New York City led NBC, which had broadcast the pageant since 2003, and incumbent rights holders Univision Communications and Televisa to terminate their relationships with the Organization and Trump himself. It was also affected by many of the originally announced hosts, judges and musical performers pulling out in protest.  This was the only Miss USA to be aired on Reelz and this was the last edition that Donald Trump had been the owner. This was also the first pageant since 1964 to take place in the month of July.",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-01",
+      "episode_count": 2,
+      "id": 423193,
+      "name": "Miss USA 2016",
+      "overview": "Miss USA 2016 was the 65th Miss USA pageant, held at the T-Mobile Arena in Paradise, Nevada, on June 5, 2016. Terrence J and Julianne Hough all hosted for the first time, while Ashley Graham served as the backstage host. All fifty states and the District of Columbia competed.\n\nThis was the first edition of the Miss USA pageant to be held under the ownership of WME/IMG, which purchased the Miss Universe Organization from Donald Trump on September 14, 2015, three days after NBCUniversal sold him its 50% interest in the organization in exchange for Trump's dropping a breach of contract lawsuit he filed against the media company in August for terminating NBC's contract to televise the Miss Universe and Miss USA pageants. It was also the first Miss USA pageant to be broadcast on Fox after signed an agreement in October 2015.\n\nFor the first time, a 52nd entrant for the pageant was decided via a nationwide search through social media voting.",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-11",
+      "episode_count": 2,
+      "id": 423194,
+      "name": "Miss USA 2017",
+      "overview": "Miss USA 2017 was the 66th edition of the Miss USA pageant, held at the Mandalay Bay Events Center in Paradise, Nevada, on May 14, 2017.",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-17",
+      "episode_count": 2,
+      "id": 423195,
+      "name": "Miss USA 2018",
+      "overview": "Miss USA 2018 was the 67th Miss USA pageant. It was held on May 21, 2018 at the Hirsch Memorial Coliseum in Shreveport, Louisiana. The pageant was held at the same venue that was used for Miss USA 1997.",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-29",
+      "episode_count": 2,
+      "id": 423196,
+      "name": "Miss USA 2019",
+      "overview": "Miss USA 2019 was the 68th Miss USA pageant, held at the Grand Sierra Resort in Reno, Nevada on May 2, 2019. The 2019 competition served as the second consecutive time that the pageant has been held concurrently with the Miss Teen USA competition. This was also the final pageant where it was televised on Fox.",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-06",
+      "episode_count": 2,
+      "id": 423197,
+      "name": "Miss USA 2020",
+      "overview": "Miss USA 2020 was the 69th Miss USA pageant. It was held at the Exhibition Centre and the Soundstage at Graceland in Memphis, Tennessee, on November 9, 2020. Akbar Gbaja-Biamila and Allie LaForce served as hosts, while Cheslie Kryst and Christian Murphy served as backstage commentators, and Haley Reinhart performed.\n\nOriginally scheduled to be held in spring 2020 and was initially to air on Fox, the competition was postponed indefinitely due to the COVID-19 pandemic. On August 31, the Miss Universe Organization announced that the competition would be held on November 9 of the same year.\n\nFYI served as the new broadcaster of the pageant, replacing Fox, which had broadcast the pageant since 2016. This was the last Miss USA to be organized by Miss Universe Organization before being split into its separate organization beginning in Miss USA 2021.",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-26",
+      "episode_count": 2,
+      "id": 423198,
+      "name": "Miss USA 2021",
+      "overview": "Miss USA 2021 was the 70th Miss USA pageant, held at the Paradise Cove Theater of River Spirit Casino Resort in Tulsa, Oklahoma on November 29, 2021. The edition marked the first year of the competition under Crystle Stewart's directorship.\n\nThe competition was hosted by Zuri Hall and Patrick Ta, while Nicole Adamo served as a lounge host. American rapper Ja Rule performed in this edition. This was the second consecutive year that the pageant was broadcast on FYI, and the first to be streamed live on Hulu.",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-03",
+      "episode_count": 1,
+      "id": 423199,
+      "name": "Miss USA 2022",
+      "overview": "Miss USA 2022 was the 71st Miss USA pageant, held at the Grand Sierra Resort in Reno, Nevada on 3 October 2022.\n\nThis competition was broadcast on the FYI cable channel. American musician Chloe Flower performed in this edition.",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-29",
+      "episode_count": 1,
+      "id": 423200,
+      "name": "Miss USA 2023",
+      "overview": "Miss USA 2023 was the 72nd Miss USA pageant, held at the Grand Sierra Resort in Reno, Nevada, on September 29, 2023.\n\nThis was the first pageant to be held under the directorship of fashion designer Laylah Rose, and aired on The CW. It was also the last edition with an upper age limit of twenty-eight years.",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-04",
+      "episode_count": 1,
+      "id": 423201,
+      "name": "Miss USA 2024",
+      "overview": "Miss USA 2024 was the 73rd Miss USA pageant, held at the Peacock Theater in Los Angeles, California on August 4, 2024.\n\nStarting with this edition of the pageant, the Miss Universe Organization announced that it would allow women who are 28 years old and over to participate. Previous editions had only above 18 and below 28 years of age.",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-24",
+      "episode_count": 1,
+      "id": 456263,
+      "name": "Miss USA 2025",
+      "overview": "Miss USA 2025 was the 74th edition of the Miss USA pageant, held at the Grand Sierra Resort in Reno, Nevada, on October 24, 2025. This marked the first edition under the direction of Thomas Brodeur, who acquired the franchise.\n\nFor the first time since the pageant became independent from Miss Universe in 1965, the event was not televised on any major American television network. Instead, it was broadcast exclusively on the streaming provider Queen Beauty Network.",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 498806,
+      "name": "Miss USA 2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 23902,
+    "imdb_id": null,
+    "freebase_mid": "/m/07cfgdq",
+    "freebase_id": null,
+    "tvdb_id": 249539,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

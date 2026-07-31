@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/uJ3HalVLkaOeH1lvDdrEmeqFxds.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2018-06-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 80411,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2019-08-06",
+  "last_episode_to_air": {
+    "id": 1825685,
+    "name": "Episode 51",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2019-08-06",
+    "episode_number": 51,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 1,
+    "show_id": 80411,
+    "still_path": "/hdPzdyBfn3NXQIIM3OtbBS63FUj.jpg"
+  },
+  "name": "Erkenci Kuş",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 51,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Erkenci Kuş",
+  "overview": "Sanem, a dreamy girl with hopes of becoming a famous writer, ends up working at an ad agency to avoid an arranged marriage. There, she meets her boss, Çan, and falls into a whirlwind of love and complications. Can she protect her heart while chasing her dreams?",
+  "popularity": 17.7163,
+  "poster_path": "/6OKMA1gxATeO6JmKB1JOs6wEfqY.jpg",
+  "production_companies": [
+    {
+      "id": 62380,
+      "logo_path": null,
+      "name": "Gold Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-26",
+      "episode_count": 51,
+      "id": 105548,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/q3W3WBoprwN4Nru8BQAOTlN0CIO.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.126,
+  "vote_count": 111,
+  "external_ids": {
+    "id": 80411,
+    "imdb_id": "tt8478162",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 349249,
+    "tvrage_id": null,
+    "wikidata_id": "Q59926748",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

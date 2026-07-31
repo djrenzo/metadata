@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/ciwJBJo9eAs1eZVOdFA4d1S8v4E.jpg",
+  "created_by": [
+    {
+      "id": 1257394,
+      "credit_id": "5bec73e6c3a36812e4001322",
+      "name": "Gilberto Braga",
+      "original_name": "Gilberto Braga",
+      "gender": 2,
+      "profile_path": "/jlfCpcclHDL27EPkvNB0rx2sfRf.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2003-10-13",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 46100,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2004-06-25",
+  "last_episode_to_air": {
+    "id": 2637570,
+    "name": "Chapter 221",
+    "overview": "",
+    "vote_average": 9.5,
+    "vote_count": 2,
+    "air_date": "2004-06-25",
+    "episode_number": 221,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 71,
+    "season_number": 1,
+    "show_id": 46100,
+    "still_path": "/nc1oU6lXJd99wLQwyKEgHB1ClwS.jpg"
+  },
+  "name": "Celebrity",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 221,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Celebridade",
+  "overview": "A successful businesswoman in the music industry sees her life fall apart after a young and mysterious woman starts work as her secretary. The scheming girl is totally obsessed by the famous businesswoman and she tries to steal everything from her, including her career.",
+  "popularity": 15.0068,
+  "poster_path": "/w1ROW7YvjoPVkQJ6P1yp6rLNOTS.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-10-13",
+      "episode_count": 221,
+      "id": 54478,
+      "name": "Celebrity",
+      "overview": "",
+      "poster_path": "/zxn7vA3jrv4MpjoSWBQG3zZ5atY.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.717,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 46100,
+    "imdb_id": "tt0385387",
+    "freebase_mid": "/m/0jzvbv0",
+    "freebase_id": null,
+    "tvdb_id": 289403,
+    "tvrage_id": null,
+    "wikidata_id": "Q629915",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

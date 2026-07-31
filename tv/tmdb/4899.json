@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/vQKT7B7jCahjjL45Pjq9nI5x716.jpg",
+  "created_by": [
+    {
+      "id": 200496,
+      "credit_id": "66c4e43f082e3f7161af393b",
+      "name": "Morton S. Fine",
+      "original_name": "Morton S. Fine",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 153721,
+      "credit_id": "66c4e43664a897cbb57123f7",
+      "name": "David Friedkin",
+      "original_name": "David Friedkin",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1965-09-15",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 4899,
+  "in_production": false,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "1968-04-15",
+  "last_episode_to_air": {
+    "id": 345641,
+    "name": "Pinwheel",
+    "overview": "What is this ring of spies set up in Africa? Melanie knows, or thinks she knows, or anyway means to find out, why not?",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1968-04-15",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 4899,
+    "still_path": "/e3QltOqtnA5ASP4RM5dS5ZyPYve.jpg"
+  },
+  "name": "I Spy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 82,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "I Spy",
+  "overview": "A pair of intelligence agents posing as a tennis pro and his coach go on secret missions around the world.",
+  "popularity": 15.9076,
+  "poster_path": "/jJBy1DabmJriKJ0a3Xzl79IAvus.jpg",
+  "production_companies": [
+    {
+      "id": 56089,
+      "logo_path": null,
+      "name": "3F Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1965-09-15",
+      "episode_count": 28,
+      "id": 14658,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mWVTJBet0bfbgGC1H69Pzap2eLB.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-09-14",
+      "episode_count": 28,
+      "id": 14657,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/LzEFEzzG6LTjNOxWYYzDMEYGW0.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-09-11",
+      "episode_count": 26,
+      "id": 14656,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/94OW25uBo737QR3nT5xfip7fMoG.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 31,
+  "external_ids": {
+    "id": 4899,
+    "imdb_id": "tt0058816",
+    "freebase_mid": "/m/02fhqx",
+    "freebase_id": null,
+    "tvdb_id": 77213,
+    "tvrage_id": null,
+    "wikidata_id": "Q1249413",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

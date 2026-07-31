@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
+  "created_by": [
+    {
+      "id": 1105315,
+      "credit_id": "6779561cf6bc9716e8725484",
+      "name": "Davide Lantieri",
+      "original_name": "Davide Lantieri",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1223890,
+      "credit_id": "67795633321a3a166a74c568",
+      "name": "Scott Rosenbaum",
+      "original_name": "Scott Rosenbaum",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 567786,
+      "credit_id": "6779564f321a3a166a74c583",
+      "name": "Alessandro Sermoneta",
+      "original_name": "Alessandro Sermoneta",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50,
+    60
+  ],
+  "first_air_date": "2025-12-01",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "https://luxvide.it/sandokan/",
+  "id": 271855,
+  "in_production": true,
+  "languages": [
+    "en",
+    "it",
+    "pt"
+  ],
+  "last_air_date": "2025-12-16",
+  "last_episode_to_air": {
+    "id": 5877045,
+    "name": "The Cost of Victory",
+    "overview": "Amid betrayals and unexpected alliances, Brooke plots to seize power and conquer Marianna. Sandokan and Yanez, meanwhile, prepare for the decisive battle for freedom, an epic clash that will forever mark the birth of the legend of the Tiger of Malaysia.",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2025-12-16",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 1,
+    "show_id": 271855,
+    "still_path": "/xk7tK1Jg5Lf1ubghrZd60a3Oswc.jpg"
+  },
+  "name": "Sandokan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 53,
+      "logo_path": "/nSksjyoitz94qhfon6uzJj6ekj9.png",
+      "name": "Telecinco",
+      "origin_country": "ES"
+    },
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    },
+    {
+      "id": 3980,
+      "logo_path": "/BqjHkTjb53X7d84Zy92razCudh.png",
+      "name": "Mediaset Infinity",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "en",
+  "original_name": "Sandokan",
+  "overview": "Sandokan is a Malaysian pirate who, along with his friend Yanez and their crew, attacks the British forces from his island of Mompracem. During his adventures, he falls in love with Lady Marianna Guillonk, an English-Italian aristocrat.",
+  "popularity": 16.4107,
+  "poster_path": "/knEfDIVlJpoYAFQYlbOr78uDIqq.jpg",
+  "production_companies": [
+    {
+      "id": 1082,
+      "logo_path": "/lEvojpyYkqD9W8mIEH5LB1cft2q.png",
+      "name": "Lux Vide",
+      "origin_country": "IT"
+    },
+    {
+      "id": 154744,
+      "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+      "name": "Rai Fiction",
+      "origin_country": "IT"
+    },
+    {
+      "id": 107608,
+      "logo_path": null,
+      "name": "Fremantle Media International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-12-01",
+      "episode_count": 8,
+      "id": 419178,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yJDA14vTG76OpW8YE0P97ts2P1V.jpg",
+      "season_number": 1,
+      "vote_average": 9.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.554,
+  "vote_count": 65,
+  "external_ids": {
+    "id": 271855,
+    "imdb_id": "tt13924304",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 448764,
+    "tvrage_id": null,
+    "wikidata_id": "Q130611778",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1096461,
+      "credit_id": "55932d1ec3a3687741002905",
+      "name": "Steven Karpf",
+      "original_name": "Steven Karpf",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 163629,
+      "credit_id": "55932bdc9251410e92001975",
+      "name": "Elinor Karpf",
+      "original_name": "Elinor Karpf",
+      "gender": 1,
+      "profile_path": "/nVgqnpYfhv4katXXfasQXCLREyX.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1982-03-26",
+  "genres": [
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 10214,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1987-03-20",
+  "last_episode_to_air": {
+    "id": 421021,
+    "name": "The Last Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1987-03-20",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 6,
+    "show_id": 10214,
+    "still_path": null
+  },
+  "name": "Capitol",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 260,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Capitol",
+  "overview": "Capitol is an American soap opera which aired on CBS from March 29, 1982 to March 20, 1987 for 1,270 episodes. As its name suggests, the storyline usually revolves around the political intrigues of people whose lives intertwined in Washington, D.C.",
+  "popularity": 14.2421,
+  "poster_path": "/mcGxIsADKbV975wjf4PzSeF5dtK.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1982-03-26",
+      "episode_count": 200,
+      "id": 20206,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-03",
+      "episode_count": 53,
+      "id": 20208,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 1,
+      "id": 20209,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-07",
+      "episode_count": 5,
+      "id": 20205,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-03-20",
+      "episode_count": 1,
+      "id": 20207,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.286,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 10214,
+    "imdb_id": "tt0083397",
+    "freebase_mid": "/m/034b4f",
+    "freebase_id": "/en/capitol",
+    "tvdb_id": 71029,
+    "tvrage_id": 98,
+    "wikidata_id": "Q603618",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

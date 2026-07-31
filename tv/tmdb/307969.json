@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/SbHtcryr47ASZn7tlJYNgz50U8.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1999-10-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 307969,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2002-04-26",
+  "last_episode_to_air": {
+    "id": 6759075,
+    "name": "Episode 165",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-04-26",
+    "episode_number": 165,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 307969,
+    "still_path": null
+  },
+  "name": "Για Μια Θέση στον Ήλιο",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 614,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Για Μια Θέση στον Ήλιο",
+  "overview": "",
+  "popularity": 12.3255,
+  "poster_path": "/uE4ye0BbxJjXEWo3JMNk7wQnDnS.jpg",
+  "production_companies": [
+    {
+      "id": 146083,
+      "logo_path": null,
+      "name": "On Productions",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-10-04",
+      "episode_count": 224,
+      "id": 488893,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-11",
+      "episode_count": 225,
+      "id": 488895,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-27",
+      "episode_count": 165,
+      "id": 488896,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 307969,
+    "imdb_id": "tt0294089",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

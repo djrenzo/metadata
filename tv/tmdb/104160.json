@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/dIbVTNX6VVKn49URlAyXiUri55p.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2020-09-28",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.qub.ca/tvaplus/tva/la-tour",
+  "id": 104160,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-10-06",
+  "last_episode_to_air": {
+    "id": 3968355,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-10-06",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 104160,
+    "still_path": null
+  },
+  "name": "La tour",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 302,
+      "logo_path": "/gc3SsJUQa7mGnHLds13zzoxG3zd.png",
+      "name": "TVA",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 219,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "La tour",
+  "overview": "An original talk show is set in Patrick’s warm and cozy apartment, where he welcomes friends and guests every day to discuss the latest hot topics that affect our lives. The show also features Patrick’s fictional neighbours.",
+  "popularity": 10.4017,
+  "poster_path": "/9i4SPK15IFP2usWuGjY8qq0W5qt.jpg",
+  "production_companies": [
+    {
+      "id": 71952,
+      "logo_path": "/dMrYah61xS6Jui57SaBFj9Lox9c.png",
+      "name": "Trio Orange",
+      "origin_country": "CA"
+    },
+    {
+      "id": 68273,
+      "logo_path": "/l0wfdd6tkLTdBNVbGhi4DKxkU9c.png",
+      "name": "Jessie Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-09-27",
+      "episode_count": 100,
+      "id": 152260,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 103,
+      "id": 206021,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fC3DxHk9Yjiz16JhsjkpQbsLTc0.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 16,
+      "id": 308945,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/9i4SPK15IFP2usWuGjY8qq0W5qt.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 104160,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 389335,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "latour.tva",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

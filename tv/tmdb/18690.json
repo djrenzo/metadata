@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1999-02-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 18690,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2001-03-09",
+  "last_episode_to_air": {
+    "id": 4398021,
+    "name": "Episode 541",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-03-09",
+    "episode_number": 541,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 18690,
+    "still_path": null
+  },
+  "name": "Rio Del Mar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 541,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Rio Del Mar",
+  "overview": "Rio del Mar is a Philippine TV drama series produced by TAPE Inc. and broadcast on the GMA Network. Directed by Mel Chionglo, Jeffrey Jeturian and Gina Alajar, this series is about family, friendship, deception and betrayal.\n\nThe series was the comeback of 1980s actress, Vivian Velez.",
+  "popularity": 16.2079,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 36982,
+      "logo_path": null,
+      "name": "Tape Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-02-15",
+      "episode_count": 541,
+      "id": 338902,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 18690,
+    "imdb_id": "tt0450540",
+    "freebase_mid": "/m/0641jrj",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q7335186",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

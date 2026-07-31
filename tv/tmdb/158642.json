@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/2JdVgVBFa0oD8zm0VxrIUzcC8jB.jpg",
+  "created_by": [
+    {
+      "id": 3434582,
+      "credit_id": "621bc1d05b370d006afae657",
+      "name": "Gonçalo Pereira",
+      "original_name": "Gonçalo Pereira",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-05-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sptelevisao.pt/pt/producoes/novelas/espelho-d-agua/",
+  "id": 158642,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2018-04-21",
+  "last_episode_to_air": {
+    "id": 4700844,
+    "name": "Episode 327",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-04-21",
+    "episode_number": 327,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 158642,
+    "still_path": null
+  },
+  "name": "Water Mirror",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 327,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Espelho d’Água",
+  "overview": "",
+  "popularity": 15.9559,
+  "poster_path": "/8UUHEhw1gUahP13FdE5U7HwGBsQ.jpg",
+  "production_companies": [
+    {
+      "id": 92108,
+      "logo_path": "/ufaY7DMZUz56C6iaIdaFTZDqYPY.png",
+      "name": "SP Televisão",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-05-01",
+      "episode_count": 327,
+      "id": 245869,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 158642,
+    "imdb_id": "tt6526530",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 327851,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "EspelhodAguanaSIC",
+    "instagram_id": "espelhodagua.sic",
+    "twitter_id": null
+  }
+}

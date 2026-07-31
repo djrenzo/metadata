@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/bxbzO01znGOLEBds5ZHaTBNZviC.jpg",
+  "created_by": [
+    {
+      "id": 1174883,
+      "credit_id": "5c44c8f40e0a264c8ed3b80a",
+      "name": "Benedito Ruy Barbosa",
+      "original_name": "Benedito Ruy Barbosa",
+      "gender": 2,
+      "profile_path": "/vshk5HfXasuuT6KCCbScV1ybAgX.jpg"
+    },
+    {
+      "id": 2222542,
+      "credit_id": "5c44c9060e0a264c92d3bdf1",
+      "name": "Edmara Barbosa",
+      "original_name": "Edmara Barbosa",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-03-14",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://gshow.globo.com/novelas/velho-chico/",
+  "id": 84580,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2016-09-29",
+  "last_episode_to_air": {
+    "id": 1632413,
+    "name": "Episode 172",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-09-29",
+    "episode_number": 172,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 69,
+    "season_number": 1,
+    "show_id": 84580,
+    "still_path": null
+  },
+  "name": "Old River",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 172,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Velho Chico",
+  "overview": "A great love story, a family rivalry that spans generations: the telenovela narrates the love for the São Francisco River, which is revealed in the feelings between Maria Tereza and Santo.",
+  "popularity": 19.0917,
+  "poster_path": "/kYReG9ukBkIcHTYGjnTuyxICNsk.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-03-14",
+      "episode_count": 172,
+      "id": 113583,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aCjW4yfTXOfVNF858eQRDTe7AUr.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 84580,
+    "imdb_id": "tt5620074",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q23044970",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

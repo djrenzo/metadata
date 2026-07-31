@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 60737,
+      "credit_id": "55db585992514143e6007a2e",
+      "name": "Vicki Lawrence",
+      "original_name": "Vicki Lawrence",
+      "gender": 1,
+      "profile_path": "/tjDxOhKjn9Vd9OIAws7ZOMefu6l.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1992-08-31",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 45752,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1994-07-28",
+  "last_episode_to_air": {
+    "id": 3904058,
+    "name": "Episode 188",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-07-28",
+    "episode_number": 188,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 45752,
+    "still_path": null
+  },
+  "name": "Vicki!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 374,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Vicki!",
+  "overview": "Singer-actress Vicki Lawrence hosted this talk and entertainment show.",
+  "popularity": 14.6987,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 61675,
+      "logo_path": null,
+      "name": "Group W Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 61676,
+      "logo_path": null,
+      "name": "Lawrence-Schultz, Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-08-31",
+      "episode_count": 186,
+      "id": 69856,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-13",
+      "episode_count": 188,
+      "id": 69857,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 45752,
+    "imdb_id": "tt0103575",
+    "freebase_mid": "/m/0ncmx1j",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q39049328",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

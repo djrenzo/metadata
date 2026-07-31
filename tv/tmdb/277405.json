@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/7t53fmXqgVKU7nTYLj7Z4LlIeUA.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-08-03",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://itv.az/tvseries/29",
+  "id": 277405,
+  "in_production": false,
+  "languages": [
+    "az"
+  ],
+  "last_air_date": "2020-06-28",
+  "last_episode_to_air": {
+    "id": 5765721,
+    "name": "Episode 45",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-06-28",
+    "episode_number": 45,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 18,
+    "season_number": 1,
+    "show_id": 277405,
+    "still_path": null
+  },
+  "name": "Our Restaurant",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6617,
+      "logo_path": "/phQUdbdVsKw6hc5FA2kIQfZ8BLs.png",
+      "name": "İctimai TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "number_of_episodes": 45,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AZ"
+  ],
+  "original_language": "az",
+  "original_name": "Bizim restoran",
+  "overview": "A new, funny and appetizing series \"Our Restaurant\" on Ictimai Tv.",
+  "popularity": 29.542,
+  "poster_path": "/pe48HSMhyYcX9mZ1PPUqoICaiF3.jpg",
+  "production_companies": [
+    {
+      "id": 170304,
+      "logo_path": "/wr7QosDv0ZsQ8NXxPFpjTjE4c53.png",
+      "name": "İctimai TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AZ",
+      "name": "Azerbaijan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-08-03",
+      "episode_count": 45,
+      "id": 428954,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Azərbaycan"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 277405,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "bizim_restoran_itv",
+    "twitter_id": null
+  }
+}

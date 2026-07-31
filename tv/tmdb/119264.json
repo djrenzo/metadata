@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/bq0JvRrmql6h1LV1lNaunbikF9z.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2018-04-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.13.cl/programas/sigamos-de-largo/",
+  "id": 119264,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2021-01-26",
+  "last_episode_to_air": {
+    "id": 2748289,
+    "name": "Episode 175",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-01-26",
+    "episode_number": 175,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 119264,
+    "still_path": null
+  },
+  "name": "Sigamos de largo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 548,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Sigamos de largo",
+  "overview": "The most important events of the day, with a relaxed tone and high doses of humor. Each episode tackles the most relevant events that dominate the public eye, with guests who contribute their views on the matter.",
+  "popularity": 13.8177,
+  "poster_path": "/ogOTZ56z2JXlGqqURQUtLd0XxHs.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-04-16",
+      "episode_count": 175,
+      "id": 182617,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-11",
+      "episode_count": 198,
+      "id": 182640,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-02",
+      "episode_count": 175,
+      "id": 182900,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 119264,
+    "imdb_id": "tt10254446",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "sigamosdelargo13",
+    "twitter_id": null
+  }
+}

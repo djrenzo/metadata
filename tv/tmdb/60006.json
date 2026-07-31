@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/g0BuzftdxEAuqzzwitl6CiH9fVr.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2010-11-22",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/2tv/enter/hello/",
+  "id": 60006,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2019-09-30",
+  "last_episode_to_air": {
+    "id": 4660514,
+    "name": "Episode 431",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-09-30",
+    "episode_number": 431,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 60006,
+    "still_path": null
+  },
+  "name": "Hello Counselor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 431,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "안녕하세요",
+  "overview": "A talk show with an emphasis on regular people, regardless of age or gender, that aims to help take down communication barriers by sharing stories about life.",
+  "popularity": 14.425,
+  "poster_path": "/1oSc9094tHH7JDpAWBgijKA6H4G.jpg",
+  "production_companies": [
+    {
+      "id": 74238,
+      "logo_path": "/9wDgX5ryoIZr4LLxZ261S7DAvBW.png",
+      "name": "KBS",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-11-22",
+      "episode_count": 431,
+      "id": 59350,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 9,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 60006,
+    "imdb_id": "tt5457312",
+    "freebase_mid": "/m/0x2cth_",
+    "freebase_id": null,
+    "tvdb_id": 273388,
+    "tvrage_id": null,
+    "wikidata_id": "Q15735624",
+    "facebook_id": "hellokbs7",
+    "instagram_id": null,
+    "twitter_id": "KBS2TV_HELLO"
+  }
+}

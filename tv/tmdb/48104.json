@@ -1,0 +1,232 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1955-09-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 48104,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1967-09-18",
+  "last_episode_to_air": {
+    "id": 1689056,
+    "name": "ITV Summer Playhouse #11: The Man Who Understood Women",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1967-09-18",
+    "episode_number": 11,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 13,
+    "show_id": 48104,
+    "still_path": null
+  },
+  "name": "ITV Play of the Week",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 575,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "ITV Play of the Week",
+  "overview": "A UK anthology series of single plays from major playwrights old and new. It ran from 1955 to 1974, producing about five hundred ninety-minute episodes from Granada Television.\n\nSeason 1 also incorporates the Plays from the 'H.M. Tennant Globe Theatre' series, some of which were incorporated and labelled in listings as official Play of the Week episodes and some of which were played in place of Play of the Week episodes in alternative ITV regions. All 8 plays have been incorporated into this entry for convenience.",
+  "popularity": 15.4232,
+  "poster_path": "/nHaRQDRQnQwCdyMuFb9t7O7vQoo.jpg",
+  "production_companies": [
+    {
+      "id": 154378,
+      "logo_path": "/AqGt7WtNPOtp2fc8MnVWswLPBRM.png",
+      "name": "Associated-Rediffusion Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1955-09-27",
+      "episode_count": 40,
+      "id": 117830,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-10",
+      "episode_count": 50,
+      "id": 117831,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-04",
+      "episode_count": 48,
+      "id": 117832,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-09-03",
+      "episode_count": 50,
+      "id": 117833,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-09-01",
+      "episode_count": 51,
+      "id": 55167,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1960-09-06",
+      "episode_count": 52,
+      "id": 117834,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-09-05",
+      "episode_count": 31,
+      "id": 117835,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-09-04",
+      "episode_count": 51,
+      "id": 117836,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-09-03",
+      "episode_count": 53,
+      "id": 117837,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-09-07",
+      "episode_count": 48,
+      "id": 117838,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-06",
+      "episode_count": 47,
+      "id": 117839,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-09-05",
+      "episode_count": 43,
+      "id": 117840,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-07-03",
+      "episode_count": 11,
+      "id": 117841,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 48104,
+    "imdb_id": "tt0914702",
+    "freebase_mid": "/m/0t_vcp2",
+    "freebase_id": null,
+    "tvdb_id": 351817,
+    "tvrage_id": null,
+    "wikidata_id": "Q3789902",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

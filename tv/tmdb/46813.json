@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1517675,
+      "credit_id": "56c4e697c3a3680d540008f8",
+      "name": "Ranga Yogeshwar",
+      "original_name": "Ranga Yogeshwar",
+      "gender": 2,
+      "profile_path": "/86hgEmNunCI4IMjmLVUWPMVVCma.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1993-04-14",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.quarks.de",
+  "id": 46813,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-07-17",
+  "last_episode_to_air": {
+    "id": 6393728,
+    "name": "Episode 702",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-07-17",
+    "episode_number": 702,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 46813,
+    "still_path": "/hgcU1Q1Ztjs878r86uIuGVsUm30.jpg"
+  },
+  "name": "Quarks",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1135,
+      "logo_path": "/xtK4PjzICkOEB2JSD9hgeQLow9K.png",
+      "name": "WDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 680,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Quarks",
+  "overview": "",
+  "popularity": 16.1731,
+  "poster_path": "/3yfcWfWGnRQ4EAJKxpUdRRb47Hz.jpg",
+  "production_companies": [
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 162438,
+      "logo_path": null,
+      "name": "Oxyg3n Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1993-04-14",
+      "episode_count": 680,
+      "id": 114704,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2VvOj7VsYpynQj4d9RJaz4itsaq.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 9.4,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 46813,
+    "imdb_id": "tt0205678",
+    "freebase_mid": "/m/0rqfhv0",
+    "freebase_id": null,
+    "tvdb_id": 96971,
+    "tvrage_id": null,
+    "wikidata_id": "Q2122312",
+    "facebook_id": "quarks.de",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

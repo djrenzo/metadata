@@ -1,0 +1,958 @@
+{
+  "adult": false,
+  "backdrop_path": "/aE8LrypJQs2EJvyVgmV2Ta6Hovz.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    180
+  ],
+  "first_air_date": "1947-09-13",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/proms",
+  "id": 23393,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-26",
+  "last_episode_to_air": {
+    "id": 7592051,
+    "name": "John Wilson at the Proms",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 80,
+    "show_id": 23393,
+    "still_path": null
+  },
+  "name": "BBC Proms",
+  "next_episode_to_air": {
+    "id": 7592052,
+    "name": "Elgar at the Proms",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 80,
+    "show_id": 23393,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 15,
+      "logo_path": "/12roOdtGhLUriCtk1Qwu9eD5Nab.png",
+      "name": "CBBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 100,
+      "logo_path": "/AgsOSxGvfxIonhPgrfkWCmsOKfA.png",
+      "name": "BBC Four",
+      "origin_country": "GB"
+    },
+    {
+      "id": 166,
+      "logo_path": "/lpcHkKxLsFz2YhEnRlkslsTtePe.png",
+      "name": "CBeebies",
+      "origin_country": "GB"
+    },
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1155,
+      "logo_path": "/an0NpVNUK445AWDQTaLIFuL3isE.png",
+      "name": "BBC iPlayer",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3546,
+      "logo_path": "/imf3gQOupRLdbwRC6FalEovuAPS.png",
+      "name": "BBC Television",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 1169,
+  "number_of_seasons": 80,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "BBC Proms",
+  "overview": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
+  "popularity": 136.7351,
+  "poster_path": "/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+  "production_companies": [
+    {
+      "id": 110928,
+      "logo_path": null,
+      "name": "Livewire Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-07-27",
+      "episode_count": 11,
+      "id": 33379,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1947-09-13",
+      "episode_count": 1,
+      "id": 332946,
+      "name": "1947",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1948-01-17",
+      "episode_count": 1,
+      "id": 332947,
+      "name": "1948",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 332948,
+      "name": "1949",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 332949,
+      "name": "1950",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 332950,
+      "name": "1951",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 332951,
+      "name": "1952",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1953-07-25",
+      "episode_count": 2,
+      "id": 332952,
+      "name": "1953",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-07-24",
+      "episode_count": 3,
+      "id": 332953,
+      "name": "1954",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-07-23",
+      "episode_count": 2,
+      "id": 332954,
+      "name": "1955",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-07-21",
+      "episode_count": 2,
+      "id": 332955,
+      "name": "1956",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-07-20",
+      "episode_count": 2,
+      "id": 332956,
+      "name": "1957",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-07-26",
+      "episode_count": 2,
+      "id": 332957,
+      "name": "1958",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-07-25",
+      "episode_count": 3,
+      "id": 332958,
+      "name": "1959",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-07-23",
+      "episode_count": 2,
+      "id": 332959,
+      "name": "1960",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-07-22",
+      "episode_count": 3,
+      "id": 332960,
+      "name": "1961",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-07-21",
+      "episode_count": 2,
+      "id": 332961,
+      "name": "1962",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-07-20",
+      "episode_count": 3,
+      "id": 332962,
+      "name": "1963",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-07-25",
+      "episode_count": 10,
+      "id": 332963,
+      "name": "1964",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-07-17",
+      "episode_count": 12,
+      "id": 332964,
+      "name": "1965",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-07-23",
+      "episode_count": 10,
+      "id": 332965,
+      "name": "1966",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-07-22",
+      "episode_count": 9,
+      "id": 332966,
+      "name": "1967",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-07-19",
+      "episode_count": 7,
+      "id": 332967,
+      "name": "1968",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 8,
+      "id": 332968,
+      "name": "1969",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-08-09",
+      "episode_count": 8,
+      "id": 332969,
+      "name": "1970",
+      "overview": "The first Proms to be broadcast in colour",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-08-01",
+      "episode_count": 9,
+      "id": 332970,
+      "name": "1971",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-07-30",
+      "episode_count": 8,
+      "id": 332971,
+      "name": "1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-07-29",
+      "episode_count": 8,
+      "id": 332972,
+      "name": "1973",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-08-04",
+      "episode_count": 9,
+      "id": 332973,
+      "name": "1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-07-25",
+      "episode_count": 10,
+      "id": 332974,
+      "name": "1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-07-16",
+      "episode_count": 10,
+      "id": 332975,
+      "name": "1976",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-07-22",
+      "episode_count": 11,
+      "id": 332977,
+      "name": "1977",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-07-21",
+      "episode_count": 13,
+      "id": 332979,
+      "name": "1978",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-07-20",
+      "episode_count": 9,
+      "id": 332980,
+      "name": "1979",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-08-09",
+      "episode_count": 8,
+      "id": 332981,
+      "name": "1980",
+      "overview": "Strike action resulted in cancellation of 1980 Prom broadcasts.",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-08-02",
+      "episode_count": 12,
+      "id": 332982,
+      "name": "1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-07-20",
+      "episode_count": 9,
+      "id": 332983,
+      "name": "1982",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-07-22",
+      "episode_count": 9,
+      "id": 332984,
+      "name": "1983",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-07-20",
+      "episode_count": 11,
+      "id": 332985,
+      "name": "1984",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-07-19",
+      "episode_count": 11,
+      "id": 332986,
+      "name": "1985",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-07-18",
+      "episode_count": 10,
+      "id": 332987,
+      "name": "1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-07-17",
+      "episode_count": 14,
+      "id": 332988,
+      "name": "1987",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-07-21",
+      "episode_count": 14,
+      "id": 332989,
+      "name": "1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-07-21",
+      "episode_count": 11,
+      "id": 332990,
+      "name": "1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-07-20",
+      "episode_count": 11,
+      "id": 332991,
+      "name": "1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-07-19",
+      "episode_count": 10,
+      "id": 332992,
+      "name": "1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-07-17",
+      "episode_count": 12,
+      "id": 332993,
+      "name": "1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-07-16",
+      "episode_count": 11,
+      "id": 332994,
+      "name": "1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-07-15",
+      "episode_count": 11,
+      "id": 332995,
+      "name": "1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-07-21",
+      "episode_count": 12,
+      "id": 332996,
+      "name": "1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-07-19",
+      "episode_count": 11,
+      "id": 332997,
+      "name": "1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-07-15",
+      "episode_count": 11,
+      "id": 332998,
+      "name": "1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-07-17",
+      "episode_count": 12,
+      "id": 332999,
+      "name": "1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-07-16",
+      "episode_count": 12,
+      "id": 333000,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-07-14",
+      "episode_count": 13,
+      "id": 333001,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-07-20",
+      "episode_count": 27,
+      "id": 333002,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-07-19",
+      "episode_count": 27,
+      "id": 333003,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-07-18",
+      "episode_count": 25,
+      "id": 333004,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-07-16",
+      "episode_count": 33,
+      "id": 33372,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-07-15",
+      "episode_count": 29,
+      "id": 296496,
+      "name": "2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-07-14",
+      "episode_count": 31,
+      "id": 333007,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-07-13",
+      "episode_count": 31,
+      "id": 333008,
+      "name": "2007",
+      "overview": "",
+      "poster_path": "/9jawi7jNTgpTCh5XbWuHJlE6cNj.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-18",
+      "episode_count": 29,
+      "id": 33377,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-07-17",
+      "episode_count": 28,
+      "id": 333010,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-07-16",
+      "episode_count": 33,
+      "id": 33374,
+      "name": "2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-15",
+      "episode_count": 31,
+      "id": 33375,
+      "name": "2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-07-13",
+      "episode_count": 30,
+      "id": 33376,
+      "name": "2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-07-12",
+      "episode_count": 32,
+      "id": 217998,
+      "name": "2013",
+      "overview": "The 119th season of the BBC Proms, broadcast in 2013.",
+      "poster_path": "/bhewozmN32SknNHwhKK2jy7D61H.jpg",
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-18",
+      "episode_count": 75,
+      "id": 333015,
+      "name": "2014",
+      "overview": "",
+      "poster_path": "/xeFHS28vni6p9H13bv2wN5J8ugs.jpg",
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-07-17",
+      "episode_count": 27,
+      "id": 68889,
+      "name": "2015",
+      "overview": "",
+      "poster_path": "/hLIhjJOZYDwXGXYr2yCgzRViofA.jpg",
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-15",
+      "episode_count": 18,
+      "id": 138303,
+      "name": "2016",
+      "overview": "",
+      "poster_path": "/rdSPoLgklv5B6Hfq0BESIyQ24kH.jpg",
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-14",
+      "episode_count": 48,
+      "id": 138304,
+      "name": "2017",
+      "overview": "",
+      "poster_path": "/xfChKQcKSF27fFp7qcpdFseBgtt.jpg",
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-13",
+      "episode_count": 30,
+      "id": 157927,
+      "name": "2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-19",
+      "episode_count": 29,
+      "id": 204311,
+      "name": "2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-28",
+      "episode_count": 15,
+      "id": 204312,
+      "name": "2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-30",
+      "episode_count": 22,
+      "id": 204313,
+      "name": "2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 75,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-15",
+      "episode_count": 24,
+      "id": 296490,
+      "name": "2022",
+      "overview": "This summer the world’s largest classical music festival returns in its full glory to the Royal Albert Hall for an unforgettable eight-week season.\n\nRunning from 15 July to 10 September, the 2022 BBC Proms will showcase large-scale repertoire not heard at the festival since 2019.",
+      "poster_path": "/yYxHsh5Z1nxiRVE2EZWcn3Rc1BL.jpg",
+      "season_number": 76,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-14",
+      "episode_count": 22,
+      "id": 349169,
+      "name": "2023",
+      "overview": "The 2023 Proms features a huge breadth of programming; from Berlioz to Bollywood, large scale symphonic and choral work to intimate chamber concerts and exciting Proms debuts.  The 2023 BBC Proms will run from Friday 14 July to Saturday 9 September 2023 comprising 84 Proms: 72 Proms at the Royal Albert Hall, six at venues across the UK, and the first weekend-long festival of Proms at Sage Gateshead",
+      "poster_path": "/6YhPpp3xM2RpZGHOx2XLjkTkDfU.jpg",
+      "season_number": 77,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-19",
+      "episode_count": 25,
+      "id": 403225,
+      "name": "2024",
+      "overview": "With works from Bach, Beethoven, Clara Schumann, Shostakovich, Sibelius, Elgar and more, this Proms season is jam-packed full of classic composers and repertoire. Hear them performed by some of the greatest orchestras in the world in a season that guarantees the ultimate concert experience.",
+      "poster_path": "/sOzcsoPvKJYtSMOW4DN1HtchNcm.jpg",
+      "season_number": 78,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "2025-07-18",
+      "episode_count": 26,
+      "id": 466083,
+      "name": "2025",
+      "overview": "The 2025 BBC Proms season brings together many of the world’s finest international artists and orchestras, featuring more than 40 outstanding ensembles from across the UK: a series of concerts that can only be experienced at the world’s greatest classical music festival. Running from Friday 18 July to Saturday 13 September 2025, the season features 86 Proms, with 72 at the Royal Albert Hall and 14 at venues across the UK",
+      "poster_path": "/8PQuWLR1QKAbfJOAYynTIUl3UqE.jpg",
+      "season_number": 79,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2026-07-17",
+      "episode_count": 8,
+      "id": 532454,
+      "name": "2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 80,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 23393,
+    "imdb_id": "tt4888842",
+    "freebase_mid": "/m/07cf82j",
+    "freebase_id": "/en/bbc_proms",
+    "tvdb_id": 192341,
+    "tvrage_id": 10989,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

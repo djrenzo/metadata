@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": "/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2003-02-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.hbo.com/real-time-with-bill-maher",
+  "id": 4419,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-26",
+  "last_episode_to_air": {
+    "id": 7285879,
+    "name": "June 26, 2026: V.P. JD Vance, Sen. Raphael Warnock, Larry Wilmore",
+    "overview": "Guests: An interview with Vice President JD Vance, 50th vice president of the United States and author of the #1 New York Times bestselling book \"Hillbilly Elegy: A Memoir of a Family and Culture in Crisis\" and the new memoir \"Communion: Finding My Way Back to Faith.\" This week's panel discussion includes Senator Raphael Warnock, Democratic senator from Georgia, senior pastor of Atlanta's Ebenezer Baptist Church, and author of the new book \"The Crooked Places Made Straight: Reflections on the Moral Meaning of America\"; and Larry Wilmore, comedian, writer, and guest star in the new HBO Original limited series \"Life, Larry and the Pursuit of Unhappiness: An Almost History of America,\" debuting Friday, June 26.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-26",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 24,
+    "show_id": 4419,
+    "still_path": "/zFw3Dx91nDmgezY5uUKl2Utuv8c.jpg"
+  },
+  "name": "Real Time with Bill Maher",
+  "next_episode_to_air": {
+    "id": 7427281,
+    "name": "July 31, 2026: Erin Brockovich, Scott Galloway, Peter Hamby",
+    "overview": "Guests: An interview with Erin Brockovich, consumer advocate, environmental activist, and founder of \"The Brockovich Report\" on Substack. This week's panel discussion includes Scott Galloway, professor at NYU's Stern School of Business, podcast host, and bestselling author of the book \"Notes on Being a Man\"; and Peter Hamby, chief national correspondent at Puck and host of \"The Powers That Be\" podcast.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 24,
+    "show_id": 4419,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 736,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Real Time with Bill Maher",
+  "overview": "Each week Bill Maher surrounds himself with a panel of guests which include politicians, actors, comedians, musicians and the like to discuss what's going on in the world.",
+  "popularity": 64.0499,
+  "poster_path": "/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+  "production_companies": [
+    {
+      "id": 21203,
+      "logo_path": null,
+      "name": "Bill Maher Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 56394,
+      "logo_path": null,
+      "name": "Brad Grey Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 21200,
+      "logo_path": null,
+      "name": "Kid Love Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-17",
+      "episode_count": 229,
+      "id": 13195,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-02-21",
+      "episode_count": 20,
+      "id": 13187,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6lt2qjIrxpF2lizb6D9ix3MRKid.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2004-01-16",
+      "episode_count": 23,
+      "id": 13188,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/k79yJEFOZob2OzDi7mo9B7VAbus.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-18",
+      "episode_count": 23,
+      "id": 13189,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4DpiKt57NniKkRQexCixGohe5nq.jpg",
+      "season_number": 3,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2006-02-17",
+      "episode_count": 24,
+      "id": 13190,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/lKISsekmDGkk9j9Lz8Q21NMxxLy.jpg",
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2007-02-16",
+      "episode_count": 24,
+      "id": 13191,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/iwav3GC7ONiLhYoqixPIP2AZNeD.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-11",
+      "episode_count": 27,
+      "id": 13192,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/8kyJAKeTugSqXdPpS3SJcjVtbYb.jpg",
+      "season_number": 6,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2009-02-20",
+      "episode_count": 31,
+      "id": 13186,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/A72kdDr1dcvOOPyuDKMD5ZwUQ21.jpg",
+      "season_number": 7,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2010-02-19",
+      "episode_count": 25,
+      "id": 13193,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/zXAEOWA4WGzGywAShMnRQlhxuqe.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-01-14",
+      "episode_count": 35,
+      "id": 13194,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/6bl477zuP1hmryX2iRpblkaat9c.jpg",
+      "season_number": 9,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2012-01-13",
+      "episode_count": 35,
+      "id": 13196,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/dLV4vctPKPlBAsEFSw4hQ0AL2kX.jpg",
+      "season_number": 10,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2013-01-18",
+      "episode_count": 35,
+      "id": 13197,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/ttjoVdAR4iUmAu3eaD8iNzo0bHY.jpg",
+      "season_number": 11,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2014-01-17",
+      "episode_count": 35,
+      "id": 61220,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/jOmiIJz3RoS37eZWnkPnlC4D5Fr.jpg",
+      "season_number": 12,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2015-01-09",
+      "episode_count": 35,
+      "id": 64411,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/jFDPDgbnZel2rM1wSjVQRK9SeRk.jpg",
+      "season_number": 13,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2016-01-15",
+      "episode_count": 38,
+      "id": 75280,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/nqMqCoqXwzfGf5XlnlvQVJwtngX.jpg",
+      "season_number": 14,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2017-01-20",
+      "episode_count": 35,
+      "id": 84398,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/3NxmNPrGtYeuSBVIhoDEpXYDbF.jpg",
+      "season_number": 15,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2018-01-19",
+      "episode_count": 35,
+      "id": 98132,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/1wjXY8wMv72iGfF4ZIT9OQenrPL.jpg",
+      "season_number": 16,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2019-01-18",
+      "episode_count": 35,
+      "id": 117056,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/oKVTarBspa39QW3uqPgxQ7y9Lij.jpg",
+      "season_number": 17,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2020-01-17",
+      "episode_count": 35,
+      "id": 135885,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/c3EurMWJu1hXKUeJVvLIoJaN26j.jpg",
+      "season_number": 18,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2021-01-15",
+      "episode_count": 35,
+      "id": 169603,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/99U62ZZrwBDM89iZcccKKlscGUJ.jpg",
+      "season_number": 19,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2022-01-21",
+      "episode_count": 35,
+      "id": 220300,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/aoldiJCNFKcmsAu6yTmPyUZBq5V.jpg",
+      "season_number": 20,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2023-01-20",
+      "episode_count": 24,
+      "id": 306087,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/oHXf8jUrIj38AUHKUhaEmhIABTu.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-19",
+      "episode_count": 36,
+      "id": 370048,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/4FfulRkO1DHXshzBzCf9VACwbcx.jpg",
+      "season_number": 22,
+      "vote_average": 3.6
+    },
+    {
+      "air_date": "2025-01-17",
+      "episode_count": 35,
+      "id": 429968,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/e6faKT5zw2fJpdhGIbHGpoHj4iJ.jpg",
+      "season_number": 23,
+      "vote_average": 2.6
+    },
+    {
+      "air_date": "2026-01-23",
+      "episode_count": 22,
+      "id": 486521,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/yl9FCRrMSZ7WbynONaBgHkAQaiX.jpg",
+      "season_number": 24,
+      "vote_average": 3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Still in it for the likes",
+  "type": "Talk Show",
+  "vote_average": 6.1,
+  "vote_count": 244,
+  "external_ids": {
+    "id": 4419,
+    "imdb_id": "tt0350448",
+    "freebase_mid": "/m/04sv_8",
+    "freebase_id": "/en/real_time_with_bill_maher",
+    "tvdb_id": 72231,
+    "tvrage_id": 4950,
+    "wikidata_id": "Q2030903",
+    "facebook_id": null,
+    "instagram_id": "realtimers",
+    "twitter_id": "RealTimers"
+  }
+}

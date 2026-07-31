@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/s9Ulu17lLYu7ubaWJbkDvZN2A3l.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    53
+  ],
+  "first_air_date": "2025-08-31",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://v2.videoland.com/rtl-tonight-p_5073",
+  "id": 296126,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-06-12",
+  "last_episode_to_air": {
+    "id": 7091248,
+    "name": "Episode 138",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2026-06-12",
+    "episode_number": 138,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 2,
+    "show_id": 296126,
+    "still_path": null
+  },
+  "name": "RTL Tonight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 233,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "RTL Tonight",
+  "overview": "In RTL Vanavond's new talk show, presenters Renze Klamer, Beau van Erven Dorens, and Humberto Tan are joined by a whole squad of well-known divers. And there are some notable names among them.",
+  "popularity": 125.0003,
+  "poster_path": "/m56sR1upTuxs3UZJU7vbku1cSAc.jpg",
+  "production_companies": [
+    {
+      "id": 99542,
+      "logo_path": "/mlX3FzA1ZJARjzdiMTSjCBTTMoc.png",
+      "name": "EndemolShine Nederland",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-08-31",
+      "episode_count": 95,
+      "id": 465651,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/j8m0rRHRAYn0p7bG1Y9Z85PbcR2.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2026-01-04",
+      "episode_count": 138,
+      "id": 492883,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/m56sR1upTuxs3UZJU7vbku1cSAc.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 296126,
+    "imdb_id": "tt38018917",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q135759834",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

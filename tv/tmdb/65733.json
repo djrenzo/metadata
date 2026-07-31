@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2005-04-22",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://dora-world.com/",
+  "id": 65733,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-06-16",
+  "last_episode_to_air": {
+    "id": 5003750,
+    "name": "Episode 918",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-16",
+    "episode_number": 918,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 65733,
+    "still_path": "/2q5IqozLx1TdBlSrYO6QEUozBIg.jpg"
+  },
+  "name": "Doraemon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 1464,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ドラえもん",
+  "overview": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+  "popularity": 104.735,
+  "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+  "production_companies": [
+    {
+      "id": 3234,
+      "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+      "name": "Pierrot",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5141,
+      "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7164,
+      "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+      "name": "TMS Entertainment",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-04-15",
+      "episode_count": 147,
+      "id": 96670,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-04-22",
+      "episode_count": 1464,
+      "id": 74968,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.082,
+  "vote_count": 237,
+  "external_ids": {
+    "id": 65733,
+    "imdb_id": "tt4083422",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 281405,
+    "tvrage_id": null,
+    "wikidata_id": "Q711311",
+    "facebook_id": "doraemon.ch",
+    "instagram_id": "dorachan_official",
+    "twitter_id": "doraemonchannel"
+  }
+}

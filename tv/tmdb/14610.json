@@ -1,0 +1,443 @@
+{
+  "adult": false,
+  "backdrop_path": "/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+  "created_by": [
+    {
+      "id": 1245327,
+      "credit_id": "525833ac760ee36aaa91234a",
+      "name": "Jason Daniel",
+      "original_name": "Jason Daniel",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245328,
+      "credit_id": "525833ad760ee36aaa912353",
+      "name": "Anne Harris",
+      "original_name": "Anne Harris",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1245329,
+      "credit_id": "525833af760ee36aaa91235c",
+      "name": "Greg Stevens",
+      "original_name": "Greg Stevens",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "1999-01-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.mtvuutiset.fi/salatutelamat",
+  "id": 14610,
+  "in_production": true,
+  "languages": [
+    "fi"
+  ],
+  "last_air_date": "2026-06-26",
+  "last_episode_to_air": {
+    "id": 7288811,
+    "name": "Episode 4970",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-26",
+    "episode_number": 180,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 28,
+    "show_id": 14610,
+    "still_path": "/wRIGcb0IJZfA7Y6kQi6k85B24cB.jpg"
+  },
+  "name": "Secret Lives",
+  "next_episode_to_air": {
+    "id": 7467913,
+    "name": "Episode 4971",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-07",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 29,
+    "show_id": 14610,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 295,
+      "logo_path": "/u9LyIrxe50xzah32svsarAiYwDd.png",
+      "name": "MTV3",
+      "origin_country": "FI"
+    },
+    {
+      "id": 5785,
+      "logo_path": "/tzrrna47zTSTnCkhpbyDY1c3pAD.png",
+      "name": "C More",
+      "origin_country": "FI"
+    },
+    {
+      "id": 7452,
+      "logo_path": "/7q59lBeXRb4kDBPZbMvbWOAgl7m.png",
+      "name": "MTV Katsomo",
+      "origin_country": "FI"
+    }
+  ],
+  "number_of_episodes": 4967,
+  "number_of_seasons": 29,
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_name": "Salatut elämät",
+  "overview": "Salatut elämät (Secret Lives) is a Finnish television soap opera that premiered on MTV3 on 25 January 1999. The series' storylines follow the daily lives of several families who live in the same apartment block in Helsinki.",
+  "popularity": 66.8747,
+  "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+  "production_companies": [
+    {
+      "id": 81234,
+      "logo_path": "/laQYVH7TN1xXSvyoTgAz0OYqCu6.png",
+      "name": "FremantleMedia Finland",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-01-25",
+      "episode_count": 90,
+      "id": 26077,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-30",
+      "episode_count": 170,
+      "id": 26078,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-08-28",
+      "episode_count": 180,
+      "id": 26079,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-20",
+      "episode_count": 170,
+      "id": 26080,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 165,
+      "id": 26081,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 157,
+      "id": 26082,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 150,
+      "id": 26083,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-30",
+      "episode_count": 150,
+      "id": 26084,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-14",
+      "episode_count": 150,
+      "id": 26085,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-20",
+      "episode_count": 190,
+      "id": 26086,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-18",
+      "episode_count": 190,
+      "id": 71334,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-24",
+      "episode_count": 180,
+      "id": 71336,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 180,
+      "id": 71337,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-29",
+      "episode_count": 180,
+      "id": 71338,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 180,
+      "id": 71339,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-09",
+      "episode_count": 170,
+      "id": 71340,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-25",
+      "episode_count": 185,
+      "id": 71341,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 180,
+      "id": 71342,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-16",
+      "episode_count": 188,
+      "id": 175361,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 189,
+      "id": 386232,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-20",
+      "episode_count": 190,
+      "id": 386233,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-16",
+      "episode_count": 209,
+      "id": 386234,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2020-07-31",
+      "episode_count": 220,
+      "id": 175456,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-06",
+      "episode_count": 220,
+      "id": 386235,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2022-08-05",
+      "episode_count": 200,
+      "id": 386236,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-04",
+      "episode_count": 174,
+      "id": 386237,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-09",
+      "episode_count": 180,
+      "id": 393078,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-08",
+      "episode_count": 180,
+      "id": 460636,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-07",
+      "episode_count": 32,
+      "id": 527180,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.217,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 14610,
+    "imdb_id": "tt0185819",
+    "freebase_mid": "/m/0661q7",
+    "freebase_id": "/en/salatut_elamat",
+    "tvdb_id": 287994,
+    "tvrage_id": 17532,
+    "wikidata_id": "Q132288",
+    "facebook_id": "MTVSalatutElamat",
+    "instagram_id": "mtvsalatutelamat",
+    "twitter_id": null
+  }
+}

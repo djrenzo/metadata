@@ -1,0 +1,237 @@
+{
+  "adult": false,
+  "backdrop_path": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "5b44f3b40e0a26711602f563",
+      "name": "Dick Wolf",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    },
+    {
+      "id": 1631017,
+      "credit_id": "5e7c6ce1caaca2793af5243b",
+      "name": "Craig Turk",
+      "original_name": "Craig Turk",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-09-25",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/fbi/",
+  "id": 80748,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-18",
+  "last_episode_to_air": {
+    "id": 7095319,
+    "name": "Defector",
+    "overview": "The theft of a bioweapon from an unwitting defector forces the team to work with an old foe to secure the lethal pathogen and prevent an outbreak across New York City.",
+    "vote_average": 10,
+    "vote_count": 3,
+    "air_date": "2026-05-18",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 8,
+    "show_id": 80748,
+    "still_path": "/5aGuGHyUQ5bFAOJvPbIAGco8oQc.jpg"
+  },
+  "name": "FBI",
+  "next_episode_to_air": {
+    "id": 7583509,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-05",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 80748,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 158,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "FBI",
+  "overview": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+  "popularity": 99.247,
+  "poster_path": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+  "production_companies": [
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-25",
+      "episode_count": 22,
+      "id": 106154,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2019-09-24",
+      "episode_count": 19,
+      "id": 126157,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/g2BK0uwB25o35giSpFHfqRXE4Bp.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2020-11-17",
+      "episode_count": 15,
+      "id": 166426,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7aWmC7BjwBFgIKA77VqrXyRPicJ.jpg",
+      "season_number": 3,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2021-09-21",
+      "episode_count": 21,
+      "id": 201999,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/5ihc5altEPDJrq3BDvW1lqv3EKM.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 23,
+      "id": 298428,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/lFTHqAw2lHisXGB0bcoyEvKRYad.jpg",
+      "season_number": 5,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2024-02-13",
+      "episode_count": 13,
+      "id": 365559,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/cYuy3JyJ7hPr6jcfirCQ97ulUTn.jpg",
+      "season_number": 6,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2024-10-15",
+      "episode_count": 22,
+      "id": 402113,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/bircXcCsvP2DUximyQUOn5p2s4.jpg",
+      "season_number": 7,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2025-10-13",
+      "episode_count": 22,
+      "id": 464998,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+      "season_number": 8,
+      "vote_average": 9.7
+    },
+    {
+      "air_date": "2026-10-05",
+      "episode_count": 1,
+      "id": 532128,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Fidelity, Bravery, Integrity.",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 922,
+  "external_ids": {
+    "id": 80748,
+    "imdb_id": "tt7491982",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 350071,
+    "tvrage_id": null,
+    "wikidata_id": "Q42301907",
+    "facebook_id": "FBICBS",
+    "instagram_id": "FBICBS",
+    "twitter_id": "FBICBS"
+  }
+}

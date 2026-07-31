@@ -1,0 +1,478 @@
+{
+  "adult": false,
+  "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1992-05-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.gzsz.de",
+  "id": 13945,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-04-17",
+  "last_episode_to_air": {
+    "id": 7616553,
+    "name": "Episode 146",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 146,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 35,
+    "show_id": 13945,
+    "still_path": null
+  },
+  "name": "Gute Zeiten, schlechte Zeiten",
+  "next_episode_to_air": {
+    "id": 7616554,
+    "name": "Episode 147",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 147,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 35,
+    "show_id": 13945,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 207,
+      "logo_path": "/g5w1CvcMMBnxmXcsFUTLVBhH9Qp.png",
+      "name": "RTL",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3211,
+      "logo_path": null,
+      "name": "RTL Passion",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 8527,
+  "number_of_seasons": 35,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Gute Zeiten, schlechte Zeiten",
+  "overview": "Gute Zeiten, schlechte Zeiten is a long-running German television soap opera, first broadcast on RTL in 1992. The programme concerns the lives of a fictional neighborhood in Germany's capital city Berlin. Over the years the soap opera tends to have an overhaul of young people in their late teens and early twenties; targeting a young viewership.",
+  "popularity": 90.7125,
+  "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+  "production_companies": [
+    {
+      "id": 51150,
+      "logo_path": null,
+      "name": "UFA Serial Drama",
+      "origin_country": ""
+    },
+    {
+      "id": 2018,
+      "logo_path": null,
+      "name": "Grundy UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-05-11",
+      "episode_count": 160,
+      "id": 25198,
+      "name": "Year 1992",
+      "overview": "",
+      "poster_path": "/AfOEFu8zXzAHuABj7TzEn45VrB1.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 242,
+      "id": 131248,
+      "name": "Year 1993",
+      "overview": "",
+      "poster_path": "/jqoiYjFuD0j8yeSTPwjBjucK98H.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 245,
+      "id": 131249,
+      "name": "Year 1994",
+      "overview": "",
+      "poster_path": "/9iFkGLBhlqZGVvYBye0wnx8TyZ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 241,
+      "id": 131250,
+      "name": "Year 1995",
+      "overview": "",
+      "poster_path": "/7P2bAVMjSAEzewzJmFup2sbFHIp.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-02",
+      "episode_count": 249,
+      "id": 131251,
+      "name": "Year 1996",
+      "overview": "",
+      "poster_path": "/dajzy6PppZHIwchssfKK1T0hmIO.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 245,
+      "id": 131252,
+      "name": "Year 1997",
+      "overview": "",
+      "poster_path": "/ssKXbJgurmeuMmcPoIqGYOoImOy.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 253,
+      "id": 131253,
+      "name": "Year 1998",
+      "overview": "",
+      "poster_path": "/x0t65yT09sQ8TueFFdfVsizcrah.jpg",
+      "season_number": 7,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 253,
+      "id": 131254,
+      "name": "Year 1999",
+      "overview": "",
+      "poster_path": "/91cFWV7IRteyAK0rCT2BymYehAx.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 250,
+      "id": 131255,
+      "name": "Year 2000",
+      "overview": "",
+      "poster_path": "/qTKHT60nnaRw9sj8zDjLGLi3WXp.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-02",
+      "episode_count": 244,
+      "id": 131256,
+      "name": "Year 2001",
+      "overview": "",
+      "poster_path": "/oyTbpRRpNlsq3RfPv5dgOgvMrGD.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-02",
+      "episode_count": 250,
+      "id": 131257,
+      "name": "Year 2002",
+      "overview": "",
+      "poster_path": "/v0Xy7e3FiNDAg2BimlUEKY1B5CE.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 249,
+      "id": 131258,
+      "name": "Year 2003",
+      "overview": "",
+      "poster_path": "/x1QH3TfodvIXVrr7WtDoz4jo3t1.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 253,
+      "id": 131259,
+      "name": "Year 2004",
+      "overview": "",
+      "poster_path": "/3u5olfQl3rW1WEGuu86enTZzUpa.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 255,
+      "id": 131260,
+      "name": "Year 2005",
+      "overview": "",
+      "poster_path": "/hSyNPbiAC600Ixm00skBZ2wutAJ.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 257,
+      "id": 131261,
+      "name": "Year 2006",
+      "overview": "",
+      "poster_path": "/qKWbvKxJpb1H9Ug999nRYJKnfq.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 249,
+      "id": 131262,
+      "name": "Year 2007",
+      "overview": "",
+      "poster_path": "/9wh8MCtx56zOR4wlYwhKFhb0UXe.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 252,
+      "id": 131263,
+      "name": "Year 2008",
+      "overview": "",
+      "poster_path": "/rKzPRHMLmJbE4X8aHnaZOOMy0dS.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 252,
+      "id": 131264,
+      "name": "Year 2009",
+      "overview": "",
+      "poster_path": "/8B73xJ3wZoQuQuHHrqVKq4eYXLw.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 248,
+      "id": 131265,
+      "name": "Year 2010",
+      "overview": "",
+      "poster_path": "/lyPdR8CqIeM7npTRQfbA5uGCsVv.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 254,
+      "id": 131266,
+      "name": "Year 2011",
+      "overview": "",
+      "poster_path": "/oNF58NO3I3wfxyuFcDxxZFlL3p7.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 251,
+      "id": 131267,
+      "name": "Year 2012",
+      "overview": "",
+      "poster_path": "/6W4hvjYQ0UlvT9PrYoz6Fbox0SY.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 250,
+      "id": 131268,
+      "name": "Year 2013",
+      "overview": "",
+      "poster_path": "/ybC8xIvHOkjmKBZxnNquZn9RnRv.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 250,
+      "id": 131269,
+      "name": "Year 2014",
+      "overview": "",
+      "poster_path": "/coeS0dyld2PcFmKES4NosB7FvnB.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 252,
+      "id": 131270,
+      "name": "Year 2015",
+      "overview": "",
+      "poster_path": "/nznARm5Y89jridoAFiwhZ3MJp3k.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 256,
+      "id": 131271,
+      "name": "Year 2016",
+      "overview": "",
+      "poster_path": "/w7AMk2zIBDqqMfV3S9FxPT457D9.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 254,
+      "id": 131272,
+      "name": "Year 2017",
+      "overview": "",
+      "poster_path": "/6NkDBFfbh2kYsMSdxIfY7FVLF3N.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 252,
+      "id": 131273,
+      "name": "Year 2018",
+      "overview": "",
+      "poster_path": "/13vyWhBVBB5FTAkB6hVOipyliKK.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 251,
+      "id": 131274,
+      "name": "Year 2019",
+      "overview": "",
+      "poster_path": "/g9dCuoRDueNdjChz9c3nyYivVtj.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 248,
+      "id": 144089,
+      "name": "Year 2020",
+      "overview": "",
+      "poster_path": "/zcc8lxRTSvndK4neaeUWaETpqhB.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 252,
+      "id": 186998,
+      "name": "Year 2021",
+      "overview": "",
+      "poster_path": "/3tCnAR3ZEm5aibrgfzvzNxufDp9.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 256,
+      "id": 238509,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/dNpqh5zRV2HPRv1Z95Fgghb0zRx.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 254,
+      "id": 315027,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/aiu3GrUJY3wSOKJwdncRfAlDAaM.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 252,
+      "id": 369662,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/tfPHC0WqoNAYxvtJOXiqC81IJeJ.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 250,
+      "id": 433683,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/yOPhbZK4w1byT8A7Imp84HpqXU.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-02",
+      "episode_count": 167,
+      "id": 489670,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/gaCWgIiu45ZvF8a5YG3b00VAHIi.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.458,
+  "vote_count": 48,
+  "external_ids": {
+    "id": 13945,
+    "imdb_id": "tt0103434",
+    "freebase_mid": "/m/0492x8",
+    "freebase_id": "/en/gute_zeiten_schlechte_zeiten",
+    "tvdb_id": 82495,
+    "tvrage_id": null,
+    "wikidata_id": "Q695478",
+    "facebook_id": "GZSZ",
+    "instagram_id": "gzsz",
+    "twitter_id": "GZSZde"
+  }
+}

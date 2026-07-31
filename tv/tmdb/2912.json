@@ -1,0 +1,559 @@
+{
+  "adult": false,
+  "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+  "created_by": [
+    {
+      "id": 97128,
+      "credit_id": "52574a3c760ee36aaa123bd2",
+      "name": "Merv Griffin",
+      "original_name": "Merv Griffin",
+      "gender": 2,
+      "profile_path": "/tYU8HL88jJvQb4zZVJi988Jeux9.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1984-09-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.jeopardy.com/",
+  "id": 2912,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-22",
+  "last_episode_to_air": {
+    "id": 7519596,
+    "name": "Show #9615",
+    "overview": "Today's contestants: Matthew Riggle, Sophia Suazo, Devin Weinberg",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-07-24",
+    "episode_number": 230,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 42,
+    "show_id": 2912,
+    "still_path": null
+  },
+  "name": "Jeopardy!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 9393,
+  "number_of_seasons": 42,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Jeopardy!",
+  "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+  "popularity": 75.1982,
+  "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 62313,
+      "logo_path": null,
+      "name": "Jeopardy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 119837,
+      "logo_path": null,
+      "name": "Merv Griffin Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-09-18",
+      "episode_count": 11,
+      "id": 9401,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-10",
+      "episode_count": 162,
+      "id": 9367,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1985-09-09",
+      "episode_count": 194,
+      "id": 9368,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-08",
+      "episode_count": 231,
+      "id": 9369,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-07",
+      "episode_count": 220,
+      "id": 9370,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-05",
+      "episode_count": 215,
+      "id": 9371,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-04",
+      "episode_count": 201,
+      "id": 9372,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-03",
+      "episode_count": 212,
+      "id": 9373,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-02",
+      "episode_count": 194,
+      "id": 9374,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-07",
+      "episode_count": 229,
+      "id": 9375,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1993-09-06",
+      "episode_count": 230,
+      "id": 9378,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-05",
+      "episode_count": 213,
+      "id": 9380,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-04",
+      "episode_count": 229,
+      "id": 9381,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-02",
+      "episode_count": 218,
+      "id": 9383,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 230,
+      "id": 9385,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-07",
+      "episode_count": 230,
+      "id": 9386,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 230,
+      "id": 9387,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 230,
+      "id": 9389,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-03",
+      "episode_count": 229,
+      "id": 9390,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 230,
+      "id": 9392,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 230,
+      "id": 9393,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 230,
+      "id": 9394,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 230,
+      "id": 9395,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 230,
+      "id": 9396,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 230,
+      "id": 9397,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/4oQeIPhQdhGIfDv4XOpx6ovY7w5.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 230,
+      "id": 9398,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 230,
+      "id": 9399,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 230,
+      "id": 9400,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 230,
+      "id": 176960,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 28,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2012-09-17",
+      "episode_count": 230,
+      "id": 176961,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 230,
+      "id": 9402,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/1H7g10a25KyjhcptPeDhRiezptU.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 230,
+      "id": 176962,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/w6IuAySlbGtxY1A2uUpkrVjnXMr.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 230,
+      "id": 176963,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/wJmIG2CIjGM4ChEFf6PcV762eIB.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 230,
+      "id": 176849,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/gznNccjuVhNEjYt8IUopLuBh6GV.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 230,
+      "id": 176680,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/gznNccjuVhNEjYt8IUopLuBh6GV.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 230,
+      "id": 176725,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/mK0a4VYtDpi3wfXOBbzlmZBErQ4.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 190,
+      "id": 176665,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/8CqBrGO5JLR7OMmBmLXzdLshkP5.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 230,
+      "id": 175754,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/aSIHw2DyO6QqW2k2Ak5J2JPojG.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 240,
+      "id": 202365,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/6Iwg6enhbWr54vVSmvD1ttPAQSj.jpg",
+      "season_number": 38,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 230,
+      "id": 308231,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/67JYOtGQLYRldIgZMgHr0dyjlIn.jpg",
+      "season_number": 39,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 236,
+      "id": 349424,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/7dJGVVaxTIwJOGkyYHGcXSIMeHg.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 230,
+      "id": 403730,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 230,
+      "id": 467865,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/jIESEWjYAhqLKIP3cRl0kDafcIW.jpg",
+      "season_number": 42,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.9,
+  "vote_count": 160,
+  "external_ids": {
+    "id": 2912,
+    "imdb_id": "tt0159881",
+    "freebase_mid": "/m/014l6l",
+    "freebase_id": "/en/jeopardy",
+    "tvdb_id": 77075,
+    "tvrage_id": null,
+    "wikidata_id": "Q499767",
+    "facebook_id": "Jeopardy",
+    "instagram_id": "jeopardy",
+    "twitter_id": "Jeopardy"
+  }
+}

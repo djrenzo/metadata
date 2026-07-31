@@ -1,0 +1,689 @@
+{
+  "adult": false,
+  "backdrop_path": "/zcQRmnySOmVqT6WRmdztbiA9vVk.jpg",
+  "created_by": [
+    {
+      "id": 1241094,
+      "credit_id": "62a666d505b54973b1ae8bc2",
+      "name": "Kanji Inoki",
+      "original_name": "Kanji Inoki",
+      "gender": 2,
+      "profile_path": "/gPwa1mRJzXO5YfXeZ9gofufXtY5.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1972-03-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.njpw1972.com",
+  "id": 67192,
+  "in_production": true,
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "last_air_date": "2026-05-30",
+  "last_episode_to_air": {
+    "id": 7614980,
+    "name": "G1 CLIMAX 36 Night 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-29",
+    "episode_number": 67,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 55,
+    "show_id": 67192,
+    "still_path": null
+  },
+  "name": "New Japan Pro Wrestling",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 206,
+      "logo_path": "/m4db3aJTfBhgpgXoiqQRRS2znXe.png",
+      "name": "AXS TV",
+      "origin_country": "US"
+    },
+    {
+      "id": 1521,
+      "logo_path": "/tEYzkOmnBQ7jmxqdzJ6nAk429aO.png",
+      "name": "ABEMA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4094,
+      "logo_path": null,
+      "name": "NJPW World",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 997,
+  "number_of_seasons": 55,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "New Japan Pro Wrestling",
+  "overview": "New Japan Pro-Wrestling is a Japanese promotion founded by Antonio Inoki in 1972. Owing to its TV program aired on TV Asahi, it is the largest wrestling promotion in Japan and one of the largest in the world.",
+  "popularity": 71.6823,
+  "poster_path": "/c6IZc3avqSgTzSXrrj9vV0EwRp.jpg",
+  "production_companies": [
+    {
+      "id": 42196,
+      "logo_path": "/nQNmHvcmaT0zk1Rf0TYtLYO5MpI.png",
+      "name": "Bushiroad",
+      "origin_country": "JP"
+    },
+    {
+      "id": 20586,
+      "logo_path": "/4f94wrozPi4a61Ft6tKpSE3r8g7.png",
+      "name": "New Japan Pro-Wrestling",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1972-03-06",
+      "episode_count": 14,
+      "id": 78734,
+      "name": "Season 1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-02-20",
+      "episode_count": 8,
+      "id": 297266,
+      "name": "Season 1973",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-02-03",
+      "episode_count": 7,
+      "id": 297267,
+      "name": "Season 1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 297268,
+      "name": "Season 1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-02-06",
+      "episode_count": 11,
+      "id": 136118,
+      "name": "Season 1976",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-02-10",
+      "episode_count": 1,
+      "id": 297197,
+      "name": "Season 1977",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-02-08",
+      "episode_count": 1,
+      "id": 297198,
+      "name": "Season 1978",
+      "overview": "",
+      "poster_path": "/hTHYXRol8XCUb12okGYj8fTVS9q.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-02-02",
+      "episode_count": 33,
+      "id": 297199,
+      "name": "Season 1979",
+      "overview": "",
+      "poster_path": "/gZB1Fms5CdYkfk23xrWT4TgU3gP.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-02-08",
+      "episode_count": 1,
+      "id": 344606,
+      "name": "Season 1980",
+      "overview": "",
+      "poster_path": "/7n5CXMu38Ekh4EOfFW2rRfcj2VI.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383230,
+      "name": "Season 1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383231,
+      "name": "Season 1982",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383232,
+      "name": "Season 1983",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383233,
+      "name": "Season 1984",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383234,
+      "name": "Season 1985",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383235,
+      "name": "Season 1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383236,
+      "name": "Season 1987",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383237,
+      "name": "Season 1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383238,
+      "name": "Season 1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383239,
+      "name": "Season 1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383240,
+      "name": "Season 1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383241,
+      "name": "Season 1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383242,
+      "name": "Season 1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383243,
+      "name": "Season 1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 383244,
+      "name": "Season 1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383245,
+      "name": "Season 1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383246,
+      "name": "Season 1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383247,
+      "name": "Season 1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383248,
+      "name": "Season 1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383249,
+      "name": "Season 2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-04",
+      "episode_count": 2,
+      "id": 383250,
+      "name": "Season 2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383251,
+      "name": "Season 2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383252,
+      "name": "Season 2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383253,
+      "name": "Season 2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383254,
+      "name": "Season 2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383255,
+      "name": "Season 2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383256,
+      "name": "Season 2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383257,
+      "name": "Season 2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383258,
+      "name": "Season 2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383259,
+      "name": "Season 2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383260,
+      "name": "Season 2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383261,
+      "name": "Season 2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383262,
+      "name": "Season 2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383263,
+      "name": "Season 2014",
+      "overview": "",
+      "poster_path": "/2IU2mOwhxCediygVcUovTefhgKK.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 383264,
+      "name": "Season 2015",
+      "overview": "",
+      "poster_path": "/r4BsvqmPiTy5oiMgBPWyjNPjWDc.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 383265,
+      "name": "Season 2016",
+      "overview": "",
+      "poster_path": "/gsiCbA3VNOlBO61vjQmSutli54b.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-04",
+      "episode_count": 5,
+      "id": 383266,
+      "name": "Season 2017",
+      "overview": "",
+      "poster_path": "/lxetYv152A0mNX92ATCfDlR4PwS.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-04",
+      "episode_count": 93,
+      "id": 383267,
+      "name": "Season 2018",
+      "overview": "",
+      "poster_path": "/cdVlJYsVeDenEoSXEeIMCsmA9by.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-04",
+      "episode_count": 104,
+      "id": 383268,
+      "name": "Season 2019",
+      "overview": "",
+      "poster_path": "/ajX7w1UtQkmdgtUTQlEh6bWUWOJ.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-04",
+      "episode_count": 93,
+      "id": 383269,
+      "name": "Season 2020",
+      "overview": "",
+      "poster_path": "/zhachSXRwJoJ82gzPqp7ZxY2OEL.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 100,
+      "id": 383270,
+      "name": "Season 2021",
+      "overview": "",
+      "poster_path": "/98F3FQtc00fUHKnoa8xlCZPeswO.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-04",
+      "episode_count": 103,
+      "id": 383271,
+      "name": "Season 2022",
+      "overview": "",
+      "poster_path": "/si60Gmf8QNwKS6xjVdiIfkS7rvu.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-04",
+      "episode_count": 125,
+      "id": 383272,
+      "name": "Season 2023",
+      "overview": "",
+      "poster_path": "/cRGj0fsjSZNSpniBwa8xjCnCjia.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-04",
+      "episode_count": 120,
+      "id": 383273,
+      "name": "Season 2024",
+      "overview": "",
+      "poster_path": "/lHnB2K9NJTrHonhPJDVkxE9VfVk.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-04",
+      "episode_count": 126,
+      "id": 435363,
+      "name": "Season 2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-04",
+      "episode_count": 67,
+      "id": 492695,
+      "name": "Season 2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 67192,
+    "imdb_id": "",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

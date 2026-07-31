@@ -1,0 +1,839 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1956-04-01",
+  "genres": [],
+  "homepage": "",
+  "id": 318325,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-07",
+  "last_episode_to_air": {
+    "id": 7329745,
+    "name": "The 79th Annual Tony Awards",
+    "overview": "The 79th Tony Awards were held on June 7, 2026, to recognize excellence in Broadway productions during the 2025–26 season. The ceremony took place at Radio City Music Hall in New York City, and was broadcast on CBS and streamed on Paramount+.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-07",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 71,
+    "show_id": 318325,
+    "still_path": null
+  },
+  "name": "Tony Awards",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 162,
+      "logo_path": "/csmISkmy8gil9Vp0pnQlNZbLdjU.png",
+      "name": "DuMont Television Network",
+      "origin_country": "US"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+      "name": "Paramount+",
+      "origin_country": "US"
+    },
+    {
+      "id": 9044,
+      "logo_path": null,
+      "name": "WCBS-TV",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 81,
+  "number_of_seasons": 73,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Tony Awards",
+  "overview": "The Antoinette Perry Award for Excellence in Theatre, more commonly known as a Tony Award, recognizes achievement in live Broadway theatre. The awards are presented by the American Theatre Wing and The Broadway League at an annual ceremony in New York City. The awards are given for Broadway productions and performances, and an award is given for regional theatre.",
+  "popularity": 68.3856,
+  "poster_path": "/zFBRMVDgKRZ6dqTZwkefBbfDC1G.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1956-04-01",
+      "episode_count": 1,
+      "id": 508321,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-04-21",
+      "episode_count": 1,
+      "id": 508324,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-04-13",
+      "episode_count": 1,
+      "id": 508325,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-04-12",
+      "episode_count": 1,
+      "id": 508326,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-04-24",
+      "episode_count": 1,
+      "id": 508327,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-04-16",
+      "episode_count": 1,
+      "id": 508328,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-04-29",
+      "episode_count": 1,
+      "id": 508329,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-04-28",
+      "episode_count": 1,
+      "id": 508331,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-05-24",
+      "episode_count": 1,
+      "id": 508332,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-06-13",
+      "episode_count": 1,
+      "id": 508333,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-06-16",
+      "episode_count": 1,
+      "id": 508334,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-03-26",
+      "episode_count": 1,
+      "id": 508336,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-04-21",
+      "episode_count": 1,
+      "id": 508337,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-04-20",
+      "episode_count": 1,
+      "id": 508338,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-04-19",
+      "episode_count": 1,
+      "id": 508339,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-03-28",
+      "episode_count": 1,
+      "id": 508340,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-04-23",
+      "episode_count": 1,
+      "id": 508341,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-03-25",
+      "episode_count": 1,
+      "id": 508342,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-04-21",
+      "episode_count": 1,
+      "id": 508343,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-04-20",
+      "episode_count": 1,
+      "id": 508344,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-04-18",
+      "episode_count": 1,
+      "id": 508345,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-06-05",
+      "episode_count": 1,
+      "id": 508346,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-06-04",
+      "episode_count": 1,
+      "id": 508347,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-06-03",
+      "episode_count": 1,
+      "id": 508348,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-06-08",
+      "episode_count": 1,
+      "id": 508349,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-06-07",
+      "episode_count": 1,
+      "id": 508350,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-06-06",
+      "episode_count": 1,
+      "id": 508351,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-06-05",
+      "episode_count": 1,
+      "id": 508352,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-06-03",
+      "episode_count": 1,
+      "id": 508353,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-06-02",
+      "episode_count": 1,
+      "id": 508354,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-06-01",
+      "episode_count": 1,
+      "id": 508355,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-06-07",
+      "episode_count": 1,
+      "id": 508356,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-06-05",
+      "episode_count": 1,
+      "id": 508357,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-06-04",
+      "episode_count": 1,
+      "id": 508358,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-06-03",
+      "episode_count": 1,
+      "id": 508359,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/sbFw5BNO9tpSCaYJq5gftqpcQ6N.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-06-02",
+      "episode_count": 1,
+      "id": 508360,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/vrfMsf1y7NtBGbtN130KjWPNHX6.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-05-31",
+      "episode_count": 1,
+      "id": 508361,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/gyB7Ahlr9kUtVYtKkHk5zeZ707I.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-06-06",
+      "episode_count": 1,
+      "id": 508362,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-06-12",
+      "episode_count": 1,
+      "id": 508363,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/50KwPfcuoioYd4ZILWzuYu7El3d.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-06-04",
+      "episode_count": 1,
+      "id": 508364,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-06-02",
+      "episode_count": 1,
+      "id": 508365,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-06-01",
+      "episode_count": 1,
+      "id": 508366,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-06-07",
+      "episode_count": 1,
+      "id": 508367,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/sD8ddcwW9jvR0FQIO5plNyZoQsC.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-06-06",
+      "episode_count": 1,
+      "id": 508368,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/flLHx3ftQIjZxLXIkTV9UNbeDJh.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-06-04",
+      "episode_count": 1,
+      "id": 508369,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/c6eMN1419lmR1Pb1lE5KEAbmtOb.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-03",
+      "episode_count": 1,
+      "id": 508370,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/fiegvkG24e1NxYamZHgulrceyM2.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-02",
+      "episode_count": 1,
+      "id": 508371,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-06-08",
+      "episode_count": 1,
+      "id": 508372,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/fWlYiaVzd9aZrRheHR1T4340BdK.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-06-06",
+      "episode_count": 1,
+      "id": 508373,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/wRa9K719h7b7SYUSxCvqtDR8qpv.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-05",
+      "episode_count": 1,
+      "id": 508374,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/itMRFDvFcsLBOozhPi21KAQdOqd.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-06-11",
+      "episode_count": 1,
+      "id": 508375,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/fKWk88Rge5wGtgtWZi4d8TtZ4Fp.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-06-11",
+      "episode_count": 1,
+      "id": 508376,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": "/e74IPr5UmJEzvp5zUAbtQFarcA5.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-10",
+      "episode_count": 1,
+      "id": 508377,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/bOFPfxwStvdDWcEdiJR2NosZhCL.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-06-15",
+      "episode_count": 1,
+      "id": 508378,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/c4sma3kKlG9Au3iJbxsor40yezE.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-07",
+      "episode_count": 1,
+      "id": 508379,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/vRT26Pywb34MngwCtfen3BKvBen.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-06-13",
+      "episode_count": 1,
+      "id": 508380,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/psrtnG5rKH3kfJKewlQZLrOC0mu.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-06-12",
+      "episode_count": 1,
+      "id": 508381,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/lYOettUp79ke2LEcVjlpRoQuuzp.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-10",
+      "episode_count": 2,
+      "id": 508382,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": "/jAsLmAhpsC2y29ZxuOrGpnHZy4q.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-09",
+      "episode_count": 2,
+      "id": 508383,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": "/6qpsfX1z1zpRl9sU89vTI7JSxwj.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-06-08",
+      "episode_count": 2,
+      "id": 508384,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-07",
+      "episode_count": 2,
+      "id": 508385,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-12",
+      "episode_count": 1,
+      "id": 508416,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-11",
+      "episode_count": 1,
+      "id": 515944,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-10",
+      "episode_count": 1,
+      "id": 519528,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-06-09",
+      "episode_count": 1,
+      "id": 519529,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 1,
+      "id": 519530,
+      "name": "Season 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-12",
+      "episode_count": 1,
+      "id": 519531,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-11",
+      "episode_count": 1,
+      "id": 519532,
+      "name": "Season 68",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-16",
+      "episode_count": 1,
+      "id": 519533,
+      "name": "Season 69",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-08",
+      "episode_count": 1,
+      "id": 519534,
+      "name": "Season 70",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-07",
+      "episode_count": 1,
+      "id": 519535,
+      "name": "Season 71",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 519536,
+      "name": "Season 72",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-05-29",
+      "episode_count": 6,
+      "id": 519698,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 318325,
+    "imdb_id": null,
+    "freebase_mid": "/m/0f8kh",
+    "freebase_id": null,
+    "tvdb_id": 249480,
+    "tvrage_id": null,
+    "wikidata_id": "Q191874",
+    "facebook_id": "thetonyawards",
+    "instagram_id": "thetonyawards",
+    "twitter_id": "TheTonyAwards"
+  }
+}

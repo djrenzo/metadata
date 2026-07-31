@@ -1,0 +1,728 @@
+{
+  "adult": false,
+  "backdrop_path": "/3EGjqKhVHGsvNHvBIbxmqS17Aal.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "1964-08-22",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/b007t9y1",
+  "id": 224,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-19",
+  "last_episode_to_air": {
+    "id": 7271715,
+    "name": "MOTD - 24th May 2026",
+    "overview": "Highlights of the final day of the Premier League season's ten matches, including Arsenal’s trip to Crystal Palace and Manchester City versus Aston Villa. Elsewhere, Spurs host Everton, and West Ham welcome Leeds to the London Stadium. Presented by Kelly Cates, with Alan Shearer and Wayne Rooney.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-24",
+    "episode_number": 75,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 99,
+    "season_number": 62,
+    "show_id": 224,
+    "still_path": "/gB7g75MoYj3tPBwjONnnOSs4sEC.jpg"
+  },
+  "name": "Match of the Day",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 3282,
+  "number_of_seasons": 62,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Match of the Day",
+  "overview": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised by Guinness World Records in 2015.",
+  "popularity": 68.0946,
+  "poster_path": "/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+  "production_companies": [
+    {
+      "id": 16986,
+      "logo_path": "/nBWSAxcnFYeh5xYWoGtZoEWk8a.png",
+      "name": "BBC Sport",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1964-08-22",
+      "episode_count": 37,
+      "id": 151809,
+      "name": "Season 1964/65",
+      "overview": "Match of the Day begins on 22 August 1964, for coverage of Liverpool versus Arsenal. Kenneth Wolstenholme opens the programme with the words: \"Welcome to Match of the Day, the first of a weekly series coming to you every Saturday on BBC TWO. As you can hear we're in Beatleville for this Liverpool versus Arsenal match.\" The programme began on BBC TWO where it remained until 1966.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-10-02",
+      "episode_count": 33,
+      "id": 152088,
+      "name": "Season 1965/66",
+      "overview": "Despite attempts by some clubs to prevent its return due to fear over ticket sales, Match of the Day returned to the BBC in October 1965 two months after the start of the new season.\n\nThe duration of each programme had been reduced to 45 minutes in length and it could no longer be broadcast before 10.00pm.",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-08-20",
+      "episode_count": 40,
+      "id": 152762,
+      "name": "Season 1966/67",
+      "overview": "In the year that saw England win the World Cup, Match of the Day moves to BBC ONE.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-08-05",
+      "episode_count": 42,
+      "id": 153185,
+      "name": "Season 1967/68",
+      "overview": "Once again, protracted negotiations during the summer ensured the return of the show. In order to secure the deal the BBC had to agree to broadcast five matches from Division Two and two from Divisions Three or Four as well as the 23 Division One games that they wanted.",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-08-03",
+      "episode_count": 38,
+      "id": 153193,
+      "name": "Season 1968/69",
+      "overview": "Grandstand presenter David Coleman begins regularly presenting Match of the Day.",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-08-02",
+      "episode_count": 40,
+      "id": 153373,
+      "name": "Season 1969/70",
+      "overview": "From 1969, the programme becomes live and studio based, rather than being pre-recorded at the ground of the featured match, and there were now two games seen each week.",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-08-08",
+      "episode_count": 43,
+      "id": 154986,
+      "name": "Season 1970/71",
+      "overview": "1970 saw the introduction of the Goal of the Month competition, which led to thousands of postcards being sent to the BBC.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-07-31",
+      "episode_count": 43,
+      "id": 155315,
+      "name": "Season 1971/72",
+      "overview": "John Motson makes his debut as a Match of the Day commentator.",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-07-29",
+      "episode_count": 43,
+      "id": 156342,
+      "name": "Season 1972/73",
+      "overview": "The current contractual agreement meant that Match of the Day had to lead with a Division Two fixture, and twice with a match from Division Three.",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-08-11",
+      "episode_count": 42,
+      "id": 157125,
+      "name": "Season 1973/74",
+      "overview": "Match of the Day appoints Jimmy Hill as the new presenter, after signing him from LWT. He was the first to both present the programme and offer expert analysis.",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-08-10",
+      "episode_count": 43,
+      "id": 158190,
+      "name": "Season 1974/75",
+      "overview": "Match of the Day signs a new three-year contract with the Football League.",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-08-09",
+      "episode_count": 43,
+      "id": 158949,
+      "name": "Season 1975/76",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-08-14",
+      "episode_count": 43,
+      "id": 160584,
+      "name": "Season 1976/77",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-08-13",
+      "episode_count": 41,
+      "id": 162756,
+      "name": "Season 1977/78",
+      "overview": "Match of the Day celebrates its 500th edition, marked with a special Radio Times cover and a new set of opening titles with hundreds of school children holding up cards that depicted Jimmy Hill's face and the Match of the Day logo.",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-08-19",
+      "episode_count": 41,
+      "id": 163946,
+      "name": "Season 1978/79",
+      "overview": "In November ITV signed a secret three year deal with the Football League to show edited highlights on Saturday nights instead of Sundays in an attempt to break away from the joint negotiating strategy and replace Match of the Day.\n\nA ruling by the Office of Fair Trading prevented ITV's exclusive contract being signed but a compromise was reached.\n\nFor the duration of the next four year contract it was agreed that the BBC and ITV would have to alternate their programme coverage with Match of the Day switching to Sunday afternoons for the 1980-81 and 1982-83 seasons.",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-08-11",
+      "episode_count": 46,
+      "id": 165326,
+      "name": "Season 1979/80",
+      "overview": "For the first time Match of the Day was allowed to screen additional games, and on 13 weekends there were highlights from three different matches.",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-08-17",
+      "episode_count": 40,
+      "id": 166397,
+      "name": "Season 1980/81",
+      "overview": "After 16 seasons in the Saturday night slot, Match of the Day moved to Sunday afternoons.",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-08-22",
+      "episode_count": 42,
+      "id": 166859,
+      "name": "Season 1981/82",
+      "overview": "The programme returned to Saturday nights. Only two games were allowed to be shown per show.",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-08-29",
+      "episode_count": 37,
+      "id": 167790,
+      "name": "Season 1982/83",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-08-20",
+      "episode_count": 37,
+      "id": 168338,
+      "name": "Season 1983/84",
+      "overview": "Match of the Day was back on Saturday nights as a highlights show but was supplemented by live matches on Friday evenings. The BBC and ITV had been allocated seven games each with the commercial channel choosing to broadcast theirs on Sunday afternoons. This was a radical change in strategy by all involved as prior to this new two year contract the only regular live domestic football had been the FA Cup Final, England against Scotland and the European Cup Final. Match of the Day was cancelled from 15 October to 19 November due to strike action at the BBC.",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-08-25",
+      "episode_count": 39,
+      "id": 168550,
+      "name": "Season 1984/85",
+      "overview": "The show celebrated its 20th anniversary and matches were still being broadcast on Fridays. Most other sports were now seen live on television so the production team wanted to continue the football experiment as well. Jonathan Martin, the Head of Sport at the time, recalled that the experiment was disappointing: \"We only got six or seven million viewers on a Friday night which was poor for the slot so we moved to Sundays in the following year.\" This was to be the last time that Match of the Day contained weekly League highlights until the beginning of the 1992-93 season.",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-08-10",
+      "episode_count": 14,
+      "id": 169181,
+      "name": "Season 1985/86",
+      "overview": "In 1985 the television rights came up for renegotiation and BBC and ITV offered £16m for four years. This was in return for 19 live games plus weekend highlights. The Football League met on Valentine's Day and rejected it. Football was, however, in a weak negotiating position as the game was rife with hooliganism and the two sides became deadlocked. The result was a total black-out for the first part of the season which annoyed fans and concerned the sponsors. The Football League finally backed down and agreed a deal that gave them less money per game than before on a short term two and a half year contract. The remaining six months was worth £1.3m with a two year £6.2m extension confirmed in June. The supporters were delighted and Match of the Day resumed in January. It concentrated mainly on FA Cup highlights and the occasional live League match on a Sunday.",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-21",
+      "episode_count": 14,
+      "id": 170036,
+      "name": "Season 1986/87",
+      "overview": "With highlights out of fashion there were only 14 editions of Match of the Day all season and the only League action came in the seven live games on Sunday afternoons.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-08-29",
+      "episode_count": 19,
+      "id": 170153,
+      "name": "Season 1987/88",
+      "overview": "The focus was still on the big clubs and the shows were very irregular. They followed the same format as the previous year with a mixture of live League games on Sunday afternoons and highlights shows for the FA Cup. This was also Jimmy Hill's final season as presenter after a record 15 years in charge of the show.",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-08-20",
+      "episode_count": 13,
+      "id": 170237,
+      "name": "Season 1988/89",
+      "overview": "Match of the Day celebrated its 25th anniversary and had to cope with the fact that, for the first time since its inception in 1964, it couldn't broadcast any League football. Instead, the team settled into the four year contract with the intention of breathing new life into the FA Cup. With the new contract came a totally revamped show.",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-08-12",
+      "episode_count": 16,
+      "id": 170377,
+      "name": "Season 1989/90",
+      "overview": "Des Lynam continued to present the show, joined by Jimmy Hill and Terry Venables as regular pundits.",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-08-18",
+      "episode_count": 21,
+      "id": 172466,
+      "name": "Season 1990/91",
+      "overview": "In the third season of the new contract there were 20 editions of Match of the Day but they were still restricted to covering FA Cup matches.",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-08-10",
+      "episode_count": 22,
+      "id": 173138,
+      "name": "Season 1991/92",
+      "overview": "After several years of speculation it was announced in February that a new, breakaway FA Premier League was going to be formed. ITV were expected to win the TV rights but the BBC and BSkyB combined to place a counter bid and had strong influence within the new organisation. In May 1992 the rights were decided and each club had one vote. BSkyB were awarded live matches on Sundays and Mondays and the BBC gained the Saturday night highlights as part of a five year deal. The two companies also joined forces to sign a new five year deal to cover FA Cup and International matches. ITV would be covering the Football League and the League Cup.",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-08-15",
+      "episode_count": 46,
+      "id": 173175,
+      "name": "Season 1992/93",
+      "overview": "With the new season came a new Premier League, a new contract and a new show, fronted by Des Lynam. Des was joined by new regular pundits, Alan Hansen and Trevor Brooking, and the show reverted to the classic format of extended highlights from three main games. Now, however, as well as all the extra analysis, viewers were also able to see the goals from all the other matches as well.",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-08-07",
+      "episode_count": 50,
+      "id": 173511,
+      "name": "Season 1993/94",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-08-14",
+      "episode_count": 53,
+      "id": 173586,
+      "name": "Season 1994/95",
+      "overview": "Match of the Day celebrated its 30th anniversary.",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-08-13",
+      "episode_count": 53,
+      "id": 177412,
+      "name": "Season 1995/96",
+      "overview": "When Alex Ferguson's side were discussed on Match of the Day on the opening day of the season Des remarked that \"United were scarcely recognizable from the team we've known over the past couple of seasons, what's going on do you feel?\" Alan Hansen famously replied: \"You can't win anything with kids... he's got to buy players, it's as simple as that.\"",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-08-11",
+      "episode_count": 53,
+      "id": 178002,
+      "name": "Season 1996/97",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-08-09",
+      "episode_count": 71,
+      "id": 178166,
+      "name": "Season 1997/98",
+      "overview": "A new four year deal secured Premier League highlights on the BBC. Mark Lawrenson joined Trevor Brooking and Alan Hansen as a regular pundit during the second half of the season.",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-08-15",
+      "episode_count": 55,
+      "id": 178477,
+      "name": "Season 1998/99",
+      "overview": "Des Lynam presented 36 of the 45 League and Cup programmes plus eight more UEFA Cup shows. Gary Lineker also fronted five editions with Ray Stubbs hosting the remaining four.",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-07",
+      "episode_count": 90,
+      "id": 178783,
+      "name": "Season 1999/2000",
+      "overview": "Before the season began, on 2 August, Des Lynam resigned from the BBC and moved to ITV to become their main football presenter. Gary Lineker took over as the main presenter for the show.",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-08-19",
+      "episode_count": 57,
+      "id": 179687,
+      "name": "Season 2000/01",
+      "overview": "ITV won back the Premier League highlights as part of a three year deal. They also obtained Nationwide League rights whilst the BBC regained the FA Cup and England games. It was a major blow to the BBC, but Match of the Day continued to show live FA Cup and European games.",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-12",
+      "episode_count": 93,
+      "id": 183978,
+      "name": "Season 2001/02",
+      "overview": "With Saturday night highlights now being shown on ITV's The Premiership, Match of the Day reverted to covering live FA Cup and England matches as well as some UEFA Cup games.",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-08-11",
+      "episode_count": 51,
+      "id": 190174,
+      "name": "Season 2002/03",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-08-10",
+      "episode_count": 113,
+      "id": 190743,
+      "name": "Season 2003/04",
+      "overview": "In August 2003, it is announced that the BBC has won back the right to show Premiership highlights from 2004, for three years.",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-08",
+      "episode_count": 81,
+      "id": 191615,
+      "name": "Season 2004/05",
+      "overview": "Match of the Day returns to the BBC for the new season, as part of a new football package on the BBC.",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-07",
+      "episode_count": 136,
+      "id": 191862,
+      "name": "Season 2005/06",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-13",
+      "episode_count": 82,
+      "id": 193742,
+      "name": "Season 2006/07",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-05",
+      "episode_count": 72,
+      "id": 197522,
+      "name": "Season 2007/08",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-16",
+      "episode_count": 59,
+      "id": 198628,
+      "name": "Season 2008/09",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-08",
+      "episode_count": 132,
+      "id": 211472,
+      "name": "Season 2009/10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-07",
+      "episode_count": 63,
+      "id": 214496,
+      "name": "Season 2010/11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-07",
+      "episode_count": 93,
+      "id": 214896,
+      "name": "Season 2011/12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-18",
+      "episode_count": 83,
+      "id": 215468,
+      "name": "Season 2012/13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-14",
+      "episode_count": 108,
+      "id": 216341,
+      "name": "Season 2013/14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-10",
+      "episode_count": 41,
+      "id": 218028,
+      "name": "Season 2014/15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-02",
+      "episode_count": 74,
+      "id": 72483,
+      "name": "Season 2015/16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-07",
+      "episode_count": 46,
+      "id": 80937,
+      "name": "Season 2016/17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-06",
+      "episode_count": 45,
+      "id": 98835,
+      "name": "Season 2017/18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-05",
+      "episode_count": 48,
+      "id": 120154,
+      "name": "Season 2018/19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-04",
+      "episode_count": 50,
+      "id": 128462,
+      "name": "Season 2019/20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-29",
+      "episode_count": 59,
+      "id": 159943,
+      "name": "Season 2020/21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-14",
+      "episode_count": 48,
+      "id": 204840,
+      "name": "Season 2021/22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-06",
+      "episode_count": 44,
+      "id": 302898,
+      "name": "Season 2022/23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-12",
+      "episode_count": 46,
+      "id": 352430,
+      "name": "Season 2023/24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-17",
+      "episode_count": 40,
+      "id": 406887,
+      "name": "Season 2024/25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-16",
+      "episode_count": 75,
+      "id": 468080,
+      "name": "Season 2025/26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.647,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 224,
+    "imdb_id": "tt0135733",
+    "freebase_mid": "/m/03r0f7",
+    "freebase_id": "/en/match_of_the_day",
+    "tvdb_id": 109411,
+    "tvrage_id": 7342,
+    "wikidata_id": "Q1908130",
+    "facebook_id": "BBCMOTD",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "adult": false,
+  "backdrop_path": "/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
+  "created_by": [
+    {
+      "id": 8161,
+      "credit_id": "54435d6ec3a3683df2004048",
+      "name": "Derek Haas",
+      "original_name": "Derek Haas",
+      "gender": 2,
+      "profile_path": "/a2kkIGmfxO45TrFgvARHi8rCqlQ.jpg"
+    },
+    {
+      "id": 7865,
+      "credit_id": "54435d7ac3a3683df7003f44",
+      "name": "Michael Brandt",
+      "original_name": "Michael Brandt",
+      "gender": 2,
+      "profile_path": "/13p3xvGWhCbSNgv9S2DiBcPnoWQ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2012-10-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.nbc.com/chicago-fire",
+  "id": 44006,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-13",
+  "last_episode_to_air": {
+    "id": 7083173,
+    "name": "Thank You",
+    "overview": "Severide and Kidd welcome a surprise visitor. Herrmann and Cindy renew their vows. Mouch receives some encouraging news.",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "air_date": "2026-05-13",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 14,
+    "show_id": 44006,
+    "still_path": "/4xeSuiLkMREdyzJswJkIYMo7gG5.jpg"
+  },
+  "name": "Chicago Fire",
+  "next_episode_to_air": {
+    "id": 7420740,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-07",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 15,
+    "show_id": 44006,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 296,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Chicago Fire",
+  "overview": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+  "popularity": 91.9813,
+  "poster_path": "/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-02-11",
+      "episode_count": 1,
+      "id": 203963,
+      "name": "Specials",
+      "overview": "An emergency puts Dawson's firefighting skills to the ultimate test in this four-part digital series.",
+      "poster_path": "/bXsGNwm5702NN7q5satF71aHBDM.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 24,
+      "id": 53207,
+      "name": "Season 1",
+      "overview": "Meet the firefighters and paramedics of Firehouse 51 as they face the intense demands of the job while dealing with personal losses, rivalries, and the weight of life-or-death decisions. Brotherhood and loyalty are forged in fire.",
+      "poster_path": "/fTVZTV41lI9EFPTEjwRBmierHUE.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-24",
+      "episode_count": 22,
+      "id": 53209,
+      "name": "Season 2",
+      "overview": "As the team recovers from past trauma, new threats and leadership changes test their unity. Relationships grow more complicated, and loyalties are pushed to the brink both inside and outside the firehouse.",
+      "poster_path": "/wqsi6oKOc8hGA8153pJEM5Pc9jQ.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2014-09-23",
+      "episode_count": 23,
+      "id": 62049,
+      "name": "Season 3",
+      "overview": "A devastating loss reshapes the crew and forces them to confront their own vulnerabilities. With new faces joining the ranks, Firehouse 51 must adapt to changing dynamics while staying focused on saving lives.",
+      "poster_path": "/28WoFa8Fqc2g8kAWGTCoe7xhfEI.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2015-10-13",
+      "episode_count": 23,
+      "id": 71116,
+      "name": "Season 4",
+      "overview": "When internal investigations and city politics start to interfere with operations, tensions rise. The firefighters must band together to protect their own and preserve the integrity of the team.",
+      "poster_path": "/xiK4j8nYKn1J6XF9BQTPMnnw9u3.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-10-11",
+      "episode_count": 22,
+      "id": 79977,
+      "name": "Season 5",
+      "overview": "Love, loss, and sacrifice take center stage as the job grows more dangerous. Long-standing bonds are tested, and the team is forced to confront personal turning points that will shape their future.",
+      "poster_path": "/mBnkMUXCNpHbMS3cVAxxduzK8QU.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2017-09-28",
+      "episode_count": 23,
+      "id": 91758,
+      "name": "Season 6",
+      "overview": "Leadership shifts and new challenges throw the firehouse into unfamiliar territory. As personal lives intersect with the demands of the job, the crew must find balance while protecting the city and each other.",
+      "poster_path": "/cGnO7EgUtA0iCChGRp7nmV4gCwv.jpg",
+      "season_number": 6,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 22,
+      "id": 105455,
+      "name": "Season 7",
+      "overview": "New recruits, evolving relationships, and high-risk rescues dominate a season full of change. The crew must earn trust again — both within the firehouse and from the people they serve.",
+      "poster_path": "/pvM5Jjq8naDLLWe1Q3y7E5kGq7X.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 20,
+      "id": 126164,
+      "name": "Season 8",
+      "overview": "Disaster hits close to home, and Firehouse 51 must rebuild physically and emotionally. Amidst crisis and chaos, the firefighters continue to prove their courage and resilience.",
+      "poster_path": "/ayxFXKJ5P2C3giEr9Kr6SbrdnwR.jpg",
+      "season_number": 8,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2020-11-11",
+      "episode_count": 16,
+      "id": 160633,
+      "name": "Season 9",
+      "overview": "A global pandemic adds pressure to an already demanding job. With protocols shifting and stakes higher than ever, the team adapts while still putting everything on the line.",
+      "poster_path": "/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg",
+      "season_number": 9,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 22,
+      "id": 202463,
+      "name": "Season 10",
+      "overview": "Milestones and transitions mark a new chapter for Firehouse 51. As the team faces the unknown, legacy and loyalty remain at the heart of every call.",
+      "poster_path": "/yrV8eSwhCkMAJVZUK65PXTfYOqq.jpg",
+      "season_number": 10,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 22,
+      "id": 299104,
+      "name": "Season 11",
+      "overview": "Old ghosts and new dangers emerge as Firehouse 51 juggles internal shakeups and life-changing decisions. The job never gets easier — but neither does walking away.",
+      "poster_path": "/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg",
+      "season_number": 11,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-01-17",
+      "episode_count": 13,
+      "id": 366615,
+      "name": "Season 12",
+      "overview": "With fresh challenges and unexpected alliances, the crew leans into their unbreakable bond. In a city that never sleeps, Firehouse 51 stays ready — no matter what comes next.",
+      "poster_path": "/2yaeYNplMuLGNjBigMFsek7UZmq.jpg",
+      "season_number": 12,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-09-25",
+      "episode_count": 22,
+      "id": 401568,
+      "name": "Season 13",
+      "overview": "Firehouse 51 is shaken up by the arrival of new chief Dom Pascal, following the departure of Wallace Boden. The leader's abrupt methods destabilize the team as they navigate numerous crises, including a major disaster and the tragic loss of Monica Pascal, his wife. Severide and Kidd consider adoption, Violet gains more responsibility, and the group's solidarity is tested between dramas, investigations, and new challenges.",
+      "poster_path": "/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+      "season_number": 13,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2025-10-01",
+      "episode_count": 21,
+      "id": 467368,
+      "name": "Season 14",
+      "overview": "Firehouse 51 is pushed into crisis by chronic understaffing, budget cuts, and politically driven restructuring. City “brownouts” take rigs and entire houses offline with little warning, forcing 51 to cover more ground with fewer resources and longer, more dangerous shifts. These pressures expose cracks across the department, from delayed police and EMS responses to exhaustion-related accidents, including a serious ambulance crash that highlights the human cost of relentless call volume. Leadership tensions rise as City Hall quietly advances battalion consolidations, placing increased responsibility on company officers and reshaping command structures within the CFD.",
+      "poster_path": "/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+      "season_number": 14,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2026-10-07",
+      "episode_count": 1,
+      "id": 524275,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Welcome home.",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 2416,
+  "external_ids": {
+    "id": 44006,
+    "imdb_id": "tt2261391",
+    "freebase_mid": "/m/0jt5l1z",
+    "freebase_id": null,
+    "tvdb_id": 258541,
+    "tvrage_id": 30748,
+    "wikidata_id": "Q1187416",
+    "facebook_id": "NBCOneChicago",
+    "instagram_id": "nbconechicago",
+    "twitter_id": "NBCOneChicago"
+  }
+}

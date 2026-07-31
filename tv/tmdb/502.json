@@ -1,0 +1,746 @@
+{
+  "adult": false,
+  "backdrop_path": "/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+  "created_by": [
+    {
+      "id": 1217334,
+      "credit_id": "52537ce819c29579401a768c",
+      "name": "Lloyd Morrisett",
+      "original_name": "Lloyd Morrisett",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1103687,
+      "credit_id": "6150d2082d8ef300421dd57e",
+      "name": "Joan Ganz Cooney",
+      "original_name": "Joan Ganz Cooney",
+      "gender": 1,
+      "profile_path": "/bel0wb59frephWfqmguRnusfYfV.jpg"
+    },
+    {
+      "id": 55983,
+      "credit_id": "683f03bdf5b378169bf2bdd7",
+      "name": "Jim Henson",
+      "original_name": "Jim Henson",
+      "gender": 2,
+      "profile_path": "/93vzGW2kWwmAJ8HpbErzKMHXDME.jpg"
+    }
+  ],
+  "episode_run_time": [
+    54,
+    60
+  ],
+  "first_air_date": "1969-11-10",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.sesamestreet.org",
+  "id": 502,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-13",
+  "last_episode_to_air": {
+    "id": 7365476,
+    "name": "Cookie Monster's Magical Cart",
+    "overview": "When Cookie Monster gets tired from pushing his cart, Abby uses magic to make the cart move on its own. He starts to feel frustrated because she's not listening to him. Now the cart's out of control. Meanwhile Grover tries to deliver boxes.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-13",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 56,
+    "show_id": 502,
+    "still_path": "/933jXjRXnDUbwgW4so4eQDqjdrn.jpg"
+  },
+  "name": "Sesame Street",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 120,
+      "logo_path": "/pjQ7a6Pplwm6KmR4kunOwoiqYaO.png",
+      "name": "National Educational Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 122,
+      "logo_path": "/sTYUkII9IC015VMZEDkUVMnbpFt.png",
+      "name": "PBS Kids",
+      "origin_country": "US"
+    },
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 3186,
+      "logo_path": "/nmU0UMDJB3dRRQSTUqawzF2Od1a.png",
+      "name": "HBO Max",
+      "origin_country": ""
+    },
+    {
+      "id": 6783,
+      "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+      "name": "Max",
+      "origin_country": ""
+    },
+    {
+      "id": 8304,
+      "logo_path": "/gqWI9y0owo9sxgzZD7TXOeILYI9.png",
+      "name": "HBO Max",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 3550,
+  "number_of_seasons": 56,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Sesame Street",
+  "overview": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+  "popularity": 105.8236,
+  "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+  "production_companies": [
+    {
+      "id": 3673,
+      "logo_path": "/nDLYSGvTaIUU7LRFLwSk2xG9KLo.png",
+      "name": "Sesame Workshop",
+      "origin_country": "US"
+    },
+    {
+      "id": 5061,
+      "logo_path": "/7snDCNoCC1pMNqPYCC6pvKVk19b.png",
+      "name": "Children's Television Workshop",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 126,
+      "id": 1478,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/iekpN9b2WeNFF9aHKP1JjjV1NGx.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-11-10",
+      "episode_count": 130,
+      "id": 1440,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lOZQqJN5xKDxCNAZZHSz99mR7kC.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1970-11-09",
+      "episode_count": 145,
+      "id": 1441,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/etTHbxv1IGLAloxwoFbYkf1mujJ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-11-08",
+      "episode_count": 130,
+      "id": 1442,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/w9SchkoQux5Gmxj6bDCbxdNJVQG.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-11-27",
+      "episode_count": 130,
+      "id": 1443,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/yxyfBH1deS4SfbNprF2QIpxPzJl.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-11-19",
+      "episode_count": 130,
+      "id": 1444,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/6RuKgJlow7yuun0rSbWBfI7LuZz.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-11-04",
+      "episode_count": 130,
+      "id": 1445,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/mpUMLRl62owhJeSRrNfcTIGgvnN.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-12-01",
+      "episode_count": 130,
+      "id": 1447,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/jmTcXtfGjbclFwlZNIO39LusmwS.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-11-29",
+      "episode_count": 130,
+      "id": 1446,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/2v3N2O6pV3npGtHT9vfUIQ6fEMR.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-11-28",
+      "episode_count": 65,
+      "id": 1448,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/sXeFtDhR2Vfdlytg7N8TH47E0Ag.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-11-27",
+      "episode_count": 130,
+      "id": 1450,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/gazk4uvIcXRM1FywtGaKH62CZg6.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-11-26",
+      "episode_count": 130,
+      "id": 1449,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/4bf7TUzmtoPgT6L1oeWhuNuR4T3.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-11-24",
+      "episode_count": 130,
+      "id": 1451,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/40pHPvFzcgkxG1Sk2v3s5ZtQGl3.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-11-23",
+      "episode_count": 31,
+      "id": 1452,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/a41i0cntpDF9RTUHSBDAbXIwdTP.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-11-22",
+      "episode_count": 31,
+      "id": 1454,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/u2Y8d49yMWpIljHDdY9yBcLkjzK.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-11-21",
+      "episode_count": 130,
+      "id": 1453,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/o3kijjIuP7ognGe0RWMl5ztDesW.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-11-19",
+      "episode_count": 130,
+      "id": 1456,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/hSN12VT9Y2zqIwpl4tMnFMjinep.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-11-18",
+      "episode_count": 130,
+      "id": 1455,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/wFBtkxjnmH3OlcbDNIuhBoy4KzO.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-11-17",
+      "episode_count": 31,
+      "id": 1458,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/xfSqhK30eJEXCOFZAuC2JnRrBGK.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-11-16",
+      "episode_count": 33,
+      "id": 1457,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/6dNLJ24rjTfAjh5EBBNlKF8X2tq.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-11-21",
+      "episode_count": 33,
+      "id": 1460,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/v9af8B3ETHT2Obbn09LTzRaMYyA.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-11-13",
+      "episode_count": 36,
+      "id": 1459,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/asoaHhlw1anaoeJU6oLo9Z4SWtC.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-11-12",
+      "episode_count": 130,
+      "id": 1462,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/2pQN2i7xF9fHZfP6rDViKuY65TG.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-11-11",
+      "episode_count": 44,
+      "id": 1461,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/pCx0H5a65D46HkwawcwD12M0b0k.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-11-09",
+      "episode_count": 71,
+      "id": 1463,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/hFDkdVV7GCQ3q02E69UuK716aOn.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-11-22",
+      "episode_count": 31,
+      "id": 1464,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/l1OOOZXw7Ft5eZycnOPPJhPiwLY.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-11-21",
+      "episode_count": 33,
+      "id": 1465,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/hgz7gmfSfyQ36gTFaWZ9eU3ia0P.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-11-20",
+      "episode_count": 32,
+      "id": 1466,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/lfZN1H6TbZICvYs9YhGtnbtI2sh.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-11-18",
+      "episode_count": 56,
+      "id": 1467,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/h43PLhmBWRM3Zl9wHjwy75fVl94.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-11-17",
+      "episode_count": 130,
+      "id": 1468,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/byyDm3G4kLHgESgD6QSMML8NSUq.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-11-16",
+      "episode_count": 65,
+      "id": 1469,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/srQ2BS86rBS802I1kIcufLbCWL3.jpg",
+      "season_number": 30,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 65,
+      "id": 1471,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/q93chv3shjb8b7vhQfEg4BtyMW2.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 65,
+      "id": 1472,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/hgNU5QgNCoCzMODpN7gwTvJYzgz.jpg",
+      "season_number": 32,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2002-02-04",
+      "episode_count": 50,
+      "id": 1470,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/l88k9Fctxkhga9LC9p5PRMkZnud.jpg",
+      "season_number": 33,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2003-04-07",
+      "episode_count": 33,
+      "id": 1474,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/kjJWDoKBN9lImnYuxf1rtGmHXeF.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-02-15",
+      "episode_count": 26,
+      "id": 1475,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/blvDjbz3C9VIEiZkfWH6a4i1xRW.jpg",
+      "season_number": 35,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2005-04-04",
+      "episode_count": 26,
+      "id": 1473,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/7Fb9vMltVcfidM89nuB3F5wkU2z.jpg",
+      "season_number": 36,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2006-08-14",
+      "episode_count": 26,
+      "id": 1477,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/fQaWXF0NPAOWblhktItbpKAQBIN.jpg",
+      "season_number": 37,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2007-08-13",
+      "episode_count": 26,
+      "id": 1439,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/qgd2WSAYeVRl2LYxvG3X9kMffk3.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-11",
+      "episode_count": 26,
+      "id": 1476,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/aBISRWDNetQYjqA8axSYzKWA7OV.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-10",
+      "episode_count": 26,
+      "id": 1479,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/yqKOPzI3IW7Wq6iO6WpLu8KLPzC.jpg",
+      "season_number": 40,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2010-09-27",
+      "episode_count": 26,
+      "id": 1480,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/ctrpbI6KgRv2oa2JUdL1YoCpIBl.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-26",
+      "episode_count": 26,
+      "id": 1481,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/q9JjBnHvy6Zo82ikGyioH4o6CF.jpg",
+      "season_number": 42,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2012-09-24",
+      "episode_count": 27,
+      "id": 1482,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/1BhMhFiIg4XbAHIAm4Gws1R2RUB.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 26,
+      "id": 1483,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/aQVf60fWvk3iFErFVNcaXdfmkP5.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-14",
+      "episode_count": 27,
+      "id": 122191,
+      "name": "Season 45",
+      "overview": "Season 45 is one of the most high-energy seasons yet. With catchy dance breaks and songs, everyone will be up on their feet!",
+      "poster_path": "/vUyJ6XadR982DEIHO2qesOHNSrt.jpg",
+      "season_number": 45,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2016-01-15",
+      "episode_count": 35,
+      "id": 122192,
+      "name": "Season 46",
+      "overview": "Season 46 teaches smarter, stronger, and kinder lessons with fun and familiar themes like bedtime, boo-boos, and animals.",
+      "poster_path": "/1v02OECYy9LuGtdpGnZQXEoLxsc.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-06",
+      "episode_count": 35,
+      "id": 93507,
+      "name": "Season 47",
+      "overview": "Season 47 brings exciting new changes, including a reimagined 'Elmo's World,' a new kindness curriculum, and new Muppet characters.",
+      "poster_path": "/jBvUroOqnRyepvRYlpQCT6kB3IQ.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-17",
+      "episode_count": 35,
+      "id": 117530,
+      "name": "Season 48",
+      "overview": "The word on the street is 'kindness' in Season 48 of this award-winning series that features a new segment: 'Cookie Monster's Foodie Truck.'",
+      "poster_path": "/aVtUiM1KVe2jVmTH2ArllfiZszc.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-16",
+      "episode_count": 35,
+      "id": 117531,
+      "name": "Season 49",
+      "overview": "Season 49 brings exciting new changes to the Street and features a host of A-list celebrity appearances.",
+      "poster_path": "/2qXJqrFn275gmAfLjzxMdSAtiUP.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-15",
+      "episode_count": 35,
+      "id": 134975,
+      "name": "Season 50",
+      "overview": "Season 50 focuses on the power of possibilities, empowering kids to take safe risks and learn from their mistakes.",
+      "poster_path": "/3loFWEPSzl1EqnwxCg8NHlv7DYF.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-11",
+      "episode_count": 35,
+      "id": 168476,
+      "name": "Season 51",
+      "overview": "Season 51 focuses on demonstrating playful problem solving.",
+      "poster_path": "/oIvVYBDGMs7FQcalyzRB42dVXu7.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-10",
+      "episode_count": 35,
+      "id": 218296,
+      "name": "Season 52",
+      "overview": "Join Elmo and the gang as they welcome Tango to the neighborhood, and explore more playful problem-solving with the phrase, “I Wonder…What if…Let’s Try!”",
+      "poster_path": "/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-01",
+      "episode_count": 35,
+      "id": 296182,
+      "name": "Season 53",
+      "overview": "Sharpen your crayons and hide your cookies, because Season 53 of Sesame Street is coming to HBO Max, starting November 3rd! Join your favorite furry friends for more fun, laughs, and lessons devoted to helping children grow up with a healthy self-identity and sense of belonging.",
+      "poster_path": "/imK7EL3YEZ5TNjR1q3m1L08G2GM.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-07",
+      "episode_count": 35,
+      "id": 361234,
+      "name": "Season 54",
+      "overview": "Get ready to sing along and join your favorite furry friends for a brand new season of Sesame Street! Let’s celebrate our diverse world and find joy in connecting and learning about our community. Catch the premiere of Sesame Street on Thursday, November 9th on Max!",
+      "poster_path": "/4LaO0qiaMWHDEqUeKvFDMaaVa7R.jpg",
+      "season_number": 54,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2025-01-14",
+      "episode_count": 35,
+      "id": 438256,
+      "name": "Season 55",
+      "overview": "While sleeping over Elmo's house, Abby learns how to change her bedtime routine to help her calm down before bedtime.",
+      "poster_path": "/q4qhh80OmH0d9EkZVKrklFprQoK.jpg",
+      "season_number": 55,
+      "vote_average": 9.4
+    },
+    {
+      "air_date": "2025-11-09",
+      "episode_count": 13,
+      "id": 457337,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/gE3DIS2vC1t8lelRYNuCfYCaZ95.jpg",
+      "season_number": 56,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Kindness is in the air.",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 288,
+  "external_ids": {
+    "id": 502,
+    "imdb_id": "tt0063951",
+    "freebase_mid": "/m/0cwrr",
+    "freebase_id": "/en/sesame_street",
+    "tvdb_id": 78419,
+    "tvrage_id": null,
+    "wikidata_id": "Q155629",
+    "facebook_id": "SesameStreet",
+    "instagram_id": "sesamestreet",
+    "twitter_id": "sesamestreet"
+  }
+}

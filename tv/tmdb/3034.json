@@ -1,0 +1,714 @@
+{
+  "adult": false,
+  "backdrop_path": "/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1970-11-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.daserste.de/tatort",
+  "id": 3034,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-05-03",
+  "last_episode_to_air": {
+    "id": 7109979,
+    "name": "Kings of the Night",
+    "overview": "During a nighttime pizza delivery in Zurich, bicycle courier Moya Alemu witnesses two masked men transporting a corpse.",
+    "vote_average": 7,
+    "vote_count": 2,
+    "air_date": "2026-05-03",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "1338",
+    "runtime": 90,
+    "season_number": 57,
+    "show_id": 3034,
+    "still_path": "/jyxqWXoiD2PiCMt3tE72Wn0hfel.jpg"
+  },
+  "name": "Scene of the Crime",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 189,
+      "logo_path": "/k1poBlW9HGDnIyZU67BtH3BXQuz.png",
+      "name": "ORF 1",
+      "origin_country": "AT"
+    },
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    },
+    {
+      "id": 571,
+      "logo_path": "/txYJaM2VKunNRk3JooH1mnsVSOg.png",
+      "name": "SRF 1",
+      "origin_country": "CH"
+    },
+    {
+      "id": 2118,
+      "logo_path": "/yMnlNdwOHo3YrqPFXVYgvz3pimN.png",
+      "name": "ORF 2",
+      "origin_country": "AT"
+    }
+  ],
+  "number_of_episodes": 1338,
+  "number_of_seasons": 57,
+  "origin_country": [
+    "AT",
+    "CH",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Tatort",
+  "overview": "Tatort is a long-running German/Austrian/Swiss crime television series set in various parts of these countries. The show is broadcast on the channels of ARD in Germany, ORF in Austria and SF1 in Switzerland.",
+  "popularity": 103.6041,
+  "poster_path": "/yh43TKi9himQWhzrlWBxV8WjsFn.jpg",
+  "production_companies": [
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-10-31",
+      "episode_count": 22,
+      "id": 82135,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/hptePbC4rUOqBXsNZ6ubzsXzBmg.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-11-29",
+      "episode_count": 2,
+      "id": 60378,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6TAYXllilCc5poENxNsfG8AXcDh.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "1971-01-10",
+      "episode_count": 11,
+      "id": 60379,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/gGxLhorzl8vYC1v3sgs8w2XRc5D.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1972-01-09",
+      "episode_count": 11,
+      "id": 60380,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/5ZIxNyUXw1vtSt7ZuzCCkYf4FJH.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "1973-01-07",
+      "episode_count": 11,
+      "id": 60381,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wiij5aPEq1Kpg1Lc6SJG7gyGBCS.jpg",
+      "season_number": 4,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "1974-01-20",
+      "episode_count": 11,
+      "id": 60382,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/25FMMhSTmOPYUcmxLvI6tcerOHn.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1975-01-19",
+      "episode_count": 12,
+      "id": 60383,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/rf1C0uVJdUEoLwtnPQnFlVfNHVD.jpg",
+      "season_number": 6,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1976-01-18",
+      "episode_count": 11,
+      "id": 60385,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/ccifmRRFORZtRc4kXwo346JuzIo.jpg",
+      "season_number": 7,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1977-01-02",
+      "episode_count": 13,
+      "id": 60386,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/tn4UpRCx89OTwY2MEN8X5z40pd.jpg",
+      "season_number": 8,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 12,
+      "id": 60387,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/67HpcAPbrc7GAejkOHry8DN1hDp.jpg",
+      "season_number": 9,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1979-01-14",
+      "episode_count": 13,
+      "id": 60388,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/n9SzQ9Iryk76tWvVFMVKUsKhl7d.jpg",
+      "season_number": 10,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1980-01-13",
+      "episode_count": 12,
+      "id": 60395,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/7gDOet43QV1dYkoWdb0lv6zcnlY.jpg",
+      "season_number": 11,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "1981-01-11",
+      "episode_count": 12,
+      "id": 60396,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/7PZbf3WSHWTfXiRIq5s0E2QVB8a.jpg",
+      "season_number": 12,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1982-01-10",
+      "episode_count": 12,
+      "id": 60401,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/y5Zp2sHsDABHFo3741NqnZvQFEY.jpg",
+      "season_number": 13,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1983-01-09",
+      "episode_count": 9,
+      "id": 60402,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/kFyhfVOSYeIl5EHYXI25EFfst0V.jpg",
+      "season_number": 14,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1984-01-08",
+      "episode_count": 12,
+      "id": 60403,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/CiVRil1FhR9DmLvX2khCek4bch.jpg",
+      "season_number": 15,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1985-01-06",
+      "episode_count": 12,
+      "id": 60406,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/35jNuvpLsVMUMaY9YL15ah8Q92e.jpg",
+      "season_number": 16,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1986-01-26",
+      "episode_count": 12,
+      "id": 60407,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/1DdsIMCdkjf02cEcWzLLCc7g7eX.jpg",
+      "season_number": 17,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1987-01-25",
+      "episode_count": 12,
+      "id": 60408,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/uhmp0ZARifO3wogOJTEwJti7BBL.jpg",
+      "season_number": 18,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1988-01-24",
+      "episode_count": 14,
+      "id": 60419,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/klF33gWdYXitjf0lgwnrlCwwMj.jpg",
+      "season_number": 19,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1989-01-22",
+      "episode_count": 12,
+      "id": 60420,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/geBdJlnyEyymhEJUnmroUdv61lB.jpg",
+      "season_number": 20,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1990-01-21",
+      "episode_count": 11,
+      "id": 60422,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/e8gg686BkrXScdYE0oKXeLVtfH2.jpg",
+      "season_number": 21,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 15,
+      "id": 60424,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/gplmYBTryOhgMVKdCEZ9KQ8ETSp.jpg",
+      "season_number": 22,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1992-01-19",
+      "episode_count": 15,
+      "id": 60426,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/lnI7AMaaXhniXEMnSa8q99voFNo.jpg",
+      "season_number": 23,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1993-01-03",
+      "episode_count": 18,
+      "id": 60431,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/30fuHPssEBxVS0Ah02XLRi8plJo.jpg",
+      "season_number": 24,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1994-01-23",
+      "episode_count": 15,
+      "id": 60435,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/eGNMWiUbCHuqbCLBmDiu0Y17Tm3.jpg",
+      "season_number": 25,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 22,
+      "id": 60439,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/72XhBsTtJA2kS2kAhjBC7HQmS4y.jpg",
+      "season_number": 26,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 27,
+      "id": 60481,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/1CGkrJDpn6PQIfvZoqXsHupYrAn.jpg",
+      "season_number": 27,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1997-01-12",
+      "episode_count": 27,
+      "id": 60486,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/v96aGJl0sqAOjkFRvBSYWj4oT3e.jpg",
+      "season_number": 28,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1998-01-18",
+      "episode_count": 26,
+      "id": 60487,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/q3Qp6OsvjPwf6oVmIRmuuDLLip4.jpg",
+      "season_number": 29,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1999-01-10",
+      "episode_count": 29,
+      "id": 60488,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/Ade3q7VjKrXCx0667SqWROHJnyR.jpg",
+      "season_number": 30,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2000-01-02",
+      "episode_count": 29,
+      "id": 60489,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/tORIFsTpFsMmcCFxf05v6aFOxj5.jpg",
+      "season_number": 31,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2001-01-07",
+      "episode_count": 29,
+      "id": 60490,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/8b31mlSm3hGVeKRX5D0z1DNhyIf.jpg",
+      "season_number": 32,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 31,
+      "id": 60491,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/ls9aNKJEieg9dbHX5y3ukmkwYl5.jpg",
+      "season_number": 33,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2003-01-05",
+      "episode_count": 33,
+      "id": 60492,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/tM0kC3QcwP8n8AEbAfak5mjvzpT.jpg",
+      "season_number": 34,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 30,
+      "id": 60493,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/aV0qLgXFbZ2HNWlHEcbnukLt2yE.jpg",
+      "season_number": 35,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 35,
+      "id": 60494,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/yRLlcqXlEruxybMKAj2J3dTqMp3.jpg",
+      "season_number": 36,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 32,
+      "id": 60495,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/qTaOh8jLTVt4ldjxvPJGt2Lk2Mi.jpg",
+      "season_number": 37,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 35,
+      "id": 60496,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/uZJMpM69uUsPwA35opNpzR3lTuU.jpg",
+      "season_number": 38,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 31,
+      "id": 60497,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/y5l3bNVmwccucgpBiyhqt5uYRcm.jpg",
+      "season_number": 39,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 34,
+      "id": 60498,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/voc7C1pJnKqgyYvSNMzf76eyKLS.jpg",
+      "season_number": 40,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 35,
+      "id": 60499,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/jYRWWrIzXPqqPVvmTGvoihn4SUE.jpg",
+      "season_number": 41,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 36,
+      "id": 60500,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/5INJDC3XAM2V3r6tshnx0lHQ2dd.jpg",
+      "season_number": 42,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 35,
+      "id": 60501,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/zVGTWIfuJV9lBEgrunzAGM5Dy0P.jpg",
+      "season_number": 43,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 36,
+      "id": 60502,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/97a44OYKh95t0rJzaCXissSvKww.jpg",
+      "season_number": 44,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 36,
+      "id": 60503,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/wbc5SR1s5W0g6MXo0FUvuZ1kiDd.jpg",
+      "season_number": 45,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 40,
+      "id": 64214,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/9ijV4mOVa0XfDcpKP0I24yGhPPh.jpg",
+      "season_number": 46,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 37,
+      "id": 73280,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/pkM4RqgmBSaNwPF3VCEaF0CMKd6.jpg",
+      "season_number": 47,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 35,
+      "id": 79651,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/r4rC9YTKvIACcOu04QJBd58vQ6j.jpg",
+      "season_number": 48,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 37,
+      "id": 96683,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/kvSiwvlucrmOaLXHgGiClgZHNDJ.jpg",
+      "season_number": 49,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 37,
+      "id": 114475,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/1PKdc559pZPlDkEQLvRZZsV7UrR.jpg",
+      "season_number": 50,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 36,
+      "id": 138850,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/mx9oteKRBRrVbA8O5W4gCzFQmja.jpg",
+      "season_number": 51,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 33,
+      "id": 174506,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": "/9q1A6nT4avCcaazz9yjUowXiww4.jpg",
+      "season_number": 52,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 36,
+      "id": 237846,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/wdXFj2zJei1hiyKvDKp8SwLlz2d.jpg",
+      "season_number": 53,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 35,
+      "id": 319266,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/sZ4oQcUqyDsnBAGzCvx3q39LTpz.jpg",
+      "season_number": 54,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 32,
+      "id": 366730,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/9bqjfH2WQYWDRH7yDzel0hcElSq.jpg",
+      "season_number": 55,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 36,
+      "id": 430427,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/852efz9KqTeoUHRN8IhKVyqhkWu.jpg",
+      "season_number": 56,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 16,
+      "id": 485811,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/qJhxxeZEQwRzw0sBv4NEjLbPEq0.jpg",
+      "season_number": 57,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.19,
+  "vote_count": 124,
+  "external_ids": {
+    "id": 3034,
+    "imdb_id": "tt0806910",
+    "freebase_mid": "/m/06q5wc",
+    "freebase_id": "/en/tatort",
+    "tvdb_id": 83214,
+    "tvrage_id": 14838,
+    "wikidata_id": "Q689438",
+    "facebook_id": "Tatort",
+    "instagram_id": "tatort",
+    "twitter_id": "Tatort"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "adult": false,
+  "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+  "created_by": [
+    {
+      "id": 946417,
+      "credit_id": "52574b53760ee36aaa13b02c",
+      "name": "Arlene Klasky",
+      "original_name": "Arlene Klasky",
+      "gender": 1,
+      "profile_path": "/ao1l6vGslT9FVDcPaFMFTw1rYsi.jpg"
+    },
+    {
+      "id": 166408,
+      "credit_id": "52574b53760ee36aaa13b032",
+      "name": "Paul Germain",
+      "original_name": "Paul Germain",
+      "gender": 2,
+      "profile_path": "/scyHxr0dnUXi8IUQ6KPuw63HiWd.jpg"
+    },
+    {
+      "id": 36697,
+      "credit_id": "52574b53760ee36aaa13b038",
+      "name": "Gábor Csupó",
+      "original_name": "Gábor Csupó",
+      "gender": 2,
+      "profile_path": "/h78onamy0s7rDWtlbarRVGZqWF.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1991-08-11",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.nick.com/shows/rugrats",
+  "id": 3022,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2004-08-01",
+  "last_episode_to_air": {
+    "id": 230002,
+    "name": "Hurricane Alice",
+    "overview": "Betty's college roommate comes to visit with her daughter Alice during a hurricane named Alice.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2004-08-01",
+    "episode_number": 31,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 9,
+    "show_id": 3022,
+    "still_path": "/y4Iqujp9OAPSWzTiQ2xcnfbu4EY.jpg"
+  },
+  "name": "Rugrats",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 322,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rugrats",
+  "overview": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, usually involving common life experiences that become adventures in the babies' imaginations. Adults in the series are almost always unaware of what the children are up to; however, this only provides more room for the babies to explore and discover their surroundings.",
+  "popularity": 78.2178,
+  "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+  "production_companies": [
+    {
+      "id": 59150,
+      "logo_path": "/r5SBUNdHCnrDUbZ7hA1SFOOKpGB.png",
+      "name": "Klasky-Csupo",
+      "origin_country": "US"
+    },
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 65799,
+      "logo_path": null,
+      "name": "Games Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 10,
+      "id": 9672,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/pFBw1VLSPORaF5Htnc79OK2pgNE.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-08-11",
+      "episode_count": 25,
+      "id": 9671,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/k9swR8qjYvOXmdyHzsflIObnu6F.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1992-09-06",
+      "episode_count": 51,
+      "id": 9663,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dvGLabTkJIrhTOsrkiFPvyMRB8V.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1993-09-26",
+      "episode_count": 50,
+      "id": 9664,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/k7OLjeBBEsHRvFcrDet0hILOd7q.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1997-05-06",
+      "episode_count": 27,
+      "id": 9665,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/86lsnbzsR6Ix50L6Wn4388YgVNt.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1998-05-29",
+      "episode_count": 25,
+      "id": 9666,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/9bF8b1GKw0lpmo2LWuRLnLZ73tT.jpg",
+      "season_number": 5,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1999-01-18",
+      "episode_count": 32,
+      "id": 9668,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/lMXCE4i5sH0vABriW0BxHUfXgeq.jpg",
+      "season_number": 6,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1999-10-02",
+      "episode_count": 18,
+      "id": 9667,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/ysdrcZqFKyon7qXzIKlzPLfGE2c.jpg",
+      "season_number": 7,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2000-02-14",
+      "episode_count": 63,
+      "id": 9669,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/ieFk4eLjVgB7WirCzXDl0sYmPR1.jpg",
+      "season_number": 8,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2002-09-21",
+      "episode_count": 31,
+      "id": 9670,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/z7NOCO1SD32612qPq2OYuHumIx0.jpg",
+      "season_number": 9,
+      "vote_average": 7.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 761,
+  "external_ids": {
+    "id": 3022,
+    "imdb_id": "tt0101188",
+    "freebase_mid": "/m/019g8j",
+    "freebase_id": "/en/rugrats",
+    "tvdb_id": 77038,
+    "tvrage_id": 5068,
+    "wikidata_id": "Q304290",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

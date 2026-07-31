@@ -1,0 +1,429 @@
+{
+  "adult": false,
+  "backdrop_path": "/tHZsAFdtNsKNxE58jopl9Eh4f7a.jpg",
+  "created_by": [
+    {
+      "id": 1215477,
+      "credit_id": "52572971760ee3776a2b1f25",
+      "name": "Barbara Walters",
+      "original_name": "Barbara Walters",
+      "gender": 1,
+      "profile_path": "/vwIGTk5SXSzKaHsTqxe5wTBLLHy.jpg"
+    },
+    {
+      "id": 21054,
+      "credit_id": "52572971760ee3776a2b1f2d",
+      "name": "Bill Geddie",
+      "original_name": "Bill Geddie",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1997-08-11",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.theview.tv/",
+  "id": 2221,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-22",
+  "last_episode_to_air": {
+    "id": 7572790,
+    "name": "Episode 204",
+    "overview": "Actor Anson Mount.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-22",
+    "episode_number": 204,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 29,
+    "show_id": 2221,
+    "still_path": null
+  },
+  "name": "The View",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 5137,
+  "number_of_seasons": 30,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The View",
+  "overview": "ABC Daytime's morning chatfest, currently featuring Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, Alyssa Farah Griffin, and Ana Navarro discussing the most exciting events of the day. Hot topics in the news, the best experts in their field, celebrity interviews and general entertainment are all part of The View.",
+  "popularity": 45.6115,
+  "poster_path": "/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+  "production_companies": [
+    {
+      "id": 111699,
+      "logo_path": null,
+      "name": "Barwall Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 25585,
+      "logo_path": "/eyjGTfjzBlj0nK9JkOtYXh5rOQh.png",
+      "name": "Lincoln Square Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 6837,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bZKmLj1MfJKZ3YXnI0SHL14V1KN.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-08-11",
+      "episode_count": 311,
+      "id": 6833,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uVUqi00mR9YULzoSSSdQQitefvD.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-21",
+      "episode_count": 312,
+      "id": 6834,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8zohVsu7dhPMdvWiH4EUCnvg3HW.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-12-31",
+      "episode_count": 308,
+      "id": 6832,
+      "name": "Season 3",
+      "overview": "For season 3, original panellist Debbie Matenopoulos was replaced by journalist Lisa Ling.",
+      "poster_path": "/qzH3xC2g7ZcjgEQI8wu1uA6Krz7.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-03-12",
+      "episode_count": 200,
+      "id": 6823,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/xEsjZQDE2s6QNhjraeC6wmccnOu.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-02",
+      "episode_count": 150,
+      "id": 6824,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/wr7pncFX492ABVPZgfoq9ED16Fq.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 240,
+      "id": 6825,
+      "name": "Season 6",
+      "overview": "Season 6 saw the departure of Lisa Ling, following three seasons on the show, and the arrival of former \"Survivor\" contestant Elisabeth Hasselbeck.",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2003-09-02",
+      "episode_count": 239,
+      "id": 6826,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 312,
+      "id": 6827,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 167,
+      "id": 6835,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/i8OPDb9GREI0RYQ5iZlnCt7PQCC.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 240,
+      "id": 6831,
+      "name": "Season 10",
+      "overview": "Season 10 saw a significant shake-up at the table, with original panellists Star Jones and Meredith Vieira leaving, and comedian and actress Rosie O'Donnell joining.",
+      "poster_path": "/74pGmqUqHpmsLuvc7vmHz0xK4il.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 259,
+      "id": 6830,
+      "name": "Season 11",
+      "overview": "Following a heated season, Rosie O'Donnell left the show after just one year at the table and was replaced by EGOT-winning actress Whoopi Goldberg and comedian Sherri Shepherd.",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 233,
+      "id": 6828,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/pL7d5KRdkl79aY5eS3f8FL219y.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 120,
+      "id": 6829,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/A0uy3Lnsqlq4BIlTMx5uz3FmRxT.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-07",
+      "episode_count": 34,
+      "id": 6836,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/aGBB4DTyuKKp5wtWmiIROPgTcG4.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 6838,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/2aq0PWnOA9f450XrK0lAzlArN3J.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 6839,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/hfFTds3Pmv5GBaS0Db6nBM4mFnh.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-09",
+      "episode_count": 167,
+      "id": 64098,
+      "name": "Season 17",
+      "overview": "After a long period of stability in the line-up, the network decided to shake things up and season 17 saw the departure of original panellist Joy Behar and veteran panellist Elisabeth Hasselbeck. They were replaced by actress and comedian Jenny McCarthy.",
+      "poster_path": "/wMDgbPvUzjk9IsYSMmVEiA8OxGz.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 4,
+      "id": 110340,
+      "name": "Season 18",
+      "overview": "The last remaining original panellist and show's creator, Barbara Walters left the show after season 17. This lead to the network once again changing things up, with only Whoopi Goldberg remaining from the previous season. Controversial panellist Rosie O'Donnell returned after 7 seasons away, and new additions included comedian Raven-Symoné, political analyst Nicolle Wallace, and actress Rosie Perez.",
+      "poster_path": "/wUJrTN13B3wDBo0ejup22RyQxYc.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 110341,
+      "name": "Season 19",
+      "overview": "Season 19 once again saw major changes at the table, with Rosie O'Donnell, Nicole Wallace, and Rosie Perez all leaving after just a single season on the show. As their replacements, the network brought in comedian Michelle Collins and actress Candace Cameron Bure, as well as bringing back original panellist Joy Behar, following two seasons way. Former ABC News correspondent Paula Faris also joined as a weekly co-host.",
+      "poster_path": "/xGcM2yUFCJJEClOaZvBrt6duHiT.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-06",
+      "episode_count": 167,
+      "id": 84917,
+      "name": "Season 20",
+      "overview": "Season 20 only saw one departure this time, comedian Michelle Collins, however it did see the addition of three new co-hosts: journalist Sara Haines, lawyer Sunny Hostin, and author Jedediah Bila.",
+      "poster_path": "/u55C5wTYiqDs9vtPGNKPI4pN59A.jpg",
+      "season_number": 20,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 22,
+      "id": 107624,
+      "name": "Season 21",
+      "overview": "This start of this season saw the return of the previous season's panel. However, by the end of the show's  2017-2018 run, Jedediah Bila had been replaced by political commentator Meghan McCain following Bila's abrupt exit in September 2017. Similarly, both Sara Haines and Paula Faris announced that this season would be their last, with the former moving on to co-host the network's new third hour of Good Morning America alongside Michael Strahan.",
+      "poster_path": "/qNQM0IkhFyj1dTdpn3Y3Y5tjCx1.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-04",
+      "episode_count": 208,
+      "id": 108825,
+      "name": "Season 22",
+      "overview": "With the departure of Sara Haines, conservative journalist Abby Huntsman joined the table as the new main co-host, while Republican commentator Ana Novarro replaced Paula Faris as the weekly co-host.",
+      "poster_path": "/gCJ27Z6fZeIyx90tNRNplDdFdOv.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-03",
+      "episode_count": 209,
+      "id": 128412,
+      "name": "Season 23",
+      "overview": "The table remained unchanged at the start of Season 23, however during the show that aired on January 13th, Abby Huntsman announced she would be leaving to go help as a senior advisor on her father's Utah gubernatorial campaign. Abby's final show as permanent co-host was the Friday of that same week, January 17th.",
+      "poster_path": "/6ke8Ku46jq9IQy6vkaEnTZukKrO.jpg",
+      "season_number": 23,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2020-09-08",
+      "episode_count": 213,
+      "id": 172486,
+      "name": "Season 24",
+      "overview": "Season 24 saw the return of former co-host Sara Haines.",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2021-09-07",
+      "episode_count": 203,
+      "id": 209603,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2022-09-06",
+      "episode_count": 206,
+      "id": 307511,
+      "name": "Season 26",
+      "overview": "ABC’s “The View” returns to the table with moderator Whoopi Goldberg and co-hosts Joy Behar, Sunny Hostin, Sara Haines and new co-hosts Alyssa Farah Griffin and Ana Navarro.",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2023-09-05",
+      "episode_count": 213,
+      "id": 355340,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-03",
+      "episode_count": 196,
+      "id": 415232,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/pEUNIxCMh2jFjUj7u09f4O5CcR4.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 204,
+      "id": 474881,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/fxbiiFNLdPYrFlV7duZCaYd4Jas.jpg",
+      "season_number": 29,
+      "vote_average": 2.6
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 533269,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.3,
+  "vote_count": 112,
+  "external_ids": {
+    "id": 2221,
+    "imdb_id": "tt0123366",
+    "freebase_mid": "/m/0304nh",
+    "freebase_id": "/en/the_view",
+    "tvdb_id": 72104,
+    "tvrage_id": null,
+    "wikidata_id": "Q1197928",
+    "facebook_id": "TheView",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": "/oAkpvVvoyZWMo9cpNk3aQoVKsjM.jpg",
+  "created_by": [
+    {
+      "id": 1238343,
+      "credit_id": "59905b45c3a36874a302d313",
+      "name": "Gustavo Bolívar",
+      "original_name": "Gustavo Bolívar",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2016-07-19",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/sin-senos-si-hay-paraiso",
+  "id": 67335,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2018-09-07",
+  "last_episode_to_air": {
+    "id": 1566604,
+    "name": "Episode 63",
+    "overview": "Catalina has no idea that her biggest enemy is so close. La Diabla infiltrates the TEA with her new face and a different name.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2018-09-07",
+    "episode_number": 63,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 3,
+    "show_id": 67335,
+    "still_path": "/pBjQGR1VvUgR3qo2bSwtvX33tJJ.jpg"
+  },
+  "name": "Sin senos sí hay paraíso",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 240,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CO",
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "Sin senos sí hay paraíso",
+  "overview": "A young woman born in a mafia-controlled town seeks revenge on those who wrongfully harmed and imprisoned her family.",
+  "popularity": 30.3635,
+  "poster_path": "/7lBJ6lOS0uQqsH13U9iMTikawQS.jpg",
+  "production_companies": [
+    {
+      "id": 6980,
+      "logo_path": "/vl8ZrvkRz9j0U67hGVyIyLK3GjM.png",
+      "name": "Fox Telecolombia",
+      "origin_country": "CO"
+    },
+    {
+      "id": 21123,
+      "logo_path": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-07-19",
+      "episode_count": 90,
+      "id": 79040,
+      "name": "Season 1",
+      "overview": "Born into a small town controlled by the mafia, an irate young woman seeks revenge on the forces that tore apart and wrongfully imprisoned her family.",
+      "poster_path": "/SScKAir65gMZtgCT1zeGrydVH1.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2017-07-20",
+      "episode_count": 87,
+      "id": 90795,
+      "name": "Season 2",
+      "overview": "Someone wronged by Diabla both in the past and present returns to get justice, but also stirs up old feelings that create tensions among the Santanas.",
+      "poster_path": "/guCwu17uoxG6ADCcUmlQx86t16V.jpg",
+      "season_number": 2,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2018-06-12",
+      "episode_count": 63,
+      "id": 105012,
+      "name": "Season 3",
+      "overview": "The beauty contest winner is crowned. The birth of a child threatens Catalina la Pequeña and Hernán Darío's relationship. A vengeful Martín returns.",
+      "poster_path": "/ufKLrkgwj5rfCvi7GIbhyf8U77o.jpg",
+      "season_number": 3,
+      "vote_average": 9.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.569,
+  "vote_count": 2929,
+  "external_ids": {
+    "id": 67335,
+    "imdb_id": "tt5676412",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 314671,
+    "tvrage_id": null,
+    "wikidata_id": "Q24032555",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

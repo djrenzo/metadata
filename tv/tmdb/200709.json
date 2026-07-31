@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+  "created_by": [
+    {
+      "id": 2304866,
+      "credit_id": "6318c5a36f43ec0099ce7736",
+      "name": "Yoo Soo-min",
+      "original_name": "유수민",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1457187,
+      "credit_id": "6326b222761421007a8f61ce",
+      "name": "Han Jun-hee",
+      "original_name": "한준희",
+      "gender": 2,
+      "profile_path": "/m6anJPIzwQoSHv84JOQRWMKADB6.jpg"
+    }
+  ],
+  "episode_run_time": [
+    84
+  ],
+  "first_air_date": "2022-11-18",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81742615",
+  "id": 200709,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-04-25",
+  "last_episode_to_air": {
+    "id": 6089772,
+    "name": "Episode 8",
+    "overview": "Hu-min, Hyun-tak and Eunjang students gather to engage in a final confrontation against Baek-jin's gang. In the end, who will prevail?",
+    "vote_average": 8.923,
+    "vote_count": 13,
+    "air_date": "2025-04-25",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 2,
+    "show_id": 200709,
+    "still_path": "/tDbP4rL8IOyX9Pci28vtxyexcrh.jpg"
+  },
+  "name": "Weak Hero",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 3357,
+      "logo_path": "/13a2E9fbpRtQrQgfb9UCNWZcM2O.png",
+      "name": "wavve",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "약한영웅",
+  "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+  "popularity": 53.9571,
+  "poster_path": "/5Sd01WeraL2oA3Vv6O4rcRxockn.jpg",
+  "production_companies": [
+    {
+      "id": 126931,
+      "logo_path": "/9tzpVbhQGiRP5U8BykqoI7c8a3q.png",
+      "name": "Playlist Studio",
+      "origin_country": "KR"
+    },
+    {
+      "id": 180056,
+      "logo_path": "/pK1lbZk1SrUVp6wbNwUFgYLg6nc.png",
+      "name": "Studio Wavve",
+      "origin_country": "KR"
+    },
+    {
+      "id": 196805,
+      "logo_path": null,
+      "name": "SHOTCAKE",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-11-18",
+      "episode_count": 8,
+      "id": 291503,
+      "name": "Class 1",
+      "overview": "With the aid of unexpected friends, a gifted but introverted student confronts bullies and violent foes — unaware of how dangerous his world will become.",
+      "poster_path": "/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2025-04-25",
+      "episode_count": 8,
+      "id": 447983,
+      "name": "Class 2",
+      "overview": "After losing his friend to violence, model student Yeon Si-eun vows not to repeat history at his new school in a tale of dazzling growth and desperate survival.",
+      "poster_path": "/aW7mGixv2dZdQtbve4deYyfewHH.jpg",
+      "season_number": 2,
+      "vote_average": 8.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Stand to protect it.",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 493,
+  "external_ids": {
+    "id": 200709,
+    "imdb_id": "tt20234568",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 423418,
+    "tvrage_id": null,
+    "wikidata_id": "Q116007300",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

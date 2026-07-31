@@ -1,0 +1,680 @@
+{
+  "adult": false,
+  "backdrop_path": "/qkSTUKxUnllR8M3H3aqDDQysiG0.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2000-03-20",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006nb9z",
+  "id": 1265,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-27",
+  "last_episode_to_air": {
+    "id": 7534166,
+    "name": "Ardingly 24",
+    "overview": "Experts Kate Bliss and Jonathan Pratt skipper two teams of eager antiques hunters at a huge fair in the south of England.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-27",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 74,
+    "show_id": 1265,
+    "still_path": "/kfF3dRkXpTc25J91QokofOFOiKp.jpg"
+  },
+  "name": "Bargain Hunt",
+  "next_episode_to_air": {
+    "id": 7534167,
+    "name": "Malvern 30",
+    "overview": "A battle of bargains takes place in the shadow of the marvellous Malvern Hills in Worcestershire.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 31,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 74,
+    "show_id": 1265,
+    "still_path": "/vTbGjx9yYo9GAIy0BZZ01gusygA.jpg"
+  },
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 1606,
+  "number_of_seasons": 54,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Bargain Hunt",
+  "overview": "Two teams of amateur collectors have an hour at an antiques fair in which to acquire the best bargains possible.",
+  "popularity": 33.6973,
+  "poster_path": "/vhvVEe3JozMWaHjjcs7II3FK9Y3.jpg",
+  "production_companies": [
+    {
+      "id": 80893,
+      "logo_path": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+      "name": "BBC Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 214718,
+      "logo_path": "/3kybnp1s4DAlJw2kLAx9G7l9Bz7.png",
+      "name": "BBC Studios Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 256568,
+      "logo_path": "/iBUFozGDrkTFhML6lqupyRce9Cx.png",
+      "name": "BBC Studios Factual Entertainment Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-11-16",
+      "episode_count": 5,
+      "id": 112827,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-03-20",
+      "episode_count": 1,
+      "id": 309406,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-01",
+      "episode_count": 30,
+      "id": 444964,
+      "name": "Series 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-05-08",
+      "episode_count": 19,
+      "id": 444711,
+      "name": "Series 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-09",
+      "episode_count": 20,
+      "id": 444712,
+      "name": "Series 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-05-07",
+      "episode_count": 23,
+      "id": 444713,
+      "name": "Series 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-11",
+      "episode_count": 25,
+      "id": 444724,
+      "name": "Series 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-21",
+      "episode_count": 24,
+      "id": 444727,
+      "name": "Series 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-19",
+      "episode_count": 24,
+      "id": 444728,
+      "name": "Series 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-08",
+      "episode_count": 32,
+      "id": 444729,
+      "name": "Series 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-26",
+      "episode_count": 31,
+      "id": 444730,
+      "name": "Series 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 32,
+      "id": 444731,
+      "name": "Series 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-05-09",
+      "episode_count": 32,
+      "id": 112836,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-26",
+      "episode_count": 32,
+      "id": 444777,
+      "name": "Series 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 32,
+      "id": 444784,
+      "name": "Series 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-05-28",
+      "episode_count": 32,
+      "id": 444790,
+      "name": "Series 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 32,
+      "id": 444797,
+      "name": "Series 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-08",
+      "episode_count": 32,
+      "id": 444802,
+      "name": "Series 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-07-01",
+      "episode_count": 32,
+      "id": 444805,
+      "name": "Series 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-17",
+      "episode_count": 32,
+      "id": 444808,
+      "name": "Series 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-05-19",
+      "episode_count": 32,
+      "id": 444811,
+      "name": "Series 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-19",
+      "episode_count": 32,
+      "id": 444815,
+      "name": "Series 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-19",
+      "episode_count": 32,
+      "id": 444818,
+      "name": "Series 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-05-11",
+      "episode_count": 31,
+      "id": 444819,
+      "name": "Series 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 32,
+      "id": 112835,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/5JQ6WYajivZM7XYmrvMBmlTU9mO.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-11-18",
+      "episode_count": 32,
+      "id": 112834,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/bjNoKy0fNElvTw5PQWVrp5f0ftj.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-08",
+      "episode_count": 32,
+      "id": 112831,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 32,
+      "id": 112832,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-17",
+      "episode_count": 32,
+      "id": 112830,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-18",
+      "episode_count": 32,
+      "id": 112829,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-14",
+      "episode_count": 36,
+      "id": 112826,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-16",
+      "episode_count": 28,
+      "id": 342893,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-06",
+      "episode_count": 32,
+      "id": 344847,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 32,
+      "id": 344849,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-15",
+      "episode_count": 32,
+      "id": 342908,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-27",
+      "episode_count": 32,
+      "id": 340718,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2020-09-18",
+      "episode_count": 32,
+      "id": 340715,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-01",
+      "episode_count": 32,
+      "id": 340732,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-04",
+      "episode_count": 32,
+      "id": 333845,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-15",
+      "episode_count": 32,
+      "id": 285219,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-19",
+      "episode_count": 32,
+      "id": 285221,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-01",
+      "episode_count": 32,
+      "id": 324781,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-30",
+      "episode_count": 32,
+      "id": 324782,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-14",
+      "episode_count": 34,
+      "id": 324783,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-19",
+      "episode_count": 30,
+      "id": 341795,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-14",
+      "episode_count": 32,
+      "id": 352696,
+      "name": "Season 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-23",
+      "episode_count": 32,
+      "id": 367274,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-04-05",
+      "episode_count": 31,
+      "id": 386893,
+      "name": "Series 68",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-07",
+      "episode_count": 32,
+      "id": 397317,
+      "name": "Series 69",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2024-09-30",
+      "episode_count": 32,
+      "id": 419161,
+      "name": "Series 70",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-07",
+      "episode_count": 33,
+      "id": 449563,
+      "name": "Series 71",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-28",
+      "episode_count": 32,
+      "id": 465826,
+      "name": "Series 72",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-24",
+      "episode_count": 32,
+      "id": 484130,
+      "name": "Series 73",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-04-24",
+      "episode_count": 31,
+      "id": 509953,
+      "name": "Series 74",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-07",
+      "episode_count": 1,
+      "id": 533390,
+      "name": "Series 75",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 75,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.4,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 1265,
+    "imdb_id": "tt0283172",
+    "freebase_mid": "/m/031rm1",
+    "freebase_id": "/en/bargain_hunt",
+    "tvdb_id": 84223,
+    "tvrage_id": 10018,
+    "wikidata_id": "Q2336916",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

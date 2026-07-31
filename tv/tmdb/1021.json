@@ -1,0 +1,599 @@
+{
+  "adult": false,
+  "backdrop_path": "/2dE4H9M1gVs7pZ8xZlHpDjnFVfE.jpg",
+  "created_by": [
+    {
+      "id": 35005,
+      "credit_id": "5254129c19c2957940351f7c",
+      "name": "Jeremy Brock",
+      "original_name": "Jeremy Brock",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1221766,
+      "credit_id": "5254129c19c2957940351f66",
+      "name": "Paul Unwin",
+      "original_name": "Paul Unwin",
+      "gender": 2,
+      "profile_path": "/b8AQLM7nc5Gb1L4KSz0pKw5UGwK.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1986-09-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006m8wd",
+  "id": 1021,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-27",
+  "last_episode_to_air": {
+    "id": 7534188,
+    "name": "Bang Bang",
+    "overview": "Flynn faces a moral dilemma when a patient is held at gunpoint in the ED.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 46,
+    "show_id": 1021,
+    "still_path": "/qVqgAncJScc4aj6tcEzenQXk95a.jpg"
+  },
+  "name": "Casualty",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 1395,
+  "number_of_seasons": 46,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Casualty",
+  "overview": "Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.",
+  "popularity": 45.2869,
+  "poster_path": "/oPPClLJtWzeHMojXsGsV09QOTSB.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 80893,
+      "logo_path": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+      "name": "BBC Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 216944,
+      "logo_path": "/5vrTzX9jnrz7ko3MxOzvzm0mxSP.png",
+      "name": "BBC Studios Drama Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-12-26",
+      "episode_count": 20,
+      "id": 185420,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-06",
+      "episode_count": 15,
+      "id": 60730,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 1,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "1987-09-12",
+      "episode_count": 15,
+      "id": 86987,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-09",
+      "episode_count": 10,
+      "id": 87000,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-08",
+      "episode_count": 12,
+      "id": 87034,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-07",
+      "episode_count": 13,
+      "id": 87037,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-06",
+      "episode_count": 15,
+      "id": 87057,
+      "name": "Series 6",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-12",
+      "episode_count": 24,
+      "id": 87062,
+      "name": "Series 7",
+      "overview": "",
+      "poster_path": "/8gNkESQjcp6RzbGdLOarVCx3xK1.jpg",
+      "season_number": 7,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1993-09-18",
+      "episode_count": 24,
+      "id": 87102,
+      "name": "Series 8",
+      "overview": "",
+      "poster_path": "/OKzotBf0vulNPf6iXKyZSfLX5z.jpg",
+      "season_number": 8,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1994-09-17",
+      "episode_count": 24,
+      "id": 87724,
+      "name": "Series 9",
+      "overview": "",
+      "poster_path": "/OKzotBf0vulNPf6iXKyZSfLX5z.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-16",
+      "episode_count": 24,
+      "id": 91512,
+      "name": "Series 10",
+      "overview": "",
+      "poster_path": "/OKzotBf0vulNPf6iXKyZSfLX5z.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-14",
+      "episode_count": 24,
+      "id": 91526,
+      "name": "Series 11",
+      "overview": "",
+      "poster_path": "/OKzotBf0vulNPf6iXKyZSfLX5z.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-11",
+      "episode_count": 26,
+      "id": 91533,
+      "name": "Series 12",
+      "overview": "",
+      "poster_path": "/2B0rw2Hsh3mOXqXWpjWnAmjZD7W.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-05",
+      "episode_count": 28,
+      "id": 91538,
+      "name": "Series 13",
+      "overview": "",
+      "poster_path": "/2B0rw2Hsh3mOXqXWpjWnAmjZD7W.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-18",
+      "episode_count": 30,
+      "id": 91568,
+      "name": "Series 14",
+      "overview": "",
+      "poster_path": "/2B0rw2Hsh3mOXqXWpjWnAmjZD7W.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-16",
+      "episode_count": 36,
+      "id": 91597,
+      "name": "Series 15",
+      "overview": "",
+      "poster_path": "/9RUy4J0QHS9muOELYUiViTbFZBR.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-15",
+      "episode_count": 40,
+      "id": 91639,
+      "name": "Series 16",
+      "overview": "",
+      "poster_path": "/aYSyD3sIRd9szy1bhJqF3112SXJ.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-14",
+      "episode_count": 40,
+      "id": 91771,
+      "name": "Series 17",
+      "overview": "",
+      "poster_path": "/2CoixonTGj7oru6LoEaARAIrwfj.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-13",
+      "episode_count": 46,
+      "id": 60729,
+      "name": "Series 18",
+      "overview": "",
+      "poster_path": "/2CoixonTGj7oru6LoEaARAIrwfj.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-11",
+      "episode_count": 48,
+      "id": 93000,
+      "name": "Series 19",
+      "overview": "",
+      "poster_path": "/2CoixonTGj7oru6LoEaARAIrwfj.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-10",
+      "episode_count": 47,
+      "id": 67739,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/2CoixonTGj7oru6LoEaARAIrwfj.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-23",
+      "episode_count": 48,
+      "id": 93086,
+      "name": "Series 21",
+      "overview": "",
+      "poster_path": "/A8Dm3ouiYDLJ3H2Vn5Zszr2UHj9.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-08",
+      "episode_count": 48,
+      "id": 91548,
+      "name": "Series 22",
+      "overview": "",
+      "poster_path": "/A8Dm3ouiYDLJ3H2Vn5Zszr2UHj9.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-13",
+      "episode_count": 48,
+      "id": 64484,
+      "name": "Series 23",
+      "overview": "",
+      "poster_path": "/A8Dm3ouiYDLJ3H2Vn5Zszr2UHj9.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-12",
+      "episode_count": 48,
+      "id": 64483,
+      "name": "Series 24",
+      "overview": "",
+      "poster_path": "/A8Dm3ouiYDLJ3H2Vn5Zszr2UHj9.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-04",
+      "episode_count": 47,
+      "id": 64482,
+      "name": "Series 25",
+      "overview": "",
+      "poster_path": "/A8Dm3ouiYDLJ3H2Vn5Zszr2UHj9.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-13",
+      "episode_count": 42,
+      "id": 64448,
+      "name": "Series 26",
+      "overview": "",
+      "poster_path": "/yWQGQa63RnGhMyotR4oA8ZyX4QX.jpg",
+      "season_number": 26,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2012-08-18",
+      "episode_count": 44,
+      "id": 64447,
+      "name": "Series 27",
+      "overview": "",
+      "poster_path": "/yWQGQa63RnGhMyotR4oA8ZyX4QX.jpg",
+      "season_number": 27,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2013-08-03",
+      "episode_count": 48,
+      "id": 63044,
+      "name": "Series 28",
+      "overview": "",
+      "poster_path": "/uZZPBYOkijErxFSNQw6K7F9rexR.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-30",
+      "episode_count": 46,
+      "id": 62983,
+      "name": "Series 29",
+      "overview": "",
+      "poster_path": "/uZZPBYOkijErxFSNQw6K7F9rexR.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-29",
+      "episode_count": 43,
+      "id": 69833,
+      "name": "Series 30",
+      "overview": "",
+      "poster_path": "/uZZPBYOkijErxFSNQw6K7F9rexR.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-27",
+      "episode_count": 44,
+      "id": 79585,
+      "name": "Series 31",
+      "overview": "",
+      "poster_path": "/8b7cDSKJf8g05CwQmsoAT5hFV68.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-19",
+      "episode_count": 44,
+      "id": 94787,
+      "name": "Series 32",
+      "overview": "",
+      "poster_path": "/8b7cDSKJf8g05CwQmsoAT5hFV68.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-11",
+      "episode_count": 46,
+      "id": 134822,
+      "name": "Series 33",
+      "overview": "",
+      "poster_path": "/9RUUibGD9ozqUjDeP3Wmj7Qf2EL.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-17",
+      "episode_count": 43,
+      "id": 134823,
+      "name": "Series 34",
+      "overview": "",
+      "poster_path": "/xori6j1eOdXwD5z213t2o8NMcvu.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-02",
+      "episode_count": 30,
+      "id": 171746,
+      "name": "Series 35",
+      "overview": "",
+      "poster_path": "/9RUUibGD9ozqUjDeP3Wmj7Qf2EL.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-14",
+      "episode_count": 44,
+      "id": 204667,
+      "name": "Series 36",
+      "overview": "",
+      "poster_path": "/9RUUibGD9ozqUjDeP3Wmj7Qf2EL.jpg",
+      "season_number": 36,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2022-08-20",
+      "episode_count": 43,
+      "id": 304325,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/aDFFmhYPl2XigotmNuWI8pgfaD4.jpg",
+      "season_number": 37,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2023-08-25",
+      "episode_count": 6,
+      "id": 353259,
+      "name": "Driving Force",
+      "overview": "",
+      "poster_path": "/xTRp9PadCDPM0gxo8VwiGoxHcCa.jpg",
+      "season_number": 38,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2023-12-30",
+      "episode_count": 12,
+      "id": 368744,
+      "name": "A History of Violence",
+      "overview": "They're fighting to save patients while their personal lives are brimming with drama and intrigue. Everything's at stake on the emergency ward.",
+      "poster_path": "/xY9hcHz2oif71vLWE2GafqgtnxI.jpg",
+      "season_number": 39,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2024-03-23",
+      "episode_count": 12,
+      "id": 383518,
+      "name": "Breaking Point",
+      "overview": "",
+      "poster_path": "/rd2tGVn9zSjDng0qVudkO6GKgmD.jpg",
+      "season_number": 40,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2024-06-15",
+      "episode_count": 12,
+      "id": 397315,
+      "name": "Storm Damage",
+      "overview": "",
+      "poster_path": "/yGdYpWLhDW4leDvdHzda0Ab0tOH.jpg",
+      "season_number": 41,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-12-28",
+      "episode_count": 11,
+      "id": 431842,
+      "name": "Public Property",
+      "overview": "",
+      "poster_path": "/l04ir5N6RaXT0XbhJHX0GwCzZWQ.jpg",
+      "season_number": 42,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2025-03-15",
+      "episode_count": 12,
+      "id": 445345,
+      "name": "Internal Affairs",
+      "overview": "",
+      "poster_path": "/96tq1YMeFzdUmQsmY1N5GbJpja8.jpg",
+      "season_number": 43,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2025-06-14",
+      "episode_count": 12,
+      "id": 459365,
+      "name": "Supply and Demand",
+      "overview": "",
+      "poster_path": "/Acw2xPcCZrehZZp5o6hptDRh7Mq.jpg",
+      "season_number": 44,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2026-01-10",
+      "episode_count": 12,
+      "id": 490237,
+      "name": "Learning Curve",
+      "overview": "",
+      "poster_path": "/offYZBdMU5Vvs1MEjynkxiihycj.jpg",
+      "season_number": 45,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2026-04-25",
+      "episode_count": 12,
+      "id": 511063,
+      "name": "Lethal Legacy",
+      "overview": "As an unexplained virus puts the ED under strain, the army keeps the peace and Flynn faces a long-buried secret.",
+      "poster_path": "/85p5ebqpxbjIDk58sIiGLIhdjEX.jpg",
+      "season_number": 46,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 88,
+  "external_ids": {
+    "id": 1021,
+    "imdb_id": "tt0096555",
+    "freebase_mid": "/m/037m_7",
+    "freebase_id": "/en/casualty",
+    "tvdb_id": 71756,
+    "tvrage_id": 3005,
+    "wikidata_id": "Q2316316",
+    "facebook_id": null,
+    "instagram_id": "bbccasualtyofficial",
+    "twitter_id": null
+  }
+}

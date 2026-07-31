@@ -1,0 +1,635 @@
+{
+  "adult": false,
+  "backdrop_path": "/oniNKYLHR0M5y7i4V1K1FhpCl7G.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    60
+  ],
+  "first_air_date": "2005-01-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.channel4.com/programmes/come-dine-with-me",
+  "id": 2637,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-03-06",
+  "last_episode_to_air": {
+    "id": 6981885,
+    "name": "South Wales - Night 5: Sandra",
+    "overview": "Civil servant Sandra hosts the final night in south Wales. After a week of culinary highs and lows, Sandra's planning a menu that's heavy on cream and mushrooms - a risky move since her guests have made it very clear throughout the week that these two ingredients are not much-loved. With a new twist shaking things up during dessert, it's a dramatic end to a lively week.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-06",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2026,
+    "show_id": 2637,
+    "still_path": null
+  },
+  "name": "Come Dine with Me",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 26,
+      "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+      "name": "Channel 4",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 1444,
+  "number_of_seasons": 51,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Come Dine with Me",
+  "overview": "Amateur chefs compete against each other by hosting a dinner party for the other contestants. Each competitor then rates the host's performance with the winner winning a £1,000 cash prize. An element of comedy is added to the show through comedian Dave Lamb, who provides a dry and \"bitingly sarcastic\" narration.",
+  "popularity": 32.189,
+  "poster_path": "/enFfviWZwnIKn9DhyMa7cXqKx6Q.jpg",
+  "production_companies": [
+    {
+      "id": 6197,
+      "logo_path": "/6LFn6YTFLtqNFkWw85csFErB2dv.png",
+      "name": "LWT",
+      "origin_country": "GB"
+    },
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5778,
+      "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 9,
+      "id": 8521,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-10",
+      "episode_count": 20,
+      "id": 8522,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6ZA7O9xnCa7twGDmPtYLl3YqebW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 45,
+      "id": 8523,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/l9LjXiOwviWLjPAeAM7VhUFjUUA.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-07-24",
+      "episode_count": 70,
+      "id": 8524,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/65DVDnfG7zfWdiA9KwHxavVNBt7.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-12-22",
+      "episode_count": 11,
+      "id": 8525,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/lqfaeGAr9quf9Cnq3pFF5MVpD7J.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-07-01",
+      "episode_count": 20,
+      "id": 8526,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/9yIbetrNa6cCPu3fMXvHp7S94Al.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-12-28",
+      "episode_count": 21,
+      "id": 8527,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/urJrbSaVVTfysF2gyXXvWD4hqyH.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-04-10",
+      "episode_count": 50,
+      "id": 8528,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/sB3wjNjeScxO4cbonU7XOJhy8P9.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-25",
+      "episode_count": 88,
+      "id": 8529,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/5Y6KoiEg5KiRWjgeecWjWoAc6CX.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-11-13",
+      "episode_count": 46,
+      "id": 8530,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 52,
+      "id": 8531,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-03-01",
+      "episode_count": 17,
+      "id": 8535,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/urN8n0q6orXLHfZHTvqIMrRZEcD.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-05-25",
+      "episode_count": 44,
+      "id": 8536,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 23,
+      "id": 8533,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-31",
+      "episode_count": 53,
+      "id": 8532,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-17",
+      "episode_count": 63,
+      "id": 8534,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-12-22",
+      "episode_count": 1,
+      "id": 8537,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-06-09",
+      "episode_count": 0,
+      "id": 8538,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-06-08",
+      "episode_count": 1,
+      "id": 8539,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-05-06",
+      "episode_count": 1,
+      "id": 8540,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-05-23",
+      "episode_count": 16,
+      "id": 8541,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-04",
+      "episode_count": 24,
+      "id": 8542,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-17",
+      "episode_count": 120,
+      "id": 8543,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-29",
+      "episode_count": 1,
+      "id": 8544,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-15",
+      "episode_count": 32,
+      "id": 8545,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-12-12",
+      "episode_count": 210,
+      "id": 8546,
+      "name": "Series 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-24",
+      "episode_count": 49,
+      "id": 8547,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-06",
+      "episode_count": 1,
+      "id": 8548,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-15",
+      "episode_count": 52,
+      "id": 8549,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-22",
+      "episode_count": 40,
+      "id": 8550,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-03-04",
+      "episode_count": 138,
+      "id": 8551,
+      "name": "Series 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-05-19",
+      "episode_count": 1,
+      "id": 443392,
+      "name": "Series 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 8
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 443393,
+      "name": "Series 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 443394,
+      "name": "Series 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 443395,
+      "name": "Series 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 3,
+      "id": 443396,
+      "name": "Series 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 443391,
+      "name": "Series 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 443390,
+      "name": "Series 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 443389,
+      "name": "Series 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 338173,
+      "name": "Series 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 8,
+      "id": 443386,
+      "name": "Series 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 1,
+      "id": 443387,
+      "name": "Series 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-20",
+      "episode_count": 5,
+      "id": 443385,
+      "name": "Series 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 9,
+      "id": 114100,
+      "name": "Series 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-11",
+      "episode_count": 1,
+      "id": 443384,
+      "name": "Series 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-09",
+      "episode_count": 5,
+      "id": 172040,
+      "name": "Series 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-02",
+      "episode_count": 6,
+      "id": 406988,
+      "name": "Series 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-01",
+      "episode_count": 10,
+      "id": 443397,
+      "name": "Series 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-07",
+      "episode_count": 1,
+      "id": 443398,
+      "name": "Series 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-29",
+      "episode_count": 30,
+      "id": 443353,
+      "name": "2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2024,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-27",
+      "episode_count": 40,
+      "id": 439317,
+      "name": "2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2025,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-23",
+      "episode_count": 10,
+      "id": 500920,
+      "name": "2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2026,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.25,
+  "vote_count": 34,
+  "external_ids": {
+    "id": 2637,
+    "imdb_id": "tt0820392",
+    "freebase_mid": "/m/0fy1yr",
+    "freebase_id": "/en/come_dine_with_me",
+    "tvdb_id": 81580,
+    "tvrage_id": 14762,
+    "wikidata_id": "Q819428",
+    "facebook_id": "comedinewithme",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

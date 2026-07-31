@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+  "created_by": [
+    {
+      "id": 1854808,
+      "credit_id": "596fdb90c3a3687162015107",
+      "name": "Eline Le Fur",
+      "original_name": "Eline Le Fur",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1854804,
+      "credit_id": "596fdb7fc3a3686fc700fd61",
+      "name": "Laure de Colbert",
+      "original_name": "Laure de Colbert",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1854807,
+      "credit_id": "596fdb8ac3a3686b5a02143f",
+      "name": "Nicolas Durand-Zouky",
+      "original_name": "Nicolas Durand-Zouky",
+      "gender": 0,
+      "profile_path": "/flEw3T9gD1dVEpNhPLWzGtCEZK1.jpg"
+    },
+    {
+      "id": 1751928,
+      "credit_id": "596fdb97c3a3687fc7026d76",
+      "name": "Fabienne Lesieur",
+      "original_name": "Fabienne Lesieur",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1854803,
+      "credit_id": "596fdb7ac3a3686b5a021428",
+      "name": "Frédéric Chansel",
+      "original_name": "Frédéric Chansel",
+      "gender": 0,
+      "profile_path": "/rMo7kBLrqS9NqdF8j7RBKlTUCxd.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2017-07-17",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/demain-nous-appartient",
+  "id": 72879,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-07-17",
+  "last_episode_to_air": {
+    "id": 7580230,
+    "name": "Episode 239",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 239,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 72879,
+    "still_path": "/eX6mHlNa2r4UQ2GsYxkq70QjOQn.jpg"
+  },
+  "name": "Tomorrow Is Ours",
+  "next_episode_to_air": {
+    "id": 7580232,
+    "name": "Episode 240",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 240,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 72879,
+    "still_path": "/guzyHSMbsN2hNAecN1j1ywzM0Bi.jpg"
+  },
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 2250,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Demain nous appartient",
+  "overview": "The story revolves around the people of Sète, France. Their lives are punctuated by family rivalries, romance and scenes from daily life, but also by plots involving police investigations, secrets and betrayals.",
+  "popularity": 42.0614,
+  "poster_path": "/7BjipkA48xXLauTg45QKiOb144a.jpg",
+  "production_companies": [
+    {
+      "id": 23448,
+      "logo_path": "/rKUrVCN0CkbrsaX3iO6bdx1cHYJ.png",
+      "name": "Telfrance",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-06-10",
+      "episode_count": 2,
+      "id": 127154,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/sG10mLNqedPw5nhmnXSje3ndY7H.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-17",
+      "episode_count": 2020,
+      "id": 90541,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zd4wQCN8rOC8zNd12IU2PLiRACx.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 240,
+      "id": 475463,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/pOebrjxXUqRF5wwhkdL4IjUdZEy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.366,
+  "vote_count": 71,
+  "external_ids": {
+    "id": 72879,
+    "imdb_id": "tt7124904",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 328775,
+    "tvrage_id": null,
+    "wikidata_id": "Q30753456",
+    "facebook_id": "DemainNousAppartient",
+    "instagram_id": "dna_tf1",
+    "twitter_id": "DNA_TF1"
+  }
+}

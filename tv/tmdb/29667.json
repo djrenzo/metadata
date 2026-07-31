@@ -1,0 +1,465 @@
+{
+  "adult": false,
+  "backdrop_path": "/w8oka72o8Zih3LZlXTkq19vpFcQ.jpg",
+  "created_by": [
+    {
+      "id": 1675736,
+      "credit_id": "6136bfadef9d72004357d8e1",
+      "name": "Jules-Édouard Moustic",
+      "original_name": "Jules-Édouard Moustic",
+      "gender": 2,
+      "profile_path": "/79ewKaY6o2wPcZ4pBNQ1rtGTNrm.jpg"
+    },
+    {
+      "id": 71929,
+      "credit_id": "6136bfef1130bd0065daa292",
+      "name": "Benoît Delépine",
+      "original_name": "Benoît Delépine",
+      "gender": 2,
+      "profile_path": "/qDdV9NS4eDCk8Wy3EnM11kZoycz.jpg"
+    },
+    {
+      "id": 1662908,
+      "credit_id": "6136bffa6e0d72008c7d9d89",
+      "name": "Christophe Salengro",
+      "original_name": "Christophe Salengro",
+      "gender": 2,
+      "profile_path": "/nbOMiVVDt2gFbZmUSDpvW6J1WHq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25,
+    5,
+    15
+  ],
+  "first_air_date": "1992-09-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.canalplus.com/theme/emissions/pid1278-groland-le-zapoi.html",
+  "id": 29667,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-06-22",
+  "last_episode_to_air": {
+    "id": 7478810,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-06-22",
+    "episode_number": 32,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 33,
+    "show_id": 29667,
+    "still_path": "/A3flfKiMLOBbPyuNC2e5lT288nW.jpg"
+  },
+  "name": "Groland",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 285,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 721,
+  "number_of_seasons": 33,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Groland",
+  "overview": "Parodic news programme focusing on the fictional country Groland (full name: Presipality of Groland), airing on French television channel Canal+.",
+  "popularity": 29.8523,
+  "poster_path": "/fEchSzCKQghS7DqfmIJhilo9pCE.jpg",
+  "production_companies": [
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 87556,
+      "logo_path": null,
+      "name": "NPA Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-09-05",
+      "episode_count": 2,
+      "id": 209679,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fBbK2PSAz8I6dxU1xUJ3kQAs5IL.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-09",
+      "episode_count": 2,
+      "id": 209680,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bXTrrvd2fP98oJSn9Trm0fFiElJ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-01",
+      "episode_count": 2,
+      "id": 209681,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/98ZpJcUxdEl2WkoFcU7AMLNBOjz.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-01",
+      "episode_count": 2,
+      "id": 209682,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/uUbgvN0dcyuTnd5G28QVCYZxKgv.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-01",
+      "episode_count": 2,
+      "id": 209683,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/jVkzaS320OLcDRjdZ0BUleOtVEn.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 2,
+      "id": 209684,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/n3d5QmbZ0K426u9K2kYGC72eFhg.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-01",
+      "episode_count": 2,
+      "id": 209685,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/ma5vxTaNcsgSiIc9aPI7n0QsPen.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-01",
+      "episode_count": 1,
+      "id": 209686,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/f6wxnezM3H8vsB1f3vI5lNssxhw.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-01",
+      "episode_count": 1,
+      "id": 209687,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/f6wxnezM3H8vsB1f3vI5lNssxhw.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-01",
+      "episode_count": 44,
+      "id": 209688,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/lRpgMJwwjPDAtpqaiRX7MFts71t.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-08",
+      "episode_count": 42,
+      "id": 209689,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/g2HXzBAfTAuWFu1Ef9XATiurVfx.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209690,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/xBfzWyay4554flIE7w4KWWLrdDz.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209691,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/zRWqvSrnDPuVsuxU5A4LF7M2Xec.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209692,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/4NuraA3xJl88HoBljFzOmtRgliP.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209693,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/ca9YuCYQXzO6csNnI55PheQYqCu.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-01",
+      "episode_count": 44,
+      "id": 209694,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/qBU12n8ANN86TpyOy81aV11yPlD.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-06",
+      "episode_count": 43,
+      "id": 209695,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/xdYrqExXteEOgdIg01hiP1XcS7j.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209696,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/oZDJ5DmVg6vVGwvrz3LJPv1HZQH.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-04",
+      "episode_count": 3,
+      "id": 209697,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/drsLIkTclXT5g3H6WaUjimfpCWy.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209698,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/x7XjnFxEjSy1rtRvBHztT56T3Md.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 209699,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/rQfF9Om5n8dBbXmy6gefkhi5Ec.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-07",
+      "episode_count": 37,
+      "id": 209700,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/2l2EQA0MEfcEYdwDpxtclTsjVSu.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-06",
+      "episode_count": 43,
+      "id": 209701,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/ozX7Ba4UDlvD9X7dLrd6asESJVA.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-24",
+      "episode_count": 29,
+      "id": 209702,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/7BgoG9upmCklffFSzr0ybfmrFpG.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-10",
+      "episode_count": 35,
+      "id": 209703,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/mwNJSEcy2IZTZ8OemyH4HOXMrMU.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-09",
+      "episode_count": 31,
+      "id": 209704,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/kYdjzcwvniVaD4gChQRBlsjyvVU.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-08",
+      "episode_count": 31,
+      "id": 209705,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/8fOA0MJfARFf4OxSayldR9XSrEs.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-07",
+      "episode_count": 25,
+      "id": 209706,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/qPKobGgGnGNJsm07PEZZl7nEDfr.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 168,
+      "id": 209707,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/hAuC0AqlExHS78vkULawxFY7BJJ.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-05",
+      "episode_count": 32,
+      "id": 209708,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/97kHNk3HQcmaVK8oAzmBTGl3Oxb.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-17",
+      "episode_count": 34,
+      "id": 314127,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/h1zdGPP934LPCHeow6lt8eiFWn7.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 32,
+      "id": 365021,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 32,
+      "id": 424143,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/awMV5nNdfTmuJxdlSwCc0ykuyAw.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "God save the Président",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 29667,
+    "imdb_id": "tt6063938",
+    "freebase_mid": "/m/07chnx8",
+    "freebase_id": "/en/7_jours_au_groland",
+    "tvdb_id": 257196,
+    "tvrage_id": null,
+    "wikidata_id": "Q3116908",
+    "facebook_id": "groland",
+    "instagram_id": null,
+    "twitter_id": "groland"
+  }
+}

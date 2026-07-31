@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/wNzhjVcigBJx3dATrlEmaoKbRpx.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45,
+    55
+  ],
+  "first_air_date": "2013-08-04",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.zdf.de/show/bares-fuer-rares",
+  "id": 79917,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-07-14",
+  "last_episode_to_air": {
+    "id": 7472633,
+    "name": "Episode 132",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 132,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 17,
+    "show_id": 79917,
+    "still_path": null
+  },
+  "name": "Bares für Rares",
+  "next_episode_to_air": {
+    "id": 7472636,
+    "name": "Episode 133",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 133,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 17,
+    "show_id": 79917,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 2480,
+  "number_of_seasons": 17,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Bares für Rares",
+  "overview": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have received their expertise, they will have the opportunity on site to offer their exhibit to a changing five-person podium for sale and, ideally, to sell it to the highest bidder for „Bares“ (\"cash\").",
+  "popularity": 60.7785,
+  "poster_path": "/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+  "production_companies": [
+    {
+      "id": 109759,
+      "logo_path": "/na8NZKqFc8Ep9qAg8KQUcH1DpQl.png",
+      "name": "Warner Bros. International Television Production Germany",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7608,
+      "logo_path": "/qvRv3bVJMmgFKSImBXNkSPCqxV6.png",
+      "name": "Eyeworks Film",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-06-15",
+      "episode_count": 38,
+      "id": 374260,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/udMFphYMcWhxyA1s35GGb1sTYzN.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-04",
+      "episode_count": 6,
+      "id": 104583,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lKg5Cf4QkYhGxrIcpWamS8FXhhD.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-04",
+      "episode_count": 19,
+      "id": 125866,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bzajryO7Xd0PG20gUPUDiwZ8pTT.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-27",
+      "episode_count": 6,
+      "id": 125869,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/eE2VjmskhVMOxpE1E6FQQGtSAKL.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-18",
+      "episode_count": 51,
+      "id": 362992,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/egQ6ooEjDCYjDJDbWptUZtMl2Qx.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-13",
+      "episode_count": 7,
+      "id": 362993,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/w9nHAR9oRkrRXl1UvvrvyiP4sYT.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-12-28",
+      "episode_count": 106,
+      "id": 362994,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/oWgdh1gCSqSHFKSHUEx6ZPCdCtn.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-29",
+      "episode_count": 208,
+      "id": 362995,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/t5tH1eNpvcSsMvcnXDnZiaB7XgG.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 80,
+      "id": 362996,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/faCH3aO4cu8sPpXw6zgnZK5p7KQ.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 229,
+      "id": 362997,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/gaIj5BIu1QZ9m6EylRjnjN4Tsaz.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 240,
+      "id": 362998,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/8ijILm53O1h2rlLr3m7DpnyVoIf.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 240,
+      "id": 362999,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/pXJi3A0LKf2fXJRiTTxDbkWdMZX.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 231,
+      "id": 369611,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/1bPsmv3nEt4y1K3N9YPQjpzzUey.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 223,
+      "id": 369612,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/xpPkpKBUf3MgmoszB2LI32IUBBm.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 227,
+      "id": 369613,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/f4FX84IWgSxq0jE17MUD3hPhcGW.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 235,
+      "id": 372487,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/sUfAlbodvc4hf2JpPSuwyNZu48q.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 229,
+      "id": 435856,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/jZwKTDqMA1HzzP1KV8sHaLnVRDa.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-02",
+      "episode_count": 143,
+      "id": 518100,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/dXFLxu0c5TQu97zpdaiytFRhPDQ.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.6,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 79917,
+    "imdb_id": "tt3083012",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 79917,
+    "tvrage_id": null,
+    "wikidata_id": "Q17521497",
+    "facebook_id": "BaresfuerRares",
+    "instagram_id": "baresfuerrares",
+    "twitter_id": null
+  }
+}

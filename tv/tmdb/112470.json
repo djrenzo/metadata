@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+  "created_by": [
+    {
+      "id": 2839536,
+      "credit_id": "5f9eff622ceb530039567559",
+      "name": "Othman Mahfoud",
+      "original_name": "Othman Mahfoud",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2503468,
+      "credit_id": "5f9eff57a24232003566abdb",
+      "name": "Eric Fuhrer",
+      "original_name": "Eric Fuhrer",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1773234,
+      "credit_id": "5f9eff357614210036f1f086",
+      "name": "Coline Assous",
+      "original_name": "Coline Assous",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    28
+  ],
+  "first_air_date": "2020-11-02",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/ici-tout-commence",
+  "id": 112470,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-07-03",
+  "last_episode_to_air": {
+    "id": 7580215,
+    "name": "Episode 239",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 239,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 112470,
+    "still_path": "/fZsI7MF7GHoZ3oPjZoJMEbWvoMl.jpg"
+  },
+  "name": "Ici tout commence",
+  "next_episode_to_air": {
+    "id": 7580216,
+    "name": "Episode 240",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 240,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 112470,
+    "still_path": "/jmVU1ooEA73p9MAFWIyH8coWgKt.jpg"
+  },
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 1477,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Ici tout commence",
+  "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+  "popularity": 38.2325,
+  "poster_path": "/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+  "production_companies": [
+    {
+      "id": 23448,
+      "logo_path": "/rKUrVCN0CkbrsaX3iO6bdx1cHYJ.png",
+      "name": "Telfrance",
+      "origin_country": "FR"
+    },
+    {
+      "id": 35953,
+      "logo_path": "/n4OA4cWRIjyGPVz6y7BXydyHSKU.png",
+      "name": "TF1 Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-07",
+      "episode_count": 3,
+      "id": 323679,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/iyuYAhds83IztSDZVTeg87Slzoc.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-02",
+      "episode_count": 1252,
+      "id": 167388,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qNpmpvN875N8jmIFjY9KwWnYQQc.jpg",
+      "season_number": 1,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 240,
+      "id": 475477,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.9,
+  "vote_count": 91,
+  "external_ids": {
+    "id": 112470,
+    "imdb_id": "tt13392064",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 383988,
+    "tvrage_id": null,
+    "wikidata_id": "Q97276119",
+    "facebook_id": null,
+    "instagram_id": "itc_tf1",
+    "twitter_id": "ITC_TF1"
+  }
+}

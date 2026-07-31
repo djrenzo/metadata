@@ -1,0 +1,281 @@
+{
+  "adult": false,
+  "backdrop_path": "/8pnYQMT7TrI7s78PokJPeDHu0Ii.jpg",
+  "created_by": [
+    {
+      "id": 3001237,
+      "credit_id": "60444ad46cf3d5002bc8b985",
+      "name": "Alejandro Guillier",
+      "original_name": "Alejandro Guillier",
+      "gender": 2,
+      "profile_path": "/l1HBDOty1fNZ0sTOSphXLSCOHZZ.jpg"
+    },
+    {
+      "id": 1260902,
+      "credit_id": "65e3963b9ee0ef01856fbb82",
+      "name": "Matías del Rio",
+      "original_name": "Matías del Rio",
+      "gender": 2,
+      "profile_path": "/rY32zTEtclkJGXVPOUh3C1x5Kgn.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1999-08-15",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.cnnchile.com/type/programas-completos/category/tolerancia-cero/",
+  "id": 119260,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-01-07",
+  "last_episode_to_air": {
+    "id": 5063547,
+    "name": "Episode 39",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-01-07",
+    "episode_number": 39,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 22,
+    "show_id": 119260,
+    "still_path": null
+  },
+  "name": "Tolerancia cero",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 805,
+      "logo_path": "/nZAblk9dd36BmwuPoK61Tb2xHTQ.png",
+      "name": "Chilevisión",
+      "origin_country": "CL"
+    },
+    {
+      "id": 4555,
+      "logo_path": "/utJ9qMd41UTxA9c5R7O23XbrHWx.png",
+      "name": "CNN Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 378,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Tolerancia cero",
+  "overview": "Every sunday, the most relevant figures of the political and national contingency.",
+  "popularity": 79.6934,
+  "poster_path": "/sHmHsRtxqx8qmom9x7CSywulVdB.jpg",
+  "production_companies": [
+    {
+      "id": 154651,
+      "logo_path": "/nZAblk9dd36BmwuPoK61Tb2xHTQ.png",
+      "name": "Chilevisión",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-05-14",
+      "episode_count": 4,
+      "id": 196621,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-15",
+      "episode_count": 1,
+      "id": 182601,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-03-12",
+      "episode_count": 1,
+      "id": 197576,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-03-09",
+      "episode_count": 1,
+      "id": 197577,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-03-11",
+      "episode_count": 12,
+      "id": 197572,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-06",
+      "episode_count": 40,
+      "id": 183098,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-03-12",
+      "episode_count": 42,
+      "id": 183076,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-10",
+      "episode_count": 34,
+      "id": 183074,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-03-10",
+      "episode_count": 27,
+      "id": 183072,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-03-08",
+      "episode_count": 36,
+      "id": 182605,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-14",
+      "episode_count": 27,
+      "id": 182606,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-21",
+      "episode_count": 26,
+      "id": 182607,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-22",
+      "episode_count": 22,
+      "id": 182612,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-07",
+      "episode_count": 43,
+      "id": 185651,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-06",
+      "episode_count": 27,
+      "id": 283858,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-05",
+      "episode_count": 39,
+      "id": 334311,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 119260,
+    "imdb_id": "tt7721266",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "tolerancia0"
+  }
+}

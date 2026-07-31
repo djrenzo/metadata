@@ -1,0 +1,331 @@
+{
+  "adult": false,
+  "backdrop_path": "/3hOxwqn1P2AY0d20VVtxN2f3Lfh.jpg",
+  "created_by": [
+    {
+      "id": 1423069,
+      "credit_id": "5bc0fa2992514179c701f373",
+      "name": "Pablo Motos",
+      "original_name": "Pablo Motos",
+      "gender": 2,
+      "profile_path": "/6qOYKmcEm1o7Lf80JBFHqf8FL0t.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2006-09-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.antena3.com/programas/el-hormiguero/",
+  "id": 6809,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-11-27",
+  "last_episode_to_air": {
+    "id": 7416807,
+    "name": "Episode 151",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-16",
+    "episode_number": 151,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 6809,
+    "still_path": null
+  },
+  "name": "El hormiguero",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 378,
+      "logo_path": "/pZtmQfr0z82ODDxZsqGzORZJJux.png",
+      "name": "Cuatro",
+      "origin_country": "ES"
+    },
+    {
+      "id": 400,
+      "logo_path": "/l7MngINTyv0O6mNlwNsUlhQ9iwZ.png",
+      "name": "Antena 3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 1436,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "El hormiguero",
+  "overview": "El Hormiguero is a Spanish television program with a live audience focusing on comedy, science, and politics running since September 2006. It is hosted and produced by screenwriter Pablo Motos. The show aired on Spain's Cuatro channel from launch until June 2011 and is now broadcast on Antena 3. Recurring guests on the show include Luis Piedrahita, Raquel Martos, Marron & \"The Man in Black\", and puppet ants Trancas and Barrancas. It has proved a ratings success, and has expanded from a weekly 120-minute show to a daily 40-minute show in its third season, which began on September 17, 2007. The show won the Entertainment prize at the 2009 Rose d'Or ceremony.",
+  "popularity": 48.5804,
+  "poster_path": "/tT4hXTYXtZVadi6AZ0rhdVgNo2T.jpg",
+  "production_companies": [
+    {
+      "id": 61864,
+      "logo_path": null,
+      "name": "7 y acción",
+      "origin_country": ""
+    },
+    {
+      "id": 150330,
+      "logo_path": null,
+      "name": "Gestmusic Endemol (2006-2007)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-24",
+      "episode_count": 34,
+      "id": 67790,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-17",
+      "episode_count": 12,
+      "id": 69928,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 2,
+      "id": 69929,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 6,
+      "id": 67791,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-26",
+      "episode_count": 3,
+      "id": 69930,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-05",
+      "episode_count": 4,
+      "id": 69931,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 6,
+      "id": 69932,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 2,
+      "id": 69933,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 162,
+      "id": 69934,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 1,
+      "id": 69935,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 5,
+      "id": 110735,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 20,
+      "id": 110736,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 161,
+      "id": 110737,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 162,
+      "id": 131670,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 161,
+      "id": 160760,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-06",
+      "episode_count": 161,
+      "id": 213115,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-05",
+      "episode_count": 161,
+      "id": 299661,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/nYrrAiZ8vzV1je9puLoRJ6BsKh0.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-04",
+      "episode_count": 161,
+      "id": 299662,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/4XkxwTOajd9GA6uM2k3JtETZHgi.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 160,
+      "id": 405703,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/cxBVmn50SQPNreAZ2m47FycodMD.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 53,
+      "id": 472922,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/sbhkAzHzLvdK03czILQPvibZpbZ.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.738,
+  "vote_count": 40,
+  "external_ids": {
+    "id": 6809,
+    "imdb_id": "tt0870872",
+    "freebase_mid": "/m/02zb9w5",
+    "freebase_id": "/en/el_hormiguero",
+    "tvdb_id": 296984,
+    "tvrage_id": null,
+    "wikidata_id": "Q1324265",
+    "facebook_id": "@elhormiguero",
+    "instagram_id": "@elhormiguero",
+    "twitter_id": "@El_Hormiguero"
+  }
+}

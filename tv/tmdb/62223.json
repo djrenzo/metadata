@@ -1,0 +1,211 @@
+{
+  "adult": false,
+  "backdrop_path": "/amtOltTVcK9vQtL1iQS6p3LBi05.jpg",
+  "created_by": [
+    {
+      "id": 136487,
+      "credit_id": "65fc88bc0bc529017cb0df46",
+      "name": "David Letterman",
+      "original_name": "David Letterman",
+      "gender": 2,
+      "profile_path": "/nk1rMabb84e52G2oax6yO9FBiAd.jpg"
+    },
+    {
+      "id": 1217250,
+      "credit_id": "65fc88c17707000163079cf1",
+      "name": "Peter Lassally",
+      "original_name": "Peter Lassally",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2015-03-23",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/late-late-show/",
+  "id": 62223,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-04-27",
+  "last_episode_to_air": {
+    "id": 4399075,
+    "name": "Will Ferrell, Harry Styles",
+    "overview": "James welcomes actor Will Ferrell and singer Harry Styles.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-04-27",
+    "episode_number": 102,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 8,
+    "show_id": 62223,
+    "still_path": null
+  },
+  "name": "The Late Late Show with James Corden",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1198,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Late Late Show with James Corden",
+  "overview": "Once Craig Ferguson retires, James Corden will be taking over The Late Late Show. The show is a late night talk show that interviews celebrities and has its own bits. And of course, it's all hosted by James Corden.",
+  "popularity": 55.2644,
+  "poster_path": "/qPmVoG8G9tc1nN8ZwGV2zYcknit.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 211069,
+      "logo_path": "/lNSXnoZxWcqSFbjI62A7aRGZOPa.png",
+      "name": "Fulwell 73 Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-03-29",
+      "episode_count": 11,
+      "id": 88095,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-23",
+      "episode_count": 164,
+      "id": 65538,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4jflgcZbpbYGeBqkFokZsHLEGeW.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2016-03-28",
+      "episode_count": 207,
+      "id": 73522,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/3TenBKveHTyhuLnVkMzlpzrkwOO.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 146,
+      "id": 95886,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/3TenBKveHTyhuLnVkMzlpzrkwOO.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 146,
+      "id": 95888,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/3TenBKveHTyhuLnVkMzlpzrkwOO.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 136,
+      "id": 137810,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 153,
+      "id": 197767,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-07",
+      "episode_count": 144,
+      "id": 209429,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-06",
+      "episode_count": 102,
+      "id": 309514,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.1,
+  "vote_count": 147,
+  "external_ids": {
+    "id": 62223,
+    "imdb_id": "tt4280606",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 292421,
+    "tvrage_id": 44904,
+    "wikidata_id": "Q18151589",
+    "facebook_id": "latelateshowcbs",
+    "instagram_id": "latelateshow",
+    "twitter_id": "latelateshow"
+  }
+}

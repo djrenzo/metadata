@@ -1,0 +1,201 @@
+{
+  "adult": false,
+  "backdrop_path": "/cUye1OAJ6AsRTlVaJTJXqHyA7dN.jpg",
+  "created_by": [
+    {
+      "id": 1622619,
+      "credit_id": "633f62cd136545007e52591a",
+      "name": "Jon Zimelis",
+      "original_name": "Jon Zimelis",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3258539,
+      "credit_id": "633f62be2f3b17007c78529b",
+      "name": "Jason U. Nadler",
+      "original_name": "Jason U. Nadler",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1622620,
+      "credit_id": "633f62b968afd6008e006ab1",
+      "name": "Alex Blagg",
+      "original_name": "Alex Blagg",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2013-10-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.cc.com/shows/at-midnight-with-chris-hardwick",
+  "id": 61025,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-08-04",
+  "last_episode_to_air": {
+    "id": 4022685,
+    "name": "Series Finale",
+    "overview": "Final Contestants: Weird Al Yankovic, Mary Lynn Rajskub, Marcella Arguello; Jonah Ray, Matt Besser, Mamrie Hart; Grace Helbig, James Davis, Steve Agee Jen Kirkman, Scott Aukerman, Riki Lindhome; Kurt Braunohler, Arden Myrin, Brendon Walsh; Rob Huebel, Paul Scheer, Thomas Lennon Ron Funches, Whitney Cummings, Paul F. Tompkins; April Richardson, Hannah Hart, Rich Fulcher; Wil Wheaton, Morgan Murphy, Emo Philips Matt Mira, Megan Neuringer, Jermaine Fowler; Mike Phirman; Colton Dunn; Brian Posehn",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-08-04",
+    "episode_number": 102,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 61025,
+    "still_path": null
+  },
+  "name": "@midnight with Chris Hardwick",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 600,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "@midnight with Chris Hardwick",
+  "overview": "Chris Hardwick will lead three celebrity contestants down the ultimate internet wormhole. Culling from the darkest recesses of social media, they will compete to determine who has the funniest take on the day's pop culture.",
+  "popularity": 30.6505,
+  "poster_path": "/eVvxhRtJzl8nom2rAFxg60QkaYo.jpg",
+  "production_companies": [
+    {
+      "id": 21213,
+      "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+      "name": "Funny or Die",
+      "origin_country": "US"
+    },
+    {
+      "id": 82360,
+      "logo_path": null,
+      "name": "Garant/Lennon Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 72284,
+      "logo_path": "/krxavrqb6MCr56384PZPy50mNwH.png",
+      "name": "Nerdist",
+      "origin_country": "US"
+    },
+    {
+      "id": 76800,
+      "logo_path": "/tmhsYGt5ADxq7qWWAd3Yc5PmYtg.png",
+      "name": "Serious Business",
+      "origin_country": "US"
+    },
+    {
+      "id": 21199,
+      "logo_path": "/freGVtYt766cJ6HollWKl8RO64a.png",
+      "name": "Brillstein Entertainment Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-10-21",
+      "episode_count": 16,
+      "id": 61842,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cqLcRLyhlo3xtAOA4JMvwVhLGvh.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2014-01-06",
+      "episode_count": 160,
+      "id": 61843,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jUzb3XPjf8qzU4hIypZgah0g1mE.jpg",
+      "season_number": 2,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 161,
+      "id": 175761,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 161,
+      "id": 73525,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 102,
+      "id": 74346,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/iKHrT9ZJ3kj5Erne1eA7hTyx2lz.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.2,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 61025,
+    "imdb_id": "tt3279494",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 274099,
+    "tvrage_id": 38478,
+    "wikidata_id": "Q15863715",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

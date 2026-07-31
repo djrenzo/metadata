@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2745941,
+      "credit_id": "60930ad6a06efe005997eba6",
+      "name": "Nicolás Quesille",
+      "original_name": "Nicolás Quesille",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2007-01-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.peloton.cl",
+  "id": 31472,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2010-12-21",
+  "last_episode_to_air": {
+    "id": 4802177,
+    "name": "Episode 53",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-12-21",
+    "episode_number": 53,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 70,
+    "season_number": 5,
+    "show_id": 31472,
+    "still_path": null
+  },
+  "name": "Pelotón",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 458,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Pelotón",
+  "overview": "Pelotón is a Chilean reality show on National Television of Chile in which the participants undergo an intense regime of military training. The winner receives 50 million pesos. The first season aired January 2 — May 5, 2007, and the second season ran from October 2, 2007 to March 11, 2008. The third season were premiere in July 2009 and the contestants were Chilean celebrities. The third and 4th season were shooting back to back, and like last season the majority of participants were celebrities.",
+  "popularity": 74.1924,
+  "poster_path": "/2rTGn2CBavgioMVorVdZHgmdA2n.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 89,
+      "id": 193694,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-02",
+      "episode_count": 113,
+      "id": 193695,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-29",
+      "episode_count": 113,
+      "id": 193696,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-29",
+      "episode_count": 90,
+      "id": 193697,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 53,
+      "id": 193698,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 31472,
+    "imdb_id": "tt2084564",
+    "freebase_mid": "/m/09gmqkt",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

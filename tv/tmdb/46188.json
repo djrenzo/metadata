@@ -1,0 +1,358 @@
+{
+  "adult": false,
+  "backdrop_path": "/miVfaepSfWV9uIbPEnC3EvExVSn.jpg",
+  "created_by": [
+    {
+      "id": 3714334,
+      "credit_id": "632f6f53fcec2e007cb6b1e0",
+      "name": "Françoise Coquet",
+      "original_name": "Françoise Coquet",
+      "gender": 1,
+      "profile_path": "/8QTIppNYsimcC4upWy6TZdhS0fA.jpg"
+    },
+    {
+      "id": 1351945,
+      "credit_id": "632f6f5e39a1a600800530a5",
+      "name": "Michel Drucker",
+      "original_name": "Michel Drucker",
+      "gender": 2,
+      "profile_path": "/jTTvzGnTeG3zynsxLO9asKuxCVd.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1998-09-20",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-3/vivement-dimanche/",
+  "id": 46188,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2025-12-28",
+  "last_episode_to_air": {
+    "id": 6875146,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2025-12-28",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 115,
+    "season_number": 28,
+    "show_id": 46188,
+    "still_path": null
+  },
+  "name": "Vivement dimanche",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2922,
+      "logo_path": "/b6KDy3HbsO4RpnDPtHDSfsRq90c.png",
+      "name": "TV5Monde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 786,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Vivement dimanche",
+  "overview": "",
+  "popularity": 33.9886,
+  "poster_path": "/nRrrsDkH1kYgjvTpirkwMqZFjc5.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-09-20",
+      "episode_count": 13,
+      "id": 163522,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-03",
+      "episode_count": 38,
+      "id": 163523,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-02",
+      "episode_count": 40,
+      "id": 163524,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-07",
+      "episode_count": 38,
+      "id": 163525,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 39,
+      "id": 163527,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-05",
+      "episode_count": 39,
+      "id": 163528,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 38,
+      "id": 163529,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-09",
+      "episode_count": 38,
+      "id": 163530,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 39,
+      "id": 163531,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-07",
+      "episode_count": 38,
+      "id": 163532,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 37,
+      "id": 163533,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 39,
+      "id": 163534,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 37,
+      "id": 163535,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 38,
+      "id": 163536,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 38,
+      "id": 163537,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 39,
+      "id": 163538,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 37,
+      "id": 163539,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 39,
+      "id": 163540,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 20,
+      "id": 163541,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-26",
+      "episode_count": 19,
+      "id": 163808,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 38,
+      "id": 163809,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 17,
+      "id": 163810,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-15",
+      "episode_count": 2,
+      "id": 419454,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-05",
+      "episode_count": 26,
+      "id": 496543,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 3.625,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 46188,
+    "imdb_id": "tt0461733",
+    "freebase_mid": "/m/0ngnxm4",
+    "freebase_id": null,
+    "tvdb_id": 335838,
+    "tvrage_id": null,
+    "wikidata_id": "Q3561523",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

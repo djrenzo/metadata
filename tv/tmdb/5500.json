@@ -1,0 +1,570 @@
+{
+  "adult": false,
+  "backdrop_path": "/kdBkbMykQBG6oeSpJQ2nttCuvmS.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1978-01-02",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.zdf.de/serien/soko-muenchen",
+  "id": 5500,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2020-12-29",
+  "last_episode_to_air": {
+    "id": 4239227,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-12-29",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 46,
+    "show_id": 5500,
+    "still_path": null
+  },
+  "name": "SOKO München",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 676,
+  "number_of_seasons": 46,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "SOKO München",
+  "overview": "SOKO 5113 is a long-running German police procedural television series. It was first aired in 1978 on 2 January. SOKO is an abbreviation of the term \"Sonderkommission\" in German.",
+  "popularity": 41.0088,
+  "poster_path": "/hXWVu2OyKMnfrurvCRUY1TpzOjx.jpg",
+  "production_companies": [
+    {
+      "id": 18692,
+      "logo_path": "/nZNzWVy6Da5r7WCuV8Mocwj2Ebe.png",
+      "name": "UFA Fernsehproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 24307,
+      "logo_path": "/xJo66MG6C99FeO81ddXVswjEmSB.png",
+      "name": "UFA Fiction",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1978-01-02",
+      "episode_count": 19,
+      "id": 60740,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-10-27",
+      "episode_count": 13,
+      "id": 65733,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-31",
+      "episode_count": 6,
+      "id": 65734,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-10-15",
+      "episode_count": 10,
+      "id": 65735,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-03-10",
+      "episode_count": 12,
+      "id": 65737,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-05",
+      "episode_count": 14,
+      "id": 65738,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-03",
+      "episode_count": 11,
+      "id": 65739,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-02",
+      "episode_count": 13,
+      "id": 65740,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-22",
+      "episode_count": 15,
+      "id": 65741,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-10",
+      "episode_count": 15,
+      "id": 65742,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-10-28",
+      "episode_count": 15,
+      "id": 65743,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-04-24",
+      "episode_count": 9,
+      "id": 65744,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-16",
+      "episode_count": 11,
+      "id": 65745,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-11-15",
+      "episode_count": 19,
+      "id": 65746,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-07",
+      "episode_count": 12,
+      "id": 65747,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-06",
+      "episode_count": 16,
+      "id": 65748,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 8,
+      "id": 65749,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-02",
+      "episode_count": 17,
+      "id": 65750,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-06",
+      "episode_count": 12,
+      "id": 65751,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-19",
+      "episode_count": 11,
+      "id": 65752,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-04-10",
+      "episode_count": 7,
+      "id": 65753,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-08",
+      "episode_count": 9,
+      "id": 65754,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-12-27",
+      "episode_count": 12,
+      "id": 65755,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-23",
+      "episode_count": 13,
+      "id": 65756,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-02",
+      "episode_count": 8,
+      "id": 65757,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-21",
+      "episode_count": 12,
+      "id": 65758,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-01",
+      "episode_count": 9,
+      "id": 65759,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-07-06",
+      "episode_count": 5,
+      "id": 65760,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-12-30",
+      "episode_count": 13,
+      "id": 65761,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-02",
+      "episode_count": 12,
+      "id": 65762,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-05",
+      "episode_count": 9,
+      "id": 65763,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-15",
+      "episode_count": 13,
+      "id": 65764,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-28",
+      "episode_count": 13,
+      "id": 65765,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-27",
+      "episode_count": 20,
+      "id": 65766,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-19",
+      "episode_count": 20,
+      "id": 65767,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-25",
+      "episode_count": 21,
+      "id": 65768,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-03",
+      "episode_count": 22,
+      "id": 65769,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-01",
+      "episode_count": 24,
+      "id": 65770,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-30",
+      "episode_count": 25,
+      "id": 65771,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-20",
+      "episode_count": 23,
+      "id": 65772,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-05",
+      "episode_count": 25,
+      "id": 74432,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-03",
+      "episode_count": 26,
+      "id": 88298,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 27,
+      "id": 108177,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-05",
+      "episode_count": 22,
+      "id": 124488,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-01",
+      "episode_count": 13,
+      "id": 161910,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-21",
+      "episode_count": 15,
+      "id": 161911,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 5500,
+    "imdb_id": "tt0077076",
+    "freebase_mid": "/m/047s933",
+    "freebase_id": "/en/soko_5113",
+    "tvdb_id": 149411,
+    "tvrage_id": 11240,
+    "wikidata_id": "Q127559",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

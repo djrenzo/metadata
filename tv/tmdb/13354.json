@@ -1,0 +1,592 @@
+{
+  "adult": false,
+  "backdrop_path": "/5EZwuwszeei0vDQzdxWTCWKQKtq.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1979-09-25",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006t1q9",
+  "id": 13354,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-14",
+  "last_episode_to_air": {
+    "id": 7604203,
+    "name": "Kettering - Special",
+    "overview": "Fiona Bruce presents a special programme from Kettering in the wake of Sir Keir Starmer announcing his resignation as leader of the Labour Party and prime minister.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-26",
+    "episode_number": 32,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 48,
+    "show_id": 13354,
+    "still_path": null
+  },
+  "name": "Question Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 1675,
+  "number_of_seasons": 48,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Question Time",
+  "overview": "This topical debate series based on Any Questions? typically features politicians from at least the three major political parties as well as other public figures who answer pre-selected questions put to them by a carefully selected audience.",
+  "popularity": 27.8526,
+  "poster_path": "/nLGgjwQNnCKuDdJMDmp02pxB0u9.jpg",
+  "production_companies": [
+    {
+      "id": 59143,
+      "logo_path": "/8A78H5sMVZZtEBlHyB6IJjqnLLT.png",
+      "name": "Mentorn Media",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-08",
+      "episode_count": 1,
+      "id": 78281,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-09-25",
+      "episode_count": 13,
+      "id": 78353,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-15",
+      "episode_count": 32,
+      "id": 78400,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-15",
+      "episode_count": 32,
+      "id": 134310,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-14",
+      "episode_count": 31,
+      "id": 134311,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-13",
+      "episode_count": 32,
+      "id": 134312,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-12",
+      "episode_count": 35,
+      "id": 134313,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-10",
+      "episode_count": 29,
+      "id": 134314,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-09",
+      "episode_count": 35,
+      "id": 134315,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-15",
+      "episode_count": 33,
+      "id": 134316,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-07",
+      "episode_count": 35,
+      "id": 134317,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-12",
+      "episode_count": 37,
+      "id": 134302,
+      "name": "Season 11",
+      "overview": "This was the last series original presenter Robin Day chaired the debating programme, with journalist and broadcaster Peter Sissons taking over when the programme returned after its summer break.",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-18",
+      "episode_count": 34,
+      "id": 134318,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-10",
+      "episode_count": 34,
+      "id": 134319,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-23",
+      "episode_count": 33,
+      "id": 134320,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-14",
+      "episode_count": 34,
+      "id": 134321,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-13",
+      "episode_count": 35,
+      "id": 134303,
+      "name": "Season 16",
+      "overview": "When Question Time returned in January 1994, David Dimbleby took over chairing duties from Peter Sissons.",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-12",
+      "episode_count": 32,
+      "id": 134322,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-11",
+      "episode_count": 33,
+      "id": 134323,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-23",
+      "episode_count": 33,
+      "id": 134324,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-15",
+      "episode_count": 33,
+      "id": 134325,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-14",
+      "episode_count": 37,
+      "id": 134327,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-13",
+      "episode_count": 36,
+      "id": 134328,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-11",
+      "episode_count": 37,
+      "id": 134329,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-10",
+      "episode_count": 37,
+      "id": 134330,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-09",
+      "episode_count": 35,
+      "id": 134331,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-08",
+      "episode_count": 36,
+      "id": 134332,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-06",
+      "episode_count": 36,
+      "id": 134333,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-12",
+      "episode_count": 36,
+      "id": 134334,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-11",
+      "episode_count": 37,
+      "id": 134335,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-17",
+      "episode_count": 36,
+      "id": 134291,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-15",
+      "episode_count": 37,
+      "id": 134290,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-14",
+      "episode_count": 40,
+      "id": 134289,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-13",
+      "episode_count": 39,
+      "id": 134288,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-12",
+      "episode_count": 36,
+      "id": 134287,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-10",
+      "episode_count": 38,
+      "id": 134286,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-09",
+      "episode_count": 36,
+      "id": 124127,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-08",
+      "episode_count": 41,
+      "id": 124062,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-14",
+      "episode_count": 39,
+      "id": 78352,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-12",
+      "episode_count": 43,
+      "id": 123545,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-11",
+      "episode_count": 39,
+      "id": 123487,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-10",
+      "episode_count": 42,
+      "id": 115978,
+      "name": "Season 41",
+      "overview": "The 2019 series saw Fiona Bruce take over moderating duties from long-serving former presenter David Dimbleby.",
+      "poster_path": "/dbZklFzDVg9jFfKCR63INp26U8W.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-09",
+      "episode_count": 37,
+      "id": 138123,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-06",
+      "episode_count": 39,
+      "id": 171732,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-13",
+      "episode_count": 37,
+      "id": 236270,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-12",
+      "episode_count": 37,
+      "id": 320331,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-11",
+      "episode_count": 26,
+      "id": 369885,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-19",
+      "episode_count": 33,
+      "id": 421643,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-18",
+      "episode_count": 32,
+      "id": 476850,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.9,
+  "vote_count": 15,
+  "external_ids": {
+    "id": 13354,
+    "imdb_id": "tt0267212",
+    "freebase_mid": "/m/03hh37",
+    "freebase_id": null,
+    "tvdb_id": 248469,
+    "tvrage_id": 10092,
+    "wikidata_id": "Q2581397",
+    "facebook_id": "bbcquestiontime",
+    "instagram_id": "bbcquestiontime",
+    "twitter_id": "bbcquestiontime"
+  }
+}

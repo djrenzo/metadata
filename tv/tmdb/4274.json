@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/vLCIWnDNPC9bWDN7cAEMvTdqe1j.jpg",
+  "created_by": [
+    {
+      "id": 577471,
+      "credit_id": "6593f98bce4ddc6f2b7d75c3",
+      "name": "Carl Urbano",
+      "original_name": "Carl Urbano",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 138174,
+      "credit_id": "6593f968e62719506c4dd45a",
+      "name": "Don Lusk",
+      "original_name": "Don Lusk",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 452840,
+      "credit_id": "6593f99bfc31d370ec47007c",
+      "name": "Paul Sommer",
+      "original_name": "Paul Sommer",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "1990-09-08",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 4274,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1993-12-04",
+  "last_episode_to_air": {
+    "id": 292174,
+    "name": "Space Chase",
+    "overview": "A scientist sends Tom and Jerry into space to determine if natural enemies can peacefully coexist.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1993-12-04",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 4,
+    "show_id": 4274,
+    "still_path": null
+  },
+  "name": "Tom & Jerry Kids Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    },
+    {
+      "id": 2686,
+      "logo_path": "/rUb71E91POVCxpXGJ49pf6m8Ukk.png",
+      "name": "Fox Kids",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 195,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Tom & Jerry Kids Show",
+  "overview": "Tom and Jerry in their childhood days, playing cat-and-mouse games even then.",
+  "popularity": 30.4984,
+  "poster_path": "/pApniCXhegDnhxQda7RcpG8gFP0.jpg",
+  "production_companies": [
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    },
+    {
+      "id": 8922,
+      "logo_path": "/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png",
+      "name": "Turner Entertainment Co.",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1990-09-08",
+      "episode_count": 39,
+      "id": 12569,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fH8c4lamJ8mdMXhBlGO2ZeGo6eg.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-14",
+      "episode_count": 39,
+      "id": 12571,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/zOk6u8Q2CFp00LCLSrdhd01KjHF.jpg",
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1992-09-12",
+      "episode_count": 78,
+      "id": 12572,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/eZnD0Y39bhMDsO34IzJCV6HOIw5.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-11",
+      "episode_count": 39,
+      "id": 12570,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/4uxEXuVNMYZthHLore4WV8JMWhC.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.431,
+  "vote_count": 131,
+  "external_ids": {
+    "id": 4274,
+    "imdb_id": "tt0198254",
+    "freebase_mid": "/m/05nl_d",
+    "freebase_id": "/en/tom_and_jerry_kids_show",
+    "tvdb_id": 77973,
+    "tvrage_id": null,
+    "wikidata_id": "Q248972",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

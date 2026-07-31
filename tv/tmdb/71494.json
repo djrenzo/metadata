@@ -1,0 +1,944 @@
+{
+  "adult": false,
+  "backdrop_path": "/jiSlSDL0PZsd3DeW9832lk7eBsE.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1944-01-20",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.goldenglobes.com",
+  "id": 71494,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-01-11",
+  "last_episode_to_air": {
+    "id": 6170146,
+    "name": "The 83rd Annual Golden Globes",
+    "overview": "The 83rd Golden Globe Awards is the largest awards show in the world honoring outstanding achievements in both film and television. Comedic powerhouse Nikki Glaser returns as this year's host.",
+    "vote_average": 7.3,
+    "vote_count": 3,
+    "air_date": "2026-01-11",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 147,
+    "season_number": 82,
+    "show_id": 71494,
+    "still_path": "/sCRbil214bXyBr7SiOwz14dLnBi.jpg"
+  },
+  "name": "Golden Globe Awards",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 82,
+  "number_of_seasons": 82,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Golden Globe Awards",
+  "overview": "An annual awards ceremony recognizing excellence in film and television, both domestic and foreign, bestowed by the Hollywood Foreign Press Association.",
+  "popularity": 43.686,
+  "poster_path": "/gYG3SHNKui9ps9RfN4u9MMwpy10.jpg",
+  "production_companies": [
+    {
+      "id": 3734,
+      "logo_path": "/fDdEQKYsS3s9xGl50dzADAnetZ7.png",
+      "name": "Dick Clark Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 256160,
+      "logo_path": "/55c3Xmw1chMb8FcnkajhSTi0hgi.png",
+      "name": "Penske Media Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 256161,
+      "logo_path": "/vBgYUy4waVmfs4RTWXhln1DRI0p.png",
+      "name": "Eldridge Industries",
+      "origin_country": "US"
+    },
+    {
+      "id": 256162,
+      "logo_path": "/g6IYxWBq3JBxes0P4pZ3cJzPmyB.png",
+      "name": "Hollywood Foreign Press Association",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1944-01-20",
+      "episode_count": 1,
+      "id": 87899,
+      "name": "The 1st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1945-01-01",
+      "episode_count": 1,
+      "id": 115726,
+      "name": "The 2nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1946-03-30",
+      "episode_count": 1,
+      "id": 115727,
+      "name": "The 3rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1947-02-26",
+      "episode_count": 1,
+      "id": 115728,
+      "name": "The 4th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1948-03-10",
+      "episode_count": 1,
+      "id": 115729,
+      "name": "The 5th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1949-03-16",
+      "episode_count": 1,
+      "id": 115730,
+      "name": "The 6th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1950-02-23",
+      "episode_count": 1,
+      "id": 115731,
+      "name": "The 7th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1951-02-28",
+      "episode_count": 1,
+      "id": 115732,
+      "name": "The 8th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1952-02-21",
+      "episode_count": 1,
+      "id": 115733,
+      "name": "The 9th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1953-02-26",
+      "episode_count": 1,
+      "id": 115734,
+      "name": "The 10th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-02-22",
+      "episode_count": 1,
+      "id": 115735,
+      "name": "The 11th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-02-24",
+      "episode_count": 1,
+      "id": 115736,
+      "name": "The 12th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-02-23",
+      "episode_count": 1,
+      "id": 115737,
+      "name": "The 13th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-02-28",
+      "episode_count": 1,
+      "id": 115738,
+      "name": "The 14th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-02-22",
+      "episode_count": 1,
+      "id": 115739,
+      "name": "The 15th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-03-05",
+      "episode_count": 1,
+      "id": 115740,
+      "name": "The 16th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-03-10",
+      "episode_count": 1,
+      "id": 115741,
+      "name": "The 17th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-03-16",
+      "episode_count": 1,
+      "id": 115742,
+      "name": "The 18th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-03-05",
+      "episode_count": 1,
+      "id": 115743,
+      "name": "The 19th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-03-05",
+      "episode_count": 1,
+      "id": 115744,
+      "name": "The 20th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-03-11",
+      "episode_count": 1,
+      "id": 115751,
+      "name": "The 21st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-02-08",
+      "episode_count": 1,
+      "id": 115752,
+      "name": "The 22nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-02-28",
+      "episode_count": 1,
+      "id": 115753,
+      "name": "The 23rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-02-15",
+      "episode_count": 1,
+      "id": 115754,
+      "name": "The 24th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-02-12",
+      "episode_count": 1,
+      "id": 115755,
+      "name": "The 25th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-02-24",
+      "episode_count": 1,
+      "id": 115756,
+      "name": "The 26th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-02-02",
+      "episode_count": 1,
+      "id": 115757,
+      "name": "The 27th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-02-05",
+      "episode_count": 1,
+      "id": 115758,
+      "name": "The 28th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-02-06",
+      "episode_count": 1,
+      "id": 115759,
+      "name": "The 29th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-28",
+      "episode_count": 1,
+      "id": 115760,
+      "name": "The 30th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-26",
+      "episode_count": 1,
+      "id": 115762,
+      "name": "The 31st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-25",
+      "episode_count": 1,
+      "id": 115763,
+      "name": "The 32nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-24",
+      "episode_count": 1,
+      "id": 115764,
+      "name": "The 33rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-29",
+      "episode_count": 1,
+      "id": 115765,
+      "name": "The 34th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-28",
+      "episode_count": 1,
+      "id": 115766,
+      "name": "The 35th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-27",
+      "episode_count": 1,
+      "id": 115767,
+      "name": "The 36th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-26",
+      "episode_count": 1,
+      "id": 115768,
+      "name": "The 37th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-31",
+      "episode_count": 1,
+      "id": 115769,
+      "name": "The 38th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-30",
+      "episode_count": 1,
+      "id": 115770,
+      "name": "The 39th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-29",
+      "episode_count": 1,
+      "id": 115771,
+      "name": "The 40th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-28",
+      "episode_count": 1,
+      "id": 115772,
+      "name": "The 41st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-27",
+      "episode_count": 1,
+      "id": 115773,
+      "name": "The 42nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-24",
+      "episode_count": 1,
+      "id": 115774,
+      "name": "The 43rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-31",
+      "episode_count": 1,
+      "id": 115775,
+      "name": "The 44th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-23",
+      "episode_count": 1,
+      "id": 115776,
+      "name": "The 45th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-28",
+      "episode_count": 1,
+      "id": 115777,
+      "name": "The 46th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-20",
+      "episode_count": 1,
+      "id": 115778,
+      "name": "The 47th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-19",
+      "episode_count": 1,
+      "id": 115779,
+      "name": "The 48th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-18",
+      "episode_count": 1,
+      "id": 115780,
+      "name": "The 49th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-24",
+      "episode_count": 1,
+      "id": 115781,
+      "name": "The 50th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-22",
+      "episode_count": 1,
+      "id": 115782,
+      "name": "The 51st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-21",
+      "episode_count": 1,
+      "id": 115783,
+      "name": "The 52nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-21",
+      "episode_count": 1,
+      "id": 115784,
+      "name": "The 53rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-19",
+      "episode_count": 1,
+      "id": 115785,
+      "name": "The 54th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-18",
+      "episode_count": 1,
+      "id": 115786,
+      "name": "The 55th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-24",
+      "episode_count": 1,
+      "id": 115787,
+      "name": "The 56th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-23",
+      "episode_count": 1,
+      "id": 115788,
+      "name": "The 57th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-21",
+      "episode_count": 1,
+      "id": 115789,
+      "name": "The 58th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-20",
+      "episode_count": 1,
+      "id": 115790,
+      "name": "The 59th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-19",
+      "episode_count": 1,
+      "id": 115791,
+      "name": "The 60th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-24",
+      "episode_count": 1,
+      "id": 115792,
+      "name": "The 61st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-16",
+      "episode_count": 1,
+      "id": 115793,
+      "name": "The 62nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-16",
+      "episode_count": 1,
+      "id": 115794,
+      "name": "The 63rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-15",
+      "episode_count": 1,
+      "id": 115795,
+      "name": "The 64th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-13",
+      "episode_count": 1,
+      "id": 115796,
+      "name": "The 65th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-11",
+      "episode_count": 1,
+      "id": 115797,
+      "name": "The 66th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-17",
+      "episode_count": 1,
+      "id": 115798,
+      "name": "The 67th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-16",
+      "episode_count": 1,
+      "id": 115799,
+      "name": "The 68th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-15",
+      "episode_count": 1,
+      "id": 115800,
+      "name": "The 69th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-13",
+      "episode_count": 1,
+      "id": 115801,
+      "name": "The 70th Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-12",
+      "episode_count": 1,
+      "id": 115802,
+      "name": "The 71st Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-11",
+      "episode_count": 1,
+      "id": 115803,
+      "name": "The 72nd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-10",
+      "episode_count": 1,
+      "id": 115804,
+      "name": "The 73rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 1,
+      "id": 115805,
+      "name": "The 74th Golden Globe Awards",
+      "overview": "",
+      "poster_path": "/gQvB8gJ16LGMr2ri68zhloZUZJX.jpg",
+      "season_number": 74,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 1,
+      "id": 98682,
+      "name": "The 75th Golden Globe Awards",
+      "overview": "The Hollywood Foreign Press Association acknowledges the best in movies and TV for the year 2017.",
+      "poster_path": "/n9EmEqJiSnGJiIh0J0X3hFGUN3o.jpg",
+      "season_number": 75,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-05",
+      "episode_count": 1,
+      "id": 115806,
+      "name": "The 76th Golden Globe Awards",
+      "overview": "",
+      "poster_path": "/ePfDvInIlZsaryu1AcmUWsXCkG0.jpg",
+      "season_number": 76,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 1,
+      "id": 139961,
+      "name": "The 77th Golden Globe Awards",
+      "overview": "The 77th Golden Globe Awards is broadcast live from The Beverly Hilton in Beverly Hills, California.",
+      "poster_path": "/kwPQHGHTTgJ8x5KTQDB8F2T4dzC.jpg",
+      "season_number": 77,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2021-03-28",
+      "episode_count": 1,
+      "id": 182254,
+      "name": "The 78th Golden Globe Awards",
+      "overview": "",
+      "poster_path": "/j4FKeDQMhlePCLggkz97Nlm7oyp.jpg",
+      "season_number": 78,
+      "vote_average": 4.8
+    },
+    {
+      "air_date": "2023-01-10",
+      "episode_count": 1,
+      "id": 310098,
+      "name": "The 80th Golden Globe Awards",
+      "overview": "The Banshees of Inisherin won three Globes – Best Picture – Musical/Comedy; Colin Farrell, Best Actor – Motion Picture – Musical/Comedy, and Martin McDonagh, Best Screenplay – Motion Picture in the 80th Golden Globe Awards at the Beverly Hilton.",
+      "poster_path": "/vg6kc22haazq4cDFQRk8HDsFxCS.jpg",
+      "season_number": 79,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 1,
+      "id": 366175,
+      "name": "The 81st Golden Globes Awards",
+      "overview": "",
+      "poster_path": "/4SmzCe57cPy4TIm1MC3G2XzjbjK.jpg",
+      "season_number": 80,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2025-01-05",
+      "episode_count": 1,
+      "id": 386811,
+      "name": "The 82nd Golden Globe Awards",
+      "overview": "Presenters for the first major awards show of the season will take the stage alongside acclaimed Emmy®, GRAMMY® and Golden Globe® nominated comedian, actress and host Nikki Glaser, who is making history as the first woman to host the Golden Globes® on her own.",
+      "poster_path": "/q88TUs0LYOS2ZnyBxpDjWtyZddN.jpg",
+      "season_number": 81,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2026-01-11",
+      "episode_count": 1,
+      "id": 453281,
+      "name": "The 83rd Golden Globe Awards",
+      "overview": "",
+      "poster_path": "/eViFoMt3Pw3yC16RpHpkW9qjf6Y.jpg",
+      "season_number": 82,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.05,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 71494,
+    "imdb_id": "",
+    "freebase_mid": "/m/011_7_",
+    "freebase_id": null,
+    "tvdb_id": 127021,
+    "tvrage_id": null,
+    "wikidata_id": "Q1011547",
+    "facebook_id": "GoldenGlobes",
+    "instagram_id": "goldenglobes",
+    "twitter_id": "goldenglobes"
+  }
+}

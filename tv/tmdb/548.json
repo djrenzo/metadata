@@ -1,0 +1,810 @@
+{
+  "adult": false,
+  "backdrop_path": "/vooOqBDaPtG0kwhD8h3YLTKLLLF.jpg",
+  "created_by": [
+    {
+      "id": 3072154,
+      "credit_id": "608abdf167e0f70029d7936d",
+      "name": "John Hunter Blair",
+      "original_name": "John Hunter Blair",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25,
+    30
+  ],
+  "first_air_date": "1958-10-16",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://bbc.co.uk/cbbc/shows/blue-peter",
+  "id": 548,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-10-17",
+  "last_episode_to_air": {
+    "id": 6623904,
+    "name": "Bro’s in Control, Pranks and What Really Happens at the Airport!",
+    "overview": "Bro's in Control stars Adam B, Callum B and Joe Tasker go head-to-head against the Blue Peter presenters in three bonkers battles... with an unexpected prank! Shini goes behind the scenes at Heathrow Airport to discover the epic jobs and secret areas you never usually get to see!",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-10-17",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 68,
+    "show_id": 548,
+    "still_path": null
+  },
+  "name": "Blue Peter",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 15,
+      "logo_path": "/12roOdtGhLUriCtk1Qwu9eD5Nab.png",
+      "name": "CBBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3546,
+      "logo_path": "/imf3gQOupRLdbwRC6FalEovuAPS.png",
+      "name": "BBC Television",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 2050,
+  "number_of_seasons": 68,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Blue Peter",
+  "overview": "A fun-packed and informative magazine show for younger viewers with information and reports from around the world.",
+  "popularity": 38.2773,
+  "poster_path": "/qONA6QgXZsqwDNzqv6sLLMicJnU.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1982-09-06",
+      "episode_count": 1,
+      "id": 503589,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-10-16",
+      "episode_count": 380,
+      "id": 192853,
+      "name": "1959-1965",
+      "overview": "The initial run of consecutive episodes from 1959-1965.",
+      "poster_path": "/8sq8Tn5xLnOhLcZNafUONX4hOxo.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-20",
+      "episode_count": 87,
+      "id": 451496,
+      "name": "1965-1966",
+      "overview": "John Noakes joins.",
+      "poster_path": "/rDcsRIuYr3eJJhMuwN4vf9TZYS4.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-09-19",
+      "episode_count": 84,
+      "id": 451497,
+      "name": "1966-1967",
+      "overview": "Christopher Trace leaves.",
+      "poster_path": "/dUo0Z0BH5Idd5feVgxy9LszHkR5.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-09-25",
+      "episode_count": 84,
+      "id": 420748,
+      "name": "1967-1968",
+      "overview": "Peter Purves joins.",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-09-23",
+      "episode_count": 82,
+      "id": 451643,
+      "name": "1968-1969",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-15",
+      "episode_count": 83,
+      "id": 451644,
+      "name": "1969-1970",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-09-15",
+      "episode_count": 80,
+      "id": 451645,
+      "name": "1970-1971",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-09-13",
+      "episode_count": 87,
+      "id": 451646,
+      "name": "1971-1972",
+      "overview": "Leslie Judd joins.",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-09-11",
+      "episode_count": 82,
+      "id": 451647,
+      "name": "1972-1973",
+      "overview": "Valerie Singleton leaves.",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-09-10",
+      "episode_count": 82,
+      "id": 451648,
+      "name": "1973-1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-09-09",
+      "episode_count": 80,
+      "id": 451649,
+      "name": "1974-1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-09-08",
+      "episode_count": 87,
+      "id": 451650,
+      "name": "1975-1976",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-09-13",
+      "episode_count": 80,
+      "id": 451277,
+      "name": "1976-1977",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-09-12",
+      "episode_count": 80,
+      "id": 451279,
+      "name": "1977-1978",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-11",
+      "episode_count": 79,
+      "id": 451652,
+      "name": "1978-1979",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-09-10",
+      "episode_count": 81,
+      "id": 451653,
+      "name": "1979-1980",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-09-08",
+      "episode_count": 82,
+      "id": 451654,
+      "name": "1980-1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-14",
+      "episode_count": 79,
+      "id": 451655,
+      "name": "1981-1982",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-09-13",
+      "episode_count": 79,
+      "id": 451656,
+      "name": "1982-1983",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-12",
+      "episode_count": 77,
+      "id": 451657,
+      "name": "1983-1984",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-10",
+      "episode_count": 79,
+      "id": 451658,
+      "name": "1984-1985",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-09-02",
+      "episode_count": 1,
+      "id": 451659,
+      "name": "1985-1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-01",
+      "episode_count": 1,
+      "id": 451660,
+      "name": "1986-1987",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-07",
+      "episode_count": 1,
+      "id": 451661,
+      "name": "1987-1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-12",
+      "episode_count": 1,
+      "id": 451662,
+      "name": "1988-1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-04",
+      "episode_count": 1,
+      "id": 451663,
+      "name": "1989-1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-10",
+      "episode_count": 1,
+      "id": 451664,
+      "name": "1990-1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-02",
+      "episode_count": 1,
+      "id": 451665,
+      "name": "1991-1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-14",
+      "episode_count": 1,
+      "id": 451666,
+      "name": "1992-1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-13",
+      "episode_count": 1,
+      "id": 451667,
+      "name": "1993-1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-12",
+      "episode_count": 1,
+      "id": 451668,
+      "name": "1994-1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-11",
+      "episode_count": 1,
+      "id": 451669,
+      "name": "1995-1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-02",
+      "episode_count": 1,
+      "id": 451670,
+      "name": "1996-1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-08",
+      "episode_count": 1,
+      "id": 451671,
+      "name": "1997-1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-07",
+      "episode_count": 2,
+      "id": 397097,
+      "name": "1998-1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 1,
+      "id": 451672,
+      "name": "1999-2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451673,
+      "name": "1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451674,
+      "name": "1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451675,
+      "name": "1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451676,
+      "name": "1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451677,
+      "name": "1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 397096,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 1,
+      "id": 451678,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451679,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451680,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451681,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451682,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 451683,
+      "name": "2005",
+      "overview": "",
+      "poster_path": "/d44MCwlkXDOoE1zbtMkE4q5bTmA.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451684,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451685,
+      "name": "2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451686,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 397095,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451687,
+      "name": "2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451688,
+      "name": "2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451689,
+      "name": "2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451690,
+      "name": "2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451691,
+      "name": "2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 75949,
+      "name": "2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 98246,
+      "name": "2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-04",
+      "episode_count": 21,
+      "id": 98244,
+      "name": "2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 397093,
+      "name": "2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451693,
+      "name": "2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451694,
+      "name": "2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451695,
+      "name": "2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451696,
+      "name": "2022",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451697,
+      "name": "2023",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 451698,
+      "name": "2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-05",
+      "episode_count": 7,
+      "id": 451699,
+      "name": "2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.5,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 548,
+    "imdb_id": "tt0051257",
+    "freebase_mid": "/m/01qwsj",
+    "freebase_id": "/en/blue_peter",
+    "tvdb_id": 76427,
+    "tvrage_id": null,
+    "wikidata_id": "Q1247639",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

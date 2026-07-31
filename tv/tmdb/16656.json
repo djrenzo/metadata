@@ -1,0 +1,617 @@
+{
+  "adult": false,
+  "backdrop_path": "/hdlpSh7NstYZSVmuoeVENJdNaLR.jpg",
+  "created_by": [
+    {
+      "id": 1189466,
+      "credit_id": "5abfb3b10e0a264a4e02e23b",
+      "name": "Sergey Mikhalkov",
+      "original_name": "Сергей Михалков",
+      "gender": 2,
+      "profile_path": "/4qLNFzZP7aDdmdldR0lnnaXdPMk.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1962-06-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://fitill.ru/",
+  "id": 16656,
+  "in_production": false,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2008-08-03",
+  "last_episode_to_air": {
+    "id": 4404675,
+    "name": "Episode 136",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-08-03",
+    "episode_number": 136,
+    "episode_type": "finale",
+    "production_code": "187",
+    "runtime": null,
+    "season_number": 47,
+    "show_id": 16656,
+    "still_path": null
+  },
+  "name": "Fuse",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 412,
+      "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
+      "name": "Russia-1",
+      "origin_country": "RU"
+    },
+    {
+      "id": 926,
+      "logo_path": "/eMCbJfoNCBZlbDKQO6NrfFyfYng.png",
+      "name": "Central Television USSR",
+      "origin_country": "SU"
+    },
+    {
+      "id": 1199,
+      "logo_path": "/9wVcHld7xpIZ5e6CQ3LJyFSiFhz.png",
+      "name": "NTV ",
+      "origin_country": "RU"
+    },
+    {
+      "id": 2585,
+      "logo_path": "/6ErJUdDHOHD0AE8Ae2tdmPkOhTO.png",
+      "name": "TV-6",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 2201,
+  "number_of_seasons": 47,
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_name": "Фитиль",
+  "overview": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some of the episodes were aimed at children, and were called Фитилёк, Fitilyok, Little Fuse. Each issue contained from the few short segments: documentary, fictional and animated ones. Directed by various artists, including Leonid Gaidai who presented his famous trio of Nikulin, Vitsin and Morgunov into the cast. It was called in USSR as \"the anecdotes from the Soviet government\".",
+  "popularity": 41.828,
+  "poster_path": "/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+  "production_companies": [
+    {
+      "id": 21978,
+      "logo_path": "/3EP1gJYMGlEt7j17naPMg5e2LH2.png",
+      "name": "Gorky Film Studios",
+      "origin_country": "SU"
+    },
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    },
+    {
+      "id": 82801,
+      "logo_path": "/8h6Ugz5S1DiX7kaeg19eQKXsS4q.png",
+      "name": "Rīgas kinostudija",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1962-06-04",
+      "episode_count": 24,
+      "id": 101572,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cRsdZsRr5sfzArLWZF3zrWEwnGh.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1963-01-19",
+      "episode_count": 37,
+      "id": 101574,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/mh5GEtLOkN8B1VMbuCxMlDAbzsg.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-05-04",
+      "episode_count": 43,
+      "id": 101575,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/42D4p57lynPbWTcFOkHIFFnw93O.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 101576,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vbl43SWKpsP99TPf4wxRMrzEBYI.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 45,
+      "id": 101577,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/mCSUbuLnxaDMnZXUE8GV66ud177.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 45,
+      "id": 101578,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/8Sb6ARdVPUXTAE0ydKPyrT5FPFS.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-06-01",
+      "episode_count": 39,
+      "id": 101579,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/hoSm3jYmygdArPxKWjptbsEkyCC.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-02",
+      "episode_count": 40,
+      "id": 101580,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/2A5ylS473Wm320CV7NydTAOlJ3p.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 37,
+      "id": 101581,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/jTJ4bJxyAY33gfaaKArx7rerhZx.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-02-11",
+      "episode_count": 38,
+      "id": 101582,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/qC14qCBxwnj0VsegaJODw5h1zWy.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 36,
+      "id": 101583,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/2VGtSqrw472FxxEO8eB3b2TXFhE.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-12-25",
+      "episode_count": 42,
+      "id": 101584,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/8fVPPvO03lCMTlqHc2f3SbZiA3m.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-02-11",
+      "episode_count": 39,
+      "id": 101585,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/kbxEtzYrOXJ2tNJDrgHKe6mZvft.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 38,
+      "id": 101586,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/dxq6Lo41J3sMglJAzNp5Re5Rdhe.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 37,
+      "id": 101587,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/553VdCNTikCCZJAWroQXIsMLUJw.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-12-30",
+      "episode_count": 42,
+      "id": 101588,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/bdkm6UYM5fEWoBAFlx1E1CybAn8.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-12-26",
+      "episode_count": 40,
+      "id": 101589,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/ubpn8pxU94bhlJRWpv6CD0lJpbw.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-16",
+      "episode_count": 37,
+      "id": 101590,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/7zB3iHS0kBa1wbdL6fMnKcHkthZ.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-12-19",
+      "episode_count": 37,
+      "id": 101591,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/ewcV8f4CAAzW6veuSLaPMx80HJC.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-12-30",
+      "episode_count": 40,
+      "id": 101592,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/p3jaWWiNmXo4nrDWPG1kElRxkES.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-08",
+      "episode_count": 41,
+      "id": 101593,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/fpdpdgybHJxd35q9ZCko0W1MjS6.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-18",
+      "episode_count": 39,
+      "id": 101594,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/emjSbngyt5srWuH7lbIHj4i03TP.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-05",
+      "episode_count": 44,
+      "id": 101595,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/6sJdz9gd1cncwTrjIOdrSGkBlmz.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-12-27",
+      "episode_count": 44,
+      "id": 101596,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/6wj7wWEMrKvkHUHCVoderc6Vcmb.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-09",
+      "episode_count": 40,
+      "id": 101597,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/6i47hXLlGUXvhQYlwSe7uAhACih.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-13",
+      "episode_count": 39,
+      "id": 101598,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/xSJsWvOmsOfngdEZT6VYZGYg0ed.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 39,
+      "id": 101599,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/uzP3w1EG7wz0a7CEEZ4W5u638hQ.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 38,
+      "id": 101600,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/fWswX31fXIyp6OLz648u8bJqWwY.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 37,
+      "id": 101601,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/kPbEv7Mu2mUGSLmtdncAmTI41yD.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 37,
+      "id": 101602,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/7DA35qHCLEBjBuuaFjYA3QwqTF5.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 37,
+      "id": 101603,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/8QPnaO4raxWT1MC8cVt9aOCr4ah.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 36,
+      "id": 101604,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/giqFG4fYhl0buRPgrqN4bTcZyqE.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 36,
+      "id": 101605,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/fV79TL3NV0wxlyLVwcQBSZ1QlSA.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 21,
+      "id": 101606,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/hnrImX1ruDFcoPqCLeGIpRkfwh6.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 101607,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/laoyWxjwmG8DcYvWins9kv62uWZ.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 8,
+      "id": 101608,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/hRaIx9n0NLMa97OpUUs5gKQkzW8.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 101609,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/2rLBx057H4bQ89PyonZLCbzoIXS.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 101610,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/fDbBGJSDeAFaINNfD0I6UmS91rM.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 6,
+      "id": 101611,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/jbYGvYObxw4iyQTncypAGdgWsuO.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 12,
+      "id": 101612,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/sj5MGHiyd0yt5O4e8oLhwMTKXm6.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 11,
+      "id": 101613,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/3EQ9oNKdaHfTTF1kZztaAECirJH.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 101614,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/cYUFXnLfcR0Gz2gzpvawg0af2Eg.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-14",
+      "episode_count": 109,
+      "id": 101615,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/uNVugL3kNuTKZD9jjOlR6BA5m1B.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-09",
+      "episode_count": 181,
+      "id": 101616,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/hwY6IOqpvQT8sZ89Dhht2EhnzWJ.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-08",
+      "episode_count": 195,
+      "id": 101617,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/qYdI2Fg67rSVIZeZZjF7lY2b4B3.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-08",
+      "episode_count": 219,
+      "id": 101618,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/ohdoaabxqMQirRGABCxZaaqVZ6o.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-13",
+      "episode_count": 136,
+      "id": 101619,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/vYkBv6LouXXYJqKgb1aLJk7Yte7.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 16656,
+    "imdb_id": "",
+    "freebase_mid": "/m/02w9qd9",
+    "freebase_id": "/en/fitil",
+    "tvdb_id": 338764,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

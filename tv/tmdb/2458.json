@@ -1,0 +1,233 @@
+{
+  "adult": false,
+  "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+  "created_by": [
+    {
+      "id": 1214544,
+      "credit_id": "5257396e760ee3668d01d524",
+      "name": "Ann Donahue",
+      "original_name": "Ann Donahue",
+      "gender": 1,
+      "profile_path": "/loRNThhBJCx3FJi2RQvX519WD1j.jpg"
+    },
+    {
+      "id": 1221343,
+      "credit_id": "5257396e760ee3668d01d52a",
+      "name": "Carol Mendelsohn",
+      "original_name": "Carol Mendelsohn",
+      "gender": 1,
+      "profile_path": "/8PlgEHno8Mvg4wqireq7ZQY6Y3a.jpg"
+    },
+    {
+      "id": 1039314,
+      "credit_id": "5257396e760ee3668d01d51e",
+      "name": "Anthony E. Zuiker",
+      "original_name": "Anthony E. Zuiker",
+      "gender": 2,
+      "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2004-09-22",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/ca/shows/csi-ny/",
+  "id": 2458,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-02-22",
+  "last_episode_to_air": {
+    "id": 971099,
+    "name": "Today Is Life",
+    "overview": "Community unrest over the police shooting of an unarmed man forces Mac and the team to move quickly to solve the case.",
+    "vote_average": 9.2,
+    "vote_count": 5,
+    "air_date": "2013-02-22",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 9,
+    "show_id": 2458,
+    "still_path": "/3r6awnM4qLH38sbFix4jMlSOfhC.jpg"
+  },
+  "name": "CSI: NY",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 197,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CSI: NY",
+  "overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+  "popularity": 43.5168,
+  "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+  "production_companies": [
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 40041,
+      "logo_path": "/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png",
+      "name": "Jerry Bruckheimer Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-09-22",
+      "episode_count": 23,
+      "id": 7765,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fdaPKSseqeUyXM6OYI3PJXo481C.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2005-09-28",
+      "episode_count": 24,
+      "id": 7766,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sz2Xfs9UGlhJxO6dGqjtKqUgzzZ.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2006-09-20",
+      "episode_count": 24,
+      "id": 7767,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/bhq1IwrsFOpvelMPHVccLScwQBo.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2007-09-26",
+      "episode_count": 21,
+      "id": 7768,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/2ukxjQxOBSAoI1FXCof98SPf1zK.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2008-09-24",
+      "episode_count": 25,
+      "id": 7769,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/zBtI5v5poklGl0bddPaEiXjL8Uq.jpg",
+      "season_number": 5,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2009-09-23",
+      "episode_count": 23,
+      "id": 7770,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/jiCOOYrSu5wgG3A3FkvPwYsdAgh.jpg",
+      "season_number": 6,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2010-09-24",
+      "episode_count": 22,
+      "id": 63765,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/dwMJSTSuce2BLBq2JfUFnaw2cY4.jpg",
+      "season_number": 7,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2011-09-23",
+      "episode_count": 18,
+      "id": 63766,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/yNqdL2Cj3wAhOXOeq85lqv1p8fg.jpg",
+      "season_number": 8,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2012-09-28",
+      "episode_count": 17,
+      "id": 59837,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/4pi3YUoaUnaB1h8ahBwFt28ENme.jpg",
+      "season_number": 9,
+      "vote_average": 8.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "How long does it take to get hooked on the latest CSI: hit? About a New York minute.",
+  "type": "Scripted",
+  "vote_average": 7.318,
+  "vote_count": 769,
+  "external_ids": {
+    "id": 2458,
+    "imdb_id": "tt0395843",
+    "freebase_mid": "/m/02pbcr",
+    "freebase_id": "/en/csi_ny",
+    "tvdb_id": 73696,
+    "tvrage_id": 3185,
+    "wikidata_id": "Q192259",
+    "facebook_id": "CSINY",
+    "instagram_id": null,
+    "twitter_id": "CSINY_CBS"
+  }
+}

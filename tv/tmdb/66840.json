@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/iDu6LmIVHWiCdcW6CZcOP5Kx7Gr.jpg",
+  "created_by": [
+    {
+      "id": 1217327,
+      "credit_id": "576a39f69251416b82000752",
+      "name": "Phil McGraw",
+      "original_name": "Phil McGraw",
+      "gender": 2,
+      "profile_path": "/71Nqs57x1sIbWvy6SjYLAo5KcUQ.jpg"
+    },
+    {
+      "id": 45543,
+      "credit_id": "576a39fe9251417851000510",
+      "name": "Paul Attanasio",
+      "original_name": "Paul Attanasio",
+      "gender": 2,
+      "profile_path": "/4KtcNH1Tu7CiiMJGXPSOlINhpmR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2016-09-20",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/bull",
+  "id": 66840,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-05-26",
+  "last_episode_to_air": {
+    "id": 3604106,
+    "name": "Goodbye",
+    "overview": "Bull and the team head to court one last time to finalize a negligent homicide defense that will change the nature of their company and their lives forever.",
+    "vote_average": 8,
+    "vote_count": 4,
+    "air_date": "2022-05-26",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "BUL622",
+    "runtime": 43,
+    "season_number": 6,
+    "show_id": 66840,
+    "still_path": "/zxliLvkWUX2Hv3MWhfO5QPvIhDN.jpg"
+  },
+  "name": "Bull",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 125,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bull",
+  "overview": "Dr. Jason Bull is the brilliant, brash, and charming founder of a hugely successful trial consulting firm.",
+  "popularity": 30.9954,
+  "poster_path": "/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
+  "production_companies": [
+    {
+      "id": 7671,
+      "logo_path": "/r7KeUsNVv0iggZRh6XmNNq2OEw1.png",
+      "name": "Amblin Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-20",
+      "episode_count": 23,
+      "id": 77909,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5UOCPsmGnbrcD0Rt527ty5thmpk.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2017-09-26",
+      "episode_count": 22,
+      "id": 91668,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/f5kgyBF4YtmcDC7my0dCF0L6a1B.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 22,
+      "id": 106150,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/3rh5tnuix7pEBBoY2s3wzaYFR7N.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2019-09-23",
+      "episode_count": 20,
+      "id": 126156,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/yZX5O4CdzynxMUG9cOr1HJ79CtD.jpg",
+      "season_number": 4,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2020-11-16",
+      "episode_count": 16,
+      "id": 167197,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/6ecCzC2FiOhMB20PRkUZTV0Ugjn.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2021-10-07",
+      "episode_count": 22,
+      "id": 202008,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/r6bM2rNjSk5b9gWBOOKCVgKbjc0.jpg",
+      "season_number": 6,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "He'll get you off.",
+  "type": "Scripted",
+  "vote_average": 7.048,
+  "vote_count": 403,
+  "external_ids": {
+    "id": 66840,
+    "imdb_id": "tt5827228",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 311945,
+    "tvrage_id": null,
+    "wikidata_id": "Q24207659",
+    "facebook_id": "BullCBS",
+    "instagram_id": "bullcbs",
+    "twitter_id": "BullCBS"
+  }
+}

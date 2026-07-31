@@ -1,0 +1,267 @@
+{
+  "adult": false,
+  "backdrop_path": "/5axnUAVnRCPpY24fqzUDQn9ug7P.jpg",
+  "created_by": [
+    {
+      "id": 1324367,
+      "credit_id": "58c5cffa9251411d110063ef",
+      "name": "Ian SBF",
+      "original_name": "Ian SBF",
+      "gender": 2,
+      "profile_path": "/3jtAKvIW4C3CWFHKgZpKwYp8Fo2.jpg"
+    },
+    {
+      "id": 1095855,
+      "credit_id": "58c5cf53c3a368410c0067ab",
+      "name": "Fábio Porchat",
+      "original_name": "Fábio Porchat",
+      "gender": 2,
+      "profile_path": "/jZuqaIVPik1SSYsu3txOkYSfjqN.jpg"
+    },
+    {
+      "id": 1610769,
+      "credit_id": "58c5cfdec3a3684130005ec5",
+      "name": "Gabriel Esteves",
+      "original_name": "Gabriel Esteves",
+      "gender": 2,
+      "profile_path": "/uYrHK6uJ9wrG1XT51UARFGYZLJp.jpg"
+    },
+    {
+      "id": 1489045,
+      "credit_id": "58c5cf4cc3a36840f6005f6e",
+      "name": "Antonio Tabet",
+      "original_name": "Antonio Tabet",
+      "gender": 2,
+      "profile_path": "/qxorFzpGMZ8GJ60oJpMVCBtlJt4.jpg"
+    },
+    {
+      "id": 114482,
+      "credit_id": "58c5cf709251411d0d00673c",
+      "name": "Gregório Duvivier",
+      "original_name": "Gregório Duvivier",
+      "gender": 2,
+      "profile_path": "/qYIur0tnoRELDrOkR3eXPojkrqK.jpg"
+    },
+    {
+      "id": 1396791,
+      "credit_id": "58c5cf7d9251411d11006368",
+      "name": "João Vicente de Castro",
+      "original_name": "João Vicente de Castro",
+      "gender": 2,
+      "profile_path": "/oaJkX92d1NZfhQO2imbtDXQ2YgM.jpg"
+    }
+  ],
+  "episode_run_time": [
+    3
+  ],
+  "first_air_date": "2012-08-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.portadosfundos.com.br/",
+  "id": 63714,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-11-20",
+  "last_episode_to_air": {
+    "id": 4937120,
+    "name": "Episode 142",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-11-20",
+    "episode_number": 142,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 3,
+    "season_number": 11,
+    "show_id": 63714,
+    "still_path": null
+  },
+  "name": "Porta dos Fundos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 1623,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Porta dos Fundos",
+  "overview": "A series of short comedy films.",
+  "popularity": 28.7569,
+  "poster_path": "/ogNJzZ5elxPY3eb95716nBUnNEv.jpg",
+  "production_companies": [
+    {
+      "id": 75997,
+      "logo_path": "/6mpNu4NXhmf3nrXmw6zH9HuclUr.png",
+      "name": "Porta dos Fundos",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-01-02",
+      "episode_count": 156,
+      "id": 69816,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-07",
+      "episode_count": 49,
+      "id": 69812,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 101,
+      "id": 69813,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 134,
+      "id": 69814,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 156,
+      "id": 69815,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-02",
+      "episode_count": 156,
+      "id": 69817,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-31",
+      "episode_count": 157,
+      "id": 177674,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 176,
+      "id": 177677,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 222,
+      "id": 177678,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 171,
+      "id": 177679,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 160,
+      "id": 237950,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 141,
+      "id": 322226,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.907,
+  "vote_count": 27,
+  "external_ids": {
+    "id": 63714,
+    "imdb_id": "tt3013322",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 275360,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "@portadosfundos",
+    "twitter_id": null
+  }
+}

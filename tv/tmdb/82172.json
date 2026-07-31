@@ -1,0 +1,432 @@
+{
+  "adult": false,
+  "backdrop_path": "/qJwKCFlASiC9HbK6UdFXwy83q1T.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2014-07-05",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.tbs.co.jp/heritage/",
+  "id": 82172,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-05-24",
+  "last_episode_to_air": {
+    "id": 7331273,
+    "name": "Episode 19",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-24",
+    "episode_number": 19,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 32,
+    "show_id": 82172,
+    "still_path": null
+  },
+  "name": "The World Heritage",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 160,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 1431,
+  "number_of_seasons": 32,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "世界遺産",
+  "overview": "TBS’s ”World Heritage,” is a 30-minute weekly documentary series that is registered by UNESCO under Natural Heritage, Cultural Heritage and Cultural Sciences. The program started in spring, 1996, and over a span of 10 years has covered about 560 topics around the world. To better convey the grandeur of these treasures of the world, TBS has shot the series in High-Definition. High quality images, impeccable narrative, and beautiful music...the elements are simple and straightforward. The producers feel that this style of presentation works best to visually document and preserve the wonders of the world, and continue to do so to this day.",
+  "popularity": 28.8134,
+  "poster_path": "/bES9DDFubda9XEIbdcEK6DAu8rZ.jpg",
+  "production_companies": [
+    {
+      "id": 139446,
+      "logo_path": "/4uMH3FFbHgK5dKBiGMXKQCM8ln9.png",
+      "name": "TBS Sparkle",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1393,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 7,
+      "id": 130760,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-05",
+      "episode_count": 13,
+      "id": 130708,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-10",
+      "episode_count": 56,
+      "id": 108971,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 58,
+      "id": 108973,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-04-14",
+      "episode_count": 35,
+      "id": 356368,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-05",
+      "episode_count": 49,
+      "id": 356376,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 51,
+      "id": 356377,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-10",
+      "episode_count": 49,
+      "id": 356378,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-09",
+      "episode_count": 50,
+      "id": 356380,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-07",
+      "episode_count": 49,
+      "id": 356381,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 51,
+      "id": 356382,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-05",
+      "episode_count": 1,
+      "id": 356383,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 1,
+      "id": 356384,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-09",
+      "episode_count": 1,
+      "id": 356385,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-08",
+      "episode_count": 51,
+      "id": 356386,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-07",
+      "episode_count": 48,
+      "id": 356387,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 58,
+      "id": 356388,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/rnHK5lbpLNobKkQmm0NOIJzZ2UC.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-11",
+      "episode_count": 61,
+      "id": 356389,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-10",
+      "episode_count": 62,
+      "id": 356390,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-09",
+      "episode_count": 60,
+      "id": 356391,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 62,
+      "id": 356392,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-13",
+      "episode_count": 60,
+      "id": 356393,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 57,
+      "id": 356394,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 59,
+      "id": 356395,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-06",
+      "episode_count": 58,
+      "id": 356396,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 57,
+      "id": 356397,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 56,
+      "id": 356398,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-10",
+      "episode_count": 56,
+      "id": 356399,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-09",
+      "episode_count": 56,
+      "id": 356400,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-08",
+      "episode_count": 42,
+      "id": 356401,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 1,
+      "id": 519584,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-12",
+      "episode_count": 44,
+      "id": 519585,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-11",
+      "episode_count": 19,
+      "id": 519586,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 82172,
+    "imdb_id": "tt1677396",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 347010,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

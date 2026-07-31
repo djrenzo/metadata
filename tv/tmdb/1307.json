@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/v3LaeZ8uB4A6zUsLpQIKg8EOPGY.jpg",
+  "created_by": [
+    {
+      "id": 85893,
+      "credit_id": "5d6fcd5f77c01f10ee590095",
+      "name": "Ekta Kapoor",
+      "original_name": "Ekta Kapoor",
+      "gender": 1,
+      "profile_path": "/vsga2Sbj4OWTBKCdgT2reQG75cv.jpg"
+    }
+  ],
+  "episode_run_time": [
+    24,
+    20
+  ],
+  "first_air_date": "2001-10-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://starutsav.indya.com/serials/kasautii/index.html",
+  "id": 1307,
+  "in_production": false,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2008-02-28",
+  "last_episode_to_air": {
+    "id": 4872587,
+    "name": "Episode 1423",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-02-28",
+    "episode_number": 1423,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 1307,
+    "still_path": null
+  },
+  "name": "Kasauti Zindagii Kay",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 159,
+      "logo_path": "/9cEITzi1VyVkre3Fom57vJBOEW3.png",
+      "name": "StarPlus",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 1423,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "कसौटी ज़िंदगी के",
+  "overview": "Anurag and Prerna, two star-crossed lovers, are set to get married according to both their fathers' wishes. However, they face challenges in their love life and are separated due to circumstances.",
+  "popularity": 33.9137,
+  "poster_path": "/v8Hdqnx4uvtZVnSHIQYiiTYnd16.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-10-29",
+      "episode_count": 1423,
+      "id": 95070,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/v8Hdqnx4uvtZVnSHIQYiiTYnd16.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.1,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 1307,
+    "imdb_id": "tt1450737",
+    "freebase_mid": "/m/09fv0m",
+    "freebase_id": "/en/kasautii_zindagi_kay",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6374053",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

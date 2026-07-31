@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/70xTjXpb0kfOhTRJqKwDYSG8Kle.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "1992-04-13",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.tv-asahi.co.jp/shinchan/",
+  "id": 30623,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2018-09-21",
+  "last_episode_to_air": {
+    "id": 3794810,
+    "name": "Episode 2299",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-09-21",
+    "episode_number": 2299,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 30623,
+    "still_path": null
+  },
+  "name": "Shin Chan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 2475,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "クレヨンしんちゃん",
+  "overview": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the mind of an adult, Shinchan is wreaking more havoc than any child before. Shin-chan is carefree, optimistic and gets excited about everything. This 5 year-old likes to do things his way.",
+  "popularity": 54.5817,
+  "poster_path": "/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+  "production_companies": [
+    {
+      "id": 5141,
+      "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-04-13",
+      "episode_count": 2484,
+      "id": 106483,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7qJEhLlky9aZq0LdkXt98YLbITI.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 112,
+  "external_ids": {
+    "id": 30623,
+    "imdb_id": "tt12853970",
+    "freebase_mid": "/m/0zngsvd",
+    "freebase_id": null,
+    "tvdb_id": 79654,
+    "tvrage_id": 0,
+    "wikidata_id": "Q5372585",
+    "facebook_id": "shinchan.japan",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

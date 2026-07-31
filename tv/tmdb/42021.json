@@ -1,0 +1,225 @@
+{
+  "adult": false,
+  "backdrop_path": "/jtwWiskjpvuAYIq6jhuSwb16k1Q.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60,
+    42
+  ],
+  "first_air_date": "2011-10-16",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.amctv.com/shows/talking-dead",
+  "id": 42021,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-11-20",
+  "last_episode_to_air": {
+    "id": 4041588,
+    "name": "The Walking Dead Finale",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-11-20",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 62,
+    "season_number": 10,
+    "show_id": 42021,
+    "still_path": null
+  },
+  "name": "Talking Dead",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 174,
+      "logo_path": "/pmvRmATOCaDykE6JrVoeYxlFHw3.png",
+      "name": "AMC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 230,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Talking Dead",
+  "overview": "Host Chris Hardwick discusses episodes of the AMC television series The Walking Dead with guests, including celebrity fans, cast members, and crew from the series.",
+  "popularity": 51.916,
+  "poster_path": "/wEsDfVvYNsAgmJeynSQGuLKyhcJ.jpg",
+  "production_companies": [
+    {
+      "id": 23242,
+      "logo_path": "/ucE6dN6pUPfZHH5JlXkq44TDUMS.png",
+      "name": "AMC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 23601,
+      "logo_path": "/jZYnbLWzOGhRDrvLWOOpoQZnuAB.png",
+      "name": "Embassy Row",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-10-16",
+      "episode_count": 67,
+      "id": 51975,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-16",
+      "episode_count": 13,
+      "id": 51976,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/AsaI2pPZIyGWoT7R5EcHgIllYJP.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2012-10-14",
+      "episode_count": 16,
+      "id": 51977,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4YyUACrkK2Y3LhX7f3Gvg9IHa5.jpg",
+      "season_number": 2,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2013-10-13",
+      "episode_count": 16,
+      "id": 51978,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/pEsr7HcZVH4m7MHfcEfg51WPHJc.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-12",
+      "episode_count": 16,
+      "id": 63006,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vy48k2NaSTMsiuqqYPyWJuWIqIx.jpg",
+      "season_number": 4,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2015-10-11",
+      "episode_count": 31,
+      "id": 69864,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/awX3mwKL4SCwKBvtrxhCBtC1WQK.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2016-10-23",
+      "episode_count": 28,
+      "id": 79902,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2017-10-22",
+      "episode_count": 31,
+      "id": 94337,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-10-07",
+      "episode_count": 20,
+      "id": 111515,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-10-06",
+      "episode_count": 29,
+      "id": 130356,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2021-08-22",
+      "episode_count": 30,
+      "id": 207237,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 316432,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.21,
+  "vote_count": 62,
+  "external_ids": {
+    "id": 42021,
+    "imdb_id": "tt2089467",
+    "freebase_mid": "/m/0hhv5vr",
+    "freebase_id": null,
+    "tvdb_id": 252861,
+    "tvrage_id": 29695,
+    "wikidata_id": "Q39370",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "adult": false,
+  "backdrop_path": "/5meDobtdG4t0d45NK3SoM5u17Ve.jpg",
+  "created_by": [
+    {
+      "id": 165899,
+      "credit_id": "66fadf553a0f5a08c8f19bbd",
+      "name": "Simon Cowell",
+      "original_name": "Simon Cowell",
+      "gender": 2,
+      "profile_path": "/pKllSRO03fLD6z0dMMQAuooKXhF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    180
+  ],
+  "first_air_date": "2008-03-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://xfactor.sky.it",
+  "id": 16322,
+  "in_production": true,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2025-12-04",
+  "last_episode_to_air": {
+    "id": 6465342,
+    "name": "Live 7 - Final",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-04",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 152,
+    "season_number": 19,
+    "show_id": 16322,
+    "still_path": "/orYMVTgd0wQSYeQ1ZvqYHptINkE.jpg"
+  },
+  "name": "X Factor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 236,
+      "logo_path": "/ar0fBQkxzbBYe4S8zEGnrfZNBnm.png",
+      "name": "Rai 2",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1076,
+      "logo_path": "/zB2s05JQvSvaZRUbKUWYBzNx5iS.png",
+      "name": "Sky Uno",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1114,
+      "logo_path": "/dNuhKIiAChEJdGA7TXQgwqbFU6y.png",
+      "name": "Sky Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1367,
+      "logo_path": "/gE1MrJUHtCNjMwwJlmRcveb0XEU.png",
+      "name": "TV8",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2715,
+      "logo_path": null,
+      "name": "TV 8",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 251,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "X Factor",
+  "overview": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, but since 2011 it has been broadcast on Sky Uno, with reruns on TV8, after Rai dropped the show due to high costs. Sky Italia acquired the format, extending its broadcast until 2024. Starting from the eleventh season, RTL 102.5 became the official radio station, replacing Radio Deejay and Radio 105. The show was hosted by Francesco Facchinetti (2008-2010), Alessandro Cattelan (2011-2020), Ludovico Tersigni (2021), and Francesca Michielin (2022-2023). From 2024 onwards, Giorgia will take over as host. Since the seventh season, the show has been produced by Fremantle Italia without the collaboration of Magnolia, which had produced the selection episodes in the early seasons.",
+  "popularity": 76.7575,
+  "poster_path": "/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+  "production_companies": [
+    {
+      "id": 19079,
+      "logo_path": "/3hskOJPppWrWq7gZaBJzP7aFB9.png",
+      "name": "Sky",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-12",
+      "episode_count": 8,
+      "id": 418504,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-03-10",
+      "episode_count": 12,
+      "id": 163384,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-12",
+      "episode_count": 15,
+      "id": 163385,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-10",
+      "episode_count": 13,
+      "id": 163386,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-07",
+      "episode_count": 12,
+      "id": 163387,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-20",
+      "episode_count": 12,
+      "id": 163388,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-20",
+      "episode_count": 13,
+      "id": 163389,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-26",
+      "episode_count": 12,
+      "id": 27651,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-18",
+      "episode_count": 13,
+      "id": 163390,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-10",
+      "episode_count": 14,
+      "id": 163391,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-15",
+      "episode_count": 14,
+      "id": 80245,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-14",
+      "episode_count": 14,
+      "id": 163392,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-06",
+      "episode_count": 15,
+      "id": 163393,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-12",
+      "episode_count": 14,
+      "id": 132233,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/k9P84juUD9J8ynBeg8eKFC3NcME.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-17",
+      "episode_count": 13,
+      "id": 163394,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/uzzwJ0R0h5MA9C3rt6NhsTjF8PO.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-16",
+      "episode_count": 13,
+      "id": 208420,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/2jOlloJBhb8ZSDyrVLJDw0rGxHo.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-15",
+      "episode_count": 13,
+      "id": 308934,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/eQChaFYvP6LiCYltKAre44yDCBx.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-14",
+      "episode_count": 13,
+      "id": 356799,
+      "name": "Season 17",
+      "overview": "The countdown has begun: everything is ready for the new edition of X Factor that sees Fedez, Ambra Angiolini, Dargen D’Amico, and Morgan at the judging table. On stage with them, Francesca Michielin will return to play the hostess.",
+      "poster_path": "/qSeHwdpxIctikCxwf6sWKfmPsCa.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-12",
+      "episode_count": 13,
+      "id": 418235,
+      "name": "Season 18",
+      "overview": "The new edition starts on September 12th with Achille Lauro, Paola Iezzi, Jake La furia and Manuel Agnelli",
+      "poster_path": "/uW7ultF5vlPJsrWflEifAYxPjz5.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-11",
+      "episode_count": 13,
+      "id": 470561,
+      "name": "Season 19",
+      "overview": "The new edition starts on September 11th with Francesco Gabbani, Paola Iezzi, Jake La Furia and Achille Lauro",
+      "poster_path": "/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 16322,
+    "imdb_id": "tt1194223",
+    "freebase_mid": "/m/047c485",
+    "freebase_id": null,
+    "tvdb_id": 263372,
+    "tvrage_id": null,
+    "wikidata_id": "Q4021680",
+    "facebook_id": "xfactoritalia",
+    "instagram_id": "xfactoritalia",
+    "twitter_id": "XFactor_Italia"
+  }
+}

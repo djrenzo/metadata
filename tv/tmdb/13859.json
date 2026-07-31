@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/4zZ0VjYxGERjhf5FdTuB0Y215Pi.jpg",
+  "created_by": [
+    {
+      "id": 7767,
+      "credit_id": "52582baf760ee36aaa87fefd",
+      "name": "Sam Peckinpah",
+      "original_name": "Sam Peckinpah",
+      "gender": 2,
+      "profile_path": "/hXrHVHdNivFu8dMbyp40ds5YXYD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1958-09-30",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 13859,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1963-04-08",
+  "last_episode_to_air": {
+    "id": 507380,
+    "name": "Old Tony",
+    "overview": "Mark and his girlfriend Laurie discover that an old hermit is very lonely.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1963-04-08",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 13859,
+    "still_path": null
+  },
+  "name": "The Rifleman",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 168,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Rifleman",
+  "overview": "The Rifleman is an American Western television program starring Chuck Connors as rancher Lucas McCain and Johnny Crawford as his son, Mark McCain. It was set in the 1880s in the town of North Fork, New Mexico Territory. The show was filmed in black-and-white, half-hour episodes. \"The Rifleman\" aired on ABC from September 30, 1958 to April 8, 1963 as a production of Four Star Television. It was one of the first prime time series to have a widowed parent raise a child.",
+  "popularity": 55.9139,
+  "poster_path": "/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
+  "production_companies": [
+    {
+      "id": 19746,
+      "logo_path": null,
+      "name": "Four Stars Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1958-09-30",
+      "episode_count": 40,
+      "id": 25051,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uzrDsLqxYaw3aqfJP6jnpbsfQMX.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1959-09-29",
+      "episode_count": 36,
+      "id": 25054,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/j6kwS70dLobbAIxHP0umeGWkZl9.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-09-27",
+      "episode_count": 34,
+      "id": 25050,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/5GReYe4Vf4zW4Y9Gzagmib3hLA9.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-10-02",
+      "episode_count": 32,
+      "id": 25053,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/idudEvUM847k5hIkB0Sbb0ptdXM.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1962-10-01",
+      "episode_count": 26,
+      "id": 25052,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/cDG5v7wIJIo7TIpC9PUqYDAL9wv.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 13859,
+    "imdb_id": "tt0051308",
+    "freebase_mid": "/m/07b950",
+    "freebase_id": "/en/the_rifleman",
+    "tvdb_id": 72089,
+    "tvrage_id": null,
+    "wikidata_id": "Q1308543",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

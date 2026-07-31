@@ -1,0 +1,364 @@
+{
+  "adult": false,
+  "backdrop_path": "/ka4rcpCCBPAATLdQEn57qZQT8e4.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    111,
+    54,
+    84
+  ],
+  "first_air_date": "2002-10-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.tv-asahi.co.jp/aibou/",
+  "id": 40663,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-03-11",
+  "last_episode_to_air": {
+    "id": 7012041,
+    "name": "Episode 19",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-11",
+    "episode_number": 19,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 24,
+    "show_id": 40663,
+    "still_path": null
+  },
+  "name": "AIBOU: Tokyo Detective Duo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 461,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "相棒",
+  "overview": "Detective Ukyo Sugishita confronts crime on the basis of his own convictions. He has a partner that works for him in the Special Task Unit. For the first 7 seasons, Ukyo’s first partner is Kaoru Kameyama. He is a good-natured, hot-tempered, straightforward and somewhat scattered detective. Beginning in Season 8, Takeru Kanbe replaces Kameyama. Contrary to his predecessor, Takeru is a lanky, cool, conceited and confident detective. From Season 11 to Season 13, Ukyo’s partner is a young detective Toru Kai. Toru is a son of Deputy Director-General of The National Police Agency. But he became a detective by his own effort. And starting with Season 14, Ukyo’s current partner is Wataru Kaburagi, an elite bureaucrat who came to the Metropolitan Police Department on temporary assignment. As the first partner without any career of a police officer, he will face challenging cases together with Ukyo.",
+  "popularity": 61.3238,
+  "poster_path": "/8u8rCCeuBufMQ1VlGX0lruhDaPR.jpg",
+  "production_companies": [
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5822,
+      "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+      "name": "Toei Company",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-06-03",
+      "episode_count": 24,
+      "id": 239995,
+      "name": "Specials",
+      "overview": "For pre-season (2000-2001, 3 episodes) and other specials not in regular seasons.",
+      "poster_path": "/mr09DYL6vnR5vh6Nba8amE0Wb0n.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-09",
+      "episode_count": 12,
+      "id": 100881,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nhMLqPtIgVMQhyO1O39YQFdiJAW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-08",
+      "episode_count": 21,
+      "id": 100883,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/s9dnrjrBiYBM4gl0zwYTjILcAyS.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-13",
+      "episode_count": 19,
+      "id": 111452,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/sf2VwFjOb4TRUJom9ViH94SYaQ8.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-12",
+      "episode_count": 21,
+      "id": 111453,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/xWM37MFquypqQxCHp7vl4uFX4tc.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-11",
+      "episode_count": 20,
+      "id": 111454,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/uw84afvcEBD2RMIuV1eZevGmQ8z.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-24",
+      "episode_count": 19,
+      "id": 111455,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/oowKZnRXXBwq2ww0iKc0DLz1Xxz.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-22",
+      "episode_count": 19,
+      "id": 111456,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/tzHyAfTL7EwVCuS5VLH5MEoo2kt.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-14",
+      "episode_count": 19,
+      "id": 111457,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/6r8iZrgD1VfeHLXCKZTjNAu9GKs.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-20",
+      "episode_count": 18,
+      "id": 100885,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/5Bl3gJCWgEXfSKtDlULHjJTNrPo.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-19",
+      "episode_count": 19,
+      "id": 111458,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/p5H4ocAlNmauT3RQ9tm6j0ceVVs.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 19,
+      "id": 51449,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/eCdpvC0lGKFT4vF1apzAJAGToy5.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-16",
+      "episode_count": 19,
+      "id": 51450,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/wMKKom9YEgo8GY9I2n9BntFu9el.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-15",
+      "episode_count": 19,
+      "id": 73715,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/fSed96QwF1EXcY6QtzZ1iMjvqxe.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-14",
+      "episode_count": 20,
+      "id": 111459,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/yAsSBujiykh9BBZy2k64wjj7DqY.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-12",
+      "episode_count": 18,
+      "id": 111460,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/yZcJ2QAbQh3XutZ0o0IDDgY4stz.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-18",
+      "episode_count": 20,
+      "id": 100884,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/mUXM3DoOymmYSUqQqq9pXfThHBu.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-17",
+      "episode_count": 20,
+      "id": 111461,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/6enkVsNcQL3Tv58PNdOqv0zSa8s.jpg",
+      "season_number": 17,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2019-10-09",
+      "episode_count": 20,
+      "id": 137425,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/1veAaYRsyOxYRnnYFjfqQwnzclx.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-14",
+      "episode_count": 20,
+      "id": 160719,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/lCbw4yXBpHfMtAGSs8gIJpnucO4.jpg",
+      "season_number": 19,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2021-10-13",
+      "episode_count": 20,
+      "id": 207588,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/ETD9ToafGhn3zPbIarJouDWqFA.jpg",
+      "season_number": 20,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2022-10-12",
+      "episode_count": 21,
+      "id": 299576,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/gyFPBdlR4FaNCWMVW5PBMuejmyc.jpg",
+      "season_number": 21,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2023-10-18",
+      "episode_count": 20,
+      "id": 358967,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/x5WOTpKLL256HEGTONklQ7t4851.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-16",
+      "episode_count": 19,
+      "id": 416821,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/cKtOwuyFXSL00dpCf6I0mjQ5TOC.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-15",
+      "episode_count": 19,
+      "id": 477160,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/flxkXliq9Ejpm43phd4XYxHD6gU.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.545,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 40663,
+    "imdb_id": "tt1505970",
+    "freebase_mid": "/m/0h66d2q",
+    "freebase_id": null,
+    "tvdb_id": 188501,
+    "tvrage_id": null,
+    "wikidata_id": "Q1054879",
+    "facebook_id": "AibouNow",
+    "instagram_id": "aibougram_official",
+    "twitter_id": "aibouNow"
+  }
+}

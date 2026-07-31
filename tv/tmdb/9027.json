@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/6WUb3YhgNSpI2Hk33OKiNi0WKUz.jpg",
+  "created_by": [
+    {
+      "id": 1222861,
+      "credit_id": "525794c3760ee36aaa70cdad",
+      "name": "Cris Morena",
+      "original_name": "Cris Morena",
+      "gender": 1,
+      "profile_path": "/msgzhmInpcEuLXqgZrajzWNr5VA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2002-05-27",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9027,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2003-11-13",
+  "last_episode_to_air": {
+    "id": 2062902,
+    "name": "Episode 179",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2003-11-13",
+    "episode_number": 179,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 2,
+    "show_id": 9027,
+    "still_path": null
+  },
+  "name": "Rebelde Way",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3236,
+      "logo_path": null,
+      "name": "Azul Televisión",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 318,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Rebelde Way",
+  "overview": "Four teenagers at an elite school in Buenos Aires are drawn together by their love of music, despite their differing social and economic backgrounds.",
+  "popularity": 71.3581,
+  "poster_path": "/3ROiiGuYqXkm1CKX1h3KtmSvI8z.jpg",
+  "production_companies": [
+    {
+      "id": 53991,
+      "logo_path": null,
+      "name": "Cris Morena Group",
+      "origin_country": "AR"
+    },
+    {
+      "id": 121141,
+      "logo_path": null,
+      "name": "Yair Dori Media Group",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-05-27",
+      "episode_count": 139,
+      "id": 88988,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wG529ltMWm9LdscWdCU043RPeU4.jpg",
+      "season_number": 1,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2003-03-10",
+      "episode_count": 179,
+      "id": 110535,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xABqa1TEkgjJQYKcgO7R0eOE6eX.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.97,
+  "vote_count": 366,
+  "external_ids": {
+    "id": 9027,
+    "imdb_id": "tt0328789",
+    "freebase_mid": "/m/09bzv6",
+    "freebase_id": "/en/rebelde_way",
+    "tvdb_id": 273165,
+    "tvrage_id": 19693,
+    "wikidata_id": "Q1120316",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

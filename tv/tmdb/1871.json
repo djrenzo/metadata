@@ -1,0 +1,567 @@
+{
+  "adult": false,
+  "backdrop_path": "/2jzrUm0vGW2TqJPds1PfZVRYrh7.jpg",
+  "created_by": [
+    {
+      "id": 1227543,
+      "credit_id": "525718cd760ee3776a176500",
+      "name": "Julia Smith",
+      "original_name": "Julia Smith",
+      "gender": 0,
+      "profile_path": "/fcm7o4QQBCy963xvJepaVnVisR4.jpg"
+    },
+    {
+      "id": 1227545,
+      "credit_id": "525718cd760ee3776a176506",
+      "name": "Tony Holland",
+      "original_name": "Tony Holland",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1985-02-19",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/eastenders/",
+  "id": 1871,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-29",
+  "last_episode_to_air": {
+    "id": 7598976,
+    "name": "30/07/2026",
+    "overview": "A shocking truth edges closer to the surface, Nicola tries to make peace with Eve and Suki, and Sharon seeks answers about what she’s missed.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 121,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 42,
+    "show_id": 1871,
+    "still_path": "/kqPlCI5wB72IjGc3LDT45KIplLS.jpg"
+  },
+  "name": "EastEnders",
+  "next_episode_to_air": {
+    "id": 7598989,
+    "name": "03/08/2026",
+    "overview": "Peter’s suspicions about Lauren grow. Ross remains determined to help Joel.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-03",
+    "episode_number": 122,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 42,
+    "show_id": 1871,
+    "still_path": "/hOFHpv9yrUOpfkn6PDtUEEzYdob.jpg"
+  },
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 7275,
+  "number_of_seasons": 42,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "EastEnders",
+  "overview": "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+  "popularity": 50.8328,
+  "poster_path": "/z4jgyI5TpoRZiJTNchkVkMrGQyz.jpg",
+  "production_companies": [
+    {
+      "id": 216944,
+      "logo_path": "/5vrTzX9jnrz7ko3MxOzvzm0mxSP.png",
+      "name": "BBC Studios Drama Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1988-12-26",
+      "episode_count": 15,
+      "id": 5366,
+      "name": "Specials",
+      "overview": "Special installments of the series.",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-02-19",
+      "episode_count": 91,
+      "id": 5339,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/1caimiwQk34CIfWx08gMWLpMMEC.jpg",
+      "season_number": 1,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "1986-01-02",
+      "episode_count": 105,
+      "id": 5340,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/nkdy98eVXjpBseuwzYSPVNFjGr3.jpg",
+      "season_number": 2,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1987-01-01",
+      "episode_count": 107,
+      "id": 5341,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/sANCZzxTC0JKjYJGrfE2Jfkuw3U.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-05",
+      "episode_count": 104,
+      "id": 5342,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": "/6OQvbhOasuFr7aLoRm2H1yFhkK8.jpg",
+      "season_number": 4,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1989-01-03",
+      "episode_count": 104,
+      "id": 5344,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": "/wZd7zPdjwpWjJefx8KdyQHEVHi2.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-02",
+      "episode_count": 104,
+      "id": 5343,
+      "name": "Series 6",
+      "overview": "",
+      "poster_path": "/jlvKBcm19dgPuvP3bMMVRzVSFh4.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 105,
+      "id": 5345,
+      "name": "Series 7",
+      "overview": "",
+      "poster_path": "/6y22vz2v9wAxM5WAKhJX1VbsQ3H.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-02",
+      "episode_count": 106,
+      "id": 5346,
+      "name": "Series 8",
+      "overview": "",
+      "poster_path": "/mA7wVIZSUCYs2dapTYXWgDa5ZWS.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-05",
+      "episode_count": 105,
+      "id": 5347,
+      "name": "Series 9",
+      "overview": "",
+      "poster_path": "/zHdj2eoBYTEcQMEhl85mFYfTQFO.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-04",
+      "episode_count": 142,
+      "id": 5348,
+      "name": "Series 10",
+      "overview": "",
+      "poster_path": "/1iM1T7iEBWE1FG2UTl7FGV3pQlJ.jpg",
+      "season_number": 10,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 157,
+      "id": 5349,
+      "name": "Series 11",
+      "overview": "",
+      "poster_path": "/1xN90Uw2wnpZiLukdjyesOrs4EP.jpg",
+      "season_number": 11,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 161,
+      "id": 5352,
+      "name": "Series 12",
+      "overview": "",
+      "poster_path": "/d9of0YAnzHlc9k778mBB2GB3Ngz.jpg",
+      "season_number": 12,
+      "vote_average": 1.1
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 162,
+      "id": 5353,
+      "name": "Series 13",
+      "overview": "",
+      "poster_path": "/dT4O2dkLYM90Dvo7DLIF5BxQ7ya.jpg",
+      "season_number": 13,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 164,
+      "id": 5354,
+      "name": "Series 14",
+      "overview": "",
+      "poster_path": "/aTAKJiQrt0NcplDhfhNJGCum0Qd.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 169,
+      "id": 5355,
+      "name": "Series 15",
+      "overview": "",
+      "poster_path": "/mPFCbOd9FJ9TyPSjS8v9cDK6CeM.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 160,
+      "id": 5356,
+      "name": "Series 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 179,
+      "id": 5357,
+      "name": "Series 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 211,
+      "id": 5358,
+      "name": "Series 18",
+      "overview": "",
+      "poster_path": "/c278MDid2n2rgr2SxCdDEYIUa9T.jpg",
+      "season_number": 18,
+      "vote_average": 1.3
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 210,
+      "id": 5359,
+      "name": "Series 19",
+      "overview": "",
+      "poster_path": "/9gryMVCCo9tGKfCfNugFzLmWCih.jpg",
+      "season_number": 19,
+      "vote_average": 1.5
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 209,
+      "id": 5360,
+      "name": "Series 20",
+      "overview": "",
+      "poster_path": "/wSvl8DKMFRj71wqp9UKuX9x3w6u.jpg",
+      "season_number": 20,
+      "vote_average": 1.5
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 209,
+      "id": 5361,
+      "name": "Series 21",
+      "overview": "",
+      "poster_path": "/zqsoGnqJhjUg73n3MmYya572ahA.jpg",
+      "season_number": 21,
+      "vote_average": 1.7
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 207,
+      "id": 5362,
+      "name": "Series 22",
+      "overview": "",
+      "poster_path": "/3DlUAtxIW8nR2wEmeVyLV5XULge.jpg",
+      "season_number": 22,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 208,
+      "id": 5363,
+      "name": "Series 23",
+      "overview": "",
+      "poster_path": "/aiGe97wv3WnXe9Hk1ooxzGOLgtP.jpg",
+      "season_number": 23,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 208,
+      "id": 5350,
+      "name": "Series 24",
+      "overview": "",
+      "poster_path": "/8NyGjowVtS0ngGIh6BThyLaJhWi.jpg",
+      "season_number": 24,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 209,
+      "id": 5351,
+      "name": "Series 25",
+      "overview": "",
+      "poster_path": "/rzDAaagAILO2g1h0cFmCDnS0xsw.jpg",
+      "season_number": 25,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 204,
+      "id": 5364,
+      "name": "Series 26",
+      "overview": "",
+      "poster_path": "/pHHZA1AoiBvJuuDeX4lLm0FEzbw.jpg",
+      "season_number": 26,
+      "vote_average": 1.2
+    },
+    {
+      "air_date": "2011-01-01",
+      "episode_count": 210,
+      "id": 5365,
+      "name": "Series 27",
+      "overview": "",
+      "poster_path": "/zuZeeAH6uEFMrDUKt0ZgSK5WnqT.jpg",
+      "season_number": 27,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 206,
+      "id": 5367,
+      "name": "Series 28",
+      "overview": "",
+      "poster_path": "/q2rad0AXtUknnMXaTZreUZU1kQV.jpg",
+      "season_number": 28,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 213,
+      "id": 5368,
+      "name": "Series 29",
+      "overview": "",
+      "poster_path": "/q6OY3SIc7TpbSBmRDnJrqBVNqub.jpg",
+      "season_number": 29,
+      "vote_average": 1.3
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 206,
+      "id": 61994,
+      "name": "Series 30",
+      "overview": "",
+      "poster_path": "/tc88wbvL7JGCUQNDIZhXZ1GNKq3.jpg",
+      "season_number": 30,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 209,
+      "id": 67644,
+      "name": "Series 31",
+      "overview": "",
+      "poster_path": "/yJWx1JPeFeIIOXijrVMCYzS2TwE.jpg",
+      "season_number": 31,
+      "vote_average": 1.4
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 210,
+      "id": 77537,
+      "name": "Series 32",
+      "overview": "",
+      "poster_path": "/jPnAfJlEB0bg1Q5XKnGFSbKrg1a.jpg",
+      "season_number": 32,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 209,
+      "id": 83247,
+      "name": "Series 33",
+      "overview": "",
+      "poster_path": "/1vhIsb356DjJxHGkCWatLYGIjKP.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 206,
+      "id": 97389,
+      "name": "Series 34",
+      "overview": "",
+      "poster_path": "/5yeQv1oWsyXexxdpEH71xzxOLFh.jpg",
+      "season_number": 34,
+      "vote_average": 2.9
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 210,
+      "id": 114581,
+      "name": "Series 35",
+      "overview": "",
+      "poster_path": "/cQS4knirjPjGb9hE3HUX4zrHc0K.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 138,
+      "id": 142355,
+      "name": "Series 36",
+      "overview": "",
+      "poster_path": "/jCEg1d141MxDFxB7ijLcIqgjbdB.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 209,
+      "id": 172037,
+      "name": "Series 37",
+      "overview": "",
+      "poster_path": "/xspMWFmYl9yYBZiFogITBMudRvW.jpg",
+      "season_number": 37,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 209,
+      "id": 236312,
+      "name": "Series 38",
+      "overview": "",
+      "poster_path": "/pPoZ5WgjNBLbho00v1joK2CcAyF.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 210,
+      "id": 319192,
+      "name": "Series 39",
+      "overview": "",
+      "poster_path": "/wZ3JDN6LjIUo7pyfunpnqEQbbEL.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 210,
+      "id": 368684,
+      "name": "Series 40",
+      "overview": "",
+      "poster_path": "/cpg2buqlw10eV76b0xVJrq9QQ6Y.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 211,
+      "id": 432015,
+      "name": "Series 41",
+      "overview": "",
+      "poster_path": "/p0vkygTy60J2BCfDLzYkbuAzUPw.jpg",
+      "season_number": 41,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 125,
+      "id": 488572,
+      "name": "Series 42",
+      "overview": "",
+      "poster_path": "/aVekLAWixDZpOPaEiQ6Fa1YoChc.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.249,
+  "vote_count": 229,
+  "external_ids": {
+    "id": 1871,
+    "imdb_id": "tt0088512",
+    "freebase_mid": "/m/02qfh",
+    "freebase_id": "/en/eastenders",
+    "tvdb_id": 71753,
+    "tvrage_id": 3418,
+    "wikidata_id": "Q607514",
+    "facebook_id": null,
+    "instagram_id": "bbceastenders",
+    "twitter_id": "bbceastenders"
+  }
+}

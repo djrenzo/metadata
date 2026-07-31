@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1978-01-04",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 328178,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1982-05-16",
+  "last_episode_to_air": {
+    "id": 7502774,
+    "name": "Episode 123",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1982-05-16",
+    "episode_number": 123,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 328178,
+    "still_path": null
+  },
+  "name": "Ciné regards",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 123,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Ciné regards",
+  "overview": "",
+  "popularity": 77.0623,
+  "poster_path": "/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+  "production_companies": [
+    {
+      "id": 1579,
+      "logo_path": "/otPDzB7wHCUsDH0BzKy3DQ7sTWP.png",
+      "name": "FR3",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1978-01-04",
+      "episode_count": 123,
+      "id": 528794,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 328178,
+    "imdb_id": "tt0368478",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,849 @@
+{
+  "adult": false,
+  "backdrop_path": "/fv3K9SWlXQaCzVsnh6RnzLu84xA.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    60
+  ],
+  "first_air_date": "1953-11-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006t14n",
+  "id": 5675,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-27",
+  "last_episode_to_air": {
+    "id": 7601226,
+    "name": "Andy Burnham: The Laura Kuenssberg Interview",
+    "overview": "What kind of prime minister will Andy Burnham be? Laura Kuenssberg has been behind the scenes with him during his first week in power. In his first major broadcast interview since taking office, she asks about his plans - and the challenges ahead.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-27",
+    "episode_number": 23,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 74,
+    "show_id": 5675,
+    "still_path": "/tLAl4DP8lrn1sqYheE0MVR8xY4d.jpg"
+  },
+  "name": "Panorama",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 2365,
+  "number_of_seasons": 74,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Panorama",
+  "overview": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+  "popularity": 55.9543,
+  "poster_path": "/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 158991,
+      "logo_path": "/nVcmCWSbd0SLMdZerAPvwkArzim.png",
+      "name": "BBC Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1953-11-11",
+      "episode_count": 19,
+      "id": 113875,
+      "name": "1953/1954",
+      "overview": "Panorama began broadcasting on 11th November 1953 as a fortnightly show. Described by the Radio Times of the day as a “reflection of the contemporary scene” it included reviews of the contemporary arts as well as featuring documentary pieces.\n\nThe first season of Panorama concluded its run on 4th August 1954\n\n(Information taken from the Radio Times via BBC Genome project programme index at https://genome.ch.bbc.co.uk)",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-10-20",
+      "episode_count": 22,
+      "id": 113876,
+      "name": "1954/1955",
+      "overview": "The second season of Panorama began on the 20th of October. Similar to the first year, it was described as “a fortnightly topical magazine” by the Radio Times of the day. Again introduced by Max Robertson the series ran from the end of 1954 until the middle of 1955, ending on the 10th of August.\n\n(Information again collated from BBC Genome project at https://genome.ch.bbc.co.uk/)",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-09-19",
+      "episode_count": 43,
+      "id": 113877,
+      "name": "1955/1956",
+      "overview": "Starting on 19th September 1955, Richard Dimbleby took over as the presenter of Panorama bringing you “ Television’s Window on the World” according to the Radio Times.\n\nContinuing the weekly listings paper went on “Every Monday in this programme film and television cameras focus on events and personalities of the moment.” The show originated from the BBC Television Studios in London, with contributions from Outside Broadcast units, Regional Studios, and the BBC Film Unit.\n\n(Information from BBC Genome Project https://genome.ch.bbc.co.uk/)",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-17",
+      "episode_count": 42,
+      "id": 113878,
+      "name": "1956/1957",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-23",
+      "episode_count": 41,
+      "id": 113879,
+      "name": "1957/1958",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-09-22",
+      "episode_count": 2,
+      "id": 113880,
+      "name": "1958/1959",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-08-31",
+      "episode_count": 45,
+      "id": 113881,
+      "name": "1959/1960",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-09-05",
+      "episode_count": 46,
+      "id": 113882,
+      "name": "1960/1961",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-09-25",
+      "episode_count": 1,
+      "id": 113883,
+      "name": "1961/1962",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-10-01",
+      "episode_count": 5,
+      "id": 113884,
+      "name": "1962/1963",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-09-23",
+      "episode_count": 2,
+      "id": 113885,
+      "name": "1963/1964",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-09-21",
+      "episode_count": 1,
+      "id": 113886,
+      "name": "1964/1965",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-27",
+      "episode_count": 38,
+      "id": 113887,
+      "name": "1965/1966",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-09-05",
+      "episode_count": 1,
+      "id": 113888,
+      "name": "1966/1967",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-09-25",
+      "episode_count": 14,
+      "id": 113889,
+      "name": "1967/1968",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-09-09",
+      "episode_count": 44,
+      "id": 113890,
+      "name": "1968/1969",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-08",
+      "episode_count": 48,
+      "id": 113891,
+      "name": "1969/1970",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-09-14",
+      "episode_count": 10,
+      "id": 113892,
+      "name": "1970/1971",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-09-06",
+      "episode_count": 49,
+      "id": 113893,
+      "name": "1971/1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-24",
+      "episode_count": 9,
+      "id": 113894,
+      "name": "1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-15",
+      "episode_count": 23,
+      "id": 113895,
+      "name": "1973",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-07",
+      "episode_count": 43,
+      "id": 113896,
+      "name": "1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-06",
+      "episode_count": 39,
+      "id": 113897,
+      "name": "1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-04-21",
+      "episode_count": 2,
+      "id": 113898,
+      "name": "1976",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-07-11",
+      "episode_count": 3,
+      "id": 113899,
+      "name": "1977",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-10-23",
+      "episode_count": 3,
+      "id": 113900,
+      "name": "1978",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 113901,
+      "name": "1979",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 113902,
+      "name": "1980",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-05",
+      "episode_count": 46,
+      "id": 113903,
+      "name": "1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-02-08",
+      "episode_count": 2,
+      "id": 113904,
+      "name": "1982",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-24",
+      "episode_count": 3,
+      "id": 113905,
+      "name": "1983",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-01",
+      "episode_count": 39,
+      "id": 113906,
+      "name": "1984",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-07",
+      "episode_count": 40,
+      "id": 113907,
+      "name": "1985",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-05-19",
+      "episode_count": 1,
+      "id": 113908,
+      "name": "1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-12",
+      "episode_count": 37,
+      "id": 113909,
+      "name": "1987",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-04",
+      "episode_count": 40,
+      "id": 113910,
+      "name": "1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-09",
+      "episode_count": 35,
+      "id": 113911,
+      "name": "1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-08",
+      "episode_count": 37,
+      "id": 113912,
+      "name": "1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-07",
+      "episode_count": 43,
+      "id": 113913,
+      "name": "1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-13",
+      "episode_count": 44,
+      "id": 113914,
+      "name": "1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-11",
+      "episode_count": 44,
+      "id": 113915,
+      "name": "1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-17",
+      "episode_count": 38,
+      "id": 113916,
+      "name": "1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-16",
+      "episode_count": 37,
+      "id": 113917,
+      "name": "1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-08",
+      "episode_count": 38,
+      "id": 113918,
+      "name": "1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-06",
+      "episode_count": 39,
+      "id": 113919,
+      "name": "1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-12",
+      "episode_count": 36,
+      "id": 113920,
+      "name": "1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-11",
+      "episode_count": 34,
+      "id": 113921,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-17",
+      "episode_count": 35,
+      "id": 113922,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2001-01-21",
+      "episode_count": 34,
+      "id": 96419,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2002-02-03",
+      "episode_count": 27,
+      "id": 113923,
+      "name": "2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-26",
+      "episode_count": 34,
+      "id": 113924,
+      "name": "2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-21",
+      "episode_count": 31,
+      "id": 113925,
+      "name": "2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-28",
+      "episode_count": 34,
+      "id": 113926,
+      "name": "2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-29",
+      "episode_count": 36,
+      "id": 113927,
+      "name": "2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-15",
+      "episode_count": 52,
+      "id": 94575,
+      "name": "2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 57,
+      "id": 113928,
+      "name": "2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 53,
+      "id": 113929,
+      "name": "2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-11",
+      "episode_count": 50,
+      "id": 94576,
+      "name": "2010",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-10",
+      "episode_count": 54,
+      "id": 113930,
+      "name": "2011",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-03",
+      "episode_count": 49,
+      "id": 113931,
+      "name": "2012",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-21",
+      "episode_count": 45,
+      "id": 113932,
+      "name": "2013",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-13",
+      "episode_count": 47,
+      "id": 113933,
+      "name": "2014",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-12",
+      "episode_count": 48,
+      "id": 113934,
+      "name": "2015",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-11",
+      "episode_count": 41,
+      "id": 101870,
+      "name": "2016",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 64,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2017-01-09",
+      "episode_count": 48,
+      "id": 98827,
+      "name": "2017",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 65,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2018-01-22",
+      "episode_count": 43,
+      "id": 98014,
+      "name": "2018",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 66,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2019-01-14",
+      "episode_count": 45,
+      "id": 138871,
+      "name": "2019",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 49,
+      "id": 138872,
+      "name": "2020",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 68,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 44,
+      "id": 172943,
+      "name": "2021",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-12",
+      "episode_count": 45,
+      "id": 246202,
+      "name": "2022",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 70,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 41,
+      "id": 324749,
+      "name": "2023",
+      "overview": "",
+      "poster_path": "/xG4M18ORKXVr97PplSuKYg3gE0S.jpg",
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 40,
+      "id": 372974,
+      "name": "2024",
+      "overview": "",
+      "poster_path": "/zrHOBoMC8EPVN0snhwv5oysvGGj.jpg",
+      "season_number": 72,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 39,
+      "id": 437952,
+      "name": "2025",
+      "overview": "",
+      "poster_path": "/dgovT052bvEn3jKIExlH6OkZamu.jpg",
+      "season_number": 73,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2026-01-12",
+      "episode_count": 23,
+      "id": 496252,
+      "name": "2026",
+      "overview": "",
+      "poster_path": "/fT3NGx3wVEPQ4hXRu1Ra6p6Uwbe.jpg",
+      "season_number": 74,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 6.286,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 5675,
+    "imdb_id": "tt0199257",
+    "freebase_mid": "/m/048x4s",
+    "freebase_id": null,
+    "tvdb_id": 80748,
+    "tvrage_id": 10101,
+    "wikidata_id": "Q1247810",
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": "BBCPanorama"
+  }
+}

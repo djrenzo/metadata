@@ -1,0 +1,260 @@
+{
+  "adult": false,
+  "backdrop_path": "/k6wPlUYtoxpQB9M63I6z2oSHLuz.jpg",
+  "created_by": [
+    {
+      "id": 1220772,
+      "credit_id": "52540b2819c29579402f8ae8",
+      "name": "Agnes Nixon",
+      "original_name": "Agnes Nixon",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1970-01-05",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://abc.go.com/daytime/allmychildren",
+  "id": 879,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-09-21",
+  "last_episode_to_air": {
+    "id": 4356323,
+    "name": "10710",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-09-21",
+    "episode_number": 182,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 43,
+    "show_id": 879,
+    "still_path": null
+  },
+  "name": "All My Children",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2389,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "All My Children",
+  "overview": "All My Children is an American television soap opera that aired on ABC for 41 years, from January 5, 1970 to September 23, 2011, and on The Online Network since April 29, 2013 via Hulu, Hulu Plus, and iTunes. Created by Agnes Nixon, All My Children is set in Pine Valley, Pennsylvania, a fictitious suburb of Philadelphia which is modeled on the actual Philadelphia suburb of Rosemont.",
+  "popularity": 34.8221,
+  "poster_path": "/4zYDW6wunTm5gm8vo4dfhpvkT0w.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1970-01-05",
+      "episode_count": 183,
+      "id": 59636,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-05",
+      "episode_count": 1,
+      "id": 426524,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-04",
+      "episode_count": 28,
+      "id": 336492,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-04",
+      "episode_count": 11,
+      "id": 336495,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-03",
+      "episode_count": 9,
+      "id": 336496,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-07-02",
+      "episode_count": 126,
+      "id": 59635,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-04",
+      "episode_count": 233,
+      "id": 59634,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-06",
+      "episode_count": 232,
+      "id": 59631,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-05",
+      "episode_count": 241,
+      "id": 59633,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-04",
+      "episode_count": 235,
+      "id": 59632,
+      "name": "season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-05",
+      "episode_count": 232,
+      "id": 59637,
+      "name": "season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-05",
+      "episode_count": 233,
+      "id": 59638,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 220,
+      "id": 59640,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 1
+    },
+    {
+      "air_date": null,
+      "episode_count": 229,
+      "id": 59641,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 174,
+      "id": 59642,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 2,
+      "id": 336497,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.352,
+  "vote_count": 27,
+  "external_ids": {
+    "id": 879,
+    "imdb_id": "tt0065272",
+    "freebase_mid": "/m/0gj50",
+    "freebase_id": "/en/all_my_children",
+    "tvdb_id": 77452,
+    "tvrage_id": null,
+    "wikidata_id": "Q205474",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

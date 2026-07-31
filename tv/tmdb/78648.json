@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/pNdUVPm6RwvG9Ycd2cuYpLbM7lk.jpg",
+  "created_by": [
+    {
+      "id": 3131495,
+      "credit_id": "60d0178eecaef5002d2f2b3a",
+      "name": "Lee Tae-kyeong",
+      "original_name": "Lee Tae-kyeong",
+      "gender": 2,
+      "profile_path": "/boJAQpKlYGuAOZioAzfsoTrJ0e0.jpg"
+    }
+  ],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2018-04-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://program.tving.com/tvn/amazingsaturday/",
+  "id": 78648,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-05-30",
+  "last_episode_to_air": {
+    "id": 7453022,
+    "name": "Episode 427",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 427,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 78648,
+    "still_path": null
+  },
+  "name": "Amazing Saturday",
+  "next_episode_to_air": {
+    "id": 7453026,
+    "name": "Episode 428",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-01",
+    "episode_number": 428,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 78648,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 866,
+      "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 420,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "놀라운 토요일",
+  "overview": "A group of hungry celebrities listen to poppin’ tunes, from recent hits to all-time-favorites, to correctly dictate a part of the lyrics.\n\nThe songs may sound familiar, but the part they must dictate are unclear to the naked ear, as the lyrics are slurred, muffled by strong beats, etc.\n\nIf they get the lyrics right, they get to share exquisite regional dishes. But if they get them wrong, a professional eater gobbles it up instead.",
+  "popularity": 42.9784,
+  "poster_path": "/nEwybsfZBSPjcZamPpKDTaTI5g.jpg",
+  "production_companies": [
+    {
+      "id": 128404,
+      "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-14",
+      "episode_count": 4,
+      "id": 174818,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/wYvX0RtDAVJ8yKzcebnI3rq3fkT.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-07",
+      "episode_count": 430,
+      "id": 102152,
+      "name": "Season 1",
+      "overview": "Amazing Saturday is here to give viewers another pleasant surprise on Saturday nights. From popular restaurants to places with traditions, all sorts of delicacies popular on social media are brought to Amazing Saturday. However, the members will only get to have it when they succeed in completing a mission. A mission is to correctly guess the lyrics of a song and if they succeed, they can enjoy good eats. If the members fail, all the food goes to Haetnim the Short Mouth, the eating show YouTuber. Will they be able to correctly guess the lyrics and enjoy tasty food or will Haetnim the Short Mouth have it all?",
+      "poster_path": "/nEwybsfZBSPjcZamPpKDTaTI5g.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.6,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 78648,
+    "imdb_id": "tt10160132",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 350134,
+    "tvrage_id": null,
+    "wikidata_id": "Q52063058",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

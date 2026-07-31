@@ -1,0 +1,690 @@
+{
+  "adult": false,
+  "backdrop_path": "/tKtxE1KzqKDg3HIXNnlr7VpuWzd.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2007-04-23",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.foodnetwork.com/shows/diners-drive-ins-and-dives",
+  "id": 4086,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-10",
+  "last_episode_to_air": {
+    "id": 7588635,
+    "name": "Triple D Nation: Seafood, Schnitzel and Spam",
+    "overview": "This trip, Guy Fieri's headed back to top spots servin' up some fresh takes! Just outside New Orleans, a sizzlin' seafood joint has expanded, still going boat-to-table with dynamite Delacroix drum nachos and the-bomb backyard boiled crawfish. An old-school diner with a tribute to the troops in Fountain Valley, Calif., is busier than ever, dishing out smoked spam loco moco and puttin' their stamp on pot roast. Then, in Chicago, a big-time beer bar is even more of a foodie destination, plating a prime-time pork schnitzel sandwich, plus poutine with beer cheese and bacon gravy.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 56,
+    "show_id": 4086,
+    "still_path": null
+  },
+  "name": "Diners, Drive-Ins and Dives",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 143,
+      "logo_path": "/tm2UclPxfamHyFuILLq4jNxsi8v.png",
+      "name": "Food Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 714,
+  "number_of_seasons": 56,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Diners, Drive-Ins and Dives",
+  "overview": "Host Guy Fieri takes a cross-country road trip to visit some of America's classic \"greasy spoon\" restaurants — diners, drive-ins and dives — that have been doing it right for decades.",
+  "popularity": 31.8192,
+  "poster_path": "/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg",
+  "production_companies": [
+    {
+      "id": 134690,
+      "logo_path": "/irfF0sDNJDS3wFjflgfRLZUoMmF.png",
+      "name": "Knuckle Sandwich Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 26784,
+      "logo_path": "/p3qLEuW57lelJkmC9TIuwIYgsg3.png",
+      "name": "Citizen Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 200761,
+      "logo_path": null,
+      "name": "Page Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 200762,
+      "logo_path": null,
+      "name": "Match / Cut Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-11-23",
+      "episode_count": 49,
+      "id": 12077,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/lIJiO0nTE1KLyqp5xMhQcGrgB0k.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-04-23",
+      "episode_count": 12,
+      "id": 12068,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xtiTqgM9DjVAWACJrd1Ic8xSH6O.jpg",
+      "season_number": 1,
+      "vote_average": 4.9
+    },
+    {
+      "air_date": "2007-10-01",
+      "episode_count": 13,
+      "id": 12069,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/goSaYozrxEf2wZT0olCAfzSwNKp.jpg",
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2008-03-10",
+      "episode_count": 13,
+      "id": 12070,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/l1VsLvkh8BCvzsZ9iQbqUU9Dter.jpg",
+      "season_number": 3,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2008-07-14",
+      "episode_count": 13,
+      "id": 12071,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/8H5oHGR7k6mdm4k160MfR7Foyly.jpg",
+      "season_number": 4,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2008-10-27",
+      "episode_count": 13,
+      "id": 12072,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/klVgLTsJg0OvntQVJZfO9FipYT0.jpg",
+      "season_number": 5,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2009-04-06",
+      "episode_count": 13,
+      "id": 12073,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/cGKSbDfnZj7QQKSw5QqHVXf7yd.jpg",
+      "season_number": 6,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2009-08-03",
+      "episode_count": 13,
+      "id": 12067,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/n5eaVXgcqCgbcvmgcnQd0EyBxjX.jpg",
+      "season_number": 7,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2009-11-23",
+      "episode_count": 11,
+      "id": 12074,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/fOSwnAPydUxozazzzYVcXM6yleV.jpg",
+      "season_number": 8,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2010-04-27",
+      "episode_count": 13,
+      "id": 12076,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/6yPEo6eLhad35R8m9AFJS6exFDL.jpg",
+      "season_number": 9,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 13,
+      "id": 12075,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/o5Q8DTnY4RoonDGUwbqGnVol5Wt.jpg",
+      "season_number": 10,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 13,
+      "id": 61901,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/ay3sRk9PDWvVfMdfynVD2SqO6hd.jpg",
+      "season_number": 11,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2011-05-09",
+      "episode_count": 13,
+      "id": 61902,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/b0trpomMcHZTNTHnieKDA1CNQT6.jpg",
+      "season_number": 12,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2011-11-28",
+      "episode_count": 13,
+      "id": 61903,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/hpBxwYjZOpl2R45jLF8VY75XVlR.jpg",
+      "season_number": 13,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2012-04-02",
+      "episode_count": 13,
+      "id": 61904,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/kebXizuxbrEgpRyXfqtd7QLfTmL.jpg",
+      "season_number": 14,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2012-08-06",
+      "episode_count": 13,
+      "id": 61900,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/b5vS2rELhgxauCXRQh5hDeiSslf.jpg",
+      "season_number": 15,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2012-12-10",
+      "episode_count": 13,
+      "id": 61899,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/vmtl8dwMtpf2liRMAKZkKhidOXA.jpg",
+      "season_number": 16,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2013-04-22",
+      "episode_count": 13,
+      "id": 61898,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/23swjl3ZC3GGOt3fqiUpqP2ZdDC.jpg",
+      "season_number": 17,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2013-08-26",
+      "episode_count": 13,
+      "id": 61897,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/38WuezcBtAc9GN0Dlu9xHNE86DB.jpg",
+      "season_number": 18,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2014-02-07",
+      "episode_count": 12,
+      "id": 61896,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/1XJHYkkxjGYcA52mKddpXrV3Zl.jpg",
+      "season_number": 19,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2014-07-11",
+      "episode_count": 5,
+      "id": 61895,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/3FTh2nXqTND2By3fGWF8nhYw0gl.jpg",
+      "season_number": 20,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2014-09-05",
+      "episode_count": 13,
+      "id": 216099,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/ylJTK4rxDZJxLGb5wk5Wj6nxD8H.jpg",
+      "season_number": 21,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2015-01-16",
+      "episode_count": 13,
+      "id": 216098,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/5UUysLV26acXPa9X6Y4JheLk8io.jpg",
+      "season_number": 22,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2015-07-17",
+      "episode_count": 15,
+      "id": 216097,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/sFRN4Tbz0Iuj5t9lhKxP4zFFXPA.jpg",
+      "season_number": 23,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 13,
+      "id": 73444,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/5oDsF1T2eHELIAPxzTMZmiqaXLb.jpg",
+      "season_number": 24,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2016-07-01",
+      "episode_count": 13,
+      "id": 78145,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/f4lmz11euoLjtIFsjajLb0MdD1o.jpg",
+      "season_number": 25,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2017-01-05",
+      "episode_count": 16,
+      "id": 83424,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/uhZuIpRb8hfjahZJJn6As4grrWo.jpg",
+      "season_number": 26,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2017-07-07",
+      "episode_count": 15,
+      "id": 323433,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/rHJqEkOmcqSludG9DmKDrM1RwId.jpg",
+      "season_number": 27,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2017-12-17",
+      "episode_count": 30,
+      "id": 100384,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/tPjBHYcCAhGKVj4ZcI6UkgzEGUY.jpg",
+      "season_number": 28,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2018-09-21",
+      "episode_count": 20,
+      "id": 121258,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/yIIAZoxKraupXcRxd6HI8Lta4v9.jpg",
+      "season_number": 29,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2019-02-08",
+      "episode_count": 8,
+      "id": 132393,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/cjNwFOk0vVDTKOzpdlinrv5pqc.jpg",
+      "season_number": 30,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2019-04-05",
+      "episode_count": 7,
+      "id": 136401,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/wIP2Qazwf0UAZh7LqZqMwZehKia.jpg",
+      "season_number": 31,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2019-05-24",
+      "episode_count": 13,
+      "id": 160667,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/wKJM81BFTyw6hpFEvKenD8alWzI.jpg",
+      "season_number": 32,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2019-08-23",
+      "episode_count": 15,
+      "id": 160668,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/gQJclJVucCFEl6AOnR6OCDSuYmw.jpg",
+      "season_number": 33,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2019-12-06",
+      "episode_count": 13,
+      "id": 216092,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/4Y51v239T0pwXmD5SZJznJkTBSz.jpg",
+      "season_number": 34,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2020-03-06",
+      "episode_count": 13,
+      "id": 323451,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/tPZrMBIOZ6YQiVprFEDFPNQh7px.jpg",
+      "season_number": 35,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2020-06-05",
+      "episode_count": 15,
+      "id": 323454,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/6CzoBiJzVKqty88iQKHnjoRLFN1.jpg",
+      "season_number": 36,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2020-10-02",
+      "episode_count": 12,
+      "id": 244242,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/387KqLtKMcUmisonRPFomxVWJcJ.jpg",
+      "season_number": 37,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 13,
+      "id": 244245,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/dEBonr9UNiV310lvBF5qGAY1gbm.jpg",
+      "season_number": 38,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2021-04-02",
+      "episode_count": 13,
+      "id": 244246,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/ueJl5LiMTeqccMBDG86yeXEAQyY.jpg",
+      "season_number": 39,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2021-07-02",
+      "episode_count": 12,
+      "id": 243711,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/c4mBojLHHsjnlFh6qnCXGDmY92a.jpg",
+      "season_number": 40,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 10,
+      "id": 243712,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/gJ5W3JkSToHk5B7d4GxY8TTAavY.jpg",
+      "season_number": 41,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2022-01-28",
+      "episode_count": 15,
+      "id": 243716,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/269F8Tlvu6KWEKH3ftdT0wPdVwm.jpg",
+      "season_number": 42,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2022-07-01",
+      "episode_count": 12,
+      "id": 300288,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/zYne64zpz6zan6ywKb6FJSxXxuI.jpg",
+      "season_number": 43,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2022-09-30",
+      "episode_count": 10,
+      "id": 311134,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/4Mslep90FVFto0lPzocyo5oWCf2.jpg",
+      "season_number": 44,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2023-01-06",
+      "episode_count": 15,
+      "id": 325100,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/brkcGO6pFh2npAljctKhgOI9CRr.jpg",
+      "season_number": 45,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2023-04-28",
+      "episode_count": 16,
+      "id": 331244,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/5iPrcX0ijD6ueKBv9JPK8ngJj97.jpg",
+      "season_number": 46,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2023-09-29",
+      "episode_count": 12,
+      "id": 359080,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/4HAOb1iwAP198tJXA1tGTGjsJX5.jpg",
+      "season_number": 47,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 13,
+      "id": 373004,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/ii79USb8uc0AWI2FbJzxWTPNMWP.jpg",
+      "season_number": 48,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2024-07-05",
+      "episode_count": 12,
+      "id": 401074,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/wZwT8Njq5qAIvPVIusrBbgEk3Sl.jpg",
+      "season_number": 49,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2024-10-04",
+      "episode_count": 12,
+      "id": 421965,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/bfXm2eYYAhaioyJp0HC96AtZyb2.jpg",
+      "season_number": 50,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2025-01-03",
+      "episode_count": 13,
+      "id": 436123,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/cl6FxZDwWQ7kUgfJbr2xbM7iW77.jpg",
+      "season_number": 51,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2025-04-25",
+      "episode_count": 12,
+      "id": 453602,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": "/ydrXIgC8He4IVRKfzdXtTr2CyZr.jpg",
+      "season_number": 52,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2025-08-15",
+      "episode_count": 12,
+      "id": 470107,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/w2YTFYlS0KgWKz0zfPWeS9DFyO3.jpg",
+      "season_number": 53,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2026-01-02",
+      "episode_count": 12,
+      "id": 492496,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/ykK0Xa6fj2B2we1LTAleE5q96AG.jpg",
+      "season_number": 54,
+      "vote_average": 4.7
+    },
+    {
+      "air_date": "2026-04-10",
+      "episode_count": 8,
+      "id": 510316,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/gIYWM0VgKaaivMJbxZglW6LXyK.jpg",
+      "season_number": 55,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2026-07-10",
+      "episode_count": 2,
+      "id": 528861,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/h3sYnUtCwtiEN0rDf8Yo8I1rsCi.jpg",
+      "season_number": 56,
+      "vote_average": 5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.84,
+  "vote_count": 72,
+  "external_ids": {
+    "id": 4086,
+    "imdb_id": "tt1020913",
+    "freebase_mid": "/m/02r827y",
+    "freebase_id": "/en/diners_drive_ins_and_dives",
+    "tvdb_id": 82918,
+    "tvrage_id": null,
+    "wikidata_id": "Q3028299",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

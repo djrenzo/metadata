@@ -1,0 +1,615 @@
+{
+  "adult": false,
+  "backdrop_path": "/j6aCSIjK4N7SpkSPBBNv7vbDvJo.jpg",
+  "created_by": [
+    {
+      "id": 2970046,
+      "credit_id": "649df80bc072a2014faf24d5",
+      "name": "Thomas Lovejoy",
+      "original_name": "Thomas Lovejoy",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245546,
+      "credit_id": "649df7a85aba320139944825",
+      "name": "George Page",
+      "original_name": "George Page",
+      "gender": 2,
+      "profile_path": "/fS7jA2pWLlK4E9QbVA0tBddxyeT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    53
+  ],
+  "first_air_date": "1982-10-10",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.pbs.org/wnet/nature/",
+  "id": 14951,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-22",
+  "last_episode_to_air": {
+    "id": 7040602,
+    "name": "Legendary Tigers of India",
+    "overview": "Ranthambore National Park in northern India is known for its spectacular wildlife and, specifically, its magnificent tigers and these big cats have an extraordinary story to tell. Once hunted by Queen Elizabeth II, then protected by Prime Minister Indira Gandhi, these tigers have grown from a group of twelve terrified cats into a fearless clan 70-odd strong.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-22",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 44,
+    "show_id": 14951,
+    "still_path": "/qaGyRzA0p7Ok3nPLfJFPUj99jGN.jpg"
+  },
+  "name": "Nature",
+  "next_episode_to_air": {
+    "id": 7581171,
+    "name": "Sesame Street and the Great Elephant Adventure",
+    "overview": "Join Elmo and the Sesame Street gang on a once-in-a-lifetime African safari adventure. After adopting an orphaned elephant online, Elmo, Abby and Nina decide to travel to The Sheldrick Wildlife Trust in Kenya to meet the young elephant and the keepers who care for her.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-14",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 45,
+    "show_id": 14951,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 692,
+  "number_of_seasons": 45,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Nature",
+  "overview": "Consistently stunning documentaries transport viewers to far-flung locations ranging from the torrid African plains to the chilly splendours of icy Antarctica. The show's primary focus is on animals and ecosystems around the world. A comic book based on the show, meant to be used an as educational tool for kids, was briefly distributed to museums and schools at no cost in the mid-2000s.",
+  "popularity": 37.4629,
+  "poster_path": "/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg",
+  "production_companies": [
+    {
+      "id": 10492,
+      "logo_path": "/3fcHNVpW66wgG6o0cgFJlcP8cCg.png",
+      "name": "Thirteen",
+      "origin_country": "US"
+    },
+    {
+      "id": 191677,
+      "logo_path": "/jVkPAzYbEqLVIJ4SxGTGNQrlytP.png",
+      "name": "Coneflower Films Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 586,
+      "logo_path": null,
+      "name": "Trebitsch Produktion International GmbH",
+      "origin_country": "DE"
+    },
+    {
+      "id": 134683,
+      "logo_path": "/7i3upiV2YtUjCMqheIIhBaOwUbF.png",
+      "name": "Rubin Tarrant Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 44,
+      "id": 26510,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/lvFBcrHKRl0JWILnk2qQhwPBzH2.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-10-10",
+      "episode_count": 13,
+      "id": 26490,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/y3KBcxBV10UQvjTZCnwQJHPlHql.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-10-09",
+      "episode_count": 13,
+      "id": 26491,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/a81jp9vURtfKqMcklQRiRJom6yy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-30",
+      "episode_count": 18,
+      "id": 26492,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8oj7AjPoFcJtcSHv7SIEvQPPXwg.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-10-20",
+      "episode_count": 20,
+      "id": 26493,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/qTFiVpEmAhEcPTB7rnAjqh4FKq.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-10-19",
+      "episode_count": 20,
+      "id": 26494,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/xhWkhOhHXOTsS1IbVhfl5d6V8qw.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-20",
+      "episode_count": 21,
+      "id": 26495,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/8psxd0hH93MSFufqPR7loeoVnWe.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-09",
+      "episode_count": 20,
+      "id": 26483,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/feoOcjmm6z1CQeytTB2mLBloSoC.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-10-08",
+      "episode_count": 20,
+      "id": 26496,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/jwDWoOc8kE0s1Xyg2eZL2tc7CS0.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-30",
+      "episode_count": 21,
+      "id": 26497,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/eXb972lDMbWpAWznlQQKzsds7HH.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-28",
+      "episode_count": 21,
+      "id": 26498,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/i3dK8afEDlHPVyoDSEm8IfaZIT1.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-10-05",
+      "episode_count": 18,
+      "id": 26499,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/oYdvwQRMXyR1hFV8xVtfhUM0IPz.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-10-03",
+      "episode_count": 14,
+      "id": 26500,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/xZVVochKC9XhhtWjEfzNOF8EDpr.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-02",
+      "episode_count": 15,
+      "id": 26487,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/6zuKx7whRIUfKI9iSOdq6y0vPo3.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-08",
+      "episode_count": 14,
+      "id": 26484,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/ayVNf7Gzvfb1gEudaJb4CA6t9aa.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-13",
+      "episode_count": 14,
+      "id": 26501,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/7OouSVsPq6cB7XPjTX4h7XlBSNT.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-12",
+      "episode_count": 16,
+      "id": 26502,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/iuepklyHYnLzwO8XZcVkMzuFcCN.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-11",
+      "episode_count": 16,
+      "id": 26503,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/jt7w7IHi90PH0pc2K68qU97u0ne.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-24",
+      "episode_count": 18,
+      "id": 26504,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/hPdmZIbBz1K83PF7AWHI8VC3XZR.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-22",
+      "episode_count": 16,
+      "id": 26482,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/3SxLUfOJi8VgYZp55Fi5u9WdWUj.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-09",
+      "episode_count": 17,
+      "id": 26505,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/bszEw4Nmjqh4B2yLzsokEIRjEMy.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-13",
+      "episode_count": 14,
+      "id": 26506,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/vzdUO0jf7wsNdipnBIWCwhSxijS.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-19",
+      "episode_count": 13,
+      "id": 26507,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/6B2LFUtkurm3ek2LIEbUcxOvRCd.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-11-07",
+      "episode_count": 13,
+      "id": 26485,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/wocReDj6mp0THA3dgpXTAZ2cbmi.jpg",
+      "season_number": 23,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2005-11-06",
+      "episode_count": 13,
+      "id": 26488,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/6tOANBuKEbuWDgBQFnxvuqBjO19.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-24",
+      "episode_count": 16,
+      "id": 26486,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/eSZcPdpmEYHOifPlOGhWeHXaiWl.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-28",
+      "episode_count": 13,
+      "id": 26489,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/xA4F5J7FWzr3iZpXtgsaS0VK3Dv.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-26",
+      "episode_count": 13,
+      "id": 26508,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/wIBGPNIapB0nUmsbtGREzIcVK92.jpg",
+      "season_number": 27,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2009-10-25",
+      "episode_count": 10,
+      "id": 26509,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/7UhHZF2XgACwkdrPmqw3BgaCSbl.jpg",
+      "season_number": 28,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2010-09-26",
+      "episode_count": 16,
+      "id": 26511,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/4fKlYGurndITrAjBGJLpVYSz5yu.jpg",
+      "season_number": 29,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2011-10-19",
+      "episode_count": 13,
+      "id": 26512,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/evZdZmgi4E4Okq5TGAJJ3UBkJg5.jpg",
+      "season_number": 30,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 13,
+      "id": 26513,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/uIs5Qq9gxaDFl3no7BWX5wnwwho.jpg",
+      "season_number": 31,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2013-09-04",
+      "episode_count": 19,
+      "id": 26514,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/mpwwv5XmNpesGiI0VF29wBzwAph.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-24",
+      "episode_count": 17,
+      "id": 63397,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/vlKs6TWvWGEJI8ZIxv6sIDmt8rg.jpg",
+      "season_number": 33,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2015-09-23",
+      "episode_count": 16,
+      "id": 71075,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/d7LmppEMwcqCo9pGa9x6FO3PYd6.jpg",
+      "season_number": 34,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2016-10-12",
+      "episode_count": 17,
+      "id": 80994,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/98Bb6KBGNug9XMS7qmG9y6Fhi6w.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-04",
+      "episode_count": 16,
+      "id": 171325,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/jGmUlKwIpgiMUVehZKoC47L0N0p.jpg",
+      "season_number": 36,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-10-24",
+      "episode_count": 15,
+      "id": 171326,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/eR0IZCQdbA9UD4yV8ZW5AvFGwaO.jpg",
+      "season_number": 37,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-10-02",
+      "episode_count": 18,
+      "id": 169861,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/iL4PchykUsU6d4KkYbGrN0ijmG6.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-21",
+      "episode_count": 13,
+      "id": 168123,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/lBqntV4h7dSUPrWC4Y0VWpIdz48.jpg",
+      "season_number": 39,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2021-10-20",
+      "episode_count": 13,
+      "id": 216458,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/lvFBcrHKRl0JWILnk2qQhwPBzH2.jpg",
+      "season_number": 40,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2022-10-19",
+      "episode_count": 13,
+      "id": 313323,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/jXcWLAm7wBUgDqCeAyDDdM7xb1X.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-18",
+      "episode_count": 17,
+      "id": 360563,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/dDcn0PO4mbLdsOOWlGJDE9DRiYw.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-23",
+      "episode_count": 13,
+      "id": 424874,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/edXWKA3krXEDKlv173nWVxV5U4G.jpg",
+      "season_number": 43,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2025-10-22",
+      "episode_count": 13,
+      "id": 481383,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/h59xhsT3KFr7EH7jB1uFZDP6bt8.jpg",
+      "season_number": 44,
+      "vote_average": 3.7
+    },
+    {
+      "air_date": "2026-10-14",
+      "episode_count": 3,
+      "id": 532030,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.9,
+  "vote_count": 44,
+  "external_ids": {
+    "id": 14951,
+    "imdb_id": "tt0083452",
+    "freebase_mid": "/m/0513q8",
+    "freebase_id": null,
+    "tvdb_id": 81157,
+    "tvrage_id": 6773,
+    "wikidata_id": "Q10455501",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

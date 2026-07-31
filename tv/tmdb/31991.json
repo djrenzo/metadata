@@ -1,0 +1,365 @@
+{
+  "adult": false,
+  "backdrop_path": "/8BaPwADDUeg752Dxf0VSUHMQuYc.jpg",
+  "created_by": [
+    {
+      "id": 115788,
+      "credit_id": "594bd515925141310c0125fd",
+      "name": "Paul Levesque",
+      "original_name": "Paul Levesque",
+      "gender": 2,
+      "profile_path": "/gOeQvjY8B9E81f3hDjOTmxx9ig4.jpg"
+    },
+    {
+      "id": 57342,
+      "credit_id": "5f6f3d67532acb0037191d0c",
+      "name": "Vince McMahon",
+      "original_name": "Vince McMahon",
+      "gender": 2,
+      "profile_path": "/3m4Z7YwnTqgLlQWP7A7TgYOJrj7.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2010-02-23",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.cwtv.com/shows/wwe-nxt",
+  "id": 31991,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-14",
+  "last_episode_to_air": {
+    "id": 7425226,
+    "name": "July 28, 2026",
+    "overview": "Myles Borne puts the NXT North American Championship at stake against Kam Hendrix in hopes of securing a future NXT Tag Team Title fight.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-28",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 84,
+    "season_number": 20,
+    "show_id": 31991,
+    "still_path": "/tDsO1Kz40uONMN0217Yh4D4QWda.jpg"
+  },
+  "name": "WWE NXT",
+  "next_episode_to_air": {
+    "id": 7425227,
+    "name": "August 4, 2026",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-04",
+    "episode_number": 31,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 84,
+    "season_number": 20,
+    "show_id": 31991,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 30,
+      "logo_path": "/g1e0H0Ka97IG5SyInMXdJkHGKiH.png",
+      "name": "USA Network",
+      "origin_country": "US"
+    },
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    },
+    {
+      "id": 77,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    },
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    },
+    {
+      "id": 1025,
+      "logo_path": "/fNkVI38NJKpnWKMmEkSxxinuyAe.png",
+      "name": "WWE Network",
+      "origin_country": "US"
+    },
+    {
+      "id": 7642,
+      "logo_path": null,
+      "name": "WWE.com",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 887,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "WWE NXT",
+  "overview": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestling match or series of matches.",
+  "popularity": 64.6652,
+  "poster_path": "/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+  "production_companies": [
+    {
+      "id": 146598,
+      "logo_path": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+      "name": "World Wrestling Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-02-23",
+      "episode_count": 15,
+      "id": 43466,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vq0lAgzyG3Q2STlPsxPvYoUEEVY.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2010-06-08",
+      "episode_count": 13,
+      "id": 43467,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/cSTEJltc2R5gDYq0FVIX2uThA5k.jpg",
+      "season_number": 2,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2010-09-07",
+      "episode_count": 13,
+      "id": 43468,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/c5uglv0zHvcy1s906VixnOjSYLi.jpg",
+      "season_number": 3,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2010-12-07",
+      "episode_count": 13,
+      "id": 43469,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/k7C2tpywj47anjmzSwXzlgaCJtv.jpg",
+      "season_number": 4,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2011-03-08",
+      "episode_count": 67,
+      "id": 43470,
+      "name": "Redemption",
+      "overview": "",
+      "poster_path": "/tSJzXCPJwN8yXh3xjVhapG0Y4P5.jpg",
+      "season_number": 5,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2012-06-20",
+      "episode_count": 28,
+      "id": 65137,
+      "name": "Season 6",
+      "overview": "It's the dawning of a new era in NXT as the gold and black brand finds a home at Full Sail University, crowns its first champion, and kicks off the WWE careers of Seth Rollins, Cesaro, Roman Reigns, and more.",
+      "poster_path": "/xwg6hpcT767hz4s1FqSZrFjGctZ.jpg",
+      "season_number": 6,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 52,
+      "id": 65138,
+      "name": "Season 7",
+      "overview": "Witness a tournament to crown the first NXT Tag Team and Women's Champions, the Shield rise in dominance, and the debuts of Sasha Banks, Sami Zayn, and more future WWE Superstars during 2013 in NXT.",
+      "poster_path": "/kBfWqAVZnXZZC40TeGWkOd0lCXe.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 52,
+      "id": 65139,
+      "name": "Season 8",
+      "overview": "The future is now as NXT makes its mark with its first live specials taking over WWE Network. Paige, Kevin Owens, Rusev & Lana, Charlotte Flair, and more up-and-coming WWE Superstars highlight 2014 in NXT.",
+      "poster_path": "/6392Ckfw1FmXl3nzzgeJHbug3Hj.jpg",
+      "season_number": 8,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 53,
+      "id": 65140,
+      "name": "Season 9",
+      "overview": "Finn Bálor, Bayley, Samoa Joe, Becky Lynch, and more future WWE Superstars make 2015 one of the most historic years in NXT. Featuring the first NXT TakeOver: Brooklyn and inaugural Dusty Rhodes Tag Team Classic.",
+      "poster_path": "/jjOXtbAkKY3OdvKDufy97vIyw88.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-06",
+      "episode_count": 51,
+      "id": 73827,
+      "name": "Season 10",
+      "overview": "Strong style takes over NXT in 2016 as Shinsuke Nakamura joins the brand and Asuka's undefeated streak carries her to the NXT Women's Championship. Featuring Bayley, Samoa Joe, No Way Jose, Finn Bálor, and more",
+      "poster_path": "/ssQRK0SSlY0uOtvG7YbjPSATs7j.jpg",
+      "season_number": 10,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2017-01-04",
+      "episode_count": 52,
+      "id": 83876,
+      "name": "Season 11",
+      "overview": "Chaos reigns supreme in NXT during 2017 as the Undisputed Era makes its mark, SAnitY runs amok, Ember Moon succeeds Asuka, Bobby Roode is glorious, the United Kingdom Championship debuts, and so much more.",
+      "poster_path": "/2oeaQXjNra00am2giNywdLPrDu.jpg",
+      "season_number": 11,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2018-01-03",
+      "episode_count": 52,
+      "id": 96668,
+      "name": "Season 12",
+      "overview": "Darkness falls over NXT in 2018 as Aleister Black, Tommaso Ciampa, Shayna Baszler, and War Raiders loom over the brand. Plus, Velveteen Dream, Johnny Gargano, Ricochet, and more help take NXT to the next level.",
+      "poster_path": "/dfn9ynPkvQZ7JJzEGJuUVOCnwAn.jpg",
+      "season_number": 12,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 57,
+      "id": 115164,
+      "name": "Season 13",
+      "overview": "The future is now! In 2019 on NXT heated rivalries like Johnny Gargano vs. Adam Cole take center stage while the Dusty Rhodes Tag Team Classic Tournament returns. All this and much more action.",
+      "poster_path": "/qEfI0IusmyAlbfC7w2lBdrt7Hyp.jpg",
+      "season_number": 13,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 58,
+      "id": 139484,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/7QDubXOlVLI0OmW3snmwYfhre2Y.jpg",
+      "season_number": 14,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2021-01-06",
+      "episode_count": 57,
+      "id": 172994,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/s9NaT6Q6Anuj1ryVVnUSnudcIE5.jpg",
+      "season_number": 15,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2022-01-04",
+      "episode_count": 57,
+      "id": 237453,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/51taojCVD8arKdjSpVmgPcH2giA.jpg",
+      "season_number": 16,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2023-01-03",
+      "episode_count": 58,
+      "id": 321204,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/jvJk424UMSg3VRzCNNSe3hCcQGN.jpg",
+      "season_number": 17,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 53,
+      "id": 371076,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/5pPZi4eh7K0EEnnOS6pZG3dJsTl.jpg",
+      "season_number": 18,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2025-01-07",
+      "episode_count": 52,
+      "id": 433873,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/oqQs27QPurfUmMqKaTglZuViLrJ.jpg",
+      "season_number": 19,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2026-01-06",
+      "episode_count": 34,
+      "id": 489199,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/czAZ6vKeBt7gRi8p92w242sKt3q.jpg",
+      "season_number": 20,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "WWE NXT features the next generation of Superstars battling to make an impact.",
+  "type": "Scripted",
+  "vote_average": 6.694,
+  "vote_count": 129,
+  "external_ids": {
+    "id": 31991,
+    "imdb_id": "tt1601141",
+    "freebase_mid": "/m/0b6lgkz",
+    "freebase_id": "/en/wwe_nxt",
+    "tvdb_id": 144541,
+    "tvrage_id": 25100,
+    "wikidata_id": "Q16324425",
+    "facebook_id": "WWENXT",
+    "instagram_id": "wwenxt",
+    "twitter_id": "WWENXT"
+  }
+}

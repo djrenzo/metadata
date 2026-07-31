@@ -1,0 +1,605 @@
+{
+  "adult": false,
+  "backdrop_path": "/lNqsolPU1DZc61JduQm5l0buoNS.jpg",
+  "created_by": [
+    {
+      "id": 1235240,
+      "credit_id": "52575ab919c29531db17cc9e",
+      "name": "Robert Nothshield",
+      "original_name": "Robert Nothshield",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4217348,
+      "credit_id": "64dbe27b001bbd041af356fe",
+      "name": "E.S. \"Bud\" Lamoreaux III",
+      "original_name": "E.S. \"Bud\" Lamoreaux III",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1979-01-28",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.cbsnews.com/sunday-morning/",
+  "id": 4026,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-28",
+  "last_episode_to_air": {
+    "id": 6772217,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-28",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 48,
+    "show_id": 4026,
+    "still_path": null
+  },
+  "name": "CBS News Sunday Morning",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1998,
+  "number_of_seasons": 48,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CBS News Sunday Morning",
+  "overview": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday morning staple. Journalist Jane Pauley helms the show, taking over hosting duties from Charles Osgood, who spent 22 years on the job. A morning talk show, this program airs at a different pace and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics.",
+  "popularity": 39.1685,
+  "poster_path": "/g9pLy4LCj8u9dDLrNlCGwlVFMBH.jpg",
+  "production_companies": [
+    {
+      "id": 55052,
+      "logo_path": null,
+      "name": "CBS News Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-14",
+      "episode_count": 3,
+      "id": 489278,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-28",
+      "episode_count": 27,
+      "id": 11908,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-09-02",
+      "episode_count": 46,
+      "id": 11909,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-09-07",
+      "episode_count": 52,
+      "id": 11910,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-06",
+      "episode_count": 52,
+      "id": 11911,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-09-05",
+      "episode_count": 51,
+      "id": 11912,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-04",
+      "episode_count": 52,
+      "id": 11913,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-02",
+      "episode_count": 52,
+      "id": 11914,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-09-01",
+      "episode_count": 52,
+      "id": 11915,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-07",
+      "episode_count": 49,
+      "id": 11916,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-06",
+      "episode_count": 50,
+      "id": 11917,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-04",
+      "episode_count": 52,
+      "id": 11918,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-03",
+      "episode_count": 51,
+      "id": 11919,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-02",
+      "episode_count": 48,
+      "id": 11920,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-01",
+      "episode_count": 50,
+      "id": 11921,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-06",
+      "episode_count": 48,
+      "id": 11922,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-05",
+      "episode_count": 50,
+      "id": 11923,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-04",
+      "episode_count": 48,
+      "id": 11924,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-03",
+      "episode_count": 50,
+      "id": 11925,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-01",
+      "episode_count": 46,
+      "id": 11926,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-07",
+      "episode_count": 47,
+      "id": 11927,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-06",
+      "episode_count": 41,
+      "id": 11928,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-05",
+      "episode_count": 47,
+      "id": 11929,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-03",
+      "episode_count": 51,
+      "id": 11930,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-02",
+      "episode_count": 50,
+      "id": 11931,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-01",
+      "episode_count": 45,
+      "id": 11932,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-07",
+      "episode_count": 36,
+      "id": 11933,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-05",
+      "episode_count": 35,
+      "id": 11934,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-04",
+      "episode_count": 32,
+      "id": 11935,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-03",
+      "episode_count": 45,
+      "id": 11936,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-02",
+      "episode_count": 13,
+      "id": 11937,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 352789,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 352790,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 352791,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-04",
+      "episode_count": 7,
+      "id": 11938,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 23,
+      "id": 11939,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-01",
+      "episode_count": 56,
+      "id": 352792,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-21",
+      "episode_count": 53,
+      "id": 352793,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 52,
+      "id": 352794,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-09",
+      "episode_count": 29,
+      "id": 352796,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-24",
+      "episode_count": 52,
+      "id": 178213,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-23",
+      "episode_count": 52,
+      "id": 352797,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-22",
+      "episode_count": 52,
+      "id": 352798,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-20",
+      "episode_count": 54,
+      "id": 178223,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 51,
+      "id": 352803,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-25",
+      "episode_count": 56,
+      "id": 352804,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-24",
+      "episode_count": 52,
+      "id": 366351,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-22",
+      "episode_count": 26,
+      "id": 420034,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-21",
+      "episode_count": 15,
+      "id": 489277,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 6.826,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 4026,
+    "imdb_id": "tt0165001",
+    "freebase_mid": "/m/07kv31",
+    "freebase_id": "/en/cbs_news_sunday_morning",
+    "tvdb_id": 264537,
+    "tvrage_id": null,
+    "wikidata_id": "Q5009252",
+    "facebook_id": "CBSSundayMorning",
+    "instagram_id": "cbssundaymorning",
+    "twitter_id": "CBSSunday"
+  }
+}

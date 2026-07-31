@@ -1,0 +1,195 @@
+{
+  "adult": false,
+  "backdrop_path": "/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
+  "created_by": [
+    {
+      "id": 1219929,
+      "credit_id": "635c369d0f5265007c372a5d",
+      "name": "Joan Rater",
+      "original_name": "Joan Rater",
+      "gender": 1,
+      "profile_path": "/i227263WtQwuxLj5E3DkyqxPcFz.jpg"
+    },
+    {
+      "id": 41883,
+      "credit_id": "635c36bb1dbc88007c545dda",
+      "name": "Max Thieriot",
+      "original_name": "Max Thieriot",
+      "gender": 2,
+      "profile_path": "/aBiTMI3qB6FPOVhXw7b15pjJkmL.jpg"
+    },
+    {
+      "id": 1224094,
+      "credit_id": "635c3690fd6300007e400142",
+      "name": "Tony Phelan",
+      "original_name": "Tony Phelan",
+      "gender": 2,
+      "profile_path": "/bbILQrz4EPacATjCk2cZG1TR9Bh.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-10-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/fire-country",
+  "id": 202297,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-22",
+  "last_episode_to_air": {
+    "id": 7095347,
+    "name": "Try Not to Drown",
+    "overview": "After a catastrophic dam failure unleashes historic floodwaters across Edgewater, Station 42 and Three Rock battle rising waters and dwindling resources.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2026-05-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 202297,
+    "still_path": "/iZfQ8rSQqWzy0dYqvahK929gmKb.jpg"
+  },
+  "name": "Fire Country",
+  "next_episode_to_air": {
+    "id": 7583551,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-09",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 202297,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 73,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Fire Country",
+  "overview": "Seeking redemption and a shortened prison sentence, young convict Bode Donovan joins a firefighting program that returns him to his small Northern California hometown, where he and other inmates work alongside elite firefighters to extinguish massive blazes across the region.",
+  "popularity": 43.9137,
+  "poster_path": "/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 40041,
+      "logo_path": "/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png",
+      "name": "Jerry Bruckheimer Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-07",
+      "episode_count": 22,
+      "id": 294271,
+      "name": "Season 1",
+      "overview": "Bode Donovan is a young convict with a troubled past. Hoping to redeem himself and shorten his prison sentence, he volunteers for the California Conservation Camp Program in which prisoners assist the California Department of Forestry and Fire Protection, known as Cal Fire. He ends up getting assigned to his hometown in Northern California where he must work alongside former friends, other inmates, and elite firefighters putting out the huge fires that plague the region.",
+      "poster_path": "/jMCBW1Z9Ha1Mx0gh7qxrFzhx75U.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2024-02-16",
+      "episode_count": 10,
+      "id": 365563,
+      "name": "Season 2",
+      "overview": "In the second season, Bode Donovan fights to clear his name and secure his early release from the Three Rock prison camp after taking the fall for a drug test to protect a fellow inmate. Once cleared and released, Bode ultimately chooses to leave his ex-girlfriend Gabriela's wedding to prioritize her happiness, seeking a new path as a free civilian and a legacy firefighter.",
+      "poster_path": "/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2024-10-18",
+      "episode_count": 20,
+      "id": 402121,
+      "name": "Season 3",
+      "overview": "The third season centers on Bode Donovan’s pursuit of civilian firefighting and features chaotic personal arcs. The season opens with a massive helicopter crash interrupting Gabriela and Diego's wedding, immediately thrusting everyone into emergency response mode.",
+      "poster_path": "/k4A0gowDmS62tV3aAqEeG9Dq7TN.jpg",
+      "season_number": 3,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2025-10-17",
+      "episode_count": 20,
+      "id": 465001,
+      "name": "Season 4",
+      "overview": "The fourth season centers on Station 42 and the Three Rock inmate firefighters as they navigate the devastating emotional fallout of losing beloved patriarch Vince Leone in a catastrophic memory care facility fire. With new leadership clashing with the crew and historic floods threatening Edgewater, the season focuses on Bode's continued pursuit of redemption, reconciling with his past, and finding closure.",
+      "poster_path": "/7cxcXEyccuHmyopDKqvEXsv0nJA.jpg",
+      "season_number": 4,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2026-10-09",
+      "episode_count": 1,
+      "id": 518741,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Face the fire.",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 174,
+  "external_ids": {
+    "id": 202297,
+    "imdb_id": "tt16098700",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420063,
+    "tvrage_id": null,
+    "wikidata_id": "Q114434662",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "FireCountryCBS"
+  }
+}

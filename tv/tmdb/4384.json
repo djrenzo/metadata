@@ -1,0 +1,577 @@
+{
+  "adult": false,
+  "backdrop_path": "/hhlsFMM62Tb6vhjctmEBeZMqViX.jpg",
+  "created_by": [
+    {
+      "id": 1105709,
+      "credit_id": "60e948306ee3d700754acd09",
+      "name": "David Fanning",
+      "original_name": "David Fanning",
+      "gender": 2,
+      "profile_path": "/h3JIycc30vPWVisY7CVDo1Xga71.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "1983-01-17",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "http://www.pbs.org/show/frontline/",
+  "id": 4384,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-30",
+  "last_episode_to_air": {
+    "id": 7398845,
+    "name": "The Crown Prince & The President",
+    "overview": "FRONTLINE examines the alliance between Saudi Crown Prince Mohammed bin Salman and President Donald Trump. Based on more than 100 interviews done by correspondent Martin Smith, the documentary examines the forces binding the two men and their countries together, and what each stands to gain — from ambitions for a new Middle East, to arms deals, investments and personal profit.",
+    "vote_average": 4,
+    "vote_count": 3,
+    "air_date": "2026-06-30",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 84,
+    "season_number": 45,
+    "show_id": 4384,
+    "still_path": "/4WYL4oRXhkk5TRwJIUX4dAo2jzo.jpg"
+  },
+  "name": "Frontline",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 854,
+  "number_of_seasons": 45,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Frontline",
+  "overview": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change.",
+  "popularity": 29.0602,
+  "poster_path": "/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
+  "production_companies": [
+    {
+      "id": 10197,
+      "logo_path": "/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png",
+      "name": "GBH",
+      "origin_country": "US"
+    },
+    {
+      "id": 143561,
+      "logo_path": "/fDz3pETHIkgrr6usIiUr8c7BXU1.png",
+      "name": "FRONTLINE",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-11",
+      "episode_count": 136,
+      "id": 13010,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/zneUW9VRWMjbRD5A5uwmyFBNP4P.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-16",
+      "episode_count": 25,
+      "id": 12985,
+      "name": "Season 1",
+      "overview": "Jessica Savitch's first and only season as on-air host. She died in a car accident in October.",
+      "poster_path": "/hJId1Veomug3dXpT2n3Awxv1x9V.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-15",
+      "episode_count": 24,
+      "id": 12986,
+      "name": "Season 2",
+      "overview": "Judy Woodruff's first season as on-air host.",
+      "poster_path": "/yKU6SoIDylKc17lsgtEMVuA7u0w.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-14",
+      "episode_count": 21,
+      "id": 12987,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/yGDzeKi6aniBQ9p2jsWM7ckWLsX.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-20",
+      "episode_count": 31,
+      "id": 12988,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/A98jQEA4AOelMUx9huKSNyLTmSs.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-26",
+      "episode_count": 15,
+      "id": 12989,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/epSoejvWKGHslsVCNs4LvRhFxtp.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-12-14",
+      "episode_count": 24,
+      "id": 12990,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/vdo9dkTR4QdosXYq7VfpOd6AySM.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-09",
+      "episode_count": 19,
+      "id": 12991,
+      "name": "Season 7",
+      "overview": "Judy Woodruff's final season as on-air host.",
+      "poster_path": "/tIsQpPQyiCW6TAuOAN8fBQ0B7zr.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-11-27",
+      "episode_count": 17,
+      "id": 12992,
+      "name": "Season 8",
+      "overview": "The host-less era begins.",
+      "poster_path": "/e3rkhdl2WBu76kRa0mPlWEHVdDY.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-11",
+      "episode_count": 28,
+      "id": 12993,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/4nOTKGeAePdnxRPUDsE0BgngDoR.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-10-14",
+      "episode_count": 29,
+      "id": 12994,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/gEQ7JoymyeViG4jGmKoHqugOSiF.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-10-12",
+      "episode_count": 21,
+      "id": 12995,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/y94wSgdbDFgwShwOGdo2VBlYi3U.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-10-11",
+      "episode_count": 20,
+      "id": 12996,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-17",
+      "episode_count": 19,
+      "id": 12997,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-16",
+      "episode_count": 18,
+      "id": 12998,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-07",
+      "episode_count": 18,
+      "id": 12999,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-06",
+      "episode_count": 16,
+      "id": 13000,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-20",
+      "episode_count": 19,
+      "id": 13001,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-27",
+      "episode_count": 16,
+      "id": 13002,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-01",
+      "episode_count": 16,
+      "id": 13003,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 19,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2001-09-12",
+      "episode_count": 24,
+      "id": 13004,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 21,
+      "id": 13005,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-08",
+      "episode_count": 16,
+      "id": 13016,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/ja4B5wdo9eF2cc3MlWuOB4Y6dSC.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-16",
+      "episode_count": 16,
+      "id": 13006,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/ja4B5wdo9eF2cc3MlWuOB4Y6dSC.jpg",
+      "season_number": 23,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2005-10-04",
+      "episode_count": 15,
+      "id": 13007,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/ja4B5wdo9eF2cc3MlWuOB4Y6dSC.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-02",
+      "episode_count": 15,
+      "id": 13008,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/ja4B5wdo9eF2cc3MlWuOB4Y6dSC.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-15",
+      "episode_count": 18,
+      "id": 13009,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/ja4B5wdo9eF2cc3MlWuOB4Y6dSC.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 17,
+      "id": 98868,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 27,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2010-02-02",
+      "episode_count": 15,
+      "id": 98869,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-18",
+      "episode_count": 19,
+      "id": 98870,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 29,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2011-10-10",
+      "episode_count": 24,
+      "id": 98871,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-07",
+      "episode_count": 19,
+      "id": 98872,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-06",
+      "episode_count": 18,
+      "id": 98873,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 20,
+      "id": 98874,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 33,
+      "vote_average": 3.2
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 11,
+      "id": 98875,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 34,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2016-09-26",
+      "episode_count": 21,
+      "id": 98876,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/9foHTIdpoQH8HIM5uYVbRTpWFvr.jpg",
+      "season_number": 35,
+      "vote_average": 1.4
+    },
+    {
+      "air_date": "2017-10-18",
+      "episode_count": 15,
+      "id": 98877,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 36,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2018-07-30",
+      "episode_count": 22,
+      "id": 110223,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 37,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "2019-09-30",
+      "episode_count": 21,
+      "id": 133890,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 38,
+      "vote_average": 3.4
+    },
+    {
+      "air_date": "2020-07-20",
+      "episode_count": 10,
+      "id": 157639,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 39,
+      "vote_average": 2.1
+    },
+    {
+      "air_date": "2021-01-07",
+      "episode_count": 21,
+      "id": 177774,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/sMFP3gMZpJcYxRDOFbwTioFLanN.jpg",
+      "season_number": 40,
+      "vote_average": 2.5
+    },
+    {
+      "air_date": "2022-02-14",
+      "episode_count": 16,
+      "id": 244312,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/ja4B5wdo9eF2cc3MlWuOB4Y6dSC.jpg",
+      "season_number": 41,
+      "vote_average": 2.5
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 22,
+      "id": 321506,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/yy9arPHZylX8fPXpny1mDo3sXi5.jpg",
+      "season_number": 42,
+      "vote_average": 2.7
+    },
+    {
+      "air_date": "2024-01-22",
+      "episode_count": 17,
+      "id": 375048,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/jihajA4XWEepeKenSI8OeFHfQUz.jpg",
+      "season_number": 43,
+      "vote_average": 2.9
+    },
+    {
+      "air_date": "2025-01-21",
+      "episode_count": 17,
+      "id": 436034,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/7Is2JjnTSjbVNIxStIjKPJPNM69.jpg",
+      "season_number": 44,
+      "vote_average": 2.9
+    },
+    {
+      "air_date": "2026-02-03",
+      "episode_count": 8,
+      "id": 484177,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/rGIhPN3W5BxSCQsMuCsXSOOd2PJ.jpg",
+      "season_number": 45,
+      "vote_average": 2.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 6.6,
+  "vote_count": 57,
+  "external_ids": {
+    "id": 4384,
+    "imdb_id": "tt0133302",
+    "freebase_mid": "/m/01j5n7",
+    "freebase_id": "/en/frontline",
+    "tvdb_id": 80646,
+    "tvrage_id": 8258,
+    "wikidata_id": "Q2894569",
+    "facebook_id": "frontline",
+    "instagram_id": "frontlinepbs",
+    "twitter_id": "frontlinepbs"
+  }
+}

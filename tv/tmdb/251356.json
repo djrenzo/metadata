@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/2vXp0hLA6AOdSXiAXKXdq6VH1LX.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2024-05-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://polotmedia.pl/seriale/zdrada/",
+  "id": 251356,
+  "in_production": true,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "2024-07-26",
+  "last_episode_to_air": {
+    "id": 5486877,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2024-07-26",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 251356,
+    "still_path": "/ewUg9aagQJPG7Ai4hMUuKajvjzG.jpg"
+  },
+  "name": "Zdrada",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6394,
+      "logo_path": "/dWvA2Ewr1rpw6PgSnPXmnSlwEFe.png",
+      "name": "Polsat Box Go",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "Zdrada",
+  "overview": "",
+  "popularity": 36.264,
+  "poster_path": "/2RQIXdCkQzRgWB5KOKtLgxryK7a.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2024-05-10",
+      "episode_count": 12,
+      "id": 387474,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 251356,
+    "imdb_id": "tt33186757",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 447589,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

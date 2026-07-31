@@ -1,0 +1,809 @@
+{
+  "adult": false,
+  "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+  "created_by": [
+    {
+      "id": 1215244,
+      "credit_id": "52534be419c29579400f82fd",
+      "name": "Tony Warren",
+      "original_name": "Tony Warren",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1960-12-09",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.itv.com/coronationstreet",
+  "id": 291,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-24",
+  "last_episode_to_air": {
+    "id": 7599033,
+    "name": "Thursday, 30th July 2026",
+    "overview": "Cassie revisits her greatest hits with Ross as her new target, Nina voices suspicions of Sienna, Adam and Alya give Abi conflicting advice, and Carla's update makes Betsy nervous.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 140,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 67,
+    "show_id": 291,
+    "still_path": null
+  },
+  "name": "Coronation Street",
+  "next_episode_to_air": {
+    "id": 7599034,
+    "name": "Friday, 31st July 2026",
+    "overview": "Cassie runs out of second chances with Steve and Tyrone, Betsy navigates big changes upon her return home, Nina accuses Sienna of theft, and Sally hosts a party to unveil the latest addition to her garden.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 141,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 67,
+    "show_id": 291,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 4715,
+  "number_of_seasons": 67,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Coronation Street",
+  "overview": "The residents of Coronation Street are ordinary, working-class people, and the show follows them through regular social and family interactions at home, in the workplace, and in their local pub, the Rovers Return Inn. Britain's longest-running soap.",
+  "popularity": 59.0031,
+  "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+  "production_companies": [
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 47,
+      "id": 63478,
+      "name": "Specials",
+      "overview": "Special installments of the series.",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-12-08",
+      "episode_count": 7,
+      "id": 59772,
+      "name": "Season 1",
+      "overview": "1960",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 2
+    },
+    {
+      "air_date": "1961-01-03",
+      "episode_count": 102,
+      "id": 63224,
+      "name": "Season 2",
+      "overview": "1961",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-12-31",
+      "episode_count": 105,
+      "id": 63225,
+      "name": "Season 3",
+      "overview": "1962",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-01-01",
+      "episode_count": 74,
+      "id": 63226,
+      "name": "Season 4",
+      "overview": "1963",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-01-01",
+      "episode_count": 67,
+      "id": 63227,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-01-04",
+      "episode_count": 62,
+      "id": 63228,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-01-03",
+      "episode_count": 61,
+      "id": 63229,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-01-02",
+      "episode_count": 3,
+      "id": 63230,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-01-01",
+      "episode_count": 50,
+      "id": 63231,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-01",
+      "episode_count": 104,
+      "id": 63232,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-01-05",
+      "episode_count": 7,
+      "id": 63233,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-01-04",
+      "episode_count": 9,
+      "id": 63234,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-03",
+      "episode_count": 5,
+      "id": 63235,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-01",
+      "episode_count": 2,
+      "id": 63236,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-02",
+      "episode_count": 41,
+      "id": 63237,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 7,
+      "id": 63238,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-05",
+      "episode_count": 6,
+      "id": 63239,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-03",
+      "episode_count": 5,
+      "id": 63240,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 16,
+      "id": 63241,
+      "name": "Season 19",
+      "overview": "1978",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-01",
+      "episode_count": 2,
+      "id": 63242,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-02",
+      "episode_count": 27,
+      "id": 63243,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-05",
+      "episode_count": 4,
+      "id": 63244,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-03",
+      "episode_count": 6,
+      "id": 63245,
+      "name": "Season 23",
+      "overview": "1982",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-03",
+      "episode_count": 2,
+      "id": 63246,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 2,
+      "id": 63247,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-02",
+      "episode_count": 2,
+      "id": 63248,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 2,
+      "id": 63249,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-05",
+      "episode_count": 76,
+      "id": 63250,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-04",
+      "episode_count": 41,
+      "id": 63251,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-02",
+      "episode_count": 2,
+      "id": 63252,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 35,
+      "id": 63253,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-02",
+      "episode_count": 7,
+      "id": 63254,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-12-31",
+      "episode_count": 80,
+      "id": 63255,
+      "name": "Season 33",
+      "overview": "1992",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 2,
+      "id": 63256,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 14,
+      "id": 63257,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 36,
+      "id": 63258,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 77,
+      "id": 63259,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 17,
+      "id": 63260,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 2,
+      "id": 63261,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 208,
+      "id": 63262,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 6,
+      "id": 63263,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 2,
+      "id": 63264,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 25,
+      "id": 63265,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 13,
+      "id": 63266,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 3,
+      "id": 63267,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 14,
+      "id": 63268,
+      "name": "Season 46",
+      "overview": "2005",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 4,
+      "id": 63269,
+      "name": "Season 47",
+      "overview": "2006",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 261,
+      "id": 63270,
+      "name": "Season 48",
+      "overview": "2007",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 125,
+      "id": 63271,
+      "name": "Season 49",
+      "overview": "2008",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 51,
+      "id": 63272,
+      "name": "Season 50",
+      "overview": "2009",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-12-31",
+      "episode_count": 61,
+      "id": 63273,
+      "name": "Season 51",
+      "overview": "2010",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 264,
+      "id": 63274,
+      "name": "Season 52",
+      "overview": "2011",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 258,
+      "id": 63275,
+      "name": "Season 53",
+      "overview": "2012",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 260,
+      "id": 63276,
+      "name": "Season 54",
+      "overview": "2013",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-12-31",
+      "episode_count": 253,
+      "id": 63277,
+      "name": "Season 55",
+      "overview": "2014",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 210,
+      "id": 68214,
+      "name": "Season 56",
+      "overview": "2015",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-12-31",
+      "episode_count": 22,
+      "id": 75682,
+      "name": "Season 57",
+      "overview": "2016",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-12-31",
+      "episode_count": 10,
+      "id": 87569,
+      "name": "Season 58",
+      "overview": "2017",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 95,
+      "id": 103280,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 134,
+      "id": 136012,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-31",
+      "episode_count": 220,
+      "id": 144435,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 266,
+      "id": 173510,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 177,
+      "id": 237397,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 160,
+      "id": 320448,
+      "name": "Season 64",
+      "overview": "2023",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-31",
+      "episode_count": 157,
+      "id": 371113,
+      "name": "Season 65",
+      "overview": "2024",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-31",
+      "episode_count": 155,
+      "id": 435692,
+      "name": "Season 66",
+      "overview": "2025",
+      "poster_path": "/oLU5Mct0wvZ47GTcbJHETKkWpjy.jpg",
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-12-31",
+      "episode_count": 145,
+      "id": 491571,
+      "name": "Season 67",
+      "overview": "2026",
+      "poster_path": "/7d4HiJa7w36KgEy9Fof5AV6MqKa.jpg",
+      "season_number": 67,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 117,
+  "external_ids": {
+    "id": 291,
+    "imdb_id": "tt0053494",
+    "freebase_mid": "/m/01_2n",
+    "freebase_id": "/en/coronation_street",
+    "tvdb_id": 71565,
+    "tvrage_id": 3140,
+    "wikidata_id": "Q945030",
+    "facebook_id": "CoronationStreet",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

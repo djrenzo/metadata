@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/dDkmZrytwOusLhkplQrMSAqcQiu.jpg",
+  "created_by": [
+    {
+      "id": 2320285,
+      "credit_id": "65245b4a0cb33516fec483fc",
+      "name": "Tony Khan",
+      "original_name": "Tony Khan",
+      "gender": 2,
+      "profile_path": "/wGhnxQ4zSVCBVT4UFptfC8t3E7W.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-06-17",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tntdrama.com/shows/all-elite-wrestling-collision",
+  "id": 226687,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-18",
+  "last_episode_to_air": {
+    "id": 7293387,
+    "name": "July 30, 2026",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 34,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 226687,
+    "still_path": "/mmnxJmBRRIxcDdNHE2EMcG7JObT.jpg"
+  },
+  "name": "All Elite Wrestling: Collision",
+  "next_episode_to_air": {
+    "id": 7293389,
+    "name": "August 8, 2026",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-08",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 226687,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 41,
+      "logo_path": "/6ISsKwa2XUhSC6oBtHZjYf6xFqv.png",
+      "name": "TNT",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 173,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "All Elite Wrestling: Collision",
+  "overview": "An in-ring show featuring more wrestlers, more stories and more action to super-serve fans.",
+  "popularity": 44.3563,
+  "poster_path": "/1fpieJeuOpA9Q44s77zEnB03xqS.jpg",
+  "production_companies": [
+    {
+      "id": 119828,
+      "logo_path": "/qfdbfqR69oiLhq3E27zzHQQBuZI.png",
+      "name": "All Elite Wrestling",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 11,
+      "id": 372809,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-16",
+      "episode_count": 28,
+      "id": 341260,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hAoRegPmjYG4OswH5KGMEyUWzd3.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 46,
+      "id": 371091,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/brYAlMoCQYUbNV1abrlruDTV3Mr.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2025-01-03",
+      "episode_count": 57,
+      "id": 433877,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/2T46HT3hAdaCemH2qIy2PDHCd9c.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-03",
+      "episode_count": 42,
+      "id": 489202,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/hv4IxdfGpSsqrABoWkEENPKnkzW.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 226687,
+    "imdb_id": "tt27776045",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 435034,
+    "tvrage_id": null,
+    "wikidata_id": "Q118928280",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

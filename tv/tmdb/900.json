@@ -1,0 +1,215 @@
+{
+  "adult": false,
+  "backdrop_path": "/saBnI34QTYTjG9sj8DsembO4PBK.jpg",
+  "created_by": [
+    {
+      "id": 1221040,
+      "credit_id": "52540ca119c29579403041b6",
+      "name": "Bryan Elsley",
+      "original_name": "Bryan Elsley",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1221044,
+      "credit_id": "52540ca119c29579403041bc",
+      "name": "Jamie Brittain",
+      "original_name": "Jamie Brittain",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44,
+    46,
+    47,
+    50,
+    60
+  ],
+  "first_air_date": "2007-01-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.channel4.com/programmes/skins",
+  "id": 900,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-08-05",
+  "last_episode_to_air": {
+    "id": 49311,
+    "name": "Rise (2)",
+    "overview": "Cook gets more than he bargained for from the women in his life. They have varying expectations of him but Cook rises to their challenges - to explosive effect.",
+    "vote_average": 7,
+    "vote_count": 10,
+    "air_date": "2013-08-05",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 7,
+    "show_id": 900,
+    "still_path": "/8h5p1bzHl9awWKzO1N0H0IjESw.jpg"
+  },
+  "name": "Skins",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 136,
+      "logo_path": "/A7k2PSYy38NzDPDhajalNWcMQ10.png",
+      "name": "E4",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 61,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Skins",
+  "overview": "Irreverent comedy drama which follows the messy lives, loves, delirious highs and inevitable lows of a group of raucous teenage friends in Bristol.",
+  "popularity": 42.5772,
+  "poster_path": "/cymrUG57i98SWen4lqho1SBWtVx.jpg",
+  "production_companies": [
+    {
+      "id": 11842,
+      "logo_path": "/eNw316EUzXBLVOzlZPVwOcPKoDw.png",
+      "name": "Company Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 177277,
+      "logo_path": null,
+      "name": "Stormdog Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 111729,
+      "logo_path": null,
+      "name": "E4",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-10-10",
+      "episode_count": 65,
+      "id": 2602,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/KzzneE5zr87OSWYHdp2KGFU8n6.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-25",
+      "episode_count": 9,
+      "id": 2596,
+      "name": "Series 1",
+      "overview": "This series follows the lives of sixth form students Tony Stonem, Michelle Richardson, Sid Jenkins, Cassie Ainsworth, Chris Miles, Jal Fazer, Maxxie Oliver and Anwar Kharral.",
+      "poster_path": "/ipL9SoAgpG0D3PYGMCVYX6t08UC.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2008-02-11",
+      "episode_count": 10,
+      "id": 2597,
+      "name": "Series 2",
+      "overview": "This series follows the lives of sixth form students Tony Stonem, Michelle Richardson, Sid Jenkins, Cassie Ainsworth, Chris Miles, Jal Fazer, Maxxie Oliver, Anwar Kharral and new character Lucy \"Sketch\".",
+      "poster_path": "/zCv09ERQAoEz2Z6dw3PQmhPZfeS.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2009-01-22",
+      "episode_count": 10,
+      "id": 2598,
+      "name": "Series 3",
+      "overview": "This series sees the introduction of a new cast; it follows the lives of sixth form students Effy Stonem, Pandora Moon, Thomas Tomone, James Cook, Freddie McClair, JJ Jones, Naomi Campbell, and twin sisters Emily and Katie Fitch.",
+      "poster_path": "/rp8bFd0p5T1vhKqDh6VVvqVUUqR.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2010-01-28",
+      "episode_count": 8,
+      "id": 2599,
+      "name": "Series 4",
+      "overview": "Like the previous series, this series follows the lives of the second generation, which consists of Effy Stonem, Pandora Moon, Thomas Tomone, James Cook, Freddie McClair, JJ Jones, Naomi Campbell, and twin sisters Emily and Katie Fitch.",
+      "poster_path": "/9m7SZozGpaHUypED8wPHHJC6cwH.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-01-27",
+      "episode_count": 8,
+      "id": 2600,
+      "name": "Series 5",
+      "overview": "This series sees the introduction of a new cast; it follows the lives of the third generation of characters, which consists of Franky Fitzgerald, Rich Hardbeck, Mini McGuinness, Liv Malone, Alo Creevey, and brothers Nick and Matty Levan.",
+      "poster_path": "/256S6LnLDxnAwsjx3I1b7M4XvwD.jpg",
+      "season_number": 5,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2012-01-23",
+      "episode_count": 10,
+      "id": 2601,
+      "name": "Series 6",
+      "overview": "Like the previous series, it follows the lives of the third generation of characters, which consists of Franky Fitzgerald, Rich Hardbeck, Mini McGuinness, Liv Malone, Alo Creevey, brothers Nick and Matty Levan, and new character Alex Henley.",
+      "poster_path": "/g9VLUyFFAMVQmbKQvoU5LFKUuH2.jpg",
+      "season_number": 6,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-07-01",
+      "episode_count": 6,
+      "id": 2603,
+      "name": "Series 7",
+      "overview": "The final series sees the return of several characters from the first two generations of the show.",
+      "poster_path": "/arZmdrsepAhJSV4JZOVLSEBn6Do.jpg",
+      "season_number": 7,
+      "vote_average": 7.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The most exciting TV show in a generation",
+  "type": "Scripted",
+  "vote_average": 8.139,
+  "vote_count": 1417,
+  "external_ids": {
+    "id": 900,
+    "imdb_id": "tt0840196",
+    "freebase_mid": "/m/0279tyz",
+    "freebase_id": "/en/skins",
+    "tvdb_id": 79773,
+    "tvrage_id": null,
+    "wikidata_id": "Q326180",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

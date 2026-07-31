@@ -1,0 +1,479 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1231692,
+      "credit_id": "525808c219c29531db3dad07",
+      "name": "Frank Elstner",
+      "original_name": "Frank Elstner",
+      "gender": 2,
+      "profile_path": "/lJq76VTtV184gmNqDlGA1DWRczz.jpg"
+    }
+  ],
+  "episode_run_time": [
+    165
+  ],
+  "first_air_date": "1981-02-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.zdf.de/show/wetten-dass",
+  "id": 10918,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2013-10-05",
+  "last_episode_to_air": {
+    "id": 1104199,
+    "name": "Episode 2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-10-05",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 165,
+    "season_number": 33,
+    "show_id": 10918,
+    "still_path": null
+  },
+  "name": "Wetten, dass..?",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 210,
+  "number_of_seasons": 33,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Wetten, dass..?",
+  "overview": "A long-running German-language entertainment television show based on the format of the British show You Bet! and the American show Wanna Bet?.",
+  "popularity": 43.0056,
+  "poster_path": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3391,
+      "logo_path": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+      "name": "ORF",
+      "origin_country": "AT"
+    },
+    {
+      "id": 42145,
+      "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+      "name": "SRF",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-03-17",
+      "episode_count": 4,
+      "id": 207192,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-02-14",
+      "episode_count": 7,
+      "id": 21275,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-02-06",
+      "episode_count": 6,
+      "id": 21276,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-02-19",
+      "episode_count": 6,
+      "id": 21277,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4i8719B3j4z5U5EI1mjw3sOjBWe.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-02-18",
+      "episode_count": 6,
+      "id": 21278,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-02-09",
+      "episode_count": 6,
+      "id": 21279,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-02-15",
+      "episode_count": 6,
+      "id": 21280,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-21",
+      "episode_count": 6,
+      "id": 21281,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-23",
+      "episode_count": 8,
+      "id": 21282,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/e6QGRnHKjMusJNeeOit9biQztYL.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-28",
+      "episode_count": 8,
+      "id": 21283,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-06",
+      "episode_count": 6,
+      "id": 21284,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-03-02",
+      "episode_count": 6,
+      "id": 21285,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-25",
+      "episode_count": 7,
+      "id": 21286,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-23",
+      "episode_count": 6,
+      "id": 21287,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-15",
+      "episode_count": 7,
+      "id": 21288,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-14",
+      "episode_count": 7,
+      "id": 21289,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-13",
+      "episode_count": 5,
+      "id": 21290,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-18",
+      "episode_count": 6,
+      "id": 21291,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-24",
+      "episode_count": 7,
+      "id": 21292,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-23",
+      "episode_count": 8,
+      "id": 21293,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-29",
+      "episode_count": 7,
+      "id": 21294,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-20",
+      "episode_count": 6,
+      "id": 21295,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-26",
+      "episode_count": 7,
+      "id": 21296,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-25",
+      "episode_count": 6,
+      "id": 21297,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-24",
+      "episode_count": 7,
+      "id": 21298,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-22",
+      "episode_count": 7,
+      "id": 21299,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-28",
+      "episode_count": 6,
+      "id": 21303,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-20",
+      "episode_count": 7,
+      "id": 21300,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-26",
+      "episode_count": 6,
+      "id": 21301,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-24",
+      "episode_count": 7,
+      "id": 21302,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/qapA7K4wBwGrZr7YA0TElWah77z.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-23",
+      "episode_count": 7,
+      "id": 21304,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/qapA7K4wBwGrZr7YA0TElWah77z.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-12",
+      "episode_count": 6,
+      "id": 21305,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/qapA7K4wBwGrZr7YA0TElWah77z.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-06",
+      "episode_count": 4,
+      "id": 21306,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-23",
+      "episode_count": 3,
+      "id": 21307,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/dA8MiM72VaZVHE96dZntUk8S3kT.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 10918,
+    "imdb_id": "tt0081961",
+    "freebase_mid": "/m/021xfx",
+    "freebase_id": "/en/wetten_dass",
+    "tvdb_id": 270571,
+    "tvrage_id": 16521,
+    "wikidata_id": "Q666799",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

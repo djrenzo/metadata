@@ -1,0 +1,221 @@
+{
+  "adult": false,
+  "backdrop_path": "/mbbPUXfJnhGBx6852537wbLk7Ou.jpg",
+  "created_by": [
+    {
+      "id": 77734,
+      "credit_id": "62edc0f7efea7a007c3b3f04",
+      "name": "Bruno Solo",
+      "original_name": "Bruno Solo",
+      "gender": 2,
+      "profile_path": "/t7Hn92TFs0vwk7EaZ6alFc4APjD.jpg"
+    },
+    {
+      "id": 77735,
+      "credit_id": "62edc0ff1c6329007c7b5a9d",
+      "name": "Yvan Le Bolloc'h",
+      "original_name": "Yvan Le Bolloc'h",
+      "gender": 2,
+      "profile_path": "/uLw8OO2a7HbweRcHRhhutSKY4bI.jpg"
+    },
+    {
+      "id": 1168535,
+      "credit_id": "62edc10a813cb60092399cb4",
+      "name": "Alain Kappauf",
+      "original_name": "Alain Kappauf",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2001-10-29",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.m6.fr/html/emissions/cameracafe/",
+  "id": 1533,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2005-08-20",
+  "last_episode_to_air": {
+    "id": 1492526,
+    "name": "Episode 29",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-08-20",
+    "episode_number": 29,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 5,
+    "show_id": 1533,
+    "still_path": null
+  },
+  "name": "Caméra Café",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 712,
+      "logo_path": "/ebCZs9U5Kq1GqOFBT1tlH1lZd8p.png",
+      "name": "M6",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 644,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Caméra Café",
+  "overview": "The coffee machine of a small company is the scene of discussions between employees. Private life, professional life, gossip, mockery, ... everything goes!",
+  "popularity": 37.262,
+  "poster_path": "/1kd7wM61z4qmmjiuN2ZzgTJp07.jpg",
+  "production_companies": [
+    {
+      "id": 22764,
+      "logo_path": "/8MvPL85VXyoa1BE9Li2s5VTTH3N.png",
+      "name": "Calt Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 181473,
+      "logo_path": null,
+      "name": "121 Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11261,
+      "logo_path": "/g7p4vSwqsIo6zYptyN3hoDxFp7y.png",
+      "name": "M6",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8210,
+      "logo_path": "/kmYqp22cJDFiDP9iRI5s8k8Mc7R.png",
+      "name": "M6 Métropole Télévision",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-02-02",
+      "episode_count": 8,
+      "id": 4195,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bLX5y2x17rmqK4cMpbrr282KAfT.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-29",
+      "episode_count": 172,
+      "id": 4196,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/t4T2zzMIO9GoDzg0WpFQwBUKMLf.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2003-05-03",
+      "episode_count": 159,
+      "id": 4198,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fQQQL6CjPZN2tanXBYMKlnaO4Vt.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2004-03-04",
+      "episode_count": 161,
+      "id": 4197,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8TAMCpN64vhOjGXxrIDsveBTLpR.jpg",
+      "season_number": 3,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2005-04-05",
+      "episode_count": 80,
+      "id": 4199,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/9FsZ8nimXbiRvUAWn2Qq4fp5VFO.jpg",
+      "season_number": 4,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2002-10-02",
+      "episode_count": 43,
+      "id": 4200,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/8QUiDRUiL7EsYOR412cGryNUeIp.jpg",
+      "season_number": 5,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": "2002-02-02",
+      "episode_count": 16,
+      "id": 4201,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/pmgbCzMeRBmLQM2SFBHsvaWIPPg.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-11-15",
+      "episode_count": 13,
+      "id": 4202,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.911,
+  "vote_count": 56,
+  "external_ids": {
+    "id": 1533,
+    "imdb_id": "tt0296318",
+    "freebase_mid": "/m/0gvpg8",
+    "freebase_id": "/en/camera_cafe",
+    "tvdb_id": 83238,
+    "tvrage_id": 30955,
+    "wikidata_id": "Q2700478",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

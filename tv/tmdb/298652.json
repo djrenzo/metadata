@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/s0CnJrwQode73VqRlt86T3vh9wP.jpg",
+  "created_by": [
+    {
+      "id": 2689470,
+      "credit_id": "68a3619e8b7bc4e89f83b5e8",
+      "name": "Evrim Yöney",
+      "original_name": "Evrim Yöney",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1965056,
+      "credit_id": "68a367079c9871307a6539af",
+      "name": "Canan Çelik",
+      "original_name": "Canan Çelik",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2025-04-03",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://intermedya.tv/dagitim/heartstrings/",
+  "id": 298652,
+  "in_production": false,
+  "languages": [
+    "es",
+    "tr"
+  ],
+  "last_air_date": "2025-12-05",
+  "last_episode_to_air": {
+    "id": 6736463,
+    "name": "Episode 125",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-05",
+    "episode_number": 125,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 298652,
+    "still_path": null
+  },
+  "name": "Can Bagi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 8507,
+      "logo_path": "/4rozgdngZVAM4rVMgL14Bk9Ot19.png",
+      "name": "Bi Kanal",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 125,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Can Bagi",
+  "overview": "A mother and businessman discover their daughters were switched at birth. To save one child's life through stem cell donation, they agree to a marriage of convenience, but their arrangement leads to unexpected feelings.",
+  "popularity": 56.3466,
+  "poster_path": "/76tQHU89vfwNYVNU1q1gCnQCvUc.jpg",
+  "production_companies": [
+    {
+      "id": 120249,
+      "logo_path": null,
+      "name": "Inter Medya",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-04-03",
+      "episode_count": 125,
+      "id": 470599,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3CjPRO58TM5ByrcQgDBnxS5gN8h.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 298652,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

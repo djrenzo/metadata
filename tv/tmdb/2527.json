@@ -1,0 +1,689 @@
+{
+  "adult": false,
+  "backdrop_path": "/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+  "created_by": [
+    {
+      "id": 1231858,
+      "credit_id": "52573c4d19c29531db04319f",
+      "name": "Kevin Laffan",
+      "original_name": "Kevin Laffan",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1972-10-16",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.itv.com/itvplayer/emmerdale",
+  "id": 2527,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-24",
+  "last_episode_to_air": {
+    "id": 7574872,
+    "name": "Thu 30 Jul 2026",
+    "overview": "A scheme is halted, while Claudette does a deal and there might be danger at the depot.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 140,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 55,
+    "show_id": 2527,
+    "still_path": null
+  },
+  "name": "Emmerdale",
+  "next_episode_to_air": {
+    "id": 7575113,
+    "name": "Fri 31 Jul 2026",
+    "overview": "Claudette makes an admission, while Charles is flabbergasted, and Nicola worries her love life with Jimmy is becoming stale.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 141,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 55,
+    "show_id": 2527,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5557,
+      "logo_path": "/z3owxbfunqSzMjZMkoDsmTpJQlh.png",
+      "name": "ITV Yorkshire",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 10059,
+  "number_of_seasons": 55,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Emmerdale",
+  "overview": "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+  "popularity": 29.4882,
+  "poster_path": "/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+  "production_companies": [
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-10-11",
+      "episode_count": 7,
+      "id": 8091,
+      "name": "Specials",
+      "overview": "Special installments of the series.",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-10-16",
+      "episode_count": 20,
+      "id": 8081,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 1.5
+    },
+    {
+      "air_date": "1973-01-01",
+      "episode_count": 103,
+      "id": 8086,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-01",
+      "episode_count": 99,
+      "id": 87716,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-06",
+      "episode_count": 62,
+      "id": 500862,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-05",
+      "episode_count": 38,
+      "id": 500863,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-03",
+      "episode_count": 92,
+      "id": 500864,
+      "name": "Series 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-10",
+      "episode_count": 75,
+      "id": 500866,
+      "name": "Series 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-03",
+      "episode_count": 53,
+      "id": 500867,
+      "name": "Series 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-08",
+      "episode_count": 86,
+      "id": 500868,
+      "name": "Series 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-06",
+      "episode_count": 68,
+      "id": 500869,
+      "name": "Series 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-12",
+      "episode_count": 68,
+      "id": 500870,
+      "name": "Series 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-11",
+      "episode_count": 72,
+      "id": 500871,
+      "name": "Series 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-10",
+      "episode_count": 76,
+      "id": 500872,
+      "name": "Series 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-08",
+      "episode_count": 93,
+      "id": 500873,
+      "name": "Series 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-07",
+      "episode_count": 100,
+      "id": 500874,
+      "name": "Series 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-06",
+      "episode_count": 100,
+      "id": 500875,
+      "name": "Series 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-06",
+      "episode_count": 102,
+      "id": 500876,
+      "name": "Series 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-04",
+      "episode_count": 103,
+      "id": 500877,
+      "name": "Series 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-02",
+      "episode_count": 102,
+      "id": 500878,
+      "name": "Series 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 104,
+      "id": 500879,
+      "name": "Series 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-02",
+      "episode_count": 105,
+      "id": 500880,
+      "name": "Series 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-05",
+      "episode_count": 104,
+      "id": 500881,
+      "name": "Series 22",
+      "overview": "",
+      "poster_path": "/iGQH06x8is2XcOZVOMjSjyL1y0U.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-04",
+      "episode_count": 105,
+      "id": 87741,
+      "name": "Series 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-03",
+      "episode_count": 104,
+      "id": 87740,
+      "name": "Series 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-02",
+      "episode_count": 105,
+      "id": 87739,
+      "name": "Series 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 157,
+      "id": 87738,
+      "name": "Series 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 162,
+      "id": 87737,
+      "name": "Series 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-05",
+      "episode_count": 164,
+      "id": 87736,
+      "name": "Series 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-04",
+      "episode_count": 187,
+      "id": 87735,
+      "name": "Series 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 257,
+      "id": 8080,
+      "name": "Series 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 253,
+      "id": 8087,
+      "name": "Series 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 266,
+      "id": 8079,
+      "name": "Series 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 308,
+      "id": 8078,
+      "name": "Series 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 304,
+      "id": 8082,
+      "name": "Series 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 303,
+      "id": 8088,
+      "name": "Series 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 297,
+      "id": 8083,
+      "name": "Series 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 262,
+      "id": 8084,
+      "name": "Series 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 281,
+      "id": 8085,
+      "name": "Series 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 298,
+      "id": 8089,
+      "name": "Series 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 307,
+      "id": 8090,
+      "name": "Series 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 310,
+      "id": 8093,
+      "name": "Series 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 298,
+      "id": 180375,
+      "name": "Series 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 295,
+      "id": 63442,
+      "name": "Series 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 291,
+      "id": 64370,
+      "name": "Series 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 308,
+      "id": 75209,
+      "name": "Series 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 302,
+      "id": 86098,
+      "name": "Series 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 299,
+      "id": 99258,
+      "name": "Series 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 322,
+      "id": 117528,
+      "name": "Series 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 236,
+      "id": 142357,
+      "name": "Series 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 297,
+      "id": 174627,
+      "name": "Series 50",
+      "overview": "",
+      "poster_path": "/1Pij2l0rai93NSEoIGCnIQ8AwZx.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 261,
+      "id": 245000,
+      "name": "Series 51",
+      "overview": "",
+      "poster_path": "/2zmSxUJposMsv0LRFrPdGEowcc2.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 258,
+      "id": 322569,
+      "name": "Series 52",
+      "overview": "",
+      "poster_path": "/xj81eZpuAIuKP7haJdD8gL8pqVb.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 249,
+      "id": 372558,
+      "name": "Series 53",
+      "overview": "",
+      "poster_path": "/hUMzXIQtq5O1wvD8VmGIn5Ho8Sw.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 247,
+      "id": 433448,
+      "name": "Series 54",
+      "overview": "",
+      "poster_path": "/a15kqkopZxLNJMr9kx9LxYXybth.jpg",
+      "season_number": 54,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 146,
+      "id": 488157,
+      "name": "Series 55",
+      "overview": "",
+      "poster_path": "/5Ujxk6KQ8yLRXg6Q48jc2yLR9f1.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.3,
+  "vote_count": 100,
+  "external_ids": {
+    "id": 2527,
+    "imdb_id": "tt0068069",
+    "freebase_mid": "/m/01bbtr",
+    "freebase_id": "/en/emmerdale",
+    "tvdb_id": 77715,
+    "tvrage_id": 3440,
+    "wikidata_id": "Q1247575",
+    "facebook_id": "emmerdale",
+    "instagram_id": "emmerdale",
+    "twitter_id": "emmerdale"
+  }
+}

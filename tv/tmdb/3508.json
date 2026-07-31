@@ -1,0 +1,344 @@
+{
+  "adult": false,
+  "backdrop_path": "/nFnzqHuiKF7mLjGb9GFKZ7SeuoB.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2003-09-08",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.ac360.com/",
+  "id": 3508,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-01",
+  "last_episode_to_air": {
+    "id": 5967165,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 23,
+    "show_id": 3508,
+    "still_path": null
+  },
+  "name": "Anderson Cooper 360°",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 59,
+      "logo_path": "/2EIKV6SomKx8L52HoSViKyJO87m.png",
+      "name": "CNN",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1536,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Anderson Cooper 360°",
+  "overview": "Anderson Cooper goes beyond the headlines to tell stories from many points of view, so you can make up your own mind about the news.",
+  "popularity": 29.5311,
+  "poster_path": "/qTQjGvrGcs0vJBzUuJWygY4LmeR.jpg",
+  "production_companies": [
+    {
+      "id": 184839,
+      "logo_path": "/m7Ru1PEVnGGv1lTGrKWDUkM1JkR.png",
+      "name": "CNN",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-04-16",
+      "episode_count": 57,
+      "id": 441413,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/eYeZj4fKCQub85AcHURwydEaZ4q.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 77,
+      "id": 10699,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 254,
+      "id": 10700,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-10",
+      "episode_count": 245,
+      "id": 10701,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 257,
+      "id": 10702,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 252,
+      "id": 10703,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 254,
+      "id": 10704,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-12-31",
+      "episode_count": 140,
+      "id": 10705,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 1,
+      "id": 164249,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-01",
+      "episode_count": 1,
+      "id": 164250,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 1,
+      "id": 164251,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 1,
+      "id": 164252,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 1,
+      "id": 164253,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 1,
+      "id": 164254,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 2,
+      "id": 164255,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 1,
+      "id": 164256,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 6,
+      "id": 164257,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 9,
+      "id": 164258,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 2,
+      "id": 164259,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/iJWL5hPb0YBZEdH3nPQBHPEkLvx.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 1,
+      "id": 329675,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 1,
+      "id": 329676,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 16,
+      "id": 329677,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 12,
+      "id": 393660,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 1,
+      "id": 441415,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/fi7KWbkJq3MirP32nsYOPQIc3oJ.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5.4,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 3508,
+    "imdb_id": "tt0380086",
+    "freebase_mid": "/m/03v9lv",
+    "freebase_id": "/en/anderson_cooper_360",
+    "tvdb_id": 337454,
+    "tvrage_id": 7024,
+    "wikidata_id": "Q1982877",
+    "facebook_id": "AC360",
+    "instagram_id": "andersoncooper360",
+    "twitter_id": "AC360"
+  }
+}

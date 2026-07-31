@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/8JtKCIBzf3AYbsxBFSL74NoGH2u.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "615495ee9f5dfb0062f30825",
+      "name": "Dick Wolf",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    },
+    {
+      "id": 8161,
+      "credit_id": "615495e4dcb6a3004349bcd3",
+      "name": "Derek Haas",
+      "original_name": "Derek Haas",
+      "gender": 2,
+      "profile_path": "/a2kkIGmfxO45TrFgvARHi8rCqlQ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2021-09-21",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/fbi-international",
+  "id": 121658,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-20",
+  "last_episode_to_air": {
+    "id": 6063057,
+    "name": "Gaijin (2)",
+    "overview": "The Fly Team discovers they’re on the trail of a serial killer, taking the investigation, and Mitchell, to Japan to put an end to the international killing spree.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2025-05-20",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 4,
+    "show_id": 121658,
+    "still_path": "/wnOGddDQToBXuq69z45aaK4Nmc5.jpg"
+  },
+  "name": "FBI: International",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "FBI: International",
+  "overview": "Follows the elite agents of the FBI's International Fly Team headquartered in Budapest as they travel the world with the mission of protecting Americans wherever they may be.",
+  "popularity": 32.4978,
+  "poster_path": "/1Ublm6D8zmqMroqrXkn3Fgd353q.jpg",
+  "production_companies": [
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-21",
+      "episode_count": 21,
+      "id": 187629,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aAJsTMDPuGITCq0CC1JqfXjIDam.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 22,
+      "id": 298429,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/o8udJ5s6lHbP6B22Eu4R9WwsDpL.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-02-13",
+      "episode_count": 13,
+      "id": 365560,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/smHB9FDqxdJePYwE2aUyIkrNdcA.jpg",
+      "season_number": 3,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2024-10-15",
+      "episode_count": 22,
+      "id": 400143,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/zRLTK78fOZc5Wfsc4YAjPnPdzch.jpg",
+      "season_number": 4,
+      "vote_average": 8.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 240,
+  "external_ids": {
+    "id": 121658,
+    "imdb_id": "tt14449470",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 399863,
+    "tvrage_id": null,
+    "wikidata_id": "Q107505019",
+    "facebook_id": "FBICBS",
+    "instagram_id": "fbicbs",
+    "twitter_id": "FBIIntCBS"
+  }
+}

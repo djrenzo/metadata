@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/c1FQPgXZjQ1AmX2v0v3W59PjwKT.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    65,
+    80
+  ],
+  "first_air_date": "2005-10-29",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.imbc.com/broad/tv/ent/musiccore/index.html",
+  "id": 35024,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-04-19",
+  "last_episode_to_air": {
+    "id": 7283135,
+    "name": "Episode 962",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 962,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 35024,
+    "still_path": null
+  },
+  "name": "Show! Music Core",
+  "next_episode_to_air": {
+    "id": 7283136,
+    "name": "Episode 963",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-01",
+    "episode_number": 963,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 35024,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 896,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "쇼! 음악중심",
+  "overview": "Show! Music Core is a music show that has been aired since 2005. Not like any other music shows, this show doesn't include any charts or awards. There are a few segments such as This Week's Hot 3, Chart Up Core and Core of Rising Stars.",
+  "popularity": 25.8267,
+  "poster_path": "/AkoQr6axSoFdpTuPt0dY3WekIeY.jpg",
+  "production_companies": [
+    {
+      "id": 26511,
+      "logo_path": "/muK9W0KLV8KfEnR7MYu0YpfpdnO.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-10-29",
+      "episode_count": 963,
+      "id": 73842,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gf9sdLzo1B0saiO1I0fG2bzoF29.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The core of Korean music.",
+  "type": "Reality",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 35024,
+    "imdb_id": "tt2375022",
+    "freebase_mid": "/m/0g56b_y",
+    "freebase_id": null,
+    "tvdb_id": 343498,
+    "tvrage_id": null,
+    "wikidata_id": "Q486953",
+    "facebook_id": "mbcmusiccore",
+    "instagram_id": null,
+    "twitter_id": "MBCMusicCore"
+  }
+}

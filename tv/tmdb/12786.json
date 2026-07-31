@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": "/hYmHyUlJMQgeazELoHnORrEQ0vE.jpg",
+  "created_by": [
+    {
+      "id": 1244131,
+      "credit_id": "5258237c760ee36aaa7d9315",
+      "name": "Maureen Jennings",
+      "original_name": "Maureen Jennings",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2008-01-24",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.cbc.ca/murdochmysteries/",
+  "id": 12786,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-13",
+  "last_episode_to_air": {
+    "id": 7048258,
+    "name": "Hell of a Woman",
+    "overview": "The investigation into a brutal murder in a public toilet has Murdoch and Inspector Choi butting heads as he closes in on the killer.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-04-13",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 19,
+    "show_id": 12786,
+    "still_path": "/oUrAKfKPRdqUvCL2jY54OKtcvtv.jpg"
+  },
+  "name": "Murdoch Mysteries",
+  "next_episode_to_air": {
+    "id": 7459769,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-05",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 12786,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/zjgqkIvBURbwoHbHhmnzaTFyZgR.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    },
+    {
+      "id": 92,
+      "logo_path": "/38EhAHYoNzRDFCXAUdF4PEH9Kfl.png",
+      "name": "Citytv",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 330,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Murdoch Mysteries",
+  "overview": "A Victorian-era Toronto detective uses then-cutting edge forensic techniques to solve crimes, with the assistance of a female coroner who is also struggling for recognition in the face of tradition, based on the books by Maureen Jennings.",
+  "popularity": 46.5785,
+  "poster_path": "/1S8gnT06MDkAmHmzDLSVughE0t0.jpg",
+  "production_companies": [
+    {
+      "id": 6252,
+      "logo_path": "/9b3MKk54TG6p059z0t9j4bqgnom.png",
+      "name": "Shaftesbury Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 14431,
+      "logo_path": "/2ZN7kr8u2vmZRJrJagu5BFP3xbD.png",
+      "name": "UKTV",
+      "origin_country": "GB"
+    },
+    {
+      "id": 64745,
+      "logo_path": null,
+      "name": "Cogeco Program Development Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 34515,
+      "logo_path": "/eHlBG6INdNO7IfsxVX1kDDBKnJi.png",
+      "name": "Canada Media Fund | Fonds des médias du Canada",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-05-13",
+      "episode_count": 7,
+      "id": 23715,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/spSBGUvyIe67vEybSRmhWSwFKjn.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-24",
+      "episode_count": 13,
+      "id": 23712,
+      "name": "Season 1",
+      "overview": "The Catholic detective William Murdoch (Yannick Bisson) solves his cases in Protestant Toronto at the turn of the century in a highly unconventional way for his time: with the help of fingerprints, blood samples, precise analysis and searches for clues at the crime scene, he always succeeds in convicting the guilty party or parties, sometimes much to the astonishment of his superiors. With the help of his subordinate Constable George Crabtree (Jonny Harris) and the forensic pathologist Julia Ogden (Hélène Joy), Murdoch achieves successes that ultimately even convince Inspector Brackenreid (Thomas Craig) of his abilities.",
+      "poster_path": "/jq49LjsN0DLj2oVEgerpVkUjDQZ.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2009-02-09",
+      "episode_count": 13,
+      "id": 23713,
+      "name": "Season 2",
+      "overview": "William Murdoch has to deal with high-profile criminals and solves the mysterious cases in his usual manner in his own special way. Murdoch meets some of the most famous and notorious personalities of the time, from Buffalo Bill Cody to Jack the Ripper.",
+      "poster_path": "/mNZXj3XlroQiyKgmzPIlbzdFGII.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2010-02-15",
+      "episode_count": 13,
+      "id": 23714,
+      "name": "Season 3",
+      "overview": "From Bristol in England to Chinatown in Toronto - in the third season, progressive criminologist William Murdoch is drawn to the most adventurous mysteries everywhere. Tigers escape, axes are used to murder, paintings are forged, an execution is botched. In order to keep a cool head in the chaos of the late 19th century,",
+      "poster_path": "/zFpU4PLnxpsY8ZVRDtpSrM5RT4I.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2011-02-14",
+      "episode_count": 13,
+      "id": 23716,
+      "name": "Season 4",
+      "overview": "Murdoch and his team have their hands full again in the fourth season. They have to investigate a variety of mysterious cases, including the discovery of dismembered body parts in a concrete block, the murder of two soldiers in a barracks, a break-in at a police station and the murder of a married couple and their maid.",
+      "poster_path": "/jNFzjshSRaFkEhNGaUAcbqtkOU8.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2012-02-27",
+      "episode_count": 13,
+      "id": 23717,
+      "name": "Season 5",
+      "overview": "Detective Murdoch must tread carefully when he pursues a Catholic suspect in the murder of an Alderman, killed during the attempted assassination of the city's Protestant Mayor.",
+      "poster_path": "/u13TlKnNEqRRs82qGZ2zi8tZEGN.jpg",
+      "season_number": 5,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 13,
+      "id": 23718,
+      "name": "Season 6",
+      "overview": "After a veteran of a brutal North African battle is slain by a sword, Detective Murdoch's prime suspect is the victim's fellow soldier, who is none other than Winston Churchill.",
+      "poster_path": "/kOuZJyOUYpzZwqIleg8XO8xulmG.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-30",
+      "episode_count": 18,
+      "id": 23719,
+      "name": "Season 7",
+      "overview": "Detective Murdoch investigates the sudden death of bicycle racer Joe Fenton. Murdoch was himself a participant in the race trying out his newfangled gear shifting device but Fenton was the favorite having won several recent races. Fenton's manager, Chippy Blackburn, was seen giving him a potion and they suspect he may be may be fixing races. Dr. Grace however is having considerable difficulty finding a cause of death and with Dr. Ogden's assistance performs her first brain bisection. It leads her to believe he suffered a cerebral aneurysm leading to a brain hemorrhage. The discovery of an injection mark in Fenton's right arm leads to a different conclusion however. Meanwhile, Julia prepares to sell Darcy Garland's house but finds that his younger brother Leslie living is living there.",
+      "poster_path": "/q6YnEpEa5MUrR9JxM9KWF2IM6jU.jpg",
+      "season_number": 7,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2014-10-06",
+      "episode_count": 18,
+      "id": 62880,
+      "name": "Season 8",
+      "overview": "Det. Murdoch investigates the murder of Richard Dawkins who was beaten to death at the dinner table by two masked men just as he was about to make an important announcement to his business associates. Since nothing was stolen Murdoch's new boss, Inspector Hamish Slorach, calls the killing an assassination. Dawkins was rumored to be selling his chandlery business. The harbor master says Dawkins was anything but a saint and the police should look to the seedier side for a solution to his death. Const. Jackson is badly beaten by two thugs which seems to confirm Murdoch's suspicion that the men who beat Inspector Brackenreid are the same ones who killed Dawkins. When they find a dead woman on the shore, Dr. Grace determines she was clubbed to death the night before the attack on Dawkins and was manacled before she died. Meanwhile, suffragettes recruit Julia to their movement and she is joined by Emily Grace.",
+      "poster_path": "/vF2UxrDooTlE5Sxr0ZAf7JANLT0.jpg",
+      "season_number": 8,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2015-10-05",
+      "episode_count": 18,
+      "id": 71142,
+      "name": "Season 9",
+      "overview": "While investigating the murder of a rich benefactor and the theft of children's presents at a Christmas charity pageant, Murdoch discovers suggestions that a Christmas monster, a Krampus, may be involved.",
+      "poster_path": "/kmun2zHdtAhB0e0UzuTYtBjFU91.jpg",
+      "season_number": 9,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2016-10-10",
+      "episode_count": 18,
+      "id": 80912,
+      "name": "Season 10",
+      "overview": "Season ten kicks off in grand style with a two-part mystery set in the world of Toronto debutantes, whose coming out is interrupted by the 1904 Great Fire of Toronto. Following the opener, Murdoch and the rest of Station Four find themselves embroiled in cases both fantastical and historical. From a murder involving the Olympic Champion Canadian soccer team, an investigation into a man wrongfully jailed, the introduction of H.P. Lovecraft (the master of the macabre), a wronged woman who goes on a serial killing spree, to the death of a prize pooch at a dog show, there is very little rest for Murdoch, Ogden, Brackenreid, Crabtree, James and the rest of Station Four. And as all this goes on, Murdoch tries to deliver on his promise to his wife and build her the home of her dreams. Or is it his nightmare? No matter what changes the future holds, Murdoch and the team will be there to solve each fresh mystery with tenacity and ingenuity.",
+      "poster_path": "/1mDav62Io8Xj9Kqz0YoYdlDBlhF.jpg",
+      "season_number": 10,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 18,
+      "id": 92356,
+      "name": "Season 11",
+      "overview": "Detective Murdoch and Dr. Ogden travel to Vancouver Island to visit Murdoch's brother, RCMP officer Jasper Linney. There, they investigate a murder connected to an archaeologist who has uncovered an ancient Indigenous settlement, leading to encounters with the Songhees and Haida nations. Meanwhile, the Brackenreids are offered an investment opportunity that may not be all it seems, and Crabtree and Higgins plan a ski holiday with their sweethearts Nina Bloom and Ruth Newsome that may be more dangerous than expected.",
+      "poster_path": "/wU2BLHHlTfrhyB3LrqPI3sxb75e.jpg",
+      "season_number": 11,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 18,
+      "id": 109791,
+      "name": "Season 12",
+      "overview": "After a telephone call reports a body has been discovered, as well as reports of gunshots have been reported, Murdoch and Crabtree find an unlikely suspect cowering near the body. Murdoch suspects the true killer is still out there.",
+      "poster_path": "/vteN40BivqnILImpNKuo7a0OTMW.jpg",
+      "season_number": 12,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 18,
+      "id": 132490,
+      "name": "Season 13",
+      "overview": "Det. Murdoch and Dr. Ogden investigate a series of suspicious deaths in Kingston Penitentiary, while Inspector Brackenreid deals with a telephone operator strike with his daughter involved.",
+      "poster_path": "/lJAONDnlKwq1ak2W5ct4Ayob0Zq.jpg",
+      "season_number": 13,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 11,
+      "id": 172153,
+      "name": "Season 14",
+      "overview": "While the Murdochs investigate a series of murders at a country inn while on vacation, Crabtree and Higgins investigate a beheaded accountant in a community garden.",
+      "poster_path": "/noDCjLsTl3ptWFhfYm59aiIH5gU.jpg",
+      "season_number": 14,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 24,
+      "id": 209730,
+      "name": "Season 15",
+      "overview": "William Murdoch goes to Montreal, following Harry's trail, unaware that he is being followed. Watts is called to a property in front of which a Japanese couple have lit a fire so that the spirit of their deceased daughter may rest in peace. According to them, the man who lives in the house is responsible for their daughter's death. In accordance with their religion, they have burned their daughter's body, which complicates the investigation.",
+      "poster_path": "/wwcgKcC5Wk0Z81QmjJsEjMhUleU.jpg",
+      "season_number": 15,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2022-09-11",
+      "episode_count": 24,
+      "id": 302757,
+      "name": "Season 16",
+      "overview": "Julia Ogden is invited to dinner at the warden's, only to have a murder take place instead of dessert. Murdoch investigates the murder of Mrs. Hart's friend's fraternity brother.",
+      "poster_path": "/tbIeZeJBmnOJlWXQFW2AoCk5LHb.jpg",
+      "season_number": 16,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 24,
+      "id": 353951,
+      "name": "Season 17",
+      "overview": "Four wishes that are fulfilled, but the fulfillment of wishes does not always bring a person to a good state. The results of the wishes of Julia Ogden and William Murdoch and Sergeant Brackenreid and Dr. Hart",
+      "poster_path": "/9DvXinyESFJnOrBVlV1hnkD1bP6.jpg",
+      "season_number": 17,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2024-09-30",
+      "episode_count": 22,
+      "id": 417709,
+      "name": "Season 18",
+      "overview": "Murdoch, finding his home too quiet and empty, moves into a rooming house where a quirky fellow tenant insists that the detective help investigate an apparent murder in the building.",
+      "poster_path": "/1S8gnT06MDkAmHmzDLSVughE0t0.jpg",
+      "season_number": 18,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2025-10-06",
+      "episode_count": 21,
+      "id": 470980,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/kRwOdfQZlMN1EDAMlUpWv68sDGH.jpg",
+      "season_number": 19,
+      "vote_average": 9.9
+    },
+    {
+      "air_date": "2026-10-05",
+      "episode_count": 1,
+      "id": 526613,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Forensic sleuthing in the age of invention.",
+  "type": "Scripted",
+  "vote_average": 7.663,
+  "vote_count": 294,
+  "external_ids": {
+    "id": 12786,
+    "imdb_id": "tt1091909",
+    "freebase_mid": "/m/02rjdfx",
+    "freebase_id": "/en/murdoch_mysteries",
+    "tvdb_id": 81670,
+    "tvrage_id": 17791,
+    "wikidata_id": "Q1326701",
+    "facebook_id": "MurdochOnCBC",
+    "instagram_id": "cbcmurdoch",
+    "twitter_id": "CBCMurdoch"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "adult": false,
+  "backdrop_path": "/6QwDoRZ7tiRXeMlsYtNto5sSMUg.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-04-04",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://akane-banashi.com",
+  "id": 297438,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-06-20",
+  "last_episode_to_air": {
+    "id": 7160782,
+    "name": "Graduation",
+    "overview": "Akane's Karaku Cup win draws attention at school. As graduation nears, her friends chase their own dreams, and Shiguma ponders a stage name for her.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-20",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 297438,
+    "still_path": "/3EiDV8kd3yqIAQbpdipPjJRCdEt.jpg"
+  },
+  "name": "Akane-banashi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 576,
+      "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+      "name": "Nagoya TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1278,
+      "logo_path": "/49D825cN3Zb4slobKyGqIaI3Fx9.png",
+      "name": "KBC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1410,
+      "logo_path": "/ca3Qw7exc3RPSd0CQFOZuSNbGjF.png",
+      "name": "ABC TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3756,
+      "logo_path": "/3lh8IYJbV6eHOaF0UFCvmmSJNvf.png",
+      "name": "NCC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4794,
+      "logo_path": "/vYcEzZlLmrxV9xKZx9jIUcHF1RC.png",
+      "name": "OAB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4798,
+      "logo_path": "/tiUMGPJVHYc5h1ZOt2jK80oNPz9.png",
+      "name": "ABA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6270,
+      "logo_path": "/xnHINTAs2GnfXJ3lalaQ0se8aup.png",
+      "name": "Niigata Television Network 21",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6284,
+      "logo_path": "/8QybJL7YGkOr3ECilGaGTqeId7A.png",
+      "name": "khb",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6285,
+      "logo_path": "/cFOQIanQr8wKvJKgIgaKiM3xnMU.png",
+      "name": "KFB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6288,
+      "logo_path": "/gm3ksoi7zQMWpHsJJDzotTwF2GM.png",
+      "name": "HOME",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6289,
+      "logo_path": "/sSE8F5yoFoVzClCkzLBksTDK7iI.png",
+      "name": "KSB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6290,
+      "logo_path": "/kgfTkjNRsR0f2QEiaXf2fymKB6V.png",
+      "name": "Kagoshima Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6365,
+      "logo_path": "/c1pvlKoEVLjejgQUCBFq5Q9n8gL.png",
+      "name": "Iwate Asahi TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6366,
+      "logo_path": "/dmSnk8fI8hpQOyCIrUDhj3TxTT8.png",
+      "name": "Akita Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6367,
+      "logo_path": "/jJWtS13oV0os1M5djVT6zjvnyq3.png",
+      "name": "Yamagata Television System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6368,
+      "logo_path": "/34nBfbkqxcjrbpVraEfI6MkCvgY.png",
+      "name": "Shizuoka Asahi TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6369,
+      "logo_path": "/ztA2E1CY6L3aF2roadAOHtLiDCP.png",
+      "name": "Asahi Broadcasting Nagano",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6370,
+      "logo_path": "/onsaMWqPfrINyAfgi2FnP8conv1.png",
+      "name": "Hokuriku Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6372,
+      "logo_path": "/1UunNUsoq9k1nMNppuY5qhgdWT3.png",
+      "name": "Ehime Asahi TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6373,
+      "logo_path": "/6iuVpZdxAE8lgPENUBuwzCspYF7.png",
+      "name": "Yamaguchi Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6374,
+      "logo_path": "/qBX8z5bj0EISsASQo5IE76BYpu5.png",
+      "name": "Kumamoto Asahi Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6375,
+      "logo_path": "/7hIrDssIDTG2sGLdq1IfYddv9tz.png",
+      "name": "Ryu-Q Asahi Broadcasting",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "あかね噺",
+  "overview": "As a child, Akane witnesses a shocking event during her father's career-defining show. Now in high school, she vows to reach the art's highest rank.",
+  "popularity": 98.6183,
+  "poster_path": "/wqpVouqT0vX8CQ0hO3DUdDQbZcP.jpg",
+  "production_companies": [
+    {
+      "id": 19533,
+      "logo_path": "/ftBiBR9R6erfYgqXqhCGTfbmPZG.png",
+      "name": "ZEXCS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 134892,
+      "logo_path": "/euHs3v7wg48dr580eeilS1gZStQ.png",
+      "name": "ABEMA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 209105,
+      "logo_path": "/9FetaezkNMCYycfLnm5e2l1gedc.png",
+      "name": "TV Asahi Music",
+      "origin_country": "JP"
+    },
+    {
+      "id": 188144,
+      "logo_path": "/tft4KzwjS3okGiN6duB3qwHkIX1.png",
+      "name": "BS Asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-04-04",
+      "episode_count": 12,
+      "id": 468110,
+      "name": "Season 1",
+      "overview": "Akane Osaki, captivated since childhood by the magical performances of her father, Shinta Arakawa, witnesses a shocking incident during his decisive performance for promotion to shin'uchi (master rank). Six years later, now a high school student, she sets her sights on becoming a shin'uchi herself—pushing forward in the highly competitive world of rakugo.",
+      "poster_path": "/wqpVouqT0vX8CQ0hO3DUdDQbZcP.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 523595,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "And so, here begins a story.",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 297438,
+    "imdb_id": "tt38797595",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 466488,
+    "tvrage_id": null,
+    "wikidata_id": "Q135641513",
+    "facebook_id": "akanebanashi.en",
+    "instagram_id": "akanebanashi_en",
+    "twitter_id": "akanebanashi_PR"
+  }
+}

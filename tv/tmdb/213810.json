@@ -1,0 +1,209 @@
+{
+  "adult": false,
+  "backdrop_path": "/vB3dlgQtkTMRIWcirsFMrrASSvt.jpg",
+  "created_by": [
+    {
+      "id": 1241179,
+      "credit_id": "637c8353bcf8c900dd1eaa0f",
+      "name": "Charlie Parsons",
+      "original_name": "Charlie Parsons",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2003-09-18",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.skai.gr/tv/show/psuchagogia/survivor/sezon-2023-2024",
+  "id": 213810,
+  "in_production": true,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2022-05-26",
+  "last_episode_to_air": {
+    "id": 4068595,
+    "name": "Episode 108",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-05-26",
+    "episode_number": 108,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 213810,
+    "still_path": null
+  },
+  "name": "Survivor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    },
+    {
+      "id": 3569,
+      "logo_path": "/xADNihESQ9mHtnOnhruEg3RoUH6.png",
+      "name": "Skai",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 651,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Survivor",
+  "overview": "",
+  "popularity": 39.8101,
+  "poster_path": "/4Bn7In0Hc2B7w1CFBrw4Z8lqq1O.jpg",
+  "production_companies": [
+    {
+      "id": 102288,
+      "logo_path": null,
+      "name": "Antenna TV",
+      "origin_country": "GR"
+    },
+    {
+      "id": 131634,
+      "logo_path": "/xADNihESQ9mHtnOnhruEg3RoUH6.png",
+      "name": "Skai",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-09-19",
+      "episode_count": 29,
+      "id": 315235,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/i4WLbSeGWJcd9nrOlykhU75jP58.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-25",
+      "episode_count": 42,
+      "id": 317265,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wxFVDsw7SdFFsR7ROfc5VQu0dmA.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-24",
+      "episode_count": 27,
+      "id": 317266,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/2xhpxeXRnROl7are2sIZqmuVsQc.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-16",
+      "episode_count": 20,
+      "id": 317267,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wxFVDsw7SdFFsR7ROfc5VQu0dmA.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-14",
+      "episode_count": 90,
+      "id": 317268,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/sDmd1ftH9cz5b3pTYxA0PGWwQ9a.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-22",
+      "episode_count": 107,
+      "id": 317269,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/wUEKgzjBQHpmImWREEUJMW6SVHE.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-02",
+      "episode_count": 118,
+      "id": 317270,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/vdVQMtjbmufjrKWNrgOAJiLAJBv.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-27",
+      "episode_count": 110,
+      "id": 317271,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/pikSZHWM2a1h9UV2Cenuzi95kPy.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-26",
+      "episode_count": 108,
+      "id": 317272,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/itw12UGLVxX3cRJDtgcgGB6cLLd.jpg",
+      "season_number": 9,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 213810,
+    "imdb_id": "tt6665808",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "adult": false,
+  "backdrop_path": "/qhfPZOCZPTzArvMq78180NqzbWd.jpg",
+  "created_by": [
+    {
+      "id": 69102,
+      "credit_id": "5586ca07c3a368274c00501f",
+      "name": "Jordi Galcerán",
+      "original_name": "Jordi Galceran",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1061980,
+      "credit_id": "5586c9fdc3a36836ea003d9d",
+      "name": "Josep Maria Benet i Jornet",
+      "original_name": "Josep Maria Benet i Jornet",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 19805,
+      "credit_id": "6017227baafebd003fdaac26",
+      "name": "Lluís Arcarazo",
+      "original_name": "Lluís Arcarazo",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    25
+  ],
+  "first_air_date": "2000-09-11",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.tv3.cat/elcordelaciutat",
+  "id": 14743,
+  "in_production": false,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2009-12-23",
+  "last_episode_to_air": {
+    "id": 2170861,
+    "name": "Episode 75",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-12-23",
+    "episode_number": 75,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 10,
+    "show_id": 14743,
+    "still_path": null
+  },
+  "name": "El cor de la ciutat",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 406,
+      "logo_path": "/bvjlXF06a7hR3vJ4IoFkGVLaBFo.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 1906,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "El cor de la ciutat",
+  "overview": "El cor de la ciutat is a TVC television soap opera first broadcast on TV3 on 11 September 2000 and last broadcast on 23 December 2009. The show is the most watched fiction program in Catalonia, Spain, especially among female audiences, drawing around 28-33% of the audience with as much as 40% during season finales. El cor de la ciutat follows the lives of the people who live and work in the neighbourhood of Sants and Sant Andreu in Barcelona, Catalonia, Spain.",
+  "popularity": 33.1374,
+  "poster_path": "/xQ83cJA8AxoQMZe8ADApWrRZB1v.jpg",
+  "production_companies": [
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-09-11",
+      "episode_count": 209,
+      "id": 67559,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-16",
+      "episode_count": 204,
+      "id": 67560,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-09",
+      "episode_count": 200,
+      "id": 67561,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-15",
+      "episode_count": 200,
+      "id": 67562,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-13",
+      "episode_count": 201,
+      "id": 67563,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 205,
+      "id": 67564,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-12",
+      "episode_count": 204,
+      "id": 67565,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-12",
+      "episode_count": 201,
+      "id": 67566,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 207,
+      "id": 67567,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-07",
+      "episode_count": 75,
+      "id": 67568,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.357,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 14743,
+    "imdb_id": "tt0338590",
+    "freebase_mid": "/m/03clzq0",
+    "freebase_id": "/en/el_cor_de_la_ciutat",
+    "tvdb_id": 336540,
+    "tvrage_id": null,
+    "wikidata_id": "Q3285185",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

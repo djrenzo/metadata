@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/pXcBTvoFIee7cOwqE6BUF9wFKRY.jpg",
+  "created_by": [
+    {
+      "id": 1246075,
+      "credit_id": "52584cad760ee34661009ee1",
+      "name": "Enrique Torres",
+      "original_name": "Enrique Torres",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1998-11-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.telefeinternacional.com.ar/es/munecabrava/index2.html",
+  "id": 16135,
+  "in_production": false,
+  "languages": [
+    "sk",
+    "es"
+  ],
+  "last_air_date": "1999-11-26",
+  "last_episode_to_air": {
+    "id": 1597526,
+    "name": "Episode 270",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-11-26",
+    "episode_number": 270,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 16135,
+    "still_path": "/3neIzM35EFPJ4t0KlHyFhQ08XBG.jpg"
+  },
+  "name": "Wild Angel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 96,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    },
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 270,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Muñeca Brava",
+  "overview": "An orphan who's working in a Mansion, falls in love with the owners' son.",
+  "popularity": 49.1551,
+  "poster_path": "/cMMiFdM9KZqJAjHTisSRYSR3YlN.jpg",
+  "production_companies": [
+    {
+      "id": 8046,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-11-16",
+      "episode_count": 270,
+      "id": 85527,
+      "name": "Muñeca Brava",
+      "overview": "",
+      "poster_path": "/hVgaWS1iBbFS9TP8llyT1Hda5Mp.jpg",
+      "season_number": 1,
+      "vote_average": 3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.164,
+  "vote_count": 73,
+  "external_ids": {
+    "id": 16135,
+    "imdb_id": "tt0202197",
+    "freebase_mid": "/m/0fbw13",
+    "freebase_id": "/en/muneca_brava",
+    "tvdb_id": 271868,
+    "tvrage_id": null,
+    "wikidata_id": "Q542615",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,685 @@
+{
+  "adult": false,
+  "backdrop_path": "/ddheao5imCoTaKAzOtNCTyCFjIL.jpg",
+  "created_by": [
+    {
+      "id": 417598,
+      "credit_id": "5cba58f6c3a3683abf861279",
+      "name": "Walter Clark",
+      "original_name": "Walter Clark",
+      "gender": 2,
+      "profile_path": "/mVIyIFISTKiJzOpX0hRRH0zCeR0.jpg"
+    },
+    {
+      "id": 3992338,
+      "credit_id": "642ac02b9cc67b05bf6ff72a",
+      "name": "Mauro Borja Lopes",
+      "original_name": "Mauro Borja Lopes",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2176371,
+      "credit_id": "642ac06d01b1ca00777b87ed",
+      "name": "Boni",
+      "original_name": "Boni",
+      "gender": 2,
+      "profile_path": "/9CmU1SOjd6WlC8qhIljVMkveZ3S.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1973-08-05",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://g1.globo.com/fantastico/",
+  "id": 19538,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2026-07-19",
+  "last_episode_to_air": {
+    "id": 7257185,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 54,
+    "show_id": 19538,
+    "still_path": null
+  },
+  "name": "Fantástico",
+  "next_episode_to_air": {
+    "id": 7260597,
+    "name": "Episode 31",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-02",
+    "episode_number": 31,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 54,
+    "show_id": 19538,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 2786,
+  "number_of_seasons": 54,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Fantástico",
+  "overview": "Fantástico is a Brazilian weekly television newsmagazine broadcast on Sundays on Rede Globo.",
+  "popularity": 26.4141,
+  "poster_path": "/rlPtvFRsxwcJEwLdd0e8jdruhkj.jpg",
+  "production_companies": [
+    {
+      "id": 203962,
+      "logo_path": "/8Ms0fy2oqeB2sKvYxKeIEseqdW1.png",
+      "name": "Jornalismo Globo",
+      "origin_country": "BR"
+    },
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1973-08-05",
+      "episode_count": 22,
+      "id": 61578,
+      "name": "Season",
+      "overview": "",
+      "poster_path": "/vmxc5h4C528zod4by2psDvNWusg.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-06",
+      "episode_count": 52,
+      "id": 141446,
+      "name": "2020",
+      "overview": "",
+      "poster_path": "/vmxc5h4C528zod4by2psDvNWusg.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-05",
+      "episode_count": 52,
+      "id": 141447,
+      "name": "2020",
+      "overview": "",
+      "poster_path": "/vmxc5h4C528zod4by2psDvNWusg.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-04",
+      "episode_count": 52,
+      "id": 335359,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vmxc5h4C528zod4by2psDvNWusg.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-02",
+      "episode_count": 52,
+      "id": 335360,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/vmxc5h4C528zod4by2psDvNWusg.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 53,
+      "id": 335361,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/vmxc5h4C528zod4by2psDvNWusg.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-07",
+      "episode_count": 52,
+      "id": 335362,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/lXP3pVWhy4755NxjimtF8o6c3DM.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-06",
+      "episode_count": 52,
+      "id": 335363,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/lXP3pVWhy4755NxjimtF8o6c3DM.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-04",
+      "episode_count": 52,
+      "id": 335364,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/lXP3pVWhy4755NxjimtF8o6c3DM.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-03",
+      "episode_count": 52,
+      "id": 335365,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/lXP3pVWhy4755NxjimtF8o6c3DM.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-02",
+      "episode_count": 52,
+      "id": 335366,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-01",
+      "episode_count": 53,
+      "id": 335367,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-06",
+      "episode_count": 52,
+      "id": 335368,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-05",
+      "episode_count": 52,
+      "id": 335369,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-04",
+      "episode_count": 52,
+      "id": 335370,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-03",
+      "episode_count": 52,
+      "id": 335371,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-01",
+      "episode_count": 53,
+      "id": 335372,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-07",
+      "episode_count": 52,
+      "id": 335373,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-06",
+      "episode_count": 52,
+      "id": 335374,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-05",
+      "episode_count": 52,
+      "id": 335375,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-03",
+      "episode_count": 52,
+      "id": 335376,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-02",
+      "episode_count": 52,
+      "id": 335377,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 53,
+      "id": 335378,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-07",
+      "episode_count": 52,
+      "id": 335379,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-05",
+      "episode_count": 52,
+      "id": 335380,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-04",
+      "episode_count": 52,
+      "id": 335381,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-03",
+      "episode_count": 52,
+      "id": 335382,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-02",
+      "episode_count": 53,
+      "id": 335383,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-07",
+      "episode_count": 52,
+      "id": 335384,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 52,
+      "id": 335385,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-05",
+      "episode_count": 52,
+      "id": 335386,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 52,
+      "id": 335387,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 52,
+      "id": 335388,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 53,
+      "id": 335389,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-07",
+      "episode_count": 52,
+      "id": 335390,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 52,
+      "id": 335391,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 52,
+      "id": 335392,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/lDRwTC6sEweW6xmID6n3Cvx4N32.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 52,
+      "id": 335393,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/ptLukCoqtqOCzFiqc9Dy31qhsgP.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 52,
+      "id": 335394,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/ptLukCoqtqOCzFiqc9Dy31qhsgP.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 53,
+      "id": 335395,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/ptLukCoqtqOCzFiqc9Dy31qhsgP.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 52,
+      "id": 335396,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/ptLukCoqtqOCzFiqc9Dy31qhsgP.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 52,
+      "id": 335397,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/iHy3g0V7Q3gennzm7iAJbykxIyw.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 52,
+      "id": 335398,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/ggi6nu199NXqFYVZN1TXlbkpmru.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 52,
+      "id": 335399,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/brgM2c3zr2TsaOqccrFD7P2P0RI.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 53,
+      "id": 335400,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 52,
+      "id": 335401,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 52,
+      "id": 335402,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 52,
+      "id": 335403,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/qJLTdB87nuETq8YrUs58u30zduH.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 52,
+      "id": 335421,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/nQWURxRB48q2cpDQ0i5J2LITMpN.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-02",
+      "episode_count": 52,
+      "id": 335422,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 53,
+      "id": 335423,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/s7OAyuxaOcEfhGQJpk6GKP0HOcM.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 52,
+      "id": 465347,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-04",
+      "episode_count": 51,
+      "id": 465348,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/zzomR4Qo9mDDhqWfy7f5DeC4tXM.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-04",
+      "episode_count": 52,
+      "id": 515612,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/rlPtvFRsxwcJEwLdd0e8jdruhkj.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 19538,
+    "imdb_id": "tt0381753",
+    "freebase_mid": "/m/0ddxzt",
+    "freebase_id": null,
+    "tvdb_id": 277691,
+    "tvrage_id": null,
+    "wikidata_id": "Q2591483",
+    "facebook_id": "Fantastico",
+    "instagram_id": "showdavida",
+    "twitter_id": "showdavida"
+  }
+}

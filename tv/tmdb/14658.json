@@ -1,0 +1,693 @@
+{
+  "adult": false,
+  "backdrop_path": "/4WdtTK5SbeXsYeloXHI2WTpgvdE.jpg",
+  "created_by": [
+    {
+      "id": 942904,
+      "credit_id": "5258343d760ee36aaa91c20c",
+      "name": "Mark Burnett",
+      "original_name": "Mark Burnett",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1241179,
+      "credit_id": "5258343d760ee36aaa91c206",
+      "name": "Charlie Parsons",
+      "original_name": "Charlie Parsons",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2000-05-31",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/survivor",
+  "id": 14658,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-20",
+  "last_episode_to_air": {
+    "id": 7094861,
+    "name": "Reverse the Curse",
+    "overview": "Back from tribal, tensions rise following the exit of a particularly historic player. The final five immunity challenge ends in a showdown and features one of the closest finishes the show has ever seen. Jeff reveals the outcomes of the remaining in-game fan votes and how they impact the final stage of the competition. Then, one castaway will be crowned Sole Survivor and awarded the $2 million prize, during the three-hour live season finale of Survivor 50.",
+    "vote_average": 3,
+    "vote_count": 6,
+    "air_date": "2026-05-20",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 131,
+    "season_number": 50,
+    "show_id": 14658,
+    "still_path": "/od6cL5hvXjelt024xuXBkdcdDQm.jpg"
+  },
+  "name": "Survivor",
+  "next_episode_to_air": {
+    "id": 7535074,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-23",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 51,
+    "show_id": 14658,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 732,
+  "number_of_seasons": 51,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Survivor",
+  "overview": "A reality show contest where sixteen or more castaways split between two or more “Tribes” are taken to a remote isolated location and are forced to live off the land with meager supplies for roughly 39 days. Frequent physical challenges are used to pit the tribes against each other for rewards, such as food or luxuries, or for “Immunity”, forcing the other tribe to attend “Tribal Council”, where they must vote off one of their players.",
+  "popularity": 53.3684,
+  "poster_path": "/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
+  "production_companies": [
+    {
+      "id": 59551,
+      "logo_path": null,
+      "name": "Mark Burnett Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2230,
+      "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+      "name": "MGM Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 90382,
+      "logo_path": null,
+      "name": "Castaway Television Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 68835,
+      "logo_path": null,
+      "name": "CBS Eye Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 54409,
+      "logo_path": null,
+      "name": "Survivor Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 54460,
+      "logo_path": null,
+      "name": "One Three Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 77503,
+      "logo_path": null,
+      "name": "United Artists Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-02-05",
+      "episode_count": 5,
+      "id": 142816,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-05-31",
+      "episode_count": 14,
+      "id": 59684,
+      "name": "Borneo",
+      "overview": "",
+      "poster_path": "/3IzanZU0pVFcr1BhHs3wbdf3LcT.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2001-01-28",
+      "episode_count": 17,
+      "id": 59685,
+      "name": "The Australian Outback",
+      "overview": "",
+      "poster_path": "/evrqhYMPxElaXFUaSfwA6UAjx33.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2001-10-11",
+      "episode_count": 16,
+      "id": 59686,
+      "name": "Africa",
+      "overview": "",
+      "poster_path": "/7IODS5ssohYK4ighyG9GUWvjNf7.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2002-02-28",
+      "episode_count": 15,
+      "id": 59687,
+      "name": "Marquesas",
+      "overview": "",
+      "poster_path": "/g6j1FPIq2FT12TcGT7Y546u8yLt.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2002-09-19",
+      "episode_count": 15,
+      "id": 59688,
+      "name": "Thailand",
+      "overview": "",
+      "poster_path": "/22pz1kSnzXJkNCGzSqZsdhn2epJ.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2003-02-13",
+      "episode_count": 15,
+      "id": 59689,
+      "name": "The Amazon",
+      "overview": "",
+      "poster_path": "/n2XEKvQlec31m6U2S9BrnTtxmSp.jpg",
+      "season_number": 6,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2003-09-18",
+      "episode_count": 15,
+      "id": 59690,
+      "name": "Pearl Islands",
+      "overview": "",
+      "poster_path": "/8VCr75EKcBKJKycxO198aL0G1aP.jpg",
+      "season_number": 7,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2004-02-01",
+      "episode_count": 18,
+      "id": 59691,
+      "name": "All-Stars",
+      "overview": "",
+      "poster_path": "/d79r85IvNhtRydYuTUG5OIFyCXl.jpg",
+      "season_number": 8,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2004-09-16",
+      "episode_count": 15,
+      "id": 59692,
+      "name": "Vanuatu - Islands of Fire",
+      "overview": "",
+      "poster_path": "/jcRf52lQpmT598avFGrsV9s1h0Y.jpg",
+      "season_number": 9,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2005-02-17",
+      "episode_count": 15,
+      "id": 59693,
+      "name": "Palau",
+      "overview": "",
+      "poster_path": "/gxbEje7JT6GWjYysjhPxPKbkgkS.jpg",
+      "season_number": 10,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2005-09-15",
+      "episode_count": 15,
+      "id": 59694,
+      "name": "Guatemala - The Mayan Empire",
+      "overview": "",
+      "poster_path": "/zoWgbvZXh0e95fmAgazgtl93Wlc.jpg",
+      "season_number": 11,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2006-02-02",
+      "episode_count": 16,
+      "id": 59695,
+      "name": "Panama - Exile Island",
+      "overview": "",
+      "poster_path": "/lmSKDJsMAnotoRMxGD9J4rDQqyq.jpg",
+      "season_number": 12,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2006-09-14",
+      "episode_count": 16,
+      "id": 59696,
+      "name": "Cook Islands",
+      "overview": "",
+      "poster_path": "/3AWdpKeNCNslJEWhh1EFAHJoLgI.jpg",
+      "season_number": 13,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2007-02-08",
+      "episode_count": 15,
+      "id": 59697,
+      "name": "Fiji",
+      "overview": "",
+      "poster_path": "/2HO5wq5i974a9imzDnLtzxc0t1C.jpg",
+      "season_number": 14,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2007-09-20",
+      "episode_count": 15,
+      "id": 59698,
+      "name": "China",
+      "overview": "",
+      "poster_path": "/fFdJqu0BHKhKxN6l2xg4dzgw6PA.jpg",
+      "season_number": 15,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2008-02-07",
+      "episode_count": 15,
+      "id": 59699,
+      "name": "Micronesia - Fans vs. Favorites",
+      "overview": "",
+      "poster_path": "/biXxgosTqZmukdiOflQsNMB39Df.jpg",
+      "season_number": 16,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2008-09-25",
+      "episode_count": 14,
+      "id": 59700,
+      "name": "Gabon - Earth's Last Eden",
+      "overview": "",
+      "poster_path": "/m6R3KoOPCeJdnx1eA49B40KjRvk.jpg",
+      "season_number": 17,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2009-02-12",
+      "episode_count": 15,
+      "id": 59701,
+      "name": "Tocantins",
+      "overview": "",
+      "poster_path": "/vzhiur8pxj1sqLMT4JTKTBeWDj6.jpg",
+      "season_number": 18,
+      "vote_average": 9.2
+    },
+    {
+      "air_date": "2009-09-17",
+      "episode_count": 16,
+      "id": 59702,
+      "name": "Samoa",
+      "overview": "",
+      "poster_path": "/qhAztSLASuiEQuQwmaKXREJlSR2.jpg",
+      "season_number": 19,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2010-02-11",
+      "episode_count": 15,
+      "id": 59703,
+      "name": "Heroes vs. Villains",
+      "overview": "",
+      "poster_path": "/l8gRiJKLMJyce4HpOUm82cOTR4M.jpg",
+      "season_number": 20,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2010-09-15",
+      "episode_count": 16,
+      "id": 59704,
+      "name": "Nicaragua",
+      "overview": "",
+      "poster_path": "/kNAimyP7RQDjCN3zkriCtsAYRs4.jpg",
+      "season_number": 21,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2011-02-16",
+      "episode_count": 15,
+      "id": 59705,
+      "name": "Redemption Island",
+      "overview": "",
+      "poster_path": "/booapgIj0JEjfOCtluT3kDlGUE9.jpg",
+      "season_number": 22,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2011-09-14",
+      "episode_count": 16,
+      "id": 59706,
+      "name": "South Pacific",
+      "overview": "",
+      "poster_path": "/igXY281R7dPOEkueWNJvXQ1yusO.jpg",
+      "season_number": 23,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2012-02-15",
+      "episode_count": 15,
+      "id": 59707,
+      "name": "One World",
+      "overview": "",
+      "poster_path": "/dF10qPSxFEJ8sjbOuMyEhu7oDPl.jpg",
+      "season_number": 24,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2012-09-19",
+      "episode_count": 15,
+      "id": 59708,
+      "name": "Philippines",
+      "overview": "",
+      "poster_path": "/fjn7EcuyLw72iDUMzFkNVtxz12O.jpg",
+      "season_number": 25,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2013-02-13",
+      "episode_count": 15,
+      "id": 59709,
+      "name": "Caramoan - Fans vs. Favorites",
+      "overview": "",
+      "poster_path": "/6tganvYphj8fXbbbZcoAqMdggU3.jpg",
+      "season_number": 26,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2013-09-18",
+      "episode_count": 15,
+      "id": 59710,
+      "name": "Blood vs. Water",
+      "overview": "",
+      "poster_path": "/14jVTUbVwqpOvuIdypYVrC2hhaG.jpg",
+      "season_number": 27,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2014-02-26",
+      "episode_count": 14,
+      "id": 63690,
+      "name": "Cagayan",
+      "overview": "",
+      "poster_path": "/oeVpJVH7CqoCHVnaYq8p6EhFhmh.jpg",
+      "season_number": 28,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2014-09-24",
+      "episode_count": 15,
+      "id": 62809,
+      "name": "San Juan del Sur - Blood vs. Water",
+      "overview": "",
+      "poster_path": "/3LZtLnD00C2BikgCsHskF8dTXWt.jpg",
+      "season_number": 29,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2015-02-25",
+      "episode_count": 15,
+      "id": 64340,
+      "name": "Worlds Apart",
+      "overview": "",
+      "poster_path": "/gjtWznhPG1ifBgeGDyqGOgR50bi.jpg",
+      "season_number": 30,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2015-09-23",
+      "episode_count": 15,
+      "id": 70823,
+      "name": "Cambodia - Second Chance",
+      "overview": "",
+      "poster_path": "/vzKq6U4GBHF7b15fH8Nu8KOHGlD.jpg",
+      "season_number": 31,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2016-02-17",
+      "episode_count": 15,
+      "id": 74631,
+      "name": "Kaôh Rōng",
+      "overview": "",
+      "poster_path": "/n7rH1NptPmdM8wGsWpzb3H0JVO7.jpg",
+      "season_number": 32,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2016-09-21",
+      "episode_count": 14,
+      "id": 80243,
+      "name": "Millennials vs. Gen X",
+      "overview": "",
+      "poster_path": "/bHFTY8eMwCsVrjTsWkVeZRsfWRe.jpg",
+      "season_number": 33,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2017-03-08",
+      "episode_count": 13,
+      "id": 85760,
+      "name": "Game Changers - Mamanuca Islands",
+      "overview": "The 34th season is themed “Game Changers” and takes place in the Mamanuca Islands in Fiji. It features 20 returning castaways who helped evolve the game even further by launching an accelerated level of competition and proven willingness to risk it all.",
+      "poster_path": "/9jQ4IlXGPKDFa1iwW2dZV8oTti8.jpg",
+      "season_number": 34,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-09-27",
+      "episode_count": 15,
+      "id": 93087,
+      "name": "Heroes v. Healers v. Hustlers",
+      "overview": "In the 35th season, the show returns to the Mamanuca Islands in Fiji and features 18 castaways divided into three groups of six based on how they are perceived by others. Heroes are used to being heralded, healers receive gratitude for their work, and hustlers must earn respect.",
+      "poster_path": "/rI9dgj2jBcmArDjpHeEpR2n1eD1.jpg",
+      "season_number": 35,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2018-02-28",
+      "episode_count": 15,
+      "id": 96400,
+      "name": "Ghost Island",
+      "overview": "",
+      "poster_path": "/fTiNZbRInGgFN5MtVuetp887aBr.jpg",
+      "season_number": 36,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 14,
+      "id": 108674,
+      "name": "David vs. Goliath",
+      "overview": "",
+      "poster_path": "/A7bAqjSMFKTknzpOfDAKFbVS1AT.jpg",
+      "season_number": 37,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2019-02-20",
+      "episode_count": 14,
+      "id": 119174,
+      "name": "Edge of Extinction",
+      "overview": "",
+      "poster_path": "/ssRBQkNd3WgSDUtlBdGjmjU8kI2.jpg",
+      "season_number": 38,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 14,
+      "id": 131896,
+      "name": "Island of the Idols",
+      "overview": "In this 20-year-strong series, 20 castaways embark on a dramatic 39-day quest to claim the $1 million prize and be named Sole Survivor. But this season the game gets a bold new layer when two of the greatest players in Survivor history, Boston Rob Mariano and Sandra Diaz‑Twine arrive not as competitors, but as mentors on the mysterious \"Island of the Idols\".",
+      "poster_path": "/4EjEeP3KRAqA7kZGOO7E7AwgVuu.jpg",
+      "season_number": 39,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2020-02-12",
+      "episode_count": 14,
+      "id": 141429,
+      "name": "Winners at War",
+      "overview": "The 20th-anniversary edition of the groundbreaking series unites the most memorable, heroic and celebrated champions from the past two decades in the biggest battle in the show's history, as the series' best strategists of all time fight to earn the title of Sole Survivor again.",
+      "poster_path": "/pzXqlhdpkoidFsbfn6EQH2PHzn8.jpg",
+      "season_number": 40,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 13,
+      "id": 202001,
+      "name": "Season 41",
+      "overview": "As TV's preeminent reality series for 20 years, Survivor 41 begins a bold new era with the introduction of exciting fresh elements to the competition, which promise to intensify the battle for $1 million and the title of Sole Survivor.",
+      "poster_path": "/tWX3aEKGYotEh7G6xylpRDp1XgQ.jpg",
+      "season_number": 41,
+      "vote_average": 2.9
+    },
+    {
+      "air_date": "2022-03-09",
+      "episode_count": 12,
+      "id": 245706,
+      "name": "Season 42",
+      "overview": "After 20 years, the groundbreaking reality television show continues to evolve when these 18 new players face one of the most intense versions of Survivor ever. Values will be tested and the players' motivations highlighted when the fierce competition unfolds on the beautiful islands of Fiji.",
+      "poster_path": "/i2Mr8D7Lz2L3IQeg0XURTKIfJxZ.jpg",
+      "season_number": 42,
+      "vote_average": 3.9
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 13,
+      "id": 306455,
+      "name": "Season 43",
+      "overview": "Survivor continues to evolve when these 18 new players are stranded on the beautiful islands of Fiji and must form a society and adapt to their physical and social surroundings, forcing players to choose between personal risk and reward, while navigating the complex social game and attempting to forge alliances to last another day.",
+      "poster_path": "/3Jc4oFY85un316TDgRMUvYq802T.jpg",
+      "season_number": 43,
+      "vote_average": 4.7
+    },
+    {
+      "air_date": "2023-03-01",
+      "episode_count": 13,
+      "id": 316420,
+      "name": "Season 44",
+      "overview": "Stranded in the beautiful islands of Fiji, these 18 determined new castaways will be divided into three tribes of six and forced to form a new society as they adapt to their physical and social surroundings. The mental and physical challenges force players to choose between personal risk and reward, while still navigating the complex social game and attempting to forge alliances to last another day. The individuals competing are from diverse backgrounds with the same ultimate goal: to outwit, outplay and outlast and ultimately be crowned Sole Survivor.",
+      "poster_path": "/qJdLlKaH2GJ2CkNLlftIthJgytF.jpg",
+      "season_number": 44,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2023-09-27",
+      "episode_count": 13,
+      "id": 351259,
+      "name": "Season 45",
+      "overview": "Eighteen castaways are stranded on the exotic islands of Fiji and divided into three tribes of six. From the moment they step on the beach, they must form a new society, adapt to their physical and social surroundings, face treacherous new elements and grueling mental and physical challenges, and navigate an ever-shifting social game, all with one goal: to outwit, outplay and outlast the others, claim the title of Sole Survivor and win the $1 million prize.",
+      "poster_path": "/k2mLNjLFrmMXdXq4d5pn8qRd3bU.jpg",
+      "season_number": 45,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "2024-02-28",
+      "episode_count": 13,
+      "id": 365567,
+      "name": "Season 46",
+      "overview": "Eighteen castaways from across the country will be stranded on the beaches of Fiji and forced to form a new society as they adapt to their physical and social surroundings. They will compete in grueling mental and physical challenges, navigate moral dilemmas and extreme situations, and employ ever-evolving strategies in order to outwit, outplay and outlast their competition, with only one earning the title of Sole Survivor and the $1 million prize.",
+      "poster_path": "/t6JC1bDsqXbhhGSjAGFd33L47EV.jpg",
+      "season_number": 46,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2024-09-18",
+      "episode_count": 14,
+      "id": 402117,
+      "name": "Season 47",
+      "overview": "A new crop of 18 castaways will embark on the adventure of a lifetime in hopes of winning the title of Sole Survivor and the $1 million grand prize. Stranded on the beautiful, but brutal, islands of Fiji, they must form a new society, adapt to their surroundings, compete in physical and mental challenges, navigate ever-shifting alliances and make big decisions under pressure. In this season, nothing is certain, and every move could be your last.",
+      "poster_path": "/1usR1nanbDvnc0LJlWd5TOylT9M.jpg",
+      "season_number": 47,
+      "vote_average": 4.2
+    },
+    {
+      "air_date": "2025-02-26",
+      "episode_count": 13,
+      "id": 428145,
+      "name": "Season 48",
+      "overview": "Nearly 25 years since it first premiered, Survivor returns for its 48th season as the ultimate test of physical and mental will, and the adventure of a lifetime, for a fresh group of 18 castaways stranded on the beaches of Fiji. Armed with new perspectives and fierce passion for the game, they will compete for the title of Sole Survivor and the $1 million prize.",
+      "poster_path": "/73Zo787H1aFodwYKXWzwRFTq9pr.jpg",
+      "season_number": 48,
+      "vote_average": 2.7
+    },
+    {
+      "air_date": "2025-09-24",
+      "episode_count": 13,
+      "id": 465499,
+      "name": "Season 49",
+      "overview": "Twenty-five years after it first premiered, Survivor continues to prove both the ultimate test of physical and mental will, as well as the adventure of a lifetime, for castaways stranded on the beaches of Fiji and tasked with forming a new society, adapting to their surroundings and navigating an unpredictable social game to ensure their torch stays lit. The players competing on the 49th season are diverse competitors armed with fresh perspectives and a fervent passion for the game, with the same ultimate goal: to claim the title of Sole Survivor and win the $1 million prize.",
+      "poster_path": "/F65oQ5bSG9YLxAE7PG1qOmuF1H.jpg",
+      "season_number": 49,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "2026-02-25",
+      "episode_count": 13,
+      "id": 490189,
+      "name": "Season 50",
+      "overview": "Survivor 50 will push the series into uncharted territory as 24 legendary castaways selected from 49 unforgettable seasons return to face surprise twists, high-stakes challenges, and fan-driven decisions. Survivor 50 is a celebration of legacy, strategy, and audience impact in the evolution of this groundbreaking game. This milestone season promises unparalleled gameplay as contestants battle for the title of Sole Survivor and the $1 million prize.",
+      "poster_path": "/lLcN5rF3L1fDxZuxhZsrgdP3s9S.jpg",
+      "season_number": 50,
+      "vote_average": 2.8
+    },
+    {
+      "air_date": "2026-09-23",
+      "episode_count": 1,
+      "id": 517683,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Outwit, outplay, outlast.",
+  "type": "Reality",
+  "vote_average": 7.3,
+  "vote_count": 439,
+  "external_ids": {
+    "id": 14658,
+    "imdb_id": "tt0239195",
+    "freebase_mid": "/m/03czz87",
+    "freebase_id": null,
+    "tvdb_id": 76733,
+    "tvrage_id": 5418,
+    "wikidata_id": "Q28856068",
+    "facebook_id": "Survivor",
+    "instagram_id": "Officialsurvivor_cbs",
+    "twitter_id": "survivorcbs"
+  }
+}

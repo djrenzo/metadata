@@ -1,0 +1,142 @@
+{
+  "adult": false,
+  "backdrop_path": "/kNgdev5dOyp7QVXA9SqBGifwC0o.jpg",
+  "created_by": [
+    {
+      "id": 1927,
+      "credit_id": "5257ff7d19c29531db34355d",
+      "name": "Blake Edwards",
+      "original_name": "Blake Edwards",
+      "gender": 2,
+      "profile_path": "/tEUBu225EVmJKGxJSX936OvRet5.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30,
+    25
+  ],
+  "first_air_date": "1958-09-22",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10305,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1961-09-18",
+  "last_episode_to_air": {
+    "id": 422785,
+    "name": "Murder on the Line",
+    "overview": "Cesar Carlyle, a very rich man, hires Gunn to find certain documents which, if made public, could ruin him. Seems the papers were stolen and the theif wants a good deal of money for their return.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "1961-09-18",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "20862",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 10305,
+    "still_path": null
+  },
+  "name": "Peter Gunn",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Peter Gunn",
+  "overview": "Peter Gunn is an American private eye television series. Filmed in a film noir atmosphere and featuring Henry Mancini music that could tell you the action with your eyes closed, Peter Gunn worked in style. Known as Pete to his friends and simply as Gunn to his enemies, he did his job in a calm cool way.",
+  "popularity": 42.3314,
+  "poster_path": "/hE0Un65f1k11GUQTCqk7s0hzokY.jpg",
+  "production_companies": [
+    {
+      "id": 56305,
+      "logo_path": null,
+      "name": "Spartan Productions (III)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1958-09-22",
+      "episode_count": 38,
+      "id": 20335,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zyM0nHG8Vcj2mOALK4dnUiic6PF.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1959-09-21",
+      "episode_count": 38,
+      "id": 20334,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/csqCZ9qEMzYnAYQTwrJuWYuXkyr.jpg",
+      "season_number": 2,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1960-10-03",
+      "episode_count": 38,
+      "id": 20336,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/xhs8J8OIvEUtRb9WeLwDBLqCQx7.jpg",
+      "season_number": 3,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Pete to his friends, Gunn to his enemies.",
+  "type": "Scripted",
+  "vote_average": 6.56,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 10305,
+    "imdb_id": "tt0051301",
+    "freebase_mid": "/m/028v94",
+    "freebase_id": "/en/peter_gunn",
+    "tvdb_id": 76506,
+    "tvrage_id": null,
+    "wikidata_id": "Q1247770",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

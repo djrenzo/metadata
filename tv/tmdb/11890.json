@@ -1,0 +1,498 @@
+{
+  "adult": false,
+  "backdrop_path": "/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1990-10-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.rtl.nl/soaps/gtst/",
+  "id": 11890,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-06-04",
+  "last_episode_to_air": {
+    "id": 7460229,
+    "name": "Episode 180",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-09",
+    "episode_number": 180,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 36,
+    "show_id": 11890,
+    "still_path": null
+  },
+  "name": "Goede Tijden, Slechte Tijden",
+  "next_episode_to_air": {
+    "id": 7438598,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-31",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 11890,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    },
+    {
+      "id": 1334,
+      "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+      "name": "Videoland",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 7490,
+  "number_of_seasons": 37,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Goede Tijden, Slechte Tijden",
+  "overview": "Goede tijden, slechte tijden, also known as GTST, is the longest-running Dutch soap opera,  revolving around the lives of the families Alberts, Sanders, De Jong, Van Houten and Bouwhuis. It all takes place in the fictional town of Meerdijk.",
+  "popularity": 58.0042,
+  "poster_path": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+  "production_companies": [
+    {
+      "id": 66389,
+      "logo_path": "/ewSYWqmrOst8pEyFu1w2dG0EP9T.png",
+      "name": "Endemol",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-08-19",
+      "episode_count": 8,
+      "id": 202135,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-01",
+      "episode_count": 195,
+      "id": 22545,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-16",
+      "episode_count": 185,
+      "id": 22551,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-21",
+      "episode_count": 180,
+      "id": 184916,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-08-30",
+      "episode_count": 190,
+      "id": 184917,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1994-08-29",
+      "episode_count": 195,
+      "id": 184918,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-08-28",
+      "episode_count": 200,
+      "id": 184919,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-08-26",
+      "episode_count": 200,
+      "id": 184920,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 195,
+      "id": 184921,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-08-31",
+      "episode_count": 195,
+      "id": 184922,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 200,
+      "id": 184923,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 195,
+      "id": 184924,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-27",
+      "episode_count": 220,
+      "id": 184925,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 215,
+      "id": 184926,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 215,
+      "id": 184927,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 215,
+      "id": 184928,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 215,
+      "id": 184929,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-28",
+      "episode_count": 220,
+      "id": 184930,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-27",
+      "episode_count": 215,
+      "id": 22546,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-25",
+      "episode_count": 225,
+      "id": 22547,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-07",
+      "episode_count": 215,
+      "id": 22548,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-06",
+      "episode_count": 220,
+      "id": 22549,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-05",
+      "episode_count": 220,
+      "id": 22550,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 220,
+      "id": 22552,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 220,
+      "id": 22554,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/elM5dPtQUmLyaPIYrvoFgTBgPte.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 220,
+      "id": 70380,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 220,
+      "id": 70381,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-05",
+      "episode_count": 220,
+      "id": 184932,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 220,
+      "id": 184934,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 220,
+      "id": 184935,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-26",
+      "episode_count": 190,
+      "id": 184936,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 180,
+      "id": 184937,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-30",
+      "episode_count": 180,
+      "id": 206595,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 160,
+      "id": 306804,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-28",
+      "episode_count": 160,
+      "id": 349236,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-26",
+      "episode_count": 180,
+      "id": 402446,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 180,
+      "id": 462773,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-31",
+      "episode_count": 30,
+      "id": 525652,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 21,
+  "external_ids": {
+    "id": 11890,
+    "imdb_id": "tt0096597",
+    "freebase_mid": "/m/0bws2j",
+    "freebase_id": "/en/goede_tijden_slechte_tijden",
+    "tvdb_id": 104271,
+    "tvrage_id": 19056,
+    "wikidata_id": "Q776262",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

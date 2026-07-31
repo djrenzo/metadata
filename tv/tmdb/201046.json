@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/nleYvbcJFyj2NqYEJJsm954sydA.jpg",
+  "created_by": [
+    {
+      "id": 1254336,
+      "credit_id": "65278f310cb33516fd48519f",
+      "name": "Mariela Romero",
+      "original_name": "Mariela Romero",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1989-04-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 201046,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1990-01-11",
+  "last_episode_to_air": {
+    "id": 4809716,
+    "name": "Episode 247",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1990-01-11",
+    "episode_number": 247,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 201046,
+    "still_path": null
+  },
+  "name": "La revancha",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 247,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "La revancha",
+  "overview": "",
+  "popularity": 62.8245,
+  "poster_path": "/yuWz5uB1bkz335Mv5buJdQ2GfnX.jpg",
+  "production_companies": [
+    {
+      "id": 118838,
+      "logo_path": null,
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1989-04-01",
+      "episode_count": 247,
+      "id": 292105,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 201046,
+    "imdb_id": "tt0362368",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2094986",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

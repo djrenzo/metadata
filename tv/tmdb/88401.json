@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/uocPngbcY9rEBWblzLY2SbJkNLF.jpg",
+  "created_by": [
+    {
+      "id": 141673,
+      "credit_id": "60abbd34c2b9df006c33c664",
+      "name": "Jason Eisener",
+      "original_name": "Jason Eisener",
+      "gender": 2,
+      "profile_path": "/96ErILndIrdRcBkP2uYEbqpjT1g.jpg"
+    },
+    {
+      "id": 2248631,
+      "credit_id": "60abbd2bd132d600409ff008",
+      "name": "Evan Husney",
+      "original_name": "Evan Husney",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2019-04-10",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.vicetv.com/en_us/show/dark-side-of-the-ring",
+  "id": 88401,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-07",
+  "last_episode_to_air": {
+    "id": 7377128,
+    "name": "The Big Boss Man",
+    "overview": "From prison guard to WWF star, Ray Traylor became the Big Boss Man, while behind the persona he battled pain and addiction.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-28",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 7,
+    "show_id": 88401,
+    "still_path": "/2m6QXRQYE02jgJmz02nlBIf6vdU.jpg"
+  },
+  "name": "Dark Side of the Ring",
+  "next_episode_to_air": {
+    "id": 7377129,
+    "name": "Renegade Rick Wilson",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-04",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 88401,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1339,
+      "logo_path": "/qatKbG5JUVlG3TXyTSQmakI3Pdt.png",
+      "name": "Viceland",
+      "origin_country": "US"
+    },
+    {
+      "id": 3706,
+      "logo_path": "/iA3HkJ8eNQZngQAjETO24YV8p1n.png",
+      "name": "Vice TV",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 69,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dark Side of the Ring",
+  "overview": "Finding truth at the intersection of fantasy and reality in the veiled world of professional wrestling.",
+  "popularity": 14.0306,
+  "poster_path": "/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg",
+  "production_companies": [
+    {
+      "id": 184351,
+      "logo_path": "/8OmwqfTwPlLPPW2CnnO1pdmwqwD.png",
+      "name": "Vice Studios Canada",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-10",
+      "episode_count": 6,
+      "id": 122144,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gEfFSwzCn0ifnEu6oZ7Tf1Ji9RE.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2020-03-24",
+      "episode_count": 10,
+      "id": 144457,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6mng6WpQWKeOvPty6ILXjYVtJtU.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2021-05-06",
+      "episode_count": 14,
+      "id": 189800,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/gHBKjBzCSHdraabjSnAFOMEf4Uf.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2023-05-30",
+      "episode_count": 10,
+      "id": 336757,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/9LU0ulwHfQxJdArufmufDxu5q11.jpg",
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2024-03-05",
+      "episode_count": 10,
+      "id": 375665,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/xRBWTslCjEr5UEBCjOe1TTEW56w.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2025-03-25",
+      "episode_count": 10,
+      "id": 433017,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/eBiNERPUbStT7GoSI9uJJyBh6GE.jpg",
+      "season_number": 6,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2026-07-07",
+      "episode_count": 9,
+      "id": 515146,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/s3Wqq34BydWUFu0Bv2sHLGz2B7A.jpg",
+      "season_number": 7,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The Biggest Stories in Wrestling’s Darkest Secrets.",
+  "type": "Documentary",
+  "vote_average": 8.308,
+  "vote_count": 60,
+  "external_ids": {
+    "id": 88401,
+    "imdb_id": "tt9159144",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 361761,
+    "tvrage_id": null,
+    "wikidata_id": "Q63168970",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

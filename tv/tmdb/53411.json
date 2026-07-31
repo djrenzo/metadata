@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/jhXr4zRl12IK9xqUI9JZ5e26ptY.jpg",
+  "created_by": [
+    {
+      "id": 1041328,
+      "credit_id": "5d5698c7e8131d3e338b5f1f",
+      "name": "Michal Prokop",
+      "original_name": "Michal Prokop",
+      "gender": 2,
+      "profile_path": "/2XIcBcg26Vai7fsv8ZI2OEGsnYw.jpg"
+    }
+  ],
+  "episode_run_time": [
+    26,
+    28,
+    37
+  ],
+  "first_air_date": "2000-02-10",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.ceskatelevize.cz/porady/1096002521-krasny-ztraty/",
+  "id": 53411,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2013-12-21",
+  "last_episode_to_air": {
+    "id": 1892132,
+    "name": "Episode 496",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-12-21",
+    "episode_number": 496,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 53411,
+    "still_path": null
+  },
+  "name": "Krásný ztráty",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2617,
+      "logo_path": "/qnFEMaWjBM3kC9JmRWEhQf5W6EX.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 496,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Krásný ztráty",
+  "overview": "",
+  "popularity": 12.2564,
+  "poster_path": "/l0LooMApU3L78y601FGTPlpXft1.jpg",
+  "production_companies": [
+    {
+      "id": 487,
+      "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 2,
+      "id": 130094,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-10",
+      "episode_count": 496,
+      "id": 130089,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 53411,
+    "imdb_id": "tt0280268",
+    "freebase_mid": "/m/0w26lqs",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q12031791",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

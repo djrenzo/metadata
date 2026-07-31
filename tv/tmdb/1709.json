@@ -1,0 +1,773 @@
+{
+  "adult": false,
+  "backdrop_path": "/siQgEbkDwku6n5XFFN0IG8kjMZh.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    180,
+    240
+  ],
+  "first_air_date": "1952-01-14",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.todayshow.com",
+  "id": 1709,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-02-06",
+  "last_episode_to_air": {
+    "id": 6922415,
+    "name": "Episode Dated 6th February 2026",
+    "overview": "Caleb Mclaughlin talks Stranger Things Finale, Lumax (Lucas Sinclair and Max Mayfield) and his New Animated Film 'GOAT'!",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-02-06",
+    "episode_number": 105,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 74,
+    "show_id": 1709,
+    "still_path": "/cwUcYXO7BpSvD69OO2plZq7R83N.jpg"
+  },
+  "name": "Today",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 15715,
+  "number_of_seasons": 67,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Today",
+  "overview": "Today is a daily American morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest running American television series. Originally a two-hour program on weekdays, it expanded to Sundays in 1987 and Saturdays in 1992. The weekday broadcast expanded to three hours in 2000, and to four hours in 2007.\n\nToday's dominance was virtually unchallenged by the other networks until the late 1980s, when it was overtaken by ABC's Good Morning America. Today retook the Nielsen ratings lead the week of December 11, 1995, and held onto that position for 852 consecutive weeks until the week of April 9, 2012, when it was beaten by Good Morning America yet again. In 2002, Today was ranked #17 on TV Guide's 50 Greatest Television  Shows of All Time.",
+  "popularity": 14.0778,
+  "poster_path": "/prB4hKGu4YOxPknlUseCf3RnrUq.jpg",
+  "production_companies": [
+    {
+      "id": 60324,
+      "logo_path": "/bG83WjZgjmWuWz0TYAxlWVRGmln.png",
+      "name": "NBC News",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1952-01-14",
+      "episode_count": 253,
+      "id": 4704,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1953-01-01",
+      "episode_count": 261,
+      "id": 4706,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-01-01",
+      "episode_count": 260,
+      "id": 4707,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-01-03",
+      "episode_count": 260,
+      "id": 4708,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-01-02",
+      "episode_count": 260,
+      "id": 4709,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-01-01",
+      "episode_count": 261,
+      "id": 4710,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-01-01",
+      "episode_count": 261,
+      "id": 4711,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-01-01",
+      "episode_count": 257,
+      "id": 4712,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-01-04",
+      "episode_count": 260,
+      "id": 4713,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-01-04",
+      "episode_count": 258,
+      "id": 4714,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-01-01",
+      "episode_count": 258,
+      "id": 4715,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-01-07",
+      "episode_count": 257,
+      "id": 4716,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-01-06",
+      "episode_count": 259,
+      "id": 4717,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-01-06",
+      "episode_count": 258,
+      "id": 4718,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-01-04",
+      "episode_count": 257,
+      "id": 4719,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-01-03",
+      "episode_count": 255,
+      "id": 4720,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-01-01",
+      "episode_count": 257,
+      "id": 4721,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-02",
+      "episode_count": 258,
+      "id": 4722,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-01-02",
+      "episode_count": 257,
+      "id": 4723,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-01-04",
+      "episode_count": 256,
+      "id": 4724,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-04",
+      "episode_count": 255,
+      "id": 4725,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-02",
+      "episode_count": 255,
+      "id": 4726,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-01",
+      "episode_count": 261,
+      "id": 4727,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 257,
+      "id": 4728,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-01",
+      "episode_count": 258,
+      "id": 4729,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-03",
+      "episode_count": 256,
+      "id": 4730,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-02",
+      "episode_count": 260,
+      "id": 4731,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-01",
+      "episode_count": 259,
+      "id": 4732,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-01",
+      "episode_count": 262,
+      "id": 4733,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-01",
+      "episode_count": 261,
+      "id": 4734,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-01",
+      "episode_count": 261,
+      "id": 4735,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-03",
+      "episode_count": 260,
+      "id": 4736,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 266,
+      "id": 4737,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-08",
+      "episode_count": 262,
+      "id": 4738,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1986-01-09",
+      "episode_count": 502,
+      "id": 4739,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1987-12-15",
+      "episode_count": 463,
+      "id": 4741,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-28",
+      "episode_count": 241,
+      "id": 4742,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-10",
+      "episode_count": 258,
+      "id": 4743,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-09",
+      "episode_count": 260,
+      "id": 4744,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-09",
+      "episode_count": 258,
+      "id": 4745,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-06",
+      "episode_count": 263,
+      "id": 4746,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-12",
+      "episode_count": 265,
+      "id": 4747,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-18",
+      "episode_count": 255,
+      "id": 4748,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-09",
+      "episode_count": 260,
+      "id": 4749,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-08",
+      "episode_count": 269,
+      "id": 4750,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-21",
+      "episode_count": 246,
+      "id": 4751,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 265,
+      "id": 4752,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-18",
+      "episode_count": 262,
+      "id": 4753,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-24",
+      "episode_count": 269,
+      "id": 4754,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-07",
+      "episode_count": 239,
+      "id": 4755,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 285,
+      "id": 4756,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-11",
+      "episode_count": 240,
+      "id": 4705,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 255,
+      "id": 4757,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 252,
+      "id": 4758,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 257,
+      "id": 4759,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 200,
+      "id": 4760,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-12",
+      "episode_count": 1,
+      "id": 4761,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 1,
+      "id": 4762,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 4763,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-12",
+      "episode_count": 264,
+      "id": 4764,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-12-31",
+      "episode_count": 364,
+      "id": 4765,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-12-31",
+      "episode_count": 206,
+      "id": 4766,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-08",
+      "episode_count": 4,
+      "id": 92008,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-15",
+      "episode_count": 2,
+      "id": 117173,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-08",
+      "episode_count": 2,
+      "id": 117437,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": "/xlWdasY9oYg3OO5VTNqlPFftgya.jpg",
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-09",
+      "episode_count": 5,
+      "id": 284859,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 494508,
+      "name": "Season 74",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5.6,
+  "vote_count": 32,
+  "external_ids": {
+    "id": 1709,
+    "imdb_id": "tt0044298",
+    "freebase_mid": "/m/01h1bf",
+    "freebase_id": "/en/the_today_show",
+    "tvdb_id": 70708,
+    "tvrage_id": 6241,
+    "wikidata_id": "Q130838",
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

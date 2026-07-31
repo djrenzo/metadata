@@ -1,0 +1,144 @@
+{
+  "adult": false,
+  "backdrop_path": "/bE5xmBHyR0iR8qiV5Hp3UDRxduM.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2017-09-05",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://noovo.ca/emissions/nvl",
+  "id": 78374,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2021-03-28",
+  "last_episode_to_air": {
+    "id": 2794073,
+    "name": "Episode 194",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-03-28",
+    "episode_number": 194,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 4,
+    "show_id": 78374,
+    "still_path": null
+  },
+  "name": "NVL",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 583,
+      "logo_path": "/l3TVdYRGHqcDWMXxHdofswgynW9.png",
+      "name": "V",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4161,
+      "logo_path": "/7dzxnDuCswtRkN9pSSUM7n6Lprn.png",
+      "name": "Noovo",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 1260,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "NVL",
+  "overview": "",
+  "popularity": 12.4902,
+  "poster_path": "/vrX0GSFhW95CMswC1TjiOQgyuyK.jpg",
+  "production_companies": [
+    {
+      "id": 46682,
+      "logo_path": "/ybNfe9vMywnjygOODnm7QYw9rvQ.png",
+      "name": "Attraction",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 358,
+      "id": 101467,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-11",
+      "episode_count": 362,
+      "id": 111118,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 346,
+      "id": 133755,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-09",
+      "episode_count": 194,
+      "id": 162552,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 6.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 78374,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

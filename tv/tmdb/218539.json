@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/pRStZQlU0aB6KaVNBKnyEAygDBw.jpg",
+  "created_by": [
+    {
+      "id": 2877409,
+      "credit_id": "656251a27dfda65932650564",
+      "name": "Choi A-il",
+      "original_name": "Choi A-il",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 4168795,
+      "credit_id": "656251ece2726000aef98b31",
+      "name": "Kim Jang-han",
+      "original_name": "Kim Jang-han",
+      "gender": 2,
+      "profile_path": "/sLVob9m050AwLidZF0e1EjJZtFB.jpg"
+    },
+    {
+      "id": 3986595,
+      "credit_id": "65625234b234b9011c85d13c",
+      "name": "Kwon Da-som",
+      "original_name": "Kwon Da-som",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-11-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://programs.sbs.co.kr/drama/mydemon/",
+  "id": 218539,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2024-01-20",
+  "last_episode_to_air": {
+    "id": 4856731,
+    "name": "Our Personal Heaven",
+    "overview": "Do-hee finds herself catatonic after her loss. Desperate for Gu-won's return, she makes a Christmas wish for her love — which Noh Suk-nyeo hears.",
+    "vote_average": 8.25,
+    "vote_count": 4,
+    "air_date": "2024-01-20",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 67,
+    "season_number": 1,
+    "show_id": 218539,
+    "still_path": "/g5co7fqdkmc5TAzaFOcBfxavBag.jpg"
+  },
+  "name": "My Demon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "마이데몬",
+  "overview": "A pitiless demon becomes powerless after getting entangled with an icy heiress, who may hold the key to his lost abilities — and his heart.",
+  "popularity": 13.2215,
+  "poster_path": "/xBnscv5BrJREKVSvh0le61y4KDk.jpg",
+  "production_companies": [
+    {
+      "id": 83914,
+      "logo_path": "/nFcR2kd7vl5O3TITQs6x39BNo6Y.png",
+      "name": "Studio S",
+      "origin_country": "KR"
+    },
+    {
+      "id": 144329,
+      "logo_path": "/83KDOfXjQvrCQTqodVauEc5nujJ.png",
+      "name": "Binge Works",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-11-24",
+      "episode_count": 16,
+      "id": 324872,
+      "name": "Limited Series",
+      "overview": "",
+      "poster_path": "/ciRcOqVWR4wiSQRPCPml1X9PaAp.jpg",
+      "season_number": 1,
+      "vote_average": 8.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A demon who lost his powers becomes a bodyguard to a demonic human.",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 676,
+  "external_ids": {
+    "id": 218539,
+    "imdb_id": "tt29569035",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 429870,
+    "tvrage_id": null,
+    "wikidata_id": "Q120721044",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

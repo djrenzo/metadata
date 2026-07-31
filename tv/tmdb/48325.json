@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/cA0IwqqlU61LoQmYEVj11c8Hv8C.jpg",
+  "created_by": [
+    {
+      "id": 1245832,
+      "credit_id": "6369de394c1bb00082bdc39b",
+      "name": "Türker İnanoğlu",
+      "original_name": "Türker İnanoğlu",
+      "gender": 2,
+      "profile_path": "/f4woJrE4gBA0lm3dqS9mBjpO8yC.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1995-09-27",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 48325,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "1998-09-02",
+  "last_episode_to_air": {
+    "id": 3810533,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-09-02",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 48325,
+    "still_path": null
+  },
+  "name": "Çiçek Taksi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 36,
+      "logo_path": "/qCnMXkdER5FYvmy2AGSMnAFH9ue.png",
+      "name": "atv",
+      "origin_country": "TR"
+    },
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 198,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Çiçek Taksi",
+  "overview": "",
+  "popularity": 15.0239,
+  "poster_path": "/7215deseWmGtPCs1p2HBTfjvyzr.jpg",
+  "production_companies": [
+    {
+      "id": 85580,
+      "logo_path": "/4AAC0UDEoW5F3oPnsvMwSeGuPsJ.png",
+      "name": "TRT",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-09-27",
+      "episode_count": 146,
+      "id": 197864,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-07-21",
+      "episode_count": 39,
+      "id": 197865,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-06-10",
+      "episode_count": 13,
+      "id": 197866,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 197867,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 197868,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 197869,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 197870,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.375,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 48325,
+    "imdb_id": "tt0494627",
+    "freebase_mid": "/m/0v16hkb",
+    "freebase_id": null,
+    "tvdb_id": 430510,
+    "tvrage_id": null,
+    "wikidata_id": "Q6099212",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,723 @@
+{
+  "adult": false,
+  "backdrop_path": "/kYyYF64Nnx0QcQHtvJLZTxaFNo1.jpg",
+  "created_by": [
+    {
+      "id": 1244655,
+      "credit_id": "52582b10760ee36aaa871e8c",
+      "name": "Siegfried Mohrhof",
+      "original_name": "Siegfried Mohrhof",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1244658,
+      "credit_id": "52582b13760ee36aaa871ea7",
+      "name": "Dieter Saldecki",
+      "original_name": "Dieter Saldecki",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1244654,
+      "credit_id": "52582b0f760ee36aaa871e83",
+      "name": "Gert K. Müntefering",
+      "original_name": "Gert K. Müntefering",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1244656,
+      "credit_id": "52582b11760ee36aaa871e95",
+      "name": "Monika Paetow",
+      "original_name": "Monika Paetow",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1244657,
+      "credit_id": "52582b12760ee36aaa871e9e",
+      "name": "Armin Maiwald",
+      "original_name": "Armin Maiwald",
+      "gender": 2,
+      "profile_path": "/nqQq8u5SfgFWsLQlqTN0RNMh4uJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1971-03-07",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.die-maus.de/",
+  "id": 13819,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-03-22",
+  "last_episode_to_air": {
+    "id": 7595492,
+    "name": "Episode 30",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 56,
+    "show_id": 13819,
+    "still_path": "/yk1rUNC2z4FyrEbPNMWwCiarIFB.jpg"
+  },
+  "name": "Die Sendung mit der Maus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 509,
+  "number_of_seasons": 56,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Die Sendung mit der Maus",
+  "overview": "The children's show has been a fixed Sunday morning ritual in German living rooms since 1971. Not only children, but also many adults sit in front of the television every week when the clever orange mouse, his blue elephant buddy and the yellow duck lead the way with short, funny cartoon clips between the \"funny and factual stories\".",
+  "popularity": 15.227,
+  "poster_path": "/9rAaWmsUUBPTJWYM0Ze7yl5l4N8.jpg",
+  "production_companies": [
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 264846,
+      "logo_path": null,
+      "name": "Delta TV",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1989-10-29",
+      "episode_count": 67,
+      "id": 139100,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-03-07",
+      "episode_count": 1,
+      "id": 24946,
+      "name": "Season 1971",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24947,
+      "name": "Season 1972",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24948,
+      "name": "Season 1973",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24949,
+      "name": "Season 1974",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24950,
+      "name": "Season 1975",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24951,
+      "name": "Season 1976",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24952,
+      "name": "Season 1977",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24953,
+      "name": "Season 1978",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24954,
+      "name": "Season 1979",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24955,
+      "name": "Season 1980",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24956,
+      "name": "Season 1981",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24957,
+      "name": "Season 1982",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24958,
+      "name": "Season 1983",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24959,
+      "name": "Season 1984",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24960,
+      "name": "Season 1985",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24961,
+      "name": "Season 1986",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24962,
+      "name": "Season 1987",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24963,
+      "name": "Season 1988",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24964,
+      "name": "Season 1989",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24965,
+      "name": "Season 1990",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24966,
+      "name": "Season 1991",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24967,
+      "name": "Season 1992",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24968,
+      "name": "Season 1993",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24969,
+      "name": "Season 1994",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24970,
+      "name": "Season 1995",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24971,
+      "name": "Season 1996",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24972,
+      "name": "Season 1997",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24973,
+      "name": "Season 1998",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24974,
+      "name": "Season 1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24975,
+      "name": "Season 2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24976,
+      "name": "Season 2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24977,
+      "name": "Season 2002",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24978,
+      "name": "Season 2003",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24979,
+      "name": "Season 2004",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-04-03",
+      "episode_count": 32,
+      "id": 24980,
+      "name": "Season 2005",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-08",
+      "episode_count": 25,
+      "id": 24981,
+      "name": "Season 2006",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24982,
+      "name": "Season 2007",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 24983,
+      "name": "Season 2008",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-07",
+      "episode_count": 0,
+      "id": 24984,
+      "name": "Season 2009",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-20",
+      "episode_count": 1,
+      "id": 24985,
+      "name": "Season 2010",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 5,
+      "id": 24986,
+      "name": "Season 2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 53,
+      "id": 24987,
+      "name": "Season 2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 129459,
+      "name": "Season 2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-14",
+      "episode_count": 1,
+      "id": 129460,
+      "name": "Season 2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 129461,
+      "name": "Season 2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 50,
+      "id": 129462,
+      "name": "Season 2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 22,
+      "id": 129463,
+      "name": "Season 2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 0,
+      "id": 129464,
+      "name": "Season 2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 18,
+      "id": 139101,
+      "name": "Season 2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 52,
+      "id": 170264,
+      "name": "Season 2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 51,
+      "id": 170265,
+      "name": "Season 2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-02",
+      "episode_count": 52,
+      "id": 285393,
+      "name": "Season 2022",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 53,
+      "id": 330356,
+      "name": "Season 2023",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 52,
+      "id": 367643,
+      "name": "Season 2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-05",
+      "episode_count": 53,
+      "id": 437118,
+      "name": "Season 2025",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-04",
+      "episode_count": 30,
+      "id": 492485,
+      "name": "Season 2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.583,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 13819,
+    "imdb_id": "tt0065345",
+    "freebase_mid": "/m/03w8kt",
+    "freebase_id": "/en/die_sendung_mit_der_maus",
+    "tvdb_id": 153241,
+    "tvrage_id": null,
+    "wikidata_id": "Q151788",
+    "facebook_id": "DieSendungmitderMaus",
+    "instagram_id": "diemaus",
+    "twitter_id": null
+  }
+}

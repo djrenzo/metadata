@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/mR5YA8weuY3SRiE55gst2ho4tAP.jpg",
+  "created_by": [
+    {
+      "id": 1439886,
+      "credit_id": "631c28da67dcc90082817620",
+      "name": "David Posada",
+      "original_name": "David Posada",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3251121,
+      "credit_id": "631c28d10d2f53007f5cc246",
+      "name": "Jimena Romero",
+      "original_name": "Jimena Romero",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45,
+    42
+  ],
+  "first_air_date": "2009-05-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://msnlatino.telemundo.com/novelas/mas_sabe_el_diablo",
+  "id": 17638,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2010-02-12",
+  "last_episode_to_air": {
+    "id": 1825276,
+    "name": "Episode 182",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2010-02-12",
+    "episode_number": 182,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 17638,
+    "still_path": null
+  },
+  "name": "Falling Angel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "Más Sabe el Diablo",
+  "overview": "Set in New York, the serial features the street-wise Ángel, who treats life as a game he plays to win. He tangles with the power-hungry Martín, who is engaged to a stunning, feisty lawyer named Manuela. She decides to defend Ángel, even though Martín wants to destroy him. Neither of the men know that Ángel is Martín's own son. Our hero learns that love is the only key to survival.",
+  "popularity": 11.7944,
+  "poster_path": "/468xWS1crK1AKkvHXQtoIPxNNTq.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-05-25",
+      "episode_count": 182,
+      "id": 126212,
+      "name": "Más sabe el diablo",
+      "overview": "",
+      "poster_path": "/215PJvtnPB3qqxPDOCs0g9jUU0I.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.199,
+  "vote_count": 221,
+  "external_ids": {
+    "id": 17638,
+    "imdb_id": null,
+    "freebase_mid": "/m/05mzq0r",
+    "freebase_id": null,
+    "tvdb_id": 280007,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

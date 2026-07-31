@@ -1,0 +1,291 @@
+{
+  "adult": false,
+  "backdrop_path": "/7fNX16oQohjtxOHs9zm9cZRx0Fd.jpg",
+  "created_by": [
+    {
+      "id": 1689172,
+      "credit_id": "5ae32587c3a36876ab0393b0",
+      "name": "Leandro Soares",
+      "original_name": "Leandro Soares",
+      "gender": 0,
+      "profile_path": "/z4pIpWT1Cric7mJxAo3wjLLQwkZ.jpg"
+    },
+    {
+      "id": 1185621,
+      "credit_id": "5ae325929251417ce401a98c",
+      "name": "Fil Braz",
+      "original_name": "Fil Braz",
+      "gender": 2,
+      "profile_path": "/uy6F1vHM0fes39OpdKlhBparWiq.jpg"
+    },
+    {
+      "id": 1478330,
+      "credit_id": "5ae3259f0e0a262a5203ec5c",
+      "name": "Renato Fagundes",
+      "original_name": "Renato Fagundes",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2013-07-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 64503,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2025-11-30",
+  "last_episode_to_air": {
+    "id": 6647286,
+    "name": "Episode 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-30",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 13,
+    "show_id": 64503,
+    "still_path": "/wXMgMeJBYgnh2jmHMmxhBJcLn2W.jpg"
+  },
+  "name": "Vai Que Cola",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1092,
+      "logo_path": "/iYlnbSYwrwPMe4BVphpBrhLkqkb.png",
+      "name": "Multishow",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 501,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Vai Que Cola",
+  "overview": "",
+  "popularity": 12.2082,
+  "poster_path": "/zkzMxY964DsFMmS42pL1j4h4KyP.jpg",
+  "production_companies": [
+    {
+      "id": 2429,
+      "logo_path": "/s0p6DEF7H9yooJFjKhN4lFpTiVk.png",
+      "name": "Conspiração Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 112698,
+      "logo_path": "/jKzpEJf06spm2pjuaHNcniw2fSS.png",
+      "name": "A Fábrica",
+      "origin_country": "BR"
+    },
+    {
+      "id": 93200,
+      "logo_path": "/hYL55TNReAFUf4agzkrvV92z6fS.png",
+      "name": "Zola Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 7763,
+      "logo_path": "/2QSkE0zzau3rF6MKpRLn51Fk6L9.png",
+      "name": "Multishow",
+      "origin_country": "BR"
+    },
+    {
+      "id": 95606,
+      "logo_path": "/n9kM8HFoeBGhPGlzmQ5LcnzecUe.png",
+      "name": "Producing Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 201720,
+      "logo_path": "/zguxMr8H3YqeBnNSYLLEp9feBrI.png",
+      "name": "Rio Cinema Digital",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-01",
+      "episode_count": 3,
+      "id": 337798,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-07-07",
+      "episode_count": 40,
+      "id": 72253,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dmB9n3MCZmNKGRMUV0N4Z4OHVG2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-31",
+      "episode_count": 40,
+      "id": 95562,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lbmDWQqzBVSOda1KE7bFsdvzYyg.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 41,
+      "id": 103019,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/xJHrT8HhHfsBQTe2DHawgrb9RY0.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-17",
+      "episode_count": 40,
+      "id": 103020,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/2rPNB3kH8GLoByrfl7J5uzEfxQu.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 40,
+      "id": 103021,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/pMlbAawUXzXnVpAhGowNJH32Ie.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-13",
+      "episode_count": 40,
+      "id": 151118,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/hnp4pjyOjrqk97eqvd6ZqWHvrfX.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 151119,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/hUc7o8Z9mcs4IHG8pvtgGDqkVw3.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-30",
+      "episode_count": 40,
+      "id": 170636,
+      "name": "Season 8",
+      "overview": "Wanted by the police, a con man who once was a rich businessman goes hiding into a poor neighborhood in Rio de Janeiro.",
+      "poster_path": "/1iaQrtob26OYSby9kXywb1oKPzF.jpg",
+      "season_number": 8,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2021-10-30",
+      "episode_count": 40,
+      "id": 337796,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-07",
+      "episode_count": 40,
+      "id": 337797,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/5euljkm1wzWxyFwzLmbfTn9MUdY.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-18",
+      "episode_count": 40,
+      "id": 357747,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/yET7euYaKt1QlJmyOLcUTSAWLOj.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-23",
+      "episode_count": 40,
+      "id": 420172,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/uhKhSVbjqVXREAN6Y5UweItCFwj.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-28",
+      "episode_count": 20,
+      "id": 482331,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/iq9QgLQhvS94bDQRnaSck3hYX3l.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 64503,
+    "imdb_id": "tt3021746",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 275746,
+    "tvrage_id": null,
+    "wikidata_id": "Q18469946",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

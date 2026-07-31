@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/tR4CgzC5MXcaJYLVHldvN1zKTKd.jpg",
+  "created_by": [
+    {
+      "id": 100766,
+      "credit_id": "5ec4f15bcb75d1002227b868",
+      "name": "Sakura Ando",
+      "original_name": "安藤サクラ",
+      "gender": 1,
+      "profile_path": "/k2R2ryEFEuUe2f3Dsd5yH8aRdqV.jpg"
+    },
+    {
+      "id": 1098600,
+      "credit_id": "5ec4f180cb75d1002027c4f3",
+      "name": "Hiroki Hasegawa",
+      "original_name": "長谷川博己",
+      "gender": 2,
+      "profile_path": "/aWfpj9ndyDq2xsSrABRRscAkcaa.jpg"
+    },
+    {
+      "id": 79945,
+      "credit_id": "5ec4f19a140bad001d17255f",
+      "name": "Keiko Matsuzaka",
+      "original_name": "松坂慶子",
+      "gender": 1,
+      "profile_path": "/s56n7UkfLmZaCa33kw8t8IR7wAP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2018-10-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nhk-ondemand.jp/program/P201700159500000/",
+  "id": 83164,
+  "in_production": false,
+  "languages": [
+    "en",
+    "ja",
+    "es"
+  ],
+  "last_air_date": "2019-03-30",
+  "last_episode_to_air": {
+    "id": 1738139,
+    "name": "Chapter 26 - Let's Go Together! (6)",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-03-30",
+    "episode_number": 151,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 83164,
+    "still_path": "/wQ08O45AqcfsHYk0MgHQnyUn5Uc.jpg"
+  },
+  "name": "Mampuku",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2334,
+      "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "まんぷく",
+  "overview": "Based on true story of the wife of Ando Momofuku, the businessman who founded Nissin Food Products Co. Ltd. and the inventor of instant ramen, the 99th Asadora follows the life of Tachibana Fukuko, a young woman who tries to survive tough times in Osaka with her husband from before WWII to the rapid economic development era. Together they overcome various setbacks before they succeed in creating instant noodles. (Source: MDL)",
+  "popularity": 11.7384,
+  "poster_path": "/nYgpCIyN4WP19nvRZhecJqjQzMA.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    },
+    {
+      "id": 171480,
+      "logo_path": "/bITGMp9YCUkGlIfBzvcIjEJXs6k.png",
+      "name": "NHK Osaka",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-10-01",
+      "episode_count": 151,
+      "id": 110963,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nYgpCIyN4WP19nvRZhecJqjQzMA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 83164,
+    "imdb_id": "tt9551792",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 353676,
+    "tvrage_id": null,
+    "wikidata_id": "Q47527951",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

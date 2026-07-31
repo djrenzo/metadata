@@ -1,0 +1,443 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1234640,
+      "credit_id": "6090ee7ba13533002abdf149",
+      "name": "Daryl Somers",
+      "original_name": "Daryl Somers",
+      "gender": 2,
+      "profile_path": "/xl1hHGtMY24X5FJvAGLeyPLqUxb.jpg"
+    },
+    {
+      "id": 3078557,
+      "credit_id": "6090ef548dbc3300760afd77",
+      "name": "Gavin Disney",
+      "original_name": "Gavin Disney",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3078560,
+      "credit_id": "6090ef7868b1ea0079002b52",
+      "name": "Ernie Carroll",
+      "original_name": "Ernie Carroll",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "1971-10-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.heyhey.tv/",
+  "id": 4341,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-11-27",
+  "last_episode_to_air": {
+    "id": 300089,
+    "name": "27th November 2010",
+    "overview": "Hosted by Daryl Somers with Livinia Nixon, Ossie Ostrich, Red Symons, Russell Gilbert, Wilbur Wilde and Plucka Duck. Join them for the fun and excitement of the season final.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-11-27",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 29,
+    "show_id": 4341,
+    "still_path": null
+  },
+  "name": "Hey Hey It's Saturday",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 66,
+      "logo_path": "/pXibAQSgIIanNkSg68dUooI7IGU.png",
+      "name": "Nine Network",
+      "origin_country": "AU"
+    },
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 673,
+  "number_of_seasons": 29,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Hey Hey It's Saturday",
+  "overview": "Hey Hey It's Saturday was a long-running variety television program on Australian television. It initially ran for 27 years, debuting on the Nine Network on 9 October 1971 and broadcasting its last episode on 20 November 1999. Its host throughout its entire run was Daryl Somers, who would later become executive producer of the program. The original producer, Gavin Disney, left the program in the 1980s and Somers then jointly formed his own production company, Somers Carroll Productions, with on-screen partner Ernie Carroll, the performer of Somers' puppet sidekick Ossie Ostrich.",
+  "popularity": 11.1681,
+  "poster_path": "/bCbqPGcWm8Brz4s7rPJOXWduz9A.jpg",
+  "production_companies": [
+    {
+      "id": 153756,
+      "logo_path": null,
+      "name": "Somers Carroll Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 153757,
+      "logo_path": null,
+      "name": "United Media",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 6,
+      "id": 12834,
+      "name": "Specials",
+      "overview": "Nine re-aired the Hey Hey By Request specials in 2005 and June 2006.\n\nDaryl and Nine agreed to a deal for two specials to air in late 2009.  They aired in September and October and were a ratings success, attracting peak audiences of 2.64  and 3.1 million viewers respectively.",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-10-09",
+      "episode_count": 1,
+      "id": 193853,
+      "name": "Season 1",
+      "overview": "Premiering on 9 October 1971, Hey Hey It's Saturday was a Saturday morning children's program in which Somers and Carroll provided \"top and tail\" segments between cartoon episodes.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193854,
+      "name": "Season 2 (1972)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193855,
+      "name": "Season 3 (1973)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193856,
+      "name": "Season 4 (1974)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193857,
+      "name": "Season 5 (1975)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193858,
+      "name": "Season 6 (1976)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193859,
+      "name": "Season 7 (1977)",
+      "overview": "This was the final season before the show went into recess, when Daryl and Ossie took the bold step of leaving the Nine Network for the rival 0–10 Network to present a prime time show featuring 'comedy, audience participation and novelty games', simply titled The Daryl and Ossie Show.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193860,
+      "name": "Season 8 (1979)",
+      "overview": "Hey Hey It's Saturday returned to Channel Nine in 1979 after Daryl and Ossie hosted The Daryl and Ozzie show for rival The 0-10 Network the previous year. The show continued its evolution, beginning with the recruitment of popular Queensland TV presenter Jacki MacDonald as a co-host.",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193862,
+      "name": "Season 9 (1980)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193863,
+      "name": "Season 10 (1981)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193864,
+      "name": "Season 11 (1982)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 193865,
+      "name": "Season 12 (1983)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-02-18",
+      "episode_count": 39,
+      "id": 193472,
+      "name": "Season 13 (1984)",
+      "overview": "In 1984, the Nine Network moved the show from its morning timeslot to a primetime slot on Saturday nights, and it was briefly renamed Hey Hey It's Saturday Night before reverting to its original name. During this time, Hey Hey also became one of the most important TV venues for both local and international music, film and TV stars.",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 39,
+      "id": 193866,
+      "name": "Season 14 (1985)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 193868,
+      "name": "Season 15 (1986)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 193869,
+      "name": "Season 16 (1987)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 193870,
+      "name": "Season 17 (1988)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 193872,
+      "name": "Season 18 (1989)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 193873,
+      "name": "Season 19 (1990)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 42,
+      "id": 193875,
+      "name": "Season 20 (1991)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 42,
+      "id": 193876,
+      "name": "Season 21 (1992)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 42,
+      "id": 193877,
+      "name": "Season 22 (1993)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 42,
+      "id": 193878,
+      "name": "Season 23 (1994)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 42,
+      "id": 193879,
+      "name": "Season 24 (1995)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 41,
+      "id": 193882,
+      "name": "Season 25 (1996)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 42,
+      "id": 193883,
+      "name": "Season 26 (1997)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 40,
+      "id": 193884,
+      "name": "Season 27 (1998)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 41,
+      "id": 12835,
+      "name": "Season 28 (1999)",
+      "overview": "Nine Network executives decided toward the end of 1999 to cancel Hey Hey It's Saturday. Somers claimed that he wanted to take the program in a new direction after the departure of Caroll, but the budget to redevelop the show was deemed excessive. The final episode ran for 240 minutes, an hour longer than was scheduled.",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-14",
+      "episode_count": 20,
+      "id": 12836,
+      "name": "Season 29",
+      "overview": "Following the success of the 2009 reunion specials, the show returned in 2010 after a deal was signed for at least 20 new episodes. The show was set to air on Wednesday nights but retain the title Hey Hey It's Saturday with Daryl Somers returning as host. The show returned on 14 April 2010 with over 1.5 million viewers.",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8.167,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 4341,
+    "imdb_id": "tt0174397",
+    "freebase_mid": "/m/0351pv",
+    "freebase_id": "/en/hey_hey_its_saturday",
+    "tvdb_id": 74298,
+    "tvrage_id": null,
+    "wikidata_id": "Q5749290",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

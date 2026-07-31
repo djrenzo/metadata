@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/3IJPtnlFoY8bjllHxnEw21qlK2p.jpg",
+  "created_by": [
+    {
+      "id": 1809742,
+      "credit_id": "6470c61613a32000f9afc679",
+      "name": "Pınar Bulut",
+      "original_name": "Pınar Bulut",
+      "gender": 1,
+      "profile_path": "/8vhXMVWeyZmHBaITMblmjqr9O9u.jpg"
+    },
+    {
+      "id": 213242,
+      "credit_id": "6470c60f77070000a947f0a0",
+      "name": "Kerem Deren",
+      "original_name": "Kerem Deren",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120,
+    90
+  ],
+  "first_air_date": "2009-09-28",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "http://www.ezel.tv/",
+  "id": 32519,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2011-06-20",
+  "last_episode_to_air": {
+    "id": 767406,
+    "name": "Episode 38",
+    "overview": "",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2011-06-20",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 112,
+    "season_number": 2,
+    "show_id": 32519,
+    "still_path": "/xkOchFu69Dc3wy503rZyiJXzTq3.jpg"
+  },
+  "name": "Ezel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 750,
+      "logo_path": "/5F1z8mqADtXwFUdwui5AQcfqJNn.png",
+      "name": "Show TV",
+      "origin_country": "TR"
+    },
+    {
+      "id": 36,
+      "logo_path": "/qCnMXkdER5FYvmy2AGSMnAFH9ue.png",
+      "name": "atv",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 71,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Ezel",
+  "overview": "Ömer, a young man returning from military service, is set up by his friends and fiancé and ends up in prison for ten years. He fakes his own death and manages to escape. He re-creates himself as ‘Ezel’, a high-end gambler who is outwardly a successful man, but inwardly driven by one thing - his determination to understand why the people he loved betrayed him, and take his revenge.",
+  "popularity": 15.3686,
+  "poster_path": "/ex1K2iIwgxuzv54w89BrOJMqpTd.jpg",
+  "production_companies": [
+    {
+      "id": 43853,
+      "logo_path": "/pAQVKxBUMbbeasH41x874EjtsSA.png",
+      "name": "Ay Yapım",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-28",
+      "episode_count": 33,
+      "id": 43813,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hqa2HP1w4q0QjdcFNQCB08tH7vq.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 38,
+      "id": 43814,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qWy3xFqHd15wIqNHQTQPEZSBb22.jpg",
+      "season_number": 2,
+      "vote_average": 6.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 98,
+  "external_ids": {
+    "id": 32519,
+    "imdb_id": "tt1534360",
+    "freebase_mid": "/m/09v6q8m",
+    "freebase_id": null,
+    "tvdb_id": 126121,
+    "tvrage_id": 25865,
+    "wikidata_id": "Q840657",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

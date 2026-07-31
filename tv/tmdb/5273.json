@@ -1,0 +1,213 @@
+{
+  "adult": false,
+  "backdrop_path": "/aiZEtOKUfUY0zEeLupeLhnJlW7u.jpg",
+  "created_by": [
+    {
+      "id": 2636,
+      "credit_id": "52577f39760ee36aaa5ca72d",
+      "name": "Alfred Hitchcock",
+      "original_name": "Alfred Hitchcock",
+      "gender": 2,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1955-10-02",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 5273,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1962-07-03",
+  "last_episode_to_air": {
+    "id": 357267,
+    "name": "The Sorcerer's Apprentice",
+    "overview": "The frustrated wife of a carnival musician is in love with the circus strong man. With the appearance of a homeless boy comes a plan to free her from her husband. But will he play the final trick?",
+    "vote_average": 5,
+    "vote_count": 3,
+    "air_date": "1962-07-03",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 7,
+    "show_id": 5273,
+    "still_path": "/y81q090Idq1Z7KHmnUk1GXP0oq5.jpg"
+  },
+  "name": "Alfred Hitchcock Presents",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 268,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Alfred Hitchcock Presents",
+  "overview": "A television anthology series hosted by Alfred Hitchcock featuring dramas, thrillers, and mysteries.",
+  "popularity": 13.5738,
+  "poster_path": "/lmbBSG3jRVjxdovpdhOf2LF1voZ.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 10044,
+      "logo_path": null,
+      "name": "Revue Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 10717,
+      "logo_path": null,
+      "name": "Shamley Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-10-04",
+      "episode_count": 16,
+      "id": 15247,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/rrS4rweFdjp2sYOb7HPYMOpPKJ.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-10-02",
+      "episode_count": 39,
+      "id": 15241,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/n6QpHu8lNs1OQpEXz9GiCUkfDec.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1956-09-30",
+      "episode_count": 39,
+      "id": 15242,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/45nz5cTffvThbEwBW0TN7FT4WKD.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1957-10-06",
+      "episode_count": 39,
+      "id": 15240,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7Z209aT1w4VHgJDn6pwkfkFrG1t.jpg",
+      "season_number": 3,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "1958-10-05",
+      "episode_count": 36,
+      "id": 15243,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/86W0yP5wv9jC4g7aX7IJ5xEcOPp.jpg",
+      "season_number": 4,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1959-09-27",
+      "episode_count": 38,
+      "id": 15245,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/a4NAL5QAgPRxc7dzSk6XrCHSn43.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1960-09-27",
+      "episode_count": 38,
+      "id": 15244,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/kObJg4Hr9aJVzGgJxWNYynZZJJ6.jpg",
+      "season_number": 6,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1961-10-10",
+      "episode_count": 39,
+      "id": 15246,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/vasiWmI4pZNb5hTU2S7lTo9M0LZ.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 259,
+  "external_ids": {
+    "id": 5273,
+    "imdb_id": "tt0047708",
+    "freebase_mid": "/m/01kt3w",
+    "freebase_id": "/en/alfred_hitchcock_presents",
+    "tvdb_id": 73614,
+    "tvrage_id": null,
+    "wikidata_id": "Q1247206",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

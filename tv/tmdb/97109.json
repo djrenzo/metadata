@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/gF3JEk64EIwj7f6DIKdvEMjgIFh.jpg",
+  "created_by": [
+    {
+      "id": 1573967,
+      "credit_id": "613647d6e93e950092d7c7bf",
+      "name": "Andreas Georgiou",
+      "original_name": "Αντρέας Γεωργίου",
+      "gender": 2,
+      "profile_path": "/22lUrYlZ3oQD0vW1E9ha7KWFOW.jpg"
+    },
+    {
+      "id": 1382105,
+      "credit_id": "613647e21130bd004356e40c",
+      "name": "Koullis Nikolaou",
+      "original_name": "Κούλλης Νικολάου",
+      "gender": 2,
+      "profile_path": "/AlciD1DdnIluLQWO8T4fElD5hHg.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-09-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.skaitv.gr/show/seires/8-lexeis/sezon-2020-2021",
+  "id": 97109,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2021-07-02",
+  "last_episode_to_air": {
+    "id": 6095052,
+    "name": "Episode 247",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-07-02",
+    "episode_number": 247,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 2,
+    "show_id": 97109,
+    "still_path": null
+  },
+  "name": "8 Words",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3569,
+      "logo_path": "/xADNihESQ9mHtnOnhruEg3RoUH6.png",
+      "name": "Skai",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 471,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "8 Λέξεις",
+  "overview": "8 Words: Each of them lays the foundations of a story that will overturn events as the heroes knew them until now. A political thriller with dramatic development and heroes who see their lives moved like puppets by fateful events and circumstances. Tomorrow will become uncertain, terrifying and at the same time unexpected and full of passion and dreams that now seem more likely than ever to come true.",
+  "popularity": 11.3287,
+  "poster_path": "/k1fhwLMCSbLDmBgs6jKjLZfCbbJ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "CY",
+      "name": "Cyprus"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-08",
+      "episode_count": 224,
+      "id": 139591,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 247,
+      "id": 180803,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7XFLZQnsxqwuBC5oeekAXqQpZOu.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 97109,
+    "imdb_id": "tt10945788",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "8Lexeis",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

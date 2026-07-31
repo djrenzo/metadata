@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/jebY4q92zIO3ghfB3MnuVJ8ptie.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2014-09-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.rtl.nl/nieuwe-buren/",
+  "id": 61506,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2019-05-10",
+  "last_episode_to_air": {
+    "id": 1786132,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2019-05-10",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 4,
+    "show_id": 61506,
+    "still_path": "/8m3du55Gq6sMzlUBm4eHUy98KHf.jpg"
+  },
+  "name": "New Neighbors",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    },
+    {
+      "id": 1334,
+      "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+      "name": "Videoland",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 40,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Nieuwe Buren",
+  "overview": "Peter and Eva, a nice young couple expecting their first child, buy a house in a suburban village. Before they get to move into their new home, they lose their baby girl. Eva has a hard time coping with her loss. Peter has mixed feelings. The baby wasn’t his to begin with. He’s infertile and hopes the chapter of having children has now come to an end. Then they meet their new neighbors Rebecca and Steve, a carefree outgoing couple, that helps them forget their pain. But are they really who they say they are?",
+  "popularity": 13.6508,
+  "poster_path": "/uCcxI5cm1UVky3GWhf6cOBZaeXO.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-14",
+      "episode_count": 10,
+      "id": 63019,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/skviGnKNpgfsMgLEnR9kbUDDdKz.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2017-02-20",
+      "episode_count": 10,
+      "id": 100682,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xUHiLGfGYp1gJJJCKpnAz4TviRz.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2018-03-02",
+      "episode_count": 10,
+      "id": 100683,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/6pQ2BnNLdWgDR5sjFQTHJJcZzxv.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-05-10",
+      "episode_count": 10,
+      "id": 123878,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/24KxWqFN1TsofTzSs8eOC7wZK5v.jpg",
+      "season_number": 4,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 61506,
+    "imdb_id": "tt3996656",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 285532,
+    "tvrage_id": null,
+    "wikidata_id": "Q18286389",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

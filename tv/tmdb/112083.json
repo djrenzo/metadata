@@ -1,0 +1,320 @@
+{
+  "adult": false,
+  "backdrop_path": "/hYkF79PvidXYU8fPIIB7BPnyqlh.jpg",
+  "created_by": [
+    {
+      "id": 3007650,
+      "credit_id": "5f95b2c0134d5800412b5542",
+      "name": "Ahmed EL-Ghandour",
+      "original_name": "Ahmed EL-Ghandour",
+      "gender": 2,
+      "profile_path": "/bGCbqjmSGrdMT5ghlHNOzY7LHXY.jpg"
+    }
+  ],
+  "episode_run_time": [
+    7,
+    10
+  ],
+  "first_air_date": "2014-09-01",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://shahid.mbc.net/ar/series/%D9%85%D8%AA%D8%AD%D9%81-%D8%A7%D9%84%D8%AF%D8%AD%D9%8A%D8%AD/series-816483",
+  "id": 112083,
+  "in_production": true,
+  "languages": [
+    "ar"
+  ],
+  "last_air_date": "2019-03-02",
+  "last_episode_to_air": {
+    "id": 6137648,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-02-09",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 112083,
+    "still_path": null
+  },
+  "name": "Al Daheeh",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 2717,
+      "logo_path": "/qatnFtgbatXo5TqY2P7Sx5y6wvK.png",
+      "name": "Aj+ Arabic",
+      "origin_country": "QA"
+    },
+    {
+      "id": 9327,
+      "logo_path": "/6Jz4Do0BD78ko0yB3stB0oGdWUI.png",
+      "name": "New Media Academy",
+      "origin_country": "AE"
+    },
+    {
+      "id": 9328,
+      "logo_path": null,
+      "name": "New Media Academy",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 548,
+  "number_of_seasons": 18,
+  "origin_country": [
+    "EG"
+  ],
+  "original_language": "ar",
+  "original_name": "الدحيح",
+  "overview": "Al Daheeh is a highly influential Arab educational and comedic YouTube show created and hosted by Egyptian science communicator Ahmed Al Ghandour. It simplifies complex topics in science, history, philosophy, and pop culture into fast-paced, humorous, and engaging episodes for the general public.",
+  "popularity": 10.4837,
+  "poster_path": "/cpd2A6qFHzMxKknMVGenXjRhbYE.jpg",
+  "production_companies": [
+    {
+      "id": 118387,
+      "logo_path": "/zI9ygwm6TdO9eHL1h8xRNsT4sYN.png",
+      "name": "MBC Group",
+      "origin_country": "AE"
+    },
+    {
+      "id": 120584,
+      "logo_path": "/j4QUrar6onHuMUcKJYBifk6VEp3.png",
+      "name": "AJ+",
+      "origin_country": "QA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 34,
+      "id": 166760,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8egTLO15jVv71eyRZKpsF0a1brt.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2017-07-29",
+      "episode_count": 31,
+      "id": 451933,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/2mQX6xzyXEqAct0Z8VjF5Q8ZIBa.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-06",
+      "episode_count": 59,
+      "id": 451936,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/yWMiphC4z7Li7N6nNymkkCFuWmV.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 30,
+      "id": 451940,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/yWMiphC4z7Li7N6nNymkkCFuWmV.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451941,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451942,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451948,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451949,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451950,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451951,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451953,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451954,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451955,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451957,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451966,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 451967,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 31,
+      "id": 451996,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 12,
+      "id": 451997,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.1,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 112083,
+    "imdb_id": "tt28290261",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 390898,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

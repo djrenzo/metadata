@@ -1,0 +1,174 @@
+{
+  "adult": false,
+  "backdrop_path": "/xPLeGDdtPde91W1AsxUfuqRoPlq.jpg",
+  "created_by": [
+    {
+      "id": 76103,
+      "credit_id": "52589e05760ee34661622ca9",
+      "name": "Allan Hawco",
+      "original_name": "Allan Hawco",
+      "gender": 2,
+      "profile_path": "/qvZoHjkmbjdA0W6C0evynt26DJ8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2010-01-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.cbc.ca/republicofdoyle/",
+  "id": 31389,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2014-12-10",
+  "last_episode_to_air": {
+    "id": 1023557,
+    "name": "Last Call",
+    "overview": "Jake and Leslie fight for their lives; the Doyle's get help from an unexpected ally, but they must find evidence to clear Jake of murder.",
+    "vote_average": 7,
+    "vote_count": 2,
+    "air_date": "2014-12-10",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 6,
+    "show_id": 31389,
+    "still_path": "/1CIH0ybR7JQB3j3IanyNy9sylOQ.jpg"
+  },
+  "name": "Republic of Doyle",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 23,
+      "logo_path": "/zjgqkIvBURbwoHbHhmnzaTFyZgR.png",
+      "name": "CBC Television",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 77,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Republic of Doyle",
+  "overview": "Jake Doyle and his ex-cop father, Malachy, run a Newfoundland detective agency. Their rugged seaside town never lacks for intriguing cases, and the Doyles don't always land on the right side of the law.",
+  "popularity": 13.4929,
+  "poster_path": "/k6ixXBiyOrsn0nrZ7zPG6dtqAHw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-08-19",
+      "episode_count": 1,
+      "id": 42946,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/p71CuofKA8y5b6CsrYhBuNIax6E.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-06",
+      "episode_count": 12,
+      "id": 42945,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sNFWJaUrK3eXpHwQqkghijXq62k.jpg",
+      "season_number": 1,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2011-01-12",
+      "episode_count": 13,
+      "id": 42947,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lxLGQRsQY5FswyOGfSbQdipLiYP.jpg",
+      "season_number": 2,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2012-01-11",
+      "episode_count": 13,
+      "id": 42948,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4kQoAbf54rnNfOwQBeipQZfgxZ8.jpg",
+      "season_number": 3,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2013-01-09",
+      "episode_count": 13,
+      "id": 42949,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/jMlK2J51EuJcExvERT8t3IeRS5P.jpg",
+      "season_number": 4,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2013-10-02",
+      "episode_count": 16,
+      "id": 71816,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/cm0OZufN9VYfsvv0lGgwVT9HHax.jpg",
+      "season_number": 5,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2014-10-15",
+      "episode_count": 10,
+      "id": 63022,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/an9QJMAWuPJ0SKFIFkjd5lR1gK5.jpg",
+      "season_number": 6,
+      "vote_average": 6.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Trouble is his business and business is good",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 38,
+  "external_ids": {
+    "id": 31389,
+    "imdb_id": "tt1297754",
+    "freebase_mid": "/m/09gd37m",
+    "freebase_id": "/en/republic_of_doyle",
+    "tvdb_id": 133251,
+    "tvrage_id": null,
+    "wikidata_id": "Q1953963",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/wgmikRStgBbrzjxFVe5rhFlpL2R.jpg",
+  "created_by": [
+    {
+      "id": 1691328,
+      "credit_id": "5bd301b9c3a368742b00c6cf",
+      "name": "Shin Won-ho",
+      "original_name": "신원호",
+      "gender": 2,
+      "profile_path": "/2skcn2e1GDFo5DLgJK3R4IDGXCz.jpg"
+    },
+    {
+      "id": 1691327,
+      "credit_id": "5bd301a59251415ad300c037",
+      "name": "Lee Woo-jung",
+      "original_name": "이우정",
+      "gender": 1,
+      "profile_path": "/wf3PwOoGnLTrKGby594IYeDm46Z.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2015-11-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://program.tving.com/tvn/reply1988/",
+  "id": 64010,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2016-01-16",
+  "last_episode_to_air": {
+    "id": 1151207,
+    "name": "Goodbye, My Youth. Goodbye, Ssangmundong.",
+    "overview": "While Sun-woo and Bo-ra set out to change their parents' minds about their relationship, juicy gossip about Taek turns up on the news.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-01-16",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 113,
+    "season_number": 1,
+    "show_id": 64010,
+    "still_path": "/3CB5JZf10SBQ6DLg38VpmNztamL.jpg"
+  },
+  "name": "Reply 1988",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 866,
+      "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "응답하라 1988",
+  "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+  "popularity": 14.5965,
+  "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+  "production_companies": [
+    {
+      "id": 128404,
+      "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-10-30",
+      "episode_count": 8,
+      "id": 73042,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-06",
+      "episode_count": 20,
+      "id": 70933,
+      "name": "Season 1",
+      "overview": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighborhood in Seoul.",
+      "poster_path": "/i3xQJlQRff4k5IMEY55l4iKaKl3.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The year was 1988, a time when it was chilly, but our hearts were fiery, a time when we didn't have much but people's hearts were warm.",
+  "type": "Scripted",
+  "vote_average": 8.8,
+  "vote_count": 219,
+  "external_ids": {
+    "id": 64010,
+    "imdb_id": "tt5182866",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 301078,
+    "tvrage_id": null,
+    "wikidata_id": "Q19657395",
+    "facebook_id": "reply.tvN",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

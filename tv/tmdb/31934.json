@@ -1,0 +1,245 @@
+{
+  "adult": false,
+  "backdrop_path": "/pwZ2aNxsWacA1C8NdNoTmyEy32K.jpg",
+  "created_by": [
+    {
+      "id": 74730,
+      "credit_id": "5258a159760ee346616563ff",
+      "name": "Felix Herngren",
+      "original_name": "Felix Herngren",
+      "gender": 2,
+      "profile_path": "/hKZcphTUNIRhpYiWHgOSxhNnvuw.jpg"
+    },
+    {
+      "id": 222066,
+      "credit_id": "609a658c93db92003c18cfb0",
+      "name": "Ulf Kvensler",
+      "original_name": "Ulf Kvensler",
+      "gender": 2,
+      "profile_path": "/scU3bVx1inZrihRsoB3RTsCUwkL.jpg"
+    },
+    {
+      "id": 1184286,
+      "credit_id": "609a65e372a2c9003c34e293",
+      "name": "Pontus Edgren",
+      "original_name": "Pontus Edgren",
+      "gender": 2,
+      "profile_path": "/9WC0jtY0JNOKxs7PDb3Fn2UYN0V.jpg"
+    },
+    {
+      "id": 1184285,
+      "credit_id": "609a657325a536003ef71200",
+      "name": "Jacob Seth Fransson",
+      "original_name": "Jacob Seth Fransson",
+      "gender": 2,
+      "profile_path": "/uC4GIKnau8YaZfKekN4Md0QHrwb.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2010-01-29",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.tv4.se/solsidan",
+  "id": 31934,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2025-12-03",
+  "last_episode_to_air": {
+    "id": 6566250,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-03",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 9,
+    "show_id": 31934,
+    "still_path": "/dBXGorfVOFEk2HKAq22b6i6gVNV.jpg"
+  },
+  "name": "Solsidan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 352,
+      "logo_path": "/7L7VUXTBLiHruhUjYJebV46uw3c.png",
+      "name": "TV4",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 90,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Solsidan",
+  "overview": "The series is named after a small part of Saltsjöbaden called Solsidan. It revolves around Alex and Anna who are expecting their first child and have just moved to Alex's childhood home in Saltsjöbaden, Stockholm County. Alex tries to get Anna to enjoy herself, and at the same time spend time with his childhood friend Fredde.",
+  "popularity": 13.174,
+  "poster_path": "/wpmda4k5Jb9Sq8TrRvaWeH6MjBS.jpg",
+  "production_companies": [
+    {
+      "id": 4510,
+      "logo_path": "/j9dMjGc4GHwSL0fx1iEtxz05qrV.png",
+      "name": "Jarowskij",
+      "origin_country": "SE"
+    },
+    {
+      "id": 25297,
+      "logo_path": "/eBEOs6T0nVa8RKWmZbBWIvc4daL.png",
+      "name": "FLX",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 11,
+      "id": 43408,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-29",
+      "episode_count": 10,
+      "id": 43406,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dK3Vevd94oRwJkQd8d8yef7EsNC.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-16",
+      "episode_count": 10,
+      "id": 43407,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1RdIkiVkRHXyrVST39iYjsAncCX.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-07",
+      "episode_count": 10,
+      "id": 43409,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/dTdQblBMpO2zmCwJTLTATtN3qsb.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-20",
+      "episode_count": 10,
+      "id": 71989,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/sC81msVQJ1Vm9xNc8ARs20PEWFv.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-18",
+      "episode_count": 10,
+      "id": 71990,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/elN3RS5GB3bo6aSlXq1MayknzCY.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-20",
+      "episode_count": 10,
+      "id": 134503,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/b1SIoNeqhBuJqhfTh8wXuvdCbir.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-17",
+      "episode_count": 10,
+      "id": 215815,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/tE7Kmpl80fBsibL97tgkLQh7G6z.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-29",
+      "episode_count": 10,
+      "id": 356199,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/jh9CmlrkTjcJFJyor4oVCZZHg6a.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-01",
+      "episode_count": 10,
+      "id": 469747,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/oNJNcN0la6ZLH3RPvnSJY6HyAhF.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 46,
+  "external_ids": {
+    "id": 31934,
+    "imdb_id": "tt1593584",
+    "freebase_mid": "/m/0b6dj4m",
+    "freebase_id": null,
+    "tvdb_id": 138531,
+    "tvrage_id": 25333,
+    "wikidata_id": "Q3357491",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

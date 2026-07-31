@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2009-12-22",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 36186,
+  "in_production": false,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "2010-12-23",
+  "last_episode_to_air": {
+    "id": 1634886,
+    "name": "Episode 77",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-12-23",
+    "episode_number": 77,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 36186,
+    "still_path": null
+  },
+  "name": "Majka",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 504,
+      "logo_path": "/1eFvEkm4Kyu5oArfCaGoznXUF7X.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 200,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "Majka",
+  "overview": "",
+  "popularity": 24.228,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-12-22",
+      "episode_count": 123,
+      "id": 47059,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-06",
+      "episode_count": 77,
+      "id": 113774,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 36186,
+    "imdb_id": "tt1671173",
+    "freebase_mid": "/m/0gfvqpz",
+    "freebase_id": null,
+    "tvdb_id": 129831,
+    "tvrage_id": null,
+    "wikidata_id": "Q11766454",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

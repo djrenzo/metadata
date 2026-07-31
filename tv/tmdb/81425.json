@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/yLLRJwHlRwADEojNwVhqAxSH8hh.jpg",
+  "created_by": [
+    {
+      "id": 2100775,
+      "credit_id": "5b685153c3a368188f0cc5c5",
+      "name": "Samo Login",
+      "original_name": "Samo Login",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1216184,
+      "credit_id": "5b68518ec3a3685375042130",
+      "name": "Tom Martin",
+      "original_name": "Tom Martin",
+      "gender": 2,
+      "profile_path": "/85lROiDBx3wxMKzcsxl3XCgi3Zh.jpg"
+    },
+    {
+      "id": 2100773,
+      "credit_id": "5b68514992514168b6049476",
+      "name": "Boris Dolenc",
+      "original_name": "Boris Dolenc",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2014-12-23",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://talkingtomandfriends.com/",
+  "id": 81425,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-12-24",
+  "last_episode_to_air": {
+    "id": 3510291,
+    "name": "Talking Roy and Friends",
+    "overview": "Hi, everyone! Roy Rakoon here! Check out the first episode of my new show, “Talking Roy and Friends”! It’s a whole lot better than that junky old show about what’s-his-name, don’t you think? HA!",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-24",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 5,
+    "show_id": 81425,
+    "still_path": "/webkgQ2pGBthIASj3ui9xXY8FzZ.jpg"
+  },
+  "name": "Talking Tom and Friends",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Talking Tom and Friends",
+  "overview": "Armed with technological gear, great ideas and an unfailing sense of humour, Talking Tom and his friends are on a mission to reach stardom at all costs.",
+  "popularity": 15.9101,
+  "poster_path": "/u6We7ht3z8bSIaUF8P7DEwopOPi.jpg",
+  "production_companies": [
+    {
+      "id": 149225,
+      "logo_path": "/eaZRbAmqwnhNOMkcrfsxcXEwewA.png",
+      "name": "Outfit7",
+      "origin_country": "CY"
+    },
+    {
+      "id": 149226,
+      "logo_path": "/hUuz3fY3r87kvJ9rW7GhJMC5O72.png",
+      "name": "ARX Anima",
+      "origin_country": "AT"
+    },
+    {
+      "id": 149227,
+      "logo_path": null,
+      "name": "People Moving Pixels",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "CY",
+      "name": "Cyprus"
+    },
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-12-23",
+      "episode_count": 52,
+      "id": 107435,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sKVTkCTZOOvfOMTeYJq5F0gDSxq.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2017-06-15",
+      "episode_count": 26,
+      "id": 107469,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fHiAjWY3IK2HDZyVc0jh6yH8zlV.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-10",
+      "episode_count": 26,
+      "id": 107470,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/e1ENrVcAsGkm8UylqGBa1dR41EZ.jpg",
+      "season_number": 3,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2019-05-16",
+      "episode_count": 26,
+      "id": 144212,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/kFsjTw2WKHt4OKDKwKylrgQD3RC.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-08",
+      "episode_count": 26,
+      "id": 150289,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/yQFuTauavVjtWb0fQqvoANqswSL.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "5 Friends. 1 Garage. Lots of Fun!",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 81425,
+    "imdb_id": "tt4648640",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 310606,
+    "tvrage_id": null,
+    "wikidata_id": "Q26186385",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

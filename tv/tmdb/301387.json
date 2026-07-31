@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/3UTqspyeD32sjXIMsKuExBBcUtn.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-07-12",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.atresplayer.com/antena3/series/agata-y-lola/",
+  "id": 301387,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2026-07-12",
+  "last_episode_to_air": {
+    "id": 6548397,
+    "name": "Episode 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 1,
+    "show_id": 301387,
+    "still_path": "/ftaxvYzMNrtLk4w3zRcYuwnscrL.jpg"
+  },
+  "name": "Ágata y Lola",
+  "next_episode_to_air": {
+    "id": 6548399,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-02",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 301387,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 3744,
+      "logo_path": "/t6FPoKU3jDeCtIFpbxiIkhkQ5gm.png",
+      "name": "Atresplayer",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Ágata y Lola",
+  "overview": "",
+  "popularity": 16.8401,
+  "poster_path": "/hC6n1lUG1EK7bvSFRIQgrlAVzFk.jpg",
+  "production_companies": [
+    {
+      "id": 98971,
+      "logo_path": "/xdBaB8hzyBNcFw7W911bbY3WKB0.png",
+      "name": "Portocabo",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-07-12",
+      "episode_count": 8,
+      "id": 476632,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hC6n1lUG1EK7bvSFRIQgrlAVzFk.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 8.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 301387,
+    "imdb_id": "tt38607962",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 479370,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

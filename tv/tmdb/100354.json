@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/48xptQ21l5U46xAym5a5ehezTVT.jpg",
+  "created_by": [
+    {
+      "id": 2562607,
+      "credit_id": "6397126ca1a9ba00e20784e2",
+      "name": "Germán Maggiori",
+      "original_name": "Germán Maggiori",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-09-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.hbolatam.com/ar/modal/series/entre-hombres---parte-01/15135/TTL767647",
+  "id": 100354,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2021-10-17",
+  "last_episode_to_air": {
+    "id": 2228943,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-10-17",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 100354,
+    "still_path": null
+  },
+  "name": "Amongst Men",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1089,
+      "logo_path": "/xiKKr4gL7TM7Q5Rn79LrYFeRjV3.png",
+      "name": "HBO Latin America",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 4,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Entre hombres",
+  "overview": "It is the golden age of gangs, and one of the darkest times for the police, who are controlled by a group of millionaire commissioners sharing in the illicit businesses of Buenos Aires.",
+  "popularity": 15.2636,
+  "poster_path": "/ua7QFNnspjLcjrc0nCY9RRonmHS.jpg",
+  "production_companies": [
+    {
+      "id": 27281,
+      "logo_path": "/n4OjEuaiEaiUn0WwJHHKXPkmHAD.png",
+      "name": "Pol-Ka Producciones",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-25",
+      "episode_count": 4,
+      "id": 144967,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ua7QFNnspjLcjrc0nCY9RRonmHS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.5,
+  "vote_count": 25,
+  "external_ids": {
+    "id": 100354,
+    "imdb_id": "tt11811868",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 378091,
+    "tvrage_id": null,
+    "wikidata_id": "Q105096728",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

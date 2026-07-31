@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1513214,
+      "credit_id": "5600919e925141228a00016b",
+      "name": "Kapil Sharma",
+      "original_name": "Kapil Sharma",
+      "gender": 2,
+      "profile_path": "/bu0jBQkDJmXCuISoJwktwgamkRX.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2013-06-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 60698,
+  "in_production": false,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2016-01-24",
+  "last_episode_to_air": {
+    "id": 1846043,
+    "name": "Akshay Kumar and his new movie.",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-01-24",
+    "episode_number": 193,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 1,
+    "show_id": 60698,
+    "still_path": null
+  },
+  "name": "Comedy Nights with Kapil",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 524,
+      "logo_path": "/1qTv9p35O9i5x0Swg1VbfzLqYBq.png",
+      "name": "Colors",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 191,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Comedy Nights with Kapil",
+  "overview": "Comedy Nights with Kapil is a comedy show which provides a distinctive take on the everyday life of a common man as the show explores the story of every household and how our common man Kapil is affected by the simplest issues in life around him.",
+  "popularity": 12.6742,
+  "poster_path": "/9rScFaEadiT3r46LuT9wWOkh3fo.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2013-06-22",
+      "episode_count": 191,
+      "id": 60367,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.795,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 60698,
+    "imdb_id": "tt3402548",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 272587,
+    "tvrage_id": null,
+    "wikidata_id": "Q15979688",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

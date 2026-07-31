@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/u43HZytpdLWjEXbJwzQLH8mxg91.jpg",
+  "created_by": [
+    {
+      "id": 1345462,
+      "credit_id": "69124dd808a6f1ef6631b7f2",
+      "name": "Iva Ilakovac",
+      "original_name": "Iva Ilakovac",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3174075,
+      "credit_id": "69124de71913c5a927dd22b1",
+      "name": "Marija Antić",
+      "original_name": "Marija Antić",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-11-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.rtl.hr/tv-emisije/divlje-pcele",
+  "id": 304528,
+  "in_production": true,
+  "languages": [
+    "hr"
+  ],
+  "last_air_date": "2026-06-03",
+  "last_episode_to_air": {
+    "id": 7266416,
+    "name": "Episode 153",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-03",
+    "episode_number": 153,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 304528,
+    "still_path": null
+  },
+  "name": "Wild Bees",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 324,
+      "logo_path": "/deuK1bWBjGfqMES4iGJTQquLmDP.png",
+      "name": "RTL Televizija",
+      "origin_country": "HR"
+    },
+    {
+      "id": 8912,
+      "logo_path": "/dVfKsdbep1CDQpLU4cByGN7Aola.png",
+      "name": "Voyo",
+      "origin_country": "HR"
+    }
+  ],
+  "number_of_episodes": 153,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_name": "Divlje pčele",
+  "overview": "Three Runje sisters, struggling after their father’s death in a rigid patriarchal village, are drawn into a perilous web of an arranged marriage, hidden motives, and a crime that upends their lives.",
+  "popularity": 24.122,
+  "poster_path": "/pY9aS2wFRVw0P4hV6KyZmH1LgDG.jpg",
+  "production_companies": [
+    {
+      "id": 166640,
+      "logo_path": "/uK1SJytO1HM70UpC1YGnTEw282f.png",
+      "name": "RTL Televizija",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-11-03",
+      "episode_count": 153,
+      "id": 482678,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pY9aS2wFRVw0P4hV6KyZmH1LgDG.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 304528,
+    "imdb_id": "tt38592526",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q136509899",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

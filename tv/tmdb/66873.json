@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/k9LUT69h5Mrp57qTJlAWlblmzUz.jpg",
+  "created_by": [
+    {
+      "id": 2099805,
+      "credit_id": "676fd81ffb8a229c67929312",
+      "name": "Mário Teixeira",
+      "original_name": "Mário Teixeira",
+      "gender": 2,
+      "profile_path": "/6NygLpB8lfqxNfaB6MbU5Zn27AS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2016-04-11",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 66873,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2016-08-04",
+  "last_episode_to_air": {
+    "id": 2981865,
+    "name": "Episode 67",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-08-04",
+    "episode_number": 67,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 66873,
+    "still_path": null
+  },
+  "name": "Lady Revolution",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 67,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Liberdade, Liberdade",
+  "overview": "",
+  "popularity": 22.5492,
+  "poster_path": "/bkayUMR7Spt2xOdU0Oi7Ahdlw9d.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-04-11",
+      "episode_count": 67,
+      "id": 78004,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4eN3D9HdBT8hSnfwG4na9dpoFxR.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 66873,
+    "imdb_id": "tt5621890",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 309023,
+    "tvrage_id": null,
+    "wikidata_id": "Q23468074",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

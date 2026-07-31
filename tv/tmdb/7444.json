@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/5uTj91IYfd1zr6iGW4g1DxpAyKw.jpg",
+  "created_by": [
+    {
+      "id": 1237661,
+      "credit_id": "60bceba28a88b20077c1101e",
+      "name": "Fernando Gaitán",
+      "original_name": "Fernando Gaitán",
+      "gender": 2,
+      "profile_path": "/5XwGcx9piYtbEGzyLgg5POMEs9f.jpg"
+    }
+  ],
+  "episode_run_time": [
+    33
+  ],
+  "first_air_date": "2007-01-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.megatv.com/ekpompes/43200/maria-i-asximi/",
+  "id": 7444,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2008-06-23",
+  "last_episode_to_air": {
+    "id": 3007582,
+    "name": "Episode 199",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-06-23",
+    "episode_number": 199,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 64,
+    "season_number": 2,
+    "show_id": 7444,
+    "still_path": null
+  },
+  "name": "Maria i Aschimi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 301,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Μαρία η Άσχημη",
+  "overview": "Maria, i Aschimi is the Greek adaptation of the Colombian telenovela Betty la Fea. The series ran from 2007 to 2008 on Mega Channel in Greece. The series starred Aggeliki Daliani in the title role of Maria and Anthimos Ananiadis as the boss who became the man of her dreams.",
+  "popularity": 11.8961,
+  "poster_path": "/9YUBn14k0wecWdP2SY19sH6sSQU.jpg",
+  "production_companies": [
+    {
+      "id": 146083,
+      "logo_path": null,
+      "name": "On Productions",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 102,
+      "id": 170425,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jfjYeiSYr5CZ4CvnOr2fwxYAuPJ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-17",
+      "episode_count": 199,
+      "id": 198174,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jcP2M7KCzwgxoYppfN3ysGPcCZ6.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.7,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 7444,
+    "imdb_id": "tt0995479",
+    "freebase_mid": "/m/04crb9n",
+    "freebase_id": "/en/maria_i_aschimi",
+    "tvdb_id": 331707,
+    "tvrage_id": null,
+    "wikidata_id": "Q6760957",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

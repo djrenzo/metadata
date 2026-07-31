@@ -1,0 +1,172 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1992-10-26",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 40458,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2005-12-10",
+  "last_episode_to_air": {
+    "id": 1077488,
+    "name": "Episode 22",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-12-10",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 6,
+    "show_id": 40458,
+    "still_path": null
+  },
+  "name": "Der Bergdoktor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    },
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 95,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Der Bergdoktor",
+  "overview": "Der Bergdoktor is a German-Austrian medical drama television series, broadcast in 96 episodes between 1992 and 1997.",
+  "popularity": 18.2979,
+  "poster_path": "/wUWjebDSeRNlozisErHJ7tAQ6Cp.jpg",
+  "production_companies": [
+    {
+      "id": 20521,
+      "logo_path": "/umPV6gEtvSiqGuNyXAuuXdGZRYe.png",
+      "name": "Neue Deutsche Filmgesellschaft",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-10-26",
+      "episode_count": 14,
+      "id": 60508,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-10-25",
+      "episode_count": 19,
+      "id": 67793,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-02-15",
+      "episode_count": 13,
+      "id": 67794,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-03",
+      "episode_count": 13,
+      "id": 67797,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-27",
+      "episode_count": 14,
+      "id": 67798,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-05",
+      "episode_count": 22,
+      "id": 67799,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.75,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 40458,
+    "imdb_id": "tt0105951",
+    "freebase_mid": "/m/0h52wcj",
+    "freebase_id": null,
+    "tvdb_id": 260811,
+    "tvrage_id": null,
+    "wikidata_id": "Q469629",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

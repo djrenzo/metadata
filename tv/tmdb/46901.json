@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/9PJl6qubokov6PxEdkWyZdF3vuK.jpg",
+  "created_by": [
+    {
+      "id": 1252547,
+      "credit_id": "54b253e2c3a368210c00100e",
+      "name": "Marcela Citterio",
+      "original_name": "Marcela Citerrio",
+      "gender": 1,
+      "profile_path": "/8b4sfpMnuksDBTh3wfqOJ1raYRB.jpg"
+    },
+    {
+      "id": 1314789,
+      "credit_id": "54b253ea92514107e0002b3b",
+      "name": "Kary Fajer",
+      "original_name": "Kary Fajer",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1412109,
+      "credit_id": "54b253d79251417479003a83",
+      "name": "Enrique Estevanez",
+      "original_name": "Enrique Estevanez",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2012-09-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 46901,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2013-05-12",
+  "last_episode_to_air": {
+    "id": 2168857,
+    "name": "Episode 183",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-05-12",
+    "episode_number": 183,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 104,
+    "season_number": 1,
+    "show_id": 46901,
+    "still_path": null
+  },
+  "name": "Amores verdaderos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 28,
+      "logo_path": "/8JwhJGdxpSsiuPiFDGslBH1cr7t.png",
+      "name": "Univision",
+      "origin_country": "US"
+    },
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 183,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Amores verdaderos",
+  "overview": "Victoria Balvanera owns a vast expanse of land and a prestigious advertising agency. She is married to the landowner Nelson Brizz. Following an attempted kidnapping, she finds love with José Ángel—her rescuer and the estate's new foreman.",
+  "popularity": 13.0319,
+  "poster_path": "/vcinDWUP7qvFDVPaArnZgVgy4bE.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 183,
+      "id": 64475,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cJ9co4Qv43BPZdQwguwFmaHV8mn.jpg",
+      "season_number": 1,
+      "vote_average": 4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 752,
+  "external_ids": {
+    "id": 46901,
+    "imdb_id": "tt2320524",
+    "freebase_mid": "/m/0j7h_6z",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1442325",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

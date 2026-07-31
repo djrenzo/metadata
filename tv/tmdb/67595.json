@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/nRMJ41kH3Hfv69dII1kHVLD50Vd.jpg",
+  "created_by": [
+    {
+      "id": 1658219,
+      "credit_id": "66e469de0000000000b9be8b",
+      "name": "Michelle Allen",
+      "original_name": "Michelle Allen",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    47
+  ],
+  "first_air_date": "2016-09-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.qub.ca/tvaplus/tva/l-echappee",
+  "id": 67595,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2023-03-27",
+  "last_episode_to_air": {
+    "id": 4330872,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-03-27",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 7,
+    "show_id": 67595,
+    "still_path": null
+  },
+  "name": "L'Échappée",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 302,
+      "logo_path": "/gc3SsJUQa7mGnHLds13zzoxG3zd.png",
+      "name": "TVA",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 168,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "L'Échappée",
+  "overview": "",
+  "popularity": 19.095,
+  "poster_path": "/aQgis3LBwDFnoBT3gJwlvfHFl6j.jpg",
+  "production_companies": [
+    {
+      "id": 80797,
+      "logo_path": "/mfrPH8quIs8BXeqePQq3iG3DOg6.png",
+      "name": "Amalga",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-11",
+      "episode_count": 24,
+      "id": 79629,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8oGceXVEki0Yu0MU9xD9lhPM2Ln.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-10",
+      "episode_count": 24,
+      "id": 91485,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8oGceXVEki0Yu0MU9xD9lhPM2Ln.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 24,
+      "id": 108282,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8oGceXVEki0Yu0MU9xD9lhPM2Ln.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 24,
+      "id": 130835,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/8oGceXVEki0Yu0MU9xD9lhPM2Ln.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-25",
+      "episode_count": 24,
+      "id": 159420,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/8oGceXVEki0Yu0MU9xD9lhPM2Ln.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 24,
+      "id": 206022,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/8oGceXVEki0Yu0MU9xD9lhPM2Ln.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-11",
+      "episode_count": 24,
+      "id": 308963,
+      "name": "Season 7",
+      "overview": "New dramas are shaking up L'Échappée and shaking young people and workers alike. Will Manu turn away from Robin? Outside the walls, an already shaken community seeks its bearings while Jade struggles to rehabilitate herself with it.",
+      "poster_path": "/43cUgkFii8tu8Loi0LJ8LGEeCKy.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 67595,
+    "imdb_id": "tt6156606",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 316542,
+    "tvrage_id": null,
+    "wikidata_id": "Q28496844",
+    "facebook_id": "lechappeeTVA",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
+  "created_by": [
+    {
+      "id": 1500059,
+      "credit_id": "66e32cd09013fe872223afec",
+      "name": "Tim Robinson",
+      "original_name": "Tim Robinson",
+      "gender": 2,
+      "profile_path": "/tS0CF1hO6sUd6GGdBnz5lkHpeaG.jpg"
+    },
+    {
+      "id": 1226298,
+      "credit_id": "66e32ce7c81b24b3fe23b613",
+      "name": "Zach Kanin",
+      "original_name": "Zach Kanin",
+      "gender": 2,
+      "profile_path": "/3TVCUzbhUZm7aIORhs875wGY946.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-10-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.hbo.com/content/the-chair-company",
+  "id": 271267,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-11-30",
+  "last_episode_to_air": {
+    "id": 6515886,
+    "name": "Minnie Mouse coming back wasn't on my bingo card.",
+    "overview": "Ron deals with the aftermath of his decision.",
+    "vote_average": 7.409,
+    "vote_count": 11,
+    "air_date": "2025-11-30",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 1,
+    "show_id": 271267,
+    "still_path": "/bT1E0NAcjaoaD5t8ESWcOOPtX3Q.jpg"
+  },
+  "name": "The Chair Company",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Chair Company",
+  "overview": "After an embarrassing incident at work, suburban family man William Ronald Trosper finds himself investigating a far-reaching conspiracy.",
+  "popularity": 14.3309,
+  "poster_path": "/2VktdoGvR0Pv6qj9P7vDsTIfw1l.jpg",
+  "production_companies": [
+    {
+      "id": 125055,
+      "logo_path": "/8iY66HqRqdQdwOjoS3sNvokcH9r.png",
+      "name": "Hyperobject Industries",
+      "origin_country": "US"
+    },
+    {
+      "id": 156846,
+      "logo_path": null,
+      "name": "Zanin Corp",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-10-12",
+      "episode_count": 8,
+      "id": 418214,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xZgftEXZXTM47k2rZlXo8kr8HZF.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 523944,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "There's a whole world under the surface and only Ron has any idea about it. And sometimes the two worlds collide, and sometimes they don't. Ron holds them at arm's length from each other. Watch every week to find out when he can and when he can't.",
+  "type": "Scripted",
+  "vote_average": 7.075,
+  "vote_count": 93,
+  "external_ids": {
+    "id": 271267,
+    "imdb_id": "tt31987295",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 454397,
+    "tvrage_id": null,
+    "wikidata_id": "Q135412257",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

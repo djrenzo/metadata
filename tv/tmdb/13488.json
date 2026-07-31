@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/m76ba2JgYdcTZ3vhMqjFhxxjipT.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "1985-04-08",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 13488,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1986-06-30",
+  "last_episode_to_air": {
+    "id": 2568875,
+    "name": "Episode 130",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-06-30",
+    "episode_number": 130,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 13488,
+    "still_path": null
+  },
+  "name": "Hey! Bumboo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 219,
+      "logo_path": "/yggDLcQ3huw76ee2tQRfsMrt0Yh.png",
+      "name": "NHK BS1",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 130,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "へーい！ブンブー",
+  "overview": "Bumboo is a talking car, innocent in many ways, Bumboo searches for her mother throughout many adventures and dangers, battling villains and stopping thieves while discovering that she may not be the only talking car of her kind in the world.",
+  "popularity": 11.4482,
+  "poster_path": "/3prycraKoi8ecNl3HTPMonac30v.jpg",
+  "production_companies": [
+    {
+      "id": 4287,
+      "logo_path": "/hIxV81PD6eNsNluKemgiWwdZhcb.png",
+      "name": "Nippon Animation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1985-04-08",
+      "episode_count": 130,
+      "id": 81232,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pKw41i8Z97UyA7BJJNSmHTkUDn9.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "بومبو",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 13488,
+    "imdb_id": "tt0294100",
+    "freebase_mid": "/m/052fgt",
+    "freebase_id": "/en/bumpety_boo",
+    "tvdb_id": 269674,
+    "tvrage_id": null,
+    "wikidata_id": "Q1004898",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

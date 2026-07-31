@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/ekPKyVT9oMudeVukTCbJuH200TW.jpg",
+  "created_by": [
+    {
+      "id": 1455854,
+      "credit_id": "63e4daa62e2b2c00849fdeee",
+      "name": "Luis Zelkowicz",
+      "original_name": "Luis Zelkowicz",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-12-06",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/mx/title/80153271?preventIntent=true",
+  "id": 68734,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2017-04-03",
+  "last_episode_to_air": {
+    "id": 1299175,
+    "name": "Episode 84",
+    "overview": "Ponce thwarts El Chema’s operation. El Chema and El Rojo go after Ricardo. Blanca makes a deal with El Chema. Ponce traps Ricardo.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-04-03",
+    "episode_number": 84,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 68734,
+    "still_path": "/AaVcdHvEa5owPC8U8qcFPdTHT3b.jpg"
+  },
+  "name": "El Chema",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "El Chema",
+  "overview": "Follow one man's epic journey as he transforms from wily underage drug smuggler to one of the world's most infamous cartel leaders.",
+  "popularity": 22.5758,
+  "poster_path": "/wuA7gcwhDMbZ4Y1lscXRrgmaJIi.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-12-06",
+      "episode_count": 85,
+      "id": 82077,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ice8DplXXs31AuARhiQpielZUiw.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 166143,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.674,
+  "vote_count": 756,
+  "external_ids": {
+    "id": 68734,
+    "imdb_id": "tt5730624",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 319915,
+    "tvrage_id": null,
+    "wikidata_id": "Q27612621",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

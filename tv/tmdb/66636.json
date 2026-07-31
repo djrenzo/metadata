@@ -1,0 +1,281 @@
+{
+  "adult": false,
+  "backdrop_path": "/yrWzAUEDJKMHqKukER2em94XAf8.jpg",
+  "created_by": [
+    {
+      "id": 3172510,
+      "credit_id": "60fe757ef10a1a005fbbeb12",
+      "name": "Andy Cadman",
+      "original_name": "Andy Cadman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3172509,
+      "credit_id": "60fe75731684f7002e10dc96",
+      "name": "Mike Spencer",
+      "original_name": "Mike Spencer",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3172507,
+      "credit_id": "60fe75681684f70046c5ff87",
+      "name": "Laura Woolf",
+      "original_name": "Laura Woolf",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2015-06-07",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.itv.com/loveisland",
+  "id": 66636,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-26",
+  "last_episode_to_air": {
+    "id": 7348671,
+    "name": "The Live Final",
+    "overview": "Live from Mallorca, the winners of Love Island are crowned, but not before Mica and Samraj make a difficult decision to dump one of the final four couples.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-27",
+    "episode_number": 57,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 13,
+    "show_id": 66636,
+    "still_path": "/37pmzqdcsZFxNlCL4y22WqoXuL7.jpg"
+  },
+  "name": "Love Island",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 149,
+      "logo_path": "/fYi08k1rC5L0OOqgwyXfcAKCZ2H.png",
+      "name": "ITV2",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 677,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Love Island",
+  "overview": "A stunning cast engages in the ultimate game of love, as they land in a sunshine paradise in search of passion and romance. Each of the glamorous members of the public will live like celebrities in a luxury villa, but in order to stay there, they will not only have to win over the hearts of each other, but also the hearts of the public.",
+  "popularity": 18.0455,
+  "poster_path": "/akBaxxIjPvqR1oVsRoSWddz7rWq.jpg",
+  "production_companies": [
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 151212,
+      "logo_path": "/uNcLq9h8UI1VObsKVtFzxqDrXu6.png",
+      "name": "Lifted Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 67675,
+      "logo_path": "/ewPx6YI2PuoPIGvLOCCEWdxltq5.png",
+      "name": "GroupM Motion Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 301714,
+      "logo_path": "/khhc4LfLgwmCqxFLBAYv0A3U9RP.png",
+      "name": "WPP Motion Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-07-17",
+      "episode_count": 15,
+      "id": 304590,
+      "name": "Specials",
+      "overview": "Special installments of the series.",
+      "poster_path": "/2LpGzAiuhbG1mH5klkYDe3W0lan.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-06",
+      "episode_count": 34,
+      "id": 77621,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/iZMqcJ54Itf2lV1GbAJLpcvRXjm.jpg",
+      "season_number": 1,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2016-05-29",
+      "episode_count": 43,
+      "id": 77495,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/mY6E8loRnrBhvP5frLmLRRE02zI.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2017-06-04",
+      "episode_count": 43,
+      "id": 88999,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/xnbBNRSANq89yrWLnuEjlvMyuZK.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2018-06-03",
+      "episode_count": 57,
+      "id": 104727,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": "/u2COGbfcjS8LfowAzjHii6822a2.jpg",
+      "season_number": 4,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2019-06-02",
+      "episode_count": 57,
+      "id": 125381,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": "/lHAFGndSrbsxRqhVD83e8K0QhjX.jpg",
+      "season_number": 5,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "2020-01-11",
+      "episode_count": 42,
+      "id": 140701,
+      "name": "Series 6",
+      "overview": "",
+      "poster_path": "/4juzFd7QoAhuR5dNgBZBKG6Xb00.jpg",
+      "season_number": 6,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2021-06-27",
+      "episode_count": 57,
+      "id": 200537,
+      "name": "Series 7",
+      "overview": "",
+      "poster_path": "/a9EMg3cbCF4zH4NYe7Xgq4P5sm1.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-05",
+      "episode_count": 57,
+      "id": 292548,
+      "name": "Series 8",
+      "overview": "",
+      "poster_path": "/y3QjXC2K0RbKmfNAuaLzeQQ9y69.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 58,
+      "id": 315884,
+      "name": "Series 9",
+      "overview": "",
+      "poster_path": "/kdBoXYNnYgXmPP74czLxEowcPni.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-05",
+      "episode_count": 58,
+      "id": 342538,
+      "name": "Series 10",
+      "overview": "Maya Jama is back to host her first summer series, with the villa once again set in Mallorca. With new arrivals, heads may turn, while others will prove their true feelings. From romance and heart-to-hearts, to betrayal, bombshells and broken hearts, there's never a dull moment in the ultimate search for love.",
+      "poster_path": "/l7Q7eX9C6Pd424ViexiWFg97ReI.jpg",
+      "season_number": 10,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2024-06-03",
+      "episode_count": 57,
+      "id": 396010,
+      "name": "Series 11",
+      "overview": "",
+      "poster_path": "/neoKbXXnsXcT6oQjTVqE0MoMXuX.jpg",
+      "season_number": 11,
+      "vote_average": 3.3
+    },
+    {
+      "air_date": "2025-06-09",
+      "episode_count": 57,
+      "id": 451295,
+      "name": "Series 12",
+      "overview": "",
+      "poster_path": "/mTgPhRIkUF1omB5JzUKwxcVEpvU.jpg",
+      "season_number": 12,
+      "vote_average": 1.4
+    },
+    {
+      "air_date": "2026-06-01",
+      "episode_count": 57,
+      "id": 513564,
+      "name": "Series 13",
+      "overview": "Heading to sun-drenched Mallorca for the ultimate game of love, a brand-new batch of Islanders must couple up or clear out as they dive headfirst into a summer of twists, turns, and tests - all in pursuit of finding a connection.",
+      "poster_path": "/rjcwohUPvM5H5UtGIuJCm2p7xhB.jpg",
+      "season_number": 13,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "It is what it is.",
+  "type": "Reality",
+  "vote_average": 5.736,
+  "vote_count": 142,
+  "external_ids": {
+    "id": 66636,
+    "imdb_id": "tt4770018",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 296669,
+    "tvrage_id": 49318,
+    "wikidata_id": "Q20058639",
+    "facebook_id": "LoveIslandITV2",
+    "instagram_id": "loveisland",
+    "twitter_id": "LoveIsland"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "adult": false,
+  "backdrop_path": "/nym3HFrdw51bK15s9nlok6jcfts.jpg",
+  "created_by": [
+    {
+      "id": 1245998,
+      "credit_id": "52583bf7760ee36aaa9a485c",
+      "name": "Arik Zilberman",
+      "original_name": "Arik Zilberman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1241900,
+      "credit_id": "52583bf7760ee36aaa9a4868",
+      "name": "Yoav Tzafir",
+      "original_name": "Yoav Tzafir",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245997,
+      "credit_id": "52583bf7760ee36aaa9a4862",
+      "name": "Ruby Duenyas",
+      "original_name": "Ruby Duenyas",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2003-07-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 15969,
+  "in_production": false,
+  "languages": [
+    "he"
+  ],
+  "last_air_date": "2015-02-15",
+  "last_episode_to_air": {
+    "id": 1409927,
+    "name": "Episode 25",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-02-15",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 9,
+    "show_id": 15969,
+    "still_path": null
+  },
+  "name": "HaPijamot",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 652,
+      "logo_path": "/oAvXUCqp03ZYqfwokrCbce2EG2F.png",
+      "name": "Arutz HaYeladim",
+      "origin_country": "IL"
+    }
+  ],
+  "number_of_episodes": 223,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "he",
+  "original_name": "הפיג'מות",
+  "overview": "HaPijamot is a sitcom about a struggling band determined to make it in the real world.",
+  "popularity": 12.796,
+  "poster_path": "/2C6wN5mgPc7H0yy3x4q5qGdfkZz.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-07-01",
+      "episode_count": 23,
+      "id": 27394,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2faPoxkCpK3CwRczyu0bQFkaquA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-28",
+      "episode_count": 19,
+      "id": 27393,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/32ndUiAdXBqCxi2IKjJhNTcLhuB.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-07-01",
+      "episode_count": 20,
+      "id": 27396,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/ofBJOcnAokYQsbupCZxoLtCotJz.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-13",
+      "episode_count": 25,
+      "id": 27399,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/pAe3smieWCGphGnRraVOp355Tln.jpg",
+      "season_number": 4,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 36,
+      "id": 27398,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/dLVZwljis7CpNM8pkvxbRkKnvjV.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-01",
+      "episode_count": 25,
+      "id": 27397,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/niz2Fmya77rQwuAhMRRxwHMv2QJ.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-01",
+      "episode_count": 25,
+      "id": 27395,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/vVEZJNo1uOd8MpZUYO1T8E7ETWV.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-05-19",
+      "episode_count": 25,
+      "id": 27392,
+      "name": "Season 8",
+      "overview": "The eighth season of the television series HaPijamot was originally broadcast on Arutz HaYeladim in Israel.",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 25,
+      "id": 96918,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/d95EOWzeL3XsG2Ly27ljnd7k0GC.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 15969,
+    "imdb_id": "tt0928368",
+    "freebase_mid": "/m/03mb8d8",
+    "freebase_id": "/en/hapijamot",
+    "tvdb_id": 85157,
+    "tvrage_id": null,
+    "wikidata_id": "Q3924618",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": "/mp4n7IkJIvgaslc8MlCkYE5bnQ0.jpg",
+  "created_by": [
+    {
+      "id": 2709377,
+      "credit_id": "685133b1f6af0ebc38e7b827",
+      "name": "Filip Bobiňski",
+      "original_name": "Filip Bobiňski",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1403990,
+      "credit_id": "685133b9a9c437a5f96ae991",
+      "name": "Rudolf Merkner",
+      "original_name": "Rudolf Merkner",
+      "gender": 2,
+      "profile_path": "/j2htQRXLRSXhYEBLtVj7J3bQcxH.jpg"
+    },
+    {
+      "id": 2709376,
+      "credit_id": "685133bf75be389621065cd4",
+      "name": "Petr Šizling",
+      "original_name": "Petr Šizling",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    52
+  ],
+  "first_air_date": "2009-08-31",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.ceskatelevize.cz/porady/10195164142-vypravej/",
+  "id": 50838,
+  "in_production": false,
+  "languages": [
+    "en",
+    "cs",
+    "sk"
+  ],
+  "last_air_date": "2013-06-14",
+  "last_episode_to_air": {
+    "id": 1802983,
+    "name": "Episode 22",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-06-14",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 5,
+    "show_id": 50838,
+    "still_path": "/aIZs84eTKD0JL54jldBSKlbOeGX.jpg"
+  },
+  "name": "Vyprávěj",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 632,
+      "logo_path": "/4fuYKKu4XvCIgFh7Sg2j8Uzgjmv.png",
+      "name": "ČT1",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 106,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Vyprávěj",
+  "overview": "Set in Czechoslovakia, the drama follows the lives of its characters against the backdrop of real historical events that shape their personal stories. To evoke period atmosphere, the series intersperses authentic clips from vintage Czechoslovak film newsreels, using their original commentaries or newly recorded historical voice-overs by Vladimír Fišer. A narrator, initially voiced by Vojtěch Kotek and later by Matěj Hádek, provides continuity and reflection, guiding viewers through changing times. Under the guidance of screenwriter Rudolf Merkner, each episode’s script weaves family and individual dramas into key moments of Czech and Slovak history: political shifts, cultural trends, and social transformations from the 1960s onward.",
+  "popularity": 13.883,
+  "poster_path": "/51xpsF2a5VGWmMaUueHhkVFnDXM.jpg",
+  "production_companies": [
+    {
+      "id": 487,
+      "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 29287,
+      "logo_path": null,
+      "name": "Dramedy Productions",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-08-28",
+      "episode_count": 17,
+      "id": 125154,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 26,
+      "id": 62190,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uFmQTWP9dbw3jzvTdncykHeQB9M.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2010-09-03",
+      "episode_count": 16,
+      "id": 62191,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8butdJtQLh382RKcrJOeucBLSCI.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-09",
+      "episode_count": 26,
+      "id": 62192,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/v7OBrp9Ar7Lk9EpwDsGFhpkXPEg.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-07",
+      "episode_count": 16,
+      "id": 62193,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/vyNpGoKv9u3Z0q404nCX7D2k5cQ.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-18",
+      "episode_count": 22,
+      "id": 62194,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/fwnWQ7NnFOnXn20A0MGRi8a6MVL.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 50838,
+    "imdb_id": "tt1741649",
+    "freebase_mid": "/m/0vsydhy",
+    "freebase_id": null,
+    "tvdb_id": 116091,
+    "tvrage_id": null,
+    "wikidata_id": "Q11946199",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

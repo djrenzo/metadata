@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/vFIPUxlfCEBDCodOtgu22N8pbjG.jpg",
+  "created_by": [
+    {
+      "id": 1889132,
+      "credit_id": "59bd589ac3a3681b15013faa",
+      "name": "Maria João Costa",
+      "original_name": "Maria João Costa",
+      "gender": 1,
+      "profile_path": "/pjQfWaKnJdLEQOIjmNniAVOu76g.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2017-01-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.tvi.iol.pt/ouroverde/",
+  "id": 69692,
+  "in_production": false,
+  "languages": [
+    "pt",
+    "es"
+  ],
+  "last_air_date": "2017-10-26",
+  "last_episode_to_air": {
+    "id": 6793424,
+    "name": "Episode 241",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-10-26",
+    "episode_number": 241,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 69692,
+    "still_path": null
+  },
+  "name": "Ouro Verde",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 241,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT",
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Ouro Verde",
+  "overview": "Zé Maria Magalhães is an innocent young man who, suddenly, sees his dreams and family destroyed by a man's greed: Miguel Ferreira da Fonseca, a powerful banker. For 15 years, Zé Maria is forced to remain hidden, in a life of lies, in another country, imprisoned by the memories of the past, having to assume a new identity. Today, he is a great farmer, owner of the Ouro Verde empire, known as Jorge Monforte, and has become one of the richest men in Brazil. The course of time only fueled his desire for revenge, making him lose the sense of right and wrong and the ability to love. Fifteen years later, he returns to Portugal, ready to avenge the past and destroy Miguel Ferreira da Fonseca.",
+  "popularity": 11.468,
+  "poster_path": "/2hJN6OVo8FL0C9mXl3DJ3uM96Sj.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 241,
+      "id": 83979,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xgEpF8JW0o91mqygYJ8JO50P1BH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 69692,
+    "imdb_id": "tt6183736",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 321707,
+    "tvrage_id": null,
+    "wikidata_id": "Q28546187",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

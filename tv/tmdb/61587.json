@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/b3Zsa2rYiDNY5egNhGf7YLoK3kU.jpg",
+  "created_by": [
+    {
+      "id": 12219,
+      "credit_id": "545a2fbe0e0a26116f0040c1",
+      "name": "Jon Stewart",
+      "original_name": "Jon Stewart",
+      "gender": 2,
+      "profile_path": "/vb3o1WmC21HYMPktM7hT2eV390J.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2015-01-19",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "http://www.cc.com/shows/the-nightly-show",
+  "id": 61587,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-08-18",
+  "last_episode_to_air": {
+    "id": 6901193,
+    "name": "Jon Stewart",
+    "overview": "The Nightly Show wraps up with a surprise visit from Jon Stewart and a retrospective chat between Larry and his contributors.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-08-18",
+    "episode_number": 147,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 61587,
+    "still_path": null
+  },
+  "name": "The Nightly Show with Larry Wilmore",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 259,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Nightly Show with Larry Wilmore",
+  "overview": "The Nightly Show provides viewers with Larry Wilmore's distinct point of view and comedic take on current events and pop culture. Hosted by Wilmore, the series features a diverse panel of voices, providing a perspective largely missing in the late night television landscape.",
+  "popularity": 13.207,
+  "poster_path": "/bZW6diC7eWIjqCsoJWEUiGvrnr4.jpg",
+  "production_companies": [
+    {
+      "id": 8290,
+      "logo_path": null,
+      "name": "Busboy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-19",
+      "episode_count": 112,
+      "id": 63374,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2015-09-28",
+      "episode_count": 147,
+      "id": 71111,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 6.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.814,
+  "vote_count": 35,
+  "external_ids": {
+    "id": 61587,
+    "imdb_id": "tt3722332",
+    "freebase_mid": "/m/010h9sxd",
+    "freebase_id": null,
+    "tvdb_id": 286373,
+    "tvrage_id": 42474,
+    "wikidata_id": "Q17109379",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

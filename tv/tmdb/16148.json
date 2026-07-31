@@ -1,0 +1,353 @@
+{
+  "adult": false,
+  "backdrop_path": "/m5BZxkB2QIima7jN8gqWDyemJmS.jpg",
+  "created_by": [
+    {
+      "id": 3203128,
+      "credit_id": "611d512b2dc44e005c6461e3",
+      "name": "Bruno Raes",
+      "original_name": "Bruno Raes",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1873927,
+      "credit_id": "6437a71c4a52f801138c6a1b",
+      "name": "Willy Vanduren",
+      "original_name": "Willy Vanduren",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245154,
+      "credit_id": "6437a70781a7fc0127710a0b",
+      "name": "Luc Beerten",
+      "original_name": "Luc Beerten",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    33
+  ],
+  "first_air_date": "1990-10-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.vrt.be/vrtnu/a-z/fc-de-kampioenen/",
+  "id": 16148,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2011-02-26",
+  "last_episode_to_air": {
+    "id": 545343,
+    "name": "De mooiste dag",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-02-26",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 21,
+    "show_id": 16148,
+    "still_path": "/yvfCPhoWJ77Ys9Mu6lb3WxAGbOe.jpg"
+  },
+  "name": "F.C. De Kampioenen",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1028,
+      "logo_path": "/nlcRu8gGckTe83evTTtwbM3SCYz.png",
+      "name": "VRT 1",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 273,
+  "number_of_seasons": 21,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "F.C. De Kampioenen",
+  "overview": "F.C. De Kampioenen, was a long-running Flemish sitcom chronicling the adventures of a fictional local football team. It aired on the Belgian-Flemish channel één between 1990 and 2011, for 21 seasons with 273 half-hour long episodes, making it one of the most successful comedy programs ever on Belgian television. In 2009 a film had been planned, but has since been cancelled following complaints by the actors about the script. In 2012 the crew announced a new script was written and a movie will be produced. The movie is to be released in December 2013.\n\nThe series relies heavily on stereotypical characters and farce for its humour. The story is mainly set around a few members of the football club who regularly visit the club canteen before or after a soccer training or match. The canteen is run by Pascale, who is in a relationship with Maurice. The football club is sponsored by the owner of a sausage factory, Balthazar Boma. Next to the field is an antiques shop, owned by the fraudulent Fernand. Most of the episodes are based on misunderstandings or dirty tricks from Fernand.",
+  "popularity": 13.5108,
+  "poster_path": "/uTeYZROkyHI9aZaoSTrisq6ZMgy.jpg",
+  "production_companies": [
+    {
+      "id": 12025,
+      "logo_path": "/sLVmKLJ2E0KSsfKiIYDjo4v6Y5l.png",
+      "name": "VRT",
+      "origin_country": "BE"
+    },
+    {
+      "id": 7610,
+      "logo_path": "/ojljYVHyZppdvGr021Cd2jbZ90v.png",
+      "name": "Eén",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-12-25",
+      "episode_count": 6,
+      "id": 27506,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bmDMDKbAlsBJqbgWh1DjdXGnC4V.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-06",
+      "episode_count": 13,
+      "id": 27485,
+      "name": "Reeks 1",
+      "overview": "",
+      "poster_path": "/2NnYSI9LTlLYFjcL4NTCGTmo6yb.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-10-05",
+      "episode_count": 13,
+      "id": 27486,
+      "name": "Reeks 2",
+      "overview": "",
+      "poster_path": "/a6z2LK8OLqDtOxttssW99PRtUaY.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-10-10",
+      "episode_count": 13,
+      "id": 27487,
+      "name": "Reeks 3",
+      "overview": "",
+      "poster_path": "/onexPCnrPpx1LmFkj8Pvnht1MpX.jpg",
+      "season_number": 3,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "1993-10-02",
+      "episode_count": 13,
+      "id": 27488,
+      "name": "Reeks 4",
+      "overview": "",
+      "poster_path": "/lcGE4set9V1avfEzUCYt7uApewO.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-12-03",
+      "episode_count": 13,
+      "id": 27489,
+      "name": "Reeks 5",
+      "overview": "",
+      "poster_path": "/n8oAK2BFRJVi03k5kWrc2qQx5WT.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-12-02",
+      "episode_count": 13,
+      "id": 27490,
+      "name": "Reeks 6",
+      "overview": "",
+      "poster_path": "/n8oAK2BFRJVi03k5kWrc2qQx5WT.jpg",
+      "season_number": 6,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1996-12-07",
+      "episode_count": 13,
+      "id": 27491,
+      "name": "Reeks 7",
+      "overview": "",
+      "poster_path": "/vdmBo8Q2xSLx7mQfNJVhLg5r5bG.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-06",
+      "episode_count": 13,
+      "id": 27492,
+      "name": "Reeks 8",
+      "overview": "",
+      "poster_path": "/bVNC786M3sKOSCnAkFLcpeaSdlE.jpg",
+      "season_number": 8,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1998-11-28",
+      "episode_count": 13,
+      "id": 27493,
+      "name": "Reeks 9",
+      "overview": "",
+      "poster_path": "/vnGbwBbPRjENNWO5rlToMx1Yv0P.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-11-27",
+      "episode_count": 13,
+      "id": 27494,
+      "name": "Reeks 10",
+      "overview": "",
+      "poster_path": "/crYjCDBN7hXfZ0K4p5mLEZZR1Vp.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-02",
+      "episode_count": 13,
+      "id": 27495,
+      "name": "Reeks 11",
+      "overview": "",
+      "poster_path": "/e6hwDwpx7WFfsf8cIfOotRiYEpK.jpg",
+      "season_number": 11,
+      "vote_average": 1.3
+    },
+    {
+      "air_date": "2001-12-08",
+      "episode_count": 13,
+      "id": 27496,
+      "name": "Reeks 12",
+      "overview": "",
+      "poster_path": "/dH1QlJGKGCfcrtpj1mqDw2V8ODq.jpg",
+      "season_number": 12,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2002-12-07",
+      "episode_count": 13,
+      "id": 27497,
+      "name": "Reeks 13",
+      "overview": "",
+      "poster_path": "/eDJvrdzBMfU770eUwaD8TkXq2l3.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-12-06",
+      "episode_count": 13,
+      "id": 27498,
+      "name": "Reeks 14",
+      "overview": "",
+      "poster_path": "/cT4evxroyogsuFFWO8CpXRjBZ2B.jpg",
+      "season_number": 14,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2004-12-04",
+      "episode_count": 13,
+      "id": 27499,
+      "name": "Reeks 15",
+      "overview": "",
+      "poster_path": "/aI97RJ0ESYQtlvyQANKHsEObVTM.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-12-03",
+      "episode_count": 13,
+      "id": 27500,
+      "name": "Reeks 16",
+      "overview": "",
+      "poster_path": "/2zPvrl4DWst0gX6SgnUjECsHjCU.jpg",
+      "season_number": 16,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2006-12-16",
+      "episode_count": 13,
+      "id": 27501,
+      "name": "Reeks 17",
+      "overview": "",
+      "poster_path": "/iltV7upV3W3EzbrNodrgojp6kpF.jpg",
+      "season_number": 17,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2007-12-15",
+      "episode_count": 13,
+      "id": 27502,
+      "name": "Reeks 18",
+      "overview": "",
+      "poster_path": "/keeaPKw382JSBkQdbVUZCBUwiED.jpg",
+      "season_number": 18,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2008-12-13",
+      "episode_count": 13,
+      "id": 27503,
+      "name": "Reeks 19",
+      "overview": "",
+      "poster_path": "/sqlYjK9pX61rkTYBvaLaEFqdfml.jpg",
+      "season_number": 19,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2009-12-19",
+      "episode_count": 13,
+      "id": 27504,
+      "name": "Reeks 20",
+      "overview": "",
+      "poster_path": "/bzo0U2pCbfM9XNyFXv9fNkG2jOB.jpg",
+      "season_number": 20,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2010-12-04",
+      "episode_count": 13,
+      "id": 27505,
+      "name": "Reeks 21",
+      "overview": "",
+      "poster_path": "/4sOuYU4dhqeZhrHBShxM1n4SgMW.jpg",
+      "season_number": 21,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.412,
+  "vote_count": 17,
+  "external_ids": {
+    "id": 16148,
+    "imdb_id": "tt0149453",
+    "freebase_mid": "/m/0fjcm0",
+    "freebase_id": "/en/f_c_de_kampioenen",
+    "tvdb_id": 110641,
+    "tvrage_id": null,
+    "wikidata_id": "Q2689565",
+    "facebook_id": "fcdekampioenenfan",
+    "instagram_id": "fcdktv",
+    "twitter_id": null
+  }
+}

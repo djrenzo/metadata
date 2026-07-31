@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/p1P4AorMMSdfsekTBbWVTeSxNVj.jpg",
+  "created_by": [
+    {
+      "id": 2076483,
+      "credit_id": "623b76a335c30a008e8604f9",
+      "name": "Jaqueline Vargas",
+      "original_name": "Jaqueline Vargas",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1245039,
+      "credit_id": "623b766da1c59d005dceed72",
+      "name": "Patrícia Moretzsohn",
+      "original_name": "Patrícia Moretzsohn",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1222861,
+      "credit_id": "6a556675a3d88c9b9b886c73",
+      "name": "Cris Morena",
+      "original_name": "Cris Morena",
+      "gender": 1,
+      "profile_path": "/msgzhmInpcEuLXqgZrajzWNr5VA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2005-04-04",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 195859,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2006-08-11",
+  "last_episode_to_air": {
+    "id": 3749032,
+    "name": "Episode 174",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-08-11",
+    "episode_number": 174,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 195859,
+    "still_path": null
+  },
+  "name": "Floribella",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 887,
+      "logo_path": "/kHuLvD60gOsZXwiNHpv0H5Yb6ZF.png",
+      "name": "Band",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 344,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Floribella",
+  "overview": "Floribella is a Brazilian children's musical telenovela produced by RGB Entertainment and broadcast by Band from April 4, 2005, to August 12, 2006. It is an adaptation of the Argentine telenovela Floricienta (2004), created by Cris Morena. Adapted by Patrícia Moretzsohn and Jaqueline Vargas, with general direction by Elisabetta Zenatti, the telenovela stars Juliana Silveira, Roger Gobeth, Maria Carolina Ribeiro, Mário Frias, Suzy Rêgo, Daniel Ávila, and Cássia Linhares.\n\nThe story follows Maria Flor, a kind and optimistic young woman who becomes the nanny of the wealthy Fritzenwalden family's five orphaned children. With her cheerful personality and love of music, Flor transforms the household while falling in love with Frederico Fritzenwalden. As they face jealousy, family disputes, and the schemes of the ambitious Delfina, Flor uncovers secrets about her past and learns that courage, friendship, and hope can overcome even the greatest challenges.",
+  "popularity": 12.2973,
+  "poster_path": "/9u6dFJLOhWQ9SKMRqc6O2AEU1YN.jpg",
+  "production_companies": [
+    {
+      "id": 119581,
+      "logo_path": null,
+      "name": "RGB Entertainment",
+      "origin_country": "AR"
+    },
+    {
+      "id": 85375,
+      "logo_path": "/62CSDhs9l1DmaSz9rHaai4LcXUP.png",
+      "name": "Band",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-04-04",
+      "episode_count": 170,
+      "id": 284639,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xZScwtRuGMv0OAThQTkgHeBUc5y.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-23",
+      "episode_count": 174,
+      "id": 284640,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/9u6dFJLOhWQ9SKMRqc6O2AEU1YN.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 195859,
+    "imdb_id": "tt0452720",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 314538,
+    "tvrage_id": null,
+    "wikidata_id": "Q1773556",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

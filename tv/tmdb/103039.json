@@ -1,0 +1,241 @@
+{
+  "adult": false,
+  "backdrop_path": "/48NHRT7WmkEKnS0xBMgi229U4B2.jpg",
+  "created_by": [
+    {
+      "id": 1650967,
+      "credit_id": "5ec46d2a6dea3a001df89d4b",
+      "name": "Etienne Gardé",
+      "original_name": "Etienne Gardé",
+      "gender": 2,
+      "profile_path": "/kxctuLezx0xTkzCwjx1IkfrkZQI.jpg"
+    },
+    {
+      "id": 1697940,
+      "credit_id": "5ec46d4ae635710022cabea4",
+      "name": "Daniel Schröckert",
+      "original_name": "Daniel Schröckert",
+      "gender": 2,
+      "profile_path": "/gB70FAk0BRSFMfsJU4XXyNrUGuc.jpg"
+    },
+    {
+      "id": 3819739,
+      "credit_id": "63908f5ef36a3200b45ee895",
+      "name": "Antje Wessels",
+      "original_name": "Antje Wessels",
+      "gender": 1,
+      "profile_path": "/hdAb4CMmftjU3MiwjrUdY7gPDma.jpg"
+    },
+    {
+      "id": 1495583,
+      "credit_id": "63908f8210561100b5a7d565",
+      "name": "Andreas Bardét",
+      "original_name": "Andreas Bardét",
+      "gender": 2,
+      "profile_path": "/qkkIZcMKglNgm6otfK9dd5IIe3c.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2014-02-14",
+  "genres": [],
+  "homepage": "https://www.youtube.com/channel/UCSPhBkVTeztDGsz9-rdsNvw",
+  "id": 103039,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-06-01",
+  "last_episode_to_air": {
+    "id": 4501652,
+    "name": "Episode 436",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-06-01",
+    "episode_number": 436,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 130,
+    "season_number": 10,
+    "show_id": 103039,
+    "still_path": null
+  },
+  "name": "Kino Plus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1231,
+      "logo_path": "/2AKqhclvu2XUFgYu79YN6I1nk0d.png",
+      "name": "Twitch",
+      "origin_country": ""
+    },
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 2797,
+      "logo_path": "/iH3nusZNkYn8lXPCZHKCS4pXrlc.png",
+      "name": "Rocket Beans TV",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 436,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Kino Plus",
+  "overview": "",
+  "popularity": 13.0011,
+  "poster_path": "/tVf8t81sHxlU0Gxz83VEdptZTPS.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-02-23",
+      "episode_count": 1,
+      "id": 528834,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-14",
+      "episode_count": 41,
+      "id": 149954,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 52,
+      "id": 319214,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 47,
+      "id": 319243,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 46,
+      "id": 319244,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 48,
+      "id": 319245,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 48,
+      "id": 319246,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 44,
+      "id": 319247,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 45,
+      "id": 319248,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 46,
+      "id": 319249,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-12",
+      "episode_count": 19,
+      "id": 340201,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 103039,
+    "imdb_id": "tt14622282",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 300335,
+    "tvrage_id": null,
+    "wikidata_id": "Q63616645",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

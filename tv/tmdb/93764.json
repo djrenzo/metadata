@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/a12kkYmcQZRZeUVpjYdpFwcOGVP.jpg",
+  "created_by": [
+    {
+      "id": 1260490,
+      "credit_id": "60a2486600bfe80079bfb23c",
+      "name": "Maria Georgiadou",
+      "original_name": "Μαρία Γεωργιάδου",
+      "gender": 1,
+      "profile_path": "/c2gEu3yAZAmnRLWbwz6TNL7YQMP.jpg"
+    },
+    {
+      "id": 5456816,
+      "credit_id": "6830589db8500c9085eb23b1",
+      "name": "Constantine Ganosis",
+      "original_name": "Constantine Ganosis",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-09-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.antenna.gr/gynaikaxwrisonoma",
+  "id": 93764,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2020-07-10",
+  "last_episode_to_air": {
+    "id": 2957332,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-07-10",
+    "episode_number": 160,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 93764,
+    "still_path": null
+  },
+  "name": "Γυναίκα Χωρίς Όνομα",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    },
+    {
+      "id": 4924,
+      "logo_path": "/6Y6E2q7IyY5IEdbZ9t8jM5jxFsB.png",
+      "name": "Alpha Cyprus",
+      "origin_country": "CY"
+    }
+  ],
+  "number_of_episodes": 348,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Γυναίκα Χωρίς Όνομα",
+  "overview": "Two women fight till the end for the life they have stolen from them",
+  "popularity": 10.2866,
+  "poster_path": "/xBvdUKWI9bGIYdbpSw9Pqhj7Lof.jpg",
+  "production_companies": [
+    {
+      "id": 140827,
+      "logo_path": null,
+      "name": "Pedio Productions",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-17",
+      "episode_count": 188,
+      "id": 132605,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dAiptHooVXWbK4EkqF0kJMTHuq2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 160,
+      "id": 195565,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qpruU9QNFbOBBsCtVZwjJvQ3ttZ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 93764,
+    "imdb_id": "tt9030514",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q58003496",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

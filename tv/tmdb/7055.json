@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/oXKJjNJRmS3g96Sz1nyu6fDRxIw.jpg",
+  "created_by": [
+    {
+      "id": 1326703,
+      "credit_id": "67cf43d9ff1a840b99113475",
+      "name": "Bráulio Pedroso",
+      "original_name": "Bráulio Pedroso",
+      "gender": 2,
+      "profile_path": "/eJBUiqVCRkzVqfKlenJxQZIQ1jB.jpg"
+    },
+    {
+      "id": 1256264,
+      "credit_id": "67f6f900cce7690230acfdf0",
+      "name": "Cassiano Gabus Mendes",
+      "original_name": "Cassiano Gabus Mendes",
+      "gender": 2,
+      "profile_path": "/wGjr6Rb4Vi0mPAwtSZP1TB50lyF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1968-11-04",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 7055,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1969-11-30",
+  "last_episode_to_air": {
+    "id": 6039146,
+    "name": "Episode 281",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1969-11-30",
+    "episode_number": 281,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 7055,
+    "still_path": null
+  },
+  "name": "Albert, the Rockefeller",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3053,
+      "logo_path": "/moVF4LeI4lv2tCvqe7J6h3KRY98.png",
+      "name": "TV Tupi",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 281,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Beto Rockfeller",
+  "overview": "Albert, the Rockefeller is a Brazilian telenovela produced by TV Tupi and aired from November 4, 1968 to November 30, 1969. It was created by Cassiano Gabus Mendes, written by Bráulio Pedroso and directed by Lima Duarte and Walter Avancini.",
+  "popularity": 13.0439,
+  "poster_path": "/iNqnQCKRTfVQOGNuJJQ9xdtrct1.jpg",
+  "production_companies": [
+    {
+      "id": 69529,
+      "logo_path": null,
+      "name": "Rede Tupi",
+      "origin_country": ""
+    },
+    {
+      "id": 83040,
+      "logo_path": "/hYyMxPniIu9xdQ1Q5Q9XsqG4tS1.png",
+      "name": "TV Tupi",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1968-11-04",
+      "episode_count": 281,
+      "id": 445811,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.5,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 7055,
+    "imdb_id": "tt0147748",
+    "freebase_mid": "/m/03mcpnx",
+    "freebase_id": "/en/beto_rockfeller",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q4898167",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

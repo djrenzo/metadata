@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1785394,
+      "credit_id": "67884421947b19f78b97663f",
+      "name": "Manuel Arouca",
+      "original_name": "Manuel Arouca",
+      "gender": 2,
+      "profile_path": "/1jOsFzmdfZRCQiwnnsBSvM6BuwU.jpg"
+    },
+    {
+      "id": 3447715,
+      "credit_id": "6788442879cf13ee41ad09c7",
+      "name": "Tomás Murias",
+      "original_name": "Tomás Murias",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1756151,
+      "credit_id": "6788442e947b19f78b976662",
+      "name": "António Barreira",
+      "original_name": "António Barreira",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2014-09-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://tviplayer.iol.pt/programa/jardins-proibidos/6489d94cd34ef47b8754e6d9/t2",
+  "id": 282151,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2015-10-02",
+  "last_episode_to_air": {
+    "id": 5906864,
+    "name": "Episode 304",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-10-02",
+    "episode_number": 304,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 282151,
+    "still_path": null
+  },
+  "name": "Jardins Proibidos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 308,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Jardins Proibidos",
+  "overview": "",
+  "popularity": 12.7377,
+  "poster_path": "/8O8lbSPmkgV3VUgNmLQNvt0bDYb.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-08",
+      "episode_count": 308,
+      "id": 438174,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 282151,
+    "imdb_id": "tt3845898",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

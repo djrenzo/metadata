@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/y8DjXCsyKFL1Ff0zGtpKIQ2MtoL.jpg",
+  "created_by": [
+    {
+      "id": 1236320,
+      "credit_id": "6202b77f924ce500687d8ee2",
+      "name": "Patrick Macmanus",
+      "original_name": "Patrick Macmanus",
+      "gender": 2,
+      "profile_path": "/mxS6WAfw78FpdUulpFsEjGUG3CB.jpg"
+    },
+    {
+      "id": 2980680,
+      "credit_id": "658540f398f1f152630a74ad",
+      "name": "Ashley Michel Hoban",
+      "original_name": "Ashley Michel Hoban",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-07-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.peacocktv.com/stream-tv/dr-death",
+  "id": 93749,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-12-21",
+  "last_episode_to_air": {
+    "id": 4046105,
+    "name": "Surgeons, Bachelors and Butchers",
+    "overview": "The doctors in Sweden defend their findings to the Karolinska board, and their report leaks to the press. Benita’s colleague publishes the story of Paolo’s deception and misconduct. Swedish authorities make a decision about Macchiarini’s case.",
+    "vote_average": 6.2,
+    "vote_count": 4,
+    "air_date": "2023-12-21",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 2,
+    "show_id": 93749,
+    "still_path": "/tIi7Kmwg1sW5cLhUaX8jRdAh2k5.jpg"
+  },
+  "name": "Dr. Death",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3353,
+      "logo_path": "/gIAcGTjKKr0KOHL5s4O36roJ8p7.png",
+      "name": "Peacock",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dr. Death",
+  "overview": "An anthology series, with each season following a new medical true crime story.",
+  "popularity": 15.3057,
+  "poster_path": "/pNnmxTSc2ixac4xk8T80wchec0r.jpg",
+  "production_companies": [
+    {
+      "id": 7938,
+      "logo_path": "/8I52qpy2Dp48gD9Jf6W1D6E7Imo.png",
+      "name": "UCP",
+      "origin_country": "US"
+    },
+    {
+      "id": 1423,
+      "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+      "name": "Escape Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 158302,
+      "logo_path": null,
+      "name": "Littleton Road Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 158303,
+      "logo_path": "/5moUKtjrLuFa27rh0WxHJgc9m9Q.png",
+      "name": "Wondery",
+      "origin_country": "US"
+    },
+    {
+      "id": 216602,
+      "logo_path": null,
+      "name": "Mama Michel Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-07-15",
+      "episode_count": 8,
+      "id": 132588,
+      "name": "Season 1",
+      "overview": "The terrifying true story of Dr. Christopher Duntsch, a flourishing Dallas neurosurgeon whose patients suddenly begin becoming permanently maimed or dead. As victims piled up, two fellow physicians set out to stop him.",
+      "poster_path": "/XLjYbCVoqARQ34meU3STWY9Tsx.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2023-12-21",
+      "episode_count": 8,
+      "id": 315721,
+      "name": "Season 2",
+      "overview": "Season 2 follows “Miracle Man” Paolo Macchiarini, a charming surgeon renowned for his innovative operations. When investigative journalist Benita Alexander approaches him for a story, the line between personal and professional begins to blur, changing her life forever. As she learns how far Paolo will go to protect his secrets, a group of doctors halfway across the world make shocking discoveries of their own that call everything about Paolo into question.",
+      "poster_path": "/pNnmxTSc2ixac4xk8T80wchec0r.jpg",
+      "season_number": 2,
+      "vote_average": 6.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "New doctor. New story.",
+  "type": "Scripted",
+  "vote_average": 7.249,
+  "vote_count": 217,
+  "external_ids": {
+    "id": 93749,
+    "imdb_id": "tt9179552",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 371929,
+    "tvrage_id": null,
+    "wikidata_id": "Q85757580",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

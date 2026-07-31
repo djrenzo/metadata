@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1215602,
+      "credit_id": "5d30d110caab6d0b299ffe72",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2002-06-30",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 31019,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2005-07-03",
+  "last_episode_to_air": {
+    "id": 1993505,
+    "name": "Episode 64",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-07-03",
+    "episode_number": 64,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 5,
+    "show_id": 31019,
+    "still_path": null
+  },
+  "name": "Big Brother VIP Mexico",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 274,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Big Brother VIP Mexico",
+  "overview": "",
+  "popularity": 12.2746,
+  "poster_path": "/wlDg6qVoi8BcdeEfvvvzhYWf9SG.jpg",
+  "production_companies": [
+    {
+      "id": 120894,
+      "logo_path": null,
+      "name": "Endemol",
+      "origin_country": "MX"
+    },
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-06-30",
+      "episode_count": 29,
+      "id": 127973,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-28",
+      "episode_count": 65,
+      "id": 127974,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-16",
+      "episode_count": 64,
+      "id": 128005,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-05-16",
+      "episode_count": 52,
+      "id": 128007,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-05-01",
+      "episode_count": 64,
+      "id": 128008,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.2,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 31019,
+    "imdb_id": "tt0326671",
+    "freebase_mid": "/m/05lhdn",
+    "freebase_id": "/en/big_brother_vip",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

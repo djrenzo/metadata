@@ -1,0 +1,371 @@
+{
+  "adult": false,
+  "backdrop_path": "/2uZaixbDVAv8FP0Csx81cXKsa7T.jpg",
+  "created_by": [
+    {
+      "id": 3190355,
+      "credit_id": "610f368b9ac53500743d2e03",
+      "name": "Philip Kampff",
+      "original_name": "Philip Kampff",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3190358,
+      "credit_id": "610f36a47719d700457e1d94",
+      "name": "Andy Ruane",
+      "original_name": "Andy Ruane",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1997-01-17",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 31096,
+  "in_production": false,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2020-03-01",
+  "last_episode_to_air": {
+    "id": 3113563,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-03-01",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 25,
+    "show_id": 31096,
+    "still_path": null
+  },
+  "name": "Så ska det låta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 262,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Så ska det låta",
+  "overview": "Så ska det låta is a Swedish game show, based on the Irish The Lyrics Board. The show was introduced in 1997 and led by Peter Harryson until Peter Settman took over in 2006.\n\nSå ska det låta can be watched online at svt play for approximately one month after airing.",
+  "popularity": 13.568,
+  "poster_path": "/vz9w8YijoH6SvZ9Vvg67igSFmNW.jpg",
+  "production_companies": [
+    {
+      "id": 158701,
+      "logo_path": null,
+      "name": "MTV Mastiff",
+      "origin_country": ""
+    },
+    {
+      "id": 160930,
+      "logo_path": "/8iBZlnXKqpjK7ugZ79VhAztd723.png",
+      "name": "Mastiff",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-01-17",
+      "episode_count": 12,
+      "id": 42671,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-11-21",
+      "episode_count": 9,
+      "id": 42672,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-03-20",
+      "episode_count": 10,
+      "id": 42673,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-02-12",
+      "episode_count": 10,
+      "id": 42674,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-11-26",
+      "episode_count": 10,
+      "id": 42675,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-06",
+      "episode_count": 10,
+      "id": 42676,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-11",
+      "episode_count": 11,
+      "id": 42678,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-17",
+      "episode_count": 10,
+      "id": 42677,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-16",
+      "episode_count": 10,
+      "id": 42679,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-28",
+      "episode_count": 10,
+      "id": 42680,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-03-03",
+      "episode_count": 12,
+      "id": 42681,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-19",
+      "episode_count": 12,
+      "id": 42682,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-29",
+      "episode_count": 12,
+      "id": 42683,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-27",
+      "episode_count": 12,
+      "id": 42684,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-19",
+      "episode_count": 12,
+      "id": 42685,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-03-18",
+      "episode_count": 12,
+      "id": 42686,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-22",
+      "episode_count": 12,
+      "id": 42687,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-12-23",
+      "episode_count": 12,
+      "id": 42688,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-12-15",
+      "episode_count": 12,
+      "id": 204925,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 12,
+      "id": 204928,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-16",
+      "episode_count": 8,
+      "id": 204929,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 8,
+      "id": 204930,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 8,
+      "id": 204931,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-13",
+      "episode_count": 8,
+      "id": 204961,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-12",
+      "episode_count": 8,
+      "id": 204962,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.286,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 31096,
+    "imdb_id": "tt0222635",
+    "freebase_mid": "/m/06_dss",
+    "freebase_id": "/en/sa_ska_det_lata",
+    "tvdb_id": 82663,
+    "tvrage_id": 18594,
+    "wikidata_id": "Q4352367",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

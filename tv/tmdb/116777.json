@@ -1,0 +1,204 @@
+{
+  "adult": false,
+  "backdrop_path": "/f6xIxps4FIfzrsU1vc5ClWhPIow.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2020-02-15",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.zjstv.com/zcloud/video/10240022.html",
+  "id": 116777,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-06-26",
+  "last_episode_to_air": {
+    "id": 7331751,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 107,
+    "season_number": 7,
+    "show_id": 116777,
+    "still_path": "/xxl6KbY6lmpSbcmnWsw79GwiNqk.jpg"
+  },
+  "name": "The Voice (The Treasured of China)",
+  "next_episode_to_air": {
+    "id": 7331752,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 116777,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 989,
+      "logo_path": "/iZWiAi7vnJjAoiFR6LUPAtYS7zR.png",
+      "name": "Zhejiang Television",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1330,
+      "logo_path": "/fNxBFqWr7eWEgNeBDvvCxsSItXx.png",
+      "name": "iQiyi",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2007,
+      "logo_path": "/6Lfll43wYG2eyereOBjpYFRSGs4.png",
+      "name": "Tencent Video",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 84,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "天赐的声音",
+  "overview": "",
+  "popularity": 11.7208,
+  "poster_path": "/xqVefZwWSe0Z0aLtzW1lAoC9WUU.jpg",
+  "production_companies": [
+    {
+      "id": 127897,
+      "logo_path": "/iZWiAi7vnJjAoiFR6LUPAtYS7zR.png",
+      "name": "Zhejiang Television",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-03-13",
+      "episode_count": 104,
+      "id": 294809,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/qLC0Yo5vueilOBTyR7K2iECjofc.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-15",
+      "episode_count": 12,
+      "id": 176755,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qWYNjzoVerShnLb3EjmHcqB9246.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-15",
+      "episode_count": 12,
+      "id": 176759,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/u43FCQMHmB9fc0DkpnuRxr9XOq6.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-11",
+      "episode_count": 12,
+      "id": 283987,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/jwHrFI3pWwqY4Vdagbg8eg2INnK.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-28",
+      "episode_count": 12,
+      "id": 338806,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/p6zoIe7YRqWWKpvp6bHsYu34COC.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-04-26",
+      "episode_count": 12,
+      "id": 390286,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/xqVefZwWSe0Z0aLtzW1lAoC9WUU.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-18",
+      "episode_count": 12,
+      "id": 451444,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/yVI2EBZ1T4jt36gHVTrYSj7qxCF.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-12",
+      "episode_count": 12,
+      "id": 519623,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/4CliDPWHNsqFm7MZb3E33iZ5F6z.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 116777,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

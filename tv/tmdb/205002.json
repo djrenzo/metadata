@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ZXBYjKCc7OyG1d4BY0Qubzrf62.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-06-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 205002,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-30",
+  "last_episode_to_air": {
+    "id": 3810273,
+    "name": "When America Flooded",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 205002,
+    "still_path": null
+  },
+  "name": "Surviving Earth",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Surviving Earth",
+  "overview": "Meet the bizarre, amazing and breathtaking creatures and landscapes of a vibrant lost world; and discover how life not only survived during the cataclysmic events of this prehistoric era, but thrived.",
+  "popularity": 13.303,
+  "poster_path": "/n5rV0z2cPJf7Sn7Io6VR0RzrShK.jpg",
+  "production_companies": [
+    {
+      "id": 95243,
+      "logo_path": "/oiMAvljl1t6RrlHa8KcTQShs1Uh.png",
+      "name": "Universal Television Alternative Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 177927,
+      "logo_path": "/48H6DDvc32wphjuXwWSZICalpcu.png",
+      "name": "Loud Minds",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-06-11",
+      "episode_count": 8,
+      "id": 298985,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/n5rV0z2cPJf7Sn7Io6VR0RzrShK.jpg",
+      "season_number": 1,
+      "vote_average": 9.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "8 epic extinctions. One thriving planet.",
+  "type": "Documentary",
+  "vote_average": 7.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 205002,
+    "imdb_id": "tt21157588",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 422455,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

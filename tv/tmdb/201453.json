@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/3dlElalEhX7rx5Izo636WdLTPTW.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2019-02-04",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 201453,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-01-30",
+  "last_episode_to_air": {
+    "id": 7583767,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 8,
+    "show_id": 201453,
+    "still_path": null
+  },
+  "name": "Sweet Tasks",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1631,
+      "logo_path": "/iE3rtBcUfWGiJosaZv2TroBxEZz.png",
+      "name": "Mango TV",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 315,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "甜蜜的任务",
+  "overview": "Taking look on the day-to-day work schedule of literary and art workers as the starting point, it uses the three stages of meeting, observation, and dialogue to demonstrate professionalism, moral character, and positive values. To promote the fighting spirit and creative spirit of professionals from all walks of life in a general way.",
+  "popularity": 12.7131,
+  "poster_path": "/1Z2srGbc1U4LBTybTozOgP1DwyT.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-02-04",
+      "episode_count": 49,
+      "id": 292807,
+      "name": "2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 52,
+      "id": 348921,
+      "name": "2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 32,
+      "id": 348922,
+      "name": "2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-30",
+      "episode_count": 43,
+      "id": 348923,
+      "name": "2022",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-29",
+      "episode_count": 49,
+      "id": 348924,
+      "name": "2023",
+      "overview": "",
+      "poster_path": "/1lyobuTLmI7vTkynqblMYldZtWg.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-21",
+      "episode_count": 50,
+      "id": 375254,
+      "name": "2024",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-09",
+      "episode_count": 35,
+      "id": 441548,
+      "name": "2025",
+      "overview": "",
+      "poster_path": "/1Z2srGbc1U4LBTybTozOgP1DwyT.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-02",
+      "episode_count": 6,
+      "id": 492202,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 201453,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

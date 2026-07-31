@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/qTrWyJL5fCRiUPHaqlGZt8prSA5.jpg",
+  "created_by": [
+    {
+      "id": 1244061,
+      "credit_id": "533049c39251413a7b005997",
+      "name": "Delia Fiallo",
+      "original_name": "Delia Fiallo",
+      "gender": 1,
+      "profile_path": "/7n7Mo61t47uHjpdk7MdfwGAPiR1.jpg"
+    },
+    {
+      "id": 970757,
+      "credit_id": "533049cf9251413a7b005999",
+      "name": "Liliana Abud",
+      "original_name": "Liliana Abud",
+      "gender": 1,
+      "profile_path": "/6OpjbFZX9jVLEdUMg2WNbShfGKi.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2010-10-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.televisa.esmas.com/entretenimiento/telenovelas/triunfo-del-amor/",
+  "id": 33761,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2011-06-26",
+  "last_episode_to_air": {
+    "id": 6559509,
+    "name": "Episode 176",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-06-26",
+    "episode_number": 176,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 33761,
+    "still_path": null
+  },
+  "name": "Triumph of Love",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 28,
+      "logo_path": "/8JwhJGdxpSsiuPiFDGslBH1cr7t.png",
+      "name": "Univision",
+      "origin_country": "US"
+    },
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 176,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Triunfo del amor",
+  "overview": "Victoria's life is perfect. She is a famous designer, mother of two and the wife of an actor. But she suffers the absence of her daughter Maria, who was separated from her when she was a little girl.",
+  "popularity": 12.0693,
+  "poster_path": "/qjuI9tYDJikLcomkFLwkKoOAagm.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-25",
+      "episode_count": 176,
+      "id": 107206,
+      "name": "Triunfo del amor",
+      "overview": "",
+      "poster_path": "/iHv8eLlh1Vl3qjHs6ayDKxcb5Lb.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 471,
+  "external_ids": {
+    "id": 33761,
+    "imdb_id": "tt1743281",
+    "freebase_mid": "/m/0cz8s13",
+    "freebase_id": null,
+    "tvdb_id": 292849,
+    "tvrage_id": null,
+    "wikidata_id": "Q1069461",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

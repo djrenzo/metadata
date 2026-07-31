@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/b4D9I3nz4Iya8Pd566PpOvz9q6O.jpg",
+  "created_by": [
+    {
+      "id": 2003326,
+      "credit_id": "68e58020e1775f9c0ec27eb6",
+      "name": "Juan Camilo Ferrand",
+      "original_name": "Juan Camilo Ferrand",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-10-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/dinastia-casillas",
+  "id": 302463,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2026-02-16",
+  "last_episode_to_air": {
+    "id": 6942953,
+    "name": "Esperanza",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 3,
+    "air_date": "2026-02-16",
+    "episode_number": 89,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 86,
+    "season_number": 1,
+    "show_id": 302463,
+    "still_path": "/mLBRBhiPVfPr9pHtlXotWxFSBYQ.jpg"
+  },
+  "name": "Dinastía Casillas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 92,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "Dinastía Casillas",
+  "overview": "",
+  "popularity": 12.9396,
+  "poster_path": "/5xFzmTTC4ITaFkiwzohTK1UUNX3.jpg",
+  "production_companies": [
+    {
+      "id": 21123,
+      "logo_path": "/u4XmLMMAWxMOYeqHHJE7fPnA7jt.png",
+      "name": "Telemundo Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-10-07",
+      "episode_count": 92,
+      "id": 478775,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xbBJBKssJr85OzAJNSuWdkh5p4v.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.337,
+  "vote_count": 365,
+  "external_ids": {
+    "id": 302463,
+    "imdb_id": "tt38629881",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 465105,
+    "tvrage_id": null,
+    "wikidata_id": "Q135921537",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

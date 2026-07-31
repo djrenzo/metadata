@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/i2bV7iIiTrvGn7omMkVhhRi2r4v.jpg",
+  "created_by": [
+    {
+      "id": 507238,
+      "credit_id": "63d5480a12b10e00b5708a8d",
+      "name": "Pierre Lescure",
+      "original_name": "Pierre Lescure",
+      "gender": 2,
+      "profile_path": "/j2OXL3qIV1OG5Yzh7rG5W4pTxJq.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2023-01-22",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-2/beau-geste/",
+  "id": 219282,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-07-02",
+  "last_episode_to_air": {
+    "id": 7463905,
+    "name": "Episode 25",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-02",
+    "episode_number": 25,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 4,
+    "show_id": 219282,
+    "still_path": null
+  },
+  "name": "Beau geste",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 110,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Beau geste",
+  "overview": "",
+  "popularity": 17.0299,
+  "poster_path": "/tjSEePJBEr7A3bUNCRtBXHLU0Le.jpg",
+  "production_companies": [
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-22",
+      "episode_count": 19,
+      "id": 326455,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4i45fc5Jtt35l0KsRlSIOSIvVgU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-24",
+      "episode_count": 33,
+      "id": 358637,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xmNE9Wj0EJRk4eJ9boSArjkzOte.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-22",
+      "episode_count": 33,
+      "id": 419461,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/pKXLwg2ILD7zDkgaAdmUIjKtL5r.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-02",
+      "episode_count": 25,
+      "id": 482971,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 1,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 219282,
+    "imdb_id": "tt26424559",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 429720,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

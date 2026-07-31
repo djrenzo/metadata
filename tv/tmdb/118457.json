@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/yL4uDdwBRfJjZAwlC1oPuvGJzza.jpg",
+  "created_by": [
+    {
+      "id": 1303063,
+      "credit_id": "6023257eabdec0003ee05ba9",
+      "name": "Martha Carrillo",
+      "original_name": "Martha Carrillo",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1244747,
+      "credit_id": "695d31a66eeeb9593e029489",
+      "name": "Cristina Garcia",
+      "original_name": "Cristina Garcia",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2021-02-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.lasestrellas.tv/telenovelas/fuego-ardiente",
+  "id": 118457,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2021-06-04",
+  "last_episode_to_air": {
+    "id": 3015180,
+    "name": "Episode 85",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-06-04",
+    "episode_number": 85,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 118457,
+    "still_path": "/1SaSu8Gp93v2HemZhPsx8EeCx4H.jpg"
+  },
+  "name": "Fuego Ardiente",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US",
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Fuego Ardiente",
+  "overview": "Fuego Ardiente is a Mexican telenovela produced by Carlos Moreno Laguillo for Televisa and originally broadcast on Las Estrellas from February 8 to June 4, 2021. Created by Martha Carrillo and Cristina García, with adaptation by Marissa Garrido, the telenovela was directed by Luis Eduardo Reyes and Carlos Cock Marín. It stars Mariana Torres, Carlos Ferro, Claudia Ramírez, José María de Tavira, Arturo Peniche, Kuno Becker, Lorena Meritano, and Claudia Martín.\n\nThe story follows Alexa Gamba, who infiltrates the powerful Ferrer family after her brother dies under suspicious circumstances while working at their olive oil company. Determined to uncover the truth, Alexa falls in love with Gabriel Ferrer, the heir to the family business. As their relationship deepens, they become entangled in a web of revenge, betrayal, forbidden love, and long-hidden secrets that threaten to destroy both families.",
+  "popularity": 20.6949,
+  "poster_path": "/iSH0xLBQEonnDF20VMHVhc01S1h.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-02-08",
+      "episode_count": 85,
+      "id": 180713,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/i5raNJpIo7lNeBMbjoSiay7PrpS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 118457,
+    "imdb_id": "tt13385420",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q104767388",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

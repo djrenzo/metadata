@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/aqQQaeMQZF4nobKYi3W1QshRfGE.jpg",
+  "created_by": [
+    {
+      "id": 1220702,
+      "credit_id": "59d5ce059251417f28009744",
+      "name": "David Kohan",
+      "original_name": "David Kohan",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1220701,
+      "credit_id": "59d5ce11c3a368320600a191",
+      "name": "Max Mutchnick",
+      "original_name": "Max Mutchnick",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2017-09-28",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://nbc.com/will-and-grace",
+  "id": 74321,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-04-23",
+  "last_episode_to_air": {
+    "id": 2206507,
+    "name": "It's Time",
+    "overview": "Will is determined to not reminisce about his life in the city or his ex. Grace has false alarms of going into labor. Karen attempts to get closure with her ex-husband. Jack's dream of taking a bow on a Broadway stage becomes a very real possibility.",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "air_date": "2020-04-23",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 3,
+    "show_id": 74321,
+    "still_path": "/uiIEhPNsjsYmF9Xd2ats23DNAHk.jpg"
+  },
+  "name": "Will & Grace",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Will & Grace",
+  "overview": "That's right, honey! A decade after their unforgettable eight-season run, comedy's most fabulous foursome is back.",
+  "popularity": 12.7426,
+  "poster_path": "/iRsgY1TRNTccltEGk9V9wNqqKOx.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-04-23",
+      "episode_count": 6,
+      "id": 149003,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/xtDF9vDFFLlaqaHxiOrxwlooyj8.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-28",
+      "episode_count": 16,
+      "id": 93622,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eyaRxbUvnnbz63SHLn9YZn2ygYt.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2018-10-04",
+      "episode_count": 18,
+      "id": 110230,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/yaPGEo81koY9PYREoltGypnj4Ss.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2019-10-24",
+      "episode_count": 18,
+      "id": 134631,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/jkiIBAfCLEDfuQ2DQxklU2oadJA.jpg",
+      "season_number": 3,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "All in it together. Again.",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 92,
+  "external_ids": {
+    "id": 74321,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "NBCWillAndGrace",
+    "instagram_id": "nbcwillandgrace",
+    "twitter_id": "WillAndGrace"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2004-03-23",
+  "genres": [],
+  "homepage": "",
+  "id": 70313,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2006-12-28",
+  "last_episode_to_air": {
+    "id": 3114485,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-12-28",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 70313,
+    "still_path": null
+  },
+  "name": "Rodinná pouta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 264,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Rodinná pouta",
+  "overview": "",
+  "popularity": 13.2536,
+  "poster_path": "/8sf6LGaB6DzRwcsN2OMNLgkRjvO.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-03-23",
+      "episode_count": 116,
+      "id": 85198,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-07",
+      "episode_count": 124,
+      "id": 205012,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-10",
+      "episode_count": 24,
+      "id": 205013,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 70313,
+    "imdb_id": "tt0416416",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 403669,
+    "tvrage_id": null,
+    "wikidata_id": "Q8570031",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

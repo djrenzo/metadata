@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/etDtdIu292UsiL5dhwnAD0TSV3H.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1991-04-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/archives/asadora/drama/d_046.html",
+  "id": 207228,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1992-04-04",
+  "last_episode_to_air": {
+    "id": 3865362,
+    "name": "Episode 312",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1992-04-04",
+    "episode_number": 312,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 207228,
+    "still_path": null
+  },
+  "name": "Kimi no na wa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 469,
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "name": "NHK G",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 312,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "君の名は",
+  "overview": "A story of a man and a woman who meet amid the Great Tokyo Air Raid in 1945.",
+  "popularity": 13.4464,
+  "poster_path": "/ApPIfZotblqFAEfbdDdsByrmQOD.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-04-02",
+      "episode_count": 312,
+      "id": 303045,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ApPIfZotblqFAEfbdDdsByrmQOD.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 207228,
+    "imdb_id": "tt0185402",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

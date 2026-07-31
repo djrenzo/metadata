@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/lKMXthilOKYuSdnbaR2bAsOoyIi.jpg",
+  "created_by": [
+    {
+      "id": 1256558,
+      "credit_id": "52596a13760ee346619e5724",
+      "name": "Monica Montañez",
+      "original_name": "Monica Montañez",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2012-03-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 45115,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2012-10-03",
+  "last_episode_to_air": {
+    "id": 4788255,
+    "name": "Episode 144",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-10-03",
+    "episode_number": 144,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 45115,
+    "still_path": null
+  },
+  "name": "Válgame Dios",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 144,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Válgame Dios",
+  "overview": "¡Válgame Dios! is a Spanish-language Venezuelan telenovela written by Mónica Montañéz for Venevisión.\n\nSabrina Seara and Eduardo Orozco star as the main protagonists while Ricardo Alamo, Carlota Sosa and Raquel Yanez star as the main antagonists.",
+  "popularity": 53.2796,
+  "poster_path": "/yuF3eu03BriObBdlXCH4vPwJWmc.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-03-13",
+      "episode_count": 144,
+      "id": 154022,
+      "name": "Season One",
+      "overview": "",
+      "poster_path": "/xkdnqmS35aE5h7azIrmEQCLko9c.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 45115,
+    "imdb_id": "tt2553936",
+    "freebase_mid": "/m/0j9krbh",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q7944179",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

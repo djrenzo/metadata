@@ -1,0 +1,223 @@
+{
+  "adult": false,
+  "backdrop_path": "/lpuN1zRlmTIITsvwVhGJLH5h4iw.jpg",
+  "created_by": [
+    {
+      "id": 1403618,
+      "credit_id": "549b388fc3a3682f19002385",
+      "name": "Simon Krätschmer",
+      "original_name": "Simon Krätschmer",
+      "gender": 2,
+      "profile_path": "/6UyMuA8GAmpTlW7OVxQXiExUEGS.jpg"
+    },
+    {
+      "id": 1403619,
+      "credit_id": "549b38a0c3a3680b2700198b",
+      "name": "Daniel Budiman",
+      "original_name": "Daniel Budiman",
+      "gender": 2,
+      "profile_path": "/l25lGD29fdQkkEVJCPUJWh1sDuT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    20,
+    15,
+    30
+  ],
+  "first_air_date": "2006-09-27",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 45974,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2014-12-24",
+  "last_episode_to_air": {
+    "id": 1247089,
+    "name": "Episode 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-12-24",
+    "episode_number": 36,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 45974,
+    "still_path": null
+  },
+  "name": "Game One",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 924,
+      "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+      "name": "MTV Germany",
+      "origin_country": "DE"
+    },
+    {
+      "id": 804,
+      "logo_path": "/3DTdPqvewDwM6SXOW7Ca45EX2HX.png",
+      "name": "VIVA Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 307,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Game One",
+  "overview": "",
+  "popularity": 20.2151,
+  "poster_path": "/4lD2JDlALVVfcERgWb1Jpnq7NRe.jpg",
+  "production_companies": [
+    {
+      "id": 83464,
+      "logo_path": null,
+      "name": "RIESEN*BU*HEI Entertainment GmbH",
+      "origin_country": "DE"
+    },
+    {
+      "id": 79304,
+      "logo_path": "/iH3nusZNkYn8lXPCZHKCS4pXrlc.png",
+      "name": "Rocket BEANS Entertainment GmbH",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-27",
+      "episode_count": 13,
+      "id": 82302,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-17",
+      "episode_count": 38,
+      "id": 219603,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-04",
+      "episode_count": 37,
+      "id": 219604,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-21",
+      "episode_count": 29,
+      "id": 219605,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-03",
+      "episode_count": 36,
+      "id": 219607,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-19",
+      "episode_count": 39,
+      "id": 219608,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-17",
+      "episode_count": 41,
+      "id": 219609,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-22",
+      "episode_count": 38,
+      "id": 219610,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-21",
+      "episode_count": 36,
+      "id": 82751,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.625,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 45974,
+    "imdb_id": "tt1169475",
+    "freebase_mid": "/m/0ndskpr",
+    "freebase_id": null,
+    "tvdb_id": 187291,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "mtvgameone",
+    "instagram_id": null,
+    "twitter_id": "mtvgameone"
+  }
+}

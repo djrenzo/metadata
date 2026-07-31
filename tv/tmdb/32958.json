@@ -1,0 +1,248 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2007-12-15",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://13tv.co.il/mood/survivor/",
+  "id": 32958,
+  "in_production": true,
+  "languages": [
+    "he"
+  ],
+  "last_air_date": "2025-04-05",
+  "last_episode_to_air": {
+    "id": 6101924,
+    "name": "Episode 49 - The final",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-04-05",
+    "episode_number": 49,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 32958,
+    "still_path": null
+  },
+  "name": "Survivor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 169,
+      "logo_path": "/goKg57ALHXJnoMBNyKazKOlSNPU.png",
+      "name": "Channel 2",
+      "origin_country": "IL"
+    },
+    {
+      "id": 519,
+      "logo_path": "/xkcUMRrfd9Mf0Ymcoz7hwOH63vB.png",
+      "name": "Channel Eser",
+      "origin_country": "IL"
+    },
+    {
+      "id": 1375,
+      "logo_path": "/tyzqjTqeUob43G4h5RorVftFQOt.png",
+      "name": "Reshet 13",
+      "origin_country": "IL"
+    }
+  ],
+  "number_of_episodes": 521,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "he",
+  "original_name": "הישרדות",
+  "overview": "Survivor (Hebrew: הישרדות‎, Hisardut), formerly known as Survivor 10, is an Israeli reality competition game show based on the popular international Survivor television franchise. The series began in December 2007 and aired on Israeli's Channel 10 for 6 seasons. After legal issues between Channel 10 and Castaway Television, the series went on a three-year hiatus before returning in 2015 on Reshet. The show is hosted by actor and singer Guy Zu-Aretz.",
+  "popularity": 11.2202,
+  "poster_path": "/vbMk3HiapgmJvK3pVPJFFMlhCII.jpg",
+  "production_companies": [
+    {
+      "id": 17274,
+      "logo_path": null,
+      "name": "Abot Hameiri",
+      "origin_country": "IL"
+    },
+    {
+      "id": 90382,
+      "logo_path": null,
+      "name": "Castaway Television Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-12-15",
+      "episode_count": 36,
+      "id": 101178,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-12-24",
+      "episode_count": 38,
+      "id": 153154,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-29",
+      "episode_count": 35,
+      "id": 153155,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-06-06",
+      "episode_count": 24,
+      "id": 153156,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-14",
+      "episode_count": 30,
+      "id": 153157,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-05-02",
+      "episode_count": 31,
+      "id": 153158,
+      "name": "Survivor VIP",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-01",
+      "episode_count": 34,
+      "id": 153159,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-20",
+      "episode_count": 34,
+      "id": 153160,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-09",
+      "episode_count": 37,
+      "id": 153161,
+      "name": "Survivor VIP season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-02",
+      "episode_count": 66,
+      "id": 153162,
+      "name": "Survivor VIP season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-16",
+      "episode_count": 60,
+      "id": 331353,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-12-17",
+      "episode_count": 47,
+      "id": 331354,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-11-23",
+      "episode_count": 49,
+      "id": 447594,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 32958,
+    "imdb_id": "tt1796301",
+    "freebase_mid": "/m/0c3twb0",
+    "freebase_id": null,
+    "tvdb_id": 250210,
+    "tvrage_id": null,
+    "wikidata_id": "Q7647266",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

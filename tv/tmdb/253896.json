@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/lQ9Yun6lMNNcQWFM0r2iKReKQeO.jpg",
+  "created_by": [
+    {
+      "id": 2046925,
+      "credit_id": "66e59a9efb3914e255fd79e7",
+      "name": "Kevin Abbott",
+      "original_name": "Kevin Abbott",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2024-10-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.nbc.com/happys-place",
+  "id": 253896,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-24",
+  "last_episode_to_air": {
+    "id": 6880850,
+    "name": "Couples Counseling",
+    "overview": "After Bobbie starts serving patrons at the speakeasy, Isabella accuses her of stealing customers, causing the sisters to attend couples counseling; Emmett tries his best to gently break up with Monica.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2026-04-24",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 2,
+    "show_id": 253896,
+    "still_path": "/iwoTqYDMYOHvHrrrf35ZjxqtIfs.jpg"
+  },
+  "name": "Happy's Place",
+  "next_episode_to_air": {
+    "id": 7420525,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-23",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 253896,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 37,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Happy's Place",
+  "overview": "Bobbie inherits her father's restaurant and is less than thrilled to discover that she has a new business partner in the half-sister she never knew she had.",
+  "popularity": 14.9387,
+  "poster_path": "/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 244763,
+      "logo_path": null,
+      "name": "NestEgg Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-10-18",
+      "episode_count": 18,
+      "id": 392774,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/stOjdi0LW7VxOL32WG3HLbauy6L.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2025-11-07",
+      "episode_count": 18,
+      "id": 467371,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wSyPCHtWGdvcg77jYYcYOVK4qlf.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2026-10-23",
+      "episode_count": 1,
+      "id": 524270,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "You belong at Happy's Place.",
+  "type": "Scripted",
+  "vote_average": 6.435,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 253896,
+    "imdb_id": "tt31106862",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 449880,
+    "tvrage_id": null,
+    "wikidata_id": "Q129101507",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

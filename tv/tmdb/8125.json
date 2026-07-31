@@ -1,0 +1,213 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1061980,
+      "credit_id": "55720cc7c3a368382b0022a9",
+      "name": "Josep Maria Benet i Jornet",
+      "original_name": "Josep Maria Benet i Jornet",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 115749,
+      "credit_id": "55720cd1c3a3687f0c0045c6",
+      "name": "Antonio Onetti",
+      "original_name": "Antonio Onetti",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1474314,
+      "credit_id": "55720ce892514110f9000501",
+      "name": "Rodolf Sirera",
+      "original_name": "Rodolf Sirera",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2005-09-28",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.rtve.es/television/amarentiemposrevueltos/",
+  "id": 8125,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-11-15",
+  "last_episode_to_air": {
+    "id": 5104163,
+    "name": "Episode 256",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-11-15",
+    "episode_number": 256,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 7,
+    "show_id": 8125,
+    "still_path": null
+  },
+  "name": "Love in Difficult Times",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 443,
+      "logo_path": "/dN6GTZyNY32q2onfrvJ2iAeE4su.png",
+      "name": "La 1",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 468,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Amar en tiempos revueltos",
+  "overview": "Amar en tiempos revueltos is a Spanish soap opera set in the times of the Spanish civil war and the early Francoism. The serial has been aired from 2005 and has won prizes in Spain and a Silver Medal in the «New York Festivals». In January 2013 will air on Antena 3 with new name, Amar es para siempre",
+  "popularity": 12.4454,
+  "poster_path": "/z9ws8sxV59rv7eQFKo46CEjFOPR.jpg",
+  "production_companies": [
+    {
+      "id": 210360,
+      "logo_path": null,
+      "name": "Televisión Española",
+      "origin_country": ""
+    },
+    {
+      "id": 49470,
+      "logo_path": "/fXnMvFd7nc3ImZ2Pb2PzqiXziHi.png",
+      "name": "Diagonal TV",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 109722,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-28",
+      "episode_count": 200,
+      "id": 67468,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/euj4c6Z17QE6uZz2UzcKlKU4kZ5.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 221,
+      "id": 67469,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lmxmIQUF3MFNE1O7iDWgWoUiMAU.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-29",
+      "episode_count": 39,
+      "id": 67470,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/6trIyCMhGyvoQsE5SRIMqkkerwz.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-04",
+      "episode_count": 2,
+      "id": 67471,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-28",
+      "episode_count": 2,
+      "id": 67472,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-06",
+      "episode_count": 2,
+      "id": 67473,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-05",
+      "episode_count": 2,
+      "id": 67474,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.6,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 8125,
+    "imdb_id": "tt0511050",
+    "freebase_mid": "/m/03yk7qh",
+    "freebase_id": "/en/amar_en_tiempos_revueltos",
+    "tvdb_id": 110911,
+    "tvrage_id": null,
+    "wikidata_id": "Q2841185",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    25
+  ],
+  "first_air_date": "1951-08-03",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 15487,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1953-06-12",
+  "last_episode_to_air": {
+    "id": 539171,
+    "name": "What Dreams May Come",
+    "overview": "A woman receives telepathic waves that she is about to be murdered.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1953-06-12",
+    "episode_number": 42,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 15487,
+    "still_path": null
+  },
+  "name": "Tales of Tomorrow",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Tales of Tomorrow",
+  "overview": "Tales of Tomorrow is an American anthology science fiction series that was performed and broadcast live on ABC from 1951 to 1953. The series covered such stories as Frankenstein, starring Lon Chaney, Jr., 20,000 Leagues Under the Sea starring Thomas Mitchell as Captain Nemo, and many others featuring such performers as Boris Karloff, Brian Keith, Lee J. Cobb, Rod Steiger, Bruce Cabot, Franchot Tone, Gene Lockhart, Walter Abel, Leslie Nielsen, and Paul Newman. The series had many similarities to the later Twilight Zone which also covered one of the same stories, \"What You Need\". In total it ran for eighty-five 30-minute episodes.",
+  "popularity": 11.7805,
+  "poster_path": "/TqlBxeIAkk6H1GrO4GK5Kx3HeZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1951-08-03",
+      "episode_count": 43,
+      "id": 27025,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1952-08-22",
+      "episode_count": 42,
+      "id": 27026,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.429,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 15487,
+    "imdb_id": "tt0043238",
+    "freebase_mid": "/m/03hl61w",
+    "freebase_id": "/en/tales_of_tomorrow",
+    "tvdb_id": 77858,
+    "tvrage_id": 5455,
+    "wikidata_id": "Q2676592",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

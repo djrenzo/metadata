@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/nH1tZM9QAQrJKRMxH7mityjWNZe.jpg",
+  "created_by": [
+    {
+      "id": 154623,
+      "credit_id": "525970ee760ee34661a357db",
+      "name": "Daniel Cerone",
+      "original_name": "Daniel Cerone",
+      "gender": 2,
+      "profile_path": "/7tULL0DKkjknISvEd63b4RR263V.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2013-02-03",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.ctv.ca/Motive.aspx",
+  "id": 46316,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-08-30",
+  "last_episode_to_air": {
+    "id": 1211263,
+    "name": "We'll Always Have Homicide",
+    "overview": "Three years after a killer gets away, the team reunites to close the case.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2016-08-30",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 4,
+    "show_id": 46316,
+    "still_path": "/lQKC3z6t8WJe6xfjeEovYjEUfLh.jpg"
+  },
+  "name": "Motive",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 110,
+      "logo_path": "/uPoKSf3GtME7IZz4alnoWvc0nWx.png",
+      "name": "CTV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "Motive",
+  "overview": "A team of Vancouver investigators, led by homicide detective Angie Flynn, sets out to uncover the motive of each puzzling murder by discovering the killer's connection to the victim. Viewers get a glimpse of the killer before and after the crime is committed.",
+  "popularity": 14.9061,
+  "poster_path": "/gA5mK6VO1tJ4DCGhmXEcsYetvqH.jpg",
+  "production_companies": [
+    {
+      "id": 12217,
+      "logo_path": null,
+      "name": "Foundation Features",
+      "origin_country": ""
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-03-28",
+      "episode_count": 8,
+      "id": 83843,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-03",
+      "episode_count": 13,
+      "id": 54619,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/u89jeV7SJBBflTYwcHhwNjTrQfy.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2014-03-06",
+      "episode_count": 13,
+      "id": 61318,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8Ue0La60pwvM62paEgbLHMnx9Lr.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2015-03-08",
+      "episode_count": 13,
+      "id": 65266,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7w5B2ToIym9w5BepMihmaKthS7n.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-03-22",
+      "episode_count": 13,
+      "id": 75162,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/og9kuQxGeSpyoi0g9kgHldAzBnB.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The murder is just the beginning.",
+  "type": "Scripted",
+  "vote_average": 6.4,
+  "vote_count": 89,
+  "external_ids": {
+    "id": 46316,
+    "imdb_id": "tt2443340",
+    "freebase_mid": "/m/0p7bqr5",
+    "freebase_id": null,
+    "tvdb_id": 262569,
+    "tvrage_id": 32549,
+    "wikidata_id": "Q4162473",
+    "facebook_id": "MotiveTV",
+    "instagram_id": null,
+    "twitter_id": "MotiveTV"
+  }
+}

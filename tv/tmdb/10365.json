@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/jBfq2cDjFiDtDA7WGUyrCA5SecP.jpg",
+  "created_by": [
+    {
+      "id": 1093,
+      "credit_id": "5258008c19c29531db35730f",
+      "name": "Lawrence Gordon",
+      "original_name": "Lawrence Gordon",
+      "gender": 2,
+      "profile_path": "/jOZiaeFrl837bTO7wMdCNIaQSL.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1982-09-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 10365,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1985-03-29",
+  "last_episode_to_air": {
+    "id": 424161,
+    "name": "Final Vows",
+    "overview": "Matt's love, Elizabeth (Kerrie Keane), returns, while a murderer (Chuck McCann) uses Matt to publicize his deeds.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1985-03-29",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 10365,
+    "still_path": "/qMhliVu8xZwBJtmdNSV1KZW4wx6.jpg"
+  },
+  "name": "Matt Houston",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 69,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Matt Houston",
+  "overview": "Matt Houston is an American crime drama series that aired on ABC from 1982 to 1985. Created by Lawrence Gordon, the series was produced by Aaron Spelling.",
+  "popularity": 13.6143,
+  "poster_path": "/ezyedEwmz2UdcjshjzQlaopEMwL.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1982-09-26",
+      "episode_count": 24,
+      "id": 20429,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dU7ZicomQ1VVkpFgb23sUO9352H.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-09",
+      "episode_count": 23,
+      "id": 20428,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8yW8OVPaJTH6zvMwtPogbKv18E1.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-21",
+      "episode_count": 22,
+      "id": 20430,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/c28ip9czYE4V0c5kQJy6AAXe3RD.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 28,
+  "external_ids": {
+    "id": 10365,
+    "imdb_id": "tt0083447",
+    "freebase_mid": "/m/08z7c6",
+    "freebase_id": "/en/matt_houston",
+    "tvdb_id": 78721,
+    "tvrage_id": null,
+    "wikidata_id": "Q3299486",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

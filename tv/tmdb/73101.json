@@ -1,0 +1,243 @@
+{
+  "adult": false,
+  "backdrop_path": "/7mGdiweShIEmOdscRmeHtLSh7U2.jpg",
+  "created_by": [
+    {
+      "id": 65304,
+      "credit_id": "6018fa26cb30840040cf6ca8",
+      "name": "Franc Roddam",
+      "original_name": "Franc Roddam",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2015-01-19",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://viaplay.dk/serier/masterchef-danmarks-storste-madtalenter",
+  "id": 73101,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2026-04-23",
+  "last_episode_to_air": {
+    "id": 7182643,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-23",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 12,
+    "show_id": 73101,
+    "still_path": null
+  },
+  "name": "MasterChef",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1649,
+      "logo_path": "/kf1R7pshifwcdkhJO5tAEY1wInQ.png",
+      "name": "TV3",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2869,
+      "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+      "name": "Viaplay",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 616,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "MasterChef",
+  "overview": "Danish version of the cooking competition in which celebrity chefs put a group of contestants through a series of challenges and elimination rounds, in order to turn one home cook into a culinary master.",
+  "popularity": 11.9862,
+  "poster_path": "/qgCxhv4M3I9IZcSDaTTDXSIr1Ci.jpg",
+  "production_companies": [
+    {
+      "id": 73338,
+      "logo_path": "/fcWjfk0wsbMWdz7vOj6OTkq9efs.png",
+      "name": "TV3",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 177349,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/rpr8t3hrKUEG2gf8bIcePCPGvmP.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-19",
+      "episode_count": 28,
+      "id": 177347,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/33LUGpV2SWfI7X8jmsCEq7Sq5i1.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-18",
+      "episode_count": 44,
+      "id": 177348,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8ckVHfyv1hfOvIfgrqagNbVpRdQ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-30",
+      "episode_count": 48,
+      "id": 90980,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/e2JyQNphLtyacuokAkM2ApgkOcF.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-05",
+      "episode_count": 56,
+      "id": 99040,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/6xqvBPo8wIw5f7LaNHUKhTiC8GW.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-28",
+      "episode_count": 56,
+      "id": 117843,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/hQHAb25F9pmpBYcodM5G6yd8lGs.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-27",
+      "episode_count": 56,
+      "id": 142202,
+      "name": "Season 6",
+      "overview": "Season six of the Danish series of Master Chef.",
+      "poster_path": "/kZph9yUle8zcXMX8l61jFXqGPbR.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-01",
+      "episode_count": 56,
+      "id": 177358,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/ypGXNTRguUGAlJiwfyxFMHNngPw.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-31",
+      "episode_count": 52,
+      "id": 242256,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/m0LV57BeoX3bCoFkTXo35WbhYmO.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-30",
+      "episode_count": 56,
+      "id": 332329,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 56,
+      "id": 386530,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-26",
+      "episode_count": 56,
+      "id": 465652,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-26",
+      "episode_count": 52,
+      "id": 499652,
+      "name": "Season 12",
+      "overview": "A new team of eight new culinary talents enter the MasterChef kitchen. They must prove their technical prowess as they fillet fish and create a classic shooting star.",
+      "poster_path": "/qgCxhv4M3I9IZcSDaTTDXSIr1Ci.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.2,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 73101,
+    "imdb_id": "tt2772096",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 251655,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "tv3masterchef",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

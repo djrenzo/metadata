@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/miJj1A0i304xyJWpuNsGRJk59xB.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2020-01-16",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.clubillico.com/series/s/401704998871_Lappartement",
+  "id": 95519,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2020-08-31",
+  "last_episode_to_air": {
+    "id": 4347746,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-08-31",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 95519,
+    "still_path": null
+  },
+  "name": "L'appartement",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1290,
+      "logo_path": "/sqJrxmxTASr5HaDGfARp2Mv1Cm0.png",
+      "name": "Club Illico",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 40,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "L'appartement",
+  "overview": "",
+  "popularity": 21.3921,
+  "poster_path": "/sekOFbTm6OhgRUiel3nEJn2oP6P.jpg",
+  "production_companies": [
+    {
+      "id": 122271,
+      "logo_path": "/ioaQctcpBykHO502dwOIANshnMe.png",
+      "name": "DATSIT Sphère",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-16",
+      "episode_count": 20,
+      "id": 135964,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zmS8NHoBiQh1ewEtHYqEUfKMMuQ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 20,
+      "id": 336325,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 95519,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

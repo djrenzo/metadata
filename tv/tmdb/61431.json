@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/AXO8CHydLqjO7ir2cnnCHXVu1p.jpg",
+  "created_by": [
+    {
+      "id": 1167743,
+      "credit_id": "5a1d399c0e0a264cca062dad",
+      "name": "Thierry Debroux",
+      "original_name": "Thierry Debroux",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1371621,
+      "credit_id": "601c0bb3470ead00407571d1",
+      "name": "Sylvie Simon-Sfez",
+      "original_name": "Sylvie Simon-Sfez",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2009-01-09",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-2/les-petits-meurtres-d-agatha-christie/",
+  "id": 61431,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2024-03-08",
+  "last_episode_to_air": {
+    "id": 4979218,
+    "name": "Boarding School Murders",
+    "overview": "When Rose is accused of murdering a teacher, Beretta goes undercover at an exclusive borading school to clear her name.",
+    "vote_average": 7.3,
+    "vote_count": 3,
+    "air_date": "2024-03-08",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "0000-0002-0A40-0031-P-0000-0000-0",
+    "runtime": 88,
+    "season_number": 3,
+    "show_id": 61431,
+    "still_path": "/d03p42Q1vwYTd43sZba2xpH32mc.jpg"
+  },
+  "name": "The Little Murders of Agatha Christie",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Petits Meurtres d'Agatha Christie",
+  "overview": "French adaptations of the stories by Agatha Christie.",
+  "popularity": 13.0437,
+  "poster_path": "/3sYluRhKfL1SDWWYiujovCaQkF9.jpg",
+  "production_companies": [
+    {
+      "id": 14026,
+      "logo_path": "/8yZvjKBIoOpcR6TiELlwVMoIJHN.png",
+      "name": "Escazal Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-11-14",
+      "episode_count": 7,
+      "id": 171049,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/19c0YpUamaULyMGwLSTdojjyBqP.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-09",
+      "episode_count": 11,
+      "id": 62904,
+      "name": "The 1930s",
+      "overview": "",
+      "poster_path": "/m27VKrknAZy7Cr3Q48VVh7RzQvb.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-03-29",
+      "episode_count": 27,
+      "id": 62905,
+      "name": "The 1950s - 1960s",
+      "overview": "",
+      "poster_path": "/gP3tXry0MeZQF60OiQgeoNPuxJE.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2021-01-29",
+      "episode_count": 10,
+      "id": 179015,
+      "name": "The 1970s",
+      "overview": "",
+      "poster_path": "/c6OczulwJzmpSfIUkNpAuYeWrmL.jpg",
+      "season_number": 3,
+      "vote_average": 6.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.407,
+  "vote_count": 54,
+  "external_ids": {
+    "id": 61431,
+    "imdb_id": "tt1349600",
+    "freebase_mid": "/m/010x74l_",
+    "freebase_id": null,
+    "tvdb_id": 84422,
+    "tvrage_id": 32079,
+    "wikidata_id": "Q3234618",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

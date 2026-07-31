@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/qSVXHzd4MJKDxQDhjDbNy3VM78L.jpg",
+  "created_by": [
+    {
+      "id": 2913740,
+      "credit_id": "5fe9b25807a808003f8ea36f",
+      "name": "Diószegi Judit",
+      "original_name": "Diószegi Judit",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2190774,
+      "credit_id": "5fe9b267c9dbf9003e4b7026",
+      "name": "Búss Gábor Olivér",
+      "original_name": "Búss Gábor Olivér",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2020-12-27",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://tv2.hu/doktorbalaton",
+  "id": 115436,
+  "in_production": true,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2022-06-30",
+  "last_episode_to_air": {
+    "id": 3810955,
+    "name": "Episode 60",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-30",
+    "episode_number": 60,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 115436,
+    "still_path": null
+  },
+  "name": "Doktor Balaton",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 975,
+      "logo_path": "/ze9D9aLekVWZqLdrD1YeBKBgwz8.png",
+      "name": "TV2",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 145,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Doktor Balaton",
+  "overview": "",
+  "popularity": 21.9914,
+  "poster_path": "/35i3O7yKpbzjZ2NBC2kFbeoFt3Z.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2020-12-27",
+      "episode_count": 50,
+      "id": 173915,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nXErTR6t59h8nmTJbt6I6hT637u.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-05",
+      "episode_count": 35,
+      "id": 201445,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-11",
+      "episode_count": 60,
+      "id": 287574,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 115436,
+    "imdb_id": "tt13754174",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 393746,
+    "tvrage_id": null,
+    "wikidata_id": "Q104550799",
+    "facebook_id": "doktorbalaton",
+    "instagram_id": "doktorbalaton",
+    "twitter_id": null
+  }
+}

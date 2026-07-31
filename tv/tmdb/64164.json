@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/o7SHflJUqxz7XgRrRD7QVYzIP5A.jpg",
+  "created_by": [
+    {
+      "id": 2466933,
+      "credit_id": "66cacce5069549d87f187d12",
+      "name": "Deniz Dargı",
+      "original_name": "Deniz Dargı",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3755004,
+      "credit_id": "66caccecfd0f21e598187d86",
+      "name": "Cenk Boğatur",
+      "original_name": "Cenk Boğatur",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2015-06-18",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.kanald.com.tr/gunesin-kizlari",
+  "id": 64164,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2016-03-19",
+  "last_episode_to_air": {
+    "id": 1381295,
+    "name": "Episode 39",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-03-19",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 1,
+    "show_id": 64164,
+    "still_path": "/pOBGYe7F6GqJE4de50FmDo2bbyL.jpg"
+  },
+  "name": "Sun's Daughters",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Güneşin Kızları",
+  "overview": "Güneş finds her prince charming at the age of 35, after raising 3 daughters and completely giving up hope on love. When she accepts the marriage proposal of Istanbul businessman Haluk Mertoğlu, Güneş and her troublesome daughters fall like a bomb into the middle of the Mertoğlu family's life. All of them have different wishes and expectations from their new lives, but the life of the Mertoğlu family is not as perfect as it seems. With the arrival of Güneş and her daughters, the secrets of the past will begin to be revealed one by one.",
+  "popularity": 19.0638,
+  "poster_path": "/NZeAEg9XuxSMAxE5ecW4pH6QXy.jpg",
+  "production_companies": [
+    {
+      "id": 50590,
+      "logo_path": null,
+      "name": "Süreç Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-06-18",
+      "episode_count": 39,
+      "id": 71379,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gpm3AbQLPcPZb19pYchfWCRG2Q2.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.619,
+  "vote_count": 97,
+  "external_ids": {
+    "id": 64164,
+    "imdb_id": "tt4912412",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 298157,
+    "tvrage_id": null,
+    "wikidata_id": "Q20473966",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

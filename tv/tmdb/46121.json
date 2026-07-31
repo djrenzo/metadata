@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/cFbFzDILiJRlGO0RG6istdDJzKT.jpg",
+  "created_by": [
+    {
+      "id": 1255768,
+      "credit_id": "52597000760ee34661a292a4",
+      "name": "Silvio de Abreu",
+      "original_name": "Silvio de Abreu",
+      "gender": 2,
+      "profile_path": "/1tulDv0UtHPsKMSzJGwQXsuCcC8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1995-03-13",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 46121,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1995-11-03",
+  "last_episode_to_air": {
+    "id": 2693686,
+    "name": "Chapter 203",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1995-11-03",
+    "episode_number": 203,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 81,
+    "season_number": 1,
+    "show_id": 46121,
+    "still_path": "/vbrUZnFWiMixMAnIb63FVK92cCs.jpg"
+  },
+  "name": "The Next Victim",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 203,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "A Próxima Vítima",
+  "overview": "A young law student starts to work as a detective, decided to uncover the identity behind a series of murders, as well as who is next.",
+  "popularity": 12.5662,
+  "poster_path": "/mzjDrUCgErrWvjyiTTL6OUYysRA.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-03-13",
+      "episode_count": 203,
+      "id": 179051,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mzjDrUCgErrWvjyiTTL6OUYysRA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.411,
+  "vote_count": 28,
+  "external_ids": {
+    "id": 46121,
+    "imdb_id": "tt0138256",
+    "freebase_mid": "/m/0ng1lv2",
+    "freebase_id": null,
+    "tvdb_id": 292410,
+    "tvrage_id": null,
+    "wikidata_id": "Q4322414",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

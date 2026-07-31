@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": "/iHPh1QI9tlaZb7LK1lvU3BVJjI8.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "1981-01-01",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 91841,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2020-10-22",
+  "last_episode_to_air": {
+    "id": 2929071,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-10-22",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2020,
+    "show_id": 91841,
+    "still_path": null
+  },
+  "name": "Tik Tak",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1153,
+      "logo_path": "/CLUL85uVWeBamSt3Ah5IQp8gBf.png",
+      "name": "Ketnet",
+      "origin_country": "BE"
+    },
+    {
+      "id": 2502,
+      "logo_path": "/lpjHtqZkBZflKjCe33nHXKF7YNV.png",
+      "name": "Belgische Radio- en Televisieomroep",
+      "origin_country": "BE"
+    },
+    {
+      "id": 5683,
+      "logo_path": "/pfPswjFWYCtwpBm2T7XQXKoIfgi.png",
+      "name": "Ketnet Junior",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 187,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Tik Tak",
+  "overview": "Tik Tak was a Belgian children's television program that aired from on BRTN 1981 to 1991. It was aimed at toddlers.",
+  "popularity": 22.7136,
+  "poster_path": "/6CculGQ5g5hpzx2MCcfaScK6Jhy.jpg",
+  "production_companies": [
+    {
+      "id": 11619,
+      "logo_path": "/lpjHtqZkBZflKjCe33nHXKF7YNV.png",
+      "name": "Belgische Radio en Televisie",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1981-01-01",
+      "episode_count": 31,
+      "id": 128870,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 188218,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 52,
+      "id": 219641,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 52,
+      "id": 193749,
+      "name": "Season 2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2019,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-01",
+      "episode_count": 52,
+      "id": 193751,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2020,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 91841,
+    "imdb_id": "tt0299401",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 252494,
+    "tvrage_id": null,
+    "wikidata_id": "Q2198603",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

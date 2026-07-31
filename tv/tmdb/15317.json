@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/1zBxDgy0vU2Ls7AfehJ3sik3mrl.jpg",
+  "created_by": [
+    {
+      "id": 1838430,
+      "credit_id": "66b2863edc1f9c1100ad3d85",
+      "name": "Sanjay R. Kohli",
+      "original_name": "Sanjay R. Kohli",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2535141,
+      "credit_id": "66b285679ca79e0752b5019c",
+      "name": "Shobhit Jaiswal",
+      "original_name": "Shobhit Jaiswal",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2006-12-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.saharaone.in/zaara.asp",
+  "id": 15317,
+  "in_production": false,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2006-12-07",
+  "last_episode_to_air": {
+    "id": 5518320,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-12-07",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 15317,
+    "still_path": null
+  },
+  "name": "Zaara",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 564,
+      "logo_path": "/qsm88BnftOCFmNa2NJFpmHpV5Pj.png",
+      "name": "Sahara One",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 362,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Zaara - Pyaar Ki Saugat",
+  "overview": "Twenty-year-old Zaara wants to get married to her childhood lover. But her life gets chaotic after her sister Zeenat asks her to become the second wife of her husband, as she is unable to conceive.",
+  "popularity": 12.6875,
+  "poster_path": "/g0E3iXEzcbIzKWcglQQSf8r2dhd.jpg",
+  "production_companies": [
+    {
+      "id": 113857,
+      "logo_path": null,
+      "name": "Edit II Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-12-04",
+      "episode_count": 362,
+      "id": 405522,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 15317,
+    "imdb_id": null,
+    "freebase_mid": "/m/02w0l4b",
+    "freebase_id": "/en/zaara",
+    "tvdb_id": null,
+    "tvrage_id": 21872,
+    "wikidata_id": "Q8063405",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

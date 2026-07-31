@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/hiKKRRIJ9WB7mGxzhheQVcDIfYO.jpg",
+  "created_by": [
+    {
+      "id": 201028,
+      "credit_id": "6164585d1108a8002c32b602",
+      "name": "Lewis Chesler",
+      "original_name": "Lewis Chesler",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 57435,
+      "credit_id": "616458786728a800431aaee3",
+      "name": "Richard Rothstein",
+      "original_name": "Richard Rothstein",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2997465,
+      "credit_id": "6164586ce942ee00627479f1",
+      "name": "Riff Markowitz",
+      "original_name": "Riff Markowitz",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1983-11-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.thehitchhiker.com",
+  "id": 10370,
+  "in_production": false,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "last_air_date": "1991-02-22",
+  "last_episode_to_air": {
+    "id": 424238,
+    "name": "New Blood",
+    "overview": "An aspiring actress is prepared to sell her soul just to be accepted into a popular unique theater troupe. However, that might actually be the actual price to be paid in this case.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1991-02-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 10370,
+    "still_path": "/u5S7pmLViwfp5xwILpQq9dUwug.jpg"
+  },
+  "name": "The Hitchhiker",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "logo_path": "/g1e0H0Ka97IG5SyInMXdJkHGKiH.png",
+      "name": "USA Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Hitchhiker",
+  "overview": "A young hitchhiker introduces characters who are about to experience a frightening and sometimes supernatural incident of some kind in this moody anthology series.",
+  "popularity": 17.3882,
+  "poster_path": "/AmOBNQXTMPsi3NvcadHxfM4xEVZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-11-23",
+      "episode_count": 26,
+      "id": 20434,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vXo28N1HLnv96kyFc9tp8HVvGuB.jpg",
+      "season_number": 1,
+      "vote_average": 2.9
+    },
+    {
+      "air_date": "1987-02-17",
+      "episode_count": 13,
+      "id": 20435,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/kVz7Zzam7FLaB6j1w5KFmBDdO9W.jpg",
+      "season_number": 2,
+      "vote_average": 2.6
+    },
+    {
+      "air_date": "1989-04-22",
+      "episode_count": 26,
+      "id": 20437,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/fHjXTPVJyoEDJKLxCAQhQuEiQQF.jpg",
+      "season_number": 3,
+      "vote_average": 1.9
+    },
+    {
+      "air_date": "1990-09-21",
+      "episode_count": 20,
+      "id": 20436,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/bWHxK2c9LyajtkrNHyhhNrUgp2F.jpg",
+      "season_number": 4,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "He takes you places you don't want to visit alone.",
+  "type": "Scripted",
+  "vote_average": 6.25,
+  "vote_count": 32,
+  "external_ids": {
+    "id": 10370,
+    "imdb_id": "tt0085031",
+    "freebase_mid": "/m/01symx",
+    "freebase_id": "/en/the_hitchhiker",
+    "tvdb_id": 78513,
+    "tvrage_id": null,
+    "wikidata_id": "Q1194353",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

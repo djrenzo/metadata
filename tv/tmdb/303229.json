@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2006-08-14",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 303229,
+  "in_production": true,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2011-12-16",
+  "last_episode_to_air": {
+    "id": 6870648,
+    "name": "Episode 190",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-12-16",
+    "episode_number": 190,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 28,
+    "season_number": 6,
+    "show_id": 303229,
+    "still_path": null
+  },
+  "name": "Understand. Forgive",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 558,
+      "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+      "name": "Channel One",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 990,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Понять. Простить",
+  "overview": "Each episode is a fictional, self-contained story about difficult family relationships.",
+  "popularity": 10.7448,
+  "poster_path": "/mG4Zj0ewhXaLqVEbFGvaEcNZckz.jpg",
+  "production_companies": [
+    {
+      "id": 185571,
+      "logo_path": null,
+      "name": "Teleroman Studio",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-08-14",
+      "episode_count": 90,
+      "id": 480361,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mG4Zj0ewhXaLqVEbFGvaEcNZckz.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-15",
+      "episode_count": 200,
+      "id": 496271,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-14",
+      "episode_count": 180,
+      "id": 496272,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-02",
+      "episode_count": 150,
+      "id": 496273,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-05-29",
+      "episode_count": 180,
+      "id": 496274,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-10",
+      "episode_count": 190,
+      "id": 496275,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 303229,
+    "imdb_id": "tt3949900",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q4372139",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1409043,
+      "credit_id": "54a9d4649251414d6300541e",
+      "name": "Mirna Miličić",
+      "original_name": "Mirna Miličić",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1409042,
+      "credit_id": "54a9d45c9251417e06002782",
+      "name": "Vlado Bulić",
+      "original_name": "Vlado Bulić",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2014-09-15",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://novatv.dnevnik.hr/kud-puklo-da-puklo/",
+  "id": 61808,
+  "in_production": true,
+  "languages": [
+    "hr"
+  ],
+  "last_air_date": "2016-06-07",
+  "last_episode_to_air": {
+    "id": 4629868,
+    "name": "Episode 179",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-06-07",
+    "episode_number": 179,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 61808,
+    "still_path": null
+  },
+  "name": "Whichever Way the Ball Bounces",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 517,
+      "logo_path": "/iBibvLYwkZuYc8lawEgGoY9GyNn.png",
+      "name": "Nova TV",
+      "origin_country": "HR"
+    }
+  ],
+  "number_of_episodes": 350,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_name": "Kud puklo da puklo",
+  "overview": "This show is located in the picturesque Oštrovac, a village on the edge of the national park. Katarina, Tomislav and Krešo will get a million euros from his grandfather - but only if they spend a year in his ruined house in Oštrovac. Otherwise, the money belongs to the locals.",
+  "popularity": 10.7671,
+  "poster_path": "/oXoObat9xdl4MJkfMorXikfd3Dw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 171,
+      "id": 64289,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/r74ptdtwo2GoZR0rMGYTtVJYL1u.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-07",
+      "episode_count": 179,
+      "id": 351749,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 61808,
+    "imdb_id": "tt3886152",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 285894,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

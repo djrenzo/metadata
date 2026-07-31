@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/7QEZLOfb218puRhFBOUrT2YSqP7.jpg",
+  "created_by": [
+    {
+      "id": 150819,
+      "credit_id": "56fbd93dc3a36808d70027b2",
+      "name": "Claude Laydu",
+      "original_name": "Claude Laydu",
+      "gender": 2,
+      "profile_path": "/6XXbHzGLIku27hrsxxuyfKFmIqA.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1962-06-02",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 65984,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1995-06-02",
+  "last_episode_to_air": {
+    "id": 1182509,
+    "name": "Episode 195",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1995-06-02",
+    "episode_number": 195,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 65984,
+    "still_path": null
+  },
+  "name": "Bonne nuit les petits",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1196,
+      "logo_path": "/j1A7mEWCvFT6eRxOnqapNbikIyk.png",
+      "name": "ORTF Télévision",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1371,
+      "logo_path": "/uak617SPQuQdzUpgoTD3HmDf6YX.png",
+      "name": "RTF Télévision",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 506,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Bonne nuit les petits",
+  "overview": "",
+  "popularity": 11.37,
+  "poster_path": "/16nFFdWUDJ1KMVQVkFmdiqXCoSQ.jpg",
+  "production_companies": [
+    {
+      "id": 24119,
+      "logo_path": "/iNcPopycyTGDgWy6dDl5cnlfS3n.png",
+      "name": "Radio-Télévision Française",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1962-06-02",
+      "episode_count": 65,
+      "id": 75557,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-06-02",
+      "episode_count": 145,
+      "id": 75906,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-06-02",
+      "episode_count": 78,
+      "id": 75907,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-06-02",
+      "episode_count": 195,
+      "id": 75908,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 23,
+      "id": 189692,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.4,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 65984,
+    "imdb_id": "tt0392957",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2234198",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

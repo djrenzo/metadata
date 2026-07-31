@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/soddMLVizhvNC9o5p2AnrBnHqSV.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2016-08-29",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://noovo.ca/emissions/buzz/",
+  "id": 78361,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2019-04-10",
+  "last_episode_to_air": {
+    "id": 1749294,
+    "name": "Episode 66",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-04-10",
+    "episode_number": 66,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 78361,
+    "still_path": null
+  },
+  "name": "Buzz",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 72,
+      "logo_path": "/qPld4NPqfUMLYqrNczsTg71PPgL.png",
+      "name": "MusiquePlus",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 244,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Buzz",
+  "overview": "Comedian Jérémy Demay is at the helm of the ultimate reference in web material.",
+  "popularity": 19.6038,
+  "poster_path": "/cZLBi3UGqtiI2QKQceUbovvFEBE.jpg",
+  "production_companies": [
+    {
+      "id": 69535,
+      "logo_path": "/8i7UtWqR83VI4T3kSuCRlOiIjn3.png",
+      "name": "DATSIT",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-08-29",
+      "episode_count": 88,
+      "id": 101449,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-28",
+      "episode_count": 90,
+      "id": 101450,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-27",
+      "episode_count": 66,
+      "id": 108296,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 78361,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "BuzzMP",
+    "instagram_id": null,
+    "twitter_id": "BuzzMP"
+  }
+}

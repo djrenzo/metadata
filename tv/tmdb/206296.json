@@ -1,0 +1,763 @@
+{
+  "adult": false,
+  "backdrop_path": "/whGwc5yVDdTtC0fayzdBRYObiRY.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1962-10-31",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.goldenhorse.org.tw/",
+  "id": 206296,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2025-11-22",
+  "last_episode_to_air": {
+    "id": 6710904,
+    "name": "第62屆金馬獎頒獎典禮",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-22",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 239,
+    "season_number": 62,
+    "show_id": 206296,
+    "still_path": null
+  },
+  "name": "Golden Horse Awards",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 187,
+      "logo_path": "/lSdTUbOqNyvGHwiypMJVm0ZqTb1.png",
+      "name": "TVBS",
+      "origin_country": "TW"
+    },
+    {
+      "id": 401,
+      "logo_path": "/vYmVFpUIzodAYpVyUzkW62n9Dz.png",
+      "name": "CTS",
+      "origin_country": "TW"
+    },
+    {
+      "id": 403,
+      "logo_path": "/volHUxY1MHjSPI4ju7j36EdhR2m.png",
+      "name": "CTV",
+      "origin_country": "TW"
+    },
+    {
+      "id": 479,
+      "logo_path": "/2HVxTrTSKWoFsYB7KxxwMMP1LBt.png",
+      "name": "TTV Main Channel",
+      "origin_country": "TW"
+    },
+    {
+      "id": 791,
+      "logo_path": "/vdDLFYlbeQmrQpvxbIroRyYuIrJ.png",
+      "name": "STAR Chinese Channel",
+      "origin_country": "TW"
+    },
+    {
+      "id": 2302,
+      "logo_path": "/pfSd7gAdUvOGmrY08HssUkKdoa7.png",
+      "name": "EBC",
+      "origin_country": "TW"
+    },
+    {
+      "id": 3801,
+      "logo_path": "/mQBLK2OkX19oX352goiuF1ztXnh.png",
+      "name": "MyVideo",
+      "origin_country": "TW"
+    },
+    {
+      "id": 3959,
+      "logo_path": "/ztSEb8mTMvFEXNMKqQbfNG4rpAD.png",
+      "name": "friDay Video",
+      "origin_country": "TW"
+    },
+    {
+      "id": 8719,
+      "logo_path": null,
+      "name": "TTV Main Channel (TW)",
+      "origin_country": ""
+    },
+    {
+      "id": 8720,
+      "logo_path": null,
+      "name": "MyVideo (TW)",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 62,
+  "number_of_seasons": 62,
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_name": "金馬獎",
+  "overview": "The Taipei Golden Horse Film Festival and Awards (Chinese: 台北金馬影展; pinyin: Táiběi Jīnmǎ Yǐngzhǎn; Pe̍h-ōe-jī: Tâi-pak Kim-má iáⁿ-tián) is a film festival and awards ceremony held annually in Taiwan. It was founded in 1962 by the Government Information Office of the Republic of China (ROC) in Taiwan. The awards ceremony is usually held in November or December in Taipei, although the event has also been held in other locations in Taiwan in recent times",
+  "popularity": 12.9691,
+  "poster_path": "/q9H3q7q99hIwMFmxaA9pVD8jdoU.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1962-10-31",
+      "episode_count": 1,
+      "id": 301329,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rhgWW2NlN7F8dzKISKzUdFrC2Dn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-10-31",
+      "episode_count": 1,
+      "id": 301313,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-10-30",
+      "episode_count": 1,
+      "id": 301314,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-10-30",
+      "episode_count": 1,
+      "id": 301315,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-10-30",
+      "episode_count": 1,
+      "id": 301316,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-10-30",
+      "episode_count": 1,
+      "id": 301317,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-10-30",
+      "episode_count": 1,
+      "id": 301318,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-10-30",
+      "episode_count": 1,
+      "id": 301319,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-10-30",
+      "episode_count": 1,
+      "id": 301320,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-10-30",
+      "episode_count": 1,
+      "id": 301321,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-10-30",
+      "episode_count": 1,
+      "id": 301322,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-10-30",
+      "episode_count": 1,
+      "id": 301323,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-10-30",
+      "episode_count": 1,
+      "id": 301324,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-10-30",
+      "episode_count": 1,
+      "id": 301325,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-10-31",
+      "episode_count": 1,
+      "id": 301326,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-11-02",
+      "episode_count": 1,
+      "id": 301373,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-11-03",
+      "episode_count": 1,
+      "id": 301375,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/vRQ7zm1NejdDBZVYe3UFGrJpmnR.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-10-30",
+      "episode_count": 1,
+      "id": 301376,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-10-24",
+      "episode_count": 1,
+      "id": 301377,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-11-16",
+      "episode_count": 1,
+      "id": 301378,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-11-18",
+      "episode_count": 1,
+      "id": 301379,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-11-02",
+      "episode_count": 1,
+      "id": 301380,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-11-29",
+      "episode_count": 1,
+      "id": 301381,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-10-29",
+      "episode_count": 1,
+      "id": 301382,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-11-05",
+      "episode_count": 1,
+      "id": 301383,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-12-09",
+      "episode_count": 1,
+      "id": 301384,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/24BosFlzE6UmlBbMyQvvtepkZk4.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-12-10",
+      "episode_count": 1,
+      "id": 301385,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-12-07",
+      "episode_count": 1,
+      "id": 301386,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/iW3ylq1kuhki3WHX8Uli2Fz86Mo.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-12-12",
+      "episode_count": 1,
+      "id": 301387,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-12-04",
+      "episode_count": 1,
+      "id": 301388,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-12-10",
+      "episode_count": 1,
+      "id": 301389,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-12-09",
+      "episode_count": 1,
+      "id": 301390,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-12-14",
+      "episode_count": 1,
+      "id": 301391,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/e0tMa3odNLvwUlD2KuJIaZJbTC2.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-13",
+      "episode_count": 1,
+      "id": 301392,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-12",
+      "episode_count": 1,
+      "id": 301393,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-12-12",
+      "episode_count": 1,
+      "id": 301394,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-02",
+      "episode_count": 1,
+      "id": 301395,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-12-08",
+      "episode_count": 1,
+      "id": 301396,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/9g69kn9iNiqh44FHXi7W150Waro.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-11-16",
+      "episode_count": 1,
+      "id": 301397,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/r3iGozTypX5fkuxSnXxzmUdzcvg.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-12-13",
+      "episode_count": 1,
+      "id": 301398,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/rnfVgo52lHpH7XXJbpgGrCwyXe3.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-12-04",
+      "episode_count": 1,
+      "id": 301399,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/74RMq7hopGWRFExBjm46GeiJHxR.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-11-13",
+      "episode_count": 1,
+      "id": 301402,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/5txbUoxPAprwsiynTw6dGekwrgc.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-11-25",
+      "episode_count": 1,
+      "id": 301403,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/e1sDA2n8qMOsaxUNBEXZ4bsXgIN.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-12-08",
+      "episode_count": 1,
+      "id": 301404,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/5gQty060Mrr05GNzwzAeD6aQJJY.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-12-06",
+      "episode_count": 1,
+      "id": 301405,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/mAxo1liSMIvl5eFO760PnI638j7.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-28",
+      "episode_count": 1,
+      "id": 301406,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/nEADIqfsiQczOd2R4DgaJC4fQPW.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-20",
+      "episode_count": 1,
+      "id": 301408,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/ex6bhmPRXcCjzb8PR2IQBRtsezX.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-11-26",
+      "episode_count": 1,
+      "id": 301409,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/qVAeeBY3FPl1seS4wLyO5RYVa4V.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-11-24",
+      "episode_count": 1,
+      "id": 301411,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/ekooLnvj39fXxekgE8ouspc9Ftu.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-11-23",
+      "episode_count": 1,
+      "id": 301371,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/lUA8MP5jHekS36oVklisoJ3FtPU.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-11-22",
+      "episode_count": 1,
+      "id": 301370,
+      "name": "金馬51",
+      "overview": "",
+      "poster_path": "/ngFFKvzSzWC6UyNUzraBK91Bdht.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-21",
+      "episode_count": 1,
+      "id": 301369,
+      "name": "金馬52",
+      "overview": "",
+      "poster_path": "/47IU9v5yLbqZO85nC6S0HtAqhc3.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-11-26",
+      "episode_count": 1,
+      "id": 301368,
+      "name": "金馬53",
+      "overview": "",
+      "poster_path": "/aKzKEPJCPhNQsKYcTacSMW9tIqT.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-25",
+      "episode_count": 1,
+      "id": 301367,
+      "name": "金馬54",
+      "overview": "",
+      "poster_path": "/1GFIUEm3sMDyExE8rupF8jHTgg.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-17",
+      "episode_count": 1,
+      "id": 301366,
+      "name": "金馬55",
+      "overview": "",
+      "poster_path": "/v40CSr18ibsc1f45m62fiSyoYP3.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-23",
+      "episode_count": 1,
+      "id": 301365,
+      "name": "金馬56",
+      "overview": "",
+      "poster_path": "/aad0Em4MyoteuembcOnBt9DLQka.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-21",
+      "episode_count": 1,
+      "id": 301364,
+      "name": "金馬57",
+      "overview": "",
+      "poster_path": "/lJGbcqVfYzkMOhl3efxlDr9OOIn.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-27",
+      "episode_count": 1,
+      "id": 301328,
+      "name": "金馬58",
+      "overview": "",
+      "poster_path": "/eEr7nBvGvl6XsKDFDFig19Zda5P.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-19",
+      "episode_count": 1,
+      "id": 301310,
+      "name": "金馬59",
+      "overview": "",
+      "poster_path": "/cBgdw601wWLyDwvtzoKqHHWxy2a.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-25",
+      "episode_count": 1,
+      "id": 363728,
+      "name": "金馬60",
+      "overview": "",
+      "poster_path": "/ojQdHS4SgZsE1bbeZ5NuMNinW9q.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-11-23",
+      "episode_count": 1,
+      "id": 430072,
+      "name": "金馬61",
+      "overview": "",
+      "poster_path": "/5tKxgFMtHQVWNtpSjhsdSmc7XtN.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-22",
+      "episode_count": 1,
+      "id": 486126,
+      "name": "金馬62",
+      "overview": "",
+      "poster_path": "/yztsyQtDhFAaaP59aL2jiCuERso.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 206296,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 422328,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "tghff",
+    "instagram_id": "goldenhorsefilmfestival",
+    "twitter_id": "Golden_Horse"
+  }
+}

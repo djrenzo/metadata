@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/dk1IxEELtm3GlhpI5HyAA8DpQ8K.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    3
+  ],
+  "first_air_date": "2021-03-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://videos.sapo.pt/do-contra",
+  "id": 120141,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2022-06-27",
+  "last_episode_to_air": {
+    "id": 5976210,
+    "name": "Episode 54",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-27",
+    "episode_number": 54,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 120141,
+    "still_path": null
+  },
+  "name": "Do Contra",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5649,
+      "logo_path": null,
+      "name": "SAPO Vídeos",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 346,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Do Contra",
+  "overview": "",
+  "popularity": 21.5809,
+  "poster_path": "/8sKTRtNTranvmR09gdSxGT9RFsj.jpg",
+  "production_companies": [
+    {
+      "id": 150420,
+      "logo_path": null,
+      "name": "MauMau Mia Produções",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-02-26",
+      "episode_count": 4,
+      "id": 184519,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-01",
+      "episode_count": 292,
+      "id": 184518,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-13",
+      "episode_count": 54,
+      "id": 287597,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 120141,
+    "imdb_id": "tt14152704",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 397680,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "docontra2021",
+    "instagram_id": "docontra.oficial",
+    "twitter_id": "Do__Contra"
+  }
+}

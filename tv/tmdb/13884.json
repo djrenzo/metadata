@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1531397,
+      "credit_id": "5639582ec3a3681b4b01e6d0",
+      "name": "Frank Provo",
+      "original_name": "Frank Provo",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1810605,
+      "credit_id": "590c0c1cc3a368016800656f",
+      "name": "John Pickard",
+      "original_name": "John Pickard",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1958-06-30",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 13884,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1961-12-29",
+  "last_episode_to_air": {
+    "id": 508197,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1961-12-29",
+    "episode_number": 125,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 13884,
+    "still_path": null
+  },
+  "name": "From These Roots",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 343,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "From These Roots",
+  "overview": "Follow the life of successful writer Elizabeth “Liz” Fraser Allen as she returns to her New England hometown of Strathfield to run her family’s newspaper after her father suffers a heart attack.",
+  "popularity": 14.2199,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 22367,
+      "logo_path": "/pbkAbvOROqyZOcWgGvTsiryrUfW.png",
+      "name": "Procter & Gamble Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1958-06-30",
+      "episode_count": 257,
+      "id": 25092,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-06-29",
+      "episode_count": 85,
+      "id": 25093,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 25094,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 13884,
+    "imdb_id": "tt0051272",
+    "freebase_mid": "/m/09l752",
+    "freebase_id": "/en/from_these_roots",
+    "tvdb_id": null,
+    "tvrage_id": 10182,
+    "wikidata_id": "Q5505529",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/iZm8NBU3iwrcaCF9QlAZ8z6MdmZ.jpg",
+  "created_by": [
+    {
+      "id": 13620,
+      "credit_id": "605be82a3fe1600028ac6f7b",
+      "name": "William Hanna",
+      "original_name": "William Hanna",
+      "gender": 2,
+      "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg"
+    },
+    {
+      "id": 13594,
+      "credit_id": "605be839162bc30029cf6369",
+      "name": "Joseph Barbera",
+      "original_name": "Joseph Barbera",
+      "gender": 2,
+      "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1957-12-14",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 12519,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1960-04-02",
+  "last_episode_to_air": {
+    "id": 2955435,
+    "name": "Have Blop, Will Travel",
+    "overview": "After the Blop gets away in the boys' rocket, the Lilipunies come up with a mode of transportation for Ruff and Reddy to return to Earth.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1960-04-02",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 12519,
+    "still_path": null
+  },
+  "name": "The Ruff and Reddy Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Ruff and Reddy Show",
+  "overview": "The Ruff and Reddy Show is a Hanna-Barbera animated series starring Ruff, a straight and smart cat voiced by Don Messick, and Reddy, a dumb and stupid dog voiced by Daws Butler. First broadcast in December 1957 on NBC, it was the first television show produced by Hanna-Barbera and presented by Screen Gems, the television arm of Columbia Pictures.",
+  "popularity": 11.7182,
+  "poster_path": "/2dj9Vvy689ZYNQQ85X2Iq3WpoXo.jpg",
+  "production_companies": [
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    },
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1957-12-14",
+      "episode_count": 52,
+      "id": 23402,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/t4NLmfbQXG4mITHdnGegqxmdwaP.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-12-13",
+      "episode_count": 52,
+      "id": 195447,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/t4NLmfbQXG4mITHdnGegqxmdwaP.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-12-19",
+      "episode_count": 52,
+      "id": 195448,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/t4NLmfbQXG4mITHdnGegqxmdwaP.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 12519,
+    "imdb_id": "tt0050057",
+    "freebase_mid": "/m/049pyp",
+    "freebase_id": "/en/the_ruff_reddy_show",
+    "tvdb_id": 293358,
+    "tvrage_id": 1074,
+    "wikidata_id": "Q2568039",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

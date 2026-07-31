@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/rIycDdkLET20EVW2LPytLNuyOp3.jpg",
+  "created_by": [
+    {
+      "id": 1215345,
+      "credit_id": "56b120679251411da0000142",
+      "name": "Jim Patterson",
+      "original_name": "Jim Patterson",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1214853,
+      "credit_id": "633ecc72c4ad59008ae6ae17",
+      "name": "Don Reo",
+      "original_name": "Don Reo",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2016-04-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80077977",
+  "id": 65493,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-01-24",
+  "last_episode_to_air": {
+    "id": 2061137,
+    "name": "Take Me Home, Country Roads",
+    "overview": "In the series finale, Luke opens up about his struggles, Maggie throws one last Christmas party at the bar, and Colt gives Beau a heartwarming gift.",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2020-01-24",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 4,
+    "show_id": 65493,
+    "still_path": "/kkhZPP0AM4foxeSRRpuRIOtEoHp.jpg"
+  },
+  "name": "The Ranch",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 80,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Ranch",
+  "overview": "Being a pro athlete didn't pan out for Colt. Now he's helping his dad and brother keep the ranch afloat, and figuring out how he fits into the family.",
+  "popularity": 15.0875,
+  "poster_path": "/lrbHBAxF9Ir83rxgeBrfmEJriLt.jpg",
+  "production_companies": [
+    {
+      "id": 117170,
+      "logo_path": null,
+      "name": "Ranch Hand Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-04-01",
+      "episode_count": 20,
+      "id": 74330,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7YvPSQ4dxnthvSIhczEbrwktFgQ.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2017-06-14",
+      "episode_count": 20,
+      "id": 89522,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7KSxUqWLEwF2CDKntss7QmYl4y0.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-06-15",
+      "episode_count": 20,
+      "id": 97023,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/eq4BbGS5LiVxzgBKtuoQy14ShF7.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2019-09-13",
+      "episode_count": 20,
+      "id": 131042,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/aMDuceZGSSRfRon65fFyenW2a0x.jpg",
+      "season_number": 4,
+      "vote_average": 8.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Blood is thicker than whiskey.",
+  "type": "Scripted",
+  "vote_average": 7.354,
+  "vote_count": 287,
+  "external_ids": {
+    "id": 65493,
+    "imdb_id": "tt4998212",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 305165,
+    "tvrage_id": 49605,
+    "wikidata_id": "Q21463452",
+    "facebook_id": "TheRanchNetflix",
+    "instagram_id": "theranchnetflix",
+    "twitter_id": "theranchnetflix"
+  }
+}

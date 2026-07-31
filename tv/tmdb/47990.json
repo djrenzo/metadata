@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJtWdbHsKwUdyWGO3zrhlLZAtjP.jpg",
+  "created_by": [
+    {
+      "id": 1261462,
+      "credit_id": "64d80570001bbd013aede1f6",
+      "name": "Ramón Campos",
+      "original_name": "Ramón Campos",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1261463,
+      "credit_id": "64d8059fbf31f201c94e7e69",
+      "name": "Gema R. Neira",
+      "original_name": "Gema R. Neira",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2011-05-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.antena3.com/series/gran-hotel/",
+  "id": 47990,
+  "in_production": false,
+  "languages": [
+    "fr",
+    "pt",
+    "es",
+    "hu"
+  ],
+  "last_air_date": "2013-06-25",
+  "last_episode_to_air": {
+    "id": 914985,
+    "name": "Cholera",
+    "overview": "With Cisneros fleeing, and Diego sick with cholera, Julio and Alicia are free to leave the hotel once and for all and start living a life together that until now has been denied. But the dying Diego makes Alicia a proposal that can cause everything to change ... And do it forever. The disease is not Diego's only problem. Cisneros has escaped and is cornered by the police, but he will not hesitate to try to take his revenge against his enemy in any way. Meanwhile, Bethlehem meets again with Bazán to prevent him from discovering his attempt to kill Andres. The reunion between the two will have unexpected and definitive consequences. On the other hand, Diego's disease has infected more hotel workers. Angela fears an epidemic and uses her new position to try to convince Mrs. Teresa and Alfredo that it is best to close the hotel. Refusals to listen to the advice of the governor will endanger not only the sick, but the entire Grand Hotel.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-06-25",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 92,
+    "season_number": 3,
+    "show_id": 47990,
+    "still_path": "/3ITPifOQBjCcSC6rMHzOR6lTmWi.jpg"
+  },
+  "name": "Grand Hotel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 400,
+      "logo_path": "/l7MngINTyv0O6mNlwNsUlhQ9iwZ.png",
+      "name": "Antena 3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Gran Hotel",
+  "overview": "A young man arrives at the Grand Hotel, an ideal place in the middle of the wilderness to investigate his sister's disappearance. What he ignores is that he's about to meet his greater love: the pretty and seductive daughter of the Hotel's owner. Between this young couple, of different social classes, a very passionate love will be born. A dangerous romance will be entwined with the mysteries and secrets hidden between the walls of the Grand Hotel. In The Grand Hotel no one is who we think it is, no one is free of hazards or suspicious. A complex web of lies, secrets and betrayal awaits...",
+  "popularity": 17.0092,
+  "poster_path": "/Ia9or8bUIjvzL5Dtgd8Eo1nscA.jpg",
+  "production_companies": [
+    {
+      "id": 27628,
+      "logo_path": "/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png",
+      "name": "Bambú Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 145216,
+      "logo_path": "/yDZHI4emmyLM7d5e0pGHyA7smGt.png",
+      "name": "Les Gens",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-05-10",
+      "episode_count": 9,
+      "id": 55160,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3ut4LJsU6Ia5dxrqJTfrK6rhKwW.jpg",
+      "season_number": 1,
+      "vote_average": 9.4
+    },
+    {
+      "air_date": "2012-10-03",
+      "episode_count": 8,
+      "id": 55162,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/k2RCsAtgKgNPiUTdKmelop5ssrP.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2013-01-22",
+      "episode_count": 22,
+      "id": 55163,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/vOmlAuUG8RTX6YdtHDxo62RsPXC.jpg",
+      "season_number": 3,
+      "vote_average": 9.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Every room has its secrets.",
+  "type": "Scripted",
+  "vote_average": 7.806,
+  "vote_count": 111,
+  "external_ids": {
+    "id": 47990,
+    "imdb_id": "tt2006421",
+    "freebase_mid": "/m/0t_fmx3",
+    "freebase_id": null,
+    "tvdb_id": 252488,
+    "tvrage_id": null,
+    "wikidata_id": "Q2706591",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "A3GranHotel"
+  }
+}

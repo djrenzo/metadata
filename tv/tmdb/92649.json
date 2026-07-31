@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/p2NeKlgduO58dORS0Fim1BXVaZu.jpg",
+  "created_by": [
+    {
+      "id": 87149,
+      "credit_id": "5f6cb721a0b69000385b3397",
+      "name": "Bill Motz",
+      "original_name": "Bill Motz",
+      "gender": 2,
+      "profile_path": "/30Dzpa5SPcxwwkEm7hNRYCStRhq.jpg"
+    },
+    {
+      "id": 87150,
+      "credit_id": "5f6cb733a7e36300382761b4",
+      "name": "Bob Roth",
+      "original_name": "Bob Roth",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2021-10-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://disneynow.com/shows/the-ghost-and-molly-mcgee",
+  "id": 92649,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-01-13",
+  "last_episode_to_air": {
+    "id": 5001009,
+    "name": "The End",
+    "overview": "A flood of lost memories forces Scratch to make big decisions about his afterlife.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-01-13",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 92649,
+    "still_path": "/diS7FpSjvcU6ftHE7RMYha4oUec.jpg"
+  },
+  "name": "The Ghost and Molly McGee",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 54,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Ghost and Molly McGee",
+  "overview": "When a curse from Scratch backfires, he finds himself forever bound to Molly. Despite that, Scratch and Molly form an unlikely friendship that guides each of them through the ups and downs of their respective worlds!",
+  "popularity": 13.3885,
+  "poster_path": "/u86g1KKPwsysQx6gA9LJt93xrtA.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 40,
+      "id": 130456,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/buPbDZN0QfAAYRhQNMtnTGgQyV5.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2023-04-01",
+      "episode_count": 38,
+      "id": 332755,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/u86g1KKPwsysQx6gA9LJt93xrtA.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Friends supernaturally.",
+  "type": "Scripted",
+  "vote_average": 8.064,
+  "vote_count": 47,
+  "external_ids": {
+    "id": 92649,
+    "imdb_id": "tt10684374",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 367316,
+    "tvrage_id": null,
+    "wikidata_id": "Q85806904",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

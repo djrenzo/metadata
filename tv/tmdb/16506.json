@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2166570,
+      "credit_id": "5fc7a7022fdec6003d7bbfcd",
+      "name": "Sergio Vodanovic",
+      "original_name": "Sergio Vodanovic",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1984-03-05",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 16506,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1984-08-03",
+  "last_episode_to_air": {
+    "id": 2759143,
+    "name": "Episode 110",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1984-08-03",
+    "episode_number": 110,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 16506,
+    "still_path": null
+  },
+  "name": "Los títeres",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 110,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Los títeres",
+  "overview": "Artemisa returns to Chile in search of the group of people who made her life miserable 20 years ago, as fate has prepared a real puppet show for them.",
+  "popularity": 18.7725,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1984-03-05",
+      "episode_count": 110,
+      "id": 170864,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 16506,
+    "imdb_id": "tt0376440",
+    "freebase_mid": "/m/025vwzm",
+    "freebase_id": "/en/los_titeres",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6592930",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

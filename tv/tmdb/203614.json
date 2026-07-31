@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/uOhTIXRxSyWbdP3KIX3eLXtx0Nt.jpg",
+  "created_by": [
+    {
+      "id": 1539693,
+      "credit_id": "638addfc8a84d200b34f06c9",
+      "name": "Harriet Dyer",
+      "original_name": "Harriet Dyer",
+      "gender": 1,
+      "profile_path": "/7IPlBqrPRicjvUSix7a2uk0Mf88.jpg"
+    },
+    {
+      "id": 221032,
+      "credit_id": "638addce1283e900a8a2bf7f",
+      "name": "Patrick Brammall",
+      "original_name": "Patrick Brammall",
+      "gender": 2,
+      "profile_path": "/l4IlGBxkYcCwqtfuKfWyHa9JCn6.jpg"
+    }
+  ],
+  "episode_run_time": [
+    27
+  ],
+  "first_air_date": "2022-12-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://binge.com.au/shows/show-colin-from-accounts!18466",
+  "id": 203614,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-27",
+  "last_episode_to_air": {
+    "id": 7442170,
+    "name": "Clean, Honest, Open, Transparent Love",
+    "overview": "Ash reunites with Colin, and Gordon invites her - along with her eager boyfriend, David - to his birthday party at Echo Park Brewery.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-27",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 3,
+    "show_id": 203614,
+    "still_path": "/zqVfygZdYAPIgHKmr6qjdJTzLAB.jpg"
+  },
+  "name": "Colin from Accounts",
+  "next_episode_to_air": {
+    "id": 7442172,
+    "name": "Episode 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-03",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 203614,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 5490,
+      "logo_path": "/9illumn22MCCbsmLsDC4yw8EOND.png",
+      "name": "Binge",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Colin from Accounts",
+  "overview": "Ashley and Gordon are two single(ish), complex humans who are brought together by a car accident and an injured dog. Flawed, funny people choosing each other and being brave enough to show their true self, scars and all, as they navigate life together.",
+  "popularity": 13.2135,
+  "poster_path": "/zYPRXAImgarNSKrwd4kXobjXQNQ.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 104232,
+      "logo_path": "/nwPYlsAr5vRsWj2tm1CZzV8k6dO.png",
+      "name": "Easy Tiger",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-12-01",
+      "episode_count": 8,
+      "id": 296608,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rtpqsFGTFROrRSUtXrWk6K9OacB.jpg",
+      "season_number": 1,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2024-05-30",
+      "episode_count": 8,
+      "id": 391556,
+      "name": "Season 2",
+      "overview": "Season 2 sees Ash and Gordon living together and on a journey to get their beloved dog, Colin back from his new owners.",
+      "poster_path": "/l5jawNTdIiDmJ2rqeBsNFtrl9HW.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2026-07-27",
+      "episode_count": 8,
+      "id": 525869,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/oHPSA8EpCmM2XfydLqzNke17XSB.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 93,
+  "external_ids": {
+    "id": 203614,
+    "imdb_id": "tt18228732",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 421974,
+    "tvrage_id": null,
+    "wikidata_id": "Q115816564",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

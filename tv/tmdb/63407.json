@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/bevGFsYQkOA6iEYpd7MpS9L3WSf.jpg",
+  "created_by": [
+    {
+      "id": 2343110,
+      "credit_id": "6095827ce942ee003c64b013",
+      "name": "Pablo Ferrer García-Travesí",
+      "original_name": "Pablo Ferrer García-Travesí",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2105952,
+      "credit_id": "60958273cca7de003b675588",
+      "name": "Marcia del Río",
+      "original_name": "Marcia del Río",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1641784,
+      "credit_id": "6095826c960cde00407917c0",
+      "name": "Alejandro Pohlenz",
+      "original_name": "Alejandro Pohlenz",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2014-06-30",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 63407,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2015-03-02",
+  "last_episode_to_air": {
+    "id": 1809166,
+    "name": "Episode 177",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-03-02",
+    "episode_number": 177,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 63407,
+    "still_path": null
+  },
+  "name": "Mi corazón es tuyo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 177,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Mi corazón es tuyo",
+  "overview": "Fernando Lascurain is a wealthy businessman and recent widower, attempting to raise his seven unruly children. He seeks the assistance of a new nanny. He hires and falls in love with Ana Leal, a struggling exotic dancer who tries to hide her double life. Although Ana lacks experience and a refined education, she quickly bonds with the Lascurain children. Ana dreams of being a mother, but when her home is destroyed following an accident, she must borrow money from her ruthless boss at \"Chicago\", the night club where she is secretly employed. When Fernando simultaneously falls for Ana and Isabela, an economist and sophisticated woman who is trained by her mother to marry a millionaire, he must choose between both women.",
+  "popularity": 11.5428,
+  "poster_path": "/kMF4iYqlnsQMglOsr0C6KIVtB2X.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-06-30",
+      "episode_count": 177,
+      "id": 69069,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zyqAuTUfMoAHX5nWE4RKltgZYWu.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 387119,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.996,
+  "vote_count": 1215,
+  "external_ids": {
+    "id": 63407,
+    "imdb_id": "tt3825904",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16942035",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2004-02-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 225041,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2005-06-22",
+  "last_episode_to_air": {
+    "id": 4382530,
+    "name": "Episode 345",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-06-22",
+    "episode_number": 345,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 225041,
+    "still_path": null
+  },
+  "name": "Taiwan Tornado",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 726,
+      "logo_path": "/5Nv8DkUTpbJKbFwz27PT5jgHk6e.png",
+      "name": "Sanlih E-Television",
+      "origin_country": "TW"
+    }
+  ],
+  "number_of_episodes": 345,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_name": "台灣龍捲風",
+  "overview": "Chi-Chung Huang is the second son of the Huang family, which owns Taiwan Chao-Lian Group. Chi-Chung and his older brother, Chi-Long Huang, bribe the prosecutor for a death penalty case that his family is involved in. However, the prosecutor changes his mind about the matter. Chi-Chung leads his men to confront the prosecutor, who later falls off an elevated expressway and dies. To lay low for a while, Chi-Chung accepts his brother's arrangement and goes into hiding in the southern region of Taiwan. However, after he arrives there, he is controlled by a crime syndicate. After he is drugged and becomes hardly conscious, he inadvertently rapes Chia-Yi, who is a nice good girl. After the rape, Chia-Yi swears to get Chi-Chung to face up the legal consequences; later, she finds she is impregnated by Chi-Chung, and this strengthens her will to fight a battle between the rich (Chi-Chung) and the poor (herself). As a storm is quietly approaching, who will turn out to be the winner?",
+  "popularity": 10.6649,
+  "poster_path": "/7CtR5Pe8BqAMCwd109bvT0Tv66m.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-02-24",
+      "episode_count": 345,
+      "id": 338056,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 225041,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 366737,
+    "tvrage_id": null,
+    "wikidata_id": "Q10915774",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

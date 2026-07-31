@@ -1,0 +1,148 @@
+{
+  "adult": false,
+  "backdrop_path": "/98ki3SqGT7duypS9ie64Ui5aXq6.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2022-09-12",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.qub.ca/tvaplus/tva/indefendable",
+  "id": 157616,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-04-23",
+  "last_episode_to_air": {
+    "id": 7029499,
+    "name": "Episode 120",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-23",
+    "episode_number": 120,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 4,
+    "show_id": 157616,
+    "still_path": null
+  },
+  "name": "Indéfendable",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 302,
+      "logo_path": "/gc3SsJUQa7mGnHLds13zzoxG3zd.png",
+      "name": "TVA",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4590,
+      "logo_path": "/oGBi16ASkwHcomZMAm5bYcPqiN6.png",
+      "name": "TVA+",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 480,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Indéfendable",
+  "overview": "",
+  "popularity": 11.1893,
+  "poster_path": "/dQzckMMNl35bT42XYJcJg2oFbsl.jpg",
+  "production_companies": [
+    {
+      "id": 41768,
+      "logo_path": "/nZodxvfkjT16oaynQO3QQlFHFtV.png",
+      "name": "Pixcom",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 120,
+      "id": 243858,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/13OxQxBB0RKqp6E3ss5CZmzG9tD.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 120,
+      "id": 356448,
+      "name": "Saison 2",
+      "overview": "",
+      "poster_path": "/2KgEdOEedYSs6BKKyXAid19QT5r.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 120,
+      "id": 417698,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/wxdy2FnUTqq4GpWUQO4ESVVkbs8.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 120,
+      "id": 473867,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wh5vdxXeDI0H5wRKMnJnNYVi3xC.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.667,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 157616,
+    "imdb_id": "tt21826522",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 422249,
+    "tvrage_id": null,
+    "wikidata_id": "Q125694805",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

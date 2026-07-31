@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/iqP3sQxY43UUTJaRkbOuZWxRgKV.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2020-01-06",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.joj.sk/novy-zivot",
+  "id": 97211,
+  "in_production": false,
+  "languages": [
+    "sk"
+  ],
+  "last_air_date": "2021-06-22",
+  "last_episode_to_air": {
+    "id": 4028179,
+    "name": "Episode 48",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-06-22",
+    "episode_number": 48,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 97211,
+    "still_path": null
+  },
+  "name": "New Life",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 935,
+      "logo_path": "/o3psjR1jVKfhZiVUazPVfio2yKe.png",
+      "name": "TV JOJ",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 129,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Nový život",
+  "overview": "Three forty-year-olds friends, hockey player and football players, decide to end their sports careers at the same time. All three find themselves at the beginning of a new life and must choose the path they will take.",
+  "popularity": 21.8827,
+  "poster_path": "/lxY7SWMhjRWcM92h0aZxfcB9Cxd.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 40,
+      "id": 139764,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-01",
+      "episode_count": 41,
+      "id": 314283,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-19",
+      "episode_count": 48,
+      "id": 314291,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 97211,
+    "imdb_id": "tt13684464",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 375381,
+    "tvrage_id": null,
+    "wikidata_id": "Q79848885",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

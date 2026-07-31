@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/3zzAYFF57wqNbwDqtByMHi85HkH.jpg",
+  "created_by": [
+    {
+      "id": 79886,
+      "credit_id": "58eb6a87c3a36872ee08a957",
+      "name": "David Farr",
+      "original_name": "David Farr",
+      "gender": 2,
+      "profile_path": "/gIovbZGYf45bX40ZISa6zVcTIGg.jpg"
+    }
+  ],
+  "episode_run_time": [
+    56
+  ],
+  "first_air_date": "2018-02-17",
+  "genres": [
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b09szdtr",
+  "id": 71181,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-04-07",
+  "last_episode_to_air": {
+    "id": 1466254,
+    "name": "Offering",
+    "overview": "The Trojans are stunned to discover that all that remains of the Greek army in Troy is an offering to the gods in the form of a wooden horse. They believe the war may finally be over, and celebrations begin. But perhaps too soon.",
+    "vote_average": 3.8,
+    "vote_count": 6,
+    "air_date": "2018-04-07",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 1,
+    "show_id": 71181,
+    "still_path": "/uWHrWda2CaSIHxyz49TCpUMgtEG.jpg"
+  },
+  "name": "Troy: Fall of a City",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Troy: Fall of a City",
+  "overview": "A rich story of love, intrigue, betrayal and belonging told from the perspective of the Trojan royal family at the heart of the siege of Troy.",
+  "popularity": 13.4532,
+  "poster_path": "/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
+  "production_companies": [
+    {
+      "id": 88743,
+      "logo_path": "/9jirxukSd3qtIrY5yceRTzi98XF.png",
+      "name": "Wild Mercury Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3445,
+      "logo_path": "/7Jkq08LdnkxhK9M2LHuIOwHFfX8.png",
+      "name": "Kudos",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-02-17",
+      "episode_count": 8,
+      "id": 87256,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wPLiUBrVav1ssvRwcr0M3Xq92Vi.jpg",
+      "season_number": 1,
+      "vote_average": 3.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Love Is War",
+  "type": "Scripted",
+  "vote_average": 5.753,
+  "vote_count": 150,
+  "external_ids": {
+    "id": 71181,
+    "imdb_id": "tt5103758",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 327838,
+    "tvrage_id": null,
+    "wikidata_id": "Q28972003",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/k8rqfo7RWsaILRdXIfpEJcuG1lT.jpg",
+  "created_by": [
+    {
+      "id": 1115321,
+      "credit_id": "5fedf5aeabdafc0041ef30af",
+      "name": "Camilo Pellegrini",
+      "original_name": "Camilo Pellegrini",
+      "gender": 2,
+      "profile_path": "/1wZfhd9EVMNtsOHbFMoKAgCeKln.jpg"
+    },
+    {
+      "id": 2917987,
+      "credit_id": "5fedf5b4e04aca003e18b645",
+      "name": "Raphaela Castro",
+      "original_name": "Raphaela Castro",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3591205,
+      "credit_id": "62abc113d4d509008bf6f71f",
+      "name": "Stephanie Ribeiro",
+      "original_name": "Stephanie Ribeiro",
+      "gender": 0,
+      "profile_path": "/zsQ2TxEn1iCtNSfnlQlcZIwVG8e.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-01-19",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://recordtv.r7.com/genesis",
+  "id": 115645,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2021-11-30",
+  "last_episode_to_air": {
+    "id": 6929077,
+    "name": "Episode 226",
+    "overview": "",
+    "vote_average": 5,
+    "vote_count": 1,
+    "air_date": "2021-11-30",
+    "episode_number": 226,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 115645,
+    "still_path": null
+  },
+  "name": "Genesis",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 535,
+      "logo_path": "/6f8p5ifmBoRmXhG62LWI0cPgAQf.png",
+      "name": "Record",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 226,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Gênesis",
+  "overview": "The story of the first 2,300 years of humanity and recounts events exclusively from that period. The plot begins by giving us a greater understanding of why we exist and how we turned from perfection to imperfection. The origin of all social and racial problems is there at the beginning of everything, when via one decision a human being who only knew good and enjoyed it so much also chose to know evil.",
+  "popularity": 14.05,
+  "poster_path": "/qZJt1XlRVbQhGV7MtZnbiR6vxPh.jpg",
+  "production_companies": [
+    {
+      "id": 68962,
+      "logo_path": "/9wQ33NosUqKnj87ZUvEdud9LWws.png",
+      "name": "RECORD",
+      "origin_country": "BR"
+    },
+    {
+      "id": 137817,
+      "logo_path": "/ed8ONa6YUWLniykd0rxhD1bf7oG.png",
+      "name": "Casablanca",
+      "origin_country": "BR"
+    },
+    {
+      "id": 223830,
+      "logo_path": "/s6KPysfZG8QDTmEqVkLuqHCZqoy.png",
+      "name": "Seriella Productions",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-01-23",
+      "episode_count": 21,
+      "id": 192810,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-18",
+      "episode_count": 226,
+      "id": 174400,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qZJt1XlRVbQhGV7MtZnbiR6vxPh.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "To understand the present, we have to go back to the beginning of everything…",
+  "type": "Scripted",
+  "vote_average": 7.928,
+  "vote_count": 237,
+  "external_ids": {
+    "id": 115645,
+    "imdb_id": "tt11737102",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 393542,
+    "tvrage_id": null,
+    "wikidata_id": "Q62267357",
+    "facebook_id": "NovelaGenesisRecord",
+    "instagram_id": "novelagenesis",
+    "twitter_id": "NovelaGenesis"
+  }
+}

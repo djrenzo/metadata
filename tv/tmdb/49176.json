@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2012-04-23",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 49176,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2013-04-01",
+  "last_episode_to_air": {
+    "id": 4360638,
+    "name": "Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-04-01",
+    "episode_number": 50,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 49176,
+    "still_path": null
+  },
+  "name": "Canımın İçi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 1,
+  "origin_country": [],
+  "original_language": "tr",
+  "original_name": "Canımın İçi",
+  "overview": "",
+  "popularity": 16.2871,
+  "poster_path": "/tMglR7dRMHJ4ncTvCQ2bnMvmIsf.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2012-04-23",
+      "episode_count": 50,
+      "id": 75742,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 49176,
+    "imdb_id": "tt2321820",
+    "freebase_mid": "/m/0v96j6p",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/1jQNr3FzQjPGAkimq3uVqDjl4Xo.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2007-09-10",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://wdrmaus.de/elefantenseite",
+  "id": 41174,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2024-10-03",
+  "last_episode_to_air": {
+    "id": 5646535,
+    "name": "Episode 238",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-10-03",
+    "episode_number": 238,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 41174,
+    "still_path": "/q3NfnHPA3CaBLpq0oZiEz1Imk.jpg"
+  },
+  "name": "Die Sendung mit dem Elefanten",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1135,
+      "logo_path": "/xtK4PjzICkOEB2JSD9hgeQLow9K.png",
+      "name": "WDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 477,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Die Sendung mit dem Elefanten",
+  "overview": "",
+  "popularity": 11.7525,
+  "poster_path": "/qRuYgCQd3j4hkIlnGBnFwv6YXu2.jpg",
+  "production_companies": [
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-12-29",
+      "episode_count": 6,
+      "id": 372050,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 483,
+      "id": 90675,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 41174,
+    "imdb_id": "tt1198168",
+    "freebase_mid": "/m/0h66dxm",
+    "freebase_id": null,
+    "tvdb_id": 151891,
+    "tvrage_id": null,
+    "wikidata_id": "Q735790",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

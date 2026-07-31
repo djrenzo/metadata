@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/pvc6pcJFyLERf3M47IK8lUyXDN.jpg",
+  "created_by": [
+    {
+      "id": 123919,
+      "credit_id": "5e7545eda055ef00162b0bcb",
+      "name": "Guy A. Lepage",
+      "original_name": "Guy A. Lepage",
+      "gender": 2,
+      "profile_path": "/anUeTYaX99tM8hACiAKR0zTdMPD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    6
+  ],
+  "first_air_date": "1999-10-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1-series-films/un-gars-une-fille",
+  "id": 61679,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2003-10-16",
+  "last_episode_to_air": {
+    "id": 1022671,
+    "name": "Episode 83",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2003-10-16",
+    "episode_number": 83,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 6,
+    "season_number": 5,
+    "show_id": 61679,
+    "still_path": "/xcq7i030yp1ICStFeKPNxy6CYOu.jpg"
+  },
+  "name": "A Guy, a Girl",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 441,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "FR",
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Un gars, une fille",
+  "overview": "This series tells the daily life of a couple : Jean and Alexandra. From easy cases: in bed, in the living room, in the kitchen, by phone... to rare ones: lost on an island or in the country, in Hong Kong, during a wedding... Jean and Alexandra's life is not exactly a long, quiet river.",
+  "popularity": 13.2927,
+  "poster_path": "/zJO5th3bB2RPZv4ONm6dC9VE6Ob.jpg",
+  "production_companies": [
+    {
+      "id": 40626,
+      "logo_path": null,
+      "name": "Productions 22",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 64,
+      "id": 72375,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/pfRVJRlUEZkHdAlMRdVGOYgs25M.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-11",
+      "episode_count": 45,
+      "id": 63637,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rXmLpodxYkmOIW6JY3Hp30jObEx.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2000-02-14",
+      "episode_count": 64,
+      "id": 63640,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lChPoMWIfwloBT019oVE45J4DoM.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2000-10-02",
+      "episode_count": 157,
+      "id": 63641,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/boD561faQuqkLhhVwkW0jckVx1K.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2001-10-08",
+      "episode_count": 92,
+      "id": 63642,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/egF5zGqoqYYFmH8LnSwK19nIzb1.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2002-10-07",
+      "episode_count": 83,
+      "id": 63643,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/7PkhW05du9siELmqYGyxSieBasR.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.589,
+  "vote_count": 73,
+  "external_ids": {
+    "id": 61679,
+    "imdb_id": "tt0217224",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 81791,
+    "tvrage_id": null,
+    "wikidata_id": "Q16681744",
+    "facebook_id": "ungarsunefille",
+    "instagram_id": null,
+    "twitter_id": "ugufofficiel"
+  }
+}

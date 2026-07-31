@@ -1,0 +1,218 @@
+{
+  "adult": false,
+  "backdrop_path": "/qPAMkrqfoqDjbHoPoAOpXegpBOE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45,
+    50,
+    55
+  ],
+  "first_air_date": "2017-03-13",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 98329,
+  "in_production": true,
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "last_air_date": "2025-12-19",
+  "last_episode_to_air": {
+    "id": 6778852,
+    "name": "Episode 184",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-19",
+    "episode_number": 184,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 9,
+    "show_id": 98329,
+    "still_path": null
+  },
+  "name": "Invitation au voyage",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 662,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1628,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 1488,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Invitation au voyage",
+  "overview": "",
+  "popularity": 9.6744,
+  "poster_path": "/7LQqTlAVgTJqiCe3GDk5zeRzjkL.jpg",
+  "production_companies": [
+    {
+      "id": 110993,
+      "logo_path": null,
+      "name": "Elephant Adventures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 98062,
+      "logo_path": null,
+      "name": "Elephant Doc",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-13",
+      "episode_count": 150,
+      "id": 141563,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-08",
+      "episode_count": 205,
+      "id": 204700,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 205,
+      "id": 204701,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 200,
+      "id": 204702,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 195,
+      "id": 204703,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 200,
+      "id": 343944,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 200,
+      "id": 391255,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 114,
+      "id": 390379,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 40,
+      "id": 439940,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 505074,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 98329,
+    "imdb_id": "tt7371654",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 353085,
+    "tvrage_id": null,
+    "wikidata_id": "Q30742698",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

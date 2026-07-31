@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/axPXHLwn2igZMmo2nD1vz9GVMC0.jpg",
+  "created_by": [
+    {
+      "id": 1238935,
+      "credit_id": "5257913e760ee36aaa6d882a",
+      "name": "Sebastián Ortega",
+      "original_name": "Sebastián Ortega",
+      "gender": 2,
+      "profile_path": "/w3QkTTUabP0M0glMgzOnTsO4cbp.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.antenna.gr/lola/pages/default.aspx",
+  "id": 8470,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2009-07-07",
+  "last_episode_to_air": {
+    "id": 6253310,
+    "name": "Episode 202",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-07-07",
+    "episode_number": 202,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 8470,
+    "still_path": null
+  },
+  "name": "Λόλα",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 202,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GR",
+    "CY"
+  ],
+  "original_language": "el",
+  "original_name": "Λόλα",
+  "overview": "Lola was the Greek remake of the successful Argentine comedy franchise Lalola. The series premiered on September 22, 2008 in Greece on ANT1 and ran Monday through Friday. The last episode was released on July 7, 2009.",
+  "popularity": 12.8183,
+  "poster_path": "/d630sSHlPiUdx8BNd9XZB9iB1lh.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 202,
+      "id": 173018,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/100bze1k7AVe02C5CFx8nhGz7Es.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 8470,
+    "imdb_id": "tt1291084",
+    "freebase_mid": "/m/04y6kl5",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6668793",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

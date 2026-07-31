@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/fkqXzCH8mvubm7cpJKCmzaBrMSt.jpg",
+  "created_by": [
+    {
+      "id": 583614,
+      "credit_id": "5bde98350e0a2605890208e9",
+      "name": "Aguinaldo Silva",
+      "original_name": "Aguinaldo Silva",
+      "gender": 2,
+      "profile_path": "/92g1Nc12Pzjq0ZjMoOdXYPCnG6M.jpg"
+    },
+    {
+      "id": 1256935,
+      "credit_id": "682f78de65b5510b26eb20df",
+      "name": "Ricardo Linhares",
+      "original_name": "Ricardo Linhares",
+      "gender": 2,
+      "profile_path": "/cUElLjN3xVxT8O7b0C8WEOX3cMp.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1997-02-17",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://memoriaglobo.globo.com/programas/entretenimento/novelas/a-indomada.htm",
+  "id": 41811,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1997-10-10",
+  "last_episode_to_air": {
+    "id": 1605803,
+    "name": "Episode 203",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1997-10-10",
+    "episode_number": 203,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 1,
+    "show_id": 41811,
+    "still_path": null
+  },
+  "name": "A Indomada",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 203,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "A Indomada",
+  "overview": "In Greenville, some families never lose their composure. This is the case with the Mendonça and Albuquerque families, who would never allow a \"noble\" member of their family to become involved with a sugarcane cutter.",
+  "popularity": 11.5646,
+  "poster_path": "/qa3DYa4aA71kdxP1wIvy1kQLxGI.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-02-17",
+      "episode_count": 203,
+      "id": 111576,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qa3DYa4aA71kdxP1wIvy1kQLxGI.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.9,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 41811,
+    "imdb_id": "tt0138241",
+    "freebase_mid": "/m/0h97wb2",
+    "freebase_id": null,
+    "tvdb_id": 328088,
+    "tvrage_id": null,
+    "wikidata_id": "Q4657469",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

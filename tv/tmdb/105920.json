@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    29
+  ],
+  "first_air_date": "1997-01-21",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 105920,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1998-04-25",
+  "last_episode_to_air": {
+    "id": 2348037,
+    "name": "Sahuagin River",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-04-25",
+    "episode_number": 2,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 105920,
+    "still_path": null
+  },
+  "name": "Magic Woman M",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 2,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "魔法少女メルル",
+  "overview": "A newly trained young sorceress name Meruru gets lost in the forest in the middle of the training, and has numerous encounters with dangerous beasts.",
+  "popularity": 13.495,
+  "poster_path": "/983wZExYw5LDmBvz69WXZBuFVYX.jpg",
+  "production_companies": [
+    {
+      "id": 150329,
+      "logo_path": null,
+      "name": "Beam Entertainment",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1997-01-21",
+      "episode_count": 2,
+      "id": 156170,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 105920,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

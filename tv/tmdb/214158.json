@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/ilOyhH7yuNGouUlsAiSEw3lMJxR.jpg",
+  "created_by": [
+    {
+      "id": 3777681,
+      "credit_id": "636bc43621621b00cd61438b",
+      "name": "Nagy Ádám",
+      "original_name": "Nagy Ádám",
+      "gender": 2,
+      "profile_path": "/yMdfX9NKVcr0eWk6oPOSRS9z7Od.jpg"
+    },
+    {
+      "id": 3777683,
+      "credit_id": "636bc442d7fbda007bee24cb",
+      "name": "Szabó Márton",
+      "original_name": "Szabó Márton",
+      "gender": 0,
+      "profile_path": "/3JIABgTEaqPZN6v3ifIrgZtNW2T.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2023-01-02",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.youtube.com/@jolvanez",
+  "id": 214158,
+  "in_production": true,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2025-05-30",
+  "last_episode_to_air": {
+    "id": 6273892,
+    "name": "Episode 168",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-05-30",
+    "episode_number": 168,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 78,
+    "season_number": 3,
+    "show_id": 214158,
+    "still_path": null
+  },
+  "name": "JÓLVANEZÍGY",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 493,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "JÓLVANEZÍGY",
+  "overview": "",
+  "popularity": 16.1022,
+  "poster_path": "/zRbI59RTsXN0CwcagmhSPokLDck.jpg",
+  "production_companies": [
+    {
+      "id": 188878,
+      "logo_path": null,
+      "name": "Rawfilter Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-11-02",
+      "episode_count": 37,
+      "id": 425190,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/rYTdstHdOiCHkxdaS0akCIP1g39.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 131,
+      "id": 315797,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eCjID4xxhWpIzZCKByA81veIvV8.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-05",
+      "episode_count": 194,
+      "id": 320979,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/eD2hKYpHsnl94qbMCdaKHGl3Q5e.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-04",
+      "episode_count": 168,
+      "id": 425292,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/3deRE7ezDVufmU3Gs2ZrLsZnZlc.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 214158,
+    "imdb_id": "tt29631189",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "jolvanezigyhivatalos",
+    "twitter_id": null
+  }
+}

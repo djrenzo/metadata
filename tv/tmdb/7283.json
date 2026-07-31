@@ -1,0 +1,221 @@
+{
+  "adult": false,
+  "backdrop_path": "/nXmxvy4VyiaYVVINJYARSD3CTLi.jpg",
+  "created_by": [
+    {
+      "id": 1261480,
+      "credit_id": "5534fbb5c3a3683443001673",
+      "name": "Daniel Écija",
+      "original_name": "Daniel Écija",
+      "gender": 2,
+      "profile_path": "/kAO5PnkXVPlaTmXSfoXkUVSLoKI.jpg"
+    },
+    {
+      "id": 82725,
+      "credit_id": "5534fbc1c3a3683443001676",
+      "name": "Álex Pina",
+      "original_name": "Álex Pina",
+      "gender": 2,
+      "profile_path": "/hMKcFPRKo0I4WLBvkvppyBFDGr8.jpg"
+    }
+  ],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2003-04-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.telecinco.es/losserrano",
+  "id": 7283,
+  "in_production": false,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "2008-07-17",
+  "last_episode_to_air": {
+    "id": 385975,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-07-17",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 80,
+    "season_number": 8,
+    "show_id": 7283,
+    "still_path": "/hhoqAcJbyxNRvFv4SEmFHdHEjrS.jpg"
+  },
+  "name": "Los Serrano",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 53,
+      "logo_path": "/nSksjyoitz94qhfon6uzJj6ekj9.png",
+      "name": "Telecinco",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 147,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Los Serrano",
+  "overview": "Los Serrano is a Spanish television drama comedy which premiered on 22 April 2003 and aired on Telecinco. It tells the story of the Serrano family, who lives in Round Santa Justa No 133, located in the fictional neighborhood of Santa Justa, in the Ribera del Manzanares, in Madrid. The success of the series in Spain and in several other countries in Europe and elsewhere helped launch the career of several young actors and actresses, especially actor and musician Fran Perea, who acts in the series and sings its theme song, \"1 más 1 son 7\".",
+  "popularity": 19.6544,
+  "poster_path": "/w9hPecVLyCkbnJLLdjFu67URBZP.jpg",
+  "production_companies": [
+    {
+      "id": 21632,
+      "logo_path": "/gEto1Q487D4JPriz2qVfkkvyqjy.png",
+      "name": "Mediaset España",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2029,
+      "logo_path": null,
+      "name": "Estudios Picasso",
+      "origin_country": "ES"
+    },
+    {
+      "id": 42819,
+      "logo_path": "/f5h7s7xdwG3mL3F3MWnQfwMdRli.png",
+      "name": "Globomedia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-04-22",
+      "episode_count": 13,
+      "id": 17460,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5XXIHOfOcvg3NiHZta0WtRkBM58.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2003-11-11",
+      "episode_count": 13,
+      "id": 17461,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bnLeuEnr8HfSpX2WY7d1hW2SkWa.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-02-26",
+      "episode_count": 19,
+      "id": 17462,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/mTxhw8oNvbPVSy68MwFJAzBZswL.jpg",
+      "season_number": 3,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "2005-01-12",
+      "episode_count": 26,
+      "id": 17463,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/gDi2a7MT23LM661UkUMMdy9xM0i.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-12-20",
+      "episode_count": 26,
+      "id": 17464,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/m3SAw1lMdtN64JIYibNqqTSVki8.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 27,
+      "id": 17465,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/mRUSjbqOGbRpmMyFihPLHI9EFNV.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-12-19",
+      "episode_count": 16,
+      "id": 17466,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/dTayMe1m9KVbIuzeyRnWVpcGKQ7.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-06-05",
+      "episode_count": 7,
+      "id": 17467,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/oARmKUXwWXtcMnCF36d6xdSSynP.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 7283,
+    "imdb_id": "tt0362372",
+    "freebase_mid": "/m/043kf4q",
+    "freebase_id": "/en/los_serrano",
+    "tvdb_id": 83503,
+    "tvrage_id": null,
+    "wikidata_id": "Q899677",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

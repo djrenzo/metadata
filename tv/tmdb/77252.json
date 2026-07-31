@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/6QXN3tWios7vCc5YitbX2UwV09G.jpg",
+  "created_by": [
+    {
+      "id": 3784206,
+      "credit_id": "6a6a1eef0daafa69b036bce5",
+      "name": "Edvinas Kalėda",
+      "original_name": "Edvinas Kalėda",
+      "gender": 2,
+      "profile_path": "/2Yl9VqsARP2TA6QY2ee7XcWZXw0.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2011-02-14",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 77252,
+  "in_production": false,
+  "languages": [
+    "lt"
+  ],
+  "last_air_date": "2018-06-18",
+  "last_episode_to_air": {
+    "id": 5159875,
+    "name": "Episode 77",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-06-18",
+    "episode_number": 77,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 4,
+    "show_id": 77252,
+    "still_path": "/y4StqhqWLHPreqWTmN9VtDiaXJ0.jpg"
+  },
+  "name": "Pasmerkti",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 785,
+      "logo_path": "/9HKK1RivzMGNQXfo3Cgi1Ptm5cF.png",
+      "name": "TV3",
+      "origin_country": "LT"
+    }
+  ],
+  "number_of_episodes": 277,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "LT"
+  ],
+  "original_language": "lt",
+  "original_name": "Pasmerkti",
+  "overview": "",
+  "popularity": 11.7211,
+  "poster_path": "/3mR71gijMhTklcxpzRJwgTL4emu.jpg",
+  "production_companies": [
+    {
+      "id": 97578,
+      "logo_path": "/wOvuCsQ2i2uRRK6uMP6k6JW5BEi.png",
+      "name": "Videometra",
+      "origin_country": "LT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-02-14",
+      "episode_count": 58,
+      "id": 99578,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3mR71gijMhTklcxpzRJwgTL4emu.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 70,
+      "id": 316177,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8EcvK7T0fKnAl7vRdnCmaB3XCL9.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 72,
+      "id": 316178,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/WMzJ4YuXYJzmYZn77J5PvAMmQB.jpg",
+      "season_number": 3,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2018-02-05",
+      "episode_count": 77,
+      "id": 316179,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/nP8HAfVYpN58qiNzxa3BNcqJarg.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvių"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 77252,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "pasmerktioficialus",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

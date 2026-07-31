@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/pV4UDWIwPgOMYMXyexnwIavKjAj.jpg",
+  "created_by": [
+    {
+      "id": 2273323,
+      "credit_id": "640317e3e61e6d00d532afb9",
+      "name": "Guo Baochang",
+      "original_name": "郭宝昌",
+      "gender": 2,
+      "profile_path": "/sOcPGiZo2VVuVXVgXR1vqPHAi3Z.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2001-04-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://movie.douban.com/subject/2181930/",
+  "id": 49203,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2003-04-15",
+  "last_episode_to_air": {
+    "id": 1193611,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-04-15",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 49203,
+    "still_path": null
+  },
+  "name": "The Grand Mansion Gate",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1363,
+      "logo_path": "/x0f4gH2NOQpE77XF4E8IrrwfoKU.png",
+      "name": "CCTV-1",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "大宅门",
+  "overview": "This Chinese period drama series follows the fortunes of a prominent merchant family engaged in Traditional Chinese Medicine during the waning years of the Ching dynasty. The affairs of this family of doctors/pharmacists (which in those days were one and the same) are intimately linked with social upheavals of the time such as the encroachment of Christian missionaries and foreign imperialism as well as conflicts that inevitably emerge in a large upper class family. Comparable in scope and production value to such recent titles as \"Downton Abbey\", the lives and character of both masters and servants intertwine in plot lines that spans more than a generation.",
+  "popularity": 12.0305,
+  "poster_path": "/2P8SbX2WgS7pNw5uV3bUTUvfVVS.jpg",
+  "production_companies": [
+    {
+      "id": 76852,
+      "logo_path": null,
+      "name": "无锡中视股份公司",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-04-14",
+      "episode_count": 40,
+      "id": 77072,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/k1HkaXyvDdZS2RxRnMza8LgLSKw.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-04-15",
+      "episode_count": 32,
+      "id": 77073,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bxXC9QKCXDwGgpvsnCgBAN3T2TG.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.9,
+  "vote_count": 15,
+  "external_ids": {
+    "id": 49203,
+    "imdb_id": "tt1368472",
+    "freebase_mid": "/m/0v99ltz",
+    "freebase_id": null,
+    "tvdb_id": 178841,
+    "tvrage_id": null,
+    "wikidata_id": "Q10934828",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

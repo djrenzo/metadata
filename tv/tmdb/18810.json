@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 234560,
+      "credit_id": "6450c3df93bd6900f01ac53d",
+      "name": "Gina Marissa Tagasa-Gil",
+      "original_name": "Gina Marissa Tagasa-Gil",
+      "gender": 1,
+      "profile_path": "/c7wO6Tz7F5ck2p4XwwadDfbqjjh.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1996-08-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 18810,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "1997-08-15",
+  "last_episode_to_air": {
+    "id": 4408778,
+    "name": "Episode 263",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1997-08-15",
+    "episode_number": 263,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 18810,
+    "still_path": null
+  },
+  "name": "Mia Gracia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 263,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Mia Gracia",
+  "overview": "Mia Gracia is a Philippine television series produced by TAPE, Inc. and aired over GMA Network. The series featured Eat Bulaga!'s \"number girl\" Gracia Cortez. This drama revolves around twin sisters Mia and Gracia and their complicated lives and loves.",
+  "popularity": 21.7923,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 36982,
+      "logo_path": null,
+      "name": "Tape Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1996-08-12",
+      "episode_count": 263,
+      "id": 339334,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 18810,
+    "imdb_id": "tt10495936",
+    "freebase_mid": "/m/064kjx7",
+    "freebase_id": "/en/mia_gracia",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

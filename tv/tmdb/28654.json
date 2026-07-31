@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/5vCxHd4MxwKymr5bvNgAj9b00gg.jpg",
+  "created_by": [
+    {
+      "id": 2136053,
+      "credit_id": "5eb90116bbe1dd002083b269",
+      "name": "Alberto Migré",
+      "original_name": "Alberto Migré",
+      "gender": 2,
+      "profile_path": "/bvJ7EKsVYmJuQI0xWsNkrddbeYU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1997-01-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 28654,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "1997-11-28",
+  "last_episode_to_air": {
+    "id": 4517824,
+    "name": "Episode 235",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1997-11-28",
+    "episode_number": 235,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 28654,
+    "still_path": null
+  },
+  "name": "Alguna Vez Tendremos Alas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 235,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Alguna Vez Tendremos Alas",
+  "overview": "",
+  "popularity": 11.3417,
+  "poster_path": "/cmXNQHZFxoPZIMqwGcJy337eFqk.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-01-06",
+      "episode_count": 235,
+      "id": 39938,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 28654,
+    "imdb_id": "tt0208609",
+    "freebase_mid": "/m/07ch8nb",
+    "freebase_id": "/en/alguna_vez_tendremos_alas",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q3281241",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

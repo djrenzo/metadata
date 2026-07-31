@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/i77WkwYKVp6e8yQvTaw6rpMj7I1.jpg",
+  "created_by": [
+    {
+      "id": 1244061,
+      "credit_id": "5330dd6c9251410b4e000490",
+      "name": "Delia Fiallo",
+      "original_name": "Delia Fiallo",
+      "gender": 1,
+      "profile_path": "/7n7Mo61t47uHjpdk7MdfwGAPiR1.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1984-11-10",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 16145,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1985-08-04",
+  "last_episode_to_air": {
+    "id": 1970775,
+    "name": "Episode 182",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1985-08-04",
+    "episode_number": 182,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 16145,
+    "still_path": null
+  },
+  "name": "Topacio",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 289,
+      "logo_path": "/eFSACJaHlGL4X9UwimqWs2n0URg.png",
+      "name": "RCTV",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Topacio",
+  "overview": "It depicts the life of Topázio, a blind woman who falls in love with Jorge Luis, the son of the owners of a large estate; little did they know, however, that they had been switched at birth, as Topázio had been presumed dead. Topázio had a close friend, Sirilo, who suffered from mental health issues.",
+  "popularity": 27.1951,
+  "poster_path": "/rKyAQdXu9VQ7yr5EKGeIJo4oTHv.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1984-11-10",
+      "episode_count": 182,
+      "id": 134724,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rKyAQdXu9VQ7yr5EKGeIJo4oTHv.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.9,
+  "vote_count": 85,
+  "external_ids": {
+    "id": 16145,
+    "imdb_id": null,
+    "freebase_mid": "/m/0fh66r",
+    "freebase_id": "/en/topacio",
+    "tvdb_id": 299512,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

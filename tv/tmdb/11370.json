@@ -1,0 +1,321 @@
+{
+  "adult": false,
+  "backdrop_path": "/eXLjJTvgk56pUX70PkoOlA4jMzb.jpg",
+  "created_by": [
+    {
+      "id": 1221229,
+      "credit_id": "52580f4c19c29531db44182a",
+      "name": "Ken Warwick",
+      "original_name": "Ken Warwick",
+      "gender": 2,
+      "profile_path": "/fRzX8GIQOOjcViA3vt8SaBeN96f.jpg"
+    },
+    {
+      "id": 165899,
+      "credit_id": "643ba06e37806202eb15d322",
+      "name": "Simon Cowell",
+      "original_name": "Simon Cowell",
+      "gender": 2,
+      "profile_path": "/pKllSRO03fLD6z0dMMQAuooKXhF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2007-06-09",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.itv.com/talent",
+  "id": 11370,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-16",
+  "last_episode_to_air": {
+    "id": 7016037,
+    "name": "The Final",
+    "overview": "Ant and Dec host a dazzling night of performances as Britain's Got Talent reaches the spectacular live final where one act will be crowned this year's winner.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-30",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 122,
+    "season_number": 19,
+    "show_id": 11370,
+    "still_path": "/vctpqne3hwN86QkUQAROAGdIMRH.jpg"
+  },
+  "name": "Britain's Got Talent",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 304,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Britain's Got Talent",
+  "overview": "Britain's best (and worst) variety acts compete to win a spot at the Royal Variety Show.",
+  "popularity": 15.1237,
+  "poster_path": "/rWzxYJz1OfwoXwCPxanloNIz5LS.jpg",
+  "production_companies": [
+    {
+      "id": 112144,
+      "logo_path": "/uarFf8zUkBvyxXLFE5X2S5MDh9a.png",
+      "name": "Syco Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3448,
+      "logo_path": "/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png",
+      "name": "ITV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-12-13",
+      "episode_count": 13,
+      "id": 201812,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-09",
+      "episode_count": 10,
+      "id": 68275,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jZVeaqXlnIlg65aKirvxaIL1GOK.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2008-04-12",
+      "episode_count": 14,
+      "id": 201814,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-11",
+      "episode_count": 14,
+      "id": 201815,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-17",
+      "episode_count": 18,
+      "id": 201816,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-16",
+      "episode_count": 19,
+      "id": 201817,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-24",
+      "episode_count": 17,
+      "id": 201818,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-13",
+      "episode_count": 18,
+      "id": 67314,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-04-12",
+      "episode_count": 18,
+      "id": 201819,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-11",
+      "episode_count": 18,
+      "id": 65835,
+      "name": "Season 9",
+      "overview": "\"Britain's Got Talent\" is a reality talent show hosted by Ant and Dec. Any sort of entertainment act is able to enter the competition and hopefully impress the judges and make it through to the final stages of the competition. The series winner's prize is £100,000 and the chance to perform at the \"Royal Variety Show\". The judges on the show are Simon Cowell, Piers Morgan and Amanda Holden.",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-09",
+      "episode_count": 18,
+      "id": 76197,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2017-04-15",
+      "episode_count": 18,
+      "id": 87437,
+      "name": "Series 11",
+      "overview": "",
+      "poster_path": "/hyg6Zh5y9tTO3DLQpdkLm9t7J4t.jpg",
+      "season_number": 11,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2018-04-14",
+      "episode_count": 18,
+      "id": 88634,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-06",
+      "episode_count": 19,
+      "id": 121625,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-11",
+      "episode_count": 15,
+      "id": 147504,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2022-04-16",
+      "episode_count": 14,
+      "id": 286956,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-15",
+      "episode_count": 14,
+      "id": 334956,
+      "name": "Series 16",
+      "overview": "",
+      "poster_path": "/k4dUtcLtN6sffd6dUCx9do02hYr.jpg",
+      "season_number": 16,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2024-04-20",
+      "episode_count": 14,
+      "id": 388505,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/eqssJRwjpb3iILQFc2hQGCblGh.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-22",
+      "episode_count": 14,
+      "id": 442711,
+      "name": "Series 18",
+      "overview": "Always entertaining, always surprising, plus Ant & Dec. Join Simon Cowell, Amanda Holden, Alesha Dixon, Bruno Tonioli, and special guest KSI in the search for Britain's next stars. Expect singers, dancers, comedians and more!",
+      "poster_path": "/sKz1FsaAZooTdBepsAdVkkWXF3J.jpg",
+      "season_number": 18,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2026-02-21",
+      "episode_count": 14,
+      "id": 499089,
+      "name": "Series 19",
+      "overview": "",
+      "poster_path": "/rWzxYJz1OfwoXwCPxanloNIz5LS.jpg",
+      "season_number": 19,
+      "vote_average": 9.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.322,
+  "vote_count": 76,
+  "external_ids": {
+    "id": 11370,
+    "imdb_id": "tt1034201",
+    "freebase_mid": "/m/0276956",
+    "freebase_id": "/en/britains_got_talent",
+    "tvdb_id": 80727,
+    "tvrage_id": null,
+    "wikidata_id": "Q556444",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

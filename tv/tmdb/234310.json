@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/ihFgxTeZ8nenm8Y41tuGH7tCeTU.jpg",
+  "created_by": [
+    {
+      "id": 1196073,
+      "credit_id": "64f9daa0a8b2ca4f18b48d98",
+      "name": "Oliver Lansley",
+      "original_name": "Oliver Lansley",
+      "gender": 2,
+      "profile_path": "/bjMJiDwaMq2OCo7pjBfvMvD8Taw.jpg"
+    },
+    {
+      "id": 38625,
+      "credit_id": "64f9dab4db4ed600ac3c2a2e",
+      "name": "Zoltan Spirandelli",
+      "original_name": "Zoltan Spirandelli",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-10-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.k92ure4ft8lmbfhynpk3xpb4",
+  "id": 234310,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2024-11-13",
+  "last_episode_to_air": {
+    "id": 5495472,
+    "name": "Wandafest",
+    "overview": "With the festival underway, the Klatts set out on their mission—and make a shocking discovery.",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2024-11-13",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 234310,
+    "still_path": "/9Dh1yc40KmGM37xM78h66RrHc9C.jpg"
+  },
+  "name": "Where's Wanda?",
+  "next_episode_to_air": {
+    "id": 7532476,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-21",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 234310,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Where's Wanda?",
+  "overview": "After the Klatts' daughter goes missing, they take matters into their own hands and hatch a wild plan: Spy on the neighborhood. As they make their way into small-time espionage, shocking secrets come to light one by one.",
+  "popularity": 14.3931,
+  "poster_path": "/mO4zLRhA88KbV92uWiwKvtXI66G.jpg",
+  "production_companies": [
+    {
+      "id": 24307,
+      "logo_path": "/xJo66MG6C99FeO81ddXVswjEmSB.png",
+      "name": "UFA Fiction",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-10-01",
+      "episode_count": 8,
+      "id": 355868,
+      "name": "Season 1",
+      "overview": "The story of Dedo and Carlotta Klatt, who are desperate to locate their missing 17-year-old daughter Wanda, who disappeared months ago without a trace. When the police fail to find her, the family takes matters into their own hands, obtaining surveillance devices with the help of their tech-savvy son Ole. Disguising themselves as employees of an electrical company, they bug their neighborhood and then half their suburb, finding out that behind closed doors, none of their neighbors are who they pretend to be.",
+      "poster_path": "/1bDpAtoFlBGzQbrfEyfTbB0dsFv.jpg",
+      "season_number": 1,
+      "vote_average": 2.1
+    },
+    {
+      "air_date": "2026-10-20",
+      "episode_count": 8,
+      "id": 530026,
+      "name": "Season 2",
+      "overview": "In season two, the Klatts are back! Just as they thought their lives were finally returning to normal, their daughter, Wanda, is caught seemingly red-handed standing over a dead body. They will need to do everything in their power to prove her innocence and avoid losing her again, as their investigation to find the real murderer takes them into the criminal underbelly of their sleepy suburban town. But will their quest to protect their family get them all out of trouble, or ultimately lead them further astray? And can they find out the truth of what happened on that fateful day before it's too late?",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.639,
+  "vote_count": 36,
+  "external_ids": {
+    "id": 234310,
+    "imdb_id": "tt29011445",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 439277,
+    "tvrage_id": null,
+    "wikidata_id": "Q130765418",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "adult": false,
+  "backdrop_path": "/oUNw6oeJWsTR1XJXA40VJMHnFZs.jpg",
+  "created_by": [
+    {
+      "id": 1283598,
+      "credit_id": "52c9ff5b760ee32f7a032962",
+      "name": "Lykke Neiiendam",
+      "original_name": "Lykke Neiiendam",
+      "gender": 1,
+      "profile_path": "/i5BNCGXmRppJtPTDWwyFFlDvceD.jpg"
+    },
+    {
+      "id": 221111,
+      "credit_id": "58d2dcc7c3a3681289003afd",
+      "name": "Anders Breinholt",
+      "original_name": "Anders Breinholt",
+      "gender": 2,
+      "profile_path": "/mpBJTm4fypooljhbaDeTeouwKAf.jpg"
+    },
+    {
+      "id": 4056815,
+      "credit_id": "685e87b3abd2d2fbe49151f2",
+      "name": "Peter Molde-Amelung",
+      "original_name": "Peter Molde-Amelung",
+      "gender": 2,
+      "profile_path": "/26F3E340gFDR4dDfQ0MVx4zYTly.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2010-09-27",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://play.tv2.dk/programmer/underholdning/talkshows/natholdet",
+  "id": 51038,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2022-09-26",
+  "last_episode_to_air": {
+    "id": 3938275,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-09-26",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 24,
+    "show_id": 51038,
+    "still_path": null
+  },
+  "name": "Natholdet",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 101,
+      "logo_path": "/sa7WIkkl34Hh8xj8hFRfrZNaLis.png",
+      "name": "TV 2 Zulu",
+      "origin_country": "DK"
+    },
+    {
+      "id": 125,
+      "logo_path": "/2cDF7NrooRYZhET5fCcTiXATD5j.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 4875,
+      "logo_path": "/3Os40ulFXkNcCbBG41lk0N6Eq3p.png",
+      "name": "TV2 Play",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 928,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Natholdet",
+  "overview": "",
+  "popularity": 12.4766,
+  "poster_path": "/fV1MLDaXk3Tq7xmSQcb41L1cet7.jpg",
+  "production_companies": [
+    {
+      "id": 148277,
+      "logo_path": "/oNxq8koaabZnPQwBUUNPkx8NzRp.png",
+      "name": "Pineapple Entertainment",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-31",
+      "episode_count": 71,
+      "id": 176030,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/fCimmJQIVthwWXhXMF95FFyngKK.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-27",
+      "episode_count": 41,
+      "id": 59792,
+      "name": "Sæson 1",
+      "overview": "",
+      "poster_path": "/AoZt1fHTKGfPiSB0E8DdRsbojpz.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-21",
+      "episode_count": 39,
+      "id": 59793,
+      "name": "Sæson 2",
+      "overview": "",
+      "poster_path": "/SxdPVaXHnTJknsxUgud9IsYwUe.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-08",
+      "episode_count": 43,
+      "id": 59794,
+      "name": "Sæson 3",
+      "overview": "",
+      "poster_path": "/ifWJKVGcYlnc9UjDI2Jsh9bTL6B.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-30",
+      "episode_count": 88,
+      "id": 59795,
+      "name": "Sæson 4",
+      "overview": "",
+      "poster_path": "/kn7ksGAIle3LZh1c9Im9HtnYxR.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-24",
+      "episode_count": 41,
+      "id": 59796,
+      "name": "Sæson 5",
+      "overview": "",
+      "poster_path": "/hU0acTvl1Ql9fTb8iFdMBQJY277.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-21",
+      "episode_count": 40,
+      "id": 59797,
+      "name": "Sæson 6",
+      "overview": "",
+      "poster_path": "/czv7E6qTyLfZpXnQoWQ1KBtz4yC.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 40,
+      "id": 59798,
+      "name": "Sæson 7",
+      "overview": "",
+      "poster_path": "/zBgODQm9d0dksLVKXu3zNjMKjzu.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-27",
+      "episode_count": 40,
+      "id": 74020,
+      "name": "Sæson 8",
+      "overview": "",
+      "poster_path": "/vIZcoguxYmeq27gbkw6xXynGwPc.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-22",
+      "episode_count": 39,
+      "id": 74021,
+      "name": "Sæson 9",
+      "overview": "",
+      "poster_path": "/lpErrVM0kekBMmYUyb8Q8qnGr5s.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 58,
+      "id": 74022,
+      "name": "Sæson 10",
+      "overview": "",
+      "poster_path": "/5729MJjj4j2DajQvasOwiqysSxP.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 40,
+      "id": 74023,
+      "name": "Sæson 11",
+      "overview": "",
+      "poster_path": "/oU1IfuutGlYphATUuncTSS3F5Ve.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-01",
+      "episode_count": 14,
+      "id": 74393,
+      "name": "Sæson 12",
+      "overview": "",
+      "poster_path": "/8koYF37D3wllnlASH7aApCZtSTr.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-05",
+      "episode_count": 8,
+      "id": 99553,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/2nAXPCy2P0ZbMtwTqMydyTHucap.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-30",
+      "episode_count": 40,
+      "id": 176035,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/hdkr9xbeJrHTh76AsuSOlFloBvL.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-18",
+      "episode_count": 39,
+      "id": 176036,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/jjFfV4He2iQqblZqywWUDPvt1zz.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-05",
+      "episode_count": 40,
+      "id": 178953,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/rZo2j6zTDQXQ07mIRbCpSV43xuM.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 44,
+      "id": 176037,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/g0AdjmMnbysL01Oq1Dkre5zlzfz.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-28",
+      "episode_count": 40,
+      "id": 176038,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/8QWSXwmgZFhdIBBc8n6Pn3btfie.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 39,
+      "id": 136882,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/lyQmQGLTU2z8GOF7W6mkycUx6oa.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-27",
+      "episode_count": 43,
+      "id": 176032,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/giqNlkpwTwekndoCIf4FmwUvyyz.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-07",
+      "episode_count": 42,
+      "id": 176034,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/f7S6Sxa25L6qOvKAOs56q6uxHJb.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-01",
+      "episode_count": 40,
+      "id": 178955,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/9PGaG3yFet9OBClBssazUQqNjGr.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 26,
+      "id": 211110,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/y3ji3eX9WM4Q7YO6y4a2wo9xffG.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-05",
+      "episode_count": 4,
+      "id": 307578,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/kvHsoEPS8FtSdqlO6HYijZYYkHp.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 51038,
+    "imdb_id": "tt1741602",
+    "freebase_mid": "/m/0vxpsc6",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q12328311",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

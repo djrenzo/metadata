@@ -1,0 +1,216 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1254192,
+      "credit_id": "5259644c760ee34661998df2",
+      "name": "Roel van Velzen",
+      "original_name": "Roel van Velzen",
+      "gender": 2,
+      "profile_path": "/w4DXJ8VuicGXcGkPwtxDtPRDzZE.jpg"
+    },
+    {
+      "id": 1215602,
+      "credit_id": "5259644c760ee34661998dec",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-07-18",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.btv.bg/shows/glasat-na-bulgaria/",
+  "id": 43226,
+  "in_production": true,
+  "languages": [
+    "bg"
+  ],
+  "last_air_date": "2024-12-21",
+  "last_episode_to_air": {
+    "id": 6430853,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-12-21",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 43226,
+    "still_path": null
+  },
+  "name": "Glasat na Bulgaria",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 465,
+      "logo_path": "/weRlr6YYB89FAbwq0Rln5rMEFkW.png",
+      "name": "bTV",
+      "origin_country": "BG"
+    }
+  ],
+  "number_of_episodes": 212,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "BG"
+  ],
+  "original_language": "bg",
+  "original_name": "Гласът на България",
+  "overview": "Glasat na Bulgaria is a Bulgarian reality singing competition and local version of The Voice of Holland. Its first season was held in the summer of 2011 on bTV. One of the important premises of the show is the quality of the singing talent. Four coaches, themselves popular performing artists, train the talents in their group and occasionally perform with them. Talents are selected in blind auditions, where the coaches cannot see, but only hear the auditioner.",
+  "popularity": 11.8883,
+  "poster_path": "/uGZ0KHRaY8zrqDICSFee7I3SufY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-07-18",
+      "episode_count": 31,
+      "id": 52693,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wvB14vGDFPYstCLV5ORwkRmETaE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-11",
+      "episode_count": 31,
+      "id": 52694,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-21",
+      "episode_count": 27,
+      "id": 468397,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-26",
+      "episode_count": 16,
+      "id": 468398,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-18",
+      "episode_count": 16,
+      "id": 468399,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-24",
+      "episode_count": 16,
+      "id": 468400,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-23",
+      "episode_count": 17,
+      "id": 468401,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 14,
+      "id": 468402,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/oN1GqwkaIq2U7ILppR4Apd4gkTU.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-04",
+      "episode_count": 14,
+      "id": 468403,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-10",
+      "episode_count": 15,
+      "id": 468404,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/4dYxltOEKzkYLtCdSDf1itzxtZl.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-14",
+      "episode_count": 15,
+      "id": 468405,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/uGZ0KHRaY8zrqDICSFee7I3SufY.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bulgarian",
+      "iso_639_1": "bg",
+      "name": "български език"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 43226,
+    "imdb_id": "tt2041904",
+    "freebase_mid": "/m/0hzn_rx",
+    "freebase_id": "/en/glasat_na_bulgaria",
+    "tvdb_id": 250562,
+    "tvrage_id": null,
+    "wikidata_id": "Q12277013",
+    "facebook_id": "Glasat",
+    "instagram_id": "glasatnabulgaria",
+    "twitter_id": null
+  }
+}

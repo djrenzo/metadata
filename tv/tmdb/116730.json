@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/vSzqVU3mO8pLlEeaSNSuchB9zZe.jpg",
+  "created_by": [
+    {
+      "id": 2937602,
+      "credit_id": "6001cdab420228003feb7af5",
+      "name": "Eugenio García",
+      "original_name": "Eugenio García",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-03-08",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://tvnplay.cl/show/la-colombiana",
+  "id": 116730,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2017-09-28",
+  "last_episode_to_air": {
+    "id": 2649310,
+    "name": "Episode 143",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-09-28",
+    "episode_number": 143,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 116730,
+    "still_path": null
+  },
+  "name": "La Colombiana",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 143,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "La colombiana",
+  "overview": "",
+  "popularity": 8.2412,
+  "poster_path": "/1lZWJKtSh5bR7n13CSffmgQ66pZ.jpg",
+  "production_companies": [
+    {
+      "id": 75686,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-08",
+      "episode_count": 143,
+      "id": 176627,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 116730,
+    "imdb_id": "tt6916096",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 329131,
+    "tvrage_id": null,
+    "wikidata_id": "Q28503758",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

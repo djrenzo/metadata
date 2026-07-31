@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1303101,
+      "credit_id": "532c8e059251413a72000135",
+      "name": "Jelena Veljača",
+      "original_name": "Jelena Veljača",
+      "gender": 1,
+      "profile_path": "/xqwUVf6eG6pAyA74dgpazYUoXfP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2011-09-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 39686,
+  "in_production": false,
+  "languages": [
+    "hr"
+  ],
+  "last_air_date": "2013-07-03",
+  "last_episode_to_air": {
+    "id": 4628550,
+    "name": "Episode 165",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-07-03",
+    "episode_number": 165,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 39686,
+    "still_path": null
+  },
+  "name": "Lara's Choice",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 517,
+      "logo_path": "/iBibvLYwkZuYc8lawEgGoY9GyNn.png",
+      "name": "Nova TV",
+      "origin_country": "HR"
+    }
+  ],
+  "number_of_episodes": 347,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_name": "Larin izbor",
+  "overview": "Larin izbor is a Croatian telenovela created by Jelena Popović Volarić and written by Tomislav Hrpka. The series premiered on September 4, 2011 on Nova TV. It has been sold to over seventeen countries worldwide.",
+  "popularity": 10.3634,
+  "poster_path": "/3HgII2tgaOsTcU9HsLnlHjyxdBE.jpg",
+  "production_companies": [
+    {
+      "id": 94691,
+      "logo_path": "/ySrCyLpSCkMa22LRHknR9kGC9hm.png",
+      "name": "Nova TV",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-09-04",
+      "episode_count": 182,
+      "id": 60102,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-23",
+      "episode_count": 165,
+      "id": 60103,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 39686,
+    "imdb_id": null,
+    "freebase_mid": "/m/0gy0cvk",
+    "freebase_id": null,
+    "tvdb_id": 266525,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

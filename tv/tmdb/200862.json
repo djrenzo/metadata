@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/AhgOGvpW2cMRp2LM9amEtBzBFZo.jpg",
+  "created_by": [
+    {
+      "id": 2122313,
+      "credit_id": "66ede63e0ea80d1fe38cf4fb",
+      "name": "Katarína Moláková",
+      "original_name": "Katarína Moláková",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2286818,
+      "credit_id": "66ede645b348bea4eb3ade6d",
+      "name": "Danica Haláková",
+      "original_name": "Danica Haláková",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2015-09-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 200862,
+  "in_production": false,
+  "languages": [
+    "sl"
+  ],
+  "last_air_date": "2017-06-22",
+  "last_episode_to_air": {
+    "id": 3710864,
+    "name": "Episode 100",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-06-22",
+    "episode_number": 100,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 4,
+    "show_id": 200862,
+    "still_path": null
+  },
+  "name": "Fatal Wine",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 462,
+      "logo_path": "/uHBySX5Mfre9yK5cjstlxvZIZqt.png",
+      "name": "POP TV",
+      "origin_country": "SI"
+    }
+  ],
+  "number_of_episodes": 283,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "SI"
+  ],
+  "original_language": "sl",
+  "original_name": "Usodno vino",
+  "overview": "The two competing wine-grower families, Dolinar and Rozman hate each other. Ivan Dolinar is convinced that Stane Rozman has betrayed him and caused a death of his wife Maria. Until the real dark truth comes out, their children who fall in love with each other will have to overcome the family hatred.",
+  "popularity": 20.3281,
+  "poster_path": "/3qRwly01K8WYGf6be7WVSYpEODz.jpg",
+  "production_companies": [
+    {
+      "id": 34679,
+      "logo_path": "/cPk44BLr1wgQCRdvtpnMISkitMS.png",
+      "name": "Perfo Production",
+      "origin_country": "SI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SI",
+      "name": "Slovenia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-02",
+      "episode_count": 63,
+      "id": 291774,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2016-02-10",
+      "episode_count": 61,
+      "id": 292796,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-26",
+      "episode_count": 59,
+      "id": 292797,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-23",
+      "episode_count": 100,
+      "id": 292798,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovenian",
+      "iso_639_1": "sl",
+      "name": "Slovenščina"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 200862,
+    "imdb_id": "tt4957334",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

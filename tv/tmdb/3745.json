@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/iXkh0q4pU3ZqrRC5kOy87m6SIlM.jpg",
+  "created_by": [
+    {
+      "id": 1234667,
+      "credit_id": "525755b3760ee36aaa22ad4b",
+      "name": "Gary Baseman",
+      "original_name": "Gary Baseman",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1213813,
+      "credit_id": "64e89a41594c9400c5535e6f",
+      "name": "Bill Steinkellner",
+      "original_name": "Bill Steinkellner",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1213810,
+      "credit_id": "64e89a485258ae012ca5079e",
+      "name": "Cherie Steinkellner",
+      "original_name": "Cherie Steinkellner",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    15,
+    20
+  ],
+  "first_air_date": "2000-09-09",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 3745,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2002-05-10",
+  "last_episode_to_air": {
+    "id": 262898,
+    "name": "A Breed Apart",
+    "overview": "Spot visits the dog show to discover his breeding.  Mr. Jolly's father visits, but Mr. Jolly doesn't want to see him.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-05-10",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 2,
+    "show_id": 3745,
+    "still_path": null
+  },
+  "name": "Teacher's Pet",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 142,
+      "logo_path": "/7ahoCR2iIFYd0p2xbbrhQgnClJC.png",
+      "name": "Toon Disney",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 47,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Teacher's Pet",
+  "overview": "Tired of being a dog, Spot the Dog disguises himself as a boy named Scott and goes to school! With the help of his owner, Leonard, the duo try to keep his deception a secret.",
+  "popularity": 12.5084,
+  "poster_path": "/8IOx9VFLgSkrAmHInca6LZ1dCeR.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2000-09-09",
+      "episode_count": 17,
+      "id": 11225,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8IOx9VFLgSkrAmHInca6LZ1dCeR.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-22",
+      "episode_count": 30,
+      "id": 11224,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/43S0mF7c1v3qzTZVVt72iPWcUfn.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 3745,
+    "imdb_id": "tt0257325",
+    "freebase_mid": "/m/05n07b",
+    "freebase_id": null,
+    "tvdb_id": 73733,
+    "tvrage_id": null,
+    "wikidata_id": "Q1229047",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

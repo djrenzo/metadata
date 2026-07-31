@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/dtACf4sRA640q4l6oLyfMy75Viy.jpg",
+  "created_by": [
+    {
+      "id": 1230847,
+      "credit_id": "661e0f250816c70149ed7309",
+      "name": "Justin Spitzer",
+      "original_name": "Justin Spitzer",
+      "gender": 2,
+      "profile_path": "/7LiIHJLBv6Li1lmASD6mrigtKPo.jpg"
+    },
+    {
+      "id": 1241333,
+      "credit_id": "661e0f31ecaef5017cf8eb2b",
+      "name": "Eric Ledgin",
+      "original_name": "Eric Ledgin",
+      "gender": 2,
+      "profile_path": "/kSjQB2lqm1mmzC016yOKwm0q4kZ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2024-11-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.nbc.com/st-denis-medical",
+  "id": 251941,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-06",
+  "last_episode_to_air": {
+    "id": 6843433,
+    "name": "We Make Time",
+    "overview": "When Ron becomes a patient, the St. Denis staff rallies around him, whether he likes it or not; Matt and Serena need to talk.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2026-04-06",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 251941,
+    "still_path": "/5Npt3JERglI3rRmdXTNQTs5a86n.jpg"
+  },
+  "name": "St. Denis Medical",
+  "next_episode_to_air": {
+    "id": 7420509,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-11-02",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 251941,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 37,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "St. Denis Medical",
+  "overview": "An eclectic group of underfunded yet dedicated doctors and nurses navigates caring for patients — and each other — while keeping it all together at an Oregon hospital.",
+  "popularity": 16.0788,
+  "poster_path": "/iwnF4lZKBdHoCICtdIcXQdbuc2f.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 161301,
+      "logo_path": null,
+      "name": "Spitzer Holding Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-11-12",
+      "episode_count": 18,
+      "id": 388746,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/2LVXrQVsEzLlekzNmxZqKa06CV3.jpg",
+      "season_number": 1,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2025-11-03",
+      "episode_count": 18,
+      "id": 454051,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2026-11-02",
+      "episode_count": 1,
+      "id": 524269,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "It's quite the operation.",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 48,
+  "external_ids": {
+    "id": 251941,
+    "imdb_id": "tt21433690",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 435916,
+    "tvrage_id": null,
+    "wikidata_id": "Q126082811",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

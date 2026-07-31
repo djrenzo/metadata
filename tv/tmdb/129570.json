@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/5M9CRR9hvl6HQwiRQWrkR361kAr.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "1976-10-07",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 129570,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1979-03-28",
+  "last_episode_to_air": {
+    "id": 4763574,
+    "name": "Episode 245",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1979-03-28",
+    "episode_number": 245,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 1,
+    "show_id": 129570,
+    "still_path": null
+  },
+  "name": "Manga Fairy Tales of the World",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 160,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 245,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "まんが世界昔ばなし",
+  "overview": "Each episode of this series tells the story of a famous fairy tale from all around the world. Some of them are adapted from famous books such as \"The Iliad\".",
+  "popularity": 12.6207,
+  "poster_path": "/eINKfeUAgkZGo3Qd6CgjR1fNqeI.jpg",
+  "production_companies": [
+    {
+      "id": 82917,
+      "logo_path": null,
+      "name": "Dax International",
+      "origin_country": "JP"
+    },
+    {
+      "id": 167050,
+      "logo_path": null,
+      "name": "World Television",
+      "origin_country": ""
+    },
+    {
+      "id": 1393,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3464,
+      "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+      "name": "Madhouse",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1976-10-07",
+      "episode_count": 245,
+      "id": 203168,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oPfSmcC7J1tN93Hdknc7OJe21GK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 129570,
+    "imdb_id": "tt0374191",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 338573,
+    "tvrage_id": null,
+    "wikidata_id": "Q2411446",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/fnBiI05I0eFqPWUHvC0NdYz3skM.jpg",
+  "created_by": [
+    {
+      "id": 106316,
+      "credit_id": "6a627ecbace36b9f05e2220d",
+      "name": "Ted Turner",
+      "original_name": "Ted Turner",
+      "gender": 2,
+      "profile_path": "/gIL8vZ9M3QDEsOIsHgrVb2dSfEr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1990-09-15",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.turner.com/planet/",
+  "id": 478,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "1996-05-11",
+  "last_episode_to_air": {
+    "id": 23553,
+    "name": "101 Mutations",
+    "overview": "The Planeteers discover Dr. Blight has been experimenting with puppies at a dog pound she's secretly running. Unsuspecting people, including Wheeler's young cousin are adopting unhealthy dogs and it's up to Captain Planet and the Planeteers to put a stop to Blight.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-05-11",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 6,
+    "show_id": 478,
+    "still_path": "/lLRdJd7cTQtx0adDmFzvBMCx1dG.jpg"
+  },
+  "name": "Captain Planet and the Planeteers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 68,
+      "logo_path": "/65r0kR6MfOBYF0gEQsJGM6v5fEG.png",
+      "name": "TBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 113,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Captain Planet and the Planeteers",
+  "overview": "Eco-villains beware: Captain Planet is here to save the day! With the guidance of Gaia, five Planeteers - representing Earth, Fire, Water, Wind and Heart - come together to defend our planet from environmental destruction. With their powers combined, the team becomes the solution to pollution!",
+  "popularity": 13.4461,
+  "poster_path": "/oTUdMgcSs3duIjoWBiZlgtVUNN3.jpg",
+  "production_companies": [
+    {
+      "id": 207144,
+      "logo_path": null,
+      "name": "Turner Program Services",
+      "origin_country": "US"
+    },
+    {
+      "id": 20477,
+      "logo_path": "/u0zjebYOFWdLcpR4hxE8o2zwHKQ.png",
+      "name": "DiC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    },
+    {
+      "id": 118582,
+      "logo_path": null,
+      "name": "TBS Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 1353,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-15",
+      "episode_count": 26,
+      "id": 1354,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lEaN8mvoTf63urQBHDfc9vhIBn8.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1991-09-14",
+      "episode_count": 26,
+      "id": 1356,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hOPL1cZKikPfQoo6v8avFPjvDyF.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-12",
+      "episode_count": 13,
+      "id": 1359,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/ybpucJpszBosjMyK8OcO2LvY6Ww.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-11",
+      "episode_count": 22,
+      "id": 1357,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/p1acNRvf9vBESAhO2EKqkzO4zjJ.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-10",
+      "episode_count": 13,
+      "id": 1358,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/GKEpKXZr9aXkfPTTHS86ibksGS.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-09",
+      "episode_count": 13,
+      "id": 1355,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/8hK0xOR93cz2MLAeF2bR0MCUcTZ.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.913,
+  "vote_count": 252,
+  "external_ids": {
+    "id": 478,
+    "imdb_id": "tt0098763",
+    "freebase_mid": "/m/02gzf0",
+    "freebase_id": "/en/captain_planet_and_the_planeteers",
+    "tvdb_id": 74142,
+    "tvrage_id": null,
+    "wikidata_id": "Q463974",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

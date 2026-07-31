@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/cNgZbUkqhIxb2yrEKusHPOaAb4d.jpg",
+  "created_by": [
+    {
+      "id": 1217132,
+      "credit_id": "5257117f19c295711404fdd7",
+      "name": "Chris Hayward",
+      "original_name": "Chris Hayward",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1226665,
+      "credit_id": "5257117f19c295711404fddd",
+      "name": "Bob Mosher",
+      "original_name": "Bob Mosher",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 87214,
+      "credit_id": "5257117f19c295711404fdd1",
+      "name": "Allan Burns",
+      "original_name": "Allan Burns",
+      "gender": 2,
+      "profile_path": "/bTRg9bezlF1JcEZ1QYeKyrIFAic.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1964-09-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.munsters.com/",
+  "id": 1712,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1966-05-12",
+  "last_episode_to_air": {
+    "id": 89950,
+    "name": "A Visit From the Teacher",
+    "overview": "When Eddie reads a school composition entitled “My Parents – An Average American Family” to his class, his teacher believes the boy is exhibiting symptoms of an overactive imagination.  The school principal suggests that Eddie’s wild exaggerations might be motivated by an underprivileged home life.  It is decided that a visit to the Munster home is in order.",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "1966-05-12",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 1712,
+    "still_path": "/qGeHT0oHky8Buj8gGRPP9a3eZso.jpg"
+  },
+  "name": "The Munsters",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 70,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Munsters",
+  "overview": "A family of friendly monsters that have misadventures all while never quite understanding why people react to them so strangely.",
+  "popularity": 15.3434,
+  "poster_path": "/4jkCx8m87aMA89X9KB9Adwgep2t.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 56101,
+      "logo_path": null,
+      "name": "Kayro-Vue Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 104278,
+      "logo_path": null,
+      "name": "Universal Television Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1964-01-01",
+      "episode_count": 12,
+      "id": 4781,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/hM8ROWBtDnE9SAkkfUry5Y9pLrV.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-09-23",
+      "episode_count": 38,
+      "id": 4780,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zFHjuT1EhYmYxCb7zF7HgUzqyiQ.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1965-09-15",
+      "episode_count": 32,
+      "id": 4779,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6uQNgwCMWXJ9mODza8o635PcTTu.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 477,
+  "external_ids": {
+    "id": 1712,
+    "imdb_id": "tt0057773",
+    "freebase_mid": "/m/0fph0",
+    "freebase_id": "/en/the_munsters",
+    "tvdb_id": 77280,
+    "tvrage_id": 5998,
+    "wikidata_id": "Q1086390",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

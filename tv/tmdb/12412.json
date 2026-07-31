@@ -1,0 +1,263 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1971-09-21",
+  "genres": [],
+  "homepage": "https://www.bbc.co.uk/programmes/b006zbkl",
+  "id": 12412,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1987-04-22",
+  "last_episode_to_air": {
+    "id": 3422438,
+    "name": "That Was The Whistle Test That Was",
+    "overview": "5 hour finale",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1987-04-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 16,
+    "show_id": 12412,
+    "still_path": null
+  },
+  "name": "The Old Grey Whistle Test",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 558,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Old Grey Whistle Test",
+  "overview": "The Old Grey Whistle Test is an influential BBC2 television music show that ran from 1971 to 1987. It took over the BBC2 late night slot from \"Disco Two\", which had been running since January 1970, while continuing to feature non-chart music. It was devised by BBC producer Rowan Ayers. According to presenter Bob Harris, the programme derived its name from a Tin Pan Alley phrase from years before. When they got the first pressing of a record they would play it to people they called the old greys—doormen in grey suits. The songs they could remember and whistle, having heard it just once or twice, had passed the old grey whistle test.",
+  "popularity": 13.3343,
+  "poster_path": "/2VvmieNaxwdcuIQJHRqbJHwqEsx.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 18,
+      "id": 23219,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-09-21",
+      "episode_count": 42,
+      "id": 23217,
+      "name": "1971/2",
+      "overview": "The first series of The Old Grey Whistle Test began on 21st September 1971 and concluded on 11th July 1972 for a total of 43 episodes.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-09-12",
+      "episode_count": 49,
+      "id": 23220,
+      "name": "1972/3",
+      "overview": "The second series of The Old Grey Whistle Test started on 12th September 1972, concluding on 31st July 1973 with a total of 49 Episodes",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-09-25",
+      "episode_count": 43,
+      "id": 23221,
+      "name": "1973/4",
+      "overview": "The third series of The Old Grey Whistle Test started on 25th September 1973, concluding on 9th July 1974 for a total of 43 episodes.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-09-24",
+      "episode_count": 42,
+      "id": 23222,
+      "name": "1974/5",
+      "overview": "The forth series of The Old Grey Whistle Test began on 24th September 1974, finishing on 26ht Jul 1975 for a total of 42 episodes.",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-09-30",
+      "episode_count": 35,
+      "id": 237879,
+      "name": "1975/6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-09-28",
+      "episode_count": 36,
+      "id": 237880,
+      "name": "1976/7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1977-09-20",
+      "episode_count": 39,
+      "id": 23223,
+      "name": "1977/8",
+      "overview": "The seventh series of The Old Grey Whistle Test began on the 20th September 1977, concluding on 20th Jun 1987 and containing 39 episodes.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 9
+    },
+    {
+      "air_date": "1978-09-19",
+      "episode_count": 37,
+      "id": 237881,
+      "name": "1978/9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-09-18",
+      "episode_count": 34,
+      "id": 237882,
+      "name": "1979/80",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-10-07",
+      "episode_count": 41,
+      "id": 23218,
+      "name": "1980/81",
+      "overview": "The tenth series of The Old Grey Whistle Test began on the 7th October 1980, concluding on the 14th July with a total of 41 episodes.",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-10-01",
+      "episode_count": 29,
+      "id": 237877,
+      "name": "1981/2",
+      "overview": "The eleventh series of The Old Grey Whistle Test began on the 1st October 1981, concluding after 29 episodes on 10th June 1982.",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-09-17",
+      "episode_count": 22,
+      "id": 237878,
+      "name": "1982/3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-18",
+      "episode_count": 20,
+      "id": 237883,
+      "name": "1983/4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-10-23",
+      "episode_count": 38,
+      "id": 237884,
+      "name": "1984/5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-10-01",
+      "episode_count": 31,
+      "id": 237885,
+      "name": "1985/6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-20",
+      "episode_count": 20,
+      "id": 237886,
+      "name": "1986/7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 12412,
+    "imdb_id": "tt0259795",
+    "freebase_mid": "/m/0160s0",
+    "freebase_id": "/en/old_grey_whistle_test",
+    "tvdb_id": 74956,
+    "tvrage_id": 12117,
+    "wikidata_id": "Q1248663",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

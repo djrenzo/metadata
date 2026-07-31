@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/9D8aJO1j5lm7auUAzACkf6gL0fX.jpg",
+  "created_by": [
+    {
+      "id": 10031,
+      "credit_id": "5a6c7313c3a368554d00870b",
+      "name": "João Emanuel Carneiro",
+      "original_name": "João Emanuel Carneiro",
+      "gender": 2,
+      "profile_path": "/k9Hx6enjo019tDZ2m8zkhHjhWRD.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2015-08-31",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://gshow.globo.com/novelas/a-regra-do-jogo/",
+  "id": 63817,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2016-03-11",
+  "last_episode_to_air": {
+    "id": 4153137,
+    "name": "Episode 167",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-03-11",
+    "episode_number": 167,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 76,
+    "season_number": 1,
+    "show_id": 63817,
+    "still_path": null
+  },
+  "name": "Rules of the Game",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 167,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "A Regra do Jogo",
+  "overview": "Discussing the limits between good and bad, the plot is set in Rio de Janeiro and tells the story of Romero Rômulo (Alexandre Nero), an ex-politician that has a life less obvious then it seems.",
+  "popularity": 11.7853,
+  "poster_path": "/nQQaMPNPfOT3iB79PSK2Kns7oHj.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 167,
+      "id": 70119,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nQQaMPNPfOT3iB79PSK2Kns7oHj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Either you know the rules or you are just a pawn.",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 63817,
+    "imdb_id": "tt4986278",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 299277,
+    "tvrage_id": null,
+    "wikidata_id": "Q20735533",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "adult": false,
+  "backdrop_path": "/qLel5eu7jsdQOTLY73kUvnoo2HZ.jpg",
+  "created_by": [
+    {
+      "id": 2027995,
+      "credit_id": "5e28bd1f091e6200164ed398",
+      "name": "Rodrigo Gijón",
+      "original_name": "Rodrigo Gijón",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45,
+    27,
+    58,
+    49,
+    32,
+    71,
+    15
+  ],
+  "first_air_date": "2005-07-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.chilevision.cl/infieles",
+  "id": 98430,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-12-06",
+  "last_episode_to_air": {
+    "id": 2444201,
+    "name": "A Family Affair",
+    "overview": "Tensions rise when Sandra and her sailor boyfriend move in with Sandra's mother-in-law.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-12-06",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 98430,
+    "still_path": null
+  },
+  "name": "Infieles",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 805,
+      "logo_path": "/nZAblk9dd36BmwuPoK61Tb2xHTQ.png",
+      "name": "Chilevisión",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Infieles",
+  "overview": "Erotic comedy series about infidelity in couples and the different situations that lead people to commit it. The episodes use as reasons, among others, serious sexual disagreement, simple use of a favorable moment without thinking about the consequences, habits or deteriorating or unpleasant attitudes, etc. Without ever losing humor and mischief.",
+  "popularity": 13.9336,
+  "poster_path": "/z8SXWRQQoRGd7deGGKd3icrpDB8.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-07-07",
+      "episode_count": 4,
+      "id": 141691,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-02",
+      "episode_count": 30,
+      "id": 204428,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 31,
+      "id": 204427,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-07-29",
+      "episode_count": 42,
+      "id": 171332,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2011-03-31",
+      "episode_count": 28,
+      "id": 164071,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-01",
+      "episode_count": 25,
+      "id": 164073,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 98430,
+    "imdb_id": "tt1134722",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5915708",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

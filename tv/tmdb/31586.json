@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/eio6VCc8mB8igvW2ShRpgIGH8nZ.jpg",
+  "created_by": [
+    {
+      "id": 564092,
+      "credit_id": "68494f646cd879a4bd9f593f",
+      "name": "Roberto Stopello",
+      "original_name": "Roberto Stopello",
+      "gender": 2,
+      "profile_path": "/2GLRufXtP8RvYTXQpK7EVH7ebte.jpg"
+    },
+    {
+      "id": 1563037,
+      "credit_id": "68494f72d669235de0bb3cb0",
+      "name": "Lina Uribe",
+      "original_name": "Lina Uribe",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 5498161,
+      "credit_id": "68494f80ebd7244e6e3023cd",
+      "name": "Darío Villegas",
+      "original_name": "Darío Villegas",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2011-02-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.telemundo.com/shows/la-reina-del-sur",
+  "id": 31586,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2023-01-16",
+  "last_episode_to_air": {
+    "id": 4162124,
+    "name": "Live by the Sword, Die by the Sword",
+    "overview": "When Charlie threatens to kill Mateo, Ruiz calls for help. At the Mexico City meeting, suspicions are raised, forcing Teresa to go off-script.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-01-16",
+    "episode_number": 60,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 31586,
+    "still_path": "/lGr3dV878lQWip8SrqjQyaHDQOK.jpg"
+  },
+  "name": "La Reina del Sur",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 193,
+      "logo_path": "/mieMBXx82qgY8nmnyaH0rY2D943.png",
+      "name": "Telemundo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 183,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "La Reina del Sur",
+  "overview": "After years of blood, sweat and tears, a woman of humble origin ends up becoming a drug trafficking legend, with all that that means...",
+  "popularity": 13.4406,
+  "poster_path": "/1qCGOuNVOlaBb7MMDen6CLzp0UE.jpg",
+  "production_companies": [
+    {
+      "id": 120759,
+      "logo_path": null,
+      "name": "Telemundo Global Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 10,
+      "id": 43097,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/xiDMvUfz5wB6ndLFPAXtVCyb0rs.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-28",
+      "episode_count": 63,
+      "id": 43098,
+      "name": "Season 1",
+      "overview": "A sudden turn of events forces a young Sinaloan money-changer into the dangerous world of drug trafficking, where she gradually rises in the ranks.",
+      "poster_path": "/uBTlJDdPpRxYTfUnKw4wbuIGSEK.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-04-22",
+      "episode_count": 60,
+      "id": 43099,
+      "name": "Season 2",
+      "overview": "After living in hiding for nine years, Teresa is forced to confront her past and return to Mexico in order to save her kidnapped daughter, Sofía.",
+      "poster_path": "/p11t8ckTC6EiuVw5FGFKdc2Z7GH.jpg",
+      "season_number": 2,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2022-10-18",
+      "episode_count": 60,
+      "id": 285198,
+      "name": "Season 3",
+      "overview": "After four years in prison, Teresa escapes — thanks to Epifanio, who needs her for a mission to Bolivia. But daughter Sofía, now a teen, needs her too.",
+      "poster_path": "/1qCGOuNVOlaBb7MMDen6CLzp0UE.jpg",
+      "season_number": 3,
+      "vote_average": 3.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.862,
+  "vote_count": 1965,
+  "external_ids": {
+    "id": 31586,
+    "imdb_id": "tt1704637",
+    "freebase_mid": "/m/07s3jx2",
+    "freebase_id": null,
+    "tvdb_id": 239491,
+    "tvrage_id": null,
+    "wikidata_id": "Q986785",
+    "facebook_id": "ReinaDelSurTV",
+    "instagram_id": "reinadelsurtv",
+    "twitter_id": "reinadelsurtv"
+  }
+}

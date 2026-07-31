@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/6kgFIEDF78CpDd6ZTGMeFnt9Trg.jpg",
+  "created_by": [
+    {
+      "id": 2580381,
+      "credit_id": "632fb6320443c9007ccd2a95",
+      "name": "Léa Salamé",
+      "original_name": "Léa Salamé",
+      "gender": 1,
+      "profile_path": "/wUNLNOkzJwxSU4mQSFR2wFOx7Hx.jpg"
+    },
+    {
+      "id": 3714599,
+      "credit_id": "632fb62dcede69007eae3aa8",
+      "name": "Régis Lamanna-Rodat",
+      "original_name": "Régis Lamanna-Rodat",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2022-09-24",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-2/quelle-epoque/",
+  "id": 210931,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-01-24",
+  "last_episode_to_air": {
+    "id": 6891012,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-01-24",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 140,
+    "season_number": 4,
+    "show_id": 210931,
+    "still_path": null
+  },
+  "name": "Quelle époque !",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Quelle époque !",
+  "overview": "Talk show hosted by Léa Salamé, featuring incisive, funny, and surprising personalities debating current events in culture, society, politics, and the media. The set is designed as an arena where artists, polemicists, intellectuals, politicians, top athletes, and powerful figures come together. Permanent guest Christophe Dechavanne can intervene at any time during the show. Comedian Philippe Caverivière is also present with a segment dedicated to the political week and another devoted to celebrity news and social media.",
+  "popularity": 21.6268,
+  "poster_path": "/yM0l3ziIIii8fnvePMxXUe6FM1i.jpg",
+  "production_companies": [
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 183004,
+      "logo_path": null,
+      "name": "Winter Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 235064,
+      "logo_path": null,
+      "name": "Marinca Prod",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-11-26",
+      "episode_count": 8,
+      "id": 338321,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/YO9OvYh3hfb9pB81UADcSTdVfH.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-24",
+      "episode_count": 34,
+      "id": 310033,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5lbZBR4rCNGkiWSI3hDV3uyK4CA.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-09",
+      "episode_count": 34,
+      "id": 355186,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/fVwLWGZrhpFIvvY7NCqn8zNA2mH.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-21",
+      "episode_count": 31,
+      "id": 437138,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4P026aw81N9gsPhdQGKjqWkZwF4.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-20",
+      "episode_count": 15,
+      "id": 497422,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 210931,
+    "imdb_id": "tt21997934",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 424402,
+    "tvrage_id": null,
+    "wikidata_id": "Q114626470",
+    "facebook_id": "QuelleEpoqueOff",
+    "instagram_id": "QuelleEpoqueOff",
+    "twitter_id": "QuelleEpoqueOff"
+  }
+}

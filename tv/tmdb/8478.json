@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/qR2etHE68LvIYBkGb3EjNmkjLVw.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2001-01-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://starplus.indya.com/serials/shagun/index.html",
+  "id": 8478,
+  "in_production": false,
+  "languages": [
+    "hi"
+  ],
+  "last_air_date": "2004-04-29",
+  "last_episode_to_air": {
+    "id": 4950800,
+    "name": "Episode 688",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-04-29",
+    "episode_number": 688,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 8478,
+    "still_path": null
+  },
+  "name": "Shagun",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 159,
+      "logo_path": "/9cEITzi1VyVkre3Fom57vJBOEW3.png",
+      "name": "StarPlus",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 688,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Shagun",
+  "overview": "Shagun was a Hindi language daily Indian soap opera that was telecast on STAR Plus. It was story of fortune's twists and pitfalls that tear asunder the lives of two cousins tied together by a bond stronger than that of blood - the bond of love.",
+  "popularity": 10.3632,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 164865,
+      "logo_path": null,
+      "name": "UTV Software Communications",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-01-15",
+      "episode_count": 688,
+      "id": 367394,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 8478,
+    "imdb_id": "tt7624596",
+    "freebase_mid": "/m/051w8dz",
+    "freebase_id": "/en/shagun",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1884737",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

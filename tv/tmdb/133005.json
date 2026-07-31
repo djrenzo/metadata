@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Yw6b5SbzdlqZs8D1nto0mpUHKN.jpg",
+  "created_by": [
+    {
+      "id": 1918056,
+      "credit_id": "62f7adf6724de1007d2117b1",
+      "name": "Ata Türkoğlu",
+      "original_name": "Ata Türkoğlu",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    71
+  ],
+  "first_air_date": "2006-01-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 133005,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2007-06-16",
+  "last_episode_to_air": {
+    "id": 3890805,
+    "name": "Episode 37",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-06-16",
+    "episode_number": 37,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 133005,
+    "still_path": null
+  },
+  "name": "Hayat Türküsü",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 60,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Hayat Türküsü",
+  "overview": "The educational struggle of Hayat, an idealist teacher, in a forgotten, backward village of Van among the mountains.",
+  "popularity": 17.7939,
+  "poster_path": "/xOd95awDAvRwtWDyZFHWTjS20uB.jpg",
+  "production_companies": [
+    {
+      "id": 96965,
+      "logo_path": "/riwxHwM1vF2wErAn5IHsWWyxcL7.png",
+      "name": "Koliba Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-01-21",
+      "episode_count": 23,
+      "id": 209790,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 37,
+      "id": 304544,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 133005,
+    "imdb_id": "tt0781876",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q6096643",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

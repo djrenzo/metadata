@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/wUxwX0YOpOkzWlYQKFKN6EaIUMG.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2019-10-14",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.trt.tv/diziler/incir-agaci",
+  "id": 95843,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2020-04-24",
+  "last_episode_to_air": {
+    "id": 4111170,
+    "name": "Episode 140",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-04-24",
+    "episode_number": 140,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 95843,
+    "still_path": null
+  },
+  "name": "İncir Ağacı",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 140,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "İncir Ağacı",
+  "overview": "",
+  "popularity": 21.4918,
+  "poster_path": "/sIOugLyDLO6vIGVXwZxKK6g3P7r.jpg",
+  "production_companies": [
+    {
+      "id": 125780,
+      "logo_path": null,
+      "name": "Sonsuzkare Yapım",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-10-14",
+      "episode_count": 140,
+      "id": 136533,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 1,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 95843,
+    "imdb_id": "tt11039324",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q86522721",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

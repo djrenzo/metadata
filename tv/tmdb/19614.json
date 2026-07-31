@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/2lFfjPdVXleGHukp0Phr5pNJ4ab.jpg",
+  "created_by": [
+    {
+      "id": 3027,
+      "credit_id": "543d82f9c3a3682517000517",
+      "name": "Stephen King",
+      "original_name": "Stephen King",
+      "gender": 2,
+      "profile_path": "/7r5nEzNanuEhmxtpsKE1uCBU5Jd.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1990-11-18",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 19614,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1990-11-20",
+  "last_episode_to_air": {
+    "id": 1016814,
+    "name": "Part Two",
+    "overview": "30 years after being destroyed by a group of children, Pennywise is back. The group return as adults to face the evil one last time.",
+    "vote_average": 6.389,
+    "vote_count": 54,
+    "air_date": "1990-11-20",
+    "episode_number": 2,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 93,
+    "season_number": 1,
+    "show_id": 19614,
+    "still_path": "/i3kWdNG676bZfwyu6HMdDKJEL2Y.jpg"
+  },
+  "name": "It",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "It",
+  "overview": "In 1960, seven outcast kids known as \"The Losers' Club\" fight against an ancient shape-shifting alien who poses as a child-killing clown, while also dealing with bullies and abusive parents. Thirty years later, they reunite to stop the creature once and for all when it returns to their hometown.",
+  "popularity": 13.7032,
+  "poster_path": "/4ybQ6gopB3H3cu0seVZLznDnIKo.jpg",
+  "production_companies": [
+    {
+      "id": 1193,
+      "logo_path": "/ctXTFMt91z96WMbMOlW0Morgwny.png",
+      "name": "Lorimar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1192,
+      "logo_path": null,
+      "name": "Green/Epstein Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 15289,
+      "logo_path": null,
+      "name": "The Konigsberg/Sanitsky Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1990-11-18",
+      "episode_count": 2,
+      "id": 29915,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/qqIiCr0NeHHIKN2bk4tVAZF71fQ.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The Master of Horror unleashes everything you were ever afraid of.",
+  "type": "Miniseries",
+  "vote_average": 6.926,
+  "vote_count": 3349,
+  "external_ids": {
+    "id": 19614,
+    "imdb_id": "tt0099864",
+    "freebase_mid": "/m/032xky",
+    "freebase_id": "/en/it_1990",
+    "tvdb_id": 113981,
+    "tvrage_id": 34952,
+    "wikidata_id": "Q1131225",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

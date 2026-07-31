@@ -1,0 +1,178 @@
+{
+  "adult": false,
+  "backdrop_path": "/73XuIVoN03OQOZOxWreDIPZWtB2.jpg",
+  "created_by": [
+    {
+      "id": 2865288,
+      "credit_id": "67cd50ed2bd21c806f10d89f",
+      "name": "Ted Dewan",
+      "original_name": "Ted Dewan",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2014-06-09",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m0009tgy",
+  "id": 69501,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2019-12-16",
+  "last_episode_to_air": {
+    "id": 2673897,
+    "name": "Christmas Special",
+    "overview": "It’s Christmas - come and celebrate with Bing! Meet Sula's adorable cousin, Nicky, make presents at Sula and Amma's, and spend Christmas Day with Bing, Flop and all their friends to find out if Bing will get his Hoppity Voosh Rocket Sledge",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-12-16",
+    "episode_number": 27,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 69501,
+    "still_path": "/8yvUEswybvgO1ko8llo5OPzXK5H.jpg"
+  },
+  "name": "Bing",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 166,
+      "logo_path": "/lpcHkKxLsFz2YhEnRlkslsTtePe.png",
+      "name": "CBeebies",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 157,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "IE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Bing",
+  "overview": "Bing is a young and lovable bunny learning about the big world around him, with the help of his friends. A warm and gentle animation, based on the bestselling books by Ted Dewan.",
+  "popularity": 13.4525,
+  "poster_path": "/2p7S8pkFQsmZjSLaCZmCphdLaXz.jpg",
+  "production_companies": [
+    {
+      "id": 106186,
+      "logo_path": "/7uPTMkgEk4P25uPOFZwvgOf37y9.png",
+      "name": "Acamar Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 39033,
+      "logo_path": "/iVDEwAZnPNw90hdeyBvcAcDYoBi.png",
+      "name": "Brown Bag Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 158083,
+      "logo_path": "/c4hio6RozUZO55BufEHiMMB9WG3.png",
+      "name": "Tandem Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 113521,
+      "logo_path": "/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png",
+      "name": "StudioCanal UK",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-06-09",
+      "episode_count": 78,
+      "id": 83628,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xGqIH4JlIIgOYDYAozrLuWjgJX4.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-31",
+      "episode_count": 27,
+      "id": 131537,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/187bH6qddkj3bWpHHRpb2xuGiDb.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 26,
+      "id": 431798,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/bVcIXwDrf5fiqElfAkErsHVreUu.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-31",
+      "episode_count": 26,
+      "id": 431799,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/bVcIXwDrf5fiqElfAkErsHVreUu.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "It's a Bing thing!",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 69501,
+    "imdb_id": "tt3789822",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 282747,
+    "tvrage_id": null,
+    "wikidata_id": "Q18786502",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

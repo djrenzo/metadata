@@ -1,0 +1,251 @@
+{
+  "adult": false,
+  "backdrop_path": "/7mKliV83tmsR8ITgGvElAg7laQW.jpg",
+  "created_by": [
+    {
+      "id": 1784796,
+      "credit_id": "6843099370e7b0c382f2cdd2",
+      "name": "Alex Horne",
+      "original_name": "Alex Horne",
+      "gender": 2,
+      "profile_path": "/jLWUSMSOjwFgI6ukZw90kiQj3cT.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2018-08-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://tv.tv2.dk/stormester",
+  "id": 87809,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2026-07-17",
+  "last_episode_to_air": {
+    "id": 7353526,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 10,
+    "show_id": 87809,
+    "still_path": "/7nNq7WXU9ePh7wZ6adsPGIE0Ldw.jpg"
+  },
+  "name": "Stormester",
+  "next_episode_to_air": {
+    "id": 7353527,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 10,
+    "show_id": 87809,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 125,
+      "logo_path": "/2cDF7NrooRYZhET5fCcTiXATD5j.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 83,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Stormester",
+  "overview": "Danish version of the British “Taskmaster” panel show in which comedians, actors and musicians (the contestants) must solve weird challenges in weird ways.",
+  "popularity": 13.9166,
+  "poster_path": "/2wJfqPsWWtXVhw4VAVodelkNfEj.jpg",
+  "production_companies": [
+    {
+      "id": 9372,
+      "logo_path": "/yFDmBNoacfgPWutpvD242xsuKmm.png",
+      "name": "Metronome Productions",
+      "origin_country": "DK"
+    },
+    {
+      "id": 758,
+      "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 188821,
+      "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+      "name": "TV 2 | Danmark HD (Lorry)",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-12-26",
+      "episode_count": 11,
+      "id": 139180,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/9Fq35GJxHemSjeZLMbmJ9KOl2SH.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-25",
+      "episode_count": 8,
+      "id": 120927,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rQZ1K6lohigyohpa4NUmx8JoMy3.jpg",
+      "season_number": 1,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2019-04-20",
+      "episode_count": 7,
+      "id": 122771,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/5r6kECjAzSwWamqAEjIaczyKyQq.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-29",
+      "episode_count": 8,
+      "id": 152296,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/djLhWdg2AxCVHaonFbQyYAedpYN.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-20",
+      "episode_count": 7,
+      "id": 182595,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/h9QfpwqmLE4ISTGI23KXZv6qECn.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-25",
+      "episode_count": 8,
+      "id": 213228,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/kskvZzUa4yVO2xV2AUy2mkw8fOe.jpg",
+      "season_number": 5,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2022-11-05",
+      "episode_count": 8,
+      "id": 315320,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/3miMOEVZeuXPFKPaqCKTuedTW6i.jpg",
+      "season_number": 6,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2023-06-17",
+      "episode_count": 8,
+      "id": 344519,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/4OJfPtcfcrkIxHHepZvvRByiFCM.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-07",
+      "episode_count": 8,
+      "id": 396494,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/2mX5S03GbooFcXEB58hcFYtUrA7.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-06",
+      "episode_count": 10,
+      "id": 459641,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/jaM00zQqnWIagl4H0QqPtbGLsgY.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-12",
+      "episode_count": 11,
+      "id": 520742,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/g7jq88lWpKzSQtnFPgPXQefT8ml.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.9,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 87809,
+    "imdb_id": "tt10353060",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352026,
+    "tvrage_id": null,
+    "wikidata_id": "Q76172789",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

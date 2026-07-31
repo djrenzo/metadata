@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "2011-01-17",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.hulu.com/the-morning-after",
+  "id": 39177,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-01-25",
+  "last_episode_to_air": {
+    "id": 6179285,
+    "name": "Fri, Jan 25, 2013",
+    "overview": "\"Archer,\" \"Project Runway,\" \"The Office,\" and a game of \"Commit Catch Quit\" with this week's big premieres.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-01-25",
+    "episode_number": 19,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 6,
+    "season_number": 3,
+    "show_id": 39177,
+    "still_path": null
+  },
+  "name": "The Morning After",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 527,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Morning After",
+  "overview": "A smart, pop culture \"snack\" to help get Hulu users quickly up to date on the latest and greatest in entertainment news and celebrity gossip.",
+  "popularity": 10.8051,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-01-17",
+      "episode_count": 247,
+      "id": 453327,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 261,
+      "id": 453328,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 19,
+      "id": 453329,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 39177,
+    "imdb_id": null,
+    "freebase_mid": "/m/0gmg168",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "adult": false,
+  "backdrop_path": "/u5jhkXclqQEJMdZiy3dcnNl6P14.jpg",
+  "created_by": [
+    {
+      "id": 59069,
+      "credit_id": "5ab2825ac3a3686fc900c6fc",
+      "name": "Anthony McPartlin",
+      "original_name": "Anthony McPartlin",
+      "gender": 2,
+      "profile_path": "/zslUO3icW44iHnwbBZH1rkqMGi3.jpg"
+    },
+    {
+      "id": 59068,
+      "credit_id": "5ab282640e0a261e0300acc7",
+      "name": "Declan Donnelly",
+      "original_name": "Declan Donnelly",
+      "gender": 2,
+      "profile_path": "/lLgH6TkcVcgqxO8IsZLR6OVuQ7Q.jpg"
+    }
+  ],
+  "episode_run_time": [
+    70
+  ],
+  "first_air_date": "2002-06-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.itv.com/saturdaynighttakeaway",
+  "id": 2564,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-04-13",
+  "last_episode_to_air": {
+    "id": 5177350,
+    "name": "Episode 7",
+    "overview": "Girls Aloud are the Star Guest Announcers as Ant and Dec take over the whole of Television Centre for this two-hour finale. There's a sofa full of celebrity Revengers, with Simon Cowell, Alison Hammond, Rylan and Craig David among those ready to get their own back on Ant and Dec, and the singalong features Tony Hadley, S Club and Kaiser Chiefs. Stephen Mulhern returning for the ultimate decider of Ant v Dec and someone has the chance to Win the Ads and take home the biggest prize pot in the show's history",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-04-13",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 92,
+    "season_number": 20,
+    "show_id": 2564,
+    "still_path": "/yB9MlbslfKIGWvAaX4y1A9X5usr.jpg"
+  },
+  "name": "Ant & Dec's Saturday Night Takeaway",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 139,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Ant & Dec's Saturday Night Takeaway",
+  "overview": "A gameshow hosted by Ant and Dec filled with stunts, sketches, and special guest appearances.",
+  "popularity": 13.0606,
+  "poster_path": "/fNLx9eH8EwyA92K6h2Bjvm0N1cN.jpg",
+  "production_companies": [
+    {
+      "id": 129743,
+      "logo_path": null,
+      "name": "Gallowgate Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14063,
+      "logo_path": "/b7od4dXpqSHIYQx5ykwjnzfKiNv.png",
+      "name": "Granada Television",
+      "origin_country": "GB"
+    },
+    {
+      "id": 151212,
+      "logo_path": "/uNcLq9h8UI1VObsKVtFzxqDrXu6.png",
+      "name": "Lifted Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 130909,
+      "logo_path": "/8o5idYtemq5sxAPOZ8hN6Hh3h91.png",
+      "name": "Mitre Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-12-24",
+      "episode_count": 5,
+      "id": 8201,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-08",
+      "episode_count": 6,
+      "id": 8191,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-11",
+      "episode_count": 11,
+      "id": 8192,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-13",
+      "episode_count": 6,
+      "id": 8193,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-02",
+      "episode_count": 6,
+      "id": 8194,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-12",
+      "episode_count": 10,
+      "id": 8195,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-16",
+      "episode_count": 6,
+      "id": 8196,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-08",
+      "episode_count": 6,
+      "id": 8197,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-16",
+      "episode_count": 6,
+      "id": 8198,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-14",
+      "episode_count": 6,
+      "id": 8199,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-23",
+      "episode_count": 7,
+      "id": 8200,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-22",
+      "episode_count": 7,
+      "id": 8202,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-21",
+      "episode_count": 7,
+      "id": 65102,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-20",
+      "episode_count": 7,
+      "id": 85659,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-25",
+      "episode_count": 7,
+      "id": 85660,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-24",
+      "episode_count": 6,
+      "id": 99642,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-22",
+      "episode_count": 7,
+      "id": 143820,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2021-02-20",
+      "episode_count": 7,
+      "id": 180800,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-19",
+      "episode_count": 7,
+      "id": 243826,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-25",
+      "episode_count": 7,
+      "id": 328250,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-02-24",
+      "episode_count": 7,
+      "id": 379526,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.085,
+  "vote_count": 41,
+  "external_ids": {
+    "id": 2564,
+    "imdb_id": "tt0324692",
+    "freebase_mid": "/m/02s0cd",
+    "freebase_id": "/en/ant_decs_saturday_night_takeaway",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q4770849",
+    "facebook_id": "itvtakeaway",
+    "instagram_id": "itvtakeaway",
+    "twitter_id": "itvtakeaway"
+  }
+}

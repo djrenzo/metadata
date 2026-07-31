@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/nWSVluqB7DDvSiEtrVVol56HhgZ.jpg",
+  "created_by": [
+    {
+      "id": 1256087,
+      "credit_id": "6487972abf31f2505882c712",
+      "name": "Carlos Lombardi",
+      "original_name": "Carlos Lombardi",
+      "gender": 2,
+      "profile_path": "/1Xbm7wImNrMbe1CMbP3xdad3WfO.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1996-04-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 220786,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1996-09-28",
+  "last_episode_to_air": {
+    "id": 7171097,
+    "name": "Episode 152",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-09-24",
+    "episode_number": 152,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 220786,
+    "still_path": null
+  },
+  "name": "Vira Lata",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 155,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Vira Lata",
+  "overview": "Helena hides the fact that she is the daughter of a con man when she marries prosecutor Bráulio. While Stella searches for the children she abandoned, Lenin returns home and tries to rebuild his life.",
+  "popularity": 22.7877,
+  "poster_path": "/mRGuGRoe0WBsnUpoYnRKetq69Nm.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1996-04-01",
+      "episode_count": 152,
+      "id": 329590,
+      "name": "Season 1",
+      "overview": "Helena hides the fact that she is the daughter of a con man when she marries prosecutor Bráulio. While Stella searches for the children she abandoned, Lenin returns home and tries to rebuild his life.",
+      "poster_path": "/mRGuGRoe0WBsnUpoYnRKetq69Nm.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 220786,
+    "imdb_id": "tt0202770",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 406618,
+    "tvrage_id": null,
+    "wikidata_id": "Q10391682",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

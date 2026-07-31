@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/pkmn8pc1VMmJMoWDRH3YKkGjCIi.jpg",
+  "created_by": [
+    {
+      "id": 3484104,
+      "credit_id": "625f85497fcab300666571e1",
+      "name": "Ebenezer Kepombia",
+      "original_name": "Ebenezer Kepombia",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2020-08-19",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 198001,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-07-15",
+  "last_episode_to_air": {
+    "id": 3998862,
+    "name": "Episode 72",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-07-15",
+    "episode_number": 72,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 198001,
+    "still_path": null
+  },
+  "name": "Madame… Monsieur",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 196,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CM"
+  ],
+  "original_language": "fr",
+  "original_name": "Madame… Monsieur",
+  "overview": "",
+  "popularity": 20.6556,
+  "poster_path": "/rp6YabWswdhqGVvKxACvkHl2oGM.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2020-08-19",
+      "episode_count": 52,
+      "id": 288410,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rp6YabWswdhqGVvKxACvkHl2oGM.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-06",
+      "episode_count": 72,
+      "id": 288411,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/rp6YabWswdhqGVvKxACvkHl2oGM.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-15",
+      "episode_count": 72,
+      "id": 311972,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/r22WfbzLkZxoECOqgu96vEAuZdi.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 198001,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

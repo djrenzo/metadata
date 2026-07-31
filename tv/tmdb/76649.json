@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/26B7vYXiGLmoHVU9MXv7r9jNWVU.jpg",
+  "created_by": [
+    {
+      "id": 1259768,
+      "credit_id": "5e4b56464d0e8d0016154850",
+      "name": "Sebastian Arrau",
+      "original_name": "Sebastian Arrau",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 951522,
+      "credit_id": "5e4b563d4d0e8d001615484d",
+      "name": "Pablo Illanes",
+      "original_name": "Pablo Illanes",
+      "gender": 2,
+      "profile_path": "/bOrVXyI8muyYrFpiVNtq1NW7IsU.jpg"
+    },
+    {
+      "id": 1327741,
+      "credit_id": "5e4b56364d0e8d001615484a",
+      "name": "Coca Gómez",
+      "original_name": "Coca Gómez",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2003-03-10",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.13.cl/programas/machos",
+  "id": 76649,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2003-10-27",
+  "last_episode_to_air": {
+    "id": 2415473,
+    "name": "Episode 163",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-10-27",
+    "episode_number": 163,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 76649,
+    "still_path": null
+  },
+  "name": "Machos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 163,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Machos",
+  "overview": "A severe and authoritarian father is on the verge of an existential crisis when his children are not able to fulfill his expectations and image of \"strong and tough men\" that he wishes for all of them. Will he be able to straighten the lives of his sons? Or will he have to learn that each of them have already clipped their own wings?",
+  "popularity": 23.3713,
+  "poster_path": "/iqmU0rkyR2Z3MKmZgbEVR5zdIgq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-03-10",
+      "episode_count": 163,
+      "id": 98441,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.333,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 76649,
+    "imdb_id": "tt0374415",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 338684,
+    "tvrage_id": null,
+    "wikidata_id": "Q1248367",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

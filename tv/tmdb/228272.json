@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/xavHGCzcYrAsrevxLnwDKUnJhzd.jpg",
+  "created_by": [
+    {
+      "id": 85826,
+      "credit_id": "65952b795907de3f2863bf03",
+      "name": "Hugo Van Laere",
+      "original_name": "Hugo Van Laere",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1622493,
+      "credit_id": "65952b800e64af5acc8c18ec",
+      "name": "Geert Verbanck",
+      "original_name": "Geert Verbanck",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-01-05",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://vtm.be/milo",
+  "id": 228272,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2025-10-23",
+  "last_episode_to_air": {
+    "id": 6542006,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2025-10-23",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 28,
+    "season_number": 3,
+    "show_id": 228272,
+    "still_path": "/nObCLTNJqHsE6w66UEbYWYGbQow.jpg"
+  },
+  "name": "Milo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 556,
+      "logo_path": "/wpPJM99T9qkKvK16nRciNL2y64Q.png",
+      "name": "VTM",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 299,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Milo",
+  "overview": "The telenovella 'Milo' is a modern musical fairy tale. The series tells the story of Milo, a very talented baker's daughter with a golden voice, who is forced to hide her talent from the outside world. No matter how hard she dreams of a life full of singing and music.",
+  "popularity": 15.928,
+  "poster_path": "/x5B0Y2yvMmLFNcj08V724oMu9am.jpg",
+  "production_companies": [
+    {
+      "id": 167028,
+      "logo_path": null,
+      "name": "Heartmade Media",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-05",
+      "episode_count": 99,
+      "id": 344401,
+      "name": "Season 1",
+      "overview": "Milo has a golden voice, but she feels obligated to hide her talent from the outside world. Only through detours and lies can she pursue her dream of a life full of singing and music.",
+      "poster_path": "/t7FB0rxG3P9bQGwc4k7ssaigjnO.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 168,
+      "id": 394129,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jdhs3JY4nEh75ytv9aTbQ16xhAT.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 32,
+      "id": 396816,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4bTch9OjyZpoBsOyd1TV7IOASZh.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Does the truth always sound better?",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 228272,
+    "imdb_id": "tt28283231",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 444340,
+    "tvrage_id": null,
+    "wikidata_id": "Q124477971",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

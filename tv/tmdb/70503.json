@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/8eIsQIhRXlQnHG4oYgSc4KffjXW.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-01-16",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://voyo.nova.cz/serialy/53972-specialiste",
+  "id": 70503,
+  "in_production": true,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2025-06-09",
+  "last_episode_to_air": {
+    "id": 5889419,
+    "name": "Episode 241",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-06-09",
+    "episode_number": 241,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 70503,
+    "still_path": "/j92MM14q3g3a3wCqqbDPPdQuGnd.jpg"
+  },
+  "name": "Specialisté",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 247,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Specialisté",
+  "overview": "",
+  "popularity": 10.9481,
+  "poster_path": "/olszoRHRpvWiEbAHFXsBN6lEbKS.jpg",
+  "production_companies": [
+    {
+      "id": 31292,
+      "logo_path": "/6EeaMNiKbomWHsB5jq5W5vflOj2.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-16",
+      "episode_count": 247,
+      "id": 85671,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9SZWCsZtOhYW8qs7fA20iZKtPrC.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 70503,
+    "imdb_id": "tt7067008",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 334777,
+    "tvrage_id": null,
+    "wikidata_id": "Q28090457",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

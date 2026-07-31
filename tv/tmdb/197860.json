@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/yx8nP3dDJOWSaUGCIMw2SIX50Cf.jpg",
+  "created_by": [
+    {
+      "id": 3511190,
+      "credit_id": "625c5266ae36680050dec686",
+      "name": "Maria Zita S. Garganera",
+      "original_name": "Maria Zita S. Garganera",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2019-08-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 197860,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2022-04-25",
+  "last_episode_to_air": {
+    "id": 3701418,
+    "name": "Episode 80",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-04-25",
+    "episode_number": 80,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 197860,
+    "still_path": null
+  },
+  "name": "Prima Donnas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 311,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Prima Donnas",
+  "overview": "Married couple Jaime (Wendell Ramos), the sole inheritor to the affluent Claveria Group of Companies, and Maita (Glaiza de Castro), having trouble starting their family, hire Lilian (Katrina Halili), daughter of their most trusted house helper, to be their surrogate. Lilian accepts, and later she gives birth to three beautiful girls.",
+  "popularity": 12.3735,
+  "poster_path": "/3hxujalmwLjKn7koS26ht9J5N9J.jpg",
+  "production_companies": [
+    {
+      "id": 136033,
+      "logo_path": "/xScMx3yhjr5OENl6raSP2xwiu0k.png",
+      "name": "GMA Entertainment Group",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-08-19",
+      "episode_count": 231,
+      "id": 288076,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-24",
+      "episode_count": 80,
+      "id": 288077,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 197860,
+    "imdb_id": "tt10826852",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 440414,
+    "tvrage_id": null,
+    "wikidata_id": "Q66570568",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

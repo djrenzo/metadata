@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/q4CvEUdq9mVveQfbv5jAgKJA0QZ.jpg",
+  "created_by": [
+    {
+      "id": 67855,
+      "credit_id": "627f9398fd140b569a635d24",
+      "name": "Alexi Hawley",
+      "original_name": "Alexi Hawley",
+      "gender": 2,
+      "profile_path": "/eIyGbyHTfsIxEOPlD5lByW9A80y.jpg"
+    },
+    {
+      "id": 553985,
+      "credit_id": "627f93a1c92c5d009d409144",
+      "name": "Terence Paul Winter",
+      "original_name": "Terence Paul Winter",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2022-09-27",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://abc.com/shows/the-rookie-feds",
+  "id": 201992,
+  "in_production": false,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "last_air_date": "2023-05-02",
+  "last_episode_to_air": {
+    "id": 4374046,
+    "name": "Red One",
+    "overview": "After an internal investigation unit agent is drugged and buried alive in a desert outside of Vegas, the Feds director enlists Garza's unit to discreetly investigate. Meanwhile, Simone's plans for her 49th birthday bash are sidelined.",
+    "vote_average": 3.8,
+    "vote_count": 5,
+    "air_date": "2023-05-02",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 201992,
+    "still_path": "/lrBK9VRoxetn1kUcu1rTgenUY6v.jpg"
+  },
+  "name": "The Rookie: Feds",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Rookie: Feds",
+  "overview": "Special Agent Simone Clark, the oldest rookie in the FBI, is a force of nature, the living embodiment of a dream deferred – and she works together with her new colleagues at the Los Angeles office of the Bureau to bring down the country’s toughest criminals.",
+  "popularity": 14.4182,
+  "poster_path": "/ttqpW20UVabyy8DQFWe56ov1JHS.jpg",
+  "production_companies": [
+    {
+      "id": 8147,
+      "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+      "name": "Entertainment One",
+      "origin_country": "CA"
+    },
+    {
+      "id": 195749,
+      "logo_path": null,
+      "name": "Perfectman Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 195751,
+      "logo_path": null,
+      "name": "Winterworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-27",
+      "episode_count": 22,
+      "id": 293751,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/sFLBmaQcUDSz87bL7UlkE8oVumm.jpg",
+      "season_number": 1,
+      "vote_average": 3.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "The FBI has a new secret weapon.",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 116,
+  "external_ids": {
+    "id": 201992,
+    "imdb_id": "tt18076310",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420105,
+    "tvrage_id": null,
+    "wikidata_id": "Q114197876",
+    "facebook_id": "TheRookieFeds",
+    "instagram_id": "therookiefeds",
+    "twitter_id": "TheRookieFeds"
+  }
+}

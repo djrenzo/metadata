@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/w8WPQUiBD75I62P8bU7AYMhCfgg.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-06-11",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 74794,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2018-07-05",
+  "last_episode_to_air": {
+    "id": 1631306,
+    "name": "Episode 46",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-07-05",
+    "episode_number": 46,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 1,
+    "show_id": 74794,
+    "still_path": "/cWT3CLXWsbzp5YZl6FsWJXKhnIy.jpg"
+  },
+  "name": "Lost in 1949",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 455,
+      "logo_path": "/nVB8ZIvScEvI4vKT3h4PXjeUR5U.png",
+      "name": "Beijing Television 北京卫视",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1056,
+      "logo_path": "/neufSFU0ZrXxA3c0JRNpuNXzLdx.png",
+      "name": "Dragon Television 东方卫视",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 46,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "脱身",
+  "overview": "In 1949, accountant Huang Liwen returns to Shanghai to honor her late husband and fulfill a mission for the Communist Party. She reconnects with her family and meets Qiao Zhicai and his twin brother, Qiao Lijie, who plays a key role in her mission.",
+  "popularity": 7.2738,
+  "poster_path": "/zWNG3ObNuyLNIAAd4f6P7j71ejn.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-11",
+      "episode_count": 46,
+      "id": 94640,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zWNG3ObNuyLNIAAd4f6P7j71ejn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 74794,
+    "imdb_id": "tt8703272",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 348562,
+    "tvrage_id": null,
+    "wikidata_id": "Q55708301",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

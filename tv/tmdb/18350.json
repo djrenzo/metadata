@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/7JybN9jDT3EbV8BwaXQoxPOpNbz.jpg",
+  "created_by": [
+    {
+      "id": 2471888,
+      "credit_id": "699385cc9f2a78dc4895990f",
+      "name": "Martha Oláiz",
+      "original_name": "Martha Oláiz",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2525445,
+      "credit_id": "699385dc2e187f937a9597d9",
+      "name": "María Eugenia Argomedo",
+      "original_name": "María Eugenia Argomedo",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    43
+  ],
+  "first_air_date": "2009-03-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www2.esmas.com/entretenimiento/telenovelas/atrevete-a-sonar/",
+  "id": 18350,
+  "in_production": false,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "2010-03-15",
+  "last_episode_to_air": {
+    "id": 2305050,
+    "name": "Episode 262",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-03-15",
+    "episode_number": 262,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 18350,
+    "still_path": "/ngU7d2QpKn2cIA4QW1SoobcxFpi.jpg"
+  },
+  "name": "Atrévete a Soñar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 262,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Atrévete a Soñar",
+  "overview": "Danna Paola stars as Patito, Eleazar Gómez as Mateo, Violeta Isfel and Cynthia Klitbo, play antagonist roles as Antonella and Bianca. The telenovela features adult protagonists also, René Strickler and Vanessa Guzmán.\n\nIt first aired on Sunday, 8 March 2009, as the first telenovela to debut on a Sunday in Mexico. After a year of success, becoming a major hit in Mexico, especially among children, its final episode was also on a Sunday, 7 March 2010.",
+  "popularity": 13.0424,
+  "poster_path": "/5l9c4cjcauBpogEqaVbsITHA47K.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-03-08",
+      "episode_count": 262,
+      "id": 153124,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zAmrUUMZGaNp8SOyceOf8RuotvW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.089,
+  "vote_count": 909,
+  "external_ids": {
+    "id": 18350,
+    "imdb_id": "tt1364356",
+    "freebase_mid": "/m/05q6jzp",
+    "freebase_id": null,
+    "tvdb_id": 335524,
+    "tvrage_id": null,
+    "wikidata_id": "Q500482",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

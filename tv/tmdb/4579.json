@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/3uU2xfwDQzxmpOB0XIr3VuP0ZFF.jpg",
+  "created_by": [
+    {
+      "id": 133868,
+      "credit_id": "52577236760ee36aaa4b0483",
+      "name": "Monty Berman",
+      "original_name": "Monty Berman",
+      "gender": 2,
+      "profile_path": "/1FaZu1jdDGkUVwG8zc7FBaxfznW.jpg"
+    },
+    {
+      "id": 1213712,
+      "credit_id": "52577236760ee36aaa4b047d",
+      "name": "Dennis Spooner",
+      "original_name": "Dennis Spooner",
+      "gender": 2,
+      "profile_path": "/z35vKqUl7V9UAnBFbZvEZMJ5xlz.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1968-09-25",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 4579,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1969-04-30",
+  "last_episode_to_air": {
+    "id": 330547,
+    "name": "Autokill",
+    "overview": "Using a fake Police Station as a hideout, a doctor programmes Nemesis agents to kill each other.  When Richard is brainwashed, the Champions face their deadliest foe - each other.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1969-04-30",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 4579,
+    "still_path": "/o2AXPOBHFsoh1x5PCHgBrDqkXb9.jpg"
+  },
+  "name": "The Champions",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Champions",
+  "overview": "After a plane carrying three Agents crashes in the Himalayas, they are rescued by an advanced civilisation secretly living in Tibet who grant them enhanced versions of the ordinary five senses, and intellectual and physical abilities.",
+  "popularity": 12.0609,
+  "poster_path": "/93fLFB8HfKAhVKF968Dl03ITwOX.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 13872,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/A7jl9BaOpk8T3sLeYPISBdRI66S.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-09-25",
+      "episode_count": 30,
+      "id": 13871,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/e05NuBsZtQgV8m1BS1kx92gnA1W.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 4579,
+    "imdb_id": "tt0062551",
+    "freebase_mid": "/m/043t9_",
+    "freebase_id": "/en/the_champions",
+    "tvdb_id": 78210,
+    "tvrage_id": null,
+    "wikidata_id": "Q2761408",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

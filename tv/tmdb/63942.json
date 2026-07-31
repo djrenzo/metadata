@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/t2aDmvYojjyvZr1xTq77qjCc2rW.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2015-01-30",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://comedytv.ihq.co.kr/deliciousguys/",
+  "id": 63942,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-01-30",
+  "last_episode_to_air": {
+    "id": 6917363,
+    "name": "Episode 550",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-01-30",
+    "episode_number": 550,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 76,
+    "season_number": 3,
+    "show_id": 63942,
+    "still_path": null
+  },
+  "name": "The Delicious Guys",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3639,
+      "logo_path": null,
+      "name": "Comedy TV",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 555,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "맛있는 녀석들",
+  "overview": "Four comedians who are famous for their love of food visit restaurants all over Korea to try the popular menus.",
+  "popularity": 11.1041,
+  "poster_path": "/c2a1brhbBrYkAu9JPSXAHG8h7rj.jpg",
+  "production_companies": [
+    {
+      "id": 68635,
+      "logo_path": null,
+      "name": "iHQ",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-30",
+      "episode_count": 429,
+      "id": 70693,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tQK32sz7NBDrJh7yC0YW33p6aLk.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-21",
+      "episode_count": 43,
+      "id": 400379,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sLfpKXdbY4XGhzYu7nltBeLGRws.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-21",
+      "episode_count": 83,
+      "id": 400380,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/AuBFRaOqrY0cy0SfqfaPCCApM03.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 63942,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 300756,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

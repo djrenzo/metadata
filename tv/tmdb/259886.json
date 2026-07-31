@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/9OUDNZjZOgJiFTjXfOtUBy90FUH.jpg",
+  "created_by": [
+    {
+      "id": 95894,
+      "credit_id": "66a40623947d359b91910413",
+      "name": "Russell T Davies",
+      "original_name": "Russell T Davies",
+      "gender": 2,
+      "profile_path": "/rDDLhm0Sw7JUqIf7CVkFbu06IEp.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-12-07",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m002dr53",
+  "id": 259886,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-21",
+  "last_episode_to_air": {
+    "id": 6278773,
+    "name": "The End of the War",
+    "overview": "Barclay stands alone, Salt is lost, UNIT is powerless, and the oceans rise as the war reaches its climax. While traitors conspire, can Barclay find Salt before it's too late?",
+    "vote_average": 4.825,
+    "vote_count": 20,
+    "air_date": "2025-12-21",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 1,
+    "show_id": 259886,
+    "still_path": "/eXBf3VETvZddlIRWhdkLRY3pBrl.jpg"
+  },
+  "name": "The War Between the Land and the Sea",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 5,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The War Between the Land and the Sea",
+  "overview": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+  "popularity": 11.7692,
+  "poster_path": "/4wDU61HtpXbcwpgCy1xnodxKRYN.jpg",
+  "production_companies": [
+    {
+      "id": 82996,
+      "logo_path": "/sxxPhM3Qt3OCQaFUyeegZ8eqcs9.png",
+      "name": "Bad Wolf",
+      "origin_country": "GB"
+    },
+    {
+      "id": 214718,
+      "logo_path": "/3kybnp1s4DAlJw2kLAx9G7l9Bz7.png",
+      "name": "BBC Studios Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-11-29",
+      "episode_count": 18,
+      "id": 499076,
+      "name": "Specials",
+      "overview": "Special installments of the series.",
+      "poster_path": "/bYLLdqNhaaa7V2Cf9Eh4ZzwxaR1.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-12-07",
+      "episode_count": 5,
+      "id": 403731,
+      "name": "Miniseries",
+      "overview": "When a fearsome and ancient species emerges from the ocean, dramatically revealing themselves to humanity, an international crisis is triggered. With the entire population at risk, UNIT step into action as the land and sea wage war.",
+      "poster_path": "/mleIeTJ6LMmpyVcNEpZ6qIpzRfT.jpg",
+      "season_number": 1,
+      "vote_average": 5.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.593,
+  "vote_count": 182,
+  "external_ids": {
+    "id": 259886,
+    "imdb_id": "tt30645193",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 444613,
+    "tvrage_id": null,
+    "wikidata_id": "Q130292868",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/qVFi9Z2XexbN7uFJSSG4juidNvM.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    105
+  ],
+  "first_air_date": "2015-11-06",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 114328,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2025-08-09",
+  "last_episode_to_air": {
+    "id": 6261825,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-08-09",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 99,
+    "season_number": 5,
+    "show_id": 114328,
+    "still_path": "/7OQzQA7OUi4txpYDVdP2EB9Y5IT.jpg"
+  },
+  "name": "Run for Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 952,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan Television",
+      "origin_country": "CN"
+    },
+    {
+      "id": 1631,
+      "logo_path": "/iE3rtBcUfWGiJosaZv2TroBxEZz.png",
+      "name": "Mango TV",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 57,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "全员加速中",
+  "overview": "",
+  "popularity": 12.2077,
+  "poster_path": "/bJYBQVR2doMX0TZ90CFO449IRlX.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-06-06",
+      "episode_count": 85,
+      "id": 347269,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-06",
+      "episode_count": 9,
+      "id": 171398,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yXgCr57o3BNvWn36Z9umqmbFsF9.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-29",
+      "episode_count": 12,
+      "id": 171401,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dn7x9E6VBFwWn5HWHJWkozaerJ7.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-10",
+      "episode_count": 12,
+      "id": 171402,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/gzB0XSn6msvdjoNRuMA8JBCSKbv.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-16",
+      "episode_count": 12,
+      "id": 378898,
+      "name": "Duel Season",
+      "overview": "",
+      "poster_path": "/f1mYuyT4Xuj1ZZN8C5goWtSn4Sa.jpg",
+      "season_number": 4,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2025-05-24",
+      "episode_count": 12,
+      "id": 457233,
+      "name": "2025",
+      "overview": "",
+      "poster_path": "/bJYBQVR2doMX0TZ90CFO449IRlX.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 482250,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 114328,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

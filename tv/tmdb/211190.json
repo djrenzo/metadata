@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/6dwjTgrGat2QzZ0Jm2s4PSin0b1.jpg",
+  "created_by": [
+    {
+      "id": 2782255,
+      "credit_id": "639e1f809bcd0f00840292fa",
+      "name": "Ana María Parra",
+      "original_name": "Ana María Parra",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3835031,
+      "credit_id": "639e1f709bcd0f008c5202b3",
+      "name": "Diego Arbeláez",
+      "original_name": "Diego Arbeláez",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-09-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 211190,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2022-11-28",
+  "last_episode_to_air": {
+    "id": 4081881,
+    "name": "Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-11-28",
+    "episode_number": 50,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 211190,
+    "still_path": null
+  },
+  "name": "Entre Sombras",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Entre Sombras",
+  "overview": "",
+  "popularity": 22.4472,
+  "poster_path": "/tqRVViOnRa6tUKxdl9N5eIh23p.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 50,
+      "id": 310479,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.833,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 211190,
+    "imdb_id": "tt21977358",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q113675121",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

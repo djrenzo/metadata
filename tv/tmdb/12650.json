@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/v7CyoPHTxfQ0HJkAhgRJwiPrHli.jpg",
+  "created_by": [
+    {
+      "id": 1244059,
+      "credit_id": "62e9391ff1b571006134f6b6",
+      "name": "Emilio Larrosa",
+      "original_name": "Emilio Larrosa",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3647082,
+      "credit_id": "62e9392f6d9fe80059759c1a",
+      "name": "Arturo Pedoraza Loera",
+      "original_name": "Arturo Pedoraza Loera",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1641784,
+      "credit_id": "62e93914965220005d26259d",
+      "name": "Alejandro Pohlenz",
+      "original_name": "Alejandro Pohlenz",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2002-08-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12650,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2003-06-06",
+  "last_episode_to_air": {
+    "id": 4478322,
+    "name": "Episode 220",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-06-06",
+    "episode_number": 220,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 12650,
+    "still_path": null
+  },
+  "name": "Las Vías del Amor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 220,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Las Vías del Amor",
+  "overview": "Las Vías del Amor is a Mexican telenovela that aired on the Televisa channel in Mexico and Univision in the United States from 2002-2003.",
+  "popularity": 11.7763,
+  "poster_path": "/33DVpUeOPt6sK7rc7X8a8v8TDNm.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-08-05",
+      "episode_count": 220,
+      "id": 292871,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jDZLHQ9K5SpyOMXFDd6hKHIK9vs.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.698,
+  "vote_count": 53,
+  "external_ids": {
+    "id": 12650,
+    "imdb_id": "tt0337742",
+    "freebase_mid": "/m/0g177g",
+    "freebase_id": "/en/las_vias_del_amor",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q471588",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,773 @@
+{
+  "adult": false,
+  "backdrop_path": "/ljS3auI8tPDYyLw6CnNpLcr2kjT.jpg",
+  "created_by": [
+    {
+      "id": 1653792,
+      "credit_id": "5790269f9251414b32000627",
+      "name": "Frank Hursley",
+      "original_name": "Frank Hursley",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1653793,
+      "credit_id": "579026b0c3a3684e950003e3",
+      "name": "Doris Hursley",
+      "original_name": "Doris Hursley",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1963-04-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.abc.go.com/shows/general-hospital",
+  "id": 987,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-22",
+  "last_episode_to_air": {
+    "id": 7461388,
+    "name": "Thursday July 30 2026",
+    "overview": "Serena Baldwin returns. Jason and Anna reconnect. Tracy is blindsided. Ethan gets a shock. Tristan draws a hard line.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 224,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 63,
+    "show_id": 987,
+    "still_path": null
+  },
+  "name": "General Hospital",
+  "next_episode_to_air": {
+    "id": 7461390,
+    "name": "Friday July 31 2026",
+    "overview": "Anna is gobsmacked. Sonny summons Jason. Ethan delivers big news to Lulu. Brook Lynn defends Danny. Dante coaches Liz.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 225,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 36,
+    "season_number": 63,
+    "show_id": 987,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10778,
+  "number_of_seasons": 63,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "General Hospital",
+  "overview": "Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.",
+  "popularity": 11.4637,
+  "poster_path": "/gS5iORCJHwP5moEXSF9b6ZcsZ1w.jpg",
+  "production_companies": [
+    {
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 6090,
+      "logo_path": null,
+      "name": "Selmur Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-04",
+      "episode_count": 1,
+      "id": 372805,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-04-01",
+      "episode_count": 2,
+      "id": 65626,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 1.7
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395574,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395575,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395580,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395581,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395585,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395586,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395587,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395588,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395589,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395590,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395591,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395592,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395593,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395576,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395577,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-05-14",
+      "episode_count": 30,
+      "id": 395578,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395579,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395583,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 395584,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 261,
+      "id": 395594,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/g6ms51eSXmd8LB9aUJYBuXosXzr.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-01",
+      "episode_count": 260,
+      "id": 395595,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/g6ms51eSXmd8LB9aUJYBuXosXzr.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 261,
+      "id": 395596,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-02",
+      "episode_count": 260,
+      "id": 395597,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-04",
+      "episode_count": 259,
+      "id": 395598,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-03",
+      "episode_count": 256,
+      "id": 395599,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 259,
+      "id": 395600,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-02",
+      "episode_count": 257,
+      "id": 395601,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-01",
+      "episode_count": 259,
+      "id": 395602,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-03",
+      "episode_count": 260,
+      "id": 201078,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 258,
+      "id": 238329,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-03",
+      "episode_count": 258,
+      "id": 238330,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-02",
+      "episode_count": 261,
+      "id": 238331,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 258,
+      "id": 238333,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 256,
+      "id": 238332,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 258,
+      "id": 238334,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 257,
+      "id": 238335,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-02",
+      "episode_count": 254,
+      "id": 238336,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-02",
+      "episode_count": 258,
+      "id": 238337,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 257,
+      "id": 238327,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 258,
+      "id": 238328,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 257,
+      "id": 85219,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 42,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2006-01-03",
+      "episode_count": 257,
+      "id": 238326,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 256,
+      "id": 238325,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 254,
+      "id": 238324,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 251,
+      "id": 238323,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 63,
+      "id": 238322,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-31",
+      "episode_count": 248,
+      "id": 85206,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-01",
+      "episode_count": 255,
+      "id": 85205,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-01",
+      "episode_count": 248,
+      "id": 85204,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-03-31",
+      "episode_count": 248,
+      "id": 68536,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-03-31",
+      "episode_count": 251,
+      "id": 68224,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-31",
+      "episode_count": 253,
+      "id": 68215,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 53,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2016-03-31",
+      "episode_count": 249,
+      "id": 76079,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-02",
+      "episode_count": 250,
+      "id": 88034,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 55,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2018-04-01",
+      "episode_count": 246,
+      "id": 102381,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 56,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2019-03-31",
+      "episode_count": 246,
+      "id": 121250,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-31",
+      "episode_count": 298,
+      "id": 177760,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 58,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 244,
+      "id": 210889,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 245,
+      "id": 308412,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-05",
+      "episode_count": 250,
+      "id": 353997,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-03",
+      "episode_count": 251,
+      "id": 395603,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 62,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 230,
+      "id": 471413,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": "/a3gxiIuZRPydKL1jJPhhzF3hM4S.jpg",
+      "season_number": 63,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.787,
+  "vote_count": 218,
+  "external_ids": {
+    "id": 987,
+    "imdb_id": "tt0056758",
+    "freebase_mid": "/m/0358x_",
+    "freebase_id": "/en/general_hospital",
+    "tvdb_id": 75332,
+    "tvrage_id": 3653,
+    "wikidata_id": "Q1136370",
+    "facebook_id": "GeneralHospital",
+    "instagram_id": "generalhospitalabc",
+    "twitter_id": "GeneralHospital"
+  }
+}

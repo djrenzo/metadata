@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/70mwKy9476ozh3kgMenvhyeTXzJ.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2007-01-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://love.iprima.cz/porady/velmi-krehke-vztahy",
+  "id": 54562,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2009-12-17",
+  "last_episode_to_air": {
+    "id": 3113752,
+    "name": "Episode 34",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-12-17",
+    "episode_number": 34,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 4,
+    "show_id": 54562,
+    "still_path": null
+  },
+  "name": "Velmi křehké vztahy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 286,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Velmi křehké vztahy",
+  "overview": "",
+  "popularity": 13.6037,
+  "poster_path": "/hbaMvbzlr1yOZKxvOsrMK3zpM1U.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 70,
+      "id": 110252,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 98,
+      "id": 110255,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-02",
+      "episode_count": 84,
+      "id": 110253,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-25",
+      "episode_count": 34,
+      "id": 110254,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 1.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 54562,
+    "imdb_id": "tt0934768",
+    "freebase_mid": "/m/0w407yl",
+    "freebase_id": null,
+    "tvdb_id": 403611,
+    "tvrage_id": null,
+    "wikidata_id": "Q11879139",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

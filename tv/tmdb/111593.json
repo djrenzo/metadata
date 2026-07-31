@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/5aSqx5d9EgIxFZ4BYjGXZiL3WGP.jpg",
+  "created_by": [
+    {
+      "id": 3141401,
+      "credit_id": "67b6f0a6b3f8fb27c419fe55",
+      "name": "이정환",
+      "original_name": "이정환",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2016-05-09",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://tvn.cjenm.com/ko/xtvnfree19/",
+  "id": 111593,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-02-09",
+  "last_episode_to_air": {
+    "id": 7602283,
+    "name": "Episode 530",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-27",
+    "episode_number": 530,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 111593,
+    "still_path": null
+  },
+  "name": "Free 19",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 866,
+      "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 506,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "프리한19",
+  "overview": "",
+  "popularity": 11.3107,
+  "poster_path": "/lYE37cDeDyq7kLIJ8oxuEFvIWNH.jpg",
+  "production_companies": [
+    {
+      "id": 145525,
+      "logo_path": "/f8wcXgdD6SkscnGY3DGygDC1bg7.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-05-17",
+      "episode_count": 1,
+      "id": 443243,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/lClfbkhLInZfu5KDZhKAMXV8aZ4.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-05-09",
+      "episode_count": 530,
+      "id": 165859,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jVQK6QnyCdyJch3yiIy12WIL4P3.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 111593,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 349890,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

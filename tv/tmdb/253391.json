@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+  "created_by": [
+    {
+      "id": 60212,
+      "credit_id": "699dabebedd663d1062b0196",
+      "name": "Matt Lopez",
+      "original_name": "Matt Lopez",
+      "gender": 2,
+      "profile_path": "/iMYXkqOne93hWYtBQhli29hxCPI.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-10-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/sheriff-country",
+  "id": 253391,
+  "in_production": true,
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "last_air_date": "2026-05-22",
+  "last_episode_to_air": {
+    "id": 7095341,
+    "name": "Mexico",
+    "overview": "With her department under scrutiny and tensions rising across Edgewater, Sheriff Mickey Fox faces the fallout from a major investigation that threatens to upend everything she's built.",
+    "vote_average": 9.1,
+    "vote_count": 4,
+    "air_date": "2026-05-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 253391,
+    "still_path": "/gT9twL6u4lD6pTdqls4S4wOSUib.jpg"
+  },
+  "name": "Sheriff Country",
+  "next_episode_to_air": {
+    "id": 7601711,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-09",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 253391,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 21,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Sheriff Country",
+  "overview": "Mickey Fox investigates criminal activity and patrols the streets of small-town Edgewater while contending with her ex-con father and a mysterious incident involving her wayward daughter.",
+  "popularity": 15.2892,
+  "poster_path": "/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 40041,
+      "logo_path": "/oP8TmVSh9DCP1yhR2yvjnKfMgbg.png",
+      "name": "Jerry Bruckheimer Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-10-17",
+      "episode_count": 20,
+      "id": 391997,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/qtRKExrjgKvDjmgSrZQd3qEPAUJ.jpg",
+      "season_number": 1,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2026-10-09",
+      "episode_count": 1,
+      "id": 532856,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Her town, her rules.",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 43,
+  "external_ids": {
+    "id": 253391,
+    "imdb_id": "tt32268630",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 449708,
+    "tvrage_id": null,
+    "wikidata_id": "Q125920386",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

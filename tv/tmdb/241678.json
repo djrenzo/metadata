@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/8cN9MFDpI0bHa4yIxzOs9SLdJT6.jpg",
+  "created_by": [
+    {
+      "id": 2466631,
+      "credit_id": "657e1b0d59008607adb1a54a",
+      "name": "Roman Nesterenko",
+      "original_name": "Roman Nesterenko",
+      "gender": 2,
+      "profile_path": "/3EZAt3M9EHtxd6PyRzaQ2nX09v9.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2005-09-05",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 241678,
+  "in_production": false,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2007-02-23",
+  "last_episode_to_air": {
+    "id": 5003542,
+    "name": "Episode 366",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-02-23",
+    "episode_number": 366,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 241678,
+    "still_path": null
+  },
+  "name": "Обреченная стать звездой",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 412,
+      "logo_path": "/t96cnWLH1OivW91EXygZDNSmhAK.png",
+      "name": "Russia-1",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 366,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Обреченная стать звездой",
+  "overview": "",
+  "popularity": 12.341,
+  "poster_path": "/7Jnp5Hua7uetqplIfQzNYlGqiwS.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2005-09-05",
+      "episode_count": 366,
+      "id": 370064,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jJOuD8Bq27P6qdp3KBGyeJa0Lma.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 241678,
+    "imdb_id": "tt2839252",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

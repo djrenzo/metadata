@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2707880,
+      "credit_id": "60855d05904f6d0058789616",
+      "name": "Wayne Doyle",
+      "original_name": "Wayne Doyle",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25,
+    30
+  ],
+  "first_air_date": "1993-05-31",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 10404,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "1994-07-11",
+  "last_episode_to_air": {
+    "id": 2903957,
+    "name": "Episode 136",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-07-11",
+    "episode_number": 136,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 10404,
+    "still_path": null
+  },
+  "name": "Paradise Beach",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 66,
+      "logo_path": "/pXibAQSgIIanNkSg68dUooI7IGU.png",
+      "name": "Nine Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 260,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US",
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Paradise Beach",
+  "overview": "Paradise Beach is an Australian television series made by Village Roadshow Pictures. It is associated with New World Television for the Nine Network that aired between 1993 and 1994. The series is set around characters living and working on Queensland's Gold Coast and was filmed largely on location, offering views of crashing waves, golden beaches and scantily clad young women and men. Paradise Beach was intended not only as a rival to Australian soaps Neighbours and Home and Away but also to be the first breakthrough Australian soap to make it in America.",
+  "popularity": 9.435,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 13675,
+      "logo_path": "/fRTNhhfXdXkdKpq2cXZ5EzgvApE.png",
+      "name": "Village Roadshow",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1993-05-31",
+      "episode_count": 124,
+      "id": 20541,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 136,
+      "id": 20542,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.917,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 10404,
+    "imdb_id": "tt0106095",
+    "freebase_mid": "/m/07qkly",
+    "freebase_id": "/en/paradise_beach",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q3363281",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

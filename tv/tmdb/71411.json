@@ -1,0 +1,193 @@
+{
+  "adult": false,
+  "backdrop_path": "/4kp7ZwgminnWqgFwO5QEiWS5BNa.jpg",
+  "created_by": [
+    {
+      "id": 1537530,
+      "credit_id": "594a10b292514145a80085cf",
+      "name": "Daniel Posada",
+      "original_name": "Daniel Posada",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1836719,
+      "credit_id": "594a107c92514145b9008781",
+      "name": "Silvana Aguirre Zegarra",
+      "original_name": "Silvana Aguirre Zegarra",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1309768,
+      "credit_id": "6303350221118f009454ba9a",
+      "name": "Carlos Contreras",
+      "original_name": "Carlos Contreras",
+      "gender": 2,
+      "profile_path": "/dqHEatvO3v7wWOLRNymUEJPk8h7.jpg"
+    },
+    {
+      "id": 1205254,
+      "credit_id": "6303353c097c49009110d2cc",
+      "name": "Ernesto Contreras",
+      "original_name": "Ernesto Contreras",
+      "gender": 2,
+      "profile_path": "/57RDgBYP5qkQ5LHUdFJdABpq5yw.jpg"
+    },
+    {
+      "id": 1310888,
+      "credit_id": "6303359c67e0f7007d985d8d",
+      "name": "José Manuel Cravioto",
+      "original_name": "José Manuel Cravioto",
+      "gender": 2,
+      "profile_path": "/ehCbX0CSq5myVim4r1cRwNGQdqL.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2017-04-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.univision.com/series/el-chapo",
+  "id": 71411,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2018-07-25",
+  "last_episode_to_air": {
+    "id": 1529644,
+    "name": "Episode 13",
+    "overview": "Esteban demands from Don Sol that he resign, he refuses and threatens to confess that Chapo paid for his campaign and that he helped him escape from prison. Don Sol suspects that El Chapo will hide with Marcelo and sends the army to look for him. While Gortari wants to appoint his daughter as presidential candidate but eventually Don Sol earns his trust and is himself appointed.",
+    "vote_average": 8,
+    "vote_count": 4,
+    "air_date": "2018-07-25",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 3,
+    "show_id": 71411,
+    "still_path": "/qUcIKT8QkNfA75O948AKJjckvAt.jpg"
+  },
+  "name": "El Chapo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 28,
+      "logo_path": "/8JwhJGdxpSsiuPiFDGslBH1cr7t.png",
+      "name": "Univision",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_name": "El Chapo",
+  "overview": "A look at the life of notorious drug kingpin, El Chapo, from his early days in the 1980s working for the Guadalajara Cartel, to his rise to power of during the '90s and his ultimate downfall in 2016.",
+  "popularity": 17.2244,
+  "poster_path": "/3FzlvQ5Ea35Zdz71Ye7JSvB6VdB.jpg",
+  "production_companies": [
+    {
+      "id": 134727,
+      "logo_path": null,
+      "name": "Story House Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 141793,
+      "logo_path": null,
+      "name": "Univision Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-04-22",
+      "episode_count": 11,
+      "id": 227924,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/79VAgEIdiMJ2SXlHC93EZ5dgX5l.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-23",
+      "episode_count": 7,
+      "id": 87718,
+      "name": "Season 1",
+      "overview": "El Chapo reflects on his childhood and how he entered the drug business. His punishments in prison become more severe.",
+      "poster_path": "/icOYB3dT8t8YTMdkXsTpz0KAfpD.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2017-09-17",
+      "episode_count": 12,
+      "id": 92224,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/zP7OMUUIk3bgtxyOi0jy3ninbGs.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-07-09",
+      "episode_count": 13,
+      "id": 105744,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/5gZ7oIDqOXGJ1nAruP4j0x9GB7n.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.535,
+  "vote_count": 1659,
+  "external_ids": {
+    "id": 71411,
+    "imdb_id": "tt6692188",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 326027,
+    "tvrage_id": null,
+    "wikidata_id": "Q29636642",
+    "facebook_id": "ElChapoLaSerie",
+    "instagram_id": "elchapolaserie",
+    "twitter_id": "ElChapoLaSerie"
+  }
+}

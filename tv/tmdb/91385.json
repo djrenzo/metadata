@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1262704,
+      "credit_id": "5d348273caab6d3580981ac8",
+      "name": "Fernanda Souza",
+      "original_name": "Fernanda Souza",
+      "gender": 1,
+      "profile_path": "/fDIB7sV4KVKj6UALvExf9mrJ2Rw.jpg"
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2016-10-31",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://multishow.globo.com/programas/vai-fernandinha",
+  "id": 91385,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2019-04-26",
+  "last_episode_to_air": {
+    "id": 5867473,
+    "name": "Episode 15",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-04-26",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 39,
+    "season_number": 4,
+    "show_id": 91385,
+    "still_path": null
+  },
+  "name": "Vai Fernandinha",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1092,
+      "logo_path": "/iYlnbSYwrwPMe4BVphpBrhLkqkb.png",
+      "name": "Multishow",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 74,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Vai Fernandinha",
+  "overview": "",
+  "popularity": 28.0081,
+  "poster_path": "/rszxxmbT8LStHgi3WSXT0c7uEZ4.jpg",
+  "production_companies": [
+    {
+      "id": 121051,
+      "logo_path": "/D5W4GrF7olTA8D4vROgz0Oa6KE.png",
+      "name": "Floresta Produções",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-10-31",
+      "episode_count": 15,
+      "id": 128144,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-12",
+      "episode_count": 24,
+      "id": 128145,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-09",
+      "episode_count": 20,
+      "id": 128146,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-08",
+      "episode_count": 15,
+      "id": 128147,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 91385,
+    "imdb_id": "tt7311322",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 319031,
+    "tvrage_id": null,
+    "wikidata_id": "Q48865945",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

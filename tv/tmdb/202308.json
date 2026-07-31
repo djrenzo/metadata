@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/wge5FrHo6GLb4RpP9Ud1VvjEQap.jpg",
+  "created_by": [
+    {
+      "id": 1313811,
+      "credit_id": "649e95153e6f2b00ffb4ec4f",
+      "name": "John Eisendrath",
+      "original_name": "John Eisendrath",
+      "gender": 2,
+      "profile_path": "/wnFhuncDGTTvnxzftf6P3rQhJ0Q.jpg"
+    },
+    {
+      "id": 134,
+      "credit_id": "649e95278289a000e2142ba1",
+      "name": "Jamie Foxx",
+      "original_name": "Jamie Foxx",
+      "gender": 2,
+      "profile_path": "/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    44
+  ],
+  "first_air_date": "2023-01-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.fox.com/alert-missing-persons-unit",
+  "id": 202308,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-27",
+  "last_episode_to_air": {
+    "id": 6253405,
+    "name": "Chase",
+    "overview": "When a limousine filled with teenagers, including a Senator's son, is hijacked on the way to prom, MPU discovers that the ex-girlfriend of one of the victims may have been the actual target. Now, Jason, Mike and the team must race to the prom in order to save the girl before it's too late.",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2025-05-27",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 3,
+    "show_id": 202308,
+    "still_path": "/fO2RnOMMyQc4SPLtGmyE9fS9V3a.jpg"
+  },
+  "name": "Alert: Missing Persons Unit",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Alert: Missing Persons Unit",
+  "overview": "When police officer Nikki Batista’s son goes missing, she joins the Philadelphia Police Department's Missing Person’s Unit (MPU) to help other people find their loved ones, even as she searches for her own. Six years later, her world is turned upside-down when her ex-husband, Jason Grant, a former police officer, shows up with a proof-of-life photo of their missing boy. Or is it?",
+  "popularity": 14.8575,
+  "poster_path": "/lLRC3GSYiFVHsxgc9tvmR6WjcOu.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 85721,
+      "logo_path": "/21N5NeX4l90jcFjG29VBQGkJ6VY.png",
+      "name": "FOX Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 59557,
+      "logo_path": "/pHgow1wEVd2D14VAbBNv0awDPWQ.png",
+      "name": "Foxxhole Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 95711,
+      "logo_path": null,
+      "name": "Whale Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-08",
+      "episode_count": 9,
+      "id": 294290,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/X99GnPm5USVNrHkNQnelPb4SLY.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2024-03-03",
+      "episode_count": 10,
+      "id": 366765,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/kwJ91wfllDsXF3yi9Cvf57uQTNM.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2025-03-25",
+      "episode_count": 10,
+      "id": 441152,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/lLRC3GSYiFVHsxgc9tvmR6WjcOu.jpg",
+      "season_number": 3,
+      "vote_average": 1.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Every second counts.",
+  "type": "Scripted",
+  "vote_average": 7.364,
+  "vote_count": 77,
+  "external_ids": {
+    "id": 202308,
+    "imdb_id": "tt18699118",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420207,
+    "tvrage_id": null,
+    "wikidata_id": "Q116275656",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

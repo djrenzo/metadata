@@ -1,0 +1,152 @@
+{
+  "adult": false,
+  "backdrop_path": "/n4UzjWc3gytQNZoSuXx31y9f3Ie.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2016-11-08",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.nickjr.com/rusty-rivets/",
+  "id": 73541,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-05-08",
+  "last_episode_to_air": {
+    "id": 2490438,
+    "name": "Rusty vs. the Dino Invasion",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-05-08",
+    "episode_number": 49,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 3,
+    "show_id": 73541,
+    "still_path": null
+  },
+  "name": "Rusty Rivets",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 35,
+      "logo_path": "/o4uC6wQQeyPes8Jg8afsV2CHmLo.png",
+      "name": "Nick Jr.",
+      "origin_country": "US"
+    },
+    {
+      "id": 216,
+      "logo_path": "/q0I6cg9HiMt7Jpvpi69cj8t5vOC.png",
+      "name": "Treehouse TV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 150,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rusty Rivets",
+  "overview": "A boy and his best friend, a robotic dinosaur, use machine parts to create gadgets.",
+  "popularity": 21.8366,
+  "poster_path": "/c2yzJGmOMN0eIsowImAb7LuAOQ7.jpg",
+  "production_companies": [
+    {
+      "id": 109706,
+      "logo_path": "/vBAxeGXaChkexsl2wCFxCmBO9UL.png",
+      "name": "Nickelodeon",
+      "origin_country": "NL"
+    },
+    {
+      "id": 71738,
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+      "name": "Spin Master",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-11-08",
+      "episode_count": 52,
+      "id": 91967,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4HBbKPJXIPx9YbGVv5mRRysOXR3.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-09",
+      "episode_count": 49,
+      "id": 97684,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/svhzPNtgTlvV2JWRPAfJPpDe4CN.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2020-03-01",
+      "episode_count": 49,
+      "id": 167563,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/oTiDfi3CY3Ty3a0N2NVvEZKUN3p.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 73541,
+    "imdb_id": "tt5742760",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 313091,
+    "tvrage_id": null,
+    "wikidata_id": "Q24192010",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

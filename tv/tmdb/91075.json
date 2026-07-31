@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2014-05-12",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.daserste.de/unterhaltung/quiz-show/quizduell/index.html",
+  "id": 91075,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2019-06-13",
+  "last_episode_to_air": {
+    "id": 1850832,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-06-13",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 91075,
+    "still_path": null
+  },
+  "name": "Quizduell",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 219,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Quizduell",
+  "overview": "",
+  "popularity": 17.7883,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-05-12",
+      "episode_count": 15,
+      "id": 127628,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-02",
+      "episode_count": 62,
+      "id": 127629,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-24",
+      "episode_count": 44,
+      "id": 127630,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-04",
+      "episode_count": 36,
+      "id": 127631,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-26",
+      "episode_count": 30,
+      "id": 127632,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-06",
+      "episode_count": 32,
+      "id": 127633,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 91075,
+    "imdb_id": "tt4961030",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 424441,
+    "tvrage_id": null,
+    "wikidata_id": "Q16897011",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

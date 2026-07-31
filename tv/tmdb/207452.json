@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/5EMBetTz8QyCtQlmcOvEieCEM9S.jpg",
+  "created_by": [
+    {
+      "id": 1232847,
+      "credit_id": "62ebbd951bf266005da531ae",
+      "name": "Inés Rodena",
+      "original_name": "Inés Rodena",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 3649955,
+      "credit_id": "62ebbda38566d2005fb0bc01",
+      "name": "Gabriel Walfensao",
+      "original_name": "Gabriel Walfensao",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1992-03-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 207452,
+  "in_production": false,
+  "languages": [
+    "es",
+    "ru"
+  ],
+  "last_air_date": "1992-10-12",
+  "last_episode_to_air": {
+    "id": 4802887,
+    "name": "Episode 174",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1992-10-12",
+    "episode_number": 174,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 207452,
+    "still_path": null
+  },
+  "name": "Cara sucia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 133,
+      "logo_path": "/vJf1d51q3nOyYDwrtNfnPxBiwmw.png",
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "number_of_episodes": 174,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_name": "Cara sucia",
+  "overview": "",
+  "popularity": 23.5456,
+  "poster_path": "/jOCD0lAeSBfOAEKPJ0wE5AgX1le.jpg",
+  "production_companies": [
+    {
+      "id": 118838,
+      "logo_path": null,
+      "name": "Venevisión",
+      "origin_country": "VE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-03-05",
+      "episode_count": 174,
+      "id": 303419,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 207452,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

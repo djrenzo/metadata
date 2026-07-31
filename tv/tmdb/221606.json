@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/xHKA49SjdsN58UD5RDTi4VOK5Cs.jpg",
+  "created_by": [
+    {
+      "id": 2146076,
+      "credit_id": "659551bbd7a70a12ff691612",
+      "name": "Anthony Fong",
+      "original_name": "方東昇",
+      "gender": 2,
+      "profile_path": "/hPKvDADtsx1jCXRGe5Ala8MzXTl.jpg"
+    }
+  ],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2020-03-06",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.mytvsuper.com/en/programme/newstreasury_125665/News-Treasury/",
+  "id": 221606,
+  "in_production": true,
+  "languages": [
+    "cn"
+  ],
+  "last_air_date": "2026-03-19",
+  "last_episode_to_air": {
+    "id": 7548532,
+    "name": "Episode 28",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-09",
+    "episode_number": 28,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 2,
+    "show_id": 221606,
+    "still_path": "/A3ahX8iSxynKDdC9gLKuhYqGNhE.jpg"
+  },
+  "name": "News Treasury",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 48,
+      "logo_path": "/v78f4q6DYdRB8dLj4rQBpqQG8pW.png",
+      "name": "TVB Jade",
+      "origin_country": "HK"
+    }
+  ],
+  "number_of_episodes": 312,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_name": "新聞掏寶",
+  "overview": "\"News Treasury\" explores historical news events and rarely seen footage, allowing viewers to dig into the news archives. From Bruce Lee's funeral and the Baoshang Bank robbery to Queen Elizabeth II's visit to Hong Kong and the Sha Tin measles outbreak, viewers can relive important moments in history. The show offers a chance to revisit key events that shaped modern Hong Kong.",
+  "popularity": 12.1419,
+  "poster_path": "/3SOKpal8nA7irhcfEqWVltiaeBq.jpg",
+  "production_companies": [
+    {
+      "id": 79261,
+      "logo_path": "/4OKzkasr0IV8CSqejjgRfKw7e0m.png",
+      "name": "TVB",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-03-06",
+      "episode_count": 300,
+      "id": 331189,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5kKDzoU5JUYqT3zUpc4EdtzQbqS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 28,
+      "id": 491256,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/tJuxr2K3tcDdZnOG3UiCjVnEUzt.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 221606,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

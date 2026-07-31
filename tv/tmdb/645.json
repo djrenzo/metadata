@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/7x3MrOXE1f3B1JzmW4p2kIxidzr.jpg",
+  "created_by": [
+    {
+      "id": 3388,
+      "credit_id": "52538c6919c2957940258668",
+      "name": "James L. Brooks",
+      "original_name": "James L. Brooks",
+      "gender": 2,
+      "profile_path": "/9mKjOFabm3yDRe5EIGsgSgNir9l.jpg"
+    },
+    {
+      "id": 87214,
+      "credit_id": "52538c6919c2957940258662",
+      "name": "Allan Burns",
+      "original_name": "Allan Burns",
+      "gender": 2,
+      "profile_path": "/bTRg9bezlF1JcEZ1QYeKyrIFAic.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1974-09-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 645,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-11-03",
+  "last_episode_to_air": {
+    "id": 36344,
+    "name": "Brenda Runs Away",
+    "overview": "Feeling trapped and confused when everybody tries to run her life for her, Brenda runs away.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-11-03",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 645,
+    "still_path": null
+  },
+  "name": "Rhoda",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 110,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Rhoda",
+  "overview": "",
+  "popularity": 15.1037,
+  "poster_path": "/7nVSlqyqtlXuTiEYjku7fzWYav5.jpg",
+  "production_companies": [
+    {
+      "id": 15847,
+      "logo_path": "/citziAyntn5lDG23a6oKMTzptYt.png",
+      "name": "MTM Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 1941,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-09-09",
+      "episode_count": 25,
+      "id": 1943,
+      "name": "Season 1",
+      "overview": "The first season of Rhoda aired on CBS from September 9, 1974 to March 10, 1975.",
+      "poster_path": "/jr2R7IBSr8cGl0XICZGy8wU9Nf6.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1975-09-08",
+      "episode_count": 24,
+      "id": 1945,
+      "name": "Season 2",
+      "overview": "The second season of Rhoda aired on CBS from September 8, 1975 to March 1, 1976.",
+      "poster_path": "/Hj6BNaAeYcLtrx1INsPcKe0NAx.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1976-09-20",
+      "episode_count": 24,
+      "id": 1944,
+      "name": "Season 3",
+      "overview": "The third season of Rhoda aired on CBS from September 20, 1976 to March 13, 1977.",
+      "poster_path": "/a0SuWsb0YCcDX2brsxZPOBgsuhs.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-10-02",
+      "episode_count": 24,
+      "id": 1942,
+      "name": "Season 4",
+      "overview": "The fourth season of Rhoda aired on CBS from October 2, 1977 to April 23, 1978.",
+      "poster_path": "/jZg9tBTkXIB4S2rqrgdfTqXN7gQ.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-09-23",
+      "episode_count": 13,
+      "id": 1946,
+      "name": "Season 5",
+      "overview": "The fifth and final season of Rhoda aired on CBS from September 23 to December 9, 1978. The last four episodes produced aired in syndication.",
+      "poster_path": "/hufZDq88WgJJFeuVoHuCJr2hG4o.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.259,
+  "vote_count": 29,
+  "external_ids": {
+    "id": 645,
+    "imdb_id": "tt0071040",
+    "freebase_mid": "/m/01jk1c",
+    "freebase_id": "/en/rhoda",
+    "tvdb_id": 78723,
+    "tvrage_id": 4997,
+    "wikidata_id": "Q1247556",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

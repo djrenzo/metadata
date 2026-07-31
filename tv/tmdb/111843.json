@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/jSvHWgE2mpREifmnoioWF0x4ZLQ.jpg",
+  "created_by": [
+    {
+      "id": 2611738,
+      "credit_id": "5f8f6b0afed59700394be922",
+      "name": "Alexis Mardones",
+      "original_name": "Alexis Mardones",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2734977,
+      "credit_id": "5f8f6b1b55c1f400391fd200",
+      "name": "Guillermo García",
+      "original_name": "Guillermo García",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25,
+    35,
+    45
+  ],
+  "first_air_date": "2013-04-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.chilevision.cl/lo-que-callamos-las-mujeres",
+  "id": 111843,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2016-02-29",
+  "last_episode_to_air": {
+    "id": 3265605,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-02-29",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 111843,
+    "still_path": null
+  },
+  "name": "Lo que callamos las mujeres",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 805,
+      "logo_path": "/nZAblk9dd36BmwuPoK61Tb2xHTQ.png",
+      "name": "Chilevisión",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 327,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Lo que callamos las mujeres",
+  "overview": "Anthology series that deal with different stories of women, who must endure the abuses and injustices of life.",
+  "popularity": 11.0515,
+  "poster_path": "/qpSZ3ztz6HqBlKupPtmr0ZUl2pF.jpg",
+  "production_companies": [
+    {
+      "id": 126300,
+      "logo_path": "/gXR0Plby84IV1ICZp3ld5Z8xEJ8.png",
+      "name": "Kuarzo",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-04-03",
+      "episode_count": 1,
+      "id": 166355,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-04-09",
+      "episode_count": 112,
+      "id": 186379,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-27",
+      "episode_count": 100,
+      "id": 166356,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-29",
+      "episode_count": 114,
+      "id": 214488,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 111843,
+    "imdb_id": "tt4067372",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

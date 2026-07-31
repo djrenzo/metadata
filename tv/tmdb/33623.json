@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
+  "created_by": [
+    {
+      "id": 1213648,
+      "credit_id": "5f3e253019ab59003617ec53",
+      "name": "Joshua Fine",
+      "original_name": "Joshua Fine",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1260188,
+      "credit_id": "5f3e252a904f6d00349f65fe",
+      "name": "Ciro Nieli",
+      "original_name": "Ciro Nieli",
+      "gender": 2,
+      "profile_path": "/zrDwEW5cR2jgp2l9e7Cp0bmZjUX.jpg"
+    },
+    {
+      "id": 109542,
+      "credit_id": "5f3e2535904f6d00349f67bc",
+      "name": "Christopher L. Yost",
+      "original_name": "Christopher L. Yost",
+      "gender": 2,
+      "profile_path": "/wPZAV6uK5t3MRd2gBt5AqBTzCsa.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2010-10-20",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://disney.go.com/xd/marvel/avengers/",
+  "id": 33623,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2012-11-11",
+  "last_episode_to_air": {
+    "id": 777756,
+    "name": "Avengers Assemble",
+    "overview": "The Avengers and their allies face the ultimate test when Galactus, the Devourer of Planets comes to consume Earth.",
+    "vote_average": 6,
+    "vote_count": 2,
+    "air_date": "2012-11-11",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 33623,
+    "still_path": "/8ZRm2TcI5QgcjPAu02syvN4uE1P.jpg"
+  },
+  "name": "The Avengers: Earth's Mightiest Heroes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 44,
+      "logo_path": "/nKM9EnV7jTpt3MKRbhBusJ03lAY.png",
+      "name": "Disney XD",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Avengers: Earth's Mightiest Heroes",
+  "overview": "The most powerful villains on the planet escape from prison. However, none of the superheroes can stop them without help, not even S.H.I.E.L.D. The Avengers then join forces to fight evil, and discover that as a group they are stronger.",
+  "popularity": 14.7991,
+  "poster_path": "/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
+  "production_companies": [
+    {
+      "id": 7505,
+      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+      "name": "Marvel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 13252,
+      "logo_path": "/aGeUvfSNA8gRl6ZjvmLQOsb7PMw.png",
+      "name": "Marvel Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-09-22",
+      "episode_count": 24,
+      "id": 44578,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/iolA5YtxmRGfhQokcfcYMP0UXiM.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-20",
+      "episode_count": 26,
+      "id": 44580,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/far2i8Wk57CYaGtHfwl63w5vWai.jpg",
+      "season_number": 1,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2012-04-01",
+      "episode_count": 26,
+      "id": 44579,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qQqndwtPzgZMKtn6cZGYtqZW8PY.jpg",
+      "season_number": 2,
+      "vote_average": 6.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.21,
+  "vote_count": 782,
+  "external_ids": {
+    "id": 33623,
+    "imdb_id": "tt1626038",
+    "freebase_mid": "/m/0crhkq3",
+    "freebase_id": null,
+    "tvdb_id": 192171,
+    "tvrage_id": null,
+    "wikidata_id": "Q1211225",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

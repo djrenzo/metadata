@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/27tqniQ0Pu72Bpiq0xCh4DqDOtx.jpg",
+  "created_by": [
+    {
+      "id": 3112206,
+      "credit_id": "625993bf74d6c01b710852c8",
+      "name": "Gülseren Budayıcıoğlu",
+      "original_name": "Gülseren Budayıcıoğlu",
+      "gender": 1,
+      "profile_path": "/KiDqgZ9eyQkXtVgnJeiBQsbzee.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2020-09-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 108904,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2022-02-18",
+  "last_episode_to_air": {
+    "id": 3708751,
+    "name": "Episode 19",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-02-18",
+    "episode_number": 19,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 108904,
+    "still_path": null
+  },
+  "name": "The Red Room",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2702,
+      "logo_path": "/nX4NrQzkUMjciGpripgTNLMPnJB.png",
+      "name": "TV8",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 61,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Kırmızı Oda",
+  "overview": "A therapy-situated series that will explore every day problems of every day people. Based on a book by Dr. Gülseren Buğdayıcıoğlu.",
+  "popularity": 17.1141,
+  "poster_path": "/d3TWZi66UlltlbraAaYotgdU22Z.jpg",
+  "production_companies": [
+    {
+      "id": 142312,
+      "logo_path": null,
+      "name": "OGM Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-09-04",
+      "episode_count": 42,
+      "id": 161410,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cWjcNyJ5AJboMrkj9fK870WLjvU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-17",
+      "episode_count": 19,
+      "id": 292738,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 108904,
+    "imdb_id": "tt12687036",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 386651,
+    "tvrage_id": null,
+    "wikidata_id": "Q97725327",
+    "facebook_id": null,
+    "instagram_id": "kirmizioda.dizi",
+    "twitter_id": null
+  }
+}

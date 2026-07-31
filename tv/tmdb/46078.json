@@ -1,0 +1,395 @@
+{
+  "adult": false,
+  "backdrop_path": "/mIKv5ABEKVajXvfxms9SGKxNpRW.jpg",
+  "created_by": [
+    {
+      "id": 1229488,
+      "credit_id": "52596f7c760ee34661a25644",
+      "name": "Lew Schneider",
+      "original_name": "Lew Schneider",
+      "gender": 2,
+      "profile_path": "/bFEaiZQRBpKByi9wuYAnQPCIes4.jpg"
+    },
+    {
+      "id": 179632,
+      "credit_id": "52596f7c760ee34661a2563e",
+      "name": "Phil Rosenthal",
+      "original_name": "Phil Rosenthal",
+      "gender": 2,
+      "profile_path": "/rR1dZHdTuCsw7wWsGbzdroaggjy.jpg"
+    }
+  ],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2009-11-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://ctc.ru/rus/projects/serials/voroniny/",
+  "id": 46078,
+  "in_production": false,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2019-10-03",
+  "last_episode_to_air": {
+    "id": 1947153,
+    "name": "Episode 22",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2019-10-03",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "552",
+    "runtime": 25,
+    "season_number": 24,
+    "show_id": 46078,
+    "still_path": "/fUBSXQOOywJaZyZaT2KjAFjYRth.jpg"
+  },
+  "name": "The Voronins",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 806,
+      "logo_path": "/h3Al1s9eMwBpqrRZgyRIche9Vmd.png",
+      "name": "STS",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 552,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Воронины",
+  "overview": "The main characters of the series are an ordinary family. The family consists of the following: Kostya, his wife Vera and their children: Masha and the twins Philip and Kirill. Right on the same landing, where the apartment of the young Voronin family is located, Kostya’s parents live: Galina Ivanovna, Nikolai Petrovich and Lyonya - Kostya's older brother.",
+  "popularity": 11.1347,
+  "poster_path": "/lKW2c9KrIhKy272AYZCzY2SSVcM.jpg",
+  "production_companies": [
+    {
+      "id": 31801,
+      "logo_path": "/lnVx6BR1XIjp6Fhgzq1ZvcrNjC2.png",
+      "name": "Good Story Media",
+      "origin_country": "RU"
+    },
+    {
+      "id": 32626,
+      "logo_path": "/idN0Y7wU3fB2VLncVKSYby7yp79.png",
+      "name": "Lean-M",
+      "origin_country": "RU"
+    },
+    {
+      "id": 152395,
+      "logo_path": null,
+      "name": "AVK production",
+      "origin_country": "RU"
+    },
+    {
+      "id": 119781,
+      "logo_path": "/9OaoC5V5nsNUiKzsPkNQN0wV9M4.png",
+      "name": "Team Films",
+      "origin_country": "RU"
+    },
+    {
+      "id": 152397,
+      "logo_path": "/baIYhHlrG5UyOiWTT7vF6QJGQj3.png",
+      "name": "Sony Pictures Television Russia",
+      "origin_country": "RU"
+    },
+    {
+      "id": 110763,
+      "logo_path": null,
+      "name": "Триграф",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 54452,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/nrfpxYThl2zTmhCU2v41MD3Hm2L.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-16",
+      "episode_count": 20,
+      "id": 54440,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6EEJYTwduGXQFKDKMx39n2z3yWk.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2010-01-25",
+      "episode_count": 20,
+      "id": 54441,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/oahGPtNUT6yoNKaY5QfWK4fmbIb.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-03-22",
+      "episode_count": 20,
+      "id": 54442,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zvpnwbrblmUqwxGQTy1aHK4zOH5.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-05-24",
+      "episode_count": 20,
+      "id": 54443,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/t5mRP05x89mfkF2O4KvJG0rab8b.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-16",
+      "episode_count": 20,
+      "id": 54444,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/deqm2jGpo5lWv3nxW7tZZOmzXMu.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-04",
+      "episode_count": 22,
+      "id": 54445,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/pKUhIu8sJh6T5gncxG8EHec4V5G.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-12-13",
+      "episode_count": 18,
+      "id": 54446,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/1OTiviwRmPcPuKg1UfVCnvxHHAC.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-31",
+      "episode_count": 20,
+      "id": 54447,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/rh9xbUnOlr0FvqW12FZvdvXck4E.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-05-24",
+      "episode_count": 25,
+      "id": 54448,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/22BCmdrYotz5SMPYSDFu6hzHofZ.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 25,
+      "id": 54449,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/mgMmwaH22hor3k79Uy8iOouqntn.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-01",
+      "episode_count": 20,
+      "id": 54450,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/dfzIA98DDdwl4bzI1kMfxclyQrj.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-12-03",
+      "episode_count": 26,
+      "id": 54451,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/kuZVN0an3zOvg6xxY9mFtgDXOvc.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-11-26",
+      "episode_count": 28,
+      "id": 62324,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/27KpyRgOWoBxdS7TYtzdt1kKTGO.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-06-16",
+      "episode_count": 32,
+      "id": 62325,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/bnTdl1Ia526AZftY0olCRRNhRhG.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-07",
+      "episode_count": 20,
+      "id": 114726,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/72ZvB1U8nmIuflq51XEnMoglblh.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-01",
+      "episode_count": 20,
+      "id": 118332,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/5kW8f8BNffgBaE6mhhf587y2YTM.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-29",
+      "episode_count": 20,
+      "id": 118333,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/kZZTVn1YmJC9XIZpCxqgs1RKiQt.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-20",
+      "episode_count": 27,
+      "id": 118334,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/cG7udjQr7kocYoFVFA469Ld72bC.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-13",
+      "episode_count": 19,
+      "id": 118335,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/5tS3B0hetTee2nOCa0nHADEQxKx.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 33,
+      "id": 118336,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/hLmMZeEZdS3b898UGznRLcfOFLR.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-13",
+      "episode_count": 21,
+      "id": 118337,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/yFVIKCta7GgEHT7cYgRcCAJTekP.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-04",
+      "episode_count": 18,
+      "id": 118338,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/xrKM92K2mBLa7iWEVXEYKJ8ZDN5.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-04",
+      "episode_count": 36,
+      "id": 118339,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/x5MFGWxT8FGo2Ny2wUl7oYZPQk3.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 22,
+      "id": 132660,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/yca6JpdqpjCO3KeWGzVBQ2fRrNf.jpg",
+      "season_number": 24,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.745,
+  "vote_count": 47,
+  "external_ids": {
+    "id": 46078,
+    "imdb_id": "tt2301092",
+    "freebase_mid": "/m/0ndsms5",
+    "freebase_id": null,
+    "tvdb_id": 124301,
+    "tvrage_id": 28183,
+    "wikidata_id": "Q4125559",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

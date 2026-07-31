@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/jNJuW06o8DFvrz3Zcm9sKyTsRUf.jpg",
+  "created_by": [
+    {
+      "id": 87661,
+      "credit_id": "67302fde5a65bb8190dd3df5",
+      "name": "Kankuro Kudo",
+      "original_name": "宮藤官九郎",
+      "gender": 2,
+      "profile_path": "/1cIforKuSiewIYTuH9WKQXUsguu.jpg"
+    },
+    {
+      "id": 1555007,
+      "credit_id": "67303002c31a5dcbb214a683",
+      "name": "Teruyuki Yoshida",
+      "original_name": "吉田照幸",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 4585720,
+      "credit_id": "67303010c31a5dcbb214a689",
+      "name": "Toki Kajiwara",
+      "original_name": "梶原登城",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1254837,
+      "credit_id": "6730301a5a65bb8190dd3e01",
+      "name": "Go Inoue",
+      "original_name": "井上剛",
+      "gender": 2,
+      "profile_path": "/pfflyhOaWISQwwlNBfb4oG6Fk95.jpg"
+    },
+    {
+      "id": 4248073,
+      "credit_id": "67303033ac970aad2a8d8c5f",
+      "name": "Tomohiro Kuwano",
+      "original_name": "Tomohiro Kuwano",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 5050152,
+      "credit_id": "6730303f3c104d88bdc5b15e",
+      "name": "西村武五郎",
+      "original_name": "西村武五郎",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2013-04-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www6.nhk.or.jp/drama/pastprog/detail.html?i=asadora88",
+  "id": 64347,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2013-12-31",
+  "last_episode_to_air": {
+    "id": 5176941,
+    "name": "Episode 157",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-12-31",
+    "episode_number": 157,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 64347,
+    "still_path": "/wkIJTDGjs58BLvv2MQvRyt2pP0x.jpg"
+  },
+  "name": "Amachan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2306,
+      "logo_path": "/6XY0tlrKcuh2J1oqlBWNtmyjyoH.png",
+      "name": "NHK BS Premium",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2334,
+      "logo_path": "/rioX0zGJHGnuEm9iGMVL6N9guA0.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 157,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "あまちゃん",
+  "overview": "Aki Amano, a high-school girl from Tokyo moves to the Sanriku Coast in the Tohoku region to become a female diver. She becomes a local idol, then returns to Tokyo to try to become a real idol, and finally returns to Tohoku to help revitalize the area after the Great East Japan earthquake.",
+  "popularity": 13.7574,
+  "poster_path": "/xWC8HFCflXr8QN08BX7aZaYhGGS.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-08-16",
+      "episode_count": 6,
+      "id": 121047,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-01",
+      "episode_count": 157,
+      "id": 71817,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6dCO8FzlfpOeEEAbK9rZCQXfedN.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.1,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 64347,
+    "imdb_id": "tt2188562",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 268456,
+    "tvrage_id": null,
+    "wikidata_id": "Q4687939",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

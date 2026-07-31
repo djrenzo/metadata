@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/1lwYDySpRgZqEc8uhqDwNpFE70H.jpg",
+  "created_by": [
+    {
+      "id": 142503,
+      "credit_id": "66652cdf030635cdae1582b1",
+      "name": "Alexander Rodionov",
+      "original_name": "Александр Родионов",
+      "gender": 2,
+      "profile_path": "/hBny8VgJX9qm7sSCoKivQB1K1si.jpg"
+    },
+    {
+      "id": 4634106,
+      "credit_id": "668bca81a3c0821bfaae615c",
+      "name": "Anton Volodkin",
+      "original_name": "Антон Володькин",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2778854,
+      "credit_id": "668bca68ff31b1a444b1e7bc",
+      "name": "Dmitry Tabarchuk",
+      "original_name": "Дмитрий Табарчук",
+      "gender": 2,
+      "profile_path": "/7LH1Q8v16eMd3VUOiAYMkjtMpzT.jpg"
+    },
+    {
+      "id": 4705941,
+      "credit_id": "668bcaaebbcc6a8abab1e795",
+      "name": "Nataliya Lazareva",
+      "original_name": "Наталия Лазарева",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 80999,
+      "credit_id": "668bca48b1fa5f9446e5d4ef",
+      "name": "Fyodor Bondarchuk",
+      "original_name": "Фёдор Бондарчук",
+      "gender": 2,
+      "profile_path": "/uj63LFvCWAipD0UlTed8i8snE6b.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-06-24",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 252562,
+  "in_production": false,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2024-08-05",
+  "last_episode_to_air": {
+    "id": 5463996,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-08-05",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 65,
+    "season_number": 1,
+    "show_id": 252562,
+    "still_path": "/kYce5hi7wRw1axg4COQlvLfzR2L.jpg"
+  },
+  "name": "Clean",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5806,
+      "logo_path": "/nMd8AApGO1w0uCLx4JiKnlcFYTM.png",
+      "name": "Wink",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Чистые",
+  "overview": "St. Petersburg, 1903. A world of luxury and leisure for men, a world of fear and submission for women. Ksenia and Stesha work in an underground brothel under the control of a handsome and ruthless lady. Girls sell men their bodies, feelings, flirting and the illusion of love. It seems that they have nothing but beauty. In fact, they have access to a secret power — the purity of the soul and the desire for freedom. And with this power, they can change everything.",
+  "popularity": 12.8548,
+  "poster_path": "/b1PQRB4pCnVz6IYtwygukMpbf4h.jpg",
+  "production_companies": [
+    {
+      "id": 16081,
+      "logo_path": "/3P0P49TcY335rODfTobE9GSkaMO.png",
+      "name": "RWS",
+      "origin_country": "RU"
+    },
+    {
+      "id": 224306,
+      "logo_path": "/pPmpNcksSvlnXwEXhokeItskclH.png",
+      "name": "Wink",
+      "origin_country": "RU"
+    },
+    {
+      "id": 274894,
+      "logo_path": "/jIJ1gCcLADZnD2FSO1fN6GGBghI.png",
+      "name": "NMG Studio",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-06-24",
+      "episode_count": 8,
+      "id": 389765,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o4nIcU9PPaYCKBYONl2ynWO8jRh.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 8.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 252562,
+    "imdb_id": "tt30430244",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 451669,
+    "tvrage_id": null,
+    "wikidata_id": "Q126890389",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

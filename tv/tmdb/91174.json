@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/hzqf8b43RqHYmVjJJ2itMCftUCn.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2019-07-29",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.cc.com/shows/lights-out-with-david-spade",
+  "id": 91174,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-03-12",
+  "last_episode_to_air": {
+    "id": 2407539,
+    "name": "Zainab Johnson, Nikki Glaser & Fortune Feimster",
+    "overview": "Panelists Zainab Johnson, Nikki Glaser and Fortune Feimster join David Spade to talk about the latest in pop culture.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-03-12",
+    "episode_number": 107,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 1,
+    "show_id": 91174,
+    "still_path": null
+  },
+  "name": "Lights Out with David Spade",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 47,
+      "logo_path": "/6ooPjtXufjsoskdJqj6pxuvHEno.png",
+      "name": "Comedy Central",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 107,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lights Out with David Spade",
+  "overview": "Specializing in celebrities, entertainment and all things apolitical, comedy legend David Spade and a panel of his comedian friends are at the roundtable and in the field to help break down the biggest headlines of the day.",
+  "popularity": 12.2104,
+  "poster_path": "/5AO1sWKOrwHo3Jh5ORcCgozjwng.jpg",
+  "production_companies": [
+    {
+      "id": 82736,
+      "logo_path": "/mVK1NzafVcCcyXEooG2nC1gnpm1.png",
+      "name": "Free 90 Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 76306,
+      "logo_path": null,
+      "name": "Desert Rat",
+      "origin_country": "US"
+    },
+    {
+      "id": 21199,
+      "logo_path": "/freGVtYt766cJ6HollWKl8RO64a.png",
+      "name": "Brillstein Entertainment Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-07-29",
+      "episode_count": 107,
+      "id": 127788,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5AO1sWKOrwHo3Jh5ORcCgozjwng.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.6,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 91174,
+    "imdb_id": "tt8129446",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 365717,
+    "tvrage_id": null,
+    "wikidata_id": "Q85776627",
+    "facebook_id": "lightsout",
+    "instagram_id": "lightsout",
+    "twitter_id": "LightsOut"
+  }
+}

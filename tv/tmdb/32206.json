@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/mDiU2tWAKK57uqM3azBj3UaJtK3.jpg",
+  "created_by": [
+    {
+      "id": 1479377,
+      "credit_id": "629dccad65e0a2550a29980c",
+      "name": "Carlo Rossella",
+      "original_name": "Carlo Rossella",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2006-10-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.capri.rai.it",
+  "id": 32206,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2010-04-12",
+  "last_episode_to_air": {
+    "id": 6081526,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-04-12",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 3,
+    "show_id": 32206,
+    "still_path": null
+  },
+  "name": "Capri",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 76,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Capri",
+  "overview": "Capri is an Italian TV series produced by Rai Fiction.",
+  "popularity": 15.2229,
+  "poster_path": "/ukt1MZEzZ5ZK1XNH3frruJg0rLB.jpg",
+  "production_companies": [
+    {
+      "id": 154744,
+      "logo_path": "/qYIEHRctL3YFth36F1LwhEQvOl5.png",
+      "name": "Rai Fiction",
+      "origin_country": "IT"
+    },
+    {
+      "id": 28471,
+      "logo_path": null,
+      "name": "Rizzoli Audiovisivi",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-10-15",
+      "episode_count": 24,
+      "id": 118607,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-03-30",
+      "episode_count": 26,
+      "id": 118608,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-14",
+      "episode_count": 26,
+      "id": 118609,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.833,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 32206,
+    "imdb_id": "tt0465682",
+    "freebase_mid": "/m/0bbxqvm",
+    "freebase_id": null,
+    "tvdb_id": 85280,
+    "tvrage_id": null,
+    "wikidata_id": "Q3447614",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

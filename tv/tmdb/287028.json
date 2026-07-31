@@ -1,0 +1,330 @@
+{
+  "adult": false,
+  "backdrop_path": "/6szuXVEj9zQtsu3RyWn9SnclIgB.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2026-07-03",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.vap.co.jp/korekaite-shine/",
+  "id": 287028,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-07-24",
+  "last_episode_to_air": {
+    "id": 7451651,
+    "name": "Utopia ~ Making Manga's Better With Others",
+    "overview": "Ai and Kokoro begin a long process of trial and error as they try and create their first manga as a club.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-24",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 1,
+    "show_id": 287028,
+    "still_path": "/1AJPkyAPtdQCQFOgM6BEgyDt38B.jpg"
+  },
+  "name": "Draw This, Then Die!",
+  "next_episode_to_air": {
+    "id": 7451654,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 287028,
+    "still_path": "/9kO6ottMIwKHgPRWQKBVDc9M82l.jpg"
+  },
+  "networks": [
+    {
+      "id": 57,
+      "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+      "name": "Nippon TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 569,
+      "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+      "name": "YTV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1896,
+      "logo_path": "/suqJy99xiGr8PV7eQovUFRgquYT.png",
+      "name": "FBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2727,
+      "logo_path": "/85U2onICiQV9fMHORxw8EWSQ6MZ.png",
+      "name": "Chukyo TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2728,
+      "logo_path": "/kwC7bfbGknKuL7uxKahk6paamlp.png",
+      "name": "RNB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3201,
+      "logo_path": "/4OpeDJ8jzPeaSiOlzGCnHjm6tpt.png",
+      "name": "HTV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3644,
+      "logo_path": "/8Cue5NzJ6cucpA5k73GVrCqn2JI.png",
+      "name": "FCT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3698,
+      "logo_path": "/rrw1HbmPpR9GQ3K19taPCYYf5jY.png",
+      "name": "STV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3741,
+      "logo_path": "/hiI8H4WLDlCtRZQboq4BTdM2KAg.png",
+      "name": "KNB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4790,
+      "logo_path": "/5aEqvKUgffp6zehXyCUhJyzeZPg.png",
+      "name": "YBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4791,
+      "logo_path": "/e9WRfzkc8HNsZ1qEF26ENHlBMvn.png",
+      "name": "KTK",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4797,
+      "logo_path": "/ggNJJiuB0mT4cQckN9h6jxT7exe.png",
+      "name": "NKT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4815,
+      "logo_path": "/igW7DjfUZ8Ew7BLzCxKHKpeFFL3.png",
+      "name": "RAB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4816,
+      "logo_path": "/9qQIAEYEw1ZyPPK3tqE18Z00AwW.png",
+      "name": "TVI",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4817,
+      "logo_path": "/oxuY8YFFO6Iv1IicYRGFcLizERc.png",
+      "name": "MMT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4818,
+      "logo_path": "/rddkLH5IZoh5IW5b6FHgrOBjBgE.png",
+      "name": "ABS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4822,
+      "logo_path": "/xX0I9Sc0AxSoKoVtwwmz0DWOWcr.png",
+      "name": "JRT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4825,
+      "logo_path": "/9dD3buakf1nS6XQVBwEtm50izs4.png",
+      "name": "TOS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6155,
+      "logo_path": "/cvePJ33fR2SeirKZWD8rCV7rAaF.png",
+      "name": "YBC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6156,
+      "logo_path": "/gxpzF98cV1DHpXzJmXf2Ew6sQvV.png",
+      "name": "UMK TV Miyazaki",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6286,
+      "logo_path": "/mcA2WrzDxg1MuZ2TnewjVZaTvM2.png",
+      "name": "TSB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6668,
+      "logo_path": "/atlFO76SPaLGIt9Wmxzg23M0IoA.png",
+      "name": "TeNY",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6669,
+      "logo_path": "/w9VRiRNT3OrP09OHXl6i1nGFWiL.png",
+      "name": "RNC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6670,
+      "logo_path": "/7OAJi6aS9zQWwP64jqxRllBvYKR.png",
+      "name": "NIB",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6671,
+      "logo_path": "/jd0KEJ6Md6JBRWjxTHRU9BYpbuv.png",
+      "name": "KKT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7076,
+      "logo_path": "/tFePbc4dqJzcUaHeKAQkhRgT5zJ.png",
+      "name": "Daiichi-TV",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7077,
+      "logo_path": "/r1vdmMUpIGnGvLE3UMqkuEtWlG4.png",
+      "name": "FBC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7078,
+      "logo_path": "/7QYtCUc3PxYvOQ0NDOw3vQHAIJh.png",
+      "name": "RKC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7079,
+      "logo_path": "/wqeYNfsn0LSwbmQGPkcqMg5yhpW.png",
+      "name": "KYT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7092,
+      "logo_path": "/5IzL2Fq2yErfy4LH96KX5PKOAbv.png",
+      "name": "KRY",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "これ描いて死ね",
+  "overview": "First-year high school student Ai Yasumi lives on the island of Izu Oshima and loves reading manga. But after a certain turning point, she sets her sights on creating stories of her own! As she dives into the world of manga-making, Ai faces challenges, growth, and the excitement of chasing her creative dreams. Where will her creative journey take her?",
+  "popularity": 13.4463,
+  "poster_path": "/ipxFiJACy04cnGhaTaupDvRa3y4.jpg",
+  "production_companies": [
+    {
+      "id": 5141,
+      "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6755,
+      "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9149,
+      "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+      "name": "Shogakukan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11725,
+      "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+      "name": "VAP",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12655,
+      "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+      "name": "Shogakukan-Shueisha Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5809,
+      "logo_path": "/bViN2LqqtONjOTkYmPtnMNaVOtD.png",
+      "name": "Frontier Works",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-07-03",
+      "episode_count": 12,
+      "id": 447414,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dZpSzhp6sL0owWgX1XZsGVzaTfz.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 287028,
+    "imdb_id": "tt36290385",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 461714,
+    "tvrage_id": null,
+    "wikidata_id": "Q133455035",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "korekaite_shine"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/uUz5OvIuiDrKxwRPD5x4DzQZmZY.jpg",
+  "created_by": [
+    {
+      "id": 3303527,
+      "credit_id": "6292562af10a1a0051a57909",
+      "name": "André Ramalho",
+      "original_name": "André Ramalho",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2018-11-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/ateia/",
+  "id": 87526,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2019-06-17",
+  "last_episode_to_air": {
+    "id": 3746642,
+    "name": "Episode 83",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-06-17",
+    "episode_number": 83,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 87526,
+    "still_path": "/kMwRSGTjiJQAQJJ4Jm8FbJcJQDI.jpg"
+  },
+  "name": "A Teia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 175,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "A Teia",
+  "overview": "A man and a woman with no apparent connection are involved in a bizarre bank robbery, resulting in their death. Their children (Lara and Simão), faced with the impasse in the police investigation, decide to unravel the mystery that led to the tragedy. What they discover is just the tip of the skein. Other deaths follow, all unrelated to view and entangled in a mysterious web that seems to have no end. What will be the next target?",
+  "popularity": 16.3005,
+  "poster_path": "/vlK6LmlEobuM5kTXLiunkwL0WMH.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-11-19",
+      "episode_count": 92,
+      "id": 120343,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yuoIcxTj7itFLe47ckMINuQgS4e.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-09",
+      "episode_count": 83,
+      "id": 295265,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/yuoIcxTj7itFLe47ckMINuQgS4e.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 87526,
+    "imdb_id": "tt8960296",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 354160,
+    "tvrage_id": null,
+    "wikidata_id": "Q61001790",
+    "facebook_id": "ateiatvi",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -45,4 +45,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update TMDB TV series data (pages ${{ inputs.start_page || '1' }}-${{ inputs.end_page || '400' }})"
-          file_pattern: "tv/tmdb/*.json"
+          file_pattern: "tv/*.json"

@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/nU32qZlku1xlO0arJKnBIEM6d5x.jpg",
+  "created_by": [
+    {
+      "id": 1446056,
+      "credit_id": "55147fa0c3a3683f3900c15f",
+      "name": "Metin Açıkgöz",
+      "original_name": "Metin Açıkgöz",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1446055,
+      "credit_id": "55147f94c3a368351e000ee3",
+      "name": "Murat Aras",
+      "original_name": "Murat Aras",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 575464,
+      "credit_id": "55147f82925141045c003ddb",
+      "name": "Birol Güven",
+      "original_name": "Birol Güven",
+      "gender": 2,
+      "profile_path": "/rEfkltixTvQ0GqAv08ahUxESkUR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-01-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://yalanciromantik.com",
+  "id": 51155,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2009-06-08",
+  "last_episode_to_air": {
+    "id": 1418102,
+    "name": "Episode 41",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-06-08",
+    "episode_number": 41,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 51155,
+    "still_path": null
+  },
+  "name": "Yalancı Romantik",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2236,
+      "logo_path": "/ovdg7mo5neFJK4bTkh4Q0JFfd5X.png",
+      "name": "Kanal 1",
+      "origin_country": "TR"
+    },
+    {
+      "id": 303,
+      "logo_path": "/AiTBB9bmnY0F7bMaULSEOtGQYdR.png",
+      "name": "FOX",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 41,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Yalancı Romantik",
+  "overview": "A husband who has issues being romantic which causes madness of his wife.",
+  "popularity": 9.2569,
+  "poster_path": "/6TAjozZwRIGirciMYncNBu6DPjr.jpg",
+  "production_companies": [
+    {
+      "id": 55071,
+      "logo_path": "/fxOS29DowOFtuaPfFgxYR2eoXP6.png",
+      "name": "MinT Production",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 20,
+      "id": 65551,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6TAjozZwRIGirciMYncNBu6DPjr.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 21,
+      "id": 65552,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6TAjozZwRIGirciMYncNBu6DPjr.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 51155,
+    "imdb_id": "tt6079262",
+    "freebase_mid": "/m/0vxsfl7",
+    "freebase_id": null,
+    "tvdb_id": 392923,
+    "tvrage_id": null,
+    "wikidata_id": "Q12812535",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

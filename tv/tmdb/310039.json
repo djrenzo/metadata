@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2003-12-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 310039,
+  "in_production": false,
+  "languages": [
+    "th",
+    "vi"
+  ],
+  "last_air_date": "2004-01-10",
+  "last_episode_to_air": {
+    "id": 6815167,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-01-10",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 310039,
+    "still_path": null
+  },
+  "name": "Tình Xa",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 180,
+      "logo_path": "/h5FnejgbRJFCOdMBuoP2EMUKK0k.png",
+      "name": "Channel 7",
+      "origin_country": "TH"
+    },
+    {
+      "id": 4755,
+      "logo_path": "/2DmQKMYbnefxluUVpDymQrcnaTg.png",
+      "name": "VTV1",
+      "origin_country": "VN"
+    }
+  ],
+  "number_of_episodes": 5,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TH",
+    "VN"
+  ],
+  "original_language": "vi",
+  "original_name": "Tình Xa",
+  "overview": "The love story between a Vietnamese girl of Thái ethnic group and a Thai rich guy on her trip to Thailand to learn about traditional dances.",
+  "popularity": 8.7975,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 94481,
+      "logo_path": "/izIVx0uUDcsLC2casNhmGC5IZSI.png",
+      "name": "VFC",
+      "origin_country": "VN"
+    },
+    {
+      "id": 142266,
+      "logo_path": null,
+      "name": "Vietnam Television",
+      "origin_country": "VN"
+    },
+    {
+      "id": 24858,
+      "logo_path": null,
+      "name": "Kantana Group",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VN",
+      "name": "Vietnam"
+    },
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-12-13",
+      "episode_count": 5,
+      "id": 492876,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 310039,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

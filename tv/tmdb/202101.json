@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/qOvaHTMPnmrJLeKYCoTW4gDOcTm.jpg",
+  "created_by": [
+    {
+      "id": 1213999,
+      "credit_id": "63c8803b142ef100a04a6def",
+      "name": "Reinhold Weege",
+      "original_name": "Reinhold Weege",
+      "gender": 2,
+      "profile_path": "/pvmjEjG6MR3eb0fziz1gyolhK2H.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2023-01-17",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.nbc.com/night-court",
+  "id": 202101,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-06",
+  "last_episode_to_air": {
+    "id": 5977718,
+    "name": "A Decent Proposal",
+    "overview": "Abby finds herself in charge of two runaway teens; a surprise appearance upends Abby's world.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2025-05-06",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 3,
+    "show_id": 202101,
+    "still_path": null
+  },
+  "name": "Night Court",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 47,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Night Court",
+  "overview": "Unapologetically optimistic judge Abby Stone, the daughter of the late Harry Stone, follows in her father's footsteps as she presides over the night shift of a Manhattan arraignment court and tries to bring order to its crew of oddballs and cynics, most notably former night court prosecutor Dan Fielding.",
+  "popularity": 9.264,
+  "poster_path": "/aDgsyosno3aKCiAn0UoUuw6HNME.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 16,
+      "id": 293954,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aDgsyosno3aKCiAn0UoUuw6HNME.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2023-12-22",
+      "episode_count": 13,
+      "id": 366696,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/oUm8cIEGLkBqdEaBTM30fL0cPeA.jpg",
+      "season_number": 2,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2024-11-18",
+      "episode_count": 18,
+      "id": 404776,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/d03VC6NqYk9C07nx1LMCZzWE02t.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Court is back in session.",
+  "type": "Scripted",
+  "vote_average": 6.439,
+  "vote_count": 57,
+  "external_ids": {
+    "id": 202101,
+    "imdb_id": "tt13798316",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 410477,
+    "tvrage_id": null,
+    "wikidata_id": "Q108696026",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

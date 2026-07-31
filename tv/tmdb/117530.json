@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/elITehxdoAjxyHOw8aZF7sIcI6.jpg",
+  "created_by": [
+    {
+      "id": 3706297,
+      "credit_id": "677d7d0815cafe8aad74bc9e",
+      "name": "Miguel Zuloaga",
+      "original_name": "Miguel Zuloaga",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-12-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 117530,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-01-01",
+  "last_episode_to_air": {
+    "id": 5884017,
+    "name": "Episode 66",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-01",
+    "episode_number": 66,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 117530,
+    "still_path": null
+  },
+  "name": "Princesas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 441,
+      "logo_path": "/ulzkSZHZCttGVEuESQBmhqO4XaA.png",
+      "name": "América Televisión",
+      "origin_country": "PE"
+    },
+    {
+      "id": 6041,
+      "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+      "name": "ViX",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 127,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PE"
+  ],
+  "original_language": "es",
+  "original_name": "Princesas",
+  "overview": "",
+  "popularity": 8.2587,
+  "poster_path": "/xUNQFgxHZnQ3Q6RE22KAY5z05c.jpg",
+  "production_companies": [
+    {
+      "id": 160763,
+      "logo_path": null,
+      "name": "América Televisión",
+      "origin_country": ""
+    },
+    {
+      "id": 183851,
+      "logo_path": null,
+      "name": "ProTV Producciones",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2020-12-01",
+      "episode_count": 61,
+      "id": 178381,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9dVnFw9vINxRlORb9n7vUBXrGkJ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 66,
+      "id": 436716,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/xgWCLYeOTDNJBdVkpJsvOXZPSiy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 117530,
+    "imdb_id": "tt12788574",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 395278,
+    "tvrage_id": null,
+    "wikidata_id": "Q102241851",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

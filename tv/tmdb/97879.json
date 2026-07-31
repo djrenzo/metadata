@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/xEBbl1EH2wzJPWMC3369WOCPcG3.jpg",
+  "created_by": [
+    {
+      "id": 2422291,
+      "credit_id": "5e1e0fcaa6c1040013840bfe",
+      "name": "Marta Betoldi",
+      "original_name": "Marta Betoldi",
+      "gender": 1,
+      "profile_path": "/lgb6ugxsZPcNCeM9FqxsjISPYjy.jpg"
+    },
+    {
+      "id": 2395797,
+      "credit_id": "5e1e0fd3a6c1040013840c01",
+      "name": "Silvina Frejdkes",
+      "original_name": "Silvina Frejdkes",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2013-06-03",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 97879,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2014-01-06",
+  "last_episode_to_air": {
+    "id": 4529509,
+    "name": "Episode 116",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-01-06",
+    "episode_number": 116,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 97879,
+    "still_path": null
+  },
+  "name": "Socias",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 116,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Socias",
+  "overview": "Three lawyers struggle to fulfill her dreams, the welfare of their families and professional success.\n\nBased on the Argentine TV series of the same name.",
+  "popularity": 8.5462,
+  "poster_path": "/xnZX63Q5EYvUvzsUjm0YIPwvgyD.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-06-03",
+      "episode_count": 116,
+      "id": 140887,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 97879,
+    "imdb_id": "tt3001562",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

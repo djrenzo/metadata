@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/br2dQEdnMjG0biBTXSmzXNemmUx.jpg",
+  "created_by": [
+    {
+      "id": 1838797,
+      "credit_id": "6212f0e0a84ff700475df3a2",
+      "name": "Patrícia Müller",
+      "original_name": "Patrícia Müller",
+      "gender": 1,
+      "profile_path": "/wnIw64LJsCubJWly0jmDz8U5LLP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2010-03-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 158099,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2010-03-15",
+  "last_episode_to_air": {
+    "id": 7508053,
+    "name": "Episode 318",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-03-19",
+    "episode_number": 318,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 158099,
+    "still_path": null
+  },
+  "name": "Mar de Paixão",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 2,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Mar de Paixão",
+  "overview": "",
+  "popularity": 8.6465,
+  "poster_path": "/y5RwCriTfTCHq0g4yrnUUImr0sF.jpg",
+  "production_companies": [
+    {
+      "id": 128433,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-03-15",
+      "episode_count": 318,
+      "id": 244839,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 158099,
+    "imdb_id": "tt1553397",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 334920,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

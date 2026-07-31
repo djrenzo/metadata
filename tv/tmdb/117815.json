@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/249cIuXZEvNlfekGbo8qMAFCUOq.jpg",
+  "created_by": [
+    {
+      "id": 1174883,
+      "credit_id": "6014a39a5ad76b0040721db9",
+      "name": "Benedito Ruy Barbosa",
+      "original_name": "Benedito Ruy Barbosa",
+      "gender": 2,
+      "profile_path": "/vshk5HfXasuuT6KCCbScV1ybAgX.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2006-03-13",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 117815,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2006-10-13",
+  "last_episode_to_air": {
+    "id": 2691074,
+    "name": "Episode 185",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-10-13",
+    "episode_number": 185,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 1,
+    "show_id": 117815,
+    "still_path": null
+  },
+  "name": "Little Missy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 185,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Sinhá Moça",
+  "overview": "Monarchists and republicans meet in Araruna, a small fictional town in the interior of São Paulo, in 1886. The novel portrays the love story of the beautiful and wealthy Sinhá Moça - daughter of the slave, Barão Ferreira de Araruna, and sweet and submissive Mother Candida - , with the young abolitionist lawyer Dr. Rodolfo Fontes - son of Dr. Fontes, and the housewife Inêz. Together, they face the difficulties in the campaign for the abolition of slaves.",
+  "popularity": 8.2903,
+  "poster_path": "/8YCyIYB9u6ghpIVB6P3jLNafO5u.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-03-13",
+      "episode_count": 185,
+      "id": 179035,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7vBv8yfMWHHcdfNBbSqUBfBPxU0.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 117815,
+    "imdb_id": "tt0793360",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 329804,
+    "tvrage_id": null,
+    "wikidata_id": "Q3286374",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

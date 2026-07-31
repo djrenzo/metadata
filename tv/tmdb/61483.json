@@ -1,0 +1,170 @@
+{
+  "adult": false,
+  "backdrop_path": "/fkHMiqUT0AQTXGUyaCA99p39LHx.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2010-12-24",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.thelittleprince.com/tv-serie/",
+  "id": 61483,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2016-05-08",
+  "last_episode_to_air": {
+    "id": 1352083,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-05-08",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 61483,
+    "still_path": null
+  },
+  "name": "The Little Prince",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 105,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Le Petit Prince",
+  "overview": "The animated adventures of a young interplanetary traveler. Based on the classic children's novel.",
+  "popularity": 8.2452,
+  "poster_path": "/3VAfR3qjRM5S88YZbFlkaZrrAz5.jpg",
+  "production_companies": [
+    {
+      "id": 94057,
+      "logo_path": null,
+      "name": "Saint Exupéry-d'Agay Estate",
+      "origin_country": ""
+    },
+    {
+      "id": 35136,
+      "logo_path": "/lhGOKiuEls3KiWigu1hbvrqUP68.png",
+      "name": "Method Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 69349,
+      "logo_path": "/vsQwkM9yChCYrpR5fHeYlFM7FVm.png",
+      "name": "DQ Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 2673,
+      "logo_path": "/kgqoT0BfqE1vWEXuliWoAsglH.png",
+      "name": "La Fabrique de Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 120960,
+      "logo_path": null,
+      "name": "LPPTV",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-12-24",
+      "episode_count": 52,
+      "id": 62986,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8jjaxpv25ZnX4kkweL9w2ZFuIUv.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-15",
+      "episode_count": 26,
+      "id": 91596,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/Vcp3VdVeuPwnlLgbKWoz70Easc.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 27,
+      "id": 116640,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/5zdiCm7icWqWVs4sPjow4h5q4Sy.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.1,
+  "vote_count": 143,
+  "external_ids": {
+    "id": 61483,
+    "imdb_id": "tt1865800",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 216421,
+    "tvrage_id": null,
+    "wikidata_id": "Q3225511",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

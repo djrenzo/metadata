@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2548156,
+      "credit_id": "5e532361a76ac50013a5e144",
+      "name": "Frank Wayne",
+      "original_name": "Frank Wayne",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1211893,
+      "credit_id": "5e53236fb87aec001aaa3ae6",
+      "name": "Mark Goodson",
+      "original_name": "Mark Goodson",
+      "gender": 2,
+      "profile_path": "/rdXYxS6wMggkgkMo6JZlVX1NnNf.jpg"
+    },
+    {
+      "id": 1215279,
+      "credit_id": "5e53237ca76ac50016a5b644",
+      "name": "Bill Todman",
+      "original_name": "Bill Todman",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1962-12-31",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 99709,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1963-08-30",
+  "last_episode_to_air": {
+    "id": 2422143,
+    "name": "Barbara Cook & Milt Kamen",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1963-08-30",
+    "episode_number": 174,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 99709,
+    "still_path": null
+  },
+  "name": "The Match Game",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 174,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Match Game",
+  "overview": "In this panel game show, contestants try to match answers given by six celebrities to humorous and often risque fill-in-the-blank questions.",
+  "popularity": 7.7092,
+  "poster_path": "/4myfwmfGf6qwKPnIfNM72jU8HDw.jpg",
+  "production_companies": [
+    {
+      "id": 47919,
+      "logo_path": null,
+      "name": "Mark Goodson-Bill Todman Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 129598,
+      "logo_path": null,
+      "name": "Sojourn Productions, Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 121813,
+      "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+      "name": "Fremantle",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1962-12-31",
+      "episode_count": 174,
+      "id": 143885,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.333,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 99709,
+    "imdb_id": "tt0055688",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 75664,
+    "tvrage_id": null,
+    "wikidata_id": "Q6786214",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

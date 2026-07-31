@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 227163,
+      "credit_id": "52578f91760ee36aaa6bd455",
+      "name": "Carlo J. Caparas",
+      "original_name": "Carlo J. Caparas",
+      "gender": 2,
+      "profile_path": "/5CeFcQ3sJrOOVPt1o38mALNzL8r.jpg"
+    },
+    {
+      "id": 234560,
+      "credit_id": "646b06b2a5046e01894225e3",
+      "name": "Gina Marissa Tagasa-Gil",
+      "original_name": "Gina Marissa Tagasa-Gil",
+      "gender": 1,
+      "profile_path": "/c7wO6Tz7F5ck2p4XwwadDfbqjjh.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-10-27",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 8041,
+  "in_production": false,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2009-05-01",
+  "last_episode_to_air": {
+    "id": 4461211,
+    "name": "Episode 133",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-05-01",
+    "episode_number": 133,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 8041,
+    "still_path": null
+  },
+  "name": "Pieta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 20,
+      "logo_path": "/kdcvqvutGKUsIkeSVGl8pQMkc3k.png",
+      "name": "ABS-CBN",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 133,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Pieta",
+  "overview": "Pieta is a television daytime drama series that aired on ABS-CBN from October 27, 2008 to May 1, 2009.",
+  "popularity": 9.2653,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 80844,
+      "logo_path": "/8IA6wf02ZLZNGZKHVLhn35Vxt1F.png",
+      "name": "Dreamscape Entertainment Television",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-10-27",
+      "episode_count": 133,
+      "id": 341821,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 8041,
+    "imdb_id": "tt1322798",
+    "freebase_mid": "/m/04n1dpb",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

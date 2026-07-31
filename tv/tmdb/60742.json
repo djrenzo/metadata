@@ -1,0 +1,264 @@
+{
+  "adult": false,
+  "backdrop_path": "/t3D5QbFTEYW5R9mCZ7lhl4t9vfT.jpg",
+  "created_by": [
+    {
+      "id": 1320248,
+      "credit_id": "53761f2a0e0a26303d001c7d",
+      "name": "Jan Böhmermann",
+      "original_name": "Jan Böhmermann",
+      "gender": 2,
+      "profile_path": "/uSAT74TAx7ysDjOX6ab3mNBjNuN.jpg"
+    },
+    {
+      "id": 1170562,
+      "credit_id": "53761f1d0e0a263043001c31",
+      "name": "Philipp Kässbohrer",
+      "original_name": "Philipp Käßbohrer",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1320254,
+      "credit_id": "53761f570e0a26303a001cdb",
+      "name": "J. Patrick Arbeiter",
+      "original_name": "J. Patrick Arbeiter",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    45
+  ],
+  "first_air_date": "2013-10-31",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.neo-magazin-royale.de/",
+  "id": 60742,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2019-12-12",
+  "last_episode_to_air": {
+    "id": 2684379,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-12-12",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 13,
+    "show_id": 60742,
+    "still_path": null
+  },
+  "name": "Neo Magazin Royale",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1274,
+      "logo_path": "/5xti6WP3i8AoI9o4Wl813JA98CF.png",
+      "name": "ZDFneo",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 195,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Neo Magazin Royale",
+  "overview": "Neo Magazin Royale is a satirical late night show hosted by Jan Böhmermann.",
+  "popularity": 8.5316,
+  "poster_path": "/tyGd40QPEzDyqW4hkErOzCRBPa7.jpg",
+  "production_companies": [
+    {
+      "id": 14265,
+      "logo_path": "/v1WpUx7HbExqOplFJ0BJnigWb2S.png",
+      "name": "bildundtonfabrik",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-10-31",
+      "episode_count": 9,
+      "id": 78318,
+      "name": "Neo Magazin Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-06",
+      "episode_count": 9,
+      "id": 78311,
+      "name": "Neo Magazin Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-23",
+      "episode_count": 10,
+      "id": 78312,
+      "name": "Neo Magazin Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-05",
+      "episode_count": 16,
+      "id": 78313,
+      "name": "Neo Magazin Royale Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-20",
+      "episode_count": 18,
+      "id": 78314,
+      "name": "Neo Magazin Royale Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-04",
+      "episode_count": 14,
+      "id": 78315,
+      "name": "Neo Magazin Royale Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-25",
+      "episode_count": 17,
+      "id": 78413,
+      "name": "Neo Magazin Royale Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-02",
+      "episode_count": 20,
+      "id": 131685,
+      "name": "Neo Magazin Royale Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-14",
+      "episode_count": 14,
+      "id": 131686,
+      "name": "Neo Magazin Royale Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-01",
+      "episode_count": 19,
+      "id": 131687,
+      "name": "Neo Magazin Royale Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-30",
+      "episode_count": 17,
+      "id": 131688,
+      "name": "Neo Magazin Royale Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-21",
+      "episode_count": 16,
+      "id": 126466,
+      "name": "Neo Magazin Royale Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-29",
+      "episode_count": 16,
+      "id": 130098,
+      "name": "Neo Magazin Royale Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 60742,
+    "imdb_id": "tt3286728",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 275705,
+    "tvrage_id": null,
+    "wikidata_id": "Q15836524",
+    "facebook_id": "neomagazinroyale",
+    "instagram_id": "neo_magazin_royale",
+    "twitter_id": "neomagazin"
+  }
+}

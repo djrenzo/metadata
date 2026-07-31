@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/xcs4Ud9FOPEcGqA6FLTpUC0AL6f.jpg",
+  "created_by": [
+    {
+      "id": 1257220,
+      "credit_id": "69a264020bdf624752417c92",
+      "name": "Bakarhythm",
+      "original_name": "バカリズム",
+      "gender": 2,
+      "profile_path": "/jbxyevkMNT2aMfgpab4xF5phDJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2023-01-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://www.ntv.co.jp/brushup-life/",
+  "id": 215197,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2023-03-12",
+  "last_episode_to_air": {
+    "id": 4167137,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2023-03-12",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 215197,
+    "still_path": "/17Hmsbbu7Xw5Hc7xCZEgDBmeyCP.jpg"
+  },
+  "name": "Rebooting",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 57,
+      "logo_path": "/uxaXSoT8K0S2NE5PWsBpHUl3GGU.png",
+      "name": "Nippon TV",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ブラッシュアップライフ",
+  "overview": "A comedy focusing on Kondo Asami, a 33-year-old single woman who lives with her parents and works at the local city hall, and suddenly finds herself starting her life over from scratch.",
+  "popularity": 8.8092,
+  "poster_path": "/sJQHWG5xwkyDi5OXHk7e5TkWF87.jpg",
+  "production_companies": [
+    {
+      "id": 6755,
+      "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-03-05",
+      "episode_count": 9,
+      "id": 332464,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/dj89QV9S7eup0uKrYZ1zxvxlCYN.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-08",
+      "episode_count": 10,
+      "id": 317779,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vEqyoS81tZJWDW0myiG42lNzUox.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.8,
+  "vote_count": 76,
+  "external_ids": {
+    "id": 215197,
+    "imdb_id": "tt26134148",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 428309,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "brushuplife_ntv",
+    "twitter_id": "brushuplife_ntv"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/ng7BUy4OHKyD5QeZnobdjzf8RrM.jpg",
+  "created_by": [
+    {
+      "id": 40863,
+      "credit_id": "57d5a61ec3a3684f300001e2",
+      "name": "Joe Swanberg",
+      "original_name": "Joe Swanberg",
+      "gender": 2,
+      "profile_path": "/fv4N4HkrQ7FUNEYJm1XVcnhoPRe.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2016-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80095699",
+  "id": 67780,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2019-05-10",
+  "last_episode_to_air": {
+    "id": 1787568,
+    "name": "She's Back",
+    "overview": "When Sophie learns that her TV show was canceled, she has second thoughts about the ex she left behind to pursue her acting dreams.",
+    "vote_average": 7.5,
+    "vote_count": 2,
+    "air_date": "2019-05-10",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 32,
+    "season_number": 3,
+    "show_id": 67780,
+    "still_path": "/vsOxLAi6qs29SQw8gFm0A2s9qMX.jpg"
+  },
+  "name": "Easy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 25,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Easy",
+  "overview": "This eclectic, star-studded anthology follows diverse Chicagoans fumbling through the modern maze of love, sex, technology and culture. First dates, friends with benefits, couples with kids. Whatever your relationship status is, it's always complicated.",
+  "popularity": 8.9471,
+  "poster_path": "/uh0pHb6JV0m6Vjmz1tGhohr9B7y.jpg",
+  "production_companies": [
+    {
+      "id": 81272,
+      "logo_path": null,
+      "name": "Sparrow Grass",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-22",
+      "episode_count": 8,
+      "id": 80051,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/emw7wjxVp7lmZMb1ySLmxzPF0xG.jpg",
+      "season_number": 1,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2017-12-01",
+      "episode_count": 8,
+      "id": 93657,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/pNe2n7ArIRp3nz4LtEeQTJKVF8O.jpg",
+      "season_number": 2,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2019-05-10",
+      "episode_count": 9,
+      "id": 123986,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/dhRpCpyVYAwtaLcV6lDvdJyHurz.jpg",
+      "season_number": 3,
+      "vote_average": 5.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.003,
+  "vote_count": 167,
+  "external_ids": {
+    "id": 67780,
+    "imdb_id": "tt5562056",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 314884,
+    "tvrage_id": null,
+    "wikidata_id": "Q23057933",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

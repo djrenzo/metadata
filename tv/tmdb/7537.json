@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/vw8pASFK4HtQKRqoD2rU3Sm8Fr3.jpg",
+  "created_by": [
+    {
+      "id": 929928,
+      "credit_id": "535ee536c3a36830a000599b",
+      "name": "Mauricio Navas",
+      "original_name": "Mauricio Navas",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1314788,
+      "credit_id": "535ee54fc3a36830a9005a82",
+      "name": "Guillermo Restrepo",
+      "original_name": "Guillermo Restrepo",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-10-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www2.esmas.com/entretenimiento/telenovelas/manana-es-para-siempre/",
+  "id": 7537,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2009-05-29",
+  "last_episode_to_air": {
+    "id": 2343975,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-05-29",
+    "episode_number": 160,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 7537,
+    "still_path": null
+  },
+  "name": "Tomorrow is forever",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Mañana es para siempre",
+  "overview": "Fernanda is the youngest daughter of the landowner Gonzalo Elizalde, owner of a large dairy company, and Eduardo is the son of Soledad, the Elizalde family's housekeeper. The two children have grown up together, united by an innocent and pure love, despite the difference in social class.",
+  "popularity": 8.9234,
+  "poster_path": "/7FfxHgK9I4VwGmIG6qMw71NkpMk.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-10-20",
+      "episode_count": 160,
+      "id": 60344,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7bTrj7z3t00ZbOJWvmQTZHyjpnT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 212,
+  "external_ids": {
+    "id": 7537,
+    "imdb_id": "tt1316004",
+    "freebase_mid": "/m/04f28d0",
+    "freebase_id": "/en/manana_es_para_siempre",
+    "tvdb_id": 277901,
+    "tvrage_id": null,
+    "wikidata_id": "Q262123",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

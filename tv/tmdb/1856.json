@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/lVYPG2nzLUQgMnRXMmacDHoEVdc.jpg",
+  "created_by": [
+    {
+      "id": 1212834,
+      "credit_id": "5257171e760ee3776a152f70",
+      "name": "Tom Ruegger",
+      "original_name": "Tom Ruegger",
+      "gender": 2,
+      "profile_path": "/kncofUBXuuyZMYuxcNO4PfY1krO.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1998-09-14",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1856,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2000-10-01",
+  "last_episode_to_air": {
+    "id": 112857,
+    "name": "North America",
+    "overview": "Its a wild look at North America! Stops include Canada, Klondike Acres and Mayberry. That is to say the Histeria! Mayberry.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-10-01",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 1856,
+    "still_path": null
+  },
+  "name": "Histeria!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 21,
+      "logo_path": "/9GlDHjQj9c2dkfARCR3zlH87R66.png",
+      "name": "The WB",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Histeria!",
+  "overview": "Perhaps the world's only animated sketch-comedy educational series, Histeria! delivers lessons that stick - to your funny bone. Hosted by Father Time, the cartoon cast careens through time to deliver historical facts from Siberia to Sumeria, despite the efforts of Miss Information, the claims of The World's Oldest Woman and the perpetually poopy diapers of the egg-shaped Big Fat Baby.",
+  "popularity": 8.9789,
+  "poster_path": "/jnaCdjmJhiWsw5hjT4fMBxGrfG7.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1998-09-14",
+      "episode_count": 46,
+      "id": 5316,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-07-17",
+      "episode_count": 6,
+      "id": 5315,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.727,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 1856,
+    "imdb_id": "tt0175738",
+    "freebase_mid": "/m/047d2j",
+    "freebase_id": "/en/histeria",
+    "tvdb_id": 73728,
+    "tvrage_id": 185,
+    "wikidata_id": "Q3493339",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

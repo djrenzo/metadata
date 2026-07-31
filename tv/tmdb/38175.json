@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/fvUgYVcyOiYgIZ4ik0zb4zmXZFz.jpg",
+  "created_by": [
+    {
+      "id": 81012,
+      "credit_id": "5258ec96760ee346618b8292",
+      "name": "Adrián Suar",
+      "original_name": "Adrián Suar",
+      "gender": 2,
+      "profile_path": "/a75QAiWiI4jJoGyYY2Tw6ELAkkA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2003-01-13",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.pol-ka.com.ar/soygitano/",
+  "id": 38175,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2004-01-09",
+  "last_episode_to_air": {
+    "id": 4531574,
+    "name": "Episode 252",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-01-09",
+    "episode_number": 252,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 38175,
+    "still_path": null
+  },
+  "name": "Soy gitano",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 368,
+      "logo_path": "/j8Sb3Y5vo3wfOjMExmxLF08mLwX.png",
+      "name": "eltrece",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 252,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Soy gitano",
+  "overview": "Soy gitano was a Spanish language television drama from Argentina.",
+  "popularity": 8.6796,
+  "poster_path": "/8gBxpIfD3kOjhvBGztvAc7fNQ9i.jpg",
+  "production_companies": [
+    {
+      "id": 27281,
+      "logo_path": "/n4OjEuaiEaiUn0WwJHHKXPkmHAD.png",
+      "name": "Pol-Ka Producciones",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-01-13",
+      "episode_count": 252,
+      "id": 319860,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ql5UFVp6hSna3V8hRWcj7pX5CHj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 38175,
+    "imdb_id": null,
+    "freebase_mid": "/m/0gh688m",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/qx7qy2GJOc7yGY6WENyBU3OVv7A.jpg",
+  "created_by": [
+    {
+      "id": 1224017,
+      "credit_id": "5eac921b60c51d002290f61b",
+      "name": "Misha Green",
+      "original_name": "Misha Green",
+      "gender": 1,
+      "profile_path": "/4ae4LAEclOO7R6kQttEbSN5042V.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2020-08-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://www.hbo.com/lovecraft-country",
+  "id": 82816,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-10-18",
+  "last_episode_to_air": {
+    "id": 2363677,
+    "name": "Full Circle",
+    "overview": "After uncovering the origins of the Book of Names, the gang heads back to Ardham to cast the ultimate spell.",
+    "vote_average": 5.5,
+    "vote_count": 26,
+    "air_date": "2020-10-18",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 1,
+    "show_id": 82816,
+    "still_path": "/e3ABdG6qGGaZYLtaUN1dXqVHGMY.jpg"
+  },
+  "name": "Lovecraft Country",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lovecraft Country",
+  "overview": "The anthology horror series follows 25-year-old Atticus Freeman, who joins up with his friend Letitia and his Uncle George to embark on a road trip across 1950s Jim Crow America to find his missing father. They must survive and overcome both the racist terrors of white America and the malevolent spirits that could be ripped from a Lovecraft paperback.",
+  "popularity": 8.3552,
+  "poster_path": "/fz7bdjxPColvEWCGr5Kiclzc86d.jpg",
+  "production_companies": [
+    {
+      "id": 11461,
+      "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+      "name": "Bad Robot",
+      "origin_country": "US"
+    },
+    {
+      "id": 88934,
+      "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+      "name": "Monkeypaw Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-10-26",
+      "episode_count": 1,
+      "id": 178455,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-16",
+      "episode_count": 10,
+      "id": 110277,
+      "name": "Season 1",
+      "overview": "Lovecraft Country follows Atticus Freeman as he joins up with his friend Letitia and his Uncle George to embark on a road trip across 1950s Jim Crow America in search of his missing father.  This begins a struggle to survive and overcome both the racist terrors of white America and the terrifying monsters that could be ripped from a Lovecraft paperback.",
+      "poster_path": "/fz7bdjxPColvEWCGr5Kiclzc86d.jpg",
+      "season_number": 1,
+      "vote_average": 5.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Take back your legacy.",
+  "type": "Scripted",
+  "vote_average": 7.137,
+  "vote_count": 788,
+  "external_ids": {
+    "id": 82816,
+    "imdb_id": "tt6905686",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 357864,
+    "tvrage_id": null,
+    "wikidata_id": "Q31202701",
+    "facebook_id": "LovecraftHBO",
+    "instagram_id": "lovecrafthbo",
+    "twitter_id": "LovecraftHBO"
+  }
+}

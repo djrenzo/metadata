@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/iD3FaP71cAOy5u9D3WaizSdJhMm.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1955-10-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 27575,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1956-09-12",
+  "last_episode_to_air": {
+    "id": 693694,
+    "name": "High Air",
+    "overview": "Long separated, a river-tunnel foreman and his son come face to face during an under-river disaster which almost takes their lives.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1956-09-12",
+    "episode_number": 35,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 27575,
+    "still_path": null
+  },
+  "name": "Screen Director's Playhouse",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    },
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 35,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Screen Director's Playhouse",
+  "overview": "Presented by Eastman Kodak, this show was a series of original scripts directed by acclaimed directors and featuring well-known performers. The stories ranged from musicals to comedies and dramas.",
+  "popularity": 7.8343,
+  "poster_path": "/s1LPx21vNJ37IDGqLqDC0e8ygQC.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1955-10-05",
+      "episode_count": 35,
+      "id": 38577,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 6.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 27575,
+    "imdb_id": "tt0047768",
+    "freebase_mid": "/m/07cgwd8",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 1761,
+    "wikidata_id": "Q3221319",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

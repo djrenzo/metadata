@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2014-11-17",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 209684,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2020-11-15",
+  "last_episode_to_air": {
+    "id": 3939284,
+    "name": "Episode 56",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-11-15",
+    "episode_number": 56,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 209684,
+    "still_path": null
+  },
+  "name": "Gadget Inspectors",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2797,
+      "logo_path": "/iH3nusZNkYn8lXPCZHKCS4pXrlc.png",
+      "name": "Rocket Beans TV",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 56,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Gadget Inspectors",
+  "overview": "",
+  "popularity": 9.0748,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-11-17",
+      "episode_count": 56,
+      "id": 307679,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 209684,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/eqAy3lpGNxp4I5IPZni6vCHSFUb.jpg",
+  "created_by": [
+    {
+      "id": 144195,
+      "credit_id": "6714cf6299f22f326aad69c5",
+      "name": "Christoffer Boe",
+      "original_name": "Christoffer Boe",
+      "gender": 2,
+      "profile_path": "/gCbVJhyfDfOrQH6J9j3OJBce8iq.jpg"
+    },
+    {
+      "id": 2841674,
+      "credit_id": "6714cf6e0cb6252f9908a9ae",
+      "name": "Anna Juul",
+      "original_name": "Anna Juul",
+      "gender": 1,
+      "profile_path": "/n7ChaZcGPe7TSAewS7prbR5qQJq.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-11-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://viaplay.dk/serier/forhoret",
+  "id": 94597,
+  "in_production": false,
+  "languages": [
+    "da",
+    "en"
+  ],
+  "last_air_date": "2023-04-09",
+  "last_episode_to_air": {
+    "id": 4245611,
+    "name": "The Family Mansion",
+    "overview": "When Holger visits the family mansion, his mother, Elisabeth, is angry with him for coming there instead of turning himself in. She proves her innocence to Holger - but then he makes a surprising discovery.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-04-09",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 94597,
+    "still_path": "/39840ky7xjvq65lK6CLoBiGH9kc.jpg"
+  },
+  "name": "Face to Face",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2869,
+      "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+      "name": "Viaplay",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Forhøret",
+  "overview": "Bjørn investigates the killing of his daughter. People around him believe she might have committed suicide, but he doesn't accept that. Both the stakes and the suspense rise relentlessly as Bjørn inches closer to the truth.",
+  "popularity": 8.264,
+  "poster_path": "/nCylJzYGEgCROR4p08NFJCEIhjj.jpg",
+  "production_companies": [
+    {
+      "id": 147309,
+      "logo_path": "/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png",
+      "name": "Viaplay Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 5123,
+      "logo_path": "/vkNtfMgiOdBYc6hECG9i6WQnvFs.png",
+      "name": "Miso Film",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-11-15",
+      "episode_count": 8,
+      "id": 134175,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hOEI4H8YixsNaPi3cl90P18KyAp.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2021-08-29",
+      "episode_count": 8,
+      "id": 208050,
+      "name": "Season 2",
+      "overview": "After the events of series 1, Bjørn’s estranged wife Susanne is back at work as a psychologist, while trying to hold her life together after the brutal murder of her daughter. Her husband is no help: he's now in prison on charges of murder.",
+      "poster_path": "/nCylJzYGEgCROR4p08NFJCEIhjj.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-19",
+      "episode_count": 8,
+      "id": 326425,
+      "name": "Season 3",
+      "overview": "Billionaire CEO, Holger Lang's world turns upside down when he receives a video revealing the murder of his protégé and heir to the company. The series investigates who killed her, their motives and why they recorded it.",
+      "poster_path": "/vE6Hubv0QL8LhflLCMwUj1vvuTR.jpg",
+      "season_number": 3,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 44,
+  "external_ids": {
+    "id": 94597,
+    "imdb_id": "tt9695118",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 372832,
+    "tvrage_id": null,
+    "wikidata_id": "Q5428415",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

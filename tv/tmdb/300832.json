@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2017-08-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 300832,
+  "in_production": false,
+  "languages": [
+    "vi"
+  ],
+  "last_air_date": "2018-01-12",
+  "last_episode_to_air": {
+    "id": 6534166,
+    "name": "Episode 22",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-01-12",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 300832,
+    "still_path": null
+  },
+  "name": "Glee Vietnam",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 8794,
+      "logo_path": null,
+      "name": "DANET",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "VN"
+  ],
+  "original_language": "vi",
+  "original_name": "Glee Vietnam",
+  "overview": "The Vietnamese remake of the hit series Glee.",
+  "popularity": 8.6144,
+  "poster_path": "/jiTDF0R6IsAcIyF3wEP9hRcaqAN.jpg",
+  "production_companies": [
+    {
+      "id": 274366,
+      "logo_path": null,
+      "name": "DANET",
+      "origin_country": ""
+    },
+    {
+      "id": 270114,
+      "logo_path": null,
+      "name": "FPT Play",
+      "origin_country": ""
+    },
+    {
+      "id": 274367,
+      "logo_path": null,
+      "name": "Zing TV",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VN",
+      "name": "Vietnam"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-08-18",
+      "episode_count": 22,
+      "id": 475524,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 300832,
+    "imdb_id": "tt14164808",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

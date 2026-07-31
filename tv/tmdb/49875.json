@@ -1,0 +1,201 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1831437,
+      "credit_id": "593be50392514105cf00da65",
+      "name": "Jeffrey Frohner",
+      "original_name": "Jeffrey Frohner",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 180894,
+      "credit_id": "593be50bc3a3680f3300b929",
+      "name": "Martin Brossollet",
+      "original_name": "Martin Brossollet",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    52
+  ],
+  "first_air_date": "1999-06-11",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 49875,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2006-03-31",
+  "last_episode_to_air": {
+    "id": 1327014,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-03-31",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 8,
+    "show_id": 49875,
+    "still_path": null
+  },
+  "name": "La Crim'",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 361,
+      "logo_path": "/b1cFa5FcHHnpejKiPybXSPcqKjT.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "La Crim'",
+  "overview": "",
+  "popularity": 9.2557,
+  "poster_path": "/1ciUKKmHJSjvU6M28rXkCnjbEwy.jpg",
+  "production_companies": [
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16026,
+      "logo_path": null,
+      "name": "FIT Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-06-11",
+      "episode_count": 6,
+      "id": 89263,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1ciUKKmHJSjvU6M28rXkCnjbEwy.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-11-10",
+      "episode_count": 12,
+      "id": 89264,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/1ciUKKmHJSjvU6M28rXkCnjbEwy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-14",
+      "episode_count": 6,
+      "id": 89265,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/1ciUKKmHJSjvU6M28rXkCnjbEwy.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-02-08",
+      "episode_count": 12,
+      "id": 89266,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/yZ6an8Urw81txMeCdAYve9m6Yt1.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-03-07",
+      "episode_count": 12,
+      "id": 89267,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/yZ6an8Urw81txMeCdAYve9m6Yt1.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-02-27",
+      "episode_count": 12,
+      "id": 89268,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/xLu8ZY0bHmftiSNSnwbXpPjpgni.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-11",
+      "episode_count": 12,
+      "id": 89269,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/xLu8ZY0bHmftiSNSnwbXpPjpgni.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-24",
+      "episode_count": 6,
+      "id": 89270,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/xLu8ZY0bHmftiSNSnwbXpPjpgni.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 49875,
+    "imdb_id": "tt0173536",
+    "freebase_mid": "/m/0vpdktz",
+    "freebase_id": null,
+    "tvdb_id": 329892,
+    "tvrage_id": null,
+    "wikidata_id": "Q3207937",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

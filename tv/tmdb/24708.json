@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1225765,
+      "credit_id": "525878cf760ee346612de70e",
+      "name": "Roy Winsor",
+      "original_name": "Roy Winsor",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    24,
+    30
+  ],
+  "first_air_date": "1963-04-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 24708,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1963-06-28",
+  "last_episode_to_air": {
+    "id": 645587,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1963-06-28",
+    "episode_number": 65,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 24708,
+    "still_path": null
+  },
+  "name": "Ben Jerrod",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 65,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ben Jerrod",
+  "overview": "Ben Jerrod is an American soap opera which ran from April 1, 1963 to June 28, 1963. The series is most notable for being the first soap to be regularly televised in color. The show debuted April 1, 1963, the same day as the long-running General Hospital and The Doctors.",
+  "popularity": 8.6763,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1963-04-01",
+      "episode_count": 65,
+      "id": 34906,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 24708,
+    "imdb_id": "tt0056740",
+    "freebase_mid": "/m/07cfs6z",
+    "freebase_id": "/en/ben_jerrod",
+    "tvdb_id": null,
+    "tvrage_id": 10709,
+    "wikidata_id": "Q4885928",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

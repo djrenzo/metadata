@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/1ENWqq5onPtbOYSUXbB9fl7rV5h.jpg",
+  "created_by": [
+    {
+      "id": 1108066,
+      "credit_id": "611e1361f0317400740a45e7",
+      "name": "Park Jin-young",
+      "original_name": "박진영",
+      "gender": 2,
+      "profile_path": "/3npyaqH93cCgeY9JX8FVY2Uzfj4.jpg"
+    },
+    {
+      "id": 1171109,
+      "credit_id": "611e144ed1a893002dd948e2",
+      "name": "Park Hye-ryun",
+      "original_name": "박혜련",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 307481,
+      "credit_id": "611e13685437f500451484a4",
+      "name": "Bae Yong-jun",
+      "original_name": "배용준",
+      "gender": 2,
+      "profile_path": "/d3NZRKhnh3rqWQyUioMmXufbnqR.jpg"
+    },
+    {
+      "id": 1724565,
+      "credit_id": "611e13c09a9e20004504f9a3",
+      "name": "Lee Eung-bok",
+      "original_name": "이응복",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1676540,
+      "credit_id": "611e1443cc96830045f9de5a",
+      "name": "Kim Seong-yoon",
+      "original_name": "Kim Seong-yoon",
+      "gender": 2,
+      "profile_path": "/j07zn7xFuU3Uqj3lQdmZjzxJl0n.jpg"
+    }
+  ],
+  "episode_run_time": [
+    70
+  ],
+  "first_air_date": "2011-01-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/drama/dreamhigh",
+  "id": 37722,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2012-03-20",
+  "last_episode_to_air": {
+    "id": 850952,
+    "name": "Episode 16",
+    "overview": "The final audition comes to an end but what the future holds for the Kirin Art School students is not exactly what you might expect.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2012-03-20",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 65,
+    "season_number": 2,
+    "show_id": 37722,
+    "still_path": "/reitlJ1KrhUrdazX8xJ2o61bHwD.jpg"
+  },
+  "name": "Dream High",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 32,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "드림하이",
+  "overview": "Six dedicated students at Kirin Art High School work to achieve their dreams of becoming stars in the Korean music industry.",
+  "popularity": 8.1798,
+  "poster_path": "/vqlPVNTnYNoXTqyIaW2oN1qV2lZ.jpg",
+  "production_companies": [
+    {
+      "id": 15975,
+      "logo_path": "/ewSxMJt8IeFHSOqfyKn1scZoOur.png",
+      "name": "KEYEAST",
+      "origin_country": "KR"
+    },
+    {
+      "id": 7036,
+      "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+      "name": "CJ Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 112299,
+      "logo_path": "/aaiQLAUubyiEkdJkXKLNTT8Kxq.png",
+      "name": "JYP Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-03-01",
+      "episode_count": 1,
+      "id": 49053,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/fF9atWvkUKq1RIbg9KHLU9gHuNm.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 16,
+      "id": 49054,
+      "name": "Season 1",
+      "overview": "Girin Arts High School is a prestigious school which trains students how to dance and sing. Students, with all different charms and personalities, meet at Girin Arts High School, where they slowly pour their hearts out to each other, and become friends…or for some of them, lovers.. Follow the lives of these students who struggle to become a world star at “Dream High”.",
+      "poster_path": "/vqlPVNTnYNoXTqyIaW2oN1qV2lZ.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2012-01-30",
+      "episode_count": 16,
+      "id": 49055,
+      "name": "Season 2",
+      "overview": "Girin Arts high school was once a prestigious arts school, grooming the next generation of K-pop stars. But for past several years, the school failed to produce any good artists. When it is about to shut down due to the financial difficulty, OZ Entertainment acquires this school in danger. Now, it is time for Girin Arts School to get back in to the fierce battle of survival!",
+      "poster_path": "/qZnD87T7ICCMo643xGP33Jm3FlD.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.858,
+  "vote_count": 88,
+  "external_ids": {
+    "id": 37722,
+    "imdb_id": "tt1996607",
+    "freebase_mid": "/m/0gfjfw9",
+    "freebase_id": null,
+    "tvdb_id": 223561,
+    "tvrage_id": null,
+    "wikidata_id": "Q483378",
+    "facebook_id": "Dream-High-1459890360964701",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

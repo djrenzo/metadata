@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    52
+  ],
+  "first_air_date": "2008-09-25",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "",
+  "id": 90321,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2011-04-01",
+  "last_episode_to_air": {
+    "id": 1818956,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-04-01",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 52,
+    "season_number": 3,
+    "show_id": 90321,
+    "still_path": null
+  },
+  "name": "Club social",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1533,
+      "logo_path": "/5KU8oRvXX9I1bWdiATsSlYqx6em.png",
+      "name": "TV5 Québec Canada",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Club social",
+  "overview": "A magazine show about culture and trends and how they can shape society in unexpected ways.",
+  "popularity": 8.5283,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 15585,
+      "logo_path": "/ePyhT2loUXRIv7SZ6LIlvKllsdP.png",
+      "name": "Zone3",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 1,
+      "id": 125916,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-25",
+      "episode_count": 26,
+      "id": 125907,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 26,
+      "id": 125913,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-24",
+      "episode_count": 26,
+      "id": 125920,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 90321,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

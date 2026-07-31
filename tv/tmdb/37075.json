@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1628155,
+      "credit_id": "574b30c7c3a3683c18001c2b",
+      "name": "Bart in 't Hout",
+      "original_name": "Bart in 't Hout",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1628157,
+      "credit_id": "574b30d8c3a368358e00020e",
+      "name": "Marck Feller",
+      "original_name": "Marck Feller",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1628159,
+      "credit_id": "574b30e6c3a3683a5e001936",
+      "name": "Jean Mentens",
+      "original_name": "Jean Mentens",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1628160,
+      "credit_id": "574b30eec3a368319a002873",
+      "name": "Fons van Westerloo",
+      "original_name": "Fons van Westerloo",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25,
+    20
+  ],
+  "first_air_date": "1995-08-29",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.hartvannederland.nl/",
+  "id": 37075,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2010-10-08",
+  "last_episode_to_air": {
+    "id": 840231,
+    "name": "Season 16, Episode 70",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-10-08",
+    "episode_number": 70,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 16,
+    "show_id": 37075,
+    "still_path": null
+  },
+  "name": "Hart van Nederland",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1034,
+      "logo_path": "/6la8Z1gCxiZlLVIFe3l4Jv8c2Uu.png",
+      "name": "SBS6",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 540,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Hart van Nederland",
+  "overview": "Hart van Nederland is a Dutch news and current affairs program from SBS 6 and consists of an early and a late edition. The broadcasts focus on national and regional news.",
+  "popularity": 8.184,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 48249,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-17",
+      "episode_count": 477,
+      "id": 48250,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 62,
+      "id": 48251,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 37075,
+    "imdb_id": "tt0953055",
+    "freebase_mid": "/m/0gfy798",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2199100",
+    "facebook_id": "hartvannederland",
+    "instagram_id": "hartvannederland",
+    "twitter_id": "hartvnl"
+  }
+}

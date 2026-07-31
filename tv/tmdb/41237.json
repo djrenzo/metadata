@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/gFxWD0BoavjSJf6iLkkc8ZUGsaV.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1983-09-24",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 41237,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "1993-10-15",
+  "last_episode_to_air": {
+    "id": 1085526,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1993-10-15",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 3,
+    "show_id": 41237,
+    "still_path": null
+  },
+  "name": "Büro, Büro",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Büro, Büro",
+  "overview": "Büro, Büro is a German comedy television series.",
+  "popularity": 9.4174,
+  "poster_path": "/7vv3tQ11fBBfoUKhsYf0myaxJU0.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-09-24",
+      "episode_count": 39,
+      "id": 68435,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/m2n7UjtJ6Um7yoRoQkv22HeBdFa.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-05",
+      "episode_count": 26,
+      "id": 68436,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-04-30",
+      "episode_count": 20,
+      "id": 68437,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zejzvpFw8CPW2xkA3mKePCoO5JK.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 41237,
+    "imdb_id": "tt0083394",
+    "freebase_mid": "/m/0h65k4w",
+    "freebase_id": null,
+    "tvdb_id": 92221,
+    "tvrage_id": null,
+    "wikidata_id": "Q1021615",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

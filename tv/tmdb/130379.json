@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/9nTsmS2qPwbp0wCpx05ceIrXZga.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2021-08-16",
+  "genres": [],
+  "homepage": "https://www.13.cl/programas/que-dice-chile",
+  "id": 130379,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-01-08",
+  "last_episode_to_air": {
+    "id": 5063544,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-01-08",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 72,
+    "season_number": 6,
+    "show_id": 130379,
+    "still_path": null
+  },
+  "name": "¡Qué dice Chile!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 559,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "¡Qué dice Chile!",
+  "overview": "",
+  "popularity": 7.3556,
+  "poster_path": "/7TGW4ufQWPcavVM8Au5OFTnyuuj.jpg",
+  "production_companies": [
+    {
+      "id": 99317,
+      "logo_path": "/4CcGDD59ApqUwbN6mT6US30aJTr.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 45,
+      "id": 238933,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-15",
+      "episode_count": 100,
+      "id": 204438,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7TGW4ufQWPcavVM8Au5OFTnyuuj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 49,
+      "id": 238932,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-03",
+      "episode_count": 230,
+      "id": 287804,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-04",
+      "episode_count": 151,
+      "id": 342549,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-26",
+      "episode_count": 24,
+      "id": 373670,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 5,
+      "id": 373671,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 130379,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q121768148",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

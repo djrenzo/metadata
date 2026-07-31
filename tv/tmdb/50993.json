@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1259934,
+      "credit_id": "5259801f760ee34661a944c9",
+      "name": "Gal Friedman",
+      "original_name": "גל פרידמן",
+      "gender": 2,
+      "profile_path": "/8SSRRMPKFe7sKb1gsI0voa5706N.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2003-07-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 50993,
+  "in_production": false,
+  "languages": [
+    "he"
+  ],
+  "last_air_date": "2005-10-20",
+  "last_episode_to_air": {
+    "id": 5420383,
+    "name": "Episode 90",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-10-20",
+    "episode_number": 90,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 50993,
+    "still_path": null
+  },
+  "name": "Love Around the Corner",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 169,
+      "logo_path": "/goKg57ALHXJnoMBNyKazKOlSNPU.png",
+      "name": "Channel 2",
+      "origin_country": "IL"
+    }
+  ],
+  "number_of_episodes": 270,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "he",
+  "original_name": "אהבה מעבר לפינה",
+  "overview": "",
+  "popularity": 9.2198,
+  "poster_path": "/bTRJ6wnwUqMbqw0J53EHcyreBXC.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-07-20",
+      "episode_count": 90,
+      "id": 110879,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hzAB9naz1SpxRT3oUJZMWk3WEpV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-03-14",
+      "episode_count": 90,
+      "id": 158129,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hzAB9naz1SpxRT3oUJZMWk3WEpV.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-19",
+      "episode_count": 90,
+      "id": 158130,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/hzAB9naz1SpxRT3oUJZMWk3WEpV.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 50993,
+    "imdb_id": "tt0404580",
+    "freebase_mid": "/m/0vsy7y0",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16129592",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/o04090TAInK18zXAkp71Duq8Qbx.jpg",
+  "created_by": [
+    {
+      "id": 2859474,
+      "credit_id": "601ce4ed470ead004076d0fd",
+      "name": "Rob Boutilier",
+      "original_name": "Rob Boutilier",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1246496,
+      "credit_id": "601ce4f4d96c3c003e1e7ca2",
+      "name": "Mark Evestaff",
+      "original_name": "Mark Evestaff",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 189876,
+      "credit_id": "601ce4fe9a3c49003fad3cbf",
+      "name": "Alex Galatis",
+      "original_name": "Alex Galatis",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2021-02-05",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://tv.apple.com/us/show/the-snoopy-show/umc.cmc.5iswprrvjjw6ab020a17x4ca3",
+  "id": 110948,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-11-30",
+  "last_episode_to_air": {
+    "id": 4967863,
+    "name": "Happiness Is Holiday Traditions",
+    "overview": "Snoopy searches for the perfect tree topper; Woodstock gets trapped in a window display; and Snoopy and Woodstock visit Spike for Christmas.",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2023-11-30",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 3,
+    "show_id": 110948,
+    "still_path": "/8koHQPB3pXiy5WewSC9bTsDzwGg.jpg"
+  },
+  "name": "The Snoopy Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Snoopy Show",
+  "overview": "The world's most iconic dog is ready for his close-up. Dive into new adventures with the happy-dancing, high-flying, big-dreaming beagle, who's joined by best friend Woodstock and the rest of the Peanuts gang.",
+  "popularity": 8.7757,
+  "poster_path": "/qgB5CZwqrnZ99f8NHUL7ogPrgi3.jpg",
+  "production_companies": [
+    {
+      "id": 16339,
+      "logo_path": "/wx2xFdBxcrDFoB2ethHQ8LjiknX.png",
+      "name": "Charles M. Schulz Creative Associates",
+      "origin_country": "US"
+    },
+    {
+      "id": 148496,
+      "logo_path": "/737HCq9hXnI801p8sSAMJIvCidg.png",
+      "name": "WildBrain Studios",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-02-05",
+      "episode_count": 13,
+      "id": 164605,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nXbIngR0IvJuzGJrlzUWVCRurww.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2022-03-11",
+      "episode_count": 13,
+      "id": 245202,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qgB5CZwqrnZ99f8NHUL7ogPrgi3.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2023-06-08",
+      "episode_count": 13,
+      "id": 341395,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/xBGRbkoog9cJhCv7CR1UBCwaGFB.jpg",
+      "season_number": 3,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Happiness is back.",
+  "type": "Scripted",
+  "vote_average": 7.788,
+  "vote_count": 160,
+  "external_ids": {
+    "id": 110948,
+    "imdb_id": "tt13206602",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 389478,
+    "tvrage_id": null,
+    "wikidata_id": "Q106548071",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

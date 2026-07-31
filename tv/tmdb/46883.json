@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/ApNFJqHi7xIrdIPOPtGHPvmJOHL.jpg",
+  "created_by": [
+    {
+      "id": 2072925,
+      "credit_id": "5d2b45bacaab6d4b3c9922ac",
+      "name": "Claudia Sánchez",
+      "original_name": "Claudia Sánchez",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1431677,
+      "credit_id": "5d2b46f8caab6d1e8198e6ae",
+      "name": "Jörg Hiller",
+      "original_name": "Jörg Hiller",
+      "gender": 2,
+      "profile_path": "/yWMI3bTX1vCXjq2rNN7E9RoPo6N.jpg"
+    },
+    {
+      "id": 2361761,
+      "credit_id": "5d2b4665a294f0001032b5b1",
+      "name": "Catalina Coy",
+      "original_name": "Catalina Coy",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2012-10-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://televisa.esmas.com/entretenimiento/telenovelas/porque-el-amor-manda/",
+  "id": 46883,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2013-06-18",
+  "last_episode_to_air": {
+    "id": 2499656,
+    "name": "Episodio  182",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-06-18",
+    "episode_number": 182,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 46883,
+    "still_path": null
+  },
+  "name": "Porque el Amor Manda",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 182,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Porque el Amor Manda",
+  "overview": "Porque el Amor Manda is a 2012 Mexican telenovela produced by Juan Osorio for Televisa. It is a remake of the Colombian telenovela El secretario, produced by Juan Andrés Flórez in 2011.\n\nFernando Colunga and Blanca Soto star as the protagonists Claudia Álvarez stars as the antagonist.",
+  "popularity": 7.9056,
+  "poster_path": "/uf6f1YqRUV52Xzj7ytYB7F7sd9S.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-10-08",
+      "episode_count": 182,
+      "id": 119217,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.097,
+  "vote_count": 445,
+  "external_ids": {
+    "id": 46883,
+    "imdb_id": "tt2401754",
+    "freebase_mid": "/m/0lqfswc",
+    "freebase_id": null,
+    "tvdb_id": 320105,
+    "tvrage_id": null,
+    "wikidata_id": "Q169678",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

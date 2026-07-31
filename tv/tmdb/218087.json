@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 3593692,
+      "credit_id": "63be2132a6e2d2008b3f9faf",
+      "name": "Olivier Adam",
+      "original_name": "Olivier Adam",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2307468,
+      "credit_id": "63be213e81383100bd7634e4",
+      "name": "Denis Talbot",
+      "original_name": "Denis Talbot",
+      "gender": 2,
+      "profile_path": "/7ZMum233kY2zttPSA9iZPy8LIGG.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1998-11-03",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 218087,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2014-05-13",
+  "last_episode_to_air": {
+    "id": 4154362,
+    "name": "Episode 145",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-05-13",
+    "episode_number": 145,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 15,
+    "show_id": 218087,
+    "still_path": null
+  },
+  "name": "M. Net",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 72,
+      "logo_path": "/qPld4NPqfUMLYqrNczsTg71PPgL.png",
+      "name": "MusiquePlus",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 424,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "M. Net",
+  "overview": "",
+  "popularity": 9,
+  "poster_path": "/3EfxiO6NcOyLuHFIBucZFk7zWqV.jpg",
+  "production_companies": [
+    {
+      "id": 183255,
+      "logo_path": "/mH3nk0XWnkfxKEzNxQh4D9b5szz.png",
+      "name": "MusiquePlus",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 323958,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-11-03",
+      "episode_count": 1,
+      "id": 323786,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-23",
+      "episode_count": 147,
+      "id": 323894,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-28",
+      "episode_count": 131,
+      "id": 323817,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-20",
+      "episode_count": 145,
+      "id": 323808,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 218087,
+    "imdb_id": "tt10088950",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 287923,
+    "tvrage_id": null,
+    "wikidata_id": "Q3272412",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

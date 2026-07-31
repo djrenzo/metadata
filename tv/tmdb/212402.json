@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2930101,
+      "credit_id": "634c4694c8a2d4007fc68293",
+      "name": "Enah Johnscott",
+      "original_name": "Enah Johnscott",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2019-06-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 212402,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2019-06-03",
+  "last_episode_to_air": {
+    "id": 4008882,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-06-03",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 212402,
+    "still_path": null
+  },
+  "name": "Samba",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CM"
+  ],
+  "original_language": "fr",
+  "original_name": "Samba",
+  "overview": "",
+  "popularity": 8.5935,
+  "poster_path": "/s8rL23OuLnkGyqYi8vO4kxtjBq2.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CM",
+      "name": "Cameroon"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-06-03",
+      "episode_count": 52,
+      "id": 312771,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/s8rL23OuLnkGyqYi8vO4kxtjBq2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 212402,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

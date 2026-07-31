@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-04-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 311837,
+  "in_production": true,
+  "languages": [
+    "en",
+    "tl"
+  ],
+  "last_air_date": "2026-04-06",
+  "last_episode_to_air": {
+    "id": 7474776,
+    "name": "The Final Duty",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-21",
+    "episode_number": 80,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 311837,
+    "still_path": null
+  },
+  "name": "Blood vs Duty",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3920,
+      "logo_path": "/eK7hBqDuNwvHqBoWtVgCdNIehsU.png",
+      "name": "Kapamilya Channel",
+      "origin_country": "PH"
+    },
+    {
+      "id": 6982,
+      "logo_path": null,
+      "name": "A2Z",
+      "origin_country": "PH"
+    },
+    {
+      "id": 8833,
+      "logo_path": null,
+      "name": "AllTV2",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 15,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Blood vs Duty",
+  "overview": "In the world of crime and injustice, dangerous missions force those on opposite sides of the law to choose between protecting family and doing their duty.",
+  "popularity": 9.3087,
+  "poster_path": "/qslwgFoHYYEk9Os596USGVvjL7R.jpg",
+  "production_companies": [
+    {
+      "id": 151804,
+      "logo_path": null,
+      "name": "JRB Creative Production",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-04-03",
+      "episode_count": 80,
+      "id": 496128,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/t5n8MmizwOxIb6LF87rFL1hPVLy.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 311837,
+    "imdb_id": "tt39214602",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

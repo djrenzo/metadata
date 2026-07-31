@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/tPOR2nXad1YX3a0ptAsbVTkQJgY.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-12-01",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.hbomax.com/es/es/shows/acoustic-home/8c8299f5-91d5-4961-b0f4-e82ed8afd271",
+  "id": 146395,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2024-07-19",
+  "last_episode_to_air": {
+    "id": 5476257,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-07-19",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 146395,
+    "still_path": "/vm68BP4MTBtPMV28snYqwy2VArZ.jpg"
+  },
+  "name": "Acoustic Home",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3186,
+      "logo_path": "/nmU0UMDJB3dRRQSTUqawzF2Od1a.png",
+      "name": "HBO Max",
+      "origin_country": ""
+    },
+    {
+      "id": 6783,
+      "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+      "name": "Max",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Acoustic Home",
+  "overview": "We get to know 10 artists of the music industry closely through an acoustic concert and their own lived experiences. Music gets out those big stages and goes into different topics and realities that go far beyond music.",
+  "popularity": 8.2573,
+  "poster_path": "/nMw4sSDgI9g509o9rlC2GXPLu6T.jpg",
+  "production_companies": [
+    {
+      "id": 247510,
+      "logo_path": null,
+      "name": "Sony Music Vision",
+      "origin_country": "US"
+    },
+    {
+      "id": 262220,
+      "logo_path": null,
+      "name": "E-Media Canary Projects",
+      "origin_country": "ES"
+    },
+    {
+      "id": 246414,
+      "logo_path": null,
+      "name": "Womack Studios",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-12-01",
+      "episode_count": 10,
+      "id": 228117,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nMw4sSDgI9g509o9rlC2GXPLu6T.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-23",
+      "episode_count": 10,
+      "id": 333930,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-16",
+      "episode_count": 10,
+      "id": 399623,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 146395,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 413132,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/jyd6m1Gu75MHSroJyqIEcVhrxXU.jpg",
+  "created_by": [
+    {
+      "id": 1397028,
+      "credit_id": "662a5af64cbe1200a6fa1a58",
+      "name": "Renaud Martin",
+      "original_name": "Renaud Martin",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1484008,
+      "credit_id": "662a5b038a88b2011be410fd",
+      "name": "Franck Ekinci",
+      "original_name": "Franck Ekinci",
+      "gender": 2,
+      "profile_path": "/w23zvJ54dJFJ585aq7ToX8FkZHc.jpg"
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2019-01-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 196477,
+  "in_production": false,
+  "languages": [
+    "fr",
+    "nl"
+  ],
+  "last_air_date": "2019-01-01",
+  "last_episode_to_air": {
+    "id": 3633145,
+    "name": "Encore!",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-01-01",
+    "episode_number": 78,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 1,
+    "show_id": 196477,
+    "still_path": null
+  },
+  "name": "Roger",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 511,
+      "logo_path": "/9v9Mink1IVxPNRZOmCZ8N58BOHe.png",
+      "name": "France 4",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 78,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Roger",
+  "overview": "On a tropical island, the carefree and playful Fatou spends her time with Roger, a clumsy alien. Together, they're never short of ideas when it comes to doing something silly, the perfect pretext for a host of adventures.",
+  "popularity": 8.6445,
+  "poster_path": "/m1xDTNpsmJAQVH1kwm0RusXFKXW.jpg",
+  "production_companies": [
+    {
+      "id": 42875,
+      "logo_path": "/s4g5EWVd5eDCeoNuai757G15i8W.png",
+      "name": "Je suis bien content",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 78,
+      "id": 285707,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/on3OBGe2clDkAhPgnmzIImU1CXE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 196477,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q97365626",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

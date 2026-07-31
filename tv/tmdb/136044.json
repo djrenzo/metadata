@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/qQcI42QcZk9Eo4IqexsUwaRhusx.jpg",
+  "created_by": [
+    {
+      "id": 39189,
+      "credit_id": "616278be18b75100298f61ed",
+      "name": "Stephen Merchant",
+      "original_name": "Stephen Merchant",
+      "gender": 2,
+      "profile_path": "/6WM2rK6390Nwk398syJbGcPvRct.jpg"
+    },
+    {
+      "id": 1026085,
+      "credit_id": "616278ea3d35570044dc7cd4",
+      "name": "Elgin James",
+      "original_name": "Elgin James",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    58
+  ],
+  "first_air_date": "2021-10-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m0010zy5",
+  "id": 136044,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-06-27",
+  "last_episode_to_air": {
+    "id": 5341792,
+    "name": "Episode 5",
+    "overview": "The outlaws must race against time to prove their innocence and keep the Dean behind bars. Will they finally be able to free themselves from a life of crime?",
+    "vote_average": 4.2,
+    "vote_count": 4,
+    "air_date": "2024-06-27",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 3,
+    "show_id": 136044,
+    "still_path": "/weEYZ8LimdrT7RsGpbp8zRpJ9qu.jpg"
+  },
+  "name": "The Outlaws",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 17,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Outlaws",
+  "overview": "Seven strangers from different walks of life - people who would never normally interact - are forced to work together to renovate a derelict community centre. They resent the menial physical labour and they resent each other. But when one of their number gets dragged into a dangerous world of organised crime, they unite in ways none of them thought possible.",
+  "popularity": 9.0485,
+  "poster_path": "/s8vp0S0iz2nPb7TpOpV0rHbm1er.jpg",
+  "production_companies": [
+    {
+      "id": 443,
+      "logo_path": "/wibNj4tELmsnCFlf5ldLik37Urr.png",
+      "name": "Big Talk Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 225221,
+      "logo_path": null,
+      "name": "Four Eyes Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-10-25",
+      "episode_count": 6,
+      "id": 215025,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/wRaNzuMzvL0KdJXU00fcGK3q8Lm.jpg",
+      "season_number": 1,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2022-06-05",
+      "episode_count": 6,
+      "id": 295065,
+      "name": "Series 2",
+      "overview": "Series 2 picks up a few months after the climax of series 1. The Outlaws still have time to serve on their sentences, but quickly realize the criminal underworld isn’t done with them yet — not by a long chalk. This ragtag group of misfits’ shared past comes back to haunt them, in the shape of a terrifying London drug lord out for blood — The Dean.",
+      "poster_path": "/pmnRxmMQzHnFEutpRpUbOe7kAl6.jpg",
+      "season_number": 2,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2024-05-30",
+      "episode_count": 5,
+      "id": 340321,
+      "name": "Series 3",
+      "overview": "With crime boss The Dean behind bars awaiting trial, The Outlaws are moving on with their lives – until one of their own returns with a deadly secret, hurling them back into mortal danger. As a murder manhunt closes in on the gang, can they prove their innocence before The Dean's case collapses, and he comes looking for revenge?",
+      "poster_path": "/pN0WA9mnENAk3jEynU8rkKTRlvn.jpg",
+      "season_number": 3,
+      "vote_average": 4.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Cleaning up their act is dirty work.",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 157,
+  "external_ids": {
+    "id": 136044,
+    "imdb_id": "tt11646832",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 378995,
+    "tvrage_id": null,
+    "wikidata_id": "Q107016644",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

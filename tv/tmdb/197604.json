@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/h9kdezMbqcDtgSssxJtLMT0HZvz.jpg",
+  "created_by": [
+    {
+      "id": 1257394,
+      "credit_id": "625881eab6abc4009d44e0ce",
+      "name": "Gilberto Braga",
+      "original_name": "Gilberto Braga",
+      "gender": 2,
+      "profile_path": "/jlfCpcclHDL27EPkvNB0rx2sfRf.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1984-11-26",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 197604,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1985-06-21",
+  "last_episode_to_air": {
+    "id": 5420838,
+    "name": "Chapter 179",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1985-06-21",
+    "episode_number": 179,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 1,
+    "show_id": 197604,
+    "still_path": "/1kLiYxABh8KgxC5Q9cLMf48vKnz.jpg"
+  },
+  "name": "Power Play",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 179,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Corpo a Corpo",
+  "overview": "Eloá and Osmar's marriage is thrown into crisis when a mysterious man crosses their path. With a thirst for prestige and power, Eloá will face the consequences of her ambition.",
+  "popularity": 9.2948,
+  "poster_path": "/f8DPWUCTGIkQEg53zCd20vXSBp5.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1984-11-26",
+      "episode_count": 179,
+      "id": 287646,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/f8DPWUCTGIkQEg53zCd20vXSBp5.jpg",
+      "season_number": 1,
+      "vote_average": 8.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.3,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 197604,
+    "imdb_id": "tt0209590",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 419023,
+    "tvrage_id": null,
+    "wikidata_id": "Q10260708",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

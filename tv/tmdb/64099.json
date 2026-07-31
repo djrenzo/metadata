@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/dRz83kCWj4yu8SP7AbSzyvUO7rK.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-01-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/p039wcdk",
+  "id": 64099,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-02-07",
+  "last_episode_to_air": {
+    "id": 1152493,
+    "name": "Episode 6",
+    "overview": "As Napoleon marches into Moscow, the Rostovs rush to leave the city.",
+    "vote_average": 7.8,
+    "vote_count": 19,
+    "air_date": "2016-02-07",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "106",
+    "runtime": 82,
+    "season_number": 1,
+    "show_id": 64099,
+    "still_path": "/wNdONOE5MUQygE9xEQmc3hY7j5Z.jpg"
+  },
+  "name": "War and Peace",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "War and Peace",
+  "overview": "The love story of young Countess Natasha Rostova and Count Pierre Bezukhov is interwoven with the Great Patriotic War of 1812 against Napoleon's invading army.",
+  "popularity": 9.2373,
+  "poster_path": "/e9uqJMuJXTlqgHrzmMjzhUsw7nI.jpg",
+  "production_companies": [
+    {
+      "id": 3164,
+      "logo_path": "/h06QVxWESaOAfBwkgrWFdbkkccq.png",
+      "name": "BBC Worldwide",
+      "origin_country": "GB"
+    },
+    {
+      "id": 308,
+      "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+      "name": "The Weinstein Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 72850,
+      "logo_path": "/yxpBlnD0yfROQ8uwzSu3kWm2fl5.png",
+      "name": "Lookout Point",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4762,
+      "logo_path": "/igWZmjr5Zhbnxf7DinSOLoiggLU.png",
+      "name": "BBC Cymru Wales",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 6,
+      "id": 71176,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/AoSe3KxhX4VhzlJaBEowIH239da.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Brought to life for a new generation.",
+  "type": "Miniseries",
+  "vote_average": 7.537,
+  "vote_count": 245,
+  "external_ids": {
+    "id": 64099,
+    "imdb_id": "tt3910804",
+    "freebase_mid": "/m/0_frc0q",
+    "freebase_id": null,
+    "tvdb_id": 299408,
+    "tvrage_id": null,
+    "wikidata_id": "Q16170490",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

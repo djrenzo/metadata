@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/9REWsyFWjYOgH8hRdwYmAhX0Ubv.jpg",
+  "created_by": [
+    {
+      "id": 1315027,
+      "credit_id": "619d85694f9a99002454d992",
+      "name": "Cláudio Torres Gonzaga",
+      "original_name": "Cláudio Torres Gonzaga",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2018-06-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://multishow.globo.com/programas/doutora-darci",
+  "id": 139421,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2025-11-04",
+  "last_episode_to_air": {
+    "id": 6666995,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-04",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 28,
+    "season_number": 5,
+    "show_id": 139421,
+    "still_path": "/icIS4BF9q2IT70WmmCZdQ9nF0U5.jpg"
+  },
+  "name": "Dra. Darci",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1092,
+      "logo_path": "/iYlnbSYwrwPMe4BVphpBrhLkqkb.png",
+      "name": "Multishow",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Dra. Darci",
+  "overview": "",
+  "popularity": 8.4551,
+  "poster_path": "/drp7m4iv9UiqPJsPuxpN4soS6ML.jpg",
+  "production_companies": [
+    {
+      "id": 147178,
+      "logo_path": "/8ZXqVzzwOY6avXBYVA8R5NIZ6rn.png",
+      "name": "Formata Produções e Conteúdo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-18",
+      "episode_count": 20,
+      "id": 220814,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-20",
+      "episode_count": 10,
+      "id": 220815,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-02",
+      "episode_count": 10,
+      "id": 220816,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-11",
+      "episode_count": 5,
+      "id": 398099,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/gSqhPK62HQflt9tk91tanBmttI3.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-07",
+      "episode_count": 5,
+      "id": 481471,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/oCsESY27Ei7upGRH88xQ3XNKVry.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 139421,
+    "imdb_id": "tt8613738",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 349489,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

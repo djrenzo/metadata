@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/4IzdfRrxgbvtnE0ZBNEjlcFcxgc.jpg",
+  "created_by": [
+    {
+      "id": 2685737,
+      "credit_id": "601163f2d9f4a600413a5ade",
+      "name": "Park Shin-woo",
+      "original_name": "박신우",
+      "gender": 2,
+      "profile_path": "/HhpH2LnpaP6K9TSknqLtlBquhX.jpg"
+    },
+    {
+      "id": 2785157,
+      "credit_id": "6011640da6ddcb0040b208ca",
+      "name": "Jo Yong",
+      "original_name": "조용",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    77
+  ],
+  "first_air_date": "2020-06-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://program.tving.com/tvn/tvnpsycho/",
+  "id": 96462,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2020-08-09",
+  "last_episode_to_air": {
+    "id": 2374775,
+    "name": "Finding the Real Face",
+    "overview": "Mun-yeong decides she's going to publish the new fairy tale after all. Everyone comes together at the hospital for a reading of the book.",
+    "vote_average": 9.6,
+    "vote_count": 7,
+    "air_date": "2020-08-09",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 82,
+    "season_number": 1,
+    "show_id": 96462,
+    "still_path": "/3u9LkeG5XW2kJUl8NLxQmdji9xU.jpg"
+  },
+  "name": "It's Okay to Not Be Okay",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 866,
+      "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "사이코지만 괜찮아",
+  "overview": "Desperate to escape from his emotional baggage and the heavy responsibility he’s had all his life, a psychiatric ward worker begins to heal with help from the unexpected – a woman who writes fairy tales but doesn’t believe in them.",
+  "popularity": 8.8588,
+  "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+  "production_companies": [
+    {
+      "id": 86418,
+      "logo_path": "/vzzqRwqTin3iAAMw2JlrmVPNnPa.png",
+      "name": "Studio Dragon",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-06-20",
+      "episode_count": 16,
+      "id": 138137,
+      "name": "Season 1",
+      "overview": "An extraordinary road to emotional healing opens up for an antisocial children's book writer and a selfless psych ward caretaker when they cross paths.",
+      "poster_path": "/8XSJfLeImX8NszDUFnK1lbseCi8.jpg",
+      "season_number": 1,
+      "vote_average": 9.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "When you can't control yourself, count to three.",
+  "type": "Scripted",
+  "vote_average": 8.501,
+  "vote_count": 1501,
+  "external_ids": {
+    "id": 96462,
+    "imdb_id": "tt12451520",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 377955,
+    "tvrage_id": null,
+    "wikidata_id": "Q79997183",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

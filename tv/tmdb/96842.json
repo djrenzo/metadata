@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/6dcv9p807iU3iBOwL1MmolZzLST.jpg",
+  "created_by": [
+    {
+      "id": 3238408,
+      "credit_id": "61e73a7a9c24fc006d3f4897",
+      "name": "Zé Brandão",
+      "original_name": "Zé Brandão",
+      "gender": 0,
+      "profile_path": "/elAGTQ6AkGtXndQDyN9AQhWB9Zl.jpg"
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2011-07-10",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://copastudio.com/pt/tromba-trem/",
+  "id": 96842,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2016-09-05",
+  "last_episode_to_air": {
+    "id": 5465400,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-09-05",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 96842,
+    "still_path": null
+  },
+  "name": "Trunk Train",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 686,
+      "logo_path": "/zfSn03BXad9VadOBPe5HcGrMoZW.png",
+      "name": "TV Cultura",
+      "origin_country": "BR"
+    },
+    {
+      "id": 1570,
+      "logo_path": "/leT8s1ELv1f7qTPJlUvv556NEoT.png",
+      "name": "TV Brasil",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 53,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Tromba Trem",
+  "overview": "A forgetful elephant, a vegetarian anteater and a termite colony that believe to be aliens, travel together on a train across Latin America.",
+  "popularity": 8.1542,
+  "poster_path": "/cJowaZyPwAIp6zWv5vBcd2PwngK.jpg",
+  "production_companies": [
+    {
+      "id": 80324,
+      "logo_path": "/AjNvLByYd2t6JUP134xT1Yc6uXD.png",
+      "name": "Copa Studio",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-07-10",
+      "episode_count": 26,
+      "id": 139005,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-06-08",
+      "episode_count": 26,
+      "id": 186436,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-05",
+      "episode_count": 1,
+      "id": 312395,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 96842,
+    "imdb_id": "tt12640670",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 289936,
+    "tvrage_id": null,
+    "wikidata_id": "Q10385058",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

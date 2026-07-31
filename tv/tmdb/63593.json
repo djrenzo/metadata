@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": "/bdR1axhNH85ebF3zWnSrsDBhTm.jpg",
+  "created_by": [
+    {
+      "id": 62856,
+      "credit_id": "55ca06989251410c46001ce3",
+      "name": "Seth Meyers",
+      "original_name": "Seth Meyers",
+      "gender": 2,
+      "profile_path": "/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
+    },
+    {
+      "id": 19278,
+      "credit_id": "55ca069ec3a3687523001dcb",
+      "name": "Bill Hader",
+      "original_name": "Bill Hader",
+      "gender": 2,
+      "profile_path": "/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+    },
+    {
+      "id": 61110,
+      "credit_id": "55ca06a69251410c4c001c98",
+      "name": "Fred Armisen",
+      "original_name": "Fred Armisen",
+      "gender": 2,
+      "profile_path": "/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
+    },
+    {
+      "id": 1475576,
+      "credit_id": "6205a3bf1e259a010bb331d7",
+      "name": "Rhys Thomas",
+      "original_name": "Rhys Thomas",
+      "gender": 2,
+      "profile_path": "/saqAYZcTi9xouQaHChAhC803R6X.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2015-08-20",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.ifc.com/shows/documentary-now--1000023",
+  "id": 63593,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-11-16",
+  "last_episode_to_air": {
+    "id": 3873286,
+    "name": "Trouver Frisson (2000)",
+    "overview": "Celebrated French filmmaker Ida Leos searches for why she no longer experiences “frisson” – the goosebumps that have always been her guide. Inspired by Agnes Varda’s Gleaners and I and Beaches of Agnes.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-11-16",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 4,
+    "show_id": 63593,
+    "still_path": "/hLJqCaAujgJkQY2e7Ayi43d0M5Z.jpg"
+  },
+  "name": "Documentary Now!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 124,
+      "logo_path": "/jZYZjulF2FTaAHo5TKBHBC4ihS1.png",
+      "name": "IFC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 27,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Documentary Now!",
+  "overview": "Loving parodies of some of the world's best-known documentaries. Each episode is shot in a different style of documentary filmmaking, and honors some of the most important stories that didn't actually happen.",
+  "popularity": 8.31,
+  "poster_path": "/qqj9BRWRHa0sX7o1qvHGirQ8TNe.jpg",
+  "production_companies": [
+    {
+      "id": 1756,
+      "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+      "name": "Broadway Video",
+      "origin_country": "US"
+    },
+    {
+      "id": 74063,
+      "logo_path": "/xnsCQCEwUhofmWgBMzzPqhxJOhT.png",
+      "name": "EMU Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-08-20",
+      "episode_count": 7,
+      "id": 69478,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/rn3wEX1db6YRYyI46Xt7s9rZZQi.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2016-09-14",
+      "episode_count": 7,
+      "id": 80154,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": "/kNFREmcribTP3p9WoSuDtuiW63G.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-02-20",
+      "episode_count": 7,
+      "id": 119275,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": "/emE5yL9XtbgeDRwB6WnYy6gLMd0.jpg",
+      "season_number": 3,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2022-10-19",
+      "episode_count": 6,
+      "id": 300553,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": "/euUutUZw1WIOAyCI1uu2ahvFFuL.jpg",
+      "season_number": 4,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.133,
+  "vote_count": 79,
+  "external_ids": {
+    "id": 63593,
+    "imdb_id": "tt4677934",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 295697,
+    "tvrage_id": 50284,
+    "wikidata_id": "Q20642667",
+    "facebook_id": "",
+    "instagram_id": "docnowifc",
+    "twitter_id": "DocumentaryNow"
+  }
+}

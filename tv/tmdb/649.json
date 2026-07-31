@@ -1,0 +1,1518 @@
+{
+  "adult": false,
+  "backdrop_path": "/iOdMG2BRHuu80ug7mKpu76CX7Dv.jpg",
+  "created_by": [
+    {
+      "id": 1219287,
+      "credit_id": "52538caf19c295794025bfb2",
+      "name": "To Van Lai",
+      "original_name": "To Van Lai",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1219288,
+      "credit_id": "52538cb019c295794025bfba",
+      "name": "Paul Huynh",
+      "original_name": "Paul Huynh",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1219289,
+      "credit_id": "52538cb119c295794025bfc2",
+      "name": "Marie To Ngoc Thuy",
+      "original_name": "Marie To Ngoc Thuy",
+      "gender": 0,
+      "profile_path": "/zyZqhUVIvvNbirPoFh8x0RsibRP.jpg"
+    }
+  ],
+  "episode_run_time": [
+    300
+  ],
+  "first_air_date": "1986-02-14",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://thuynga.com/",
+  "id": 649,
+  "in_production": true,
+  "languages": [
+    "en",
+    "vi"
+  ],
+  "last_air_date": "2023-09-30",
+  "last_episode_to_air": {
+    "id": 4943680,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-09-30",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 305,
+    "season_number": 135,
+    "show_id": 649,
+    "still_path": null
+  },
+  "name": "Paris By Night",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 283,
+  "number_of_seasons": 138,
+  "origin_country": [
+    "AU",
+    "CA",
+    "FR",
+    "US"
+  ],
+  "original_language": "vi",
+  "original_name": "Paris By Night",
+  "overview": "Paris By Night is a popular Vietnamese language musical variety show, produced by Thúy Nga and hosted by Nguyễn Ngọc Ngạn and Nguyễn Cao Kỳ Duyên, featuring musical performances by modern pop stars, traditional folk songs, one-act plays, and sketch comedy.",
+  "popularity": 9.2948,
+  "poster_path": "/2bBaH0aj4UB9vocrLrtvAwiqDYT.jpg",
+  "production_companies": [
+    {
+      "id": 18657,
+      "logo_path": null,
+      "name": "Thuy Nga",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 1959,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-02-13",
+      "episode_count": 2,
+      "id": 1956,
+      "name": "Paris By Night 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-10-10",
+      "episode_count": 2,
+      "id": 307143,
+      "name": "Paris By Night 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-02-14",
+      "episode_count": 1,
+      "id": 307237,
+      "name": "Paris By Night 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-14",
+      "episode_count": 1,
+      "id": 307241,
+      "name": "Paris By Night 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-02-14",
+      "episode_count": 1,
+      "id": 307243,
+      "name": "Paris By Night 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-02-14",
+      "episode_count": 1,
+      "id": 307245,
+      "name": "Paris by Night 5th Anniversary",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-03",
+      "episode_count": 1,
+      "id": 307246,
+      "name": "Paris By Night 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-03",
+      "episode_count": 1,
+      "id": 307247,
+      "name": "Paris By Night 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-02-14",
+      "episode_count": 1,
+      "id": 307248,
+      "name": "Paris By Night 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-02-14",
+      "episode_count": 2,
+      "id": 307249,
+      "name": "Paris By Night 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-07",
+      "episode_count": 1,
+      "id": 307250,
+      "name": "Paris By Night 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-03",
+      "episode_count": 1,
+      "id": 307251,
+      "name": "Paris By Night 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-03",
+      "episode_count": 2,
+      "id": 307252,
+      "name": "Paris By Night 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-03",
+      "episode_count": 1,
+      "id": 307253,
+      "name": "Paris By Night 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-04",
+      "episode_count": 2,
+      "id": 307254,
+      "name": "Paris By Night 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-04",
+      "episode_count": 2,
+      "id": 307255,
+      "name": "Paris By Night 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-04",
+      "episode_count": 2,
+      "id": 307256,
+      "name": "Paris By Night 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-04",
+      "episode_count": 2,
+      "id": 307257,
+      "name": "Paris By Night 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-04",
+      "episode_count": 2,
+      "id": 1960,
+      "name": "Tình Ca Phạm Duy - Tác Phẩm và Con Người",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-04",
+      "episode_count": 2,
+      "id": 307258,
+      "name": "Tuyệt Phẩm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-10",
+      "episode_count": 2,
+      "id": 307259,
+      "name": "Tình Ca Ngô Thụy Miên",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-04",
+      "episode_count": 2,
+      "id": 307260,
+      "name": "40 Năm Âm Nhạc Lam Phương",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-10-10",
+      "episode_count": 2,
+      "id": 307261,
+      "name": "Thế Giới Muôn Màu",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-10-10",
+      "episode_count": 2,
+      "id": 307262,
+      "name": "Paris by Night 10th Anniversary",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-10",
+      "episode_count": 1,
+      "id": 307263,
+      "name": "Paris By Night 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-10",
+      "episode_count": 1,
+      "id": 307264,
+      "name": "Đêm Hoa Đăng - Sacrée Soirée 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-10",
+      "episode_count": 2,
+      "id": 307265,
+      "name": "Tiếng Hát Với Cung Đàn Văn Phụng - Sacrée Soirée 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-10",
+      "episode_count": 2,
+      "id": 307266,
+      "name": "Lam Phương 2 - Dòng Nhạc Tiếp Nối - Sacrée Soirée 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-10",
+      "episode_count": 2,
+      "id": 307267,
+      "name": "In Las Vegas",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-10",
+      "episode_count": 1,
+      "id": 307268,
+      "name": "Phạm Duy 2 - Người Tình",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-10",
+      "episode_count": 1,
+      "id": 307269,
+      "name": "Paris By Night 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-10",
+      "episode_count": 1,
+      "id": 307270,
+      "name": "20 Năm Nhìn Lại",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-10",
+      "episode_count": 2,
+      "id": 307271,
+      "name": "Nhạc Tình Đức Huy",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-10-10",
+      "episode_count": 2,
+      "id": 307272,
+      "name": "Made in Paris",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-10",
+      "episode_count": 2,
+      "id": 307273,
+      "name": "Paris By Night 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-10",
+      "episode_count": 2,
+      "id": 307274,
+      "name": "In Houston",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-10",
+      "episode_count": 2,
+      "id": 307275,
+      "name": "In Las Vegas 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-10",
+      "episode_count": 2,
+      "id": 307276,
+      "name": "In Toronto",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-10",
+      "episode_count": 2,
+      "id": 307277,
+      "name": "Ánh Đèn Màu",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-10",
+      "episode_count": 1,
+      "id": 307278,
+      "name": "Mẹ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-10",
+      "episode_count": 2,
+      "id": 307279,
+      "name": "Hoàng Thi Thơ - Một Đời Cho Âm Nhạc",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-10",
+      "episode_count": 2,
+      "id": 307280,
+      "name": "Giòng Nhạc Kỷ Niệm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 2,
+      "id": 307281,
+      "name": "Đàn Bà",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 1,
+      "id": 307282,
+      "name": "Tiền",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 2,
+      "id": 307283,
+      "name": "Vào Hạ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 2,
+      "id": 307284,
+      "name": "15th Anniversary Celebration",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 2,
+      "id": 307285,
+      "name": "Hoàng Thi Thơ 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 2,
+      "id": 307286,
+      "name": "Hình Ảnh Cuộc Đời",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-10",
+      "episode_count": 1,
+      "id": 307287,
+      "name": "Chúng Ta Đi Mang Theo Quê Hương",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-10",
+      "episode_count": 1,
+      "id": 307288,
+      "name": "Paris By Night 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-10",
+      "episode_count": 1,
+      "id": 307289,
+      "name": "We Like To Party",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-10-10",
+      "episode_count": 4,
+      "id": 307290,
+      "name": "Giã Từ Thế Kỷ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-10",
+      "episode_count": 2,
+      "id": 307291,
+      "name": "Thiên Đuờng Là Đây",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-10",
+      "episode_count": 2,
+      "id": 307292,
+      "name": "In Concert",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-10",
+      "episode_count": 1,
+      "id": 307293,
+      "name": "Duới Ánh Nắng Mặt Trời",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-10",
+      "episode_count": 2,
+      "id": 307294,
+      "name": "Những Dòng Nhạc Hôm Nay",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-10",
+      "episode_count": 2,
+      "id": 307295,
+      "name": "Thời Trang và Âm Nhạc",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 1,
+      "id": 307296,
+      "name": "Những Sắc Màu Trong Kỷ Niệm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 1,
+      "id": 307297,
+      "name": "Cây Đa Bến Cũ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 2,
+      "id": 307298,
+      "name": "Thất Tình",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 1,
+      "id": 307299,
+      "name": "Sân Khấu Cuộc Đời",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-10",
+      "episode_count": 1,
+      "id": 307300,
+      "name": "Âm Nhạc Không Biên Giới",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-10",
+      "episode_count": 1,
+      "id": 307301,
+      "name": "Dòng Thời Gian",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-10",
+      "episode_count": 2,
+      "id": 307302,
+      "name": "Đêm Văn Nghệ Thính Phòng",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-10",
+      "episode_count": 2,
+      "id": 307303,
+      "name": "Yêu",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-10",
+      "episode_count": 2,
+      "id": 307304,
+      "name": "Nguời Tình và Quê Huong",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-10",
+      "episode_count": 2,
+      "id": 307305,
+      "name": "In San Jose",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-10",
+      "episode_count": 2,
+      "id": 307306,
+      "name": "Nửa Vầng Trăng",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-10",
+      "episode_count": 2,
+      "id": 307307,
+      "name": "Nợ Tình",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-10",
+      "episode_count": 2,
+      "id": 307308,
+      "name": "Thu Ca",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-10",
+      "episode_count": 3,
+      "id": 307309,
+      "name": "Paris by Night 20th Anniversary",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-10",
+      "episode_count": 3,
+      "id": 307310,
+      "name": "Tiếng Hát Từ Nhịp Tim",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-10",
+      "episode_count": 3,
+      "id": 307311,
+      "name": "Song Ca Đặc Biệt - The Best of Duets",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-10",
+      "episode_count": 2,
+      "id": 307312,
+      "name": "Hoa Bướm Ngày Xưa",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-08",
+      "episode_count": 3,
+      "id": 307313,
+      "name": "Về Miền Viễn Đông - Journey to the Far East",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 75,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-08",
+      "episode_count": 2,
+      "id": 307314,
+      "name": "Xuân Tha Hương",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 76,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-08",
+      "episode_count": 2,
+      "id": 307315,
+      "name": "30 Năm Viễn Xứ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 77,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-08",
+      "episode_count": 2,
+      "id": 307316,
+      "name": "Đường Xưa",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 78,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-08",
+      "episode_count": 2,
+      "id": 307317,
+      "name": "Dreams",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 79,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-08",
+      "episode_count": 2,
+      "id": 1971,
+      "name": "Tết Khắp Mọi Nhà",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 80,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-08",
+      "episode_count": 2,
+      "id": 307318,
+      "name": "Âm Nhạc Không Biên Giới 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 81,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-08",
+      "episode_count": 2,
+      "id": 307319,
+      "name": "Tiếu Vương Hội",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 82,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-08",
+      "episode_count": 3,
+      "id": 307320,
+      "name": "Những Khúc Hát Ân Tình",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 83,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-07",
+      "episode_count": 2,
+      "id": 307321,
+      "name": "In Atlanta - Passport to Music & Fashion",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 84,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-08",
+      "episode_count": 2,
+      "id": 307322,
+      "name": "Xuân Trong Kỷ Niệm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 85,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-10",
+      "episode_count": 2,
+      "id": 307323,
+      "name": "PBN Talent Show - Semi-Finals",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 86,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-08",
+      "episode_count": 2,
+      "id": 307324,
+      "name": "PBN Talent Show - Finals",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 87,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-07",
+      "episode_count": 2,
+      "id": 307325,
+      "name": "Lam Phương - Đường Về Quê Hương",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 88,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-08",
+      "episode_count": 2,
+      "id": 307326,
+      "name": "In Korea",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 89,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-08",
+      "episode_count": 2,
+      "id": 307327,
+      "name": "Chân Dung Người Phụ Nữ Việt Nam",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 90,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-08",
+      "episode_count": 2,
+      "id": 1961,
+      "name": "Huế, Sài Gòn, Hà Nội",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 91,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-08",
+      "episode_count": 2,
+      "id": 1962,
+      "name": "Nhạc Yêu Cầu",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 92,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-08",
+      "episode_count": 2,
+      "id": 1963,
+      "name": "Celebrity Dancing – Khiêu Vũ Của Các Ngôi Sao",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 93,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-08",
+      "episode_count": 2,
+      "id": 1964,
+      "name": "Paris by Night 25th Anniversary (Part I)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 94,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-08",
+      "episode_count": 2,
+      "id": 1965,
+      "name": "Paris by Night 25th Anniversary (Part II) – Cám Ơn Cuộc Đời",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 95,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-08",
+      "episode_count": 2,
+      "id": 1966,
+      "name": "Nhạc Yêu Cầu 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 96,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-08",
+      "episode_count": 5,
+      "id": 1967,
+      "name": "Celebrity Dancing 2 – Khiêu Vũ Của Các Ngôi Sao 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 97,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-08",
+      "episode_count": 2,
+      "id": 1968,
+      "name": "Fly With Us To Las Vegas",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 98,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-08",
+      "episode_count": 4,
+      "id": 1969,
+      "name": "Tôi Là Người Việt Nam",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 99,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-08",
+      "episode_count": 4,
+      "id": 1970,
+      "name": "Ghi Nhớ Một Chặng Đường",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 100,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-10",
+      "episode_count": 3,
+      "id": 307328,
+      "name": "Hạnh Phúc Đầu Năm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 101,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-10",
+      "episode_count": 3,
+      "id": 307329,
+      "name": "Nhạc Yêu Cầu - Tình Ca Lam Phương",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 102,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-10",
+      "episode_count": 2,
+      "id": 307330,
+      "name": "Tình Sử Trong Âm Nhạc Việt Nam",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 103,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-10",
+      "episode_count": 5,
+      "id": 307331,
+      "name": "Beginnings",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 104,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 2,
+      "id": 307332,
+      "name": "Người Tình – The Lovers",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 105,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 4,
+      "id": 1955,
+      "name": "Lụa – Silk",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 106,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-10",
+      "episode_count": 3,
+      "id": 1957,
+      "name": "Nguyễn Ngọc Ngạn - 20 Năm Sân Khấu",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 107,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-10",
+      "episode_count": 3,
+      "id": 1958,
+      "name": "Time – Thời Gian",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 108,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-10",
+      "episode_count": 6,
+      "id": 83005,
+      "name": "30th Anniversary Celebration",
+      "overview": "",
+      "poster_path": "/3E8lxzfwE5C3VfGZg1knHTmYS9i.jpg",
+      "season_number": 109,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-24",
+      "episode_count": 9,
+      "id": 306183,
+      "name": "Phát Lộc Đầu Năm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 110,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-21",
+      "episode_count": 5,
+      "id": 306182,
+      "name": "S",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 111,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-12-19",
+      "episode_count": 4,
+      "id": 306181,
+      "name": "Đông",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 112,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-13",
+      "episode_count": 3,
+      "id": 306179,
+      "name": "Mừng Tuổi Mẹ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 113,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-11",
+      "episode_count": 3,
+      "id": 306178,
+      "name": "1975-2015 Tôi Là Người Việt Nam",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 114,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-09",
+      "episode_count": 5,
+      "id": 306177,
+      "name": "Nét đẹp Á Đông - Asian Beauty",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 115,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-12-23",
+      "episode_count": 2,
+      "id": 306176,
+      "name": "Nụ cười đầu năm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 116,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-29",
+      "episode_count": 5,
+      "id": 306175,
+      "name": "Vườn Hoa Âm Nhạc",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 117,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-30",
+      "episode_count": 3,
+      "id": 306174,
+      "name": "50 Năm Âm Nhạc Đức Huy",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 118,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-03",
+      "episode_count": 2,
+      "id": 306173,
+      "name": "Nhạc Vàng Muôn Thuở",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 119,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-12-21",
+      "episode_count": 3,
+      "id": 306172,
+      "name": "Còn chút gì để nhớ",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 120,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-25",
+      "episode_count": 3,
+      "id": 84636,
+      "name": "Song ca nhac vang",
+      "overview": "Paris By Night is a popular Vietnamese-language musical variety show, produced by Thúy Nga and hosted by Nguyễn Ngọc Ngạn and Nguyễn Cao Kỳ Duyên, featuring musical performances by modern pop stars, traditional folk songs, one-act plays, and sketch comedy",
+      "poster_path": "/wOTNicilLXEFVO6iSFSayDRLosi.jpg",
+      "season_number": 121,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2017-06-23",
+      "episode_count": 1,
+      "id": 306171,
+      "name": "Duyên Phận",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 122,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-29",
+      "episode_count": 1,
+      "id": 306170,
+      "name": "Ảo Ảnh",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 123,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-09",
+      "episode_count": 1,
+      "id": 306169,
+      "name": "Anh Cho Em Mùa Xuân",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 124,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-26",
+      "episode_count": 1,
+      "id": 306168,
+      "name": "Chiều Mưa Biên Giới",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 125,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-18",
+      "episode_count": 1,
+      "id": 306167,
+      "name": "Hành Trình 35 Năm",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 126,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-12-14",
+      "episode_count": 1,
+      "id": 306166,
+      "name": "Hành Trình 35 Năm (Phần 2)",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 127,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-01",
+      "episode_count": 2,
+      "id": 306165,
+      "name": "Hành Trình 35 Năm (Phần 3) – Feel the Lights",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 128,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-08",
+      "episode_count": 1,
+      "id": 138517,
+      "name": "Dynasty",
+      "overview": "Paris By Night 129 - Dynasty is the 138th Paris By Night program (including special programs) produced and published by Thuy Nga center. This is the first program to gather the top singers of the two music dynasties, Lu Lien and Pham Duy, including Tuan Ngoc, Khanh Ha, Thuy Anh, Luu Bich, Thai Hien, Thai Thao, .. The program was dubbed the \"most anticipated Paris By Night program of 2019\".\n\nThe program's DVD and Bluray was released on November 8, 2019, and will have a box cover DVD.",
+      "poster_path": null,
+      "season_number": 129,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-20",
+      "episode_count": 2,
+      "id": 148968,
+      "name": "In Singapore – Glamour",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 130,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-08",
+      "episode_count": 2,
+      "id": 306164,
+      "name": "Xuan Hy Vong",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 131,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-22",
+      "episode_count": 1,
+      "id": 244738,
+      "name": "Xuan Voi Doi Song Moi",
+      "overview": "",
+      "poster_path": "/AoBhUgr3cmdBvAYuKO1Q1XIOvNG.jpg",
+      "season_number": 132,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-01",
+      "episode_count": 1,
+      "id": 342337,
+      "name": "Nguyễn Ngọc Ngạn - The Farewell",
+      "overview": "",
+      "poster_path": "/2Xxl7hOkdjY3sZpxxjwSfDpKvSv.jpg",
+      "season_number": 133,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-04",
+      "episode_count": 1,
+      "id": 342338,
+      "name": "In Bangkok - Nguyễn Ngọc Ngạn - Lời Cảm Ơn",
+      "overview": "",
+      "poster_path": "/biK8DN1P5cyiI7c7iy6tlZ2VKiZ.jpg",
+      "season_number": 134,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-30",
+      "episode_count": 1,
+      "id": 366993,
+      "name": "Từ Công Phụng Trên Ngọn Tình Sầu",
+      "overview": "",
+      "poster_path": "/ketaFST6xl2dZ6rD7897LqNfrnv.jpg",
+      "season_number": 135,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 478003,
+      "name": "Season 136",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 136,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 478004,
+      "name": "Season 137",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 137,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 478005,
+      "name": "Season 138",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 138,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 649,
+    "imdb_id": "tt2043508",
+    "freebase_mid": "/m/066d51",
+    "freebase_id": "/en/paris_by_night",
+    "tvdb_id": 83696,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "ThuyNgaPBN",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/vac3SIBwaqB3RoFbEO0yJd8PbYJ.jpg",
+  "created_by": [
+    {
+      "id": 2080469,
+      "credit_id": "62854b6c0d5d8545617da38c",
+      "name": "Mike Flynn",
+      "original_name": "Mike Flynn",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 933119,
+      "credit_id": "62854b649ca7591646897086",
+      "name": "William M. Finkelstein",
+      "original_name": "William M. Finkelstein",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2022-10-02",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/east-new-york",
+  "id": 202296,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-05-14",
+  "last_episode_to_air": {
+    "id": 4380321,
+    "name": "Ruskin Roulette",
+    "overview": "Haywood’s leadership is called into question after a tragic shooting close to home, and her relationship with Suarez is put to the test.",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2023-05-14",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 202296,
+    "still_path": "/hPaLGG14aaZ3ekdAPUv27eZ2oXm.jpg"
+  },
+  "name": "East New York",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 21,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "East New York",
+  "overview": "Regina Haywood is the newly promoted deputy inspector of East New York, a working-class neighborhood at the edge of Brooklyn. She leads a diverse group of officers and detectives, some of whom are reluctant to deploy her creative methods of serving and protecting in the midst of social upheaval and the early seeds of gentrification.",
+  "popularity": 8.9717,
+  "poster_path": "/vOos5pwq3tzPCwFohG80i2SXAgR.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 185254,
+      "logo_path": null,
+      "name": "Clothesline Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 185255,
+      "logo_path": null,
+      "name": "Grounded Mind",
+      "origin_country": ""
+    },
+    {
+      "id": 185256,
+      "logo_path": null,
+      "name": "Skyemac Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 125231,
+      "logo_path": "/snGfhwT46aqKWhP8izedkL48aZY.png",
+      "name": "Wonder Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 199782,
+      "logo_path": null,
+      "name": "Play Well Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-02",
+      "episode_count": 21,
+      "id": 294269,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vOos5pwq3tzPCwFohG80i2SXAgR.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.111,
+  "vote_count": 45,
+  "external_ids": {
+    "id": 202296,
+    "imdb_id": "tt18115928",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420064,
+    "tvrage_id": null,
+    "wikidata_id": "Q113102054",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "@EastNYCBS"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/vsT4NA5U3YUXGY4G9lwa1KekAjg.jpg",
+  "created_by": [
+    {
+      "id": 105878,
+      "credit_id": "68f63d3e7c3662e391cd0e38",
+      "name": "Meren Reddy",
+      "original_name": "Meren Reddy",
+      "gender": 2,
+      "profile_path": "/mucDfzvSIOG25qLncdPaNBExW8Y.jpg"
+    },
+    {
+      "id": 1064521,
+      "credit_id": "68f63d4b7b30bb60d3cd0e50",
+      "name": "Joshua Rous",
+      "original_name": "Joshua Rous",
+      "gender": 2,
+      "profile_path": "/xLPUOkTgR4dy580pbsTlzjQG0p3.jpg"
+    },
+    {
+      "id": 2226783,
+      "credit_id": "68f63d611d8859e979cd0e9a",
+      "name": "Luke Rous",
+      "original_name": "Luke Rous",
+      "gender": 2,
+      "profile_path": "/yHabjZBM4vytjreVFbeefvkleh7.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2020-01-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 303433,
+  "in_production": true,
+  "languages": [
+    "en",
+    "zu"
+  ],
+  "last_air_date": "2023-09-23",
+  "last_episode_to_air": {
+    "id": 6616997,
+    "name": "Lost & Found",
+    "overview": "Martha suspects Sizwe of cheating while he secretly plans a vow renewal. Thuli and Nkanyiso save the ceremony.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-09-23",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 3,
+    "show_id": 303433,
+    "still_path": null
+  },
+  "name": "Black Tax",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5225,
+      "logo_path": "/sJ4g8v6i4xWfGwuAvm8Unb5wZhU.png",
+      "name": "e.tv",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 8178,
+      "logo_path": null,
+      "name": "BET Africa",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_name": "Black Tax",
+  "overview": "Growing up in a tightly-knit black community has helped Thuli a lot - but when her ship finally starts to come in, and distant family starts coming out of the woodwork, how much longer does she need to keep paying her black tax?",
+  "popularity": 8.5659,
+  "poster_path": "/zyfElVcyn67of0uQbd9QS8rBqTP.jpg",
+  "production_companies": [
+    {
+      "id": 113986,
+      "logo_path": null,
+      "name": "Rous House Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 245482,
+      "logo_path": null,
+      "name": "ShowMax",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-01-21",
+      "episode_count": 13,
+      "id": 480722,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gVHQ3nFuzN1hUn7vmHghcl61d13.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-09",
+      "episode_count": 13,
+      "id": 480723,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/biqjZ5bSvsVjkvywIC4upbVKEyK.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-01",
+      "episode_count": 13,
+      "id": 480769,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4go4hZwW8BwVDaIY8yT3Mv1IiG3.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Zulu",
+      "iso_639_1": "zu",
+      "name": "isiZulu"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "It's been payback since the first paycheque",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 303433,
+    "imdb_id": "tt13058500",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

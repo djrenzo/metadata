@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/1K2H0rr4kT8uBZRHnRgfCwYOgop.jpg",
+  "created_by": [
+    {
+      "id": 1579026,
+      "credit_id": "61c9cda68813e40054c0d8a1",
+      "name": "Anton Belyaev",
+      "original_name": "Антон Беляев",
+      "gender": 2,
+      "profile_path": "/fc0iiLC22FwbPwNYj2MOImEdt8h.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2019-12-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://premier.one/show/lab-laboratoriya-muzyki-antona-belyaeva",
+  "id": 154231,
+  "in_production": true,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2023-08-21",
+  "last_episode_to_air": {
+    "id": 5002872,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-08-21",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 4,
+    "show_id": 154231,
+    "still_path": "/aTEZGDa6pNc2jP1FJny7z6btM2f.jpg"
+  },
+  "name": "LAB with Anton Belyaev",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3827,
+      "logo_path": "/dvC56dxf4I2ghZwniRFBlpHBZJ0.png",
+      "name": "Kinopoisk",
+      "origin_country": "RU"
+    },
+    {
+      "id": 1191,
+      "logo_path": "/dj89PnCx2Pt7vAE3Fp7n54vvmOt.png",
+      "name": "TNT",
+      "origin_country": "RU"
+    },
+    {
+      "id": 2859,
+      "logo_path": "/sE6SzJwo3yDXntlBohmHNGxmevq.png",
+      "name": "Premier",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 35,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "LAB с Антоном Беляевым",
+  "overview": "A music laboratory where famous artists communicate about their work, perform their compositions in unusual arrangements, and record completely unexpected versions of other musicians' hits.",
+  "popularity": 8.4546,
+  "poster_path": "/zKT86xY7wlqqZZB2PsViQKKbBAu.jpg",
+  "production_companies": [
+    {
+      "id": 32379,
+      "logo_path": "/nagNIYAu5DwvH2n4fuBmBp5cMZx.png",
+      "name": "Comedy Club Production",
+      "origin_country": "RU"
+    },
+    {
+      "id": 293648,
+      "logo_path": "/5pUvmTSnTS0vpCpTdIiRTKUPC2z.png",
+      "name": "Kinopoisk",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 484765,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-17",
+      "episode_count": 10,
+      "id": 237354,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9UAjL1cEIGNob7WNQ18bTBleK7B.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-27",
+      "episode_count": 10,
+      "id": 237367,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/9UAjL1cEIGNob7WNQ18bTBleK7B.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-20",
+      "episode_count": 8,
+      "id": 237370,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zKT86xY7wlqqZZB2PsViQKKbBAu.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-30",
+      "episode_count": 7,
+      "id": 370044,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/2o0EHfZz66QcC861UaOLtmHVsL4.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 154231,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

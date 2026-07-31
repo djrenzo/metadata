@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/k6YoIHGP4lAHoB2ygk7FwocHdxz.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2025-09-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://a1.ro/the-ticket/",
+  "id": 300049,
+  "in_production": true,
+  "languages": [
+    "ro"
+  ],
+  "last_air_date": "2025-12-06",
+  "last_episode_to_air": {
+    "id": 6744035,
+    "name": "Episode 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-06",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 211,
+    "season_number": 1,
+    "show_id": 300049,
+    "still_path": "/bun4EzkJagb5jdeQM5wWW3kw3jG.jpg"
+  },
+  "name": "The Ticket",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 826,
+      "logo_path": "/rXFw15vvldWBxZuJOy0kmrkGFfO.png",
+      "name": "Antena 1",
+      "origin_country": "RO"
+    },
+    {
+      "id": 8509,
+      "logo_path": "/paNwH3CuTrZMmyUCgRYnR7lDpu7.png",
+      "name": "AntenaPLAY",
+      "origin_country": "RO"
+    }
+  ],
+  "number_of_episodes": 14,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_name": "The Ticket",
+  "overview": "The Ticket is a fresh take on the talent show genre that doesn't just judge raw ability, but values how contestants bring their talent to life on stage: through emotion, authenticity, creativity, and scenic impact.",
+  "popularity": 8.96,
+  "poster_path": "/IoxJ26Z7iudIqryX5KBlpW7ic9.jpg",
+  "production_companies": [
+    {
+      "id": 83718,
+      "logo_path": "/xySHk1Qe5jmEhSa01EZ2wp9ekr9.png",
+      "name": "Antena 1",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2025-09-06",
+      "episode_count": 14,
+      "id": 473759,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 300049,
+    "imdb_id": "tt37824045",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 467217,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

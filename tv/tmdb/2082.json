@@ -1,0 +1,327 @@
+{
+  "adult": false,
+  "backdrop_path": "/yiAb3P95kgehDK4RyNG23y9ncXf.jpg",
+  "created_by": [
+    {
+      "id": 4915471,
+      "credit_id": "6860a8d3fb13107332a4d292",
+      "name": "Russell Davies",
+      "original_name": "Russell Davies",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "1987-09-26",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 2082,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2009-12-18",
+  "last_episode_to_air": {
+    "id": 143541,
+    "name": "See How They Run",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-12-18",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 21,
+    "show_id": 2082,
+    "still_path": null
+  },
+  "name": "ChuckleVision",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 15,
+      "logo_path": "/12roOdtGhLUriCtk1Qwu9eD5Nab.png",
+      "name": "CBBC",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 292,
+  "number_of_seasons": 21,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "ChuckleVision",
+  "overview": "ChuckleVision is a long-standing British children's series broadcast from 1987 to 2009. The Chuckle Brothers' famous comedy involves slapstick, other visual gags, wordplay, and catchphrases such as \"To me, to you!\" and \"Oh dear, oh dear!\"",
+  "popularity": 8.9446,
+  "poster_path": "/jx3UMc2daZrcQBWxt6cOsunJW8G.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-09-26",
+      "episode_count": 13,
+      "id": 6299,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/y8monuyoyxRckPFtzWYy31IH8WO.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-11-19",
+      "episode_count": 13,
+      "id": 6301,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/Gif88mAmEV56eni3ThJfjcAEaL.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-12-02",
+      "episode_count": 13,
+      "id": 6300,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/pof9xBG51djr2wGFMILTgNIdvGi.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-28",
+      "episode_count": 15,
+      "id": 6307,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/qLlSwXcMSOE22Xon0re3mizZv4l.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-26",
+      "episode_count": 15,
+      "id": 6308,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/nWpYmt7Ov0bo61CQK5duIlwsDCm.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-08",
+      "episode_count": 15,
+      "id": 6302,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/a7PREvFjl4TdvW9r3WQj8mKRm1W.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-07",
+      "episode_count": 15,
+      "id": 6304,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/1lsJLg977nyh3gc0QToshBeML8K.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-12-20",
+      "episode_count": 15,
+      "id": 6305,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/aDiN3GlmwL7Y1m4WXkPE52VCzkX.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-12-04",
+      "episode_count": 15,
+      "id": 6303,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/6uyOC9tNbq9dd5neKIqQqR1HIuR.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-12-17",
+      "episode_count": 15,
+      "id": 6306,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/nQTvbxESDCXHU2Vb0xQOlEMOIJy.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-22",
+      "episode_count": 16,
+      "id": 6310,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/mc96G0bIAO57upiJXtZ7Usvw9hR.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-12-21",
+      "episode_count": 15,
+      "id": 6311,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/263kYmJGSWvBGYa4omYW5n8aRiw.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-19",
+      "episode_count": 15,
+      "id": 6309,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/49jcnI0GI00H4cn5dKj5O01mAtJ.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-02",
+      "episode_count": 15,
+      "id": 6312,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/6XYO4nKWMAx4wXC6bThE0t5IAib.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-12-24",
+      "episode_count": 15,
+      "id": 6313,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/cnS51aAS9LGaiaisXbNRkl4H4Sc.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-09",
+      "episode_count": 15,
+      "id": 6316,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/43fqQcRXTZxpCoqjDArrCYbTYzp.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-06",
+      "episode_count": 15,
+      "id": 6314,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/aNNWf4LOoy1iQrBufAQPXDjQsH1.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-03-06",
+      "episode_count": 15,
+      "id": 6315,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/kBmdgO6wpHZT4eQ5luIfHCWhVbt.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-05",
+      "episode_count": 15,
+      "id": 6317,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-28",
+      "episode_count": 6,
+      "id": 6318,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-12-11",
+      "episode_count": 6,
+      "id": 6319,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.278,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 2082,
+    "imdb_id": "tt0291596",
+    "freebase_mid": "/m/03b6l5",
+    "freebase_id": "/en/chucklevision",
+    "tvdb_id": 72334,
+    "tvrage_id": 3062,
+    "wikidata_id": "Q5115879",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

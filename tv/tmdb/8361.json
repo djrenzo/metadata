@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/c7HyfB3VPIxN5M54IVs9GxZTOrI.jpg",
+  "created_by": [
+    {
+      "id": 1244781,
+      "credit_id": "5c115292c3a36825230f8351",
+      "name": "Walcyr Carrasco",
+      "original_name": "Walcyr Carrasco",
+      "gender": 2,
+      "profile_path": "/jHccyieekvEgdubgoavpvbkURJN.jpg"
+    },
+    {
+      "id": 2099805,
+      "credit_id": "67710024769852f29012f3aa",
+      "name": "Mário Teixeira",
+      "original_name": "Mário Teixeira",
+      "gender": 2,
+      "profile_path": "/6NygLpB8lfqxNfaB6MbU5Zn27AS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2000-06-26",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://memoriaglobo.globo.com/entretenimento/novelas/o-cravo-e-a-rosa",
+  "id": 8361,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2001-03-10",
+  "last_episode_to_air": {
+    "id": 2012335,
+    "name": "Episode 221",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-03-10",
+    "episode_number": 221,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 8361,
+    "still_path": "/gfKMy8mKbhdOGGhZ7fbwCjztBsY.jpg"
+  },
+  "name": "The Thorn and the Rose",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 221,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "O Cravo e a Rosa",
+  "overview": "A spoiled feminist, daughter of a rich father, even though she doesn't admit it, falls in love with a rustic farmer whom she marries.",
+  "popularity": 9.3241,
+  "poster_path": "/kMNNvkzoLIk8NjIegwq7mNI721O.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-06-26",
+      "episode_count": 221,
+      "id": 114264,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/kMNNvkzoLIk8NjIegwq7mNI721O.jpg",
+      "season_number": 1,
+      "vote_average": 5.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.208,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 8361,
+    "imdb_id": "tt0251503",
+    "freebase_mid": "/m/04zym5g",
+    "freebase_id": "/en/o_cravo_e_a_rosa",
+    "tvdb_id": 275758,
+    "tvrage_id": null,
+    "wikidata_id": "Q3282190",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

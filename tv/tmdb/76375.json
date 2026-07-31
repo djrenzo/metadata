@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/c330sAsFBgnXtWMD3ry3iOnLGFI.jpg",
+  "created_by": [
+    {
+      "id": 3134594,
+      "credit_id": "60d3de3038469a00453ef60a",
+      "name": "Yoon Hyun-jun",
+      "original_name": "윤현준",
+      "gender": 2,
+      "profile_path": "/jVkBGjFLmzMHK9ONMRvE4RETVZA.jpg"
+    },
+    {
+      "id": 3133791,
+      "credit_id": "60d3de62ce4ddc00451a1cfa",
+      "name": "방현영",
+      "original_name": "방현영",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3134598,
+      "credit_id": "60d3de6c38469a00453ef755",
+      "name": "Yoo Gi-hwan",
+      "original_name": "Yoo Gi-hwan",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2015-10-20",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://tv.jtbc.joins.com/sugarman",
+  "id": 76375,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2020-03-06",
+  "last_episode_to_air": {
+    "id": 2042321,
+    "name": "Kei (Lovelyz) & Golden Child vs Jung Eunji (Apink)",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-03-06",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 80,
+    "season_number": 3,
+    "show_id": 76375,
+    "still_path": null
+  },
+  "name": "Two Yoo Project - Sugar Man",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 885,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "투유 프로젝트 – 슈가맨",
+  "overview": "Two teams battle while attempting to revamp an old song by a one-hit wonder who has since disappeared from the public eye.",
+  "popularity": 8.1666,
+  "poster_path": "/7NfFCadK5N4m7UYYU6pwQb7RvL3.jpg",
+  "production_companies": [
+    {
+      "id": 90935,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-08-19",
+      "episode_count": 3,
+      "id": 98811,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/7NfFCadK5N4m7UYYU6pwQb7RvL3.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-20",
+      "episode_count": 39,
+      "id": 97915,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yudAlY2mhNlur439YuvtHs1vsmM.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-14",
+      "episode_count": 19,
+      "id": 97916,
+      "name": "Season 2",
+      "overview": "In season 2, Park Na-rae and Joy (Red Velvet) join as MCs alongside Yoo Jae-suk and You Hee-yeol.",
+      "poster_path": "/c5w9sATJQeX7Goyzni9UU0nVaRQ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-29",
+      "episode_count": 14,
+      "id": 136338,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/fGJnGmB4RwkXbQr4obJhcAg55YJ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 76375,
+    "imdb_id": "tt10159790",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 299879,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "2YOUPROJECT",
+    "instagram_id": "2youproject",
+    "twitter_id": null
+  }
+}

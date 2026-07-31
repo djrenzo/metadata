@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1999-06-07",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.vh1.com/shows/dyn/where_are_they_now/series.jhtml",
+  "id": 16016,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2002-11-28",
+  "last_episode_to_air": {
+    "id": 544082,
+    "name": "Girlie Show",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-11-28",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 16016,
+    "still_path": null
+  },
+  "name": "Where Are They Now?",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 158,
+      "logo_path": "/w9oUxxUiXTC1O1MzJSvsMjQbgft.png",
+      "name": "VH1",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 56,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Where Are They Now?",
+  "overview": "Where Are They Now? was a television series on VH1 that featured past celebrities and updated on their current professional and personal status. Each episode was dedicated to another genre.\n\nThough not always in sequence, some episodes were a continuation of the motif of episodes from the past. Those episodes sometimes had Roman numerals in their title to signify their sequel status.",
+  "popularity": 8.9444,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1999-06-07",
+      "episode_count": 8,
+      "id": 27412,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-06-07",
+      "episode_count": 24,
+      "id": 27413,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-07",
+      "episode_count": 24,
+      "id": 27414,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 16016,
+    "imdb_id": "tt0790397",
+    "freebase_mid": "/m/03y38p7",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 21674,
+    "wikidata_id": "Q7993171",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

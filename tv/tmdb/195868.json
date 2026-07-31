@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/tFwGGfaEJsR9PjRQXazRUYvwOAG.jpg",
+  "created_by": [
+    {
+      "id": 2211422,
+      "credit_id": "64478206e18b9705065af7b9",
+      "name": "Natalie Abrams",
+      "original_name": "Natalie Abrams",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1214624,
+      "credit_id": "6447820ae18b9702fc5af753",
+      "name": "Chad Fiveash",
+      "original_name": "Chad Fiveash",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1214625,
+      "credit_id": "6447821521118f048ff3409c",
+      "name": "James Patrick Stoteraux",
+      "original_name": "James Patrick Stoteraux",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2023-03-14",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cwtv.com/shows/gotham-knights",
+  "id": 195868,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-06-27",
+  "last_episode_to_air": {
+    "id": 4506198,
+    "name": "Night of the Owls",
+    "overview": "Faced with their most dangerous rescue yet, the Gotham Knights realize that trusting each other may be the only way to save themselves and the city of Gotham. Meanwhile, Harvey is faced with an impossible decision that could have devastating consequences.",
+    "vote_average": 6.2,
+    "vote_count": 4,
+    "air_date": "2023-06-27",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 1,
+    "show_id": 195868,
+    "still_path": "/l0sw4xRTI6qrB8WEa7YBIKKvPHi.jpg"
+  },
+  "name": "Gotham Knights",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Gotham Knights",
+  "overview": "In the aftermath of Bruce Wayne's murder, his rebellious adopted son forges an unlikely alliance with the children of Batman's enemies when they are all framed for killing the Caped Crusader.",
+  "popularity": 8.4854,
+  "poster_path": "/5riy7SdIhMhhYcDqeEOICVvXEHS.jpg",
+  "production_companies": [
+    {
+      "id": 27711,
+      "logo_path": "/3e294jszfE6cE8TOogmj0zNd6pL.png",
+      "name": "Berlanti Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-03-14",
+      "episode_count": 13,
+      "id": 284654,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/q7mueLos5bsEQcaQnRgEMzC0VUw.jpg",
+      "season_number": 1,
+      "vote_average": 6.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Hated. Hunted. Heroes.",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 167,
+  "external_ids": {
+    "id": 195868,
+    "imdb_id": "tt16418896",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 420061,
+    "tvrage_id": null,
+    "wikidata_id": "Q111594697",
+    "facebook_id": "CWGothamKnights",
+    "instagram_id": "cwgothamknights",
+    "twitter_id": "TheCW_GothamK"
+  }
+}

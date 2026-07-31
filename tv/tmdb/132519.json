@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/x16lQ6ErB2f0RzqfcnCSc73ovhb.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2021-08-24",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.qub.ca/vrai/les-tatoueuses",
+  "id": 132519,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2021-08-24",
+  "last_episode_to_air": {
+    "id": 3171792,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-08-24",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 132519,
+    "still_path": null
+  },
+  "name": "Les tatoueuses",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5071,
+      "logo_path": "/dqJGTNQiA1fJj24dtipJMc171rI.png",
+      "name": "Vrai",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Les tatoueuses",
+  "overview": "Follow the daily life of six dynamic, modern, authentic women who work in a tattoo parlour in Saint-Georges de Beauce. There will be rock music, eccentric personalities and straight talk.",
+  "popularity": 8.9748,
+  "poster_path": "/iz8Q81VOSmprOt2KpEn8CXfvjKt.jpg",
+  "production_companies": [
+    {
+      "id": 169682,
+      "logo_path": "/dSajIaySHCYM1jsxFVg7lypSATH.png",
+      "name": "Sphère Média",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-08-24",
+      "episode_count": 8,
+      "id": 208676,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 4,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 132519,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2002-01-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 40680,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2007-01-01",
+  "last_episode_to_air": {
+    "id": 1881843,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 6,
+    "show_id": 40680,
+    "still_path": null
+  },
+  "name": "Mensch Markus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 110,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Mensch Markus",
+  "overview": "Mensch Markus is a German television series, starring Markus Maria Profitlich.",
+  "popularity": 9.4066,
+  "poster_path": "/dcuBSuf2ySgA08KWo5iB7Hmv1dX.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 14,
+      "id": 88176,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 15,
+      "id": 129468,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 16,
+      "id": 129469,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 16,
+      "id": 129470,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 19,
+      "id": 129471,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 30,
+      "id": 129472,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 40680,
+    "imdb_id": null,
+    "freebase_mid": "/m/0h64wgb",
+    "freebase_id": null,
+    "tvdb_id": 83585,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

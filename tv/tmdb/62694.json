@@ -1,0 +1,233 @@
+{
+  "adult": false,
+  "backdrop_path": "/a7kYIsyUVVq7kX7FiZN11PLG6F4.jpg",
+  "created_by": [
+    {
+      "id": 219688,
+      "credit_id": "5557aa0f9251411e54006295",
+      "name": "Billy Aronson",
+      "original_name": "Billy Aronson",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1467774,
+      "credit_id": "5557aa20c3a368776a00633b",
+      "name": "Jennifer Oxley",
+      "original_name": "Jennifer Oxley",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2013-10-07",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "http://pbskids.org/peg/",
+  "id": 62694,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-04-27",
+  "last_episode_to_air": {
+    "id": 5501670,
+    "name": "Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-04-27",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 62694,
+    "still_path": null
+  },
+  "name": "Peg + Cat",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 122,
+      "logo_path": "/sTYUkII9IC015VMZEDkUVMnbpFt.png",
+      "name": "PBS Kids",
+      "origin_country": "US"
+    },
+    {
+      "id": 216,
+      "logo_path": "/q0I6cg9HiMt7Jpvpi69cj8t5vOC.png",
+      "name": "Treehouse TV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 176,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Peg + Cat",
+  "overview": "Meet Peg, a curious and spunky preschooler, and her feline companion, Cat, who will rely on math \"to tackle social and relationship issues and everyday problems like cleaning up a messy bedroom,\" Rotenberg says. Some of their dilemmas may be zany — like how to get 100 chickens back into their coop or how to feed a horde of hungry pirates with just one banana — but it's all solvable via mathematics and a zippy song.",
+  "popularity": 8.7519,
+  "poster_path": "/lLLoF9lYMsEq4jPBNczkrCwVjrR.jpg",
+  "production_companies": [
+    {
+      "id": 53562,
+      "logo_path": "/6DPply0cR2I17OzmwORLm5kKZ36.png",
+      "name": "9 Story Media Group",
+      "origin_country": "CA"
+    },
+    {
+      "id": 53561,
+      "logo_path": "/c0NG15NJozlC8jy9XgcQQsI0GVb.png",
+      "name": "CloudKid",
+      "origin_country": "US"
+    },
+    {
+      "id": 53563,
+      "logo_path": null,
+      "name": "9ate7 Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-03-29",
+      "episode_count": 2,
+      "id": 93605,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-07",
+      "episode_count": 80,
+      "id": 66791,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/j9sJmFrFFCtkvYRPIrYdm7TuSDs.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-04-04",
+      "episode_count": 50,
+      "id": 92816,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 9,
+      "id": 449578,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 11,
+      "id": 449579,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 8,
+      "id": 449580,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 449581,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 6,
+      "id": 449582,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 449583,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 62694,
+    "imdb_id": "tt2402500",
+    "freebase_mid": "/m/0xpdlk7",
+    "freebase_id": null,
+    "tvdb_id": 273993,
+    "tvrage_id": 38270,
+    "wikidata_id": "Q16927889",
+    "facebook_id": "PegPlusCatTV",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/rR7eNtmfTjsp2HULevpfyrcKphe.jpg",
+  "created_by": [
+    {
+      "id": 1758908,
+      "credit_id": "58a5ace2c3a3683da1005cfd",
+      "name": "Philippe Traversat",
+      "original_name": "Philippe Traversat",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1232720,
+      "credit_id": "58a5acd2c3a3683d970059ac",
+      "name": "Jean-Yves Raimbaud",
+      "original_name": "Jean-Yves Raimbaud",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    13
+  ],
+  "first_air_date": "1997-09-06",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 11801,
+  "in_production": false,
+  "languages": [
+    "es",
+    "fr",
+    "pt"
+  ],
+  "last_air_date": "2006-05-12",
+  "last_episode_to_air": {
+    "id": 1447486,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-05-12",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 13,
+    "season_number": 2,
+    "show_id": 11801,
+    "still_path": "/p7fpr6MmraIthDTBZuaYhImyGrc.jpg"
+  },
+  "name": "Space Goofs",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 102,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Zinzins de l'espace",
+  "overview": "Five peculiar monsters from a distant galaxy crash land on Earth. Quickly, realizing that if discovered by the government they will end up as laboratory experiments, they hide in the attic of an empty house. But the house is for rent! Our alien friends have a hard and hilarious time getting rid of each new tenant, as they discover that this world of \"strange earthlings\" is even more bizarre than the world they left behind.",
+  "popularity": 7.8402,
+  "poster_path": "/dDy5TItuydtcMIGubp13GBZsQZ1.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-09-06",
+      "episode_count": 50,
+      "id": 22372,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/g6jsaUiJvzw6hjGmzJoHtGWb1ng.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-03",
+      "episode_count": 52,
+      "id": 22373,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ulcwm2dwEuAEOTHMOlAFJE9fv98.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 11801,
+    "imdb_id": "tt0118343",
+    "freebase_mid": "/m/0ctbrm",
+    "freebase_id": "/en/space_goofs",
+    "tvdb_id": 73248,
+    "tvrage_id": null,
+    "wikidata_id": "Q2487639",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

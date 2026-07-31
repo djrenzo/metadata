@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/1Yzp1xTXsqFE6f5TNzfD0eanq7P.jpg",
+  "created_by": [
+    {
+      "id": 2136053,
+      "credit_id": "699d5839c06a3144d9374e56",
+      "name": "Alberto Migré",
+      "original_name": "Alberto Migré",
+      "gender": 2,
+      "profile_path": "/bvJ7EKsVYmJuQI0xWsNkrddbeYU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1986-05-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 217178,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1986-09-05",
+  "last_episode_to_air": {
+    "id": 6980545,
+    "name": "Episode 77",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1986-09-05",
+    "episode_number": 77,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 217178,
+    "still_path": null
+  },
+  "name": "Amor prohibido",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 96,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 77,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Amor prohibido",
+  "overview": "",
+  "popularity": 13.5046,
+  "poster_path": "/mU7fkno9Hd3oCFCrVaqxMKkdnh2.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1986-05-19",
+      "episode_count": 77,
+      "id": 321747,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 217178,
+    "imdb_id": "tt0211776",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1973795",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/fOLkCDkD8inTI2fdfQTXgLHwNZS.jpg",
+  "created_by": [
+    {
+      "id": 931308,
+      "credit_id": "5effc01d5437f5003696dcd9",
+      "name": "Margaret Landon",
+      "original_name": "Margaret Landon",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1972-09-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9952,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1972-11-21",
+  "last_episode_to_air": {
+    "id": 414666,
+    "name": "Serana",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1972-11-21",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 9952,
+    "still_path": "/z7k1XbL7PGvCWE0EPURDEIoVO.jpg"
+  },
+  "name": "Anna and the King",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Anna and the King",
+  "overview": "A stern schoolteacher clashes with an aristocratic 19th-century king.",
+  "popularity": 8.606,
+  "poster_path": "/FUhjqEHxP9ndNObLIRmR4MBFos.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1972-09-11",
+      "episode_count": 13,
+      "id": 19864,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/FUhjqEHxP9ndNObLIRmR4MBFos.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 9952,
+    "imdb_id": "tt0068039",
+    "freebase_mid": "/m/0gnww1",
+    "freebase_id": null,
+    "tvdb_id": 71916,
+    "tvrage_id": 2622,
+    "wikidata_id": "Q2850640",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

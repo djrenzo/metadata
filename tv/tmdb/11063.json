@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1999-08-28",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11063,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2002-05-18",
+  "last_episode_to_air": {
+    "id": 443936,
+    "name": "05/18/02",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-05-18",
+    "episode_number": 142,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 11063,
+    "still_path": null
+  },
+  "name": "WWF Jakked",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 143,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "WWF Jakked",
+  "overview": "WWF Jakked is a professional wrestling television programs produced by World Wrestling Entertainment. The show aired syndicated weekly from 1999 until 2002 and replaced WWF Shotgun Saturday Night. WWF Jakked showed the same matches as WWF Metal with a different announce team. Originally produced under the World Wrestling Federation banner, the show was eventually replaced by WWE Bottom Line in syndication.",
+  "popularity": 9.2535,
+  "poster_path": "/ygQ8pgZT4KL2MoLypPWXq0v0Eu9.jpg",
+  "production_companies": [
+    {
+      "id": 146598,
+      "logo_path": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+      "name": "World Wrestling Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-08-28",
+      "episode_count": 53,
+      "id": 21507,
+      "name": "1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 52,
+      "id": 21508,
+      "name": "2000",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 38,
+      "id": 21509,
+      "name": "2001",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 11063,
+    "imdb_id": "tt0286401",
+    "freebase_mid": "/m/070l5s",
+    "freebase_id": "/en/wwe_jakked_metal",
+    "tvdb_id": 426958,
+    "tvrage_id": 6658,
+    "wikidata_id": "Q137638690",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

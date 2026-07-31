@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/zL2IFr9H3o4H2YSN4r7pn5lRRLE.jpg",
+  "created_by": [
+    {
+      "id": 4251121,
+      "credit_id": "64f49d039e4586010030c5fb",
+      "name": "Jonathan Skogmo",
+      "original_name": "Jonathan Skogmo",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4251120,
+      "credit_id": "64f49cfa7d41aa00e18a5370",
+      "name": "Jason Cilo",
+      "original_name": "Jason Cilo",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-11-15",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.aetv.com/shows/customer-wars",
+  "id": 214132,
+  "in_production": true,
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "last_air_date": "2026-03-24",
+  "last_episode_to_air": {
+    "id": 7206904,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-05",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 214132,
+    "still_path": null
+  },
+  "name": "Customer Wars",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 129,
+      "logo_path": "/ptSTdU4GPNJ1M8UVEOtA0KgtuNk.png",
+      "name": "A&E",
+      "origin_country": "US"
+    },
+    {
+      "id": 1247,
+      "logo_path": "/cy7isDv4qfKnOOWEOn4BHRlqVEr.png",
+      "name": "Z",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Customer Wars",
+  "overview": "With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. “Customer Wars” spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that “The customer is always right” is the exception rather than the rule.",
+  "popularity": 9.3254,
+  "poster_path": "/kwltXNnQkwFR896wTPhkQSKykUX.jpg",
+  "production_companies": [
+    {
+      "id": 162240,
+      "logo_path": null,
+      "name": "Jukin Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-07-11",
+      "episode_count": 17,
+      "id": 348572,
+      "name": "Specials",
+      "overview": "Special Episodes including Top 10 Countdowns.",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-15",
+      "episode_count": 15,
+      "id": 315744,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-06",
+      "episode_count": 12,
+      "id": 342564,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-07",
+      "episode_count": 25,
+      "id": 364887,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-07",
+      "episode_count": 16,
+      "id": 392818,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-04",
+      "episode_count": 14,
+      "id": 439299,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/5UMbiYcF1wahlm07S1ioDDpsRQY.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-15",
+      "episode_count": 12,
+      "id": 465706,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-14",
+      "episode_count": 17,
+      "id": 480014,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-10",
+      "episode_count": 17,
+      "id": 503573,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The customer is always right is the exception rather than the rule.",
+  "type": "Reality",
+  "vote_average": 7.1,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 214132,
+    "imdb_id": "tt23709380",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 425256,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

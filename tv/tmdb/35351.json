@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/mMkJF2yx4cva4ciCvUuJKrIF9w2.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2010-10-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/drama/donghae/",
+  "id": 35351,
+  "in_production": false,
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "last_air_date": "2011-05-13",
+  "last_episode_to_air": {
+    "id": 800454,
+    "name": "Episode 159",
+    "overview": "",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2011-05-13",
+    "episode_number": 159,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 1,
+    "show_id": 35351,
+    "still_path": null
+  },
+  "name": "Smile Again",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 829,
+      "logo_path": "/xH3ldaNUozSEqekkZoU8MqPbNF0.png",
+      "name": "KBS1",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 159,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "웃어라 동해야",
+  "overview": "Raised in America by his mentally handicapped mother Anna, Dong Hae dreams of traveling to Korea to propose to the woman he loves.. After qualifying for a speed skating competition, he smuggles his mother to Korea with him, but his undying devotion to her soon begins causing him problems. Finally reconnecting with his lost love Saewa, Dong Hae finds his affections divided when things don’t work out as he planned in this award-winning daily drama.",
+  "popularity": 9.2342,
+  "poster_path": "/82NWvQzwtNJJVeNXglKRephUExM.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-04",
+      "episode_count": 159,
+      "id": 46083,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gFXMML0G67i1ya5Oq4fkFbxrNZw.jpg",
+      "season_number": 1,
+      "vote_average": 5.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 35351,
+    "imdb_id": "tt6141742",
+    "freebase_mid": "/m/0g9xy0l",
+    "freebase_id": null,
+    "tvdb_id": 249885,
+    "tvrage_id": null,
+    "wikidata_id": "Q493347",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

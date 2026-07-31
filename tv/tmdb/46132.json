@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1257696,
+      "credit_id": "56f95521c3a3686a6700b4f9",
+      "name": "Antonio Ricci",
+      "original_name": "Antonio Ricci",
+      "gender": 2,
+      "profile_path": "/fupnlkApRZ8XVCQlVrwY4Xd5dxl.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50,
+    20,
+    45
+  ],
+  "first_air_date": "1990-12-02",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.paperissima.mediaset.it/",
+  "id": 46132,
+  "in_production": true,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2018-10-14",
+  "last_episode_to_air": {
+    "id": 1681256,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-10-14",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 46132,
+    "still_path": null
+  },
+  "name": "Paperissima Sprint",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 402,
+      "logo_path": "/2cXinuyZFHdOT0hZW9ZSZpcQOe.png",
+      "name": "Italia 1",
+      "origin_country": "IT"
+    },
+    {
+      "id": 537,
+      "logo_path": "/XQOHFLRIHe4qEsIG6pdiJIlPhT.png",
+      "name": "Canale 5",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 471,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Paperissima Sprint",
+  "overview": "",
+  "popularity": 8.5134,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 11228,
+      "logo_path": "/tLdn4pStInhdPQxNyxHFuQQLT50.png",
+      "name": "RTI - Reti Televisive Italiane",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-09-08",
+      "episode_count": 1,
+      "id": 75824,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-12-02",
+      "episode_count": 3,
+      "id": 75801,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-06-19",
+      "episode_count": 85,
+      "id": 75802,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-06-16",
+      "episode_count": 90,
+      "id": 75803,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-06-14",
+      "episode_count": 90,
+      "id": 75804,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-06-11",
+      "episode_count": 90,
+      "id": 75805,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-13",
+      "episode_count": 90,
+      "id": 75806,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-28",
+      "episode_count": 1,
+      "id": 75807,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-09",
+      "episode_count": 1,
+      "id": 75808,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-19",
+      "episode_count": 1,
+      "id": 75809,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-08",
+      "episode_count": 1,
+      "id": 75810,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-27",
+      "episode_count": 1,
+      "id": 75811,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-20",
+      "episode_count": 1,
+      "id": 75812,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-06-06",
+      "episode_count": 1,
+      "id": 75813,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-09",
+      "episode_count": 1,
+      "id": 75814,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-17",
+      "episode_count": 1,
+      "id": 75815,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 1,
+      "id": 75816,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-06-09",
+      "episode_count": 1,
+      "id": 75817,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 1,
+      "id": 75818,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-08",
+      "episode_count": 1,
+      "id": 75819,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 1,
+      "id": 75820,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-13",
+      "episode_count": 1,
+      "id": 75821,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-02",
+      "episode_count": 4,
+      "id": 75822,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-12",
+      "episode_count": 1,
+      "id": 117401,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 1,
+      "id": 117402,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-11",
+      "episode_count": 1,
+      "id": 117403,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-14",
+      "episode_count": 1,
+      "id": 117404,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 46132,
+    "imdb_id": "tt5017292",
+    "freebase_mid": "/m/0ngd9v4",
+    "freebase_id": null,
+    "tvdb_id": 454635,
+    "tvrage_id": null,
+    "wikidata_id": "Q21192467",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

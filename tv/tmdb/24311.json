@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2002-06-23",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 24311,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2003-10-29",
+  "last_episode_to_air": {
+    "id": 640443,
+    "name": "The Whole Truth",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-10-29",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 24311,
+    "still_path": null
+  },
+  "name": "Street Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 67,
+      "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+      "name": "Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 33,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Street Time",
+  "overview": "Follows a fair parole officer and his parolee who wants to go straight but his former business associates are after him.",
+  "popularity": 9.0962,
+  "poster_path": "/lQLfv5GdLfgT7O0Xez5G05yOW8A.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2002-06-23",
+      "episode_count": 20,
+      "id": 34493,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-08-06",
+      "episode_count": 13,
+      "id": 34494,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 2.5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 24311,
+    "imdb_id": null,
+    "freebase_mid": "/m/07cfmcj",
+    "freebase_id": "/en/street_time",
+    "tvdb_id": 83154,
+    "tvrage_id": 5374,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

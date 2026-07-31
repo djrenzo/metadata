@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/wIjd6EBuTDEIXPzSONXRjYCxAGg.jpg",
+  "created_by": [
+    {
+      "id": 1217345,
+      "credit_id": "5258080f19c29531db3cde6a",
+      "name": "Josh Selig",
+      "original_name": "Josh Selig",
+      "gender": 2,
+      "profile_path": "/a4ir1uLKcFVBgbOgpWRYbIA56cv.jpg"
+    },
+    {
+      "id": 1467774,
+      "credit_id": "65cd58dd51e6ab01631ee18d",
+      "name": "Jennifer Oxley",
+      "original_name": "Jennifer Oxley",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2006-03-03",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 10867,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-10-17",
+  "last_episode_to_air": {
+    "id": 5514723,
+    "name": "In the Land of Oz!",
+    "overview": "The Wonder Pets get caught in a tornado and blown to the magical Land of Oz!",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-10-17",
+    "episode_number": 42,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 10867,
+    "still_path": null
+  },
+  "name": "Wonder Pets!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    },
+    {
+      "id": 35,
+      "logo_path": "/o4uC6wQQeyPes8Jg8afsV2CHmLo.png",
+      "name": "Nick Jr.",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Wonder Pets!",
+  "overview": "When school ends for the day, Linny, Tuck and Ming-Ming -- an animated trio of classroom pets -- morph into heroes who sail the globe in their fantastic Flyboat and use teamwork to help pandas, elephants and other animals who are in trouble.",
+  "popularity": 8.6862,
+  "poster_path": "/6qCX45QJccnDdX6jHYkJHDst1o0.jpg",
+  "production_companies": [
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 81908,
+      "logo_path": "/9hRXFr2fmAoVRrbTwXTRwvTcjrj.png",
+      "name": "Little Airplane Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-03-03",
+      "episode_count": 36,
+      "id": 21216,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/c1AFYRo06VGrn6Z8VBNl5mIX9hd.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-19",
+      "episode_count": 38,
+      "id": 21217,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-04-22",
+      "episode_count": 40,
+      "id": 21218,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 44,
+  "external_ids": {
+    "id": 10867,
+    "imdb_id": "tt0775407",
+    "freebase_mid": "/m/0c4z16",
+    "freebase_id": "/en/wonder_pets",
+    "tvdb_id": 79377,
+    "tvrage_id": null,
+    "wikidata_id": "Q874639",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

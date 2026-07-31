@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": "/sg6ZZOIp8gdWwdacRovUG8qdkJ2.jpg",
+  "created_by": [
+    {
+      "id": 3093411,
+      "credit_id": "613654272cde980089dc8b0d",
+      "name": "Linos Christodoulou",
+      "original_name": "Λίνος Χριστοδούλου",
+      "gender": 2,
+      "profile_path": "/d7g4OGJuOQuBytsiDGNWwSkSBV5.jpg"
+    },
+    {
+      "id": 2263852,
+      "credit_id": "6136540b1b7294002aba77dc",
+      "name": "Viki Manoli",
+      "original_name": "Βίκυ Μανώλη",
+      "gender": 1,
+      "profile_path": "/1n8VnSSPUgf6eqrZ5FjZqnOOjXW.jpg"
+    },
+    {
+      "id": 1260490,
+      "credit_id": "6830584e958826d3b141347b",
+      "name": "Maria Georgiadou",
+      "original_name": "Μαρία Γεωργιάδου",
+      "gender": 1,
+      "profile_path": "/c2gEu3yAZAmnRLWbwz6TNL7YQMP.jpg"
+    },
+    {
+      "id": 5456816,
+      "credit_id": "68305864f0b6ebbcb0036489",
+      "name": "Constantine Ganosis",
+      "original_name": "Constantine Ganosis",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2020-09-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.antenna.gr/hlios",
+  "id": 110332,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2022-04-19",
+  "last_episode_to_air": {
+    "id": 3673712,
+    "name": "Episode 140",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-04-19",
+    "episode_number": 140,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 110332,
+    "still_path": null
+  },
+  "name": "The Sun",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 319,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Ήλιος",
+  "overview": "A woman returns with her teenage son, to the beautiful, seaside town where she was born, after 18 years of absence. There she will meet the first love that marked her, but she will also be confronted with her family, the mistakes of the past and the pain of her sister's suicide.",
+  "popularity": 8.7846,
+  "poster_path": "/57IKlNTzajDOSeF2Wjg6ZsiWJ7x.jpg",
+  "production_companies": [
+    {
+      "id": 140827,
+      "logo_path": null,
+      "name": "Pedio Productions",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2020-09-20",
+      "episode_count": 179,
+      "id": 163516,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bCiXWrcJTrcXoXcnGgLykmpgqhp.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 140,
+      "id": 209646,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/tNpV3pAhEtnB806OXHvtYqMdZq7.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 110332,
+    "imdb_id": "tt13135616",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q109326453",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

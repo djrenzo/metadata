@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/4zYJ6hzxVhVZgB5oIL2KtH5JoKg.jpg",
+  "created_by": [
+    {
+      "id": 2225615,
+      "credit_id": "637af50f336e0100b4fa84fb",
+      "name": "Agustín Falco Vázquez",
+      "original_name": "Agustín Falco Vázquez",
+      "gender": 2,
+      "profile_path": "/wSIb5zA4Ok0Q9CqZuRHmR7Ib0VV.jpg"
+    },
+    {
+      "id": 1772481,
+      "credit_id": "637af51531644b007d8123c3",
+      "name": "Arturo Castro Godoy",
+      "original_name": "Arturo Castro Godoy",
+      "gender": 2,
+      "profile_path": "/gMzlUYudhKa5ySOBM9CWT4x8LUy.jpg"
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2015-09-25",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 214804,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2015-12-18",
+  "last_episode_to_air": {
+    "id": 4064996,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-12-18",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 214804,
+    "still_path": null
+  },
+  "name": "Habitación 13",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2672,
+      "logo_path": "/bLcnvFY4lGJYoWWEc2qpAAkgewp.png",
+      "name": "Contar",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Habitación 13",
+  "overview": "An anonymous hotel is the location where thirteen completely different and independent stories take place.",
+  "popularity": 8.5817,
+  "poster_path": "/tcCz2B9bjkfP0f5KyVEiS4F8Kcu.jpg",
+  "production_companies": [
+    {
+      "id": 186709,
+      "logo_path": "/fCWSD4WP2PyDFyMqX9uYyMzdnkT.png",
+      "name": "MUCHASIESTA Cooperativa Audiovisual",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-24",
+      "episode_count": 13,
+      "id": 317090,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tcCz2B9bjkfP0f5KyVEiS4F8Kcu.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 214804,
+    "imdb_id": "tt5530942",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

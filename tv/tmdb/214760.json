@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/rsB7SxQ6mMUqJuJWydTjW5b2wKE.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2012-01-01",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://www.kika.de/schau-in-meine-welt/schau-in-meine-welt-102",
+  "id": 214760,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-03-01",
+  "last_episode_to_air": {
+    "id": 7351152,
+    "name": "Episode 441",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-01",
+    "episode_number": 441,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 214760,
+    "still_path": "/9RVvo3vI3FQHxMFnK5YSY9NKSKi.jpg"
+  },
+  "name": "Schau in meine Welt!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 239,
+      "logo_path": "/1dtumlarEVXeYX1BrUFS9qLoG2Z.png",
+      "name": "KiKa",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 441,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Schau in meine Welt!",
+  "overview": "",
+  "popularity": 8.4004,
+  "poster_path": "/iPoH3MjcN2LYvxqKh18nUonjMKs.jpg",
+  "production_companies": [
+    {
+      "id": 2067,
+      "logo_path": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-11-21",
+      "episode_count": 9,
+      "id": 521451,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 441,
+      "id": 317000,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 214760,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

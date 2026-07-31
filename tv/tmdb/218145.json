@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/l7LRGYJY3NzIGBlpvHpMsNXHbm5.jpg",
+  "created_by": [
+    {
+      "id": 2286831,
+      "credit_id": "63bf2f8ce16e5a008ac6f750",
+      "name": "Matúš Libovič",
+      "original_name": "Matúš Libovič",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 3058041,
+      "credit_id": "63bf2f9ce16e5a007ea91b45",
+      "name": "Miloslav Volný",
+      "original_name": "Miloslav Volný",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-01-09",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://mamanaprenajom.markiza.sk/",
+  "id": 218145,
+  "in_production": true,
+  "languages": [
+    "sk"
+  ],
+  "last_air_date": "2024-12-06",
+  "last_episode_to_air": {
+    "id": 5795113,
+    "name": "Episode 70",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-12-06",
+    "episode_number": 70,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 4,
+    "show_id": 218145,
+    "still_path": null
+  },
+  "name": "Mom for rent",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 550,
+      "logo_path": "/e3v7L2zlVEO1GLH7pv0f1CNFIeK.png",
+      "name": "Markíza",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 359,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Mama na prenájom",
+  "overview": "Abandoned by his wife, Martin is lying to his daughter not to be upset. But as Hanka grows, these lies become unbearable. Martin meets Nada unexpectedly, asked her to be a rent-a-mother and all lives are completely changed.",
+  "popularity": 8.2852,
+  "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+  "production_companies": [
+    {
+      "id": 94720,
+      "logo_path": null,
+      "name": "Markíza Slovakia",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-12-11",
+      "episode_count": 2,
+      "id": 367778,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-09",
+      "episode_count": 109,
+      "id": 323933,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fH7PP2Rkdlo414IHvZABBHhtoqd.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2023-09-04",
+      "episode_count": 70,
+      "id": 354941,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/31YmQACSO7aa9t7N5aCVIRvNNSd.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 110,
+      "id": 372507,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 70,
+      "id": 407701,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.6,
+  "vote_count": 33,
+  "external_ids": {
+    "id": 218145,
+    "imdb_id": "tt26628159",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 430379,
+    "tvrage_id": null,
+    "wikidata_id": "Q116817203",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

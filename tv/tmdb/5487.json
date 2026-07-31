@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": "/ep6X0ekrWS0go3UXPRXmtN6AfNs.jpg",
+  "created_by": [
+    {
+      "id": 1233959,
+      "credit_id": "69260cf916e39e99c1a753ec",
+      "name": "Martin Lisemore",
+      "original_name": "Martin Lisemore",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 79925,
+      "credit_id": "69260d1932845b381130cb2a",
+      "name": "Herbert Wise",
+      "original_name": "Herbert Wise",
+      "gender": 2,
+      "profile_path": "/i33dO3Zcl3yC1UDWtVAFTLdY6oq.jpg"
+    },
+    {
+      "id": 212903,
+      "credit_id": "69260d262f34c8a5d3a75274",
+      "name": "Jack Pulman",
+      "original_name": "Jack Pulman",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    55,
+    100
+  ],
+  "first_air_date": "1976-09-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006mhmk",
+  "id": 5487,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1976-12-06",
+  "last_episode_to_air": {
+    "id": 362866,
+    "name": "Old King Log",
+    "overview": "Almost at the end of his family history, Claudius' thoughts turn to the future of Rome.",
+    "vote_average": 6.444,
+    "vote_count": 9,
+    "air_date": "1976-12-06",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 1,
+    "show_id": 5487,
+    "still_path": "/bDN5dk6wEZnzwrfgs43XtcLReEy.jpg"
+  },
+  "name": "I, Claudius",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "I, Claudius",
+  "overview": "Acclaimed blackly comic historical drama series. Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
+  "popularity": 8.3384,
+  "poster_path": "/oztxNqan7wKvFuCDS55WyUmKNMU.jpg",
+  "production_companies": [
+    {
+      "id": 659,
+      "logo_path": null,
+      "name": "London Films Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 5,
+      "id": 15593,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/vkclMn44n8LtSghKZscq0GiN3CC.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-09-20",
+      "episode_count": 12,
+      "id": 15591,
+      "name": "Miniseries",
+      "overview": "Set amidst a web of power, corruption and lies, it chronicles the reigns of the Roman emperors - Augustus, Tiberius, Caligula and finally Claudius.",
+      "poster_path": "/oztxNqan7wKvFuCDS55WyUmKNMU.jpg",
+      "season_number": 1,
+      "vote_average": 6.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Let all the poisons that lurk in the mud hatch out.",
+  "type": "Miniseries",
+  "vote_average": 7.818,
+  "vote_count": 140,
+  "external_ids": {
+    "id": 5487,
+    "imdb_id": "tt0074006",
+    "freebase_mid": "/m/026_smq",
+    "freebase_id": null,
+    "tvdb_id": 71046,
+    "tvrage_id": 669,
+    "wikidata_id": "Q135096",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

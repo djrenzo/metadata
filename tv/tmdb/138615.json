@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/jG2DObytE3A27GWIg0umr3QPpWw.jpg",
+  "created_by": [
+    {
+      "id": 4035257,
+      "credit_id": "644d438253f83313df192ce4",
+      "name": "Felipe Barenco",
+      "original_name": "Felipe Barenco",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4035258,
+      "credit_id": "644d43868c7b0f07601a100c",
+      "name": "Luciana Cardoso",
+      "original_name": "Luciana Cardoso",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-01-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.band.uol.com.br/entretenimento/faustao-na-band",
+  "id": 138615,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-05-31",
+  "last_episode_to_air": {
+    "id": 4401955,
+    "name": "Episode 108",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-05-31",
+    "episode_number": 108,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 138615,
+    "still_path": null
+  },
+  "name": "Faustão na Band",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 887,
+      "logo_path": "/kHuLvD60gOsZXwiNHpv0H5Yb6ZF.png",
+      "name": "Band",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 358,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Faustão na Band",
+  "overview": "",
+  "popularity": 7.2378,
+  "poster_path": "/mmm1bJiv0sCPh3AXU4ArD3edkmv.jpg",
+  "production_companies": [
+    {
+      "id": 85375,
+      "logo_path": "/62CSDhs9l1DmaSz9rHaai4LcXUP.png",
+      "name": "Band",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-01-17",
+      "episode_count": 250,
+      "id": 219573,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 108,
+      "id": 339064,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 138615,
+    "imdb_id": "tt20517260",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 440786,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "faustaonaband",
+    "instagram_id": "faustaonaband",
+    "twitter_id": "faustaonaband"
+  }
+}

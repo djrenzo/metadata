@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/vGjgCOv9Ac2UvohcqfcqFJ8TKT3.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-13",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.tlc.com/shows/baylen-out-loud",
+  "id": 279644,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-28",
+  "last_episode_to_air": {
+    "id": 7567559,
+    "name": "Dance Now or Forever Hold Your Peace",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-28",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 279644,
+    "still_path": null
+  },
+  "name": "Baylen Out Loud",
+  "next_episode_to_air": {
+    "id": 7606105,
+    "name": "Episode 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-04",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 279644,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 84,
+      "logo_path": "/6GRfZSrYh9D6C88n9kWlyrySB2l.png",
+      "name": "TLC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Baylen Out Loud",
+  "overview": "Follow the journey of Baylen Dupree, a young woman living with Tourette Syndrome. Despite her daily challenges, Baylen, her family, and long-term boyfriend aren't afraid to laugh and embrace the chaos that makes their everyday lives unique.",
+  "popularity": 8.5566,
+  "poster_path": "/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+  "production_companies": [
+    {
+      "id": 55276,
+      "logo_path": "/eFkDTvrelMLfeJRQlCEDpveiB6H.png",
+      "name": "Michael Levitt Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-12-30",
+      "episode_count": 1,
+      "id": 492429,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-13",
+      "episode_count": 9,
+      "id": 433414,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o8p1nrBSqy5uVcADDxtFmIITzNz.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-10-07",
+      "episode_count": 13,
+      "id": 474489,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/tywaFAsUGISmTQ6yg4LIZFpQj7L.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-05-19",
+      "episode_count": 12,
+      "id": 511102,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/shLPMoqKLa2EbVr8DR1TVh8iJv9.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8.8,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 279644,
+    "imdb_id": "tt34881067",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 457477,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

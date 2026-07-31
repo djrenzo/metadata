@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/fvkBwp6U4duACVZfoF2YR88DTXt.jpg",
+  "created_by": [
+    {
+      "id": 3859410,
+      "credit_id": "63b6fb32f04d010087cc56c9",
+      "name": "Nermin Eroğlu",
+      "original_name": "Nermin Eroğlu",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3859408,
+      "credit_id": "63b6fb2e4cbe1200c5fc40e9",
+      "name": "Önder Saraloğlu",
+      "original_name": "Önder Saraloğlu",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2006-07-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 49483,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2007-06-02",
+  "last_episode_to_air": {
+    "id": 3162365,
+    "name": "Episode 48",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-06-02",
+    "episode_number": 48,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 75,
+    "season_number": 1,
+    "show_id": 49483,
+    "still_path": null
+  },
+  "name": "Fırtına",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 1,
+  "origin_country": [],
+  "original_language": "tr",
+  "original_name": "Fırtına",
+  "overview": "",
+  "popularity": 9.007,
+  "poster_path": "/cP7r0EGR6KqaAIuI67OHyFvSqIw.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2006-07-08",
+      "episode_count": 48,
+      "id": 207937,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/uAy2ULJROC7OM0h7Wf1Wj67R83a.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 49483,
+    "imdb_id": "tt0845192",
+    "freebase_mid": "/m/0vb4slz",
+    "freebase_id": null,
+    "tvdb_id": 408889,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-02-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 107155,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2017-02-13",
+  "last_episode_to_air": {
+    "id": 7549911,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-02-13",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 57,
+    "season_number": 1,
+    "show_id": 107155,
+    "still_path": null
+  },
+  "name": "Francisco el Matemático: Clase 2017",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 1,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Francisco el Matemático: Clase 2017",
+  "overview": "The Jimmy Carter School receives Francisco a mathematics teacher that not only teaches to his students mathematics topics, he teaches to themes about lessons of life too.",
+  "popularity": 8.9228,
+  "poster_path": "/zgUwzjbW1uWcDFqt5xr5OyFEe3G.jpg",
+  "production_companies": [
+    {
+      "id": 59028,
+      "logo_path": "/lV4ZJIG0MrYgqFZz1rjhyEUe1Xc.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-02-13",
+      "episode_count": 1,
+      "id": 530841,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.739,
+  "vote_count": 23,
+  "external_ids": {
+    "id": 107155,
+    "imdb_id": "tt6216702",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5868272",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

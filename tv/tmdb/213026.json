@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/9SzAvRAnXghpB4O2gLBTRhO3vhm.jpg",
+  "created_by": [
+    {
+      "id": 1540092,
+      "credit_id": "635531da56b9f7009936c4c1",
+      "name": "Gustavo Reiz",
+      "original_name": "Gustavo Reiz",
+      "gender": 2,
+      "profile_path": "/kQ6Wqzm2DKkztxAWnlJ2xaMxhGn.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-08-14",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 213026,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2024-03-01",
+  "last_episode_to_air": {
+    "id": 5169870,
+    "name": "Episode 173",
+    "overview": "",
+    "vote_average": 5,
+    "vote_count": 1,
+    "air_date": "2024-03-01",
+    "episode_number": 173,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 1,
+    "show_id": 213026,
+    "still_path": "/nWjPXOAqkHZQbtR0YmdiMcYRPp6.jpg"
+  },
+  "name": "Fuzuê",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 173,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Fuzuê",
+  "overview": "The department store Fuzuê, specialized in popular items, is a success led by Nero Braga e Silva. Little does he know that the store's grounds have hidden relics for over 300 years.",
+  "popularity": 8.5302,
+  "poster_path": "/xWGi7jzvoIcOb4nPNQ3z9erpk1Z.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-08-14",
+      "episode_count": 173,
+      "id": 313758,
+      "name": "Season 1",
+      "overview": "In the search for life's treasures, everything ends in craziness (fuzuê). With humor, Brazilianness and mystery, this romantic comedy presents different social and family relationships, against the backdrop of the trajectory of sisters Luna and Preciosa.",
+      "poster_path": "/zNNFg8z3z7uT817n6M0kHRcYwq1.jpg",
+      "season_number": 1,
+      "vote_average": 5.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 35,
+  "external_ids": {
+    "id": 213026,
+    "imdb_id": "tt27925916",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 426526,
+    "tvrage_id": null,
+    "wikidata_id": "Q119039969",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

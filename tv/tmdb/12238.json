@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1953-10-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12238,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1955-07-03",
+  "last_episode_to_air": {
+    "id": 476203,
+    "name": "I Love You, Trudy",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1955-07-03",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 12238,
+    "still_path": null
+  },
+  "name": "The Pepsi-Cola Playhouse",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 92,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Pepsi-Cola Playhouse",
+  "overview": "The Pepsi-Cola Playhouse is an American dramatic anthology series that aired on ABC from 1953 to 1955, sponsored by Pepsi-Cola. The show was hosted by Arlene Dahl, Anita Colby, and, finally, Polly Bergen",
+  "popularity": 8.2199,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1953-10-02",
+      "episode_count": 52,
+      "id": 22971,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-10-03",
+      "episode_count": 40,
+      "id": 22972,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 12238,
+    "imdb_id": "tt0045430",
+    "freebase_mid": "/m/01kmsj",
+    "freebase_id": "/en/the_pepsi-cola_playhouse",
+    "tvdb_id": 76671,
+    "tvrage_id": 6085,
+    "wikidata_id": "Q3988685",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

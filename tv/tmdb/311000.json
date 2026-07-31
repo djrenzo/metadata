@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    14
+  ],
+  "first_air_date": "2015-01-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 311000,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2015-01-05",
+  "last_episode_to_air": {
+    "id": 6849033,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-01-05",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 14,
+    "season_number": 1,
+    "show_id": 311000,
+    "still_path": null
+  },
+  "name": "Secret Garden of Tales",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4000,
+      "logo_path": "/mKutvxzbTsXiRGuvtUgDh8IGm4K.png",
+      "name": "M2",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Kert mesék",
+  "overview": "Our favorite childhood fairy tales now in animated version.",
+  "popularity": 8.2536,
+  "poster_path": "/gUjQaZK80Kf7174SZ0L5JHbBpGe.jpg",
+  "production_companies": [
+    {
+      "id": 132865,
+      "logo_path": null,
+      "name": "Kecskemétfilm",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 6,
+      "id": 494680,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 311000,
+    "imdb_id": "tt4471516",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

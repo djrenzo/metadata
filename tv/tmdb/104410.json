@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2666018,
+      "credit_id": "5ed944d421c4ca0021e779ff",
+      "name": "Jacques Azam",
+      "original_name": "Jacques Azam",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2007-07-08",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 104410,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2012-04-08",
+  "last_episode_to_air": {
+    "id": 2296267,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-04-08",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 2,
+    "show_id": 104410,
+    "still_path": null
+  },
+  "name": "Tangerine & Cow",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2565,
+      "logo_path": "/43vUOZkb5nBAYvYPj7haOeczoqU.png",
+      "name": "Super3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 285,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1655,
+      "logo_path": "/hH6DWsQrWaoLYN3X7TnaqGWJ9CO.png",
+      "name": "Canal+ Family",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 156,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Mandarine & Cow",
+  "overview": "",
+  "popularity": 8.8373,
+  "poster_path": "/9ur2co90tgvddbYBqVgCcOg9ogQ.jpg",
+  "production_companies": [
+    {
+      "id": 132152,
+      "logo_path": null,
+      "name": "Normaal Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11244,
+      "logo_path": "/gCHH1xt3dKjlm9NuMPF9ekpPWD6.png",
+      "name": "France•3",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-07-08",
+      "episode_count": 78,
+      "id": 152743,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-08",
+      "episode_count": 78,
+      "id": 152744,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 104410,
+    "imdb_id": "tt1560854",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 266948,
+    "tvrage_id": null,
+    "wikidata_id": "Q3285453",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

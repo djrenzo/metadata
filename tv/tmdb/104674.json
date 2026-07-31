@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/qzD9QMTseU6RsHkF32008ERa2kE.jpg",
+  "created_by": [
+    {
+      "id": 2674953,
+      "credit_id": "5ee24cd2f36a32001f924ee4",
+      "name": "Simon Evans",
+      "original_name": "Simon Evans",
+      "gender": 2,
+      "profile_path": "/kEMsA2VMSGTXwmttmC9WudEmIMa.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2020-06-10",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/p08dnl67",
+  "id": 104674,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-11-24",
+  "last_episode_to_air": {
+    "id": 4057480,
+    "name": "Knock, Knock",
+    "overview": "The final send-off is upset by betrayal almost at once. But is there still a way through?",
+    "vote_average": 6.7,
+    "vote_count": 6,
+    "air_date": "2022-11-24",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 3,
+    "show_id": 104674,
+    "still_path": "/k4oKgADbhEmxtAvRnGFAGo3RJgn.jpg"
+  },
+  "name": "Staged",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4025,
+      "logo_path": "/n8YeTJow7qmgfjgoQ51Xi2MQezB.png",
+      "name": "BritBox",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Staged",
+  "overview": "David Tennant and Michael Sheen (playing themselves) were due to star in a production of 'Six Characters in Search of an Author' in the West End. The pandemic has put an end to that, but their director (Simon Evans) is determined not to let the opportunity pass them by.",
+  "popularity": 8.5984,
+  "poster_path": "/biZctcKYktjxP6CP2JzaJDoxs5p.jpg",
+  "production_companies": [
+    {
+      "id": 151003,
+      "logo_path": null,
+      "name": "staged films",
+      "origin_country": ""
+    },
+    {
+      "id": 124649,
+      "logo_path": null,
+      "name": "GBC",
+      "origin_country": ""
+    },
+    {
+      "id": 142214,
+      "logo_path": "/16Z9JyKlyfQTdKxfGihK00oCLpQ.png",
+      "name": "Infinity Hill",
+      "origin_country": "GB"
+    },
+    {
+      "id": 219469,
+      "logo_path": "/16Z9JyKlyfQTdKxfGihK00oCLpQ.png",
+      "name": "Infinity Hill",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-03-19",
+      "episode_count": 3,
+      "id": 191290,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/dm8msJgcJUzl4iO92u3S6PPHspM.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-10",
+      "episode_count": 6,
+      "id": 153258,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/ifug7TiUV0q4legTl2jkRIXL196.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 8,
+      "id": 175139,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/10Y8q3BZS8thXEpUosB4pJqBgHu.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2022-11-24",
+      "episode_count": 6,
+      "id": 316607,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/y5RpGGzUnGi5C6WI5oCkjE2sVK5.jpg",
+      "season_number": 3,
+      "vote_average": 6.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.871,
+  "vote_count": 105,
+  "external_ids": {
+    "id": 104674,
+    "imdb_id": "tt12369754",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 382916,
+    "tvrage_id": null,
+    "wikidata_id": "Q96309095",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

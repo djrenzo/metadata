@@ -1,0 +1,181 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1052293,
+      "credit_id": "588897ccc3a3683d8f0046fd",
+      "name": "Nebojša Radosavljević",
+      "original_name": "Nebojša Radosavljević",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1050866,
+      "credit_id": "5888981a9251411ac6008694",
+      "name": "Aleksandar Janković",
+      "original_name": "Aleksandar Janković",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1744898,
+      "credit_id": "588897f0c3a3683e74007c0c",
+      "name": "Suzana Purković",
+      "original_name": "Suzana Purković",
+      "gender": 0,
+      "profile_path": "/oMtOipbyyDwp5V0QuI52j0iUpAT.jpg"
+    },
+    {
+      "id": 558763,
+      "credit_id": "58889808c3a36859e900e7a5",
+      "name": "Dejan Zečević",
+      "original_name": "Dejan Zečević",
+      "gender": 2,
+      "profile_path": "/uOP03TJ68LKrn1Zkg8NJ2uXpsdH.jpg"
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2013-10-13",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.prva.rs/web-tv/serija/sindjelici.html",
+  "id": 68981,
+  "in_production": true,
+  "languages": [
+    "bs"
+  ],
+  "last_air_date": "2019-04-08",
+  "last_episode_to_air": {
+    "id": 5984438,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-04-08",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 5,
+    "show_id": 68981,
+    "still_path": null
+  },
+  "name": "The Sindjelic Family",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1309,
+      "logo_path": "/kcf1jXy3LI49k1tBB0qskDczkip.png",
+      "name": "Prva",
+      "origin_country": "RS"
+    }
+  ],
+  "number_of_episodes": 229,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "RS"
+  ],
+  "original_language": "sr",
+  "original_name": "Синђелићи",
+  "overview": "",
+  "popularity": 7.8802,
+  "poster_path": "/jwF9Wux5RVPHGbK5TA85T2snstu.jpg",
+  "production_companies": [
+    {
+      "id": 25204,
+      "logo_path": "/gFf9pISFzsNKkoDuWVnLwmRF5V0.png",
+      "name": "RTS",
+      "origin_country": "RS"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-10-13",
+      "episode_count": 19,
+      "id": 82611,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/FbBGLQ7RT4SAne1wNGn1X7j4Jp.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-25",
+      "episode_count": 20,
+      "id": 82612,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/FbBGLQ7RT4SAne1wNGn1X7j4Jp.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-25",
+      "episode_count": 50,
+      "id": 82613,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/FbBGLQ7RT4SAne1wNGn1X7j4Jp.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-14",
+      "episode_count": 70,
+      "id": 82610,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/FbBGLQ7RT4SAne1wNGn1X7j4Jp.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-08",
+      "episode_count": 70,
+      "id": 442780,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 68981,
+    "imdb_id": "tt3262294",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 282207,
+    "tvrage_id": null,
+    "wikidata_id": "Q12758873",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

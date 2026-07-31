@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": "/1xSTGSTDYtiF3fVupIiMnlFH5m6.jpg",
+  "created_by": [
+    {
+      "id": 1439913,
+      "credit_id": "6624aeb4cb6db50163ae0100",
+      "name": "Sema Ergenekon",
+      "original_name": "Sema Ergenekon",
+      "gender": 1,
+      "profile_path": "/6aMAd2pnAMGY6RoUKeDpFYSWokS.jpg"
+    },
+    {
+      "id": 1965019,
+      "credit_id": "6624aea863d937016471eb81",
+      "name": "Eylem Canpolat",
+      "original_name": "Eylem Canpolat",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    100
+  ],
+  "first_air_date": "2013-03-29",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.fox.com.tr/Karagul",
+  "id": 50236,
+  "in_production": false,
+  "languages": [
+    "es",
+    "tr"
+  ],
+  "last_air_date": "2016-06-17",
+  "last_episode_to_air": {
+    "id": 1297360,
+    "name": "Episode 38",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-06-17",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 100,
+    "season_number": 4,
+    "show_id": 50236,
+    "still_path": null
+  },
+  "name": "Black Rose",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 303,
+      "logo_path": "/AiTBB9bmnY0F7bMaULSEOtGQYdR.png",
+      "name": "FOX",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 124,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Karagül",
+  "overview": "A married women has to fight for the things she lost because of the revealed secrets of her husband.",
+  "popularity": 8.8529,
+  "poster_path": "/3MGWHmUR0ezgQS5FQbjydG2nfLC.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-03-29",
+      "episode_count": 12,
+      "id": 70644,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1yx6kKGuXr8MWZJVjakjnsIQHYt.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2013-09-20",
+      "episode_count": 37,
+      "id": 70645,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/hi6aN5k6GVQajpbG08nt1mwGEsa.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2014-09-19",
+      "episode_count": 37,
+      "id": 70646,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/jqez1X8xrcRFo8hPAzOpSoOLs29.jpg",
+      "season_number": 3,
+      "vote_average": 5.7
+    },
+    {
+      "air_date": "2015-10-02",
+      "episode_count": 38,
+      "id": 70652,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/4Oj9XH3JQczL05TGbPtjpV4zIfY.jpg",
+      "season_number": 4,
+      "vote_average": 5.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.273,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 50236,
+    "imdb_id": "tt2735484",
+    "freebase_mid": "/m/0vt8tgs",
+    "freebase_id": null,
+    "tvdb_id": 277234,
+    "tvrage_id": null,
+    "wikidata_id": "Q12810246",
+    "facebook_id": "karagultv",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

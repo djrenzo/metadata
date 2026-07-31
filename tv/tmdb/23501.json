@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2001-03-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 23501,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2002-02-18",
+  "last_episode_to_air": {
+    "id": 625333,
+    "name": "We've Come a Long Way",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2002-02-18",
+    "episode_number": 51,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 23501,
+    "still_path": null
+  },
+  "name": "Dr. Rin ni Kiite Mite!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 98,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 51,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "Dr.リンにきいてみて!",
+  "overview": "Meirin Kanzaki, a junior high school student, comes from a family of Feng Shui masters. Her powers are so strong that she has to hide them from her father, so that he never learns that she runs the web page of his greatest Feng Shui rival, Dr Rin! Only her older brother knows the truth. But Meirin is hiding a greater secret - that of her love for her childhood friend, fellow high school member and soccer club hero, Yuuki Asuka. If only he could trust the hidden powers of Feng Shui, for it always shows Meirin the best path to success and happiness.",
+  "popularity": 12.0133,
+  "poster_path": "/78RZ4ox4jYbRF6wcocwEgUbB5GI.jpg",
+  "production_companies": [
+    {
+      "id": 69265,
+      "logo_path": "/5wdB99cH5b8ZpffhKqAywRCpGKR.png",
+      "name": "Studio Comet",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-02-25",
+      "episode_count": 1,
+      "id": 33483,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-03-05",
+      "episode_count": 51,
+      "id": 33482,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 23501,
+    "imdb_id": null,
+    "freebase_mid": "/m/07cf9g2",
+    "freebase_id": "/en/dr_rin_ni_kiitemite",
+    "tvdb_id": 167801,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

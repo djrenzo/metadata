@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/pYpJd7irgQg5iz1UonwLcqFyeHa.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2018-07-04",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.rtve.es/playz/nosotrxs-somos/",
+  "id": 80622,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-07-04",
+  "last_episode_to_air": {
+    "id": 1845779,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-07-04",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 80622,
+    "still_path": "/2bbRl3sUBrFfaqvoS8rrdtFNHMV.jpg"
+  },
+  "name": "Nosotrxs Somos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2596,
+      "logo_path": "/jK7ok6h1ygebBGTI5vfj7H8qbWw.png",
+      "name": "PlayZ",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 7,
+  "number_of_seasons": 1,
+  "origin_country": [],
+  "original_language": "es",
+  "original_name": "Nosotrxs Somos",
+  "overview": "",
+  "popularity": 8.2113,
+  "poster_path": "/48VYZ6KNVS89v3fKQqGl6FPDmfR.jpg",
+  "production_companies": [
+    {
+      "id": 981,
+      "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-07-04",
+      "episode_count": 7,
+      "id": 105920,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 80622,
+    "imdb_id": "tt9174864",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 349970,
+    "tvrage_id": null,
+    "wikidata_id": "Q118767466",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

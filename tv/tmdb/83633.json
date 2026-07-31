@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/urHGapwbtaZWMW6zD724zVgac3V.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2018-10-13",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/doc-humanite/site",
+  "id": 83633,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-07-30",
+  "last_episode_to_air": {
+    "id": 3801194,
+    "name": "Episode 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-07-30",
+    "episode_number": 36,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 83633,
+    "still_path": null
+  },
+  "name": "Doc humanité",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 230,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Doc humanité",
+  "overview": "A program featuring independent documentaries produced in Canada and abroad exploring regional, provincial, national and international perspectives. Through these films, Doc humanité seeks to reveal, share, show and explain the big issues of our time in all spheres of human endeavour and contribute to an improved understanding of Canada’s place in the modern world.",
+  "popularity": 9.1515,
+  "poster_path": "/oh2Z2hiwqgUOmuEXJtWkUhvZKIn.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-10-13",
+      "episode_count": 55,
+      "id": 111821,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rY3suvtSbH45BatdmhaTROf8Bih.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-14",
+      "episode_count": 70,
+      "id": 132004,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/pH6KGiPZ9hxOh3hMpD49P7M8ITM.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-18",
+      "episode_count": 69,
+      "id": 160786,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-11",
+      "episode_count": 36,
+      "id": 208950,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 83633,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

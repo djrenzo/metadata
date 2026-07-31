@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/252CNbHbqITvIocQ2qws2aCpWCg.jpg",
+  "created_by": [
+    {
+      "id": 77147,
+      "credit_id": "5a6e26fe0e0a265f10023f91",
+      "name": "John Erick Dowdle",
+      "original_name": "John Erick Dowdle",
+      "gender": 2,
+      "profile_path": "/mLk9hP0qznRLRKBkMM1bHWfoCGi.jpg"
+    },
+    {
+      "id": 142520,
+      "credit_id": "5a6e2705925141075a01d6d2",
+      "name": "Drew Dowdle",
+      "original_name": "Drew Dowdle",
+      "gender": 2,
+      "profile_path": "/as0aIr9ApoS7ZHBMIPWdHFkJgmD.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2018-01-24",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.paramountnetwork.com/shows/waco",
+  "id": 74140,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-02-28",
+  "last_episode_to_air": {
+    "id": 1433276,
+    "name": "Day 51",
+    "overview": "The standoff at the Mount Carmel compound comes to a violent and tragic end.",
+    "vote_average": 9,
+    "vote_count": 14,
+    "air_date": "2018-02-28",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 74140,
+    "still_path": "/nuZJUIpf0jFipwqVOr2Nyk4WwWd.jpg"
+  },
+  "name": "Waco",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2076,
+      "logo_path": "/4knr4ozp2IQrA3SMQlLSYKcM3ML.png",
+      "name": "Paramount Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Waco",
+  "overview": "The harrowing true story of the 1993 standoff between the FBI, ATF and the Branch Davidians, a spiritual sect led by David Koresh in Waco, TX that resulted in a deadly shootout and fire.",
+  "popularity": 8.2157,
+  "poster_path": "/14q24aBfJPrjumuWjKKA6Bwml2A.jpg",
+  "production_companies": [
+    {
+      "id": 66930,
+      "logo_path": null,
+      "name": "Brothers Dowdle Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-24",
+      "episode_count": 12,
+      "id": 98961,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-24",
+      "episode_count": 6,
+      "id": 93254,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/zPIl1MWjMyi7k5KQmO7yjPcBsBt.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.434,
+  "vote_count": 250,
+  "external_ids": {
+    "id": 74140,
+    "imdb_id": "tt6040674",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 337749,
+    "tvrage_id": null,
+    "wikidata_id": "Q30608496",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

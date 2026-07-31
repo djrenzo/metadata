@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2084001,
+      "credit_id": "647793160e29a200f97febf1",
+      "name": "Max Nunes",
+      "original_name": "Max Nunes",
+      "gender": 2,
+      "profile_path": "/5gIO8GzLiVgvSYjk6CjTsVmr5Fr.jpg"
+    },
+    {
+      "id": 5126263,
+      "credit_id": "67620f0f178bde9bac4a16f3",
+      "name": "Haroldo Barbosa",
+      "original_name": "Haroldo Barbosa",
+      "gender": 2,
+      "profile_path": "/AoVNHAqAnImKT3dTXERNPNESnb6.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1973-04-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 227578,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1975-10-20",
+  "last_episode_to_air": {
+    "id": 5956687,
+    "name": "Episode 41",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1975-10-20",
+    "episode_number": 41,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 227578,
+    "still_path": null
+  },
+  "name": "Satiricom",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 128,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Satiricom",
+  "overview": "",
+  "popularity": 8.4963,
+  "poster_path": "/posSWsObnMZ98rcnLp0vzqZtcXE.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1973-04-02",
+      "episode_count": 38,
+      "id": 343250,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-14",
+      "episode_count": 49,
+      "id": 343252,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-13",
+      "episode_count": 41,
+      "id": 343253,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 227578,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

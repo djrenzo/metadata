@@ -1,0 +1,265 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    28
+  ],
+  "first_air_date": "2006-09-26",
+  "genres": [],
+  "homepage": "",
+  "id": 20360,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2015-05-14",
+  "last_episode_to_air": {
+    "id": 3770879,
+    "name": "Episode 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-05-14",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 17,
+    "show_id": 20360,
+    "still_path": null
+  },
+  "name": "Golden Goal",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 727,
+      "logo_path": "/mFnsYy0JwlSgIOv3dzqZ1KvFXMQ.png",
+      "name": "TV 2 Zebra",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 229,
+  "number_of_seasons": 17,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Golden Goal",
+  "overview": "Golden Goal is a comedy talkshow about sports, hosted by Johan Golden and Henrik Elvestad on Norwegian TV2. The show features interviews with athletes, presentations of exotic and unusual sports from around the world, comedic reenactments of sports history events, and tests of \"improvements\" to well known sports. The show is currently – in its 3rd season - holding a market share of about 35% in its time slot.",
+  "popularity": 8.3196,
+  "poster_path": "/5PXjnj2tdsBtwtE2ZK22P09u09W.jpg",
+  "production_companies": [
+    {
+      "id": 67216,
+      "logo_path": "/e3AOYXCR50ov2R8faMlrD7zkpeb.png",
+      "name": "Rubicon TV AS",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-05-24",
+      "episode_count": 2,
+      "id": 30401,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-26",
+      "episode_count": 11,
+      "id": 30388,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-13",
+      "episode_count": 13,
+      "id": 30393,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 14,
+      "id": 30389,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-31",
+      "episode_count": 14,
+      "id": 30390,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-18",
+      "episode_count": 14,
+      "id": 30391,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-02-05",
+      "episode_count": 14,
+      "id": 30392,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-18",
+      "episode_count": 14,
+      "id": 30394,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-28",
+      "episode_count": 14,
+      "id": 30395,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-09",
+      "episode_count": 14,
+      "id": 30396,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-03",
+      "episode_count": 14,
+      "id": 30397,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-15",
+      "episode_count": 14,
+      "id": 30398,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-09",
+      "episode_count": 13,
+      "id": 30399,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-13",
+      "episode_count": 13,
+      "id": 30400,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-01",
+      "episode_count": 13,
+      "id": 30402,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-27",
+      "episode_count": 12,
+      "id": 296736,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-18",
+      "episode_count": 14,
+      "id": 296737,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-05",
+      "episode_count": 14,
+      "id": 296738,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 20360,
+    "imdb_id": null,
+    "freebase_mid": "/m/03nrj72",
+    "freebase_id": null,
+    "tvdb_id": 82648,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

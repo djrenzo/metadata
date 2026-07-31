@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/7OkTBbtF1V8BFNYkLHnHmHk1bXa.jpg",
+  "created_by": [
+    {
+      "id": 5840031,
+      "credit_id": "6926cf19a298fb991b30cd31",
+      "name": "Alexandre Taliercio",
+      "original_name": "Alexandre Taliercio",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 5840032,
+      "credit_id": "6926cf2b6a65040263c11f70",
+      "name": "Olivier Landy-Meersseman",
+      "original_name": "Olivier Landy-Meersseman",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2014-02-14",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.m6.fr/tahiti-quest-p_20940",
+  "id": 98165,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2021-12-17",
+  "last_episode_to_air": {
+    "id": 3398366,
+    "name": "Episode 4",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-17",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 5,
+    "show_id": 98165,
+    "still_path": "/hjMDl5jwAxYhiQ8JiZqvd8Y5XOE.jpg"
+  },
+  "name": "Tahiti Quest",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2638,
+      "logo_path": "/4b8ZM73YKqFCJLbQB70Pyw5wQCK.png",
+      "name": "Gulli",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7702,
+      "logo_path": "/fspcmygnQucVZlVabyVJEDtQeC4.png",
+      "name": "M6+",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 23,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Tahiti Quest",
+  "overview": "",
+  "popularity": 9.1342,
+  "poster_path": "/lESZ52PzyrZKz3ptzrrw7EM9DnR.jpg",
+  "production_companies": [
+    {
+      "id": 84927,
+      "logo_path": "/xMQMt41IqNo19KDkwn62esl7isn.png",
+      "name": "Ah! Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PF",
+      "name": "French Polynesia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-02-14",
+      "episode_count": 5,
+      "id": 486580,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o3sjzDG4pvNRnhCFleOngx6s8HW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-06",
+      "episode_count": 5,
+      "id": 486581,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/Z4h3ZSKDlthCsiybkE6dcdkIE4.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-13",
+      "episode_count": 5,
+      "id": 486582,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/k8mS0z72qymgbamzou7JpiFMhLa.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-11",
+      "episode_count": 4,
+      "id": 141319,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/2CXwcEnijFdXJNXXWdvUXbdMwRV.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-11-27",
+      "episode_count": 4,
+      "id": 235841,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/zwqlyoV1fKRKGe410dzYhadjR0F.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 98165,
+    "imdb_id": "tt5858964",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

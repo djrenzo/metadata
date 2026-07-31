@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/jng9VE6bnzoejV4Evg9GFtSCBgv.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1957-09-20",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 12512,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1960-06-21",
+  "last_episode_to_air": {
+    "id": 482632,
+    "name": "The Bad Apple",
+    "overview": "Ballinger and M squad are called in to investigate a diamond robbery. All the evidence points to an inside job. M squad have the tough task of working out who was the inside connection.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1960-06-21",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 3,
+    "show_id": 12512,
+    "still_path": null
+  },
+  "name": "M Squad",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 117,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "M Squad",
+  "overview": "Lt. Frank Ballinger is a no-nonsense plain clothes cop in the elite M Squad Division. The Squad's task is to root out organised crime and corruption in America's Second City, Chicago.",
+  "popularity": 9.2567,
+  "poster_path": "/8mDoUftlI60WeGmlp35NJ6XRfrk.jpg",
+  "production_companies": [
+    {
+      "id": 10044,
+      "logo_path": null,
+      "name": "Revue Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 56315,
+      "logo_path": null,
+      "name": "Latimer Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1957-09-20",
+      "episode_count": 38,
+      "id": 23391,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1958-09-19",
+      "episode_count": 40,
+      "id": 23392,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-09-18",
+      "episode_count": 39,
+      "id": 23390,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.429,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 12512,
+    "imdb_id": "tt0050035",
+    "freebase_mid": "/m/04cl42",
+    "freebase_id": "/en/m_squad",
+    "tvdb_id": 70688,
+    "tvrage_id": 4547,
+    "wikidata_id": "Q1207354",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

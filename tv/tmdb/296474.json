@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-01-07",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 296474,
+  "in_production": false,
+  "languages": [
+    "az"
+  ],
+  "last_air_date": "2017-12-16",
+  "last_episode_to_air": {
+    "id": 6396108,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-16",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 2,
+    "show_id": 296474,
+    "still_path": "/z1mlJIhwgH1sw4Ge7ivOoAfUjSk.jpg"
+  },
+  "name": "Shadow",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7675,
+      "logo_path": "/sOAgbZF9ELjXKojWw8OiUQ0gWFi.png",
+      "name": "Xəzər TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "AZ"
+  ],
+  "original_language": "az",
+  "original_name": "Kölgə",
+  "overview": "",
+  "popularity": 8.7685,
+  "poster_path": "/wrmQgLlgf1PYMcsupCEp8izgZt9.jpg",
+  "production_companies": [
+    {
+      "id": 196470,
+      "logo_path": "/c5BihJfbK2psVe2diFZWlHIkC1V.png",
+      "name": "Xəzər TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AZ",
+      "name": "Azerbaijan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-07",
+      "episode_count": 21,
+      "id": 466327,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-23",
+      "episode_count": 13,
+      "id": 466329,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Azərbaycan"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 296474,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

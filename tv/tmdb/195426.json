@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/zhVXmvQZsEJMps8NUkTiGHDAGDE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2022-12-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.atresplayer.com/series/upa-next/",
+  "id": 195426,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2023-06-18",
+  "last_episode_to_air": {
+    "id": 4336754,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-06-18",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 1,
+    "show_id": 195426,
+    "still_path": "/mbjcs0IDkXdMQ8g4GMBiJtOUUf0.jpg"
+  },
+  "name": "UPA Next",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3744,
+      "logo_path": "/t6FPoKU3jDeCtIFpbxiIkhkQ5gm.png",
+      "name": "Atresplayer",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 9,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "UPA Next",
+  "overview": "",
+  "popularity": 8.4276,
+  "poster_path": "/4ilyVastOgBKfdU1dc0TdEkIawe.jpg",
+  "production_companies": [
+    {
+      "id": 14842,
+      "logo_path": null,
+      "name": "Globo Media S.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 29566,
+      "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+      "name": "Atresmedia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-08-14",
+      "episode_count": 3,
+      "id": 305582,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/s4I5lwh12ceSX2OU0Tkri3vkGPX.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-25",
+      "episode_count": 8,
+      "id": 283837,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4ilyVastOgBKfdU1dc0TdEkIawe.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 358341,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 195426,
+    "imdb_id": "tt16426058",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 413417,
+    "tvrage_id": null,
+    "wikidata_id": "Q115800126",
+    "facebook_id": null,
+    "instagram_id": "upa_next",
+    "twitter_id": "upa"
+  }
+}

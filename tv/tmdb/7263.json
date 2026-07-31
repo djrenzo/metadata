@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/iw1nqLAcPbsrcYYEgrkNKezWQDj.jpg",
+  "created_by": [
+    {
+      "id": 135606,
+      "credit_id": "68e8c3f2cfd13f9eb130c3bf",
+      "name": "Henning Mankell",
+      "original_name": "Henning Mankell",
+      "gender": 2,
+      "profile_path": "/ahF41DDyoynErWUZmUvDcstMY8q.jpg"
+    }
+  ],
+  "episode_run_time": [
+    89
+  ],
+  "first_air_date": "2008-11-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b00pxtct",
+  "id": 7263,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2016-05-22",
+  "last_episode_to_air": {
+    "id": 385789,
+    "name": "The Troubled Man",
+    "overview": "His memory is going to pieces and he is no longer officially on duty, but Wallander draws on all his resources to find Linda’s missing father-in-law, a former top official in the Swedish navy, obsessed with a decades-old submarine mystery. Slowly losing his grip on reality, Wallander is desperate to solve this one last case.",
+    "vote_average": 7.25,
+    "vote_count": 12,
+    "air_date": "2016-05-22",
+    "episode_number": 3,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 89,
+    "season_number": 4,
+    "show_id": 7263,
+    "still_path": "/1m8BhDJM36nD003PoRt3ebruHun.jpg"
+  },
+  "name": "Wallander",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Wallander",
+  "overview": "This drama follows Inspector Kurt Wallander – a middle-aged everyman – as he struggles against a rising tide of violence in the apparently sleepy backwaters in and around Ystad in Skane, southern Sweden. Based on the international best-selling books by Henning Mankell.",
+  "popularity": 9.3239,
+  "poster_path": "/xK5jgSqoOfKwNG0WwrFObmIq0YJ.jpg",
+  "production_companies": [
+    {
+      "id": 5340,
+      "logo_path": "/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png",
+      "name": "Left Bank Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5746,
+      "logo_path": "/sWgSj9muRStENKBoIoaDK6OZmDu.png",
+      "name": "Yellow Bird",
+      "origin_country": "SE"
+    },
+    {
+      "id": 38227,
+      "logo_path": null,
+      "name": "TKBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-12-06",
+      "episode_count": 6,
+      "id": 17450,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/w2nlzcd30oqcZ8vwIZezakm4eIk.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-11-30",
+      "episode_count": 3,
+      "id": 17448,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/cCM2pjoFL2uVusVEiK9XN6rYzGL.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 3,
+      "id": 17449,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/q1Ho3CTeuzkEfqa7HZo0PgFhxTa.jpg",
+      "season_number": 2,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2012-07-08",
+      "episode_count": 3,
+      "id": 17451,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": "/lt68Zf8TEA2IksvPmNLYO4NSj3m.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-05-08",
+      "episode_count": 3,
+      "id": 17452,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": "/sQQ0zbiyjH9uu5Yz0LlRCDcD19U.jpg",
+      "season_number": 4,
+      "vote_average": 7.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.383,
+  "vote_count": 154,
+  "external_ids": {
+    "id": 7263,
+    "imdb_id": "tt1178618",
+    "freebase_mid": "/m/0414yr7",
+    "freebase_id": null,
+    "tvdb_id": 83925,
+    "tvrage_id": 18175,
+    "wikidata_id": "Q1041885",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

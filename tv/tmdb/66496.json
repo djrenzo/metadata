@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/col8IFqOjTZH6412I1bjum5MrL8.jpg",
+  "created_by": [
+    {
+      "id": 1761327,
+      "credit_id": "5e907b42197de4001307875f",
+      "name": "Yun Seong-sik",
+      "original_name": "윤성식",
+      "gender": 2,
+      "profile_path": "/yzCCsFkqgFLhcUgfDFWlTd7enKv.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2016-12-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "http://www.kbs.co.kr/drama/hwarang/",
+  "id": 66496,
+  "in_production": false,
+  "languages": [
+    "zh",
+    "en",
+    "ko"
+  ],
+  "last_air_date": "2017-02-21",
+  "last_episode_to_air": {
+    "id": 1264300,
+    "name": "Hail King Jinheung!",
+    "overview": "Jinheung and Seon-u come face to face. Su-ho suspects foul play. Jiso may have a traitor on her hands. The hwarang stand behind their choice.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-02-21",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 1,
+    "show_id": 66496,
+    "still_path": "/5JZreR9hIe9Kr0eoKCItyFCSfpi.jpg"
+  },
+  "name": "Hwarang: The Poet Warrior Youth",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 342,
+      "logo_path": "/nFmWwUAf2D3iAtizUcmkxufaM0q.png",
+      "name": "KBS2",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "화랑",
+  "overview": "An elite group of young warriors trained in morals and martial arts finds love and friendship in Silla during Korea’s ancient Three Kingdoms period.",
+  "popularity": 8.8874,
+  "poster_path": "/sXEiMRfG2IiSpa7gVWY401L6n21.jpg",
+  "production_companies": [
+    {
+      "id": 86763,
+      "logo_path": null,
+      "name": "Hwarang SPC",
+      "origin_country": ""
+    },
+    {
+      "id": 86764,
+      "logo_path": null,
+      "name": "Oh!Boy Project",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-12-19",
+      "episode_count": 20,
+      "id": 77059,
+      "name": "Season 1",
+      "overview": "An elite group of young warriors trained in morals and martial arts finds love and friendship in Silla during Korea’s ancient Three Kingdoms period.",
+      "poster_path": "/yVH3RcMZOKxdHXoQn3LrRtQwClm.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 282,
+  "external_ids": {
+    "id": 66496,
+    "imdb_id": "tt5646594",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 311657,
+    "tvrage_id": null,
+    "wikidata_id": "Q21997754",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

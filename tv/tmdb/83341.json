@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/9q3xa1lcHKfSSFPA5fKhdeRVbBF.jpg",
+  "created_by": [
+    {
+      "id": 1586892,
+      "credit_id": "69ea13996ff0da091d0f5162",
+      "name": "Acun Ilıcalı",
+      "original_name": "Acun Ilıcalı",
+      "gender": 2,
+      "profile_path": "/pdsO9unfAerz8E5fneAmmipzzCa.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-04-30",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://m.exatlon.co/",
+  "id": 83341,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2018-09-07",
+  "last_episode_to_air": {
+    "id": 7182040,
+    "name": "Episode 95",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-09-07",
+    "episode_number": 95,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 83341,
+    "still_path": null
+  },
+  "name": "Exatlón Colombia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 95,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Exatlón Colombia",
+  "overview": "20 participants face different physical tests demonstrating their strength, ability, intelligence and courage to emerge victorious.",
+  "popularity": 8.8136,
+  "poster_path": "/x67swiUsObaxZXvhHustpg7vY6i.jpg",
+  "production_companies": [
+    {
+      "id": 73944,
+      "logo_path": "/30KK4vVERYweMmdr16ppYk9ir5U.png",
+      "name": "Acun Medya",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    },
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-04-30",
+      "episode_count": 95,
+      "id": 111329,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 83341,
+    "imdb_id": "tt8352420",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 346739,
+    "tvrage_id": null,
+    "wikidata_id": "Q52521555",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

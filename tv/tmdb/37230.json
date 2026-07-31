@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/65ksWNmrCtypBA2OlnpjD7cxmhW.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2002-09-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/archives/asadora/drama/d_067.html",
+  "id": 37230,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2003-03-29",
+  "last_episode_to_air": {
+    "id": 842857,
+    "name": "Episode 150",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-03-29",
+    "episode_number": 150,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 37230,
+    "still_path": null
+  },
+  "name": "Manten",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 469,
+      "logo_path": "/3E5bxm9VfOU9LkAX545jtpKAe6Z.png",
+      "name": "NHK G",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 150,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "まんてん",
+  "overview": "",
+  "popularity": 8.5451,
+  "poster_path": "/p0aol47WfFYLaLF3GjqVpNd5FBu.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-09-30",
+      "episode_count": 150,
+      "id": 48447,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/p0aol47WfFYLaLF3GjqVpNd5FBu.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 37230,
+    "imdb_id": "tt1817472",
+    "freebase_mid": "/m/0gftylq",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q11278716",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

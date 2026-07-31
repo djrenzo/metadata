@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2012-07-11",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 123370,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2012-08-07",
+  "last_episode_to_air": {
+    "id": 4020265,
+    "name": "Episode 28",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-08-07",
+    "episode_number": 28,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 123370,
+    "still_path": null
+  },
+  "name": "Kendimize Doğru",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 962,
+      "logo_path": "/ocg7ggjBkHjBoWsivNoLfcepQHi.png",
+      "name": "Samanyolu TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 28,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Kendimize Doğru",
+  "overview": "",
+  "popularity": 8.9718,
+  "poster_path": "/sqgayFiGnSOzfaCoV4imoRagdSb.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2012-07-11",
+      "episode_count": 28,
+      "id": 190670,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 123370,
+    "imdb_id": "tt8813568",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

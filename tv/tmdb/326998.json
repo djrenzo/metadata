@@ -1,0 +1,202 @@
+{
+  "adult": false,
+  "backdrop_path": "/c30vPbFDDGYv1I6xcxpNfUdWdNg.jpg",
+  "created_by": [
+    {
+      "id": 1494060,
+      "credit_id": "6a462e583fcd4b5e2ef1c824",
+      "name": "Mark Fischbach",
+      "original_name": "Mark Fischbach",
+      "gender": 2,
+      "profile_path": "/2y59nq7vipTBdRMmMTsy1d4HeiG.jpg"
+    },
+    {
+      "id": 2963973,
+      "credit_id": "6a462e641f828b453ad6434b",
+      "name": "Robert Muyskens",
+      "original_name": "Robert Muyskens",
+      "gender": 2,
+      "profile_path": "/mjlDhxuQbZ0tje85ltJTJW6QU60.jpg"
+    },
+    {
+      "id": 2612484,
+      "credit_id": "6a462e6b0140435ccd05a028",
+      "name": "Wade Barnes",
+      "original_name": "Wade Barnes",
+      "gender": 2,
+      "profile_path": "/g6EMCEkBzXnPIONszrgBz1Blqa1.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-05-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 326998,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2026-07-05",
+  "last_episode_to_air": {
+    "id": 7494710,
+    "name": "Wade Definitely Has A Topic",
+    "overview": "The guys make up for lost small talk and discuss the highs and lows of this year so far.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 66,
+    "season_number": 6,
+    "show_id": 326998,
+    "still_path": "/oe9H30xeQAMi1pkNS8vhM3m23Pq.jpg"
+  },
+  "name": "Distractible",
+  "next_episode_to_air": {
+    "id": 7494713,
+    "name": "TBD",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-02",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 6,
+    "show_id": 326998,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 9167,
+      "logo_path": "/7JoJ2YECl18XBFVriFPWXMS2LeC.png",
+      "name": "Spotify",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 412,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Distractible",
+  "overview": "The Distractible Podcast with Mark Fischbach, Wade Barnes, and Bob Muyskens is a space to have thoughtful discussions about funny, out there, or otherwise interesting stories from everyday life. Also an opportunity for three friends to remind each other they are not as smart as they think.",
+  "popularity": 8.2816,
+  "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+  "production_companies": [
+    {
+      "id": 89766,
+      "logo_path": "/ejwASg9BEjGjscTrzboYigfY1vb.png",
+      "name": "Spotify",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2023-05-16",
+      "episode_count": 26,
+      "id": 526266,
+      "name": "Specials",
+      "overview": "Sometimes, Mark, Bob, and Wade are feeling generous... or need a break",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-17",
+      "episode_count": 45,
+      "id": 525961,
+      "name": "Season 1",
+      "overview": "Mark, Bob, and Wade start their first year as separate but equal co-hosts",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-27",
+      "episode_count": 50,
+      "id": 526001,
+      "name": "Season 2",
+      "overview": "Mark, Bob, and Wade start their second year and begin to blur the lines between equality",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-08",
+      "episode_count": 99,
+      "id": 526244,
+      "name": "Season 3",
+      "overview": "Mark, Bob, and Wade have opened their eyes to the wonders of Spotify Exclusivity",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-25",
+      "episode_count": 101,
+      "id": 526651,
+      "name": "Season 4",
+      "overview": "Mark, Bob, and Wade learn to follow the rules...sometimes",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-21",
+      "episode_count": 110,
+      "id": 526739,
+      "name": "Season 5",
+      "overview": "Mark, Bob, and Wade try doing this with even more arbitrary rules",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-05-24",
+      "episode_count": 15,
+      "id": 527977,
+      "name": "Season 6",
+      "overview": "The Boys are back in action for some more wacky, and weird fun",
+      "poster_path": "/lVTOhm0Y5uSxqFgH4XH5jIOzdYu.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 326998,
+    "imdb_id": "tt17078214",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 408302,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "groups",
+    "instagram_id": "distractiblepodcast",
+    "twitter_id": "DistractiblePod"
+  }
+}

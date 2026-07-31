@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/yAj7E5DgJ0iPBK6mxhE0sY1mbjA.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2017-01-10",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://vrak.tv/emissions/code-g-1.1748673",
+  "id": 73656,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2018-12-11",
+  "last_episode_to_air": {
+    "id": 1626481,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-12-11",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 73656,
+    "still_path": null
+  },
+  "name": "Code G.",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 350,
+      "logo_path": "/jbVGAEHzFWfEGvP2SEJHw3TWqV3.png",
+      "name": "VRAK",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Code G.",
+  "overview": "With a hefty dose of humour and self-mockery, Code G’s stars open up about everything, and then some. No topic is off limits!",
+  "popularity": 8.3068,
+  "poster_path": "/dJTY2QlRldy4YHFzDyL4t8XrDQI.jpg",
+  "production_companies": [
+    {
+      "id": 15585,
+      "logo_path": "/ePyhT2loUXRIv7SZ6LIlvKllsdP.png",
+      "name": "Zone3",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-02-13",
+      "episode_count": 4,
+      "id": 92239,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-10",
+      "episode_count": 16,
+      "id": 92238,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 32,
+      "id": 92240,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 73656,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

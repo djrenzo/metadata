@@ -1,0 +1,262 @@
+{
+  "adult": false,
+  "backdrop_path": "/3eJA51PMBAiRarlzHwEVZwAUfjL.jpg",
+  "created_by": [
+    {
+      "id": 1852302,
+      "credit_id": "603667b60d2944003f5c014a",
+      "name": "Jan Elhøj Nielsen",
+      "original_name": "Jan Elhøj",
+      "gender": 2,
+      "profile_path": "/vUnNZ7PZyDtBm8wMM3j9WUCoX5J.jpg"
+    },
+    {
+      "id": 2675199,
+      "credit_id": "603667c815959f00408603ae",
+      "name": "Morten Kirckhoff",
+      "original_name": "Morten Kirckhoff",
+      "gender": 2,
+      "profile_path": "/kPFjXRqtjaj0VL64izroPSbO0Lj.jpg"
+    }
+  ],
+  "episode_run_time": [
+    28,
+    29
+  ],
+  "first_air_date": "2019-07-01",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.dr.dk/drtv/serie/nul-stjerner_117979",
+  "id": 104575,
+  "in_production": true,
+  "languages": [
+    "da",
+    "en"
+  ],
+  "last_air_date": "2026-07-16",
+  "last_episode_to_air": {
+    "id": 7447109,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 9,
+    "show_id": 104575,
+    "still_path": null
+  },
+  "name": "Nul Stjerner",
+  "next_episode_to_air": {
+    "id": 7447110,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-06",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 104575,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 196,
+      "logo_path": "/hEQOKk1xy10ptfm8nF6ahfKN4X8.png",
+      "name": "DR2",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Nul Stjerner",
+  "overview": "An adventurous travel show with two hosts who go around the world and try to encourage the viewers to travel to new destinations and in new ways. Sometimes the best experience is in the worst starting point.",
+  "popularity": 8.2626,
+  "poster_path": "/xdrQOpJmi8gFFSGbiWhYs0RmQrS.jpg",
+  "production_companies": [
+    {
+      "id": 180386,
+      "logo_path": "/m44Y0bIEAMrQdRyfc8XoqsPCyL0.png",
+      "name": "Liquidminds Production",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AL",
+      "name": "Albania"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "EG",
+      "name": "Egypt"
+    },
+    {
+      "iso_3166_1": "GE",
+      "name": "Georgia"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "MD",
+      "name": "Moldova"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-07-01",
+      "episode_count": 5,
+      "id": 153060,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wMEbJGELtBDpTWJIc0nsHOJm74v.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-23",
+      "episode_count": 6,
+      "id": 157890,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lhGY8c5kJifdjM1332FCK9sbwXx.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-08",
+      "episode_count": 6,
+      "id": 201582,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/sIcppUrLBmi9fOpoOWLFXSUzFXR.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-30",
+      "episode_count": 6,
+      "id": 304387,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/jDOBC51hda7umGNjDV1Xgeij9t2.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-30",
+      "episode_count": 4,
+      "id": 318125,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/7V6hO5Mwj3DB4XMflHUhtfMPHcN.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-27",
+      "episode_count": 6,
+      "id": 344249,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/jXWoNXYtJpig25AtDnX2k90mSOJ.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-11",
+      "episode_count": 6,
+      "id": 401752,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/jlAsSURHFTpHCvsEWeujyVuG3oM.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-10",
+      "episode_count": 6,
+      "id": 464700,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/pTzcCVtk9KDcSwA0IPYKFOHvQOz.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-07-02",
+      "episode_count": 7,
+      "id": 525936,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/243n1gVVi37b00FftkOgxqoua0j.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 104575,
+    "imdb_id": "tt28082210",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 366223,
+    "tvrage_id": null,
+    "wikidata_id": "Q106303857",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

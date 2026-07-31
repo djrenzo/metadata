@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/XXc068Dq6UPyDMVG804HY7HSth.jpg",
+  "created_by": [
+    {
+      "id": 2016989,
+      "credit_id": "65f803ea242f94017dce7455",
+      "name": "Piotr Szczepanowicz",
+      "original_name": "Piotr Szczepanowicz",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 4369531,
+      "credit_id": "65f803f7e194b0017cc093dc",
+      "name": "Mikołaj Pilchowski",
+      "original_name": "Mikołaj Pilchowski",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2021-08-07",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.channel5.com/show/odo",
+  "id": 156059,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-21",
+  "last_episode_to_air": {
+    "id": 7211576,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-21",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 7,
+    "season_number": 2,
+    "show_id": 156059,
+    "still_path": "/vD2fU7NCPOJ7ZedD4YEHuOMe9P1.jpg"
+  },
+  "name": "Odo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2509,
+      "logo_path": "/vUWU0xE3LYqadahGshS7aPRr5AZ.png",
+      "name": "Milkshake!",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Odo",
+  "overview": "Odo – the little owl with big ideas – helps make the Forest Camp for Young Birds lots of fun!",
+  "popularity": 9.0832,
+  "poster_path": "/o6Uom6mVkHJsghzMFuFA3W6Kc5l.jpg",
+  "production_companies": [
+    {
+      "id": 108479,
+      "logo_path": "/ugYulq1t14n3za4CGD4SKkDUaWg.png",
+      "name": "Sixteen South",
+      "origin_country": "GB"
+    },
+    {
+      "id": 114433,
+      "logo_path": null,
+      "name": "Letko",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-08-07",
+      "episode_count": 52,
+      "id": 240905,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o6Uom6mVkHJsghzMFuFA3W6Kc5l.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-03",
+      "episode_count": 52,
+      "id": 432995,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 156059,
+    "imdb_id": "tt16538364",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 409359,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "ODOTV",
+    "instagram_id": "official.odo.tv",
+    "twitter_id": "OfficialOdoTV"
+  }
+}

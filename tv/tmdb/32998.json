@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30,
+    25
+  ],
+  "first_air_date": "1954-09-21",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 32998,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1958-04-08",
+  "last_episode_to_air": {
+    "id": 6739053,
+    "name": "Robin",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1958-04-08",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 32998,
+    "still_path": null
+  },
+  "name": "Studio 57",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 162,
+      "logo_path": "/csmISkmy8gil9Vp0pnQlNZbLdjU.png",
+      "name": "DuMont Television Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 130,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Studio 57",
+  "overview": "Studio 57 is an American anthology series that was broadcast on the now-defunct DuMont Television Network from September 1954 to September 1955, and in syndication from 1955 to 1956.",
+  "popularity": 8.5197,
+  "poster_path": "/xLHDnum1yOGyljDSreYJpm1Egeq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1954-09-21",
+      "episode_count": 39,
+      "id": 44246,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-09-03",
+      "episode_count": 40,
+      "id": 44247,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-18",
+      "episode_count": 38,
+      "id": 44248,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1957-09-08",
+      "episode_count": 14,
+      "id": 44245,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 32998,
+    "imdb_id": "tt0046648",
+    "freebase_mid": "/m/0cc799n",
+    "freebase_id": null,
+    "tvdb_id": 76429,
+    "tvrage_id": null,
+    "wikidata_id": "Q1252351",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

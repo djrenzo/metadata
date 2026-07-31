@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/wqbF528D1sICCeiZNYEdtyHcO2j.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "1984-07-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 8364,
+  "in_production": false,
+  "languages": [
+    "cn"
+  ],
+  "last_air_date": "1984-08-31",
+  "last_episode_to_air": {
+    "id": 1660283,
+    "name": "Episode 40",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1984-08-31",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 8364,
+    "still_path": null
+  },
+  "name": "The Duke of Mount Deer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 48,
+      "logo_path": "/v78f4q6DYdRB8dLj4rQBpqQG8pW.png",
+      "name": "TVB Jade",
+      "origin_country": "HK"
+    }
+  ],
+  "number_of_episodes": 40,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_name": "鹿鼎記",
+  "overview": "The Duke of Mount Deer is a Hong Kong television series adapted from Louis Cha's novel The Deer and the Cauldron. It was first aired on TVB in 1984.",
+  "popularity": 8.5524,
+  "poster_path": "/vPBn2NLCJcogUQfnn1L2ASjJXLe.jpg",
+  "production_companies": [
+    {
+      "id": 79261,
+      "logo_path": "/4OKzkasr0IV8CSqejjgRfKw7e0m.png",
+      "name": "TVB",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1985-04-15",
+      "episode_count": 1,
+      "id": 173585,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/b7zysvbay87Oy5eNm6XK9XKi36K.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-07-09",
+      "episode_count": 40,
+      "id": 85295,
+      "name": "Season 1",
+      "overview": "Season 1",
+      "poster_path": "/b7zysvbay87Oy5eNm6XK9XKi36K.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.429,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 8364,
+    "imdb_id": "tt0449734",
+    "freebase_mid": "/m/04zy9x0",
+    "freebase_id": null,
+    "tvdb_id": 258879,
+    "tvrage_id": null,
+    "wikidata_id": "Q3268314",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

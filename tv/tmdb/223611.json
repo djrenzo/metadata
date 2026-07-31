@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-12-21",
+  "genres": [],
+  "homepage": "",
+  "id": 223611,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2020-05-30",
+  "last_episode_to_air": {
+    "id": 4334366,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-05-30",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 223611,
+    "still_path": null
+  },
+  "name": "Erdem",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 937,
+      "logo_path": "/gBURNRk8SF6JlvPzxRcHJhP4l9L.png",
+      "name": "TRT Çocuk",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Erdem",
+  "overview": "",
+  "popularity": 9.3014,
+  "poster_path": "/tORoUgoXte4JLiCu2nei1RftcVi.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2019-12-21",
+      "episode_count": 24,
+      "id": 335089,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tORoUgoXte4JLiCu2nei1RftcVi.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 223611,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

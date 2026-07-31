@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2013-03-21",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 76565,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-12-23",
+  "last_episode_to_air": {
+    "id": 5021182,
+    "name": "Episode 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-23",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 11,
+    "show_id": 76565,
+    "still_path": null
+  },
+  "name": "Schlachthof",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 871,
+      "logo_path": "/oD5KfK3xZxJfbNFMhbpuovdwEi7.png",
+      "name": "BR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Schlachthof",
+  "overview": "",
+  "popularity": 9.0604,
+  "poster_path": "/kBGcqD3AMhBeR8qCPUwkHtuQO95.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-03-21",
+      "episode_count": 8,
+      "id": 98267,
+      "name": "2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-16",
+      "episode_count": 10,
+      "id": 175253,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-29",
+      "episode_count": 10,
+      "id": 175254,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-21",
+      "episode_count": 10,
+      "id": 175255,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-26",
+      "episode_count": 10,
+      "id": 175256,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-25",
+      "episode_count": 11,
+      "id": 175257,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-31",
+      "episode_count": 11,
+      "id": 175258,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-13",
+      "episode_count": 11,
+      "id": 175259,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-28",
+      "episode_count": 9,
+      "id": 362700,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-27",
+      "episode_count": 10,
+      "id": 317679,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-26",
+      "episode_count": 14,
+      "id": 319501,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 76565,
+    "imdb_id": "tt2773498",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 271636,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

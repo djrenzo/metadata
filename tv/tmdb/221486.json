@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ZfBgVYfgYx1NSJSm2T3upkFxkf.jpg",
+  "created_by": [
+    {
+      "id": 78435,
+      "credit_id": "654bd78529383501387cfd93",
+      "name": "Nick Bakay",
+      "original_name": "Nick Bakay",
+      "gender": 2,
+      "profile_path": "/eR0yPc2pvaogObhEZWfXENafHqk.jpg"
+    },
+    {
+      "id": 160172,
+      "credit_id": "654bd782d4653701385f8db9",
+      "name": "Chuck Lorre",
+      "original_name": "Chuck Lorre",
+      "gender": 2,
+      "profile_path": "/8OTRD3d6N0GKy1Z0LJaWZ3MVxXr.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-11-30",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.max.com/shows/bookie/31b46c23-4785-4410-90d0-4ed0b6bceb10",
+  "id": 221486,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-01-30",
+  "last_episode_to_air": {
+    "id": 5758323,
+    "name": "A Whale in Pomona",
+    "overview": "A violent showdown in Costa Rica leads to a breakthrough for Danny and Ray. Back in LA, Danny and Marian have realizations of their own.",
+    "vote_average": 8,
+    "vote_count": 3,
+    "air_date": "2025-01-30",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "T12.19208",
+    "runtime": 19,
+    "season_number": 2,
+    "show_id": 221486,
+    "still_path": "/p5vAjM5MPzX3WrOy6b4zJkqCq1C.jpg"
+  },
+  "name": "Bookie",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6783,
+      "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+      "name": "Max",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Bookie",
+  "overview": "A veteran bookie struggles to survive the impending legalization of sports gambling, increasingly unstable clients, family, co-workers, and a lifestyle that bounces him around every corner of Los Angeles, high and low.",
+  "popularity": 8.4481,
+  "poster_path": "/2g2ioERz9CwdfAXv5ykQR7h3Ie3.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 35504,
+      "logo_path": "/e70DaugzSRbTbVEhZV3e1nCofcY.png",
+      "name": "Chuck Lorre Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-11-30",
+      "episode_count": 8,
+      "id": 330957,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lIefkOAbeoDPLsmiMpACrg5N6Ov.jpg",
+      "season_number": 1,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2024-12-12",
+      "episode_count": 8,
+      "id": 427689,
+      "name": "Season 2",
+      "overview": "Season 2 follows veteran Los Angeles bookie Danny  as the potential legalization of sports gambling in California threatens to upend his business for good. Alongside best friend and former NFL player Ray, side-hustling sister Lorraine, and reluctantly reformed drug dealer Hector, Danny must contend with his increasingly unstable clients as he tries to settle their debts – all while making plenty of risky bets of his own.",
+      "poster_path": "/2g2ioERz9CwdfAXv5ykQR7h3Ie3.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Please bet responsibly.",
+  "type": "Scripted",
+  "vote_average": 6.864,
+  "vote_count": 59,
+  "external_ids": {
+    "id": 221486,
+    "imdb_id": "tt22485826",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 425692,
+    "tvrage_id": null,
+    "wikidata_id": "Q115516881",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/nvWhQDFhcelEHDc8BhjPw4QLkz9.jpg",
+  "created_by": [
+    {
+      "id": 1892375,
+      "credit_id": "59c3df63c3a368141e0159c1",
+      "name": "Oya Yüce",
+      "original_name": "Oya Yüce",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2000-08-12",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 48273,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2003-02-19",
+  "last_episode_to_air": {
+    "id": 1369295,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-02-19",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 3,
+    "show_id": 48273,
+    "still_path": null
+  },
+  "name": "Yedi Numara",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 92,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Yedi Numara",
+  "overview": "A couple with no kids, four city girls and three country boys, all under the same roof: arguing, fighting and sometimes understanding they are not that much different.",
+  "popularity": 8.285,
+  "poster_path": "/xv2FEyLsR3VQhzEgoWU0X3R9L6I.jpg",
+  "production_companies": [
+    {
+      "id": 85580,
+      "logo_path": "/4AAC0UDEoW5F3oPnsvMwSeGuPsJ.png",
+      "name": "TRT",
+      "origin_country": "TR"
+    },
+    {
+      "id": 14810,
+      "logo_path": null,
+      "name": "Fora Film",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-08-12",
+      "episode_count": 39,
+      "id": 93018,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3CtrwndnDEiFxdvr4zoQfFpkaX1.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-19",
+      "episode_count": 36,
+      "id": 93019,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sS4iVGoI6rFZO08QO1YrlozCwBj.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-15",
+      "episode_count": 17,
+      "id": 93020,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/1oSlFqoA2JAZfTV6oB49CRc73rf.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9.2,
+  "vote_count": 32,
+  "external_ids": {
+    "id": 48273,
+    "imdb_id": "tt0992966",
+    "freebase_mid": "/m/0v0zwkb",
+    "freebase_id": null,
+    "tvdb_id": 341472,
+    "tvrage_id": null,
+    "wikidata_id": "Q6100086",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

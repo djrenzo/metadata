@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1225765,
+      "credit_id": "525748e8760ee36aaa102527",
+      "name": "Roy Winsor",
+      "original_name": "Roy Winsor",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1951-09-24",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 2872,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1980-02-01",
+  "last_episode_to_air": {
+    "id": 219913,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1980-02-01",
+    "episode_number": 23,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 30,
+    "show_id": 2872,
+    "still_path": null
+  },
+  "name": "Love of Life",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 219,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Love of Life",
+  "overview": "Love of Life is an American soap opera which aired on CBS from September 24, 1951, to February 1, 1980. It was created by Roy Winsor, whose previous creation Search for Tomorrow had premiered three weeks before Love of Life, and who would go on to create The Secret Storm two and a half years later.",
+  "popularity": 8.28,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1951-09-24",
+      "episode_count": 70,
+      "id": 9265,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1952-01-02",
+      "episode_count": 126,
+      "id": 9266,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-02",
+      "episode_count": 23,
+      "id": 9267,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 2872,
+    "imdb_id": "tt0043214",
+    "freebase_mid": "/m/034vds",
+    "freebase_id": "/en/love_of_life",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2545719",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

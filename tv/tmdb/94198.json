@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/rxmpuTcA0VbxBGu7DTLumrv4qse.jpg",
+  "created_by": [
+    {
+      "id": 2591108,
+      "credit_id": "634897f335c30a0082cf185b",
+      "name": "Vicky Alexopoulou",
+      "original_name": "Βίκυ Αλεξοπούλου",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 5456816,
+      "credit_id": "683059d69f2236b5a7a85ee1",
+      "name": "Constantine Ganosis",
+      "original_name": "Constantine Ganosis",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45,
+    48
+  ],
+  "first_air_date": "2008-10-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 94198,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2011-05-27",
+  "last_episode_to_air": {
+    "id": 2726793,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-05-27",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 94198,
+    "still_path": null
+  },
+  "name": "I Polykatoikia",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 132,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Η Πολυκατοικία",
+  "overview": "Comedy series in a building that people from different appartments always in trouble",
+  "popularity": 9.2215,
+  "poster_path": "/5AGEvSbvsZoAuNasm7PE8EYzpyP.jpg",
+  "production_companies": [
+    {
+      "id": 131728,
+      "logo_path": null,
+      "name": "ΑΝΩΣΗ Α. Ε.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-10-06",
+      "episode_count": 56,
+      "id": 133427,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-16",
+      "episode_count": 52,
+      "id": 147046,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-15",
+      "episode_count": 24,
+      "id": 147048,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 94198,
+    "imdb_id": "tt1293726",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 98221,
+    "tvrage_id": null,
+    "wikidata_id": "Q5978721",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

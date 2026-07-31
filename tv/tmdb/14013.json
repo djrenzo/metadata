@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": "/2wDLz7R8Euxu9oDm3ArP5xbSMRM.jpg",
+  "created_by": [
+    {
+      "id": 1242951,
+      "credit_id": "52582dc0760ee36aaa8abbc7",
+      "name": "Peter Emanuel Falck",
+      "original_name": "Peter Emanuel Falck",
+      "gender": 2,
+      "profile_path": "/h8ooXBLRVF2XvSHflW2agsObtWB.jpg"
+    },
+    {
+      "id": 1242952,
+      "credit_id": "52582dc0760ee36aaa8abbcd",
+      "name": "Christian Wikander",
+      "original_name": "Christian Wikander",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    60
+  ],
+  "first_air_date": "2007-09-23",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 14013,
+  "in_production": false,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2010-05-05",
+  "last_episode_to_air": {
+    "id": 512350,
+    "name": "Episode 30",
+    "overview": "Svensk dramaserie från 2007. Del 185.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-05-05",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 14013,
+    "still_path": null
+  },
+  "name": "Second Avenue",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 185,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Andra Avenyn",
+  "overview": "Andra Avenyn was a Swedish drama series and soap opera, produced by SVT and broadcast from 2007 to 2010.",
+  "popularity": 8.545,
+  "poster_path": "/7CkooJ3xlA6Od4a7pisjVY09oIC.jpg",
+  "production_companies": [
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 25320,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-23",
+      "episode_count": 103,
+      "id": 25319,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-21",
+      "episode_count": 52,
+      "id": 25321,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-08",
+      "episode_count": 30,
+      "id": 25322,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 14013,
+    "imdb_id": "tt1087819",
+    "freebase_mid": "/m/03cm0sk",
+    "freebase_id": "/en/andra_avenyn",
+    "tvdb_id": 80703,
+    "tvrage_id": null,
+    "wikidata_id": "Q4572097",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

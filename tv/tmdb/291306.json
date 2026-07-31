@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/7qkH2vTo1lVdwDLy8iIviUaNV4H.jpg",
+  "created_by": [
+    {
+      "id": 1143786,
+      "credit_id": "6821a656722788a441a161d9",
+      "name": "Cyril Hanouna",
+      "original_name": "Cyril Hanouna",
+      "gender": 2,
+      "profile_path": "/36xWhwtrGgQu85FZ4q3fMV5TvuJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2025-09-01",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.m6.fr/tout-beau-tout-n9uf-p_27254",
+  "id": 291306,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-06-10",
+  "last_episode_to_air": {
+    "id": 7303162,
+    "name": "Episode 193",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-10",
+    "episode_number": 193,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 291306,
+    "still_path": null
+  },
+  "name": "Tout beau tout n9uf",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 776,
+      "logo_path": "/hUDbRuutNi2CdPG5FEeofSt7F6l.png",
+      "name": "W9",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 193,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Tout beau tout n9uf",
+  "overview": "",
+  "popularity": 8.1761,
+  "poster_path": "/atVntikh2mmTb0yvS5k3qK2WK96.jpg",
+  "production_companies": [
+    {
+      "id": 81729,
+      "logo_path": "/7Guaq2A0Dm6eslYKxX1X4DE1XNw.png",
+      "name": "H2O Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 1,
+      "id": 473473,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/w1lEmwtWZu6tKnxiSacUO8Bgf4n.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 193,
+      "id": 456101,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gQTWVJtTPFftwq8lAFyNWLrqElq.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 291306,
+    "imdb_id": "tt38109965",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 463582,
+    "tvrage_id": null,
+    "wikidata_id": "Q135489970",
+    "facebook_id": "TBT9W9",
+    "instagram_id": "tbt9w9",
+    "twitter_id": "TBT9_W9"
+  }
+}

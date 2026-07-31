@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/dLrl7k801RbWFTeFbRtjkWEH82S.jpg",
+  "created_by": [
+    {
+      "id": 29014,
+      "credit_id": "67869494ababbba040bba68a",
+      "name": "Nick Osborne",
+      "original_name": "Nick Osborne",
+      "gender": 2,
+      "profile_path": "/uhvilNJtcjqNdv66AkmEIfWi2qr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2025-01-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m0026zqh",
+  "id": 279138,
+  "in_production": true,
+  "languages": [
+    "en",
+    "gd"
+  ],
+  "last_air_date": "2025-02-04",
+  "last_episode_to_air": {
+    "id": 5883389,
+    "name": "Episode 4",
+    "overview": "With her career hanging in the balance, it's Kat's last chance to catch Mary's killer.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-02-04",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 1,
+    "show_id": 279138,
+    "still_path": "/9GWMGN4Yq4KCPUm0aeMSf1Jn8sS.jpg"
+  },
+  "name": "The Island",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5384,
+      "logo_path": "/jV8JDqbLOI4Bl6z7M2W1SnFSwse.png",
+      "name": "BBC Alba",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 4,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Island",
+  "overview": "Kat Crichton is a young Family Liaison Officer assigned to investigate the brutal murder of the wife of a local tycoon at a remote island mansion. The murder investigation unravels on the island of Lewis and Harris, from where Kat mysteriously fled ten years previously.",
+  "popularity": 8.6752,
+  "poster_path": "/bKffzAa462OD1KJrBsjJvCFAlRd.jpg",
+  "production_companies": [
+    {
+      "id": 12977,
+      "logo_path": "/zuyAaISGIfTUnlDuzUwwUYXQgk8.png",
+      "name": "Black Camel Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 96496,
+      "logo_path": "/3BmTWbzRYtesfxvaB9s61j7zXgu.png",
+      "name": "All3Media International",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-14",
+      "episode_count": 4,
+      "id": 432471,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/I3JOPGHxFKH8rybUq7c8uD96rY.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Gaelic",
+      "iso_639_1": "gd",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.375,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 279138,
+    "imdb_id": "tt31921411",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 457641,
+    "tvrage_id": null,
+    "wikidata_id": "Q126002851",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

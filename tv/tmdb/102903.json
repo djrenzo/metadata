@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/gFFedWBZ7s5sPiR9A1IpileWuFf.jpg",
+  "created_by": [
+    {
+      "id": 1319021,
+      "credit_id": "5ecc0c6f7ef3810020c5fbe0",
+      "name": "Adriana Pelusi",
+      "original_name": "Adriana Pelusi",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2626031,
+      "credit_id": "5ecc0c8c7ef3810020c5fc32",
+      "name": "Miguel García Moreno",
+      "original_name": "Miguel García Moreno",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1831851,
+      "credit_id": "5ecc0c6271ffdf001eb59470",
+      "name": "Carlos Quintanilla Sakar",
+      "original_name": "Carlos Quintanilla Sakar",
+      "gender": 2,
+      "profile_path": "/ri3rFTITGGdlXA5esXO5F04026i.jpg"
+    }
+  ],
+  "episode_run_time": [
+    36
+  ],
+  "first_air_date": "2020-05-22",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81021245",
+  "id": 102903,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2022-07-06",
+  "last_episode_to_air": {
+    "id": 3817135,
+    "name": "Graduation",
+    "overview": "Gerry reaches out to the group when he suspects something is amiss and everyone must decide what to do to save their friends... and their futures.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-07-06",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 3,
+    "show_id": 102903,
+    "still_path": "/tdrrkKMfC0ryBKJtxUL2Hv7Nwsz.jpg"
+  },
+  "name": "Control Z",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Control Z",
+  "overview": "When a hacker begins releasing students' secrets to the entire high school, the socially isolated but observant Sofía works to uncover his/her identity.",
+  "popularity": 8.3316,
+  "poster_path": "/oEDU7EGbmS6f7kpMmViyGHMfhwp.jpg",
+  "production_companies": [
+    {
+      "id": 107558,
+      "logo_path": "/gfEtcH7hmqUPFkCgERa2JoUIxEE.png",
+      "name": "Lemon Studios",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-05-22",
+      "episode_count": 8,
+      "id": 149671,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8VNA0RdrPk8Ec7XVjpeT0Rnui79.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2021-08-04",
+      "episode_count": 8,
+      "id": 189067,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ibS3YQH5jTQZnQ4WNrExkCcHJCq.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-07-06",
+      "episode_count": 8,
+      "id": 298012,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/go9dDOMlP4b4WpSCmjmCh3FDN3r.jpg",
+      "season_number": 3,
+      "vote_average": 8.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Your secrets are not safe.",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 2359,
+  "external_ids": {
+    "id": 102903,
+    "imdb_id": "tt11937662",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 380850,
+    "tvrage_id": null,
+    "wikidata_id": "Q94197571",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

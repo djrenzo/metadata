@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/jG7JUDNSGesCynjeFClyrvDZw25.jpg",
+  "created_by": [
+    {
+      "id": 61354,
+      "credit_id": "5257611a760ee36aaa305b2a",
+      "name": "Anthony Horowitz",
+      "original_name": "Anthony Horowitz",
+      "gender": 2,
+      "profile_path": "/vaMCduuCGEz1ws3LyM6XTgrZdAM.jpg"
+    },
+    {
+      "id": 1162692,
+      "credit_id": "6334435a6082eb00883eab1b",
+      "name": "Friedrich Schiller",
+      "original_name": "Friedrich Schiller",
+      "gender": 2,
+      "profile_path": "/twQVdSrjsXD6yWAzWEGLtoMKVJm.jpg"
+    }
+  ],
+  "episode_run_time": [
+    26,
+    30
+  ],
+  "first_air_date": "1987-08-30",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 4268,
+  "in_production": false,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "last_air_date": "1989-06-17",
+  "last_episode_to_air": {
+    "id": 291722,
+    "name": "The Moment of Truth (2)",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1989-06-17",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 3,
+    "show_id": 4268,
+    "still_path": null
+  },
+  "name": "Crossbow",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Crossbow",
+  "overview": "Crossbow follows the adventures of William Tell and takes place in the 14th-century in Switzerland. William Tell and his son are imprisoned by the tyrannical Gessler. As Governor of Austria, Gessler plans to stop the Swiss uprising. Having split the apple on his son's head with his crossbow, much to Gessler's chagrin, there is no stopping William Tell's legendary strength and skill.",
+  "popularity": 8.2236,
+  "poster_path": "/bdcX9YuakI4LJrEianMDTMQnCms.jpg",
+  "production_companies": [
+    {
+      "id": 1579,
+      "logo_path": "/otPDzB7wHCUsDH0BzKy3DQ7sTWP.png",
+      "name": "FR3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 183182,
+      "logo_path": null,
+      "name": "Crossbow Films",
+      "origin_country": ""
+    },
+    {
+      "id": 224653,
+      "logo_path": null,
+      "name": "Halcyon Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-08-30",
+      "episode_count": 24,
+      "id": 12548,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4UzSONnFYhZ4Dzc8O7jPNhwos2S.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-03",
+      "episode_count": 24,
+      "id": 12549,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/aZR3RK141miEfAXvtKSvmOKu7gr.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-01",
+      "episode_count": 24,
+      "id": 12550,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4Ozz7LlPTzoq8EWA8xI4YSV8BSF.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 4268,
+    "imdb_id": "tt0140731",
+    "freebase_mid": "/m/0bnmz6",
+    "freebase_id": null,
+    "tvdb_id": 71614,
+    "tvrage_id": 3174,
+    "wikidata_id": "Q651567",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

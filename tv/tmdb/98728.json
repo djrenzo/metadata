@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/kSrijnN6Ukbi8r20FcU829YqLAx.jpg",
+  "created_by": [
+    {
+      "id": 1255773,
+      "credit_id": "5e2dfb8d66f2d20013d6c84c",
+      "name": "Elizabeth Jhin",
+      "original_name": "Elizabeth Jhin",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2018-09-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 98728,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2019-05-04",
+  "last_episode_to_air": {
+    "id": 2692210,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-05-04",
+    "episode_number": 160,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 64,
+    "season_number": 1,
+    "show_id": 98728,
+    "still_path": null
+  },
+  "name": "Espelho da Vida",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Espelho da Vida",
+  "overview": "",
+  "popularity": 8.9909,
+  "poster_path": "/mSPKIHUYLHp76yWbwS6kg7diica.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-09-25",
+      "episode_count": 160,
+      "id": 142136,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mSPKIHUYLHp76yWbwS6kg7diica.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 98728,
+    "imdb_id": "tt8598038",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 346707,
+    "tvrage_id": null,
+    "wikidata_id": "Q54807108",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "adult": false,
+  "backdrop_path": "/fwMwwjN8N6b5APrfKou9ZW1alAM.jpg",
+  "created_by": [
+    {
+      "id": 56322,
+      "credit_id": "52583aaf760ee36aaa98e4a5",
+      "name": "Amy Poehler",
+      "original_name": "Amy Poehler",
+      "gender": 1,
+      "profile_path": "/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+    },
+    {
+      "id": 3023513,
+      "credit_id": "605ba8a389f749003cd7c3b5",
+      "name": "Cynthia True",
+      "original_name": "Cynthia True",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1232444,
+      "credit_id": "605ba88465c26c0068f6e5c9",
+      "name": "Erik Wiese",
+      "original_name": "Erik Wiese",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    23,
+    22
+  ],
+  "first_air_date": "2008-04-26",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.nick.com/shows/mighty_b/index.jhtml",
+  "id": 15641,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-06-18",
+  "last_episode_to_air": {
+    "id": 5067743,
+    "name": "A Pirate's Life for B",
+    "overview": "Bessie and Happy find a gold nugget in their wall.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-06-18",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 2,
+    "show_id": 15641,
+    "still_path": null
+  },
+  "name": "The Mighty B!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 75,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Mighty B!",
+  "overview": "The Mighty B! is an American animated television series co-created by Amy Poehler, Cynthia True and Erik Wiese for Nickelodeon. The series centers on Bessie Higgenbottom, an ambitious Honeybee girl scout who believes she will become The Mighty B if she collects every Honeybee badge. Bessie lives in San Francisco with her single mother Hilary, brother Ben and dog Happy. Poehler provides the voice of Bessie, who is loosely based on a character Poehler played on the improvisational comedy troupes Second City and Upright Citizens Brigade.",
+  "popularity": 8.2951,
+  "poster_path": "/9LKMCLpxbCxp8ZZQDSIsOIMG4G4.jpg",
+  "production_companies": [
+    {
+      "id": 24022,
+      "logo_path": "/aIjT1pYb83Hluuq39idD41r71ze.png",
+      "name": "Paper Kite Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 205210,
+      "logo_path": null,
+      "name": "Polka Dot Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-04-26",
+      "episode_count": 39,
+      "id": 27162,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/si9HifHah69ZnAONP1xE4OAlaIp.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-25",
+      "episode_count": 36,
+      "id": 27163,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.4,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 15641,
+    "imdb_id": "tt0917551",
+    "freebase_mid": "/m/03yksyj",
+    "freebase_id": "/en/the_mighty_b",
+    "tvdb_id": 84452,
+    "tvrage_id": null,
+    "wikidata_id": "Q637437",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

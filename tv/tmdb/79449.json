@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/mmuouwdVojGmeC9TLsgBrxCWAeE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2018-05-12",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://tv.jtbc.joins.com/idolroom",
+  "id": 79449,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2020-02-11",
+  "last_episode_to_air": {
+    "id": 2065717,
+    "name": "Sechs Kies",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-02-11",
+    "episode_number": 87,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 79449,
+    "still_path": null
+  },
+  "name": "Idol Room",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 885,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 87,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "아이돌룸",
+  "overview": "Find out all about your favorite K-pop idol groups! Hosted by the “idol experts”, Jeong Hyeong-don and Defconn!",
+  "popularity": 8.5637,
+  "poster_path": "/mVTXZH80hnXVgFmeRQQGtE4m5hZ.jpg",
+  "production_companies": [
+    {
+      "id": 90935,
+      "logo_path": "/44I4aVlasm8Blb8WPGXTkMYuZJF.png",
+      "name": "JTBC",
+      "origin_country": "KR"
+    },
+    {
+      "id": 29077,
+      "logo_path": null,
+      "name": "FNC Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-05-12",
+      "episode_count": 87,
+      "id": 103672,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/AuFohxjLIUnDBGBUz9XBW0aFF85.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 79449,
+    "imdb_id": "tt8408820",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 347518,
+    "tvrage_id": null,
+    "wikidata_id": "Q53312204",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "idolroom_jtbc"
+  }
+}

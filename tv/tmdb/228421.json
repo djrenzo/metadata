@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/l2E1zRep7sM73aCJ4YTuLPxid5H.jpg",
+  "created_by": [
+    {
+      "id": 90543,
+      "credit_id": "6499aacdb3440900ffed5b6a",
+      "name": "Robb Cullen",
+      "original_name": "Robb Cullen",
+      "gender": 2,
+      "profile_path": "/iTIn3AhOp3iuEb4Oew9b0i5xjoA.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-06-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.bet.plus/shows/average-joe",
+  "id": 228421,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-08-17",
+  "last_episode_to_air": {
+    "id": 4510067,
+    "name": "You Must Be Joe",
+    "overview": "As Touch and Pam race to Nicolai's cabin, Jennifer attempts to recruit Arina to their side to save Leon, and Joe battles Nicolai with everything he's got.",
+    "vote_average": 10,
+    "vote_count": 2,
+    "air_date": "2023-08-17",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 1,
+    "show_id": 228421,
+    "still_path": "/wh5B3mswQ67bg2gwmsVq6shzWyr.jpg"
+  },
+  "name": "Average Joe",
+  "next_episode_to_air": {
+    "id": 7420913,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-19",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 228421,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 3343,
+      "logo_path": "/oYes66rm30oK3WjbwWeU0QaE9Cq.png",
+      "name": "BET+",
+      "origin_country": "US"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+      "name": "Paramount+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Average Joe",
+  "overview": "Blue-collar plumber, Joe Washington, discovers his recently deceased father lived a secret, second life and stole millions of dollars from dangerous people just before he died. Now those people think Joe knows where it is. A bloody and violent confrontation triggers a chain of events that force Joe and his close-knit circle of family and friends out of their very average and mundane lives into a life-or-death race against time to find the truth and the millions.",
+  "popularity": 8.7137,
+  "poster_path": "/jsLYlsWA3CsE7V1owlSqfU9QzVG.jpg",
+  "production_companies": [
+    {
+      "id": 4022,
+      "logo_path": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+      "name": "Wonderland Sound and Vision",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-06-26",
+      "episode_count": 10,
+      "id": 344651,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jsLYlsWA3CsE7V1owlSqfU9QzVG.jpg",
+      "season_number": 1,
+      "vote_average": 9.6
+    },
+    {
+      "air_date": "2026-08-19",
+      "episode_count": 8,
+      "id": 524309,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Blood is thicker than blood money.",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 228421,
+    "imdb_id": "tt18070984",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 435926,
+    "tvrage_id": null,
+    "wikidata_id": "Q120569764",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

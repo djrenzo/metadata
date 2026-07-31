@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2002-09-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 40699,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2013-04-24",
+  "last_episode_to_air": {
+    "id": 1056545,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-04-24",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 40699,
+    "still_path": null
+  },
+  "name": "Bloch",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Bloch",
+  "overview": "Bloch is a German television series.",
+  "popularity": 8.3413,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-09-04",
+      "episode_count": 24,
+      "id": 60228,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 40699,
+    "imdb_id": "tt0889263",
+    "freebase_mid": "/m/0h64gcg",
+    "freebase_id": null,
+    "tvdb_id": 85178,
+    "tvrage_id": 18384,
+    "wikidata_id": "Q884595",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

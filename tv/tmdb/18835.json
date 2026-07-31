@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/kHncHysr8cPzNcVKNeJZeAsUTQE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2009-08-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 18835,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2010-08-30",
+  "last_episode_to_air": {
+    "id": 569052,
+    "name": "Episode 35",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-08-30",
+    "episode_number": 35,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 18835,
+    "still_path": null
+  },
+  "name": "Meteor Shower",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 952,
+      "logo_path": "/zJQHSCwHcIGNQlHptJRZpUX88Ro.png",
+      "name": "Hunan Television",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "一起来看流星雨",
+  "overview": "Chu Yuxun, a talented girl from a modest background, joins the prestigious Aliston Business Academy with her uncle’s help. There, she clashes with the wealthy and popular H4 group, leading to unexpected friendships and a love triangle.",
+  "popularity": 7.5331,
+  "poster_path": "/jkCfmFlYic779E1d9vYfjAo95Nm.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-08-08",
+      "episode_count": 36,
+      "id": 29365,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jkCfmFlYic779E1d9vYfjAo95Nm.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-09",
+      "episode_count": 36,
+      "id": 29366,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4VKAZySHR293ITqWYnpFeeD7JiC.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 18835,
+    "imdb_id": "tt6686280",
+    "freebase_mid": "/m/064mvch",
+    "freebase_id": null,
+    "tvdb_id": 261319,
+    "tvrage_id": null,
+    "wikidata_id": "Q5368891",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

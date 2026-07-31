@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/s6g2gizjwDJYzSMaAAbaG4QR1X4.jpg",
+  "created_by": [
+    {
+      "id": 14776,
+      "credit_id": "5257f9d119c29531db2ea16f",
+      "name": "Dean Riesner",
+      "original_name": "Dean Riesner",
+      "gender": 2,
+      "profile_path": "/fpk3fPKWyxhci2hDxm1K68WwFfv.jpg"
+    },
+    {
+      "id": 15631,
+      "credit_id": "5257f9d119c29531db2ea175",
+      "name": "Samuel A. Peeples",
+      "original_name": "Samuel A. Peeples",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    48
+  ],
+  "first_air_date": "1968-09-24",
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 9930,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1970-05-19",
+  "last_episode_to_air": {
+    "id": 414036,
+    "name": "Lifeline",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1970-05-19",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 9930,
+    "still_path": null
+  },
+  "name": "Lancer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 51,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lancer",
+  "overview": "Lancer is an American Western series that aired on CBS from September 1968, to May 1970. The series stars Andrew Duggan, James Stacy, and Wayne Maunder as a father with two half-brother sons, an arrangement similar to the more successful Bonanza on NBC.",
+  "popularity": 9.2681,
+  "poster_path": "/eo92La8t2lAKfbHhZKdumxaoi3.jpg",
+  "production_companies": [
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1968-09-24",
+      "episode_count": 26,
+      "id": 19826,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-09-23",
+      "episode_count": 25,
+      "id": 19827,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.583,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 9930,
+    "imdb_id": "tt0062577",
+    "freebase_mid": "/m/026cdzl",
+    "freebase_id": null,
+    "tvdb_id": 75649,
+    "tvrage_id": null,
+    "wikidata_id": "Q1359640",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

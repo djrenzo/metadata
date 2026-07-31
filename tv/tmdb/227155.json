@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/pkAj2ZR2uMUgAyruUEjXg3kewaI.jpg",
+  "created_by": [
+    {
+      "id": 1255797,
+      "credit_id": "646f760fe22d2816af274dfe",
+      "name": "Janete Clair",
+      "original_name": "Janete Clair",
+      "gender": 1,
+      "profile_path": "/gofxAPVRb5FQCElrrovgGSogGbt.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1973-08-22",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 227155,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1974-05-07",
+  "last_episode_to_air": {
+    "id": 4471839,
+    "name": "Episode 221",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1974-05-07",
+    "episode_number": 221,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 227155,
+    "still_path": null
+  },
+  "name": "O Semideus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 221,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "O Semideus",
+  "overview": "",
+  "popularity": 8.8279,
+  "poster_path": "/1O8ALllYi3KxuPn8XFeUwLZAETG.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1973-08-22",
+      "episode_count": 221,
+      "id": 342397,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pKEfEMLg55Tvth0jTqu1CIlS6l.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 227155,
+    "imdb_id": "tt0209792",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q10339779",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/w9uM2biYWGqwEpvIYs8CXRoAdVB.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2023-02-26",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://tvi.iol.pt/otriangulo/",
+  "id": 221249,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-05-28",
+  "last_episode_to_air": {
+    "id": 4460778,
+    "name": "Gala 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-05-28",
+    "episode_number": 151,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 180,
+    "season_number": 1,
+    "show_id": 221249,
+    "still_path": null
+  },
+  "name": "O Triângulo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "O Triângulo",
+  "overview": "A series of physical, intellectual, emotional or psychological tests will test anonymous competitors, 24/7. In the end, only one will be victorious. Everything can change... At any time... When you least expect it!",
+  "popularity": 9.2237,
+  "poster_path": "/A2LE5B1IInR5h98OUNzyj9aQiIS.jpg",
+  "production_companies": [
+    {
+      "id": 92509,
+      "logo_path": "/aAtA3fg5HqtrJkasa2eSIeTCPcI.png",
+      "name": "Endemol Portugal",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-02-26",
+      "episode_count": 151,
+      "id": 330512,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 1.2,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 221249,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 430004,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "otriangulotvi",
+    "instagram_id": "otriangulotvi",
+    "twitter_id": null
+  }
+}

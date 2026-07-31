@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/ebbMIoxmeGRWWqIhSal0Iqyzoim.jpg",
+  "created_by": [
+    {
+      "id": 1224535,
+      "credit_id": "5c3163c7c3a36819bba5c73b",
+      "name": "Marc Firek",
+      "original_name": "Marc Firek",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 66515,
+      "credit_id": "5c3163afc3a36819bba5c728",
+      "name": "Adam F. Goldberg",
+      "original_name": "Adam F. Goldberg",
+      "gender": 2,
+      "profile_path": "/bWyDz4cUe7IJGplo2aloOSvqPqt.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2019-01-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://abc.go.com/shows/schooled",
+  "id": 81924,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2020-05-13",
+  "last_episode_to_air": {
+    "id": 2270931,
+    "name": "Clueless",
+    "overview": "Lainey has a difficult choice regarding her relationship with Barry and her friendship with CB. Meanwhile, Coach Mellor is put in a tough parenting position when Toby is invited to prom as a freshman by a senior.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-05-13",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 81924,
+    "still_path": "/ahNKPrX09LQDIcmpcM6uXHKOhwo.jpg"
+  },
+  "name": "Schooled",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Schooled",
+  "overview": "It's 1990-something, and since Lainey still hasn’t achieved rock 'n' roll greatness, she returns to William Penn Academy as the new music teacher.",
+  "popularity": 9.0982,
+  "poster_path": "/v3lhBc4mxdctDpA6GWxl4QTk0Oh.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 878,
+      "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+      "name": "Happy Madison Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-01-09",
+      "episode_count": 13,
+      "id": 108455,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/htvYBpaXzVwVbMM1BZRpG42aEzS.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 21,
+      "id": 129380,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/v3lhBc4mxdctDpA6GWxl4QTk0Oh.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "Ready to kick some class.",
+  "type": "Scripted",
+  "vote_average": 6.274,
+  "vote_count": 42,
+  "external_ids": {
+    "id": 81924,
+    "imdb_id": "tt6546758",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352016,
+    "tvrage_id": null,
+    "wikidata_id": "Q55632693",
+    "facebook_id": "SchooledABC",
+    "instagram_id": "schooledabc",
+    "twitter_id": "schooledabc"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/w72iq3UUKCc8EDcw4oqZMXAQ87n.jpg",
+  "created_by": [
+    {
+      "id": 7744,
+      "credit_id": "66ef50d6c237258e4c2611b3",
+      "name": "Julia Schacht",
+      "original_name": "Julia Schacht",
+      "gender": 1,
+      "profile_path": "/7qR4XrnhLI1ZBKaSOLbll0LCBU4.jpg"
+    },
+    {
+      "id": 1411014,
+      "credit_id": "66ef50deb348bea4eb3b3660",
+      "name": "Ragnhild Myntevik",
+      "original_name": "Ragnhild Myntevik",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "2017-09-05",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.viafree.no/programmer/underholdning/melk",
+  "id": 73769,
+  "in_production": false,
+  "languages": [
+    "no"
+  ],
+  "last_air_date": "2017-10-03",
+  "last_episode_to_air": {
+    "id": 1375047,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-10-03",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 1,
+    "show_id": 73769,
+    "still_path": "/bo5misMoaFnMQFWg8UJUCLeLQHr.jpg"
+  },
+  "name": "Melk",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 374,
+      "logo_path": "/8tHNliWyaw7WC4q1P6R2K2i6GRF.png",
+      "name": "TV3",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Melk",
+  "overview": "The young mothers Ingri and Mathilde meet as they both give birth on the same day. There's a mix-up with their names but the mix-up is discovered fast and is the start of a fun and beautiful friendship we follow through their maternity leave.",
+  "popularity": 9.0823,
+  "poster_path": "/wYMgMqbIqWXZDjmIgvl6S8vq74t.jpg",
+  "production_companies": [
+    {
+      "id": 145767,
+      "logo_path": "/h9uR2PcH9yyYsVt3iXD6YP4zj52.png",
+      "name": "Anagram Norge",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 20,
+      "id": 92446,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 73769,
+    "imdb_id": "tt7510948",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 334633,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

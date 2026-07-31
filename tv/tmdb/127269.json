@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/olkcZN2gxfOI9R9IeOGNQ9KWSe9.jpg",
+  "created_by": [
+    {
+      "id": 2062256,
+      "credit_id": "6414a6dfede1b028a2b968a2",
+      "name": "Saima Akram Chaudhry",
+      "original_name": "Saima Akram Chaudhry",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2021-04-14",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 127269,
+  "in_production": true,
+  "languages": [
+    "ur"
+  ],
+  "last_air_date": "2021-05-16",
+  "last_episode_to_air": {
+    "id": 3016377,
+    "name": "Episode 33",
+    "overview": "Mega last episode",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-05-16",
+    "episode_number": 33,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 127269,
+    "still_path": null
+  },
+  "name": "Ishq Jalebi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 751,
+      "logo_path": "/t9AJMAOrxcYRmHGloAbxqTTknNP.png",
+      "name": "Har Pal Geo",
+      "origin_country": "PK"
+    }
+  ],
+  "number_of_episodes": 33,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PK"
+  ],
+  "original_language": "ur",
+  "original_name": "Ishq Jalebi",
+  "overview": "An unusual family reunion at Muhammad Boota's residence slowly escalates into a series of realizations, family bonding, and a chance of young love between Bela and Basim.",
+  "popularity": 9.3217,
+  "poster_path": "/jDYqFoH5K2Bqvtk35K87fZkCdDY.jpg",
+  "production_companies": [
+    {
+      "id": 99162,
+      "logo_path": null,
+      "name": "Geo Tv",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PK",
+      "name": "Pakistan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-04-14",
+      "episode_count": 33,
+      "id": 198722,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 127269,
+    "imdb_id": "tt14459216",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

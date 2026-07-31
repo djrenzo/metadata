@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/qXNI3TSkAAUUF7loBvShAdzWRMH.jpg",
+  "created_by": [
+    {
+      "id": 995413,
+      "credit_id": "67890c7038920393ad1d45ff",
+      "name": "Pedro Lopes",
+      "original_name": "Pedro Lopes",
+      "gender": 2,
+      "profile_path": "/8nOOLKBVtjxDZ0ch955LCm66tr3.jpg"
+    },
+    {
+      "id": 3426999,
+      "credit_id": "67890c7955e49bed5e978575",
+      "name": "Inês Gomes",
+      "original_name": "Inês Gomes",
+      "gender": 0,
+      "profile_path": "/1NLJsgicqk4ts6hLU5dxe1bPYov.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2010-01-31",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.sic.sapo.pt/online/sites%20sic/lua-vermelha",
+  "id": 40334,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2012-05-27",
+  "last_episode_to_air": {
+    "id": 3830061,
+    "name": "Episode 180",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-05-27",
+    "episode_number": 180,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 40334,
+    "still_path": null
+  },
+  "name": "Red Moon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 818,
+      "logo_path": "/iyEiVlVWoA6GHKLuNRpXtnPo2rh.png",
+      "name": "SIC",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 180,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Lua Vermelha",
+  "overview": "A love between two worlds...\n\nA private school like any other, but located at the heart of Serra de Sintra. The issues of being young. The love between Afonso and Isabel. But, behind all outward appearances, a terrible secret is about to come undone, putting this impossible love on the line. The fact is that the differences between Afonso and Isabel may be stronger than anything that could bring them together - he's a vampire and is doomed to remain a teenager forever. This is a story of teenage humans and vampires filled with humanity and plenty of thrills.",
+  "popularity": 7.5162,
+  "poster_path": "/982uhGNEaYtBZemcbSBfZXsgggZ.jpg",
+  "production_companies": [
+    {
+      "id": 92108,
+      "logo_path": "/ufaY7DMZUz56C6iaIdaFTZDqYPY.png",
+      "name": "SP Televisão",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-01-31",
+      "episode_count": 180,
+      "id": 83556,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.9,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 40334,
+    "imdb_id": "tt1538439",
+    "freebase_mid": "/m/0h3m0pk",
+    "freebase_id": null,
+    "tvdb_id": 319404,
+    "tvrage_id": null,
+    "wikidata_id": "Q3284205",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/tio0dduiKFPjOEAf9iPLb9v9MNZ.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2022-11-14",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 211128,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2023-10-13",
+  "last_episode_to_air": {
+    "id": 4739329,
+    "name": "Episode 75",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-10-13",
+    "episode_number": 75,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 211128,
+    "still_path": null
+  },
+  "name": "The Iron Heart",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 42,
+      "logo_path": "/gVinXXdpdbLHuXTUUfx4R9PyuPB.png",
+      "name": "TV5",
+      "origin_country": "PH"
+    },
+    {
+      "id": 3920,
+      "logo_path": "/eK7hBqDuNwvHqBoWtVgCdNIehsU.png",
+      "name": "Kapamilya Channel",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 238,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "The Iron Heart",
+  "overview": "An undercover agent goes on a dangerous mission to bring down a crime ring. Fueled by a bitter and painful past, he along with his allies faces the grueling task that will challenge his resolve and strength.",
+  "popularity": 9.2348,
+  "poster_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg",
+  "production_companies": [
+    {
+      "id": 127708,
+      "logo_path": "/wUDqa40B2wXVXm7J1RY6LQfg1gn.png",
+      "name": "Star Creatives",
+      "origin_country": "PH"
+    },
+    {
+      "id": 162722,
+      "logo_path": "/swtFEO24EIzf85ZpzwmKlWveHUL.png",
+      "name": "ABS-CBN Studios",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-11-14",
+      "episode_count": 163,
+      "id": 310371,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/91V6NI1JXCTDhaSSkoY7T87hk09.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-03",
+      "episode_count": 75,
+      "id": 346559,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 51,
+  "external_ids": {
+    "id": 211128,
+    "imdb_id": "tt23651372",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 429579,
+    "tvrage_id": null,
+    "wikidata_id": "Q115907999",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

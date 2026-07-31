@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/5bfq3yK2rEWU1KZGPd5rQQWtdzY.jpg",
+  "created_by": [
+    {
+      "id": 3463642,
+      "credit_id": "622db1a6afe224001c23260c",
+      "name": "Gloria Fickling",
+      "original_name": "Gloria Fickling",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3463643,
+      "credit_id": "622db1b1aad9c2001b4eced9",
+      "name": "Skip Fickling",
+      "original_name": "Skip Fickling",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1965-09-17",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 14404,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1966-04-08",
+  "last_episode_to_air": {
+    "id": 518862,
+    "name": "An Eerie, Airy, Thing",
+    "overview": "Sam's friend, Gordon Forbes, is threatening to jump from the ledge of his upper-storey hotel room, and the only person he wants to talk to is his estranged wife. Unfortunately, when Honey visits the Forbes home, she discovers Mrs. Forbes has been murdered.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1966-04-08",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 14404,
+    "still_path": "/do88j2uLg732PXJ06qMZjGGQVKM.jpg"
+  },
+  "name": "Honey West",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 30,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Honey West",
+  "overview": "After her father's death, Honey West takes over his high-tech private-detective firm, assisted by rugged Sam Bolt--and her pet ocelot Bruce.",
+  "popularity": 8.6688,
+  "poster_path": "/fQSZkTRaDOAtYPFqVd6qay1Vsab.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1965-04-21",
+      "episode_count": 1,
+      "id": 25779,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-17",
+      "episode_count": 30,
+      "id": 25778,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/5gcabL7KiIiGk8GJgkKm6wv65jx.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The wildest private eye ever!",
+  "type": "Scripted",
+  "vote_average": 7.235,
+  "vote_count": 17,
+  "external_ids": {
+    "id": 14404,
+    "imdb_id": "tt0058814",
+    "freebase_mid": "/m/026lym5",
+    "freebase_id": null,
+    "tvdb_id": 77211,
+    "tvrage_id": 3892,
+    "wikidata_id": "Q1248855",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

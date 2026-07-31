@@ -1,0 +1,144 @@
+{
+  "adult": false,
+  "backdrop_path": "/v3UInGINgDu1a6L9AwJOcERkz0R.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2020-09-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://programs.sbs.co.kr/culture/2020tail/main",
+  "id": 111998,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-03-19",
+  "last_episode_to_air": {
+    "id": 7578699,
+    "name": "Episode 233",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-23",
+    "episode_number": 233,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 111998,
+    "still_path": null
+  },
+  "name": "The story of the day when the tail was bitten",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 250,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "꼬리에 꼬리를 무는 그날 이야기",
+  "overview": "",
+  "popularity": 9.1528,
+  "poster_path": "/ty9wVEbzvJre9ClM7ETgBFreJZG.jpg",
+  "production_companies": [
+    {
+      "id": 38369,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "Seoul Broadcasting System",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-06-14",
+      "episode_count": 4,
+      "id": 166630,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-17",
+      "episode_count": 13,
+      "id": 166628,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/prgbhFHz2nCdLfPDMewjOC0CL0e.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-11",
+      "episode_count": 21,
+      "id": 185483,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/3PgrbT85pi89lGTcXA6Iu6TeoYO.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-21",
+      "episode_count": 233,
+      "id": 216542,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/ty9wVEbzvJre9ClM7ETgBFreJZG.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 111998,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 406054,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

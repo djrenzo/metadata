@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/5WKxgFCiipmevAABsG9KBzESDGM.jpg",
+  "created_by": [
+    {
+      "id": 4274059,
+      "credit_id": "654e6fe85a5ed000e3f64c98",
+      "name": "Ignacio Lecouna",
+      "original_name": "Ignacio Lecouna",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2008-04-30",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 8341,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2008-08-26",
+  "last_episode_to_air": {
+    "id": 4734024,
+    "name": "Episode 120",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-08-26",
+    "episode_number": 120,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 8341,
+    "still_path": null
+  },
+  "name": "Amanda O",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2485,
+      "logo_path": "/cvG7iQpaFmQlZ7XkBq985ASTQei.png",
+      "name": "América TV",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 120,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Amanda O",
+  "overview": "Amanda O is a comedy, an Internet television series in Argentina produced by Dori Media Group. The show features a cast headed by Natalia Oreiro as Amanda O and Luciano Castro as Dante. The show will be on internet at Novebox.com, with a summary on television issued by América 2. It consists of about 120 very short episodes, each approximately eight minutes long. This telenovela has characteristics of a nightmare, dystopia, and science fiction, being drastically different from standard telenovelas, at least approaching serious drama.",
+  "popularity": 8.7715,
+  "poster_path": "/hhSR3YaNCPNACk1Z6r0mpK7bvCM.jpg",
+  "production_companies": [
+    {
+      "id": 121141,
+      "logo_path": null,
+      "name": "Yair Dori Media Group",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-04-30",
+      "episode_count": 120,
+      "id": 331802,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 331803,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 8341,
+    "imdb_id": "tt1440409",
+    "freebase_mid": "/m/04zwtwd",
+    "freebase_id": "/en/amanda_o",
+    "tvdb_id": 313397,
+    "tvrage_id": null,
+    "wikidata_id": "Q971777",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

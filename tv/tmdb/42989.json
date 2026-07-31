@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/mUwVKzVTigx9ozSrc0mC124Hpnv.jpg",
+  "created_by": [
+    {
+      "id": 234937,
+      "credit_id": "57fb891ec3a3683ac6008b52",
+      "name": "Alain Tixier",
+      "original_name": "Alain Tixier",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1486849,
+      "credit_id": "57fb893792514144790093af",
+      "name": "Gil Kébaïli",
+      "original_name": "Gil Kébaïli",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1199050,
+      "credit_id": "57fb894192514144790093b3",
+      "name": "Luc Marescot",
+      "original_name": "Luc Marescot",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1612544,
+      "credit_id": "57fb896092514144790093c7",
+      "name": "Krov Menuhin",
+      "original_name": "Krov Menuhin",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1998-11-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 42989,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2014-02-27",
+  "last_episode_to_air": {
+    "id": 1778740,
+    "name": "Le rêve d'Icare",
+    "overview": "France, Spain, 2012",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-02-27",
+    "episode_number": 52,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 42989,
+    "still_path": null
+  },
+  "name": "Ushuaïa Nature",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Ushuaïa Nature",
+  "overview": "In each episode, an exotic part of the world, of various extent, either on land and/or in the sea, defined by natural geography or human population, is presented. Native wildlife, natural conditions and their interaction with local people are examined.",
+  "popularity": 8.5598,
+  "poster_path": "/9E4J5lOaF1FFRGsHPY8RPZeBDVV.jpg",
+  "production_companies": [
+    {
+      "id": 35953,
+      "logo_path": "/n4OA4cWRIjyGPVz6y7BXydyHSKU.png",
+      "name": "TF1 Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 171749,
+      "logo_path": null,
+      "name": "Yagan Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 304714,
+      "logo_path": null,
+      "name": "Studios 107",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-11-11",
+      "episode_count": 52,
+      "id": 80932,
+      "name": "Season 1",
+      "overview": "\"Ushuaïa\" focuses on nature and the environment",
+      "poster_path": "/8sRwu3J20QLj5nywrzW8KGTI3Fj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 42989,
+    "imdb_id": "tt1469321",
+    "freebase_mid": "/m/0k0w2l5",
+    "freebase_id": null,
+    "tvdb_id": 83959,
+    "tvrage_id": null,
+    "wikidata_id": "Q3552556",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

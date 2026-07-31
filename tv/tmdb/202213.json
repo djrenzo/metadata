@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/1LyPGN2D5MtMeCPzmfq5QC5zaXv.jpg",
+  "created_by": [
+    {
+      "id": 14639,
+      "credit_id": "63c2c291a5743d00b0bff620",
+      "name": "Mel Brooks",
+      "original_name": "Mel Brooks",
+      "gender": 2,
+      "profile_path": "/c21qNcMJlHnRolfhQhZOVacjtwI.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-03-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.hulu.com/series/history-of-the-world-part-ii-6c9bcf68-0c93-497a-aa4f-d5215faa9860",
+  "id": 202213,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-03-09",
+  "last_episode_to_air": {
+    "id": 4159240,
+    "name": "VIII",
+    "overview": "The Berlin Wall comes down; Christianity gets a makeover; Shirley Chisholm speaks at the DNC.",
+    "vote_average": 4.2,
+    "vote_count": 5,
+    "air_date": "2023-03-09",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 202213,
+    "still_path": "/izWqVh8bseaLsXfUTbWOMif5w8g.jpg"
+  },
+  "name": "History of the World: Part II",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 453,
+      "logo_path": "/pqUTCleNUiTLAVlelGxUgWn1ELh.png",
+      "name": "Hulu",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "History of the World: Part II",
+  "overview": "Explore different periods of human history through a variety of sketches.",
+  "popularity": 9.2189,
+  "poster_path": "/6PlHUsScubMx3VADGRh1kIylML2.jpg",
+  "production_companies": [
+    {
+      "id": 151789,
+      "logo_path": "/4EFPAN2RcTdpgMLHS21ZRVG2RYb.png",
+      "name": "Searchlight Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 5612,
+      "logo_path": null,
+      "name": "Brooksfilms",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-03-06",
+      "episode_count": 8,
+      "id": 294126,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6PlHUsScubMx3VADGRh1kIylML2.jpg",
+      "season_number": 1,
+      "vote_average": 3.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Hysterically accurate.",
+  "type": "Miniseries",
+  "vote_average": 5.661,
+  "vote_count": 90,
+  "external_ids": {
+    "id": 202213,
+    "imdb_id": "tt15715052",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 412421,
+    "tvrage_id": null,
+    "wikidata_id": "Q111970110",
+    "facebook_id": null,
+    "instagram_id": "historyoftheworld",
+    "twitter_id": null
+  }
+}

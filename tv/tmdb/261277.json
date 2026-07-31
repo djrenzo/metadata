@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/eHFqRXEUrXbVsLKK7y3r2RE3pIy.jpg",
+  "created_by": [
+    {
+      "id": 4877829,
+      "credit_id": "66b761636f9cb4e2e60731e7",
+      "name": "王大歌",
+      "original_name": "王大歌",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2000-01-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 261277,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2000-05-13",
+  "last_episode_to_air": {
+    "id": 5525711,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-05-13",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 261277,
+    "still_path": null
+  },
+  "name": "一代名妓",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 20,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "一代名妓",
+  "overview": "",
+  "popularity": 8.9949,
+  "poster_path": "/rsfrGv9faAa200PuWTjEQkk9XKY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 20,
+      "id": 405956,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 261277,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/vlPAoivIHvoeDwOzHXgzXLeZCyE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2001-10-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 54072,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2003-04-11",
+  "last_episode_to_air": {
+    "id": 6382328,
+    "name": "Episode 122",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-04-11",
+    "episode_number": 122,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 54072,
+    "still_path": null
+  },
+  "name": "Under the Acropolis",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 763,
+      "logo_path": "/jaY3I8qSvcymAOMsafafhFatC80.png",
+      "name": "Alpha TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 250,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Κάτω από την Ακρόπολη",
+  "overview": "Stories of ordinary people living in a neighborhood of Athens below the Acropolis.",
+  "popularity": 8.7933,
+  "poster_path": "/jgu5Tpthwd6IMA3Y7oETDi2KctG.jpg",
+  "production_companies": [
+    {
+      "id": 40238,
+      "logo_path": "/jaY3I8qSvcymAOMsafafhFatC80.png",
+      "name": "Alpha TV",
+      "origin_country": "GR"
+    },
+    {
+      "id": 76876,
+      "logo_path": null,
+      "name": "STEFI Cine & TV Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-10-01",
+      "episode_count": 128,
+      "id": 316886,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/yEIQPFi0Fu67tG4aDpNiEEtSZUL.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-30",
+      "episode_count": 122,
+      "id": 316887,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/zdGN25ppjyWNXVtiY41y90KkW8h.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 54072,
+    "imdb_id": "tt0320044",
+    "freebase_mid": "/m/0w2vcwj",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

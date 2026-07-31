@@ -1,0 +1,152 @@
+{
+  "adult": false,
+  "backdrop_path": "/77PRX4gLDr551V62pdCF9Gl89cX.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2011-09-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://noovo.ca/videos/les-detestables/",
+  "id": 64672,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2016-04-18",
+  "last_episode_to_air": {
+    "id": 1187038,
+    "name": "Episode 28",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-04-18",
+    "episode_number": 28,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 5,
+    "show_id": 64672,
+    "still_path": null
+  },
+  "name": "Les Détestables",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 583,
+      "logo_path": "/l3TVdYRGHqcDWMXxHdofswgynW9.png",
+      "name": "V",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 85,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Détestables",
+  "overview": "Captured by hidden cameras, the nine most hateable seniors of the small screen pull pranks on the public, with each trick being more outlandish than the last.",
+  "popularity": 8.6117,
+  "poster_path": "/2LDKqG1sRGXPC3Nl6TgEAIh9Jq6.jpg",
+  "production_companies": [
+    {
+      "id": 69754,
+      "logo_path": "/4iI3g8mbKyn61EtucAlwqCzZYkE.png",
+      "name": "KOTV",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-09-06",
+      "episode_count": 14,
+      "id": 72675,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-05",
+      "episode_count": 14,
+      "id": 72676,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 14,
+      "id": 72677,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-08",
+      "episode_count": 15,
+      "id": 72678,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-07",
+      "episode_count": 28,
+      "id": 72679,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 64672,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 253160,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

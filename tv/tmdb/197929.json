@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/zdpDdMe3zxRPMeUBWWNP7shBIzT.jpg",
+  "created_by": [
+    {
+      "id": 17098,
+      "credit_id": "637a3025fab3fa008204369a",
+      "name": "José Manuel Lorenzo",
+      "original_name": "José Manuel Lorenzo",
+      "gender": 2,
+      "profile_path": "/riS54oAzMhaNguIAemHkfidZuQp.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-10-28",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 197929,
+  "in_production": false,
+  "languages": [
+    "es",
+    "pt"
+  ],
+  "last_air_date": "2026-06-11",
+  "last_episode_to_air": {
+    "id": 7134898,
+    "name": "Episode 6",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 2,
+    "air_date": "2026-06-11",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 3,
+    "show_id": 197929,
+    "still_path": null
+  },
+  "name": "El Inmortal: Gangs of Madrid",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6920,
+      "logo_path": "/tZSV7HC7DVgzXwDSkuu3PkW8C1w.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "El inmortal",
+  "overview": "Consists of the fictionalization of the story of 'Los Miami's', a criminal organization led by 'El inmortal' that controlled the cocaine trade in Madrid in the 1990s.",
+  "popularity": 9.0063,
+  "poster_path": "/s7Ig1Ra8TrF0smCa20RteIsRR8H.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-28",
+      "episode_count": 8,
+      "id": 288268,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/s7Ig1Ra8TrF0smCa20RteIsRR8H.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2024-02-22",
+      "episode_count": 6,
+      "id": 370935,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/2ELliPNvmLud7YWfvYbjltQltWC.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2026-06-11",
+      "episode_count": 6,
+      "id": 510071,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/b3MOeLjS4bzu5jtBsdonHnTFyX6.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.027,
+  "vote_count": 37,
+  "external_ids": {
+    "id": 197929,
+    "imdb_id": "tt8712456",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 406788,
+    "tvrage_id": null,
+    "wikidata_id": "Q107985886",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2015-01-06",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://hornadolna2.markiza.sk/",
+  "id": 66179,
+  "in_production": true,
+  "languages": [
+    "sk"
+  ],
+  "last_air_date": "2023-05-25",
+  "last_episode_to_air": {
+    "id": 4565932,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-05-25",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 14,
+    "show_id": 66179,
+    "still_path": null
+  },
+  "name": "Horná Dolná",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 550,
+      "logo_path": "/e3v7L2zlVEO1GLH7pv0f1CNFIeK.png",
+      "name": "Markíza",
+      "origin_country": "SK"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 14,
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_name": "Horná Dolná",
+  "overview": "",
+  "popularity": 8.3293,
+  "poster_path": "/zhlYd1HDJxUmlkmu8bbDiAnqbXb.jpg",
+  "production_companies": [
+    {
+      "id": 94720,
+      "logo_path": null,
+      "name": "Markíza Slovakia",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-01-06",
+      "episode_count": 8,
+      "id": 76120,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2015-09-09",
+      "episode_count": 8,
+      "id": 83603,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-11",
+      "episode_count": 9,
+      "id": 93839,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zyNOC29soOXwCDj349UIosHGBp7.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-05",
+      "episode_count": 8,
+      "id": 93840,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/3Yy9cDa2yLl8353JPDCaeOOGe95.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-13",
+      "episode_count": 8,
+      "id": 93841,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/mko3EcBpEiPE9R647OvWVyFdZKz.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 12,
+      "id": 93842,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/t637d5HdSh3A8HCS5J9IgZTG8iH.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-01",
+      "episode_count": 12,
+      "id": 127780,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-06",
+      "episode_count": 11,
+      "id": 126442,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-28",
+      "episode_count": 15,
+      "id": 126443,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-05",
+      "episode_count": 13,
+      "id": 131982,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-05",
+      "episode_count": 14,
+      "id": 179161,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-04",
+      "episode_count": 13,
+      "id": 188097,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-02",
+      "episode_count": 13,
+      "id": 216567,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-04",
+      "episode_count": 16,
+      "id": 242928,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 66179,
+    "imdb_id": "tt7889192",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 291434,
+    "tvrage_id": null,
+    "wikidata_id": "Q20493321",
+    "facebook_id": "HornaDolnaTVMarkiza",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

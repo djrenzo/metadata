@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/602Kor7Lr2kQ839ih2nnV6611zn.jpg",
+  "created_by": [
+    {
+      "id": 3093610,
+      "credit_id": "66f6f3b5675798e92e91fd88",
+      "name": "Thoukis Thouki",
+      "original_name": "Θουκής Θουκή",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2011-10-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 115407,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2013-03-15",
+  "last_episode_to_air": {
+    "id": 6601938,
+    "name": "Episode 101",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-03-15",
+    "episode_number": 101,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 2,
+    "show_id": 115407,
+    "still_path": null
+  },
+  "name": "Άσπρα Μπαλόνια",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4211,
+      "logo_path": "/3U5xrljBkRZ4rCg5HVtANa1Deg9.png",
+      "name": "Sigma TV",
+      "origin_country": "CY"
+    }
+  ],
+  "number_of_episodes": 269,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CY"
+  ],
+  "original_language": "el",
+  "original_name": "Άσπρα Μπαλόνια",
+  "overview": "",
+  "popularity": 9.2341,
+  "poster_path": "/wDqFoyHKOoKBnS0FPCGy3EI2PbB.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CY",
+      "name": "Cyprus"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-10-10",
+      "episode_count": 168,
+      "id": 173884,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dOtuwXZsoTY9nlDGf8PElCpTjG2.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-08",
+      "episode_count": 101,
+      "id": 420631,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/AmiEtyTSvzImmQx5IrHzDmPC8rN.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 115407,
+    "imdb_id": "tt2584588",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

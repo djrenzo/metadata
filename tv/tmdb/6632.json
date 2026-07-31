@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1964-10-05",
+  "genres": [],
+  "homepage": "",
+  "id": 6632,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1966-03-25",
+  "last_episode_to_air": {
+    "id": 379047,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1966-03-25",
+    "episode_number": 127,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 2,
+    "show_id": 6632,
+    "still_path": null
+  },
+  "name": "The Young Marrieds",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 289,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Young Marrieds",
+  "overview": "The Young Marrieds is an American daytime soap opera which aired on ABC from October 5, 1964 to March 25, 1966.\n\nThe program was created by James Elward and written by Elward with Frances Rickett. Authors John Pascal and Francine Pascal also wrote for the series. It was produced in Hollywood by Selig Seligman through his production company Selmur Productions. Producers included Richard Dunn and Eugene Barr. The serial was directed by Frank Pacelli.\n\nMike Lawrence was the series announcer.",
+  "popularity": 8.9081,
+  "poster_path": "/fTaNXyo2mFK4VhNAxgqB33VTVzQ.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1964-10-05",
+      "episode_count": 258,
+      "id": 16888,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-10-04",
+      "episode_count": 31,
+      "id": 16889,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 6632,
+    "imdb_id": "tt0057803",
+    "freebase_mid": "/m/02vl7jm",
+    "freebase_id": null,
+    "tvdb_id": 78283,
+    "tvrage_id": 7321,
+    "wikidata_id": "Q7776779",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

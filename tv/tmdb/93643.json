@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2019-04-25",
+  "genres": [],
+  "homepage": "http://tv.mnet.com/program/2129",
+  "id": 93643,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2022-09-07",
+  "last_episode_to_air": {
+    "id": 3901864,
+    "name": "Episode 28",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-09-07",
+    "episode_number": 28,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 93643,
+    "still_path": null
+  },
+  "name": "TMI SHOW",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 809,
+      "logo_path": "/86kvLisM5gol3ckgayJahAf2G9M.png",
+      "name": "Mnet",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "TMI SHOW",
+  "overview": "",
+  "popularity": 8.6823,
+  "poster_path": "/wJ779QoklVnX1LHoD4zyKeCfRpb.jpg",
+  "production_companies": [
+    {
+      "id": 195973,
+      "logo_path": "/rCudI6r9rJliRJXq3JlMjMj4FHF.png",
+      "name": "Studio Take One",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-25",
+      "episode_count": 86,
+      "id": 132390,
+      "name": "TMI NEWS",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-09",
+      "episode_count": 28,
+      "id": 303312,
+      "name": "TMI NEWS SHOW",
+      "overview": "",
+      "poster_path": "/hVxYd9Wy5Jbrz8wGXeebG3Ux8Nn.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 93643,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

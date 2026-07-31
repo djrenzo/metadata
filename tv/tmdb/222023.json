@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/gkw5MAAD8jr06RXT5pd2ibNN5bR.jpg",
+  "created_by": [
+    {
+      "id": 84417,
+      "credit_id": "640bd6a9b42242008a2c9347",
+      "name": "Lee Eisenberg",
+      "original_name": "Lee Eisenberg",
+      "gender": 2,
+      "profile_path": "/qxA2eLl3AmBKfXqeCQy7RDlZSkE.jpg"
+    },
+    {
+      "id": 84416,
+      "credit_id": "640bd6b2a6c104007903e372",
+      "name": "Gene Stupnitsky",
+      "original_name": "Gene Stupnitsky",
+      "gender": 2,
+      "profile_path": "/xAgtuSwjc8t7K4Z7AquN6a0wD0G.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-04-07",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0B8JVS7Y8",
+  "id": 222023,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-04-21",
+  "last_episode_to_air": {
+    "id": 4291123,
+    "name": "The Verdict",
+    "overview": "After delivering the verdict, Ronald finds out that another trial was being held in this court and another verdict has been reached.",
+    "vote_average": 8,
+    "vote_count": 17,
+    "air_date": "2023-04-21",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 222023,
+    "still_path": "/wTQzv1l7Wpz6BIkhs9dNQI28paB.jpg"
+  },
+  "name": "Jury Duty",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5865,
+      "logo_path": "/n0hqN6lKlBENn9WAbSC2WwHRPnS.png",
+      "name": "Amazon Freevee",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Jury Duty",
+  "overview": "The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens — inside the courtroom and out — is carefully planned.",
+  "popularity": 8.7216,
+  "poster_path": "/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
+  "production_companies": [
+    {
+      "id": 20581,
+      "logo_path": "/6w8pqlbdJmHPV7d7KP0xPEnYaSV.png",
+      "name": "Picrow",
+      "origin_country": "US"
+    },
+    {
+      "id": 52961,
+      "logo_path": null,
+      "name": "The District",
+      "origin_country": "US"
+    },
+    {
+      "id": 176198,
+      "logo_path": "/7KUFE7Ze5u4vfllNGCeowNytwBR.png",
+      "name": "Piece of Work Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-06-04",
+      "episode_count": 8,
+      "id": 343699,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-07",
+      "episode_count": 8,
+      "id": 332051,
+      "name": "Season 1",
+      "overview": "The inner workings of an American jury trial through the eyes of one particular juror, Ronald Gladden. Gladden is unaware the entire case is fake, everyone except him is an actor and everything that happens — inside the courtroom and out — is carefully planned.",
+      "poster_path": "/vhKgKp4Naut4M6QHGbEnqtvNqrL.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "12 jurors. 11 actors.",
+  "type": "Scripted",
+  "vote_average": 7.597,
+  "vote_count": 252,
+  "external_ids": {
+    "id": 222023,
+    "imdb_id": "tt22074164",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 432093,
+    "tvrage_id": null,
+    "wikidata_id": "Q117801614",
+    "facebook_id": "jurydutypresents",
+    "instagram_id": "jurydutypresents",
+    "twitter_id": "JuryDutyPresent"
+  }
+}

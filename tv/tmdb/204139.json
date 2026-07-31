@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/k26HStggCmPVdccTSfYkKXb2vEp.jpg",
+  "created_by": [
+    {
+      "id": 2323584,
+      "credit_id": "62a9ddc43d4d96341d5c454e",
+      "name": "Natasha Kline",
+      "original_name": "Natasha Kline",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2024-07-25",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://disneynow.com/show/94ae42ab-f726-4d44-8fb8-e6d9a27917ef",
+  "id": 204139,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-04-27",
+  "last_episode_to_air": {
+    "id": 6079510,
+    "name": "Summer of Sueños",
+    "overview": "Tater and the primos help Buela fulfill her American dream.",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "air_date": "2025-04-27",
+    "episode_number": 55,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 1,
+    "show_id": 204139,
+    "still_path": null
+  },
+  "name": "Primos",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 54,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 55,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Primos",
+  "overview": "Soon to be 10-year-old Tater Ramirez Humphrey's summer plans are turned upside down when all 12 of her primos are invited to stay the summer.",
+  "popularity": 8.4669,
+  "poster_path": "/3jiIJgCUT2btYJLASV11t9vxPn6.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-07-25",
+      "episode_count": 55,
+      "id": 297535,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hmFnWvPiXoPuxsei1CuoWuNra56.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 204139,
+    "imdb_id": "tt15837206",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 449704,
+    "tvrage_id": null,
+    "wikidata_id": "Q119953340",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

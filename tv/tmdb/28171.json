@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/67jBvFDfPSdWLMOrR97hJjRsT8j.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2004-09-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 28171,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2005-06-30",
+  "last_episode_to_air": {
+    "id": 1879809,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-06-30",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 3,
+    "show_id": 28171,
+    "still_path": null
+  },
+  "name": "Redakce",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Redakce",
+  "overview": "",
+  "popularity": 8.851,
+  "poster_path": "/qaXfb6V9Be6kgtzwc1ka3Cobh3g.jpg",
+  "production_companies": [
+    {
+      "id": 119646,
+      "logo_path": null,
+      "name": "CET 21",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-09-16",
+      "episode_count": 13,
+      "id": 129377,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-06",
+      "episode_count": 13,
+      "id": 129378,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-04-07",
+      "episode_count": 13,
+      "id": 129379,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.6,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 28171,
+    "imdb_id": "tt0437032",
+    "freebase_mid": "/m/07ch2sy",
+    "freebase_id": "/en/redakce",
+    "tvdb_id": 215741,
+    "tvrage_id": 16512,
+    "wikidata_id": "Q12049045",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-09-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 73675,
+  "in_production": false,
+  "languages": [
+    "lt"
+  ],
+  "last_air_date": "2017-12-12",
+  "last_episode_to_air": {
+    "id": 5893104,
+    "name": "Episode 58",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-12-12",
+    "episode_number": 58,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 73675,
+    "still_path": null
+  },
+  "name": "Meilė gydo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5185,
+      "logo_path": "/7KeKwKcOIYpA0GsOBIkZCVUJcWf.png",
+      "name": "LNK",
+      "origin_country": "LT"
+    }
+  ],
+  "number_of_episodes": 58,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "LT"
+  ],
+  "original_language": "lt",
+  "original_name": "Meilė gydo",
+  "overview": "Pagrindiniai serialo herojai – medikai ir kiti ligoninės darbuotojai bei jų artimieji, kasdien kovojantys ne tik su mirtimi, bet ir su savo pačių problemomis, praeitimi, dėl savo meilės",
+  "popularity": 8.5493,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 262897,
+      "logo_path": null,
+      "name": "VRS WPI",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 58,
+      "id": 92270,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvių"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 73675,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

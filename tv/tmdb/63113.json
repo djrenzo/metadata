@@ -1,0 +1,197 @@
+{
+  "adult": false,
+  "backdrop_path": "/mwssYwRnxNsCqNpXdLZ0SUEu8P1.jpg",
+  "created_by": [
+    {
+      "id": 19826,
+      "credit_id": "55963437c3a36870ce00423a",
+      "name": "Joel Joan",
+      "original_name": "Joel Joan",
+      "gender": 2,
+      "profile_path": "/z9XdC14NWhZ40za3zt8gMMRW7Lk.jpg"
+    },
+    {
+      "id": 560254,
+      "credit_id": "6464e3ef76eecf00fd34ba57",
+      "name": "Jordi Sánchez",
+      "original_name": "Jordi Sánchez",
+      "gender": 2,
+      "profile_path": "/mNB7etSWQng4c4AyycnNb5HC7a6.jpg"
+    },
+    {
+      "id": 4067132,
+      "credit_id": "6464e3be0284200119bd3645",
+      "name": "Albert Plans",
+      "original_name": "Albert Plans",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2798347,
+      "credit_id": "6464e3c776eecf015cba799a",
+      "name": "Sergi Pompermayer",
+      "original_name": "Sergi Pompermayer",
+      "gender": 0,
+      "profile_path": "/iQ2Czd6kxRCO8uGKIjLg7eK8AzS.jpg"
+    },
+    {
+      "id": 2842765,
+      "credit_id": "6464e380d05a030119ded210",
+      "name": "Núria Furió",
+      "original_name": "Núria Furió",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1452364,
+      "credit_id": "6464e3dc0284200153066094",
+      "name": "Mercè Sarrias",
+      "original_name": "Mercè Sarrias",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2004-11-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.ccma.cat/tv3/alacarta/porca-miseria/",
+  "id": 63113,
+  "in_production": false,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2007-12-23",
+  "last_episode_to_air": {
+    "id": 4178325,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-12-23",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 63113,
+    "still_path": null
+  },
+  "name": "Porca Misèria",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 406,
+      "logo_path": "/bvjlXF06a7hR3vJ4IoFkGVLaBFo.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "Porca Misèria",
+  "overview": "",
+  "popularity": 8.5438,
+  "poster_path": "/rVTVIWBtaQkOey6lKVQbM1etk3P.jpg",
+  "production_companies": [
+    {
+      "id": 57149,
+      "logo_path": null,
+      "name": "Arriska Films",
+      "origin_country": ""
+    },
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-11-25",
+      "episode_count": 13,
+      "id": 68246,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/StPecv2WkI6G77cJTTVahIKvqG.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-11-13",
+      "episode_count": 13,
+      "id": 68247,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-20",
+      "episode_count": 13,
+      "id": 68248,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-23",
+      "episode_count": 13,
+      "id": 68249,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 63113,
+    "imdb_id": "tt0429413",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 95561,
+    "tvrage_id": null,
+    "wikidata_id": "Q9061779",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

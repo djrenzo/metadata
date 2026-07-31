@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/cKrLulPfFvDb3vCTASHTcDYniJ2.jpg",
+  "created_by": [
+    {
+      "id": 1304322,
+      "credit_id": "56a396b7925141720200311a",
+      "name": "Jorge Lozano Soriano",
+      "original_name": "Jorge Lozano Soriano",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1567379,
+      "credit_id": "56a396c8c3a3683893003087",
+      "name": "Carmen Daniels",
+      "original_name": "Carmen Daniels",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2000-07-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 16690,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2000-11-10",
+  "last_episode_to_air": {
+    "id": 3712944,
+    "name": "Episode 90",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-11-10",
+    "episode_number": 90,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 16690,
+    "still_path": null
+  },
+  "name": "Mi Destino Eres Tú",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 90,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Mi Destino Eres Tú",
+  "overview": "Mi destino eres tú is a 2000 Mexican telenovela. It is a production of Carla Estrada and the protagonists were Lucero and Jorge Salinas.",
+  "popularity": 8.3134,
+  "poster_path": "/6QBk9ersspOxGYdBOQBNsxCVVJh.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-07-10",
+      "episode_count": 90,
+      "id": 74077,
+      "name": "Season 1",
+      "overview": "Season 1 of Mi destino eres tu",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.61,
+  "vote_count": 41,
+  "external_ids": {
+    "id": 16690,
+    "imdb_id": "tt0249325",
+    "freebase_mid": "/m/02x1mvf",
+    "freebase_id": "/en/mi_destino_eres_tu",
+    "tvdb_id": null,
+    "tvrage_id": 9697,
+    "wikidata_id": "Q1248414",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

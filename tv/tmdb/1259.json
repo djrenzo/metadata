@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/qMAHJjXBcb9wsqwMnCzbSy0CtGX.jpg",
+  "created_by": [
+    {
+      "id": 102429,
+      "credit_id": "56d646a0c3a3681e4401ab4b",
+      "name": "Roger Corman",
+      "original_name": "Roger Corman",
+      "gender": 2,
+      "profile_path": "/m0ApZMol42l8vLV8MLpUSCpyA6n.jpg"
+    },
+    {
+      "id": 102689,
+      "credit_id": "56d6469492514162b7000b5a",
+      "name": "Craig J. Nevius",
+      "original_name": "Craig J. Nevius",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2001-01-05",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1259,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2001-06-30",
+  "last_episode_to_air": {
+    "id": 59202,
+    "name": "Zodiac Attack (2)",
+    "overview": "Unable to defeat the combined might of four supervillains, Darcy questions her vocation as a superhero. When Dr. Phoenix resurrects her father, Lieutenant Walker, Darcy is inspired to remain true to her calling. Once again, Darcy becomes Black Scorpion, and this time father and daughter battle the four supervillains together.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-06-30",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 1259,
+    "still_path": "/mnoP9xr701XoQnxBQT2lMfOt4Ho.jpg"
+  },
+  "name": "Black Scorpion",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 77,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 22,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Black Scorpion",
+  "overview": "The City of Angels is falling apart, and crime pervades the city to the core. The mayor is corrupt, the police are inept, the city needs a figure to take control of the situation. Then in the light of day Darcy Walker is a cop, but in the dark of night she becomes the Black Scorpion. She does with a mash what she can't do with a badge. This is vigilante justice, old school style.",
+  "popularity": 8.4852,
+  "poster_path": "/x9KnwmF9iP7uvNVkiRVJMelF327.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-08-22",
+      "episode_count": 5,
+      "id": 3340,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-05",
+      "episode_count": 22,
+      "id": 3339,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/szuqF0G3mB2sJeyVewKgzfwhTIF.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "She's bold. She's beautiful. Her sting is deadly.",
+  "type": "Scripted",
+  "vote_average": 5.9,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 1259,
+    "imdb_id": "tt0155425",
+    "freebase_mid": "/m/0h6jz9",
+    "freebase_id": "/en/black_scorpion",
+    "tvdb_id": 74764,
+    "tvrage_id": null,
+    "wikidata_id": "Q4921790",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

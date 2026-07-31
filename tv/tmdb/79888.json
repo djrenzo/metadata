@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/gE8Ov8bI6P0Fdfl6KBW2HzHo2p6.jpg",
+  "created_by": [
+    {
+      "id": 2053453,
+      "credit_id": "5b0dd7289251415a14000aa2",
+      "name": "Stephanie Blake",
+      "original_name": "Stephanie Blake",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2053515,
+      "credit_id": "5b0dd734c3a36805310013e7",
+      "name": "Thomas Forwood",
+      "original_name": "Thomas Forwood",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "2016-12-17",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-5/simon/",
+  "id": 79888,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2023-12-27",
+  "last_episode_to_air": {
+    "id": 5232863,
+    "name": "Episode 40",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-27",
+    "episode_number": 40,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 79888,
+    "still_path": null
+  },
+  "name": "Simon",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 255,
+      "logo_path": "/8xK6AdNT6PfRyygRvb2MKCoqrv2.png",
+      "name": "France 5",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 206,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Simon",
+  "overview": "Simon is an adorable little rabbit who exudes all the vitality of childhood. He's at an age when little rabbits (and indeed little children!) are starting to come into their own - challenging relationships with parents, embarking upon school life, learning about the world in general, dealing with authority and of course, language.",
+  "popularity": 8.7989,
+  "poster_path": "/iuS4DrakZQTtQKLeQ7ZTjUAQKoN.jpg",
+  "production_companies": [
+    {
+      "id": 85027,
+      "logo_path": null,
+      "name": "GO-N Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-12-17",
+      "episode_count": 52,
+      "id": 104500,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cHkDHyXvkqAUXzqDuB6cGG4SicG.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-12-22",
+      "episode_count": 52,
+      "id": 143783,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4KKIDq04zTme1eD2BbMCZEZ5qQm.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-16",
+      "episode_count": 52,
+      "id": 318001,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/x23va2olGiiFZIVhF7Mv68XJ0LD.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-16",
+      "episode_count": 50,
+      "id": 332676,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/2F3Ulidx5puDKmwTAsOYSfYGCWd.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.091,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 79888,
+    "imdb_id": "tt7699866",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 345387,
+    "tvrage_id": null,
+    "wikidata_id": "Q34992082",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

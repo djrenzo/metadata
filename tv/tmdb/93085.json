@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/1Lz7HlVQip1qbiR6GR1tqwwe3t4.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2019-01-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.casatv.ca/a-la-tele/expat-saison-2",
+  "id": 93085,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-08-01",
+  "last_episode_to_air": {
+    "id": 3856861,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-08-01",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 93085,
+    "still_path": null
+  },
+  "name": "Expat",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2105,
+      "logo_path": "/aTHXdj2syuZj9U3rSoZikYQhr1x.png",
+      "name": "CASA",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 31,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Expat",
+  "overview": "",
+  "popularity": 8.3054,
+  "poster_path": "/cJziDILJuqQ9HT7DCHC4VysVr20.jpg",
+  "production_companies": [
+    {
+      "id": 122514,
+      "logo_path": "/2Ye0lkMipWo3CGgLEeYNmGZvHae.png",
+      "name": "Authentique Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-01-11",
+      "episode_count": 10,
+      "id": 131334,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-10",
+      "episode_count": 12,
+      "id": 137261,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-05",
+      "episode_count": 9,
+      "id": 287479,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 93085,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 393632,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "expat_casa",
+    "twitter_id": null
+  }
+}

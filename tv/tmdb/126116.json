@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/gJahHqSvFrBjjt3AX6oOL2B0yMP.jpg",
+  "created_by": [
+    {
+      "id": 201639,
+      "credit_id": "60ad0f85d132d60040a15faf",
+      "name": "Jimmy McGovern",
+      "original_name": "Jimmy McGovern",
+      "gender": 2,
+      "profile_path": "/4m4PzL9tgPwy5isLgwJrcLpXTc.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2021-06-06",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/p09fs2qh",
+  "id": 126116,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2023-11-12",
+  "last_episode_to_air": {
+    "id": 4360253,
+    "name": "Episode 3",
+    "overview": "Abi and Kelsey bond after the birth of Kelsey’s baby, Orla faces the consequences of her actions, and intense pressure builds in the prison.",
+    "vote_average": 7.6,
+    "vote_count": 7,
+    "air_date": "2023-11-12",
+    "episode_number": 3,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 126116,
+    "still_path": "/veG9EPXDOLWkzN6LytV1LpJkMtV.jpg"
+  },
+  "name": "Time",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Time",
+  "overview": "Guilt, violence and impossible choices – what does it take to survive? Tense, gritty and heartbreaking – Jimmy McGovern's award-winning prison drama, with an all-star cast.",
+  "popularity": 7.8456,
+  "poster_path": "/mhi7oohUBIufTjF9u41uMXYHsw2.jpg",
+  "production_companies": [
+    {
+      "id": 216944,
+      "logo_path": "/5vrTzX9jnrz7ko3MxOzvzm0mxSP.png",
+      "name": "BBC Studios Drama Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 524663,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-06",
+      "episode_count": 3,
+      "id": 196388,
+      "name": "Series 1",
+      "overview": "A prisoner consumed by guilt, an officer with an impossible choice. What does it take to survive?",
+      "poster_path": "/nSxE6STKTRWb5XLNJgH6q2AKGas.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2023-10-29",
+      "episode_count": 3,
+      "id": 336777,
+      "name": "Series 2",
+      "overview": "Arriving at Carlingford Prison on the same day, Kelsey, Orla and Abi are thrown together to face an unfamiliar world. But even with the ever-present threat of violence within its walls, they discover that an unexpected sense of community, and a shared understanding, still might be possible.",
+      "poster_path": "/lj2vzzPIcuN9Hil40vBwxOsjWuz.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.581,
+  "vote_count": 267,
+  "external_ids": {
+    "id": 126116,
+    "imdb_id": "tt13138834",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 393654,
+    "tvrage_id": null,
+    "wikidata_id": "Q107324744",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

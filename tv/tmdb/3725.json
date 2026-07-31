@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/4VPsgDQGhHJjKKRI9uaKhWwGNOp.jpg",
+  "created_by": [
+    {
+      "id": 1213831,
+      "credit_id": "5257551a19c29531db12d295",
+      "name": "Matthew Graham",
+      "original_name": "Matthew Graham",
+      "gender": 2,
+      "profile_path": "/gCnEZr19KQGMtjl88F0rln8xOn.jpg"
+    },
+    {
+      "id": 1227791,
+      "credit_id": "5257551a19c29531db12d2a1",
+      "name": "Tony Jordan",
+      "original_name": "Tony Jordan",
+      "gender": 2,
+      "profile_path": "/e4boCL5TJrM8OF0VzEOsFOJ3Sgi.jpg"
+    },
+    {
+      "id": 150546,
+      "credit_id": "5257551a19c29531db12d29b",
+      "name": "Ashley Pharoah",
+      "original_name": "Ashley Pharoah",
+      "gender": 2,
+      "profile_path": "/hW1DCy64ubGcNRo6jaGhGAs0koK.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2008-10-09",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "http://abc.go.com/primetime/lifeonmars/index?pn=index",
+  "id": 3725,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2009-04-01",
+  "last_episode_to_air": {
+    "id": 261651,
+    "name": "Life is a Rock",
+    "overview": "When Sam Tyler receives a phone call that presents him with three tasks he must perform so he can return to his life in the future, he must weigh his alternatives and decide whether to stay in 1973 or go home.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2009-04-01",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 1,
+    "show_id": 3725,
+    "still_path": "/gfR5hsYfDbzFTo4ZTWYlNy9Vqc3.jpg"
+  },
+  "name": "Life on Mars",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 17,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Life on Mars",
+  "overview": "After a car crash, police detective Sam Tyler mysteriously finds himself transported back to 1973 and still working as a detective.",
+  "popularity": 8.3959,
+  "poster_path": "/opP6O99cWRZ9tfdPaLsWefbcPRs.jpg",
+  "production_companies": [
+    {
+      "id": 3445,
+      "logo_path": "/7Jkq08LdnkxhK9M2LHuIOwHFfX8.png",
+      "name": "Kudos",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 15,
+      "id": 11166,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-09",
+      "episode_count": 17,
+      "id": 11165,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6mW1GqfEtIZqX0fZv4JilDAxSTg.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A modern day cop in a 1973 world.",
+  "type": "Scripted",
+  "vote_average": 6.358,
+  "vote_count": 106,
+  "external_ids": {
+    "id": 3725,
+    "imdb_id": "tt0787490",
+    "freebase_mid": "/m/02qbmbw",
+    "freebase_id": null,
+    "tvdb_id": 82289,
+    "tvrage_id": null,
+    "wikidata_id": "Q3832194",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

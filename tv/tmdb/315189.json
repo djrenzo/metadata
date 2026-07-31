@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2299647,
+      "credit_id": "69a667b3ad04891c97ca584a",
+      "name": "Manan Desai",
+      "original_name": "Manan Desai",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 4168516,
+      "credit_id": "69a667c2d4162bc283ca57b2",
+      "name": "Chirayu Mistry",
+      "original_name": "Chirayu Mistry",
+      "gender": 0,
+      "profile_path": "/hvr5K5P6OdxxrP5Wt1Qatp8aaUH.jpg"
+    },
+    {
+      "id": 1695864,
+      "credit_id": "69a667cdfc118960ea4f9f75",
+      "name": "Om Bhatt",
+      "original_name": "Om Bhatt",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3669291,
+      "credit_id": "69a667d7eec9519fd597db9f",
+      "name": "Deep Vaidya",
+      "original_name": "Deep Vaidya",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-05-28",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 315189,
+  "in_production": true,
+  "languages": [
+    "gu"
+  ],
+  "last_air_date": "2026-06-09",
+  "last_episode_to_air": {
+    "id": 7605976,
+    "name": "Abhishek Jain",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-28",
+    "episode_number": 149,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 315189,
+    "still_path": null
+  },
+  "name": "The Lavari Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 136,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "gu",
+  "original_name": "The લવારી Show",
+  "overview": "The Lavari Show is a Gujarati live talk show that combines stand-up comedy, improv, and live podcasts with celebrity guests.",
+  "popularity": 9.0874,
+  "poster_path": "/fW5qV3oYytMSqEsbOCjTgnyB3aI.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-05-28",
+      "episode_count": 149,
+      "id": 502732,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Gujarati",
+      "iso_639_1": "gu",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 315189,
+    "imdb_id": "tt40422422",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

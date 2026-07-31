@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1174883,
+      "credit_id": "681141232137f34c24eadfba",
+      "name": "Benedito Ruy Barbosa",
+      "original_name": "Benedito Ruy Barbosa",
+      "gender": 2,
+      "profile_path": "/vshk5HfXasuuT6KCCbScV1ybAgX.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1969-03-03",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 290254,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1970-03-20",
+  "last_episode_to_air": {
+    "id": 6193348,
+    "name": "Episode 275",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1970-03-20",
+    "episode_number": 275,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 290254,
+    "still_path": null
+  },
+  "name": "Algemas de Ouro",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 535,
+      "logo_path": "/6f8p5ifmBoRmXhG62LWI0cPgAQf.png",
+      "name": "Record",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 275,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Algemas de Ouro",
+  "overview": "",
+  "popularity": 8.8576,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 68962,
+      "logo_path": "/9wQ33NosUqKnj87ZUvEdud9LWws.png",
+      "name": "RECORD",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1969-03-03",
+      "episode_count": 275,
+      "id": 454002,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 290254,
+    "imdb_id": "tt0209527",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16501517",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

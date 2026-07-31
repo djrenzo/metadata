@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/vtlfRVBoBuWqLAhQnMksm4aW4vN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    58
+  ],
+  "first_air_date": "2026-04-05",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m002sthz",
+  "id": 274403,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-03",
+  "last_episode_to_air": {
+    "id": 7078858,
+    "name": "The Western Highlands",
+    "overview": "How a remote garden on Scotland’s west coast has become an oasis for barn owls and pine martens as they battle the elements to feed, breed, and survive.",
+    "vote_average": 9,
+    "vote_count": 1,
+    "air_date": "2026-05-03",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 58,
+    "season_number": 1,
+    "show_id": 274403,
+    "still_path": "/82a5Cf7m58RLpvvhsiFm6SxBnqg.jpg"
+  },
+  "name": "Secret Garden",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 5,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Secret Garden",
+  "overview": "David Attenborough reveals the drama unfolding in the hidden wild world of Britain's backyards. Because even in familiar surroundings, the rules of the wild are still in force.",
+  "popularity": 8.6802,
+  "poster_path": "/jbb8Yb6xRv3VGlatR0gBUnUjpFt.jpg",
+  "production_companies": [
+    {
+      "id": 103619,
+      "logo_path": "/Nz3InTx0kRU5AGVEu2x2xYb4ua.png",
+      "name": "Plimsoll Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 29377,
+      "logo_path": "/vA03q1cWhKFwxXOjmqDmTKMgNK7.png",
+      "name": "The Open University",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-04-05",
+      "episode_count": 5,
+      "id": 423654,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8.571,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 274403,
+    "imdb_id": "tt41266262",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 475959,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

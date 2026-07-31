@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/5wtCA5p5xw9jHmmDswz6fUmYW0I.jpg",
+  "created_by": [
+    {
+      "id": 2186256,
+      "credit_id": "63d01b6d0d2f53022e460e32",
+      "name": "Levent Cantek",
+      "original_name": "Levent Cantek",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2011-09-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 50770,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2012-03-29",
+  "last_episode_to_air": {
+    "id": 4185623,
+    "name": "Episode 29",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-03-29",
+    "episode_number": 29,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 50770,
+    "still_path": null
+  },
+  "name": "Mor Menekşeler",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 869,
+      "logo_path": "/8fbaxxCZinVOqcliL1218MXMhId.png",
+      "name": "TRT 1",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Mor Menekşeler",
+  "overview": "",
+  "popularity": 9.336,
+  "poster_path": "/82H15Fq34QrEauVZfG60JGpkcuM.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2011-09-15",
+      "episode_count": 29,
+      "id": 325735,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 50770,
+    "imdb_id": "tt4373828",
+    "freebase_mid": "/m/0vx4r25",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "100078087752829",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

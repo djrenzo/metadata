@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/bVhk7HSP3QesUfWBJj6eWYqoCnC.jpg",
+  "created_by": [
+    {
+      "id": 3611943,
+      "credit_id": "63e7438963aad2008f851363",
+      "name": "John Borgy Danao",
+      "original_name": "John Borgy Danao",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "2017-11-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 102388,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2018-08-03",
+  "last_episode_to_air": {
+    "id": 4226386,
+    "name": "Episode 60",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-08-03",
+    "episode_number": 60,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 2,
+    "show_id": 102388,
+    "still_path": null
+  },
+  "name": "Kambal, Karibal",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 178,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Kambal, Karibal",
+  "overview": "Kambal, Karibal is a Philippine television drama supernatural series broadcast by GMA Network. Directed by Don Michael Perez, it stars Bianca Umali, Miguel Tanfelix, Pauline Mendoza and Kyline Alcantara.",
+  "popularity": 8.3729,
+  "poster_path": "/iRqialxMGWdPU8PrnOT3uf9Jkvj.jpg",
+  "production_companies": [
+    {
+      "id": 136033,
+      "logo_path": "/xScMx3yhjr5OENl6raSP2xwiu0k.png",
+      "name": "GMA Entertainment Group",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-11-27",
+      "episode_count": 118,
+      "id": 148805,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-14",
+      "episode_count": 60,
+      "id": 328417,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/61khlaW9GZrqsn36BmW2xEuKo1P.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 2.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 102388,
+    "imdb_id": "tt7669406",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q44028146",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

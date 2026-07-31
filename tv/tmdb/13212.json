@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1950-12-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13212,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1952-06-27",
+  "last_episode_to_air": {
+    "id": 494736,
+    "name": "The Final Episode",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1952-06-27",
+    "episode_number": 138,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 2,
+    "show_id": 13212,
+    "still_path": null
+  },
+  "name": "The First Hundred Years",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 291,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The First Hundred Years",
+  "overview": "The First Hundred Years is the first ongoing TV soap opera in the United States that began as a daytime serial, airing on CBS from December 4, 1950 until June 27, 1952. A previous daytime drama on NBC, These Are My Children, aired in 1949 but only lasted one month, and NBC's Hawkins Falls began in June 1950 as a primetime \"soap\" and didn't move to daytime until April 1951.\n\nThe drama involved two couples who were next-door neighbors. The series did not succeed due to very low viewership, as few American households had television sets, and fewer still watched during the afternoon.\n\nThe series was replaced with the television version of Guiding Light, which would prove to be much more successful, airing for 57 years.",
+  "popularity": 8.4296,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 4898,
+      "logo_path": "/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1950-12-04",
+      "episode_count": 257,
+      "id": 24112,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1951-12-03",
+      "episode_count": 34,
+      "id": 24111,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 13212,
+    "imdb_id": null,
+    "freebase_mid": "/m/09d0bj",
+    "freebase_id": "/en/the_first_hundred_years",
+    "tvdb_id": null,
+    "tvrage_id": 10313,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

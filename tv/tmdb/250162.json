@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/8hbXSjV5JvSjuSnOF2TBOAJEu5m.jpg",
+  "created_by": [
+    {
+      "id": 2351079,
+      "credit_id": "66012e3e770700014907e389",
+      "name": "Kathleen Jordan",
+      "original_name": "Kathleen Jordan",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-07-25",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81417084",
+  "id": 250162,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2024-07-25",
+  "last_episode_to_air": {
+    "id": 5406745,
+    "name": "We’ve Had a Good Cry",
+    "overview": "The nobles and servants try to ensure their survival by making a deal with the mercenaries who are close to breaching the villa gates.",
+    "vote_average": 3.875,
+    "vote_count": 8,
+    "air_date": "2024-07-25",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 56,
+    "season_number": 1,
+    "show_id": 250162,
+    "still_path": "/pcsF2zcpMvLL9KzmIjPMNxbK7pD.jpg"
+  },
+  "name": "The Decameron",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Decameron",
+  "overview": "As the bubonic plague spreads through Italy, a group of nobles and servants retreats to a villa, where their lavish getaway quickly spirals into chaos.",
+  "popularity": 8.9617,
+  "poster_path": "/7jxX4EQLeGMQb8SA4YgiaUowz8n.jpg",
+  "production_companies": [
+    {
+      "id": 120178,
+      "logo_path": "/daTBSMVbIH0ovtaCIz73RTZk4nJ.png",
+      "name": "Tilted Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-07-25",
+      "episode_count": 8,
+      "id": 385418,
+      "name": "Limited Series",
+      "overview": "",
+      "poster_path": "/7jxX4EQLeGMQb8SA4YgiaUowz8n.jpg",
+      "season_number": 1,
+      "vote_average": 4.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Til death do we party.",
+  "type": "Miniseries",
+  "vote_average": 5.886,
+  "vote_count": 118,
+  "external_ids": {
+    "id": 250162,
+    "imdb_id": "tt21831910",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 423618,
+    "tvrage_id": null,
+    "wikidata_id": "Q124968476",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

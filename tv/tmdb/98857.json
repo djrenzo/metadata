@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2513916,
+      "credit_id": "5e3320af091e620d424da953",
+      "name": "Ricardo Vicuña",
+      "original_name": "Ricardo Vicuña",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "1998-03-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 98857,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1998-07-31",
+  "last_episode_to_air": {
+    "id": 6815721,
+    "name": "Episode 105",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-07-31",
+    "episode_number": 105,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 98857,
+    "still_path": null
+  },
+  "name": "Amándote",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 105,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Amándote",
+  "overview": "Julian, a 25-year-old musician has his existential doubts and problems that have led him to live a double life, he lives with his girlfriend, Susana Álvarez, a beautiful journalist, and although they have everything to be happy unfortunately they are not. Because Julian, without knowing the reasons why, is constantly assault by mysterious memories and images he doesn't know what they are or where they came from.",
+  "popularity": 8.2701,
+  "poster_path": "/nfP2BEKXGoWkq0QiWGHHviiBzSa.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-03-09",
+      "episode_count": 105,
+      "id": 142371,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 98857,
+    "imdb_id": "tt0242188",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5673449",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2022-09-07",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 271286,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2023-06-14",
+  "last_episode_to_air": {
+    "id": 5880708,
+    "name": "Episode 41",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-06-14",
+    "episode_number": 41,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 271286,
+    "still_path": "/5sUdSZwlqIQNcLtamBwqAzXA9Q4.jpg"
+  },
+  "name": "搞怪兄弟弗拉德与尼基",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 626,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "搞怪兄弟弗拉德与尼基",
+  "overview": "",
+  "popularity": 8.5655,
+  "poster_path": "/1x9GcSR0DPaSAsggl9ssR7BXFiN.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2022-09-07",
+      "episode_count": 476,
+      "id": 418266,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1x9GcSR0DPaSAsggl9ssR7BXFiN.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 150,
+      "id": 486559,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/17lkrouY0F2tKQVUNP7jQ3Ygp7v.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 271286,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

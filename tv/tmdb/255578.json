@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/aEZF4TzwVisSldjGBzHkd9hTOQX.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2015-06-04",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 255578,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-10-28",
+  "last_episode_to_air": {
+    "id": 6639897,
+    "name": "Episode 151",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-10-28",
+    "episode_number": 151,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 255578,
+    "still_path": null
+  },
+  "name": "Voss & Team",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1118,
+      "logo_path": "/iIppR5wX7s2soFTHZsHV5mgQ9Or.png",
+      "name": "MDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Voss & Team",
+  "overview": "",
+  "popularity": 8.4279,
+  "poster_path": "/sLIljH1xbob9FciYcT9FWfXgRJ8.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-06-04",
+      "episode_count": 151,
+      "id": 396043,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 255578,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

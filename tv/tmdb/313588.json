@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/wX8ZhrcHEmBMIwmYzSulBkrbehD.jpg",
+  "created_by": [
+    {
+      "id": 1425298,
+      "credit_id": "698b23c432d85b0e8f8231d5",
+      "name": "Ryan Cooper",
+      "original_name": "Ryan Cooper",
+      "gender": 2,
+      "profile_path": "/hTBbuIVEO4PWPzhBXElfAnd0l30.jpg"
+    },
+    {
+      "id": 2462973,
+      "credit_id": "698c27c24c385fdc0767e897",
+      "name": "Alex Leighton",
+      "original_name": "Alex Leighton",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2462972,
+      "credit_id": "698c27e8b2762e754f67e9a3",
+      "name": "Tim Evans",
+      "original_name": "Tim Evans",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-04-10",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 313588,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-10-30",
+  "last_episode_to_air": {
+    "id": 6930501,
+    "name": "The End Ia Nigh",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-10-30",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 9,
+    "season_number": 2,
+    "show_id": 313588,
+    "still_path": "/ckd4CzV1MpxR9IJ5aIVFqHRYumc.jpg"
+  },
+  "name": "Night Eyes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 123,
+      "logo_path": "/wGMxGK0IlrDER4GqWKqr3wzOj1v.png",
+      "name": "TVNZ 2",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 5450,
+      "logo_path": "/uJurSPk6q0o6XxAz539UGCTTqLF.png",
+      "name": "TVNZ+",
+      "origin_country": "NZ"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NZ"
+  ],
+  "original_language": "en",
+  "original_name": "Night Eyes",
+  "overview": "Ghostbusting gang Tai, Vim, Scuff, and Cadence team up to ward off evil baddies and catch them on camera, before they take over our dimension!",
+  "popularity": 8.2693,
+  "poster_path": "/9zM90fVAYXcYMmz86xeB5qYJMEb.jpg",
+  "production_companies": [
+    {
+      "id": 295,
+      "logo_path": "/24lAsHZaGi4GzNrWzlkK60HLMBx.png",
+      "name": "NZ on Air",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 80224,
+      "logo_path": "/ldv1lhPEhT13LpSiN8jOed3Pc9f.png",
+      "name": "Mukpuddy Animation",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 1254,
+      "logo_path": "/yaecijXtiF2mKiDoxDBOVffJmOC.png",
+      "name": "Television New Zealand",
+      "origin_country": "NZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-04-10",
+      "episode_count": 13,
+      "id": 499547,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/8XxJwIbKt0qaWYMhbNQbh7u8abT.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-30",
+      "episode_count": 13,
+      "id": 499548,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": "/sSbL2zOTYG4UdflSYJ79npPuUZV.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Frights, camera... action.",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 313588,
+    "imdb_id": "tt17506266",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

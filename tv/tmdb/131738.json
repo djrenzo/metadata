@@ -1,0 +1,167 @@
+{
+  "adult": false,
+  "backdrop_path": "/mCzFJWziFxxuqE2zftpY47cQskd.jpg",
+  "created_by": [
+    {
+      "id": 1638569,
+      "credit_id": "612253bbd70594005c00c235",
+      "name": "Filomena Cautela",
+      "original_name": "Filomena Cautela",
+      "gender": 1,
+      "profile_path": "/2uvV7hYvVq8zH6kfZtLRr3ZeNie.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-06-05",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.rtp.pt/programa/tv/p40770",
+  "id": 131738,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2025-11-25",
+  "last_episode_to_air": {
+    "id": 6684221,
+    "name": "Round Table",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-25",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 4,
+    "show_id": 131738,
+    "still_path": "/vyOlBPC2Gc1WcIqvYHP4kGRT5xF.jpg"
+  },
+  "name": "Programa Cautelar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 554,
+      "logo_path": "/iJBaPuHCVjROCUXZzGuon3oDqMC.png",
+      "name": "RTP1",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 27,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Programa Cautelar",
+  "overview": "A combination of humor and analysis, which tries to explain reality in a simple, fun and factual way.",
+  "popularity": 8.4033,
+  "poster_path": "/bX1YqK0ekKYBycg0b2QPDEReay9.jpg",
+  "production_companies": [
+    {
+      "id": 95029,
+      "logo_path": "/rgOnHMCj2YeVrClcDjBAyhae9f2.png",
+      "name": "Até ao Fim do Mundo",
+      "origin_country": "PT"
+    },
+    {
+      "id": 171510,
+      "logo_path": null,
+      "name": "Media Luso",
+      "origin_country": ""
+    },
+    {
+      "id": 8492,
+      "logo_path": "/wYhNCpXIThYDXevad6n90vsMXZ2.png",
+      "name": "RTP",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-06-05",
+      "episode_count": 6,
+      "id": 206956,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eyxQpNra3kZe5QSAfqyZ6E6g5Wa.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-19",
+      "episode_count": 7,
+      "id": 283105,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wLomJ61mBpAentdmU0klHLTL9r3.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-30",
+      "episode_count": 6,
+      "id": 361398,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/tOZS5LJ2iRRFVZqi60fyPys2QTf.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-07",
+      "episode_count": 8,
+      "id": 479034,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 131738,
+    "imdb_id": "tt14793392",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 403075,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "programacautelar.rtp",
+    "instagram_id": "programacautelar.rtp",
+    "twitter_id": "prgmcautelar"
+  }
+}

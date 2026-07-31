@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/7reECaVbmBbfZumkZcGXaXfmu7X.jpg",
+  "created_by": [
+    {
+      "id": 1021415,
+      "credit_id": "6412d681b42242007d72b706",
+      "name": "Edgar Mortiz",
+      "original_name": "Edgar Mortiz",
+      "gender": 2,
+      "profile_path": "/gyCo8ffRO6DMLY87ffIud1yDTvU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2021-12-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 218266,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2023-08-06",
+  "last_episode_to_air": {
+    "id": 7579188,
+    "name": "Shelly and Julian's end game",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-08-06",
+    "episode_number": 74,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 218266,
+    "still_path": null
+  },
+  "name": "Happy ToGetHer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 74,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Happy ToGetHer",
+  "overview": "After he and his wife separated, Julian (John Lloyd Cruz) had to do everything to give his son Zack a better future and find a woman who would love him and his son.",
+  "popularity": 8.1522,
+  "poster_path": "/7ekINltaEeTrkWDcXpJru428Zr.jpg",
+  "production_companies": [
+    {
+      "id": 136033,
+      "logo_path": "/xScMx3yhjr5OENl6raSP2xwiu0k.png",
+      "name": "GMA Entertainment Group",
+      "origin_country": "PH"
+    },
+    {
+      "id": 195891,
+      "logo_path": null,
+      "name": "Wacky Solution Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-12-26",
+      "episode_count": 74,
+      "id": 324172,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7ekINltaEeTrkWDcXpJru428Zr.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 326925,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 326926,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 218266,
+    "imdb_id": "tt16607886",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q110208168",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

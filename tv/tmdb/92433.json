@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/fsbZAdbojecotA4mpdVOuehpdjO.jpg",
+  "created_by": [
+    {
+      "id": 1232847,
+      "credit_id": "5d68351413af5f0011bbd05e",
+      "name": "Inés Rodena",
+      "original_name": "Inés Rodena",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2019-09-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.lasestrellas.tv/telenovelas/fabrica-de-suenos/la-usurpadora",
+  "id": 92433,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-10-04",
+  "last_episode_to_air": {
+    "id": 1945274,
+    "name": "Episode 25",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-10-04",
+    "episode_number": 25,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 1,
+    "show_id": 92433,
+    "still_path": "/adwyzsHj8OLKN6iH5W9MDb5XeHG.jpg"
+  },
+  "name": "The Usurper",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 28,
+      "logo_path": "/8JwhJGdxpSsiuPiFDGslBH1cr7t.png",
+      "name": "Univision",
+      "origin_country": "US"
+    },
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 25,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "La Usurpadora",
+  "overview": "A humble young woman allows herself be manipulated by her twin sister to replace her so she can leave with another man.",
+  "popularity": 8.8134,
+  "poster_path": "/fnBu7Ym3WeMZy2goTl3c2YReVqE.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 25,
+      "id": 130064,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/fnBu7Ym3WeMZy2goTl3c2YReVqE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.925,
+  "vote_count": 322,
+  "external_ids": {
+    "id": 92433,
+    "imdb_id": "tt10709178",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 368173,
+    "tvrage_id": null,
+    "wikidata_id": "Q65162571",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/g7ALvYxMMVJmuE4ixX6zjB5mXpS.jpg",
+  "created_by": [
+    {
+      "id": 1727692,
+      "credit_id": "585fd67992514115be01de7d",
+      "name": "Synne Teksum",
+      "original_name": "Synne Teksum",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2016-12-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tv.nrk.no/serie/snoefall",
+  "id": 68913,
+  "in_production": true,
+  "languages": [
+    "no"
+  ],
+  "last_air_date": "2023-12-24",
+  "last_episode_to_air": {
+    "id": 4963846,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-24",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 68913,
+    "still_path": "/gHmzqraK5Q9jhuyuLr21bbkK2Y6.jpg"
+  },
+  "name": "Snowfall",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 391,
+      "logo_path": "/7xOoWHdhdfYE0Pn9ilYLB1lenpC.png",
+      "name": "DR1",
+      "origin_country": "DK"
+    },
+    {
+      "id": 379,
+      "logo_path": "/8bsyUus23sgM2XPq88kGTnlgDaz.png",
+      "name": "NRK1",
+      "origin_country": "NO"
+    },
+    {
+      "id": 1942,
+      "logo_path": "/p4XrdTyw8YVNbz7U126wdpHbu2W.png",
+      "name": "NRK Super",
+      "origin_country": "NO"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_name": "Snøfall",
+  "overview": "Selma, a 9 year old girl who lost her parents in an accident, is now living with Ruth, a quite strict neighbour who was just supposed to temporarily look after Selma and her dog Casper.",
+  "popularity": 8.3134,
+  "poster_path": "/k9n1CAFyhf6IgSCNqTFOC1OEctE.jpg",
+  "production_companies": [
+    {
+      "id": 109843,
+      "logo_path": "/iwkwIEXWIPApzedElW5sY8LFZSx.png",
+      "name": "NRK",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-12-01",
+      "episode_count": 24,
+      "id": 82491,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/o3DzYimKgO78nP28nglhaM2dlB6.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2023-12-01",
+      "episode_count": 24,
+      "id": 366825,
+      "name": "Season 2",
+      "overview": "‘Tis the season, finally! But when Noah’s mom falls ill again, he has no idea that it’s not only Christmas with her he must save. It’s the whole magical land of Snowfall!",
+      "poster_path": "/k9n1CAFyhf6IgSCNqTFOC1OEctE.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 20,
+  "external_ids": {
+    "id": 68913,
+    "imdb_id": "tt6294580",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 320566,
+    "tvrage_id": null,
+    "wikidata_id": "Q25439315",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

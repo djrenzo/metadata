@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/ztn2rywb74cUtUYrWMKqLYWjPMp.jpg",
+  "created_by": [
+    {
+      "id": 1319586,
+      "credit_id": "5373efcac3a3681539001aac",
+      "name": "Doris Gercke",
+      "original_name": "Doris Gercke",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1993-12-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.zdf.de/serien/bella-block",
+  "id": 40446,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2018-03-24",
+  "last_episode_to_air": {
+    "id": 3052954,
+    "name": "Episode 38",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2018-03-24",
+    "episode_number": 38,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 96,
+    "season_number": 1,
+    "show_id": 40446,
+    "still_path": null
+  },
+  "name": "Bella Block",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 38,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Bella Block",
+  "overview": "Bella Block is a long-running German detective television series starring Hannelore Hoger, first broadcast in 1994 on ZDF. In 2010 the 30th series was produced.",
+  "popularity": 8.3526,
+  "poster_path": "/oZV4nRmoE5IIyuUBaHAigNrQvGO.jpg",
+  "production_companies": [
+    {
+      "id": 18692,
+      "logo_path": "/nZNzWVy6Da5r7WCuV8Mocwj2Ebe.png",
+      "name": "UFA Fernsehproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1993-12-17",
+      "episode_count": 38,
+      "id": 51345,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8.7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.556,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 40446,
+    "imdb_id": "tt0821060",
+    "freebase_mid": "/m/0h563wv",
+    "freebase_id": null,
+    "tvdb_id": 102791,
+    "tvrage_id": null,
+    "wikidata_id": "Q815762",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

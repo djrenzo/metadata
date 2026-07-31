@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/9PXEbJpf0I9g4VkeO5J6bBQxXBV.jpg",
+  "created_by": [
+    {
+      "id": 3182087,
+      "credit_id": "659270281dcb776c2c453024",
+      "name": "Ivan Grangeon",
+      "original_name": "Ivan Grangeon",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2015-01-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 130239,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2020-04-01",
+  "last_episode_to_air": {
+    "id": 3101345,
+    "name": "Episode 14",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-04-01",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 130239,
+    "still_path": "/6KsO5qLmW9Hig0FiuSvCq0DWdP2.jpg"
+  },
+  "name": "Les Marmottes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 49,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Marmottes",
+  "overview": "",
+  "popularity": 9.2246,
+  "poster_path": "/fUJumvg2eMjGcYOgfFkBUUWaV9Q.jpg",
+  "production_companies": [
+    {
+      "id": 217254,
+      "logo_path": null,
+      "name": "Dream On (FR)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-01-15",
+      "episode_count": 1,
+      "id": 204244,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/4q7BlQgtXOh8zvBfwcf7w45QOw.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 15,
+      "id": 204245,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4VM8Gz85acf3K4Bai8GWHYxjwBV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 20,
+      "id": 204246,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4AQUY6IR4I4XRN2gSSonLydQbza.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 14,
+      "id": 204247,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/gwQLM6fjzwII757qYfNf0nkGVUX.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 130239,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

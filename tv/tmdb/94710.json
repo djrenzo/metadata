@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/wXPx4FZgBIla30DjDgZesa7YmuF.jpg",
+  "created_by": [
+    {
+      "id": 2436790,
+      "credit_id": "5dac08d43d35570012709dfe",
+      "name": "Hugo Gittard",
+      "original_name": "Hugo Gittard",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2436791,
+      "credit_id": "5dac09283d35570012709e80",
+      "name": "Olivier Delabarre",
+      "original_name": "Olivier Delabarre",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 112779,
+      "credit_id": "61dc11daa199a6001cfaa113",
+      "name": "Olivier Jean-Marie",
+      "original_name": "Olivier Jean-Marie",
+      "gender": 2,
+      "profile_path": "/c0xBw3xr6cPkfvZJEUSYR4vcH8Z.jpg"
+    },
+    {
+      "id": 2916087,
+      "credit_id": "61dc11efefea7a006a128997",
+      "name": "Baptiste Lucas",
+      "original_name": "Baptiste Lucas",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    7
+  ],
+  "first_air_date": "2019-05-04",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.france.tv/france-4/mr-magoo/",
+  "id": 94710,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2023-09-01",
+  "last_episode_to_air": {
+    "id": 5177022,
+    "name": "Episode 67",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-09-01",
+    "episode_number": 67,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 94710,
+    "still_path": null
+  },
+  "name": "Mr. Magoo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    },
+    {
+      "id": 511,
+      "logo_path": "/9v9Mink1IVxPNRZOmCZ8N58BOHe.png",
+      "name": "France 4",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 145,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Mr. Magoo",
+  "overview": "Mr. Magoo, the eponymous kind-hearted fellow is always happy to lend a hand, but often causes disasters instead as without his glasses he makes all kinds of chaotic mix-ups. Despite this, his only enemy is his neighbor Fizz: a megalomaniacal hamster and his human minion, Weasel, who are somehow always accidentally thwarted by Magoo.",
+  "popularity": 8.7049,
+  "poster_path": "/6q5UhYKntoU6Nt69gY3q88eK6ob.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-05-04",
+      "episode_count": 78,
+      "id": 134420,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/doz0hDRMKuadDQORNu6itxa9trh.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-08",
+      "episode_count": 67,
+      "id": 373546,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 94710,
+    "imdb_id": "tt10544020",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 362278,
+    "tvrage_id": null,
+    "wikidata_id": "Q54888748",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

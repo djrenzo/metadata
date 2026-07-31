@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/4TX1ORCaHOI1QbHxU2vgVuuiVp0.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2000-02-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://voyo.nova.cz/porady/3853-tele-tele",
+  "id": 94747,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2000-12-20",
+  "last_episode_to_air": {
+    "id": 2933785,
+    "name": "Episode 35",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-12-20",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 94747,
+    "still_path": null
+  },
+  "name": "Tele Tele",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 267,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Tele Tele",
+  "overview": "",
+  "popularity": 8.2103,
+  "poster_path": "/jewBizwDZ3ApGEFRwkycjgHnNQH.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-12-24",
+      "episode_count": 2,
+      "id": 134501,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-16",
+      "episode_count": 267,
+      "id": 134500,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 94747,
+    "imdb_id": "tt0281496",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 123281,
+    "tvrage_id": null,
+    "wikidata_id": "Q12058558",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

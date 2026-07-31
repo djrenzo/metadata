@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/6dJneF6O7HKyJL6ujsBy8m2L9m5.jpg",
+  "created_by": [
+    {
+      "id": 81012,
+      "credit_id": "6398781c79b3d40091287bbb",
+      "name": "Adrián Suar",
+      "original_name": "Adrián Suar",
+      "gender": 2,
+      "profile_path": "/a75QAiWiI4jJoGyYY2Tw6ELAkkA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2017-05-29",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.eltrecetv.com.ar/las-estrellas",
+  "id": 73812,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2018-01-23",
+  "last_episode_to_air": {
+    "id": 1603074,
+    "name": "Episode 171",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-01-23",
+    "episode_number": 171,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 73812,
+    "still_path": "/qboHJMNRhDD5VrtZzzfDkpQZ7dq.jpg"
+  },
+  "name": "Las Estrellas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 368,
+      "logo_path": "/j8Sb3Y5vo3wfOjMExmxLF08mLwX.png",
+      "name": "eltrece",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 171,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Las Estrellas",
+  "overview": "Five sisters must take care of a hotel for a year after their father's death in order to get the 6 million dollar inheritance he left them.",
+  "popularity": 8.2541,
+  "poster_path": "/SNTwmyVHvBKLvrbeJ3vCjGD5va.jpg",
+  "production_companies": [
+    {
+      "id": 27281,
+      "logo_path": "/n4OjEuaiEaiUn0WwJHHKXPkmHAD.png",
+      "name": "Pol-Ka Producciones",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-05-29",
+      "episode_count": 171,
+      "id": 92539,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.6,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 73812,
+    "imdb_id": "tt6916086",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 327784,
+    "tvrage_id": null,
+    "wikidata_id": "Q30098186",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

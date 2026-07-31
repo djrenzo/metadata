@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/2I0nEn0xnwNBQOZI8auhOI212HT.jpg",
+  "created_by": [
+    {
+      "id": 2551367,
+      "credit_id": "60a1a6b2596a91003fc16c26",
+      "name": "Brad Anderson",
+      "original_name": "Brad Anderson",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1212626,
+      "credit_id": "60a1a7c6b0ba7e00293e784d",
+      "name": "Joe Ruby",
+      "original_name": "Joe Ruby",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1212625,
+      "credit_id": "60a1a7cfb0ba7e003f6d5227",
+      "name": "Ken Spears",
+      "original_name": "Ken Spears",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2523426,
+      "credit_id": "6356bbf93852020082c4cd81",
+      "name": "George Gately",
+      "original_name": "George Gately",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1980-10-04",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "http://www.heathcliffcomics.com/",
+  "id": 12803,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1981-12-05",
+  "last_episode_to_air": {
+    "id": 2955788,
+    "name": "Double Trouble Maker",
+    "overview": "Gophers are devouring the Winslow garden and Marmaduke is sent to scare them off. It turns out to be a bigger job than he imagines. Marmaduke tunnels through the entire neighborhood trying to catch them causing problems for everyone.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1981-12-05",
+    "episode_number": 39,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 6,
+    "season_number": 2,
+    "show_id": 12803,
+    "still_path": "/nXCxqbtUtEwVi9vMDWJbJ1V77mt.jpg"
+  },
+  "name": "Heathcliff",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 91,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Heathcliff",
+  "overview": "Heathcliff is an animated TV series that debuted on October 4, 1980. It was the first series based on the Heathcliff comic strip and was produced by Ruby-Spears Productions. It ran until September 18, 1982 with a total of 25 episodes, under two different names.",
+  "popularity": 9.3548,
+  "poster_path": "/aHY7TpTAArpScdgsBKuwWU3MRki.jpg",
+  "production_companies": [
+    {
+      "id": 61119,
+      "logo_path": "/vGFakFNmKvBLBsF2TQhJjuRyrhQ.png",
+      "name": "Ruby-Spears Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1980-10-04",
+      "episode_count": 52,
+      "id": 23729,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dVKM83RzQ0vyTFLH7xY8WBNVKqN.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-09-12",
+      "episode_count": 39,
+      "id": 23730,
+      "name": "Heathcliff and Marmaduke",
+      "overview": "",
+      "poster_path": "/nua76Ttww5rVQC3jc9uV7zADgpF.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.556,
+  "vote_count": 45,
+  "external_ids": {
+    "id": 12803,
+    "imdb_id": "tt0173556",
+    "freebase_mid": "/m/02rs0wc",
+    "freebase_id": null,
+    "tvdb_id": 259517,
+    "tvrage_id": null,
+    "wikidata_id": "Q18150570",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

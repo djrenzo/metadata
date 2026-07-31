@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/vbYEwfk1r88RovUEDCDgZng3PS9.jpg",
+  "created_by": [
+    {
+      "id": 562730,
+      "credit_id": "68e556136b00f98e91f824e6",
+      "name": "Danila Kozlovsky",
+      "original_name": "Данила Козловский",
+      "gender": 2,
+      "profile_path": "/agVuijZjWfDX5klBNmBM1PS9CU0.jpg"
+    },
+    {
+      "id": 2456985,
+      "credit_id": "69d49f70cde0b76836f8a33a",
+      "name": "Aleksander Fomin",
+      "original_name": "Александр Фомин",
+      "gender": 2,
+      "profile_path": "/4hlKgCxeoUm1OyoRrXaDhEkKtE5.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2025-10-01",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://kion.ru/serial/bar-odin-zvonok",
+  "id": 250727,
+  "in_production": false,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2025-10-01",
+  "last_episode_to_air": {
+    "id": 6553288,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-10-01",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 250727,
+    "still_path": "/lozsbCAjxEtE5XUxz0Z0GsL2Cl6.jpg"
+  },
+  "name": "One Call Bar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4085,
+      "logo_path": "/iMenrHI1yGe7xbND6aQSOviB5Sz.png",
+      "name": "KION",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_name": "Бар «Один звонок»",
+  "overview": "In the One Call bar, anyone can call a deceased loved one by agreeing to a deadly game of Russian roulette. Investigator Andrey Morozov is looking for his missing son, and all the evidence leads to a mysterious bar that appears in different places, leaving behind the bodies of dead visitors.",
+  "popularity": 8.3877,
+  "poster_path": "/pAJtwJPnNohoGEHkr1wh5qHlP0x.jpg",
+  "production_companies": [
+    {
+      "id": 103131,
+      "logo_path": null,
+      "name": "DK Entertainment",
+      "origin_country": "RU"
+    },
+    {
+      "id": 130614,
+      "logo_path": "/fgwCU6TwNPlwXGiK0sL7Ak2vhV7.png",
+      "name": "ON Media",
+      "origin_country": "RU"
+    },
+    {
+      "id": 294156,
+      "logo_path": "/9tK9On0RmJB6Zg4A2DFjQZxFaSp.png",
+      "name": "KION",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-10-01",
+      "episode_count": 8,
+      "id": 386410,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/4sx6E4HMZXToaftpQZzaazlx2TQ.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.111,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 250727,
+    "imdb_id": "tt28267217",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 468562,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/PfC9TIvXcb1IL0RIDLjCqPdCdq.jpg",
+  "created_by": [
+    {
+      "id": 1241899,
+      "credit_id": "6381ef592e0697023d272189",
+      "name": "Charis Romas",
+      "original_name": "Χάρης Ρώμας",
+      "gender": 2,
+      "profile_path": "/4RA8GPvYyhpsSQhUEcqQBRQGMa6.jpg"
+    },
+    {
+      "id": 1259788,
+      "credit_id": "6381ef67fb834600876f712c",
+      "name": "Anna Hatzisofia",
+      "original_name": "Άννα Χατζησοφιά",
+      "gender": 1,
+      "profile_path": "/jvTr8EPMquXFxhE2oIrupGC0ebJ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2003-10-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 15561,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2021-05-06",
+  "last_episode_to_air": {
+    "id": 2929224,
+    "name": "Episode 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-05-06",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 5,
+    "show_id": 15561,
+    "still_path": null
+  },
+  "name": "Chara's Café",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 131,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Το Καφέ της Χαράς",
+  "overview": "This series takes place at the isolated village of Kolokotronitsi, a place where life has stuck some decades ago. When Hara, a young woman from Athens comes to the village and opens a cafe, a conflict occurs between her and the totally conservative mayor, Periandros, who doesn't want the ideals and ethic of his village to be destroyed.",
+  "popularity": 8.6626,
+  "poster_path": "/s3la7PtHUGOLNkGCRuSjrTiNSZv.jpg",
+  "production_companies": [
+    {
+      "id": 140827,
+      "logo_path": null,
+      "name": "Pedio Productions",
+      "origin_country": "GR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-10-03",
+      "episode_count": 30,
+      "id": 164733,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jy4rBJAvPHwy1fL1byf5UXCvKPj.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-27",
+      "episode_count": 30,
+      "id": 164735,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jy4rBJAvPHwy1fL1byf5UXCvKPj.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-26",
+      "episode_count": 28,
+      "id": 150851,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/jy4rBJAvPHwy1fL1byf5UXCvKPj.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-31",
+      "episode_count": 23,
+      "id": 144596,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/t2MBwZIWowXOLkGHCPGhkzXQrJ2.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-15",
+      "episode_count": 20,
+      "id": 177012,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.533,
+  "vote_count": 15,
+  "external_ids": {
+    "id": 15561,
+    "imdb_id": "tt0384745",
+    "freebase_mid": "/m/03wfhnk",
+    "freebase_id": "/en/to_kafe_tis_charas",
+    "tvdb_id": 272411,
+    "tvrage_id": null,
+    "wikidata_id": "Q7811217",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

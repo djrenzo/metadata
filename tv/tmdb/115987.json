@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/lJrNuqC5DfFdQKqXLzPeNYUrLTy.jpg",
+  "created_by": [
+    {
+      "id": 3767758,
+      "credit_id": "69348ac42810fb5208c1f26d",
+      "name": "Dimitris Tokaris",
+      "original_name": "Δημήτρης Τοκαρής",
+      "gender": 2,
+      "profile_path": "/rMEv4V4GwVEngfsm32gr5mb70ei.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2003-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 115987,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2006-06-15",
+  "last_episode_to_air": {
+    "id": 6735619,
+    "name": "Episode 126",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-06-15",
+    "episode_number": 126,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 67,
+    "season_number": 3,
+    "show_id": 115987,
+    "still_path": null
+  },
+  "name": "Oi Takkoi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4211,
+      "logo_path": "/3U5xrljBkRZ4rCg5HVtANa1Deg9.png",
+      "name": "Sigma TV",
+      "origin_country": "CY"
+    }
+  ],
+  "number_of_episodes": 383,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CY"
+  ],
+  "original_language": "el",
+  "original_name": "Οι Τάκκοι",
+  "overview": "Takkoi are a typical Cypriot family. The father, George, is a real estate agent and the mother, Maro, is a teacher. They have three children: a daughter at university, Penny, a son in the army, Mike, and a young daughter in elementary school, Kalia.",
+  "popularity": 8.596,
+  "poster_path": "/1QdfzTdE1QYsSWQd9cwYBSd43T6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CY",
+      "name": "Cyprus"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-09-22",
+      "episode_count": 120,
+      "id": 175094,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-27",
+      "episode_count": 137,
+      "id": 487269,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-05",
+      "episode_count": 126,
+      "id": 487270,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 115987,
+    "imdb_id": "tt9391912",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

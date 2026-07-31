@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/dn3RgoQE5MFUOUOoffPD7wbfp57.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2023-02-15",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://tv.nova.cz/porad/svet-motoru",
+  "id": 221000,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2024-06-19",
+  "last_episode_to_air": {
+    "id": 5431477,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-06-19",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 221000,
+    "still_path": null
+  },
+  "name": "Svět motorů",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 711,
+      "logo_path": "/twuMX6vryssdv8oY01ZD5eNTKLt.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 5174,
+      "logo_path": "/urFAfEj1atKaaI9fMyvsdaaXqfB.png",
+      "name": "Voyo",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Svět motorů",
+  "overview": "",
+  "popularity": 8.2546,
+  "poster_path": "/z0Y252PRWkrHcK9BDJozSEiVSLm.jpg",
+  "production_companies": [
+    {
+      "id": 31292,
+      "logo_path": "/6EeaMNiKbomWHsB5jq5W5vflOj2.png",
+      "name": "TV Nova",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-02-15",
+      "episode_count": 18,
+      "id": 329938,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-06",
+      "episode_count": 16,
+      "id": 356371,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-06",
+      "episode_count": 16,
+      "id": 382621,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 221000,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

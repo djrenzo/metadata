@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 951522,
+      "credit_id": "5fb082566dc6c000412a3a88",
+      "name": "Pablo Illanes",
+      "original_name": "Pablo Illanes",
+      "gender": 2,
+      "profile_path": "/bOrVXyI8muyYrFpiVNtq1NW7IsU.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1996-07-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.13.cl/programas/adrenalina",
+  "id": 37219,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1996-12-21",
+  "last_episode_to_air": {
+    "id": 2847645,
+    "name": "Episode 103",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1996-12-21",
+    "episode_number": 103,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 37219,
+    "still_path": null
+  },
+  "name": "Adrenalina",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 392,
+      "logo_path": "/lPPZi5wcFkLHfa5wSLQUToM1SUc.png",
+      "name": "Canal 13",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 103,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Adrenalina",
+  "overview": "After her parents' murder, Cathy Winter flees to Santiago. At Adrenalina, a new club, she meets her soulmate, a publisher, and her best friend, a shy DJ, during the 90s dance craze.",
+  "popularity": 8.628,
+  "poster_path": "/q9pB0IoLjDGiSNt0A3Mf9riPeWw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1996-07-28",
+      "episode_count": 103,
+      "id": 168732,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.333,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 37219,
+    "imdb_id": "tt0313026",
+    "freebase_mid": "/m/0gfyk94",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q5485713",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

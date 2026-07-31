@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/6w6rD5I0Jke99k0zvEA2gPJRgCj.jpg",
+  "created_by": [
+    {
+      "id": 13594,
+      "credit_id": "5f02272bd705940038091b52",
+      "name": "Joseph Barbera",
+      "original_name": "Joseph Barbera",
+      "gender": 2,
+      "profile_path": "/16UhnbVLaX9QBtcnjLH6hrdzq4F.jpg"
+    },
+    {
+      "id": 13620,
+      "credit_id": "5f02271e8ec4ab00343f52fc",
+      "name": "William Hanna",
+      "original_name": "William Hanna",
+      "gender": 2,
+      "profile_path": "/zf5WRsouQN0ozuJ4vFosXylPjaZ.jpg"
+    },
+    {
+      "id": 2702832,
+      "credit_id": "5f0227c9d0b4340034677745",
+      "name": "Janet Elizabeth Manco",
+      "original_name": "Janet Elizabeth Manco",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1982-09-18",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 34868,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1983-11-19",
+  "last_episode_to_air": {
+    "id": 3760452,
+    "name": "The Cuckoo Count Caper",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1983-11-19",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 34868,
+    "still_path": null
+  },
+  "name": "Shirt Tales",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 46,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Shirt Tales",
+  "overview": "Shirt tales is an American animated series that aired on NBC from September 18, 1982 to January 21, 1984. The series featured animal characters, created in 1980 by greeting card designer Janet Elizabeth Manco, that were among Hallmark Cards' best sellers at the time.",
+  "popularity": 8.2775,
+  "poster_path": "/htaoChPiv08qVLyDS5UWd605mlr.jpg",
+  "production_companies": [
+    {
+      "id": 1353,
+      "logo_path": "/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png",
+      "name": "Hanna-Barbera Cartoons",
+      "origin_country": "US"
+    },
+    {
+      "id": 53015,
+      "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1982-09-18",
+      "episode_count": 26,
+      "id": 45687,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/htaoChPiv08qVLyDS5UWd605mlr.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-09-17",
+      "episode_count": 20,
+      "id": 45685,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/htaoChPiv08qVLyDS5UWd605mlr.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 34868,
+    "imdb_id": "tt0085090",
+    "freebase_mid": "/m/0g4mx2p",
+    "freebase_id": null,
+    "tvdb_id": 73321,
+    "tvrage_id": null,
+    "wikidata_id": "Q581079",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

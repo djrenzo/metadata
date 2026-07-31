@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1999-03-30",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 27213,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2004-12-14",
+  "last_episode_to_air": {
+    "id": 681987,
+    "name": "Dec. 14, 2004",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-12-14",
+    "episode_number": 182,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 27213,
+    "still_path": null
+  },
+  "name": "The Late Late Show with Craig Kilborn",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 304,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Late Late Show with Craig Kilborn",
+  "overview": "Craig Kilborn hosted this zany talk show, which followed David Letterman's show, from 1999 until 2004. Kilborn left The Daily Show in 1999 to be this show's host after Tom Synder retired. The segment \"5 Questions\" was carried over from when he was on The Daily Show. Kilborn was frequently beaten in the ratings by his NBC timeslot rival, Conan O'Brien. Kilborn left The Late Late Show to pursue new opportunities.",
+  "popularity": 9.183,
+  "poster_path": "/2fABKyKKX6r4FUuCjd7qKmgNOID.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-04-12",
+      "episode_count": 25,
+      "id": 38020,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-06",
+      "episode_count": 62,
+      "id": 38021,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-02",
+      "episode_count": 105,
+      "id": 38022,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-04",
+      "episode_count": 76,
+      "id": 38023,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 36,
+      "id": 38024,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.2,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 27213,
+    "imdb_id": "tt0192906",
+    "freebase_mid": "/m/07cgr16",
+    "freebase_id": null,
+    "tvdb_id": 77515,
+    "tvrage_id": 5915,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

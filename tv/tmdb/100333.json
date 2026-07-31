@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/mSBdRkNrncpV9Qj4aFKmxhzyIID.jpg",
+  "created_by": [
+    {
+      "id": 2622399,
+      "credit_id": "5ead7a1427d9cc001dcfb017",
+      "name": "Mirko Cetrangolo",
+      "original_name": "Mirko Cetrangolo",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2547922,
+      "credit_id": "5ead7a1eba131b001f444184",
+      "name": "Anita Rivaroli",
+      "original_name": "Anita Rivaroli",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-04-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81004936",
+  "id": 100333,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2022-05-04",
+  "last_episode_to_air": {
+    "id": 3703667,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-05-04",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 3,
+    "show_id": 100333,
+    "still_path": "/gLVrzVjDritAilI2tC3avcFx7BZ.jpg"
+  },
+  "name": "Summertime",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 24,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "Summertime",
+  "overview": "A modern love story set during the summer on Italy’s Adriatic Coast. An undeniable attraction brings together Ale and Summer, who come from very different worlds. For both, these holidays will be an unforgettable journey that will take them far from who they were before they met.",
+  "popularity": 8.6905,
+  "poster_path": "/9PCmLDADfqrCnnxOo8yeM5AjnWY.jpg",
+  "production_companies": [
+    {
+      "id": 10102,
+      "logo_path": "/hdJq0LbqmBx6FJqnfTtfqvAsAkV.png",
+      "name": "Cattleya",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-04-29",
+      "episode_count": 8,
+      "id": 144940,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cY6jI84FlOJBuyOK9q36n5QZBrr.jpg",
+      "season_number": 1,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2021-06-03",
+      "episode_count": 8,
+      "id": 193378,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jhsljOIi4nghJ1FTDcfemI8odsL.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-04",
+      "episode_count": 8,
+      "id": 286638,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/GYfdozGWj7ScFNVdTyjRwqB8gQ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.817,
+  "vote_count": 452,
+  "external_ids": {
+    "id": 100333,
+    "imdb_id": "tt11269886",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 378389,
+    "tvrage_id": null,
+    "wikidata_id": "Q92490540",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

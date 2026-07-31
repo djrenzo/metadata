@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": "/nV2TAMA1X4e75sHPfSpM8Avemx8.jpg",
+  "created_by": [
+    {
+      "id": 2018432,
+      "credit_id": "6379bf9231644b00cdfe461f",
+      "name": "Ricardo Waddington",
+      "original_name": "Ricardo Waddington",
+      "gender": 2,
+      "profile_path": "/kgouUYenfG0CfaRfWKQCJMJxcHC.jpg"
+    },
+    {
+      "id": 2114984,
+      "credit_id": "6379bfae3d35570090710261",
+      "name": "Boninho",
+      "original_name": "Boninho",
+      "gender": 2,
+      "profile_path": "/2vIp3jEEnds9pxGCow6Z5a0HZGc.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2021-09-04",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://gshow.globo.com/programas/caldeirao",
+  "id": 214738,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2025-08-30",
+  "last_episode_to_air": {
+    "id": 6480607,
+    "name": "Episode 35",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-08-30",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 214738,
+    "still_path": null
+  },
+  "name": "Caldeirão com Mion",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 158,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Caldeirão com Mion",
+  "overview": "",
+  "popularity": 8.7423,
+  "poster_path": "/AhFYmMTPa8C1ZsmTbrVjvenwJTO.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-09-04",
+      "episode_count": 16,
+      "id": 316962,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 53,
+      "id": 326622,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-07",
+      "episode_count": 52,
+      "id": 326623,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-06",
+      "episode_count": 2,
+      "id": 471538,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-04",
+      "episode_count": 35,
+      "id": 471539,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/vtn3JYOdDVZloak6uO4fQUkUBq3.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 214738,
+    "imdb_id": "tt15470352",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 409592,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "caldeiraonaglobo",
+    "twitter_id": null
+  }
+}

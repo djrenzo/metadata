@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/3O74Pp4zp4jKlQMM78vX2cSVDjR.jpg",
+  "created_by": [
+    {
+      "id": 221111,
+      "credit_id": "63865fdd1b157d00c9f9cb6b",
+      "name": "Anders Breinholt",
+      "original_name": "Anders Breinholt",
+      "gender": 2,
+      "profile_path": "/mpBJTm4fypooljhbaDeTeouwKAf.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-12-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://viaplay.dk/serier/breinholts-julekalender",
+  "id": 215366,
+  "in_production": true,
+  "languages": [
+    "da"
+  ],
+  "last_air_date": "2023-12-24",
+  "last_episode_to_air": {
+    "id": 4963828,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-12-24",
+    "episode_number": 24,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 215366,
+    "still_path": null
+  },
+  "name": "Breinholts julekalender",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2869,
+      "logo_path": "/zs2yhnfMzRLoRtZgGRf41mqrLL0.png",
+      "name": "Viaplay",
+      "origin_country": "DK"
+    }
+  ],
+  "number_of_episodes": 48,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_name": "Breinholts julekalender",
+  "overview": "",
+  "popularity": 9.2655,
+  "poster_path": "/tRFamncuuR35ns0D4eWbmVulP0p.jpg",
+  "production_companies": [
+    {
+      "id": 148277,
+      "logo_path": "/oNxq8koaabZnPQwBUUNPkx8NzRp.png",
+      "name": "Pineapple Entertainment",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2022-12-01",
+      "episode_count": 24,
+      "id": 318050,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dUevPAkQoY3Bfp8eDNdFQXdQPH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-01",
+      "episode_count": 24,
+      "id": 366822,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 215366,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

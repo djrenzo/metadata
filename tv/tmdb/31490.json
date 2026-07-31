@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60,
+    30
+  ],
+  "first_air_date": "1967-02-05",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 31490,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1969-04-20",
+  "last_episode_to_air": {
+    "id": 755897,
+    "name": "Anthony Newley, The Clinger Sisters, Delores Hall",
+    "overview": "Last episode. Features guest stars humming the theme song: Harry Belafonte, Victor Borge, Ray Charles, Donovan, Nanette Fabray, Barbara Feldon, David Frye, George Gobel, Jack E. Leonard, Liberace, Jackie Mason, Bob Newhart, Pat Paulsen, Tony Randall, Nancy Sinatra, Kate Smith, Andy Williams and Jonathan Winters.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1969-04-20",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 31490,
+    "still_path": null
+  },
+  "name": "The Smothers Brothers Comedy Hour",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Smothers Brothers Comedy Hour",
+  "overview": "The Smothers Brothers Comedy Hour is an American comedy and variety show hosted by the Smothers Brothers and initially airing on CBS from 1967 to 1969.",
+  "popularity": 8.4474,
+  "poster_path": "/zs8TAOF0hqVDrKB1CVkh41Jg3GA.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1967-02-05",
+      "episode_count": 20,
+      "id": 43014,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1967-09-10",
+      "episode_count": 26,
+      "id": 43015,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1968-09-29",
+      "episode_count": 26,
+      "id": 43016,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 31490,
+    "imdb_id": "tt0061296",
+    "freebase_mid": "/m/09gp19p",
+    "freebase_id": null,
+    "tvdb_id": 70659,
+    "tvrage_id": null,
+    "wikidata_id": "Q7764942",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

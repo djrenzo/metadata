@@ -1,0 +1,166 @@
+{
+  "adult": false,
+  "backdrop_path": "/jYKzQ5Ns3kHbMy7mJolOM24Ojrr.jpg",
+  "created_by": [
+    {
+      "id": 4480251,
+      "credit_id": "65a373492973380121132ec6",
+      "name": "Nicole Rubel",
+      "original_name": "Nicole Rubel",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4480250,
+      "credit_id": "65a3733c39549a012610a8fd",
+      "name": "Jack Gantos",
+      "original_name": "Jack Gantos",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1998-12-25",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 42797,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2001-12-04",
+  "last_episode_to_air": {
+    "id": 4822855,
+    "name": "Dad's Time to Shine",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2001-12-04",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 42797,
+    "still_path": null
+  },
+  "name": "Rotten Ralph",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 15,
+      "logo_path": "/12roOdtGhLUriCtk1Qwu9eD5Nab.png",
+      "name": "CBBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 75,
+      "logo_path": "/p57JGkSUBdXbOtqkEKeTnfHn7kd.png",
+      "name": "ABC Family",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CA",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Rotten Ralph",
+  "overview": "The fast-paced antics of a troublesome red cat as he pulls pranks and generally enrages his family and everyone else he meets.",
+  "popularity": 8.171,
+  "poster_path": "/bL3V2pcCSXpIL38vem63zGolfkh.jpg",
+  "production_companies": [
+    {
+      "id": 137251,
+      "logo_path": null,
+      "name": "Italtoons Corporation",
+      "origin_country": "IT"
+    },
+    {
+      "id": 121466,
+      "logo_path": null,
+      "name": "Tooncan",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3164,
+      "logo_path": "/h06QVxWESaOAfBwkgrWFdbkkccq.png",
+      "name": "BBC Worldwide",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 361167,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-12-25",
+      "episode_count": 52,
+      "id": 361166,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 42797,
+    "imdb_id": "tt0421443",
+    "freebase_mid": "/m/0j_7sr5",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q7370650",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

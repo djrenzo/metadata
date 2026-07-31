@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/azWBrlovNOOdy0eQYEe9BoiROoN.jpg",
+  "created_by": [
+    {
+      "id": 1540094,
+      "credit_id": "635b474cd38b58007cdc5955",
+      "name": "Duca Rachid",
+      "original_name": "Duca Rachid",
+      "gender": 1,
+      "profile_path": "/mBtLbddtkhY4dypNhioeJUCICTq.jpg"
+    },
+    {
+      "id": 2069816,
+      "credit_id": "635b475e88c659007d416d96",
+      "name": "Júlio Fischer",
+      "original_name": "Júlio Fischer",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2925490,
+      "credit_id": "63fbfc08e4b5760085593d21",
+      "name": "Elísio Lopes Jr.",
+      "original_name": "Elísio Lopes Jr.",
+      "gender": 2,
+      "profile_path": "/sllaCIKyA5N6aOt5opKsP9iFvpf.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-03-20",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://gshow.globo.com/novelas/amor-perfeito/",
+  "id": 209085,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2023-09-22",
+  "last_episode_to_air": {
+    "id": 4858057,
+    "name": "Episode 161",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-09-22",
+    "episode_number": 161,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 209085,
+    "still_path": null
+  },
+  "name": "Perfect Love",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 161,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Amor Perfeito",
+  "overview": "A story about love and its different manifestations, told through the little boy Marcelino in search of his biggest dream: to meet his mother. Inspired by a famous book, the plot takes place in the 1940s.",
+  "popularity": 8.9841,
+  "poster_path": "/g0Tb0bs0MBZoq37BpyFExcepbFX.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-03-20",
+      "episode_count": 161,
+      "id": 306449,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aOPhyvHDauWFuc3rthpHArCNyrm.jpg",
+      "season_number": 1,
+      "vote_average": 9.1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.09,
+  "vote_count": 50,
+  "external_ids": {
+    "id": 209085,
+    "imdb_id": "tt23943146",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 424013,
+    "tvrage_id": null,
+    "wikidata_id": "Q116484173",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

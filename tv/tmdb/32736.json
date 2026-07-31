@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/759ooTcQt1DPNQafHTOjFpxY1MD.jpg",
+  "created_by": [
+    {
+      "id": 12624,
+      "credit_id": "5258a555760ee3466169435b",
+      "name": "Niels Mueller",
+      "original_name": "Niels Mueller",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 13229,
+      "credit_id": "5258a555760ee34661694367",
+      "name": "Kevin Kennedy",
+      "original_name": "Kevin Kennedy",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    43
+  ],
+  "first_air_date": "2010-09-22",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.cbs.com/primetime/the_defenders/",
+  "id": 32736,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-03-11",
+  "last_episode_to_air": {
+    "id": 770054,
+    "name": "Morelli v. Kaczmarek",
+    "overview": "The firm temporarily dissolves its partnership when they have to defend a husband and wife accused of murder.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-03-11",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 1,
+    "show_id": 32736,
+    "still_path": "/4jH1DptfECKmHxBnZMyp23EJLbe.jpg"
+  },
+  "name": "The Defenders",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 18,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Defenders",
+  "overview": "The Defenders is a drama about two colorful Las Vegas defense attorneys who go all-in when it comes to representing their clients. Nick and Pete are the local go-to guys with an eclectic client list who are still looking to hit their own jackpot.",
+  "popularity": 8.9639,
+  "poster_path": "/xAW5aSnv6ALlJvXQG1zTSpfCll5.jpg",
+  "production_companies": [
+    {
+      "id": 74733,
+      "logo_path": null,
+      "name": "Carol Mendelsohn Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-09-22",
+      "episode_count": 18,
+      "id": 44012,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ckIfWnTpRMDP3F4arRf0rhvGFm8.jpg",
+      "season_number": 1,
+      "vote_average": 6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "In Vegas even justice is hot.",
+  "type": "Scripted",
+  "vote_average": 7.176,
+  "vote_count": 34,
+  "external_ids": {
+    "id": 32736,
+    "imdb_id": "tt1592254",
+    "freebase_mid": "/m/0by0yg4",
+    "freebase_id": null,
+    "tvdb_id": 164521,
+    "tvrage_id": null,
+    "wikidata_id": "Q699383",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

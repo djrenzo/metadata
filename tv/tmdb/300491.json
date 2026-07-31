@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1993-11-08",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 300491,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1994-10-17",
+  "last_episode_to_air": {
+    "id": 6532989,
+    "name": "Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-10-17",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 300491,
+    "still_path": null
+  },
+  "name": "Señora Isabel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3555,
+      "logo_path": "/9Dnrd1r8SVkbv2hb1WyAp3W2UCW.png",
+      "name": "Canal A",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 50,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Señora Isabel",
+  "overview": "",
+  "popularity": 8.4935,
+  "poster_path": "/fG9LdYSSfIUKRE2CPrhqFl0xT8B.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1993-11-08",
+      "episode_count": 50,
+      "id": 474844,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 300491,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

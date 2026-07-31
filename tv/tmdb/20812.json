@@ -1,0 +1,230 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    95
+  ],
+  "first_air_date": "2002-09-09",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.valovilag.hu/",
+  "id": 20812,
+  "in_production": true,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2024-07-28",
+  "last_episode_to_air": {
+    "id": 5487674,
+    "name": "Episode 85",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-07-28",
+    "episode_number": 85,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 91,
+    "season_number": 12,
+    "show_id": 20812,
+    "still_path": null
+  },
+  "name": "Való Világ",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 833,
+      "logo_path": "/r3GEPOAXaREH765QVreesBK9mE0.png",
+      "name": "RTL",
+      "origin_country": "HU"
+    },
+    {
+      "id": 1716,
+      "logo_path": "/oG6mx3igu1POada9WinACUpN02o.png",
+      "name": "RTL2",
+      "origin_country": "HU"
+    },
+    {
+      "id": 7515,
+      "logo_path": null,
+      "name": "Cool",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 1467,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Való Világ",
+  "overview": "Interactive Real World night-show.",
+  "popularity": 8.8078,
+  "poster_path": "/kQ6EfC1igZRNSSsnQbLG2mrOLwj.jpg",
+  "production_companies": [
+    {
+      "id": 178680,
+      "logo_path": null,
+      "name": "RTL Magyarország",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-09-09",
+      "episode_count": 103,
+      "id": 318293,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 151,
+      "id": 318294,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-12-28",
+      "episode_count": 139,
+      "id": 318295,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-20",
+      "episode_count": 170,
+      "id": 318296,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 168,
+      "id": 318297,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-12",
+      "episode_count": 120,
+      "id": 318298,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-11-16",
+      "episode_count": 106,
+      "id": 318299,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-27",
+      "episode_count": 107,
+      "id": 318300,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-04",
+      "episode_count": 106,
+      "id": 318301,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-14",
+      "episode_count": 106,
+      "id": 318302,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-20",
+      "episode_count": 106,
+      "id": 318290,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/kQ6EfC1igZRNSSsnQbLG2mrOLwj.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-05",
+      "episode_count": 85,
+      "id": 388868,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Your opinion is the most important here!",
+  "type": "Reality",
+  "vote_average": 2.85,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 20812,
+    "imdb_id": "tt12258134",
+    "freebase_mid": "/m/03wcfyb",
+    "freebase_id": "/en/valo_vilag",
+    "tvdb_id": 317961,
+    "tvrage_id": null,
+    "wikidata_id": "Q832913",
+    "facebook_id": null,
+    "instagram_id": "valovilag",
+    "twitter_id": null
+  }
+}

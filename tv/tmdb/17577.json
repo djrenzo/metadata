@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/6HSUlTnyTx7uFNRcpCuvFAVs42J.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60,
+    90
+  ],
+  "first_air_date": "2002-11-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 17577,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2004-03-20",
+  "last_episode_to_air": {
+    "id": 4440757,
+    "name": "Episode 70",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2004-03-20",
+    "episode_number": 70,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 17577,
+    "still_path": null
+  },
+  "name": "Berks",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 20,
+      "logo_path": "/kdcvqvutGKUsIkeSVGl8pQMkc3k.png",
+      "name": "ABS-CBN",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 70,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Berks",
+  "overview": "Berks is a Filipino television show produced by ABS-CBN.",
+  "popularity": 9.2375,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 162722,
+      "logo_path": "/swtFEO24EIzf85ZpzwmKlWveHUL.png",
+      "name": "ABS-CBN Studios",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-11-16",
+      "episode_count": 70,
+      "id": 28474,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 17577,
+    "imdb_id": null,
+    "freebase_mid": "/m/05mt60l",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": 17012,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

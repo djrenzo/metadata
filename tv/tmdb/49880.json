@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 4129031,
+      "credit_id": "649743896f43ec013999e988",
+      "name": "Fikri Sağlar",
+      "original_name": "Fikri Sağlar",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2006-09-04",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "",
+  "id": 49880,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2006-11-06",
+  "last_episode_to_air": {
+    "id": 4547512,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2006-11-06",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 49880,
+    "still_path": null
+  },
+  "name": "Kod Adı",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [],
+  "original_language": "tr",
+  "original_name": "Kod Adı",
+  "overview": "",
+  "popularity": 8.2964,
+  "poster_path": "/8c0m7a2afTEqbiKI6jVx9l3NpFA.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 10,
+      "id": 346410,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 49880,
+    "imdb_id": null,
+    "freebase_mid": "/m/0vpfj2w",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

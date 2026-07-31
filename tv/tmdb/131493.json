@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/bgtuP1ztwXit17b2PDEUB45495K.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2021-10-18",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.goplay.be/klopjacht",
+  "id": 131493,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-04-16",
+  "last_episode_to_air": {
+    "id": 7094436,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-16",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 131493,
+    "still_path": null
+  },
+  "name": "Klopjacht",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1039,
+      "logo_path": "/lirjOZ1woSOscxN77GXYqGxyua0.png",
+      "name": "Play",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 35,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Klopjacht",
+  "overview": "",
+  "popularity": 8.2663,
+  "poster_path": "/vW6VPpsviaIKyeyFMhfQ8RgMWLL.jpg",
+  "production_companies": [
+    {
+      "id": 70999,
+      "logo_path": "/ljumHgg7rNf2xuQ0iUUZSWz6Amt.png",
+      "name": "Banijay Belgium",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-10-18",
+      "episode_count": 8,
+      "id": 206541,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-28",
+      "episode_count": 9,
+      "id": 220457,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-03",
+      "episode_count": 9,
+      "id": 313101,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-04-06",
+      "episode_count": 9,
+      "id": 360183,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 131493,
+    "imdb_id": "tt21248382",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 411200,
+    "tvrage_id": null,
+    "wikidata_id": "Q109584480",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

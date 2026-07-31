@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/vGM5Yqzws95oUgwZp34FVGEuKew.jpg",
+  "created_by": [
+    {
+      "id": 1222861,
+      "credit_id": "66d37bd17be184cfaa457384",
+      "name": "Cris Morena",
+      "original_name": "Cris Morena",
+      "gender": 1,
+      "profile_path": "/msgzhmInpcEuLXqgZrajzWNr5VA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    39
+  ],
+  "first_air_date": "2024-09-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.hbomax.com/ar/es/shows/margarita-que-tu-cuento-valga-la-pena/43b9e63c-702e-467d-b131-e62864432e22",
+  "id": 245328,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2026-05-25",
+  "last_episode_to_air": {
+    "id": 7228229,
+    "name": "Who Tell the Story",
+    "overview": "When the plan to expose Delfina fails, she manipulates the narrative to frame Severino. Then, while Margarita decides to place her trust in Rey, Daisy struggles to accept the truth, and Delfina delivers a stunning final blow.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-25",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 33,
+    "season_number": 2,
+    "show_id": 245328,
+    "still_path": "/8gx1nmDodC0lnB4cddQzr85uKP6.jpg"
+  },
+  "name": "Margarita: Make Your Story Count",
+  "next_episode_to_air": {
+    "id": 7392493,
+    "name": "Episode 1",
+    "overview": "TBA August 2026",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-24",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 245328,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6783,
+      "logo_path": "/rAb4M1LjGpWASxpk6Va791A7Nkw.png",
+      "name": "Max",
+      "origin_country": ""
+    },
+    {
+      "id": 8304,
+      "logo_path": "/gqWI9y0owo9sxgzZD7TXOeILYI9.png",
+      "name": "HBO Max",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 80,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AR",
+    "UY"
+  ],
+  "original_language": "es",
+  "original_name": "Margarita: Que tu cuento valga la pena",
+  "overview": "Margarita tells the story of an orphaned teenager with a life like a movie, with many doubts and almost no certainty about her story, who, following her wish, will arrive at a very magical place where she can live and fulfill her dreams, without knowing that this house was the place where she was born and that the perfidious Delfina usurped it to build her empire.",
+  "popularity": 8.6871,
+  "poster_path": "/scOdQ3JwM9N8RW0gzkBELfm4DzJ.jpg",
+  "production_companies": [
+    {
+      "id": 53991,
+      "logo_path": null,
+      "name": "Cris Morena Group",
+      "origin_country": "AR"
+    },
+    {
+      "id": 136963,
+      "logo_path": "/cy7yQL0v56g2MQChxKqYF3NGkLx.png",
+      "name": "Cimarrón Cine",
+      "origin_country": "UY"
+    },
+    {
+      "id": 211533,
+      "logo_path": "/sU3y20XNpm39PCgxmaLna8EK3fo.png",
+      "name": "Cinevinay",
+      "origin_country": "UY"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-09-01",
+      "episode_count": 40,
+      "id": 377272,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8sAZeOLl0ROJLHYMJzlMZtOgeh1.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-05-03",
+      "episode_count": 20,
+      "id": 509277,
+      "name": "Season 2",
+      "overview": "Margarita's magical journey continues: after discovering her true identity, she returns with new allies and more courage than ever, determined to reclaim her legacy and defeat evil Delfina once and for all.",
+      "poster_path": "/scOdQ3JwM9N8RW0gzkBELfm4DzJ.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2026-08-24",
+      "episode_count": 20,
+      "id": 522770,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.927,
+  "vote_count": 82,
+  "external_ids": {
+    "id": 245328,
+    "imdb_id": "tt33145195",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 448145,
+    "tvrage_id": null,
+    "wikidata_id": "Q128602213",
+    "facebook_id": "61560553131259",
+    "instagram_id": "margaritasitequiere",
+    "twitter_id": null
+  }
+}

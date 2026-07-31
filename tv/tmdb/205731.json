@@ -1,0 +1,113 @@
+{
+  "adult": false,
+  "backdrop_path": "/qBQikuZXmtQ05ZDGLo6qA6XxEzq.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2022-01-05",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://curiositystream.com/video/6154",
+  "id": 205731,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-12-08",
+  "last_episode_to_air": {
+    "id": 4098347,
+    "name": "Recycling",
+    "overview": "New York has a whole lot of trash, but did you know that half of it is recyclable? While NYC might not be the best at it, its system is state of the art - from facilities processing New Yorker's bottles and cans to a brand new composting movement to a community that relies on the system to survive.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-12-08",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 2,
+    "show_id": 205731,
+    "still_path": null
+  },
+  "name": "NYC Revealed",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2349,
+      "logo_path": "/1G6KT1mNzGyKdVjr4nkCp4HVt81.png",
+      "name": "CuriosityStream",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "NYC Revealed",
+  "overview": "From garbage trucks to power plants, giving viewers a rare behind-the-scenes look into the sprawling network of infrastructure systems that keep New York City breathing.",
+  "popularity": 8.6192,
+  "poster_path": "/6LuGtimf86xbQD35MIVSKnHoXhf.jpg",
+  "production_companies": [
+    {
+      "id": 96320,
+      "logo_path": "/1G6KT1mNzGyKdVjr4nkCp4HVt81.png",
+      "name": "CuriosityStream",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2022-01-05",
+      "episode_count": 10,
+      "id": 300362,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-14",
+      "episode_count": 10,
+      "id": 319671,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 205731,
+    "imdb_id": "tt17736348",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 415413,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

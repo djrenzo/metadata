@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/tgOQGfgxg6ysxtzh62gn7jn0N7V.jpg",
+  "created_by": [
+    {
+      "id": 1522988,
+      "credit_id": "5620aa709251411e1f00241b",
+      "name": "John Fox",
+      "original_name": "John Fox",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 89027,
+      "credit_id": "5620aa9dc3a3686868001f39",
+      "name": "Jared Stern",
+      "original_name": "Jared Stern",
+      "gender": 2,
+      "profile_path": "/zlXrDsxTBXqxhVDW1hDpx7fRYnM.jpg"
+    },
+    {
+      "id": 83586,
+      "credit_id": "5620aa9692514171cd00740d",
+      "name": "Ken Jeong",
+      "original_name": "Ken Jeong",
+      "gender": 2,
+      "profile_path": "/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2015-10-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/dr-ken",
+  "id": 62776,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-03-31",
+  "last_episode_to_air": {
+    "id": 1296163,
+    "name": "Ken's Big Audition",
+    "overview": "Ken's dream comes true when he's cast in a comedy series that takes place at a community college.",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2017-03-31",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 2,
+    "show_id": 62776,
+    "still_path": null
+  },
+  "name": "Dr. Ken",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 44,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dr. Ken",
+  "overview": "Dr. Ken is a brilliant physician with no bedside manner. He is always trying to be a good doctor, as well as a good husband and dad to his two kids. However, these good intentions have a way of driving everyone crazy at both work and at home. Luckily, his therapist wife Allison is just the right partner to keep things sane.",
+  "popularity": 9.1932,
+  "poster_path": "/rLuRcr3E7mFGR4jGnNjEuAWWO8p.jpg",
+  "production_companies": [
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-10-02",
+      "episode_count": 22,
+      "id": 67068,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/marXWeBthEURx972iAidIiMcgea.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2016-09-23",
+      "episode_count": 22,
+      "id": 79231,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ZGgK57ZxR010QYEf0JX0a0Pk8y.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "The gloves are coming off.",
+  "type": "Scripted",
+  "vote_average": 5.604,
+  "vote_count": 77,
+  "external_ids": {
+    "id": 62776,
+    "imdb_id": "tt3216608",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 295557,
+    "tvrage_id": 37966,
+    "wikidata_id": "Q19913874",
+    "facebook_id": "Dr.KenABC",
+    "instagram_id": "drkenabc",
+    "twitter_id": "DrKenABC"
+  }
+}

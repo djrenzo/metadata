@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-01-31",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "",
+  "id": 116692,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-01-02",
+  "last_episode_to_air": {
+    "id": 5800097,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-01-02",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 116692,
+    "still_path": null
+  },
+  "name": "MDR um 11",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1118,
+      "logo_path": "/iIppR5wX7s2soFTHZsHV5mgQ9Or.png",
+      "name": "MDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 450,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "MDR um 11",
+  "overview": "",
+  "popularity": 8.8129,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-31",
+      "episode_count": 14,
+      "id": 176549,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-24",
+      "episode_count": 37,
+      "id": 176553,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-22",
+      "episode_count": 46,
+      "id": 176554,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-09",
+      "episode_count": 97,
+      "id": 176555,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 254,
+      "id": 176556,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 1,
+      "id": 423791,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 1,
+      "id": 423792,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 116692,
+    "imdb_id": "tt5510958",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

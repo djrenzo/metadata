@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/gQENev4ojlGQd05ic9SiXlaXSzM.jpg",
+  "created_by": [
+    {
+      "id": 7624,
+      "credit_id": "690f6e4810446865a6c05718",
+      "name": "Stan Lee",
+      "original_name": "Stan Lee",
+      "gender": 2,
+      "profile_path": "/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1981-09-12",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/series/wp/1c5hHCFuhdEf",
+  "id": 3973,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1982-03-06",
+  "last_episode_to_air": {
+    "id": 277633,
+    "name": "Under the Wizard's Spell",
+    "overview": "The Wizard invites Medusa to New York City to steal a device from the military.",
+    "vote_average": 4.5,
+    "vote_count": 2,
+    "air_date": "1982-03-06",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 1,
+    "show_id": 3973,
+    "still_path": "/eRafJNzc2irzxMeG95GdNfe2LcS.jpg"
+  },
+  "name": "Spider-Man",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Spider-Man",
+  "overview": "The web-slinging superhero battles crime in New York City.",
+  "popularity": 8.1731,
+  "poster_path": "/Y43QSDxYivUkmw7eFm1JR3Qqwc.jpg",
+  "production_companies": [
+    {
+      "id": 2301,
+      "logo_path": "/qdPhBEP8sjK3Eb3rKc94554gcZt.png",
+      "name": "Marvel Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1981-09-12",
+      "episode_count": 26,
+      "id": 11803,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cuZCE0S4LBxYk6dI1eLrcoJuZ7a.jpg",
+      "season_number": 1,
+      "vote_average": 4.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 81,
+  "external_ids": {
+    "id": 3973,
+    "imdb_id": "tt0081938",
+    "freebase_mid": "/m/06xfch",
+    "freebase_id": null,
+    "tvdb_id": 77686,
+    "tvrage_id": null,
+    "wikidata_id": "Q1157151",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

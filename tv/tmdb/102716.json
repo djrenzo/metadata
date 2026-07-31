@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": "/aYvpNCMG4G5SDbwhNAvMRcHZ42m.jpg",
+  "created_by": [
+    {
+      "id": 1807168,
+      "credit_id": "5ea73fc7d38b58002026f4e4",
+      "name": "Jean Regnaud",
+      "original_name": "Jean Regnaud",
+      "gender": 2,
+      "profile_path": "/uFXZntNlDiGTUrfT78OK7OQ0h7k.jpg"
+    },
+    {
+      "id": 1276783,
+      "credit_id": "5ea7401c07291c0020ea1f4f",
+      "name": "Anne Didier",
+      "original_name": "Anne Didier",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 2009778,
+      "credit_id": "5ea74009bb070d001ea701bf",
+      "name": "Olivier Muller",
+      "original_name": "Olivier Muller",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-04-08",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 102716,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2023-11-28",
+  "last_episode_to_air": {
+    "id": 7251083,
+    "name": "Episode 52",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-11-28",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 2,
+    "show_id": 102716,
+    "still_path": null
+  },
+  "name": "Zak Jinks",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 511,
+      "logo_path": "/9v9Mink1IVxPNRZOmCZ8N58BOHe.png",
+      "name": "France 4",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1131,
+      "logo_path": "/c1YCG42hBUQruiOKRT7xD6erGZd.png",
+      "name": "Télé-Québec",
+      "origin_country": "CA"
+    },
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Anatole Latuile",
+  "overview": "The adventures of a young boy named Zak, who always gets into trouble.",
+  "popularity": 8.2951,
+  "poster_path": "/mGEi7HcgZfgLcmR0CYVXRFv96dJ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-08",
+      "episode_count": 52,
+      "id": 149334,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-20",
+      "episode_count": 52,
+      "id": 503199,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 102716,
+    "imdb_id": "tt8711748",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 347207,
+    "tvrage_id": null,
+    "wikidata_id": "Q55595493",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

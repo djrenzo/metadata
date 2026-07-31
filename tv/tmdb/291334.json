@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/rek9nXDNYoPwEyNhu4eHGNVDyMa.jpg",
+  "created_by": [
+    {
+      "id": 1224760,
+      "credit_id": "6915687f579b325ab63a42a8",
+      "name": "Robert Carlock",
+      "original_name": "Robert Carlock",
+      "gender": 2,
+      "profile_path": "/mZPYQ2LiITLJp3FsFEjotpBuFXb.jpg"
+    },
+    {
+      "id": 1230181,
+      "credit_id": "691568863cd80ce17f3a4105",
+      "name": "Sam Means",
+      "original_name": "Sam Means",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-01-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.nbc.com/the-fall-and-rise-of-reggie-dinkins",
+  "id": 291334,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-13",
+  "last_episode_to_air": {
+    "id": 6984492,
+    "name": "A Real Cinderello Story",
+    "overview": "Monica tries to sign an exciting new prospect. Unexpectedly, Jerry Basmati takes revenge on Reggie.",
+    "vote_average": 2.5,
+    "vote_count": 4,
+    "air_date": "2026-04-13",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 291334,
+    "still_path": "/rIKwBlJ1o7Ryz4FTmMxvU8coqVq.jpg"
+  },
+  "name": "The Fall and Rise of Reggie Dinkins",
+  "next_episode_to_air": {
+    "id": 7420500,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-11-02",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 291334,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 11,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Fall and Rise of Reggie Dinkins",
+  "overview": "A disgraced former football player is on a mission to rehabilitate his image.",
+  "popularity": 9.0195,
+  "poster_path": "/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
+  "production_companies": [
+    {
+      "id": 90766,
+      "logo_path": null,
+      "name": "Bevel Gears",
+      "origin_country": "US"
+    },
+    {
+      "id": 26402,
+      "logo_path": "/1BFbFgEhD1tJShFTYPNt87q99rD.png",
+      "name": "Little Stranger",
+      "origin_country": "US"
+    },
+    {
+      "id": 787,
+      "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+      "name": "3 Arts Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-01-18",
+      "episode_count": 10,
+      "id": 456147,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/p0V03p5AbJktmc9WuY1onaNHDdL.jpg",
+      "season_number": 1,
+      "vote_average": 2.6
+    },
+    {
+      "air_date": "2026-11-02",
+      "episode_count": 1,
+      "id": 524268,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Don't call it a comeback... yet.",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 291334,
+    "imdb_id": "tt36153709",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 463588,
+    "tvrage_id": null,
+    "wikidata_id": "Q137756765",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

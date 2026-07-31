@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/kcwZQbDnFlQGeaT2qwggPuPVtLC.jpg",
+  "created_by": [
+    {
+      "id": 1130954,
+      "credit_id": "64564a0f90cf5101361ebaa0",
+      "name": "Nadine Khan",
+      "original_name": "Nadine Khan",
+      "gender": 1,
+      "profile_path": "/z0aaQMIrK3gE7F9HBITMWXpB8Cw.jpg"
+    },
+    {
+      "id": 1369203,
+      "credit_id": "64564a1c91f0ea013d04c68b",
+      "name": "Heba Yousry",
+      "original_name": "Heba Yousry",
+      "gender": 1,
+      "profile_path": "/l8HvvcOMlQQo02WEIxmapd6E4Nf.jpg"
+    },
+    {
+      "id": 1027078,
+      "credit_id": "64564a0660620a015cf5492d",
+      "name": "Ayten Amin",
+      "original_name": "آيتن أمين",
+      "gender": 1,
+      "profile_path": "/pT2rDfDjX9uP1TDl9kVx3fPjIVi.jpg"
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2017-10-16",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 75165,
+  "in_production": false,
+  "languages": [
+    "ar"
+  ],
+  "last_air_date": "2019-01-21",
+  "last_episode_to_air": {
+    "id": 3763154,
+    "name": "Episode 67",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-01-21",
+    "episode_number": 67,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 75165,
+    "still_path": null
+  },
+  "name": "Sabe' Gar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1952,
+      "logo_path": null,
+      "name": "CBCDrama",
+      "origin_country": "EG"
+    }
+  ],
+  "number_of_episodes": 67,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "EG"
+  ],
+  "original_language": "ar",
+  "original_name": "سابع جار",
+  "overview": "Set in a middle-class Cairo apartment building, The Seventh Neighbour weaves together the private lives of residents who project happiness and stability to the world while quietly battling their own secrets, struggles and conflicts behind closed doors. With interconnected storylines spanning love, marriage, family pressure and social tension, it's a warm, relatable ensemble drama about the hidden lives of ordinary people living side by side.",
+  "popularity": 8.3273,
+  "poster_path": "/uYFPPi5gYxN8AMNkvPRtfyJptXB.jpg",
+  "production_companies": [
+    {
+      "id": 34320,
+      "logo_path": "/wiYuQiEr15YGdedQP1h9vzsGXVf.png",
+      "name": "Film Clinic",
+      "origin_country": "EG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-10-16",
+      "episode_count": 67,
+      "id": 95519,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 75165,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 336668,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

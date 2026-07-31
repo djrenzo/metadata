@@ -1,0 +1,168 @@
+{
+  "adult": false,
+  "backdrop_path": "/eEf6acBj8wbXdE3rngQOJO0Nrjf.jpg",
+  "created_by": [
+    {
+      "id": 30723,
+      "credit_id": "5258203d760ee36aaa7a0722",
+      "name": "Sidney Sheldon",
+      "original_name": "Sidney Sheldon",
+      "gender": 2,
+      "profile_path": "/yH3rNPunulWKC1YMOVgoknU6lux.jpg"
+    },
+    {
+      "id": 95526,
+      "credit_id": "5258203d760ee36aaa7a0728",
+      "name": "William Asher",
+      "original_name": "William Asher",
+      "gender": 2,
+      "profile_path": "/hPML8wfeX0W5CL6aG9g660Sj90j.jpg"
+    }
+  ],
+  "episode_run_time": [
+    24,
+    30
+  ],
+  "first_air_date": "1963-09-18",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 12444,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1966-04-27",
+  "last_episode_to_air": {
+    "id": 481101,
+    "name": "Do a Brother a Favor",
+    "overview": "Patty agress to date the president of Tigers' basketball club in order to increase Ross's chances of becoming a member.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1966-04-27",
+    "episode_number": 32,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 12444,
+    "still_path": null
+  },
+  "name": "The Patty Duke Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 104,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Patty Duke Show",
+  "overview": "The Patty Duke Show is an American sitcom which ran on ABC from September 18, 1963 to April 27, 1966, with reruns airing through August 31, 1966. The show was created as a vehicle for rising star Patty Duke. A total of 104 episodes were produced, most written by Sidney Sheldon.",
+  "popularity": 8.5348,
+  "poster_path": "/rjBKHT0et8oWpqLhhyiLQwfKtPz.jpg",
+  "production_companies": [
+    {
+      "id": 40431,
+      "logo_path": null,
+      "name": "Chrislaw Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11338,
+      "logo_path": null,
+      "name": "Cottage Industries",
+      "origin_country": "US"
+    },
+    {
+      "id": 21827,
+      "logo_path": null,
+      "name": "United Artists Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 23289,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-09-18",
+      "episode_count": 36,
+      "id": 23286,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/hmTqeGA9bW0Y9ZbuTvnsbcK1AQW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-09-16",
+      "episode_count": 36,
+      "id": 23287,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/knlJTfMnWeUFzvbxzWOsitVb4kT.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-15",
+      "episode_count": 32,
+      "id": 23288,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/vaAZsUS3GEE4yoEI5eh4nhOOKps.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.25,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 12444,
+    "imdb_id": "tt0056778",
+    "freebase_mid": "/m/05888l",
+    "freebase_id": "/en/the_patty_duke_show",
+    "tvdb_id": 72265,
+    "tvrage_id": 6080,
+    "wikidata_id": "Q3988658",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

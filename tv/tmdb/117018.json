@@ -1,0 +1,202 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    27,
+    57
+  ],
+  "first_air_date": "2013-02-21",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.pbs.org/show/colorado-experience/",
+  "id": 117018,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-11-17",
+  "last_episode_to_air": {
+    "id": 5788335,
+    "name": "Palisade Peaches",
+    "overview": "Explores the more than 150 years of peach growing in Palisade.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-11-17",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 29,
+    "season_number": 11,
+    "show_id": 117018,
+    "still_path": "/toyIiO5w1s6aQ6G0FkRkMt20Zwc.jpg"
+  },
+  "name": "Colorado Experience",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Colorado Experience",
+  "overview": "Rocky Mountain PBS flagship history series exploring the people, places, and events that have shaped Colorado's rich heritage.",
+  "popularity": 8.4995,
+  "poster_path": "/rhhqYW3jjiWSrLKPAzKfiotpRpk.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-02-21",
+      "episode_count": 13,
+      "id": 177255,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/nyPmN9GZRi4tNsqxCZJn2okHESv.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-07",
+      "episode_count": 13,
+      "id": 177257,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/2NDnjytdqWZ5zfRmBLUTgdctgWh.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-01",
+      "episode_count": 14,
+      "id": 177258,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/myu1QU6Z888hhVynicUUMYVxp9m.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-06",
+      "episode_count": 13,
+      "id": 177259,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/iMqfevuSW7osOuYBgxMvLGFvdBH.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-19",
+      "episode_count": 14,
+      "id": 177260,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/ywT6d7V5eVPKiq0xhod4AFzkLqo.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-27",
+      "episode_count": 13,
+      "id": 177261,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/91ReavL87ddCS2z3wUvJc5Mi7Ch.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-03",
+      "episode_count": 12,
+      "id": 177262,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/o6AWAShCEfDWRAq0Zxki6pdOsLi.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-01",
+      "episode_count": 11,
+      "id": 177263,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/o1F0Bf1JJ05I3QyASItAZubFYa6.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-04",
+      "episode_count": 6,
+      "id": 347950,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/eTWizs8UUSx7UhZMM64JXwrB68I.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-24",
+      "episode_count": 9,
+      "id": 430331,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/A00FSbUYIJk1CuPnN8RvcFl5eiW.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 8,
+      "id": 430332,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/5cfA3GHtxtMvAzab6KVq3B8uwTa.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 117018,
+    "imdb_id": "tt2486236",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 305121,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

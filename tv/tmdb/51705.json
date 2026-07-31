@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/8H0vfMEIR7KJobiAtlZA2TVgQfM.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2009-10-07",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.antenna.gr/karma",
+  "id": 51705,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2010-10-06",
+  "last_episode_to_air": {
+    "id": 4072930,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-10-06",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 51705,
+    "still_path": null
+  },
+  "name": "Karma",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 153,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Καρμα",
+  "overview": "",
+  "popularity": 8.2929,
+  "poster_path": "/lyDc59peIMVyVcHLscbJV22ruyS.jpg",
+  "production_companies": [
+    {
+      "id": 145860,
+      "logo_path": null,
+      "name": "PLD Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-10-07",
+      "episode_count": 148,
+      "id": 150853,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dvCLs2rzYTOs9hxK1LVRvHBhpBC.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-01",
+      "episode_count": 5,
+      "id": 317546,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ynmp4jZAhBIx1frZPH4LrYvSSKe.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 51705,
+    "imdb_id": "tt1525729",
+    "freebase_mid": "/m/0v_7p4n",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q96179514",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

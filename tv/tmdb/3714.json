@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/kXodjrgzRTtQo6CnAkHbhlzZlcj.jpg",
+  "created_by": [
+    {
+      "id": 3850,
+      "credit_id": "5257549119c29531db124b52",
+      "name": "Astrid Lindgren",
+      "original_name": "Astrid Lindgren",
+      "gender": 1,
+      "profile_path": "/4hfhciGbcV7WnukejAPWsn49O1w.jpg"
+    },
+    {
+      "id": 55006,
+      "credit_id": "554f710d92514162f2001820",
+      "name": "Olle Hellbom",
+      "original_name": "Olle Hellbom",
+      "gender": 2,
+      "profile_path": "/9FUybKg3vh5no9B8IpXfHpyiNBV.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1969-02-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 3714,
+  "in_production": false,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "1969-05-03",
+  "last_episode_to_air": {
+    "id": 1021627,
+    "name": "Pippi Goes on Board",
+    "overview": "Now Pippi is going to board the ‘Hoppetossa’ and leave Tommy and Annika. Pippi tries to console them, but it is simply not possible.",
+    "vote_average": 6,
+    "vote_count": 4,
+    "air_date": "1969-05-03",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 3714,
+    "still_path": "/aNdQe920vnq3ItDwPyLOrroTRKR.jpg"
+  },
+  "name": "Pippi Longstocking",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 13,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Pippi Långstrump",
+  "overview": "The adventures of Pippi Longstocking, an eccentric, super-strong, redheaded moppet and her best friends Tommy and Annika.",
+  "popularity": 8.8643,
+  "poster_path": "/bCMX9FK7fD6BncwsTFBhGAVvgTA.jpg",
+  "production_companies": [
+    {
+      "id": 41269,
+      "logo_path": null,
+      "name": "Nord Art AB",
+      "origin_country": ""
+    },
+    {
+      "id": 9138,
+      "logo_path": "/k7txH8XTs9BZwmTK6Drhjvt2ipu.png",
+      "name": "Sveriges Radio",
+      "origin_country": "SE"
+    },
+    {
+      "id": 609,
+      "logo_path": null,
+      "name": "Iduna Film Produktiongesellschaft",
+      "origin_country": "DE"
+    },
+    {
+      "id": 78544,
+      "logo_path": null,
+      "name": "Nord Art",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1969-02-08",
+      "episode_count": 13,
+      "id": 63134,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9UbNinmN7Zl0mIeDDKRFcza5ZCg.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 181,
+  "external_ids": {
+    "id": 3714,
+    "imdb_id": "tt0062598",
+    "freebase_mid": "/m/026wdpd",
+    "freebase_id": null,
+    "tvdb_id": 82818,
+    "tvrage_id": null,
+    "wikidata_id": "Q941053",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

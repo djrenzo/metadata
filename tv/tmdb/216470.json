@@ -1,0 +1,113 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 3539420,
+      "credit_id": "639d4b974f33ad008cff855b",
+      "name": "Elvis Noulem",
+      "original_name": "Elvis Noulem",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "2016-08-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://camermov.tv/",
+  "id": 216470,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2016-11-14",
+  "last_episode_to_air": {
+    "id": 4108816,
+    "name": "Episode 28",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-11-14",
+    "episode_number": 28,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 216470,
+    "still_path": null
+  },
+  "name": "Jugement Dernier",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 54,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CM"
+  ],
+  "original_language": "fr",
+  "original_name": "Jugement Dernier",
+  "overview": "",
+  "popularity": 9.1387,
+  "poster_path": "/stj89px94bxWqqBz85Q5xuFLdIr.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CM",
+      "name": "Cameroon"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-08-08",
+      "episode_count": 26,
+      "id": 320336,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/stj89px94bxWqqBz85Q5xuFLdIr.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-11-14",
+      "episode_count": 28,
+      "id": 320385,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/stj89px94bxWqqBz85Q5xuFLdIr.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 216470,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

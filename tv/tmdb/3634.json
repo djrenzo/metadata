@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/japwUdut8WGe0H6DOWueRe4FOyY.jpg",
+  "created_by": [
+    {
+      "id": 1587695,
+      "credit_id": "5f93628fd768fe007da0f0d5",
+      "name": "Fabrice de Costil",
+      "original_name": "Fabrice de Costil",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2571896,
+      "credit_id": "5f9362952b9320005f755a04",
+      "name": "Bertrand Victor",
+      "original_name": "Bertrand Victor",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "2004-01-01",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 3634,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2005-01-01",
+  "last_episode_to_air": {
+    "id": 3161232,
+    "name": "The Beast of Beauvillage",
+    "overview": "A dangerous wolf is on the prowl in the hills outside Beauvillage, frightening residents.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2005-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 10,
+    "season_number": 2,
+    "show_id": 3634,
+    "still_path": null
+  },
+  "name": "The Tofus",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 83,
+      "logo_path": "/mE2ElX5BSeUhiT3V8qUhLjd3Nbz.png",
+      "name": "Teletoon",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2445,
+      "logo_path": "/et3ZqCUvzqGVFIs6OiPlw2rxRbc.png",
+      "name": "Jetix",
+      "origin_country": "FR"
+    },
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Tofou",
+  "overview": "A satirical parody of the environmentalist lifestyle epitomized by its title family, which consists of Mom, Pop, Chichi, Lola, and Buba. The show is set in the fictional town of Beauvillage, and lampoons many aspects of the environmental movement, including environmental organizations, animal rights, and pacifism.",
+  "popularity": 8.5704,
+  "poster_path": "/rl9PFJB04Nx3sHDGO832OeUSlzg.jpg",
+  "production_companies": [
+    {
+      "id": 142390,
+      "logo_path": null,
+      "name": "SIP Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4172,
+      "logo_path": "/vb2gE5Ao9wIfj3XlY8CwwwbnAlh.png",
+      "name": "CinéGroupe",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 26,
+      "id": 207313,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tAMY6wwmY9N8G0eDa1DuNifF62A.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 26,
+      "id": 207314,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ebH5f007NHPeMyWXtmR36o1IEui.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.8,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 3634,
+    "imdb_id": "tt0417369",
+    "freebase_mid": "/m/02qhxfw",
+    "freebase_id": "/en/the_tofus",
+    "tvdb_id": 297325,
+    "tvrage_id": null,
+    "wikidata_id": "Q2527127",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

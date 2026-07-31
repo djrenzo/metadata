@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1206625,
+      "credit_id": "668fa8134f3d3cec81b63132",
+      "name": "Roberta Durrant",
+      "original_name": "Roberta Durrant",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-07-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 35565,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-02-25",
+  "last_episode_to_air": {
+    "id": 5470624,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-02-25",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 35565,
+    "still_path": null
+  },
+  "name": "Home Affairs",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2438,
+      "logo_path": "/dI9PpZYyc2IzMiTDH1IdJ1IND3W.png",
+      "name": "SABC 1",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 65,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_name": "Home Affairs",
+  "overview": "Home Affairs is a South African television drama series created and produced by Roberta Durrant. It tells the story of nine very different women whose lives are interconnected. The women's stories reflect the wide cultural range of South African women. The women each undertake a journey of self-discovery, connecting with each other in various and random ways.",
+  "popularity": 8.5207,
+  "poster_path": "/rabLtsqR0yo7QxNz5EEcyOh8XFf.jpg",
+  "production_companies": [
+    {
+      "id": 149066,
+      "logo_path": null,
+      "name": "Penguin Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-07-14",
+      "episode_count": 13,
+      "id": 305932,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-10",
+      "episode_count": 13,
+      "id": 305933,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-05-31",
+      "episode_count": 13,
+      "id": 305934,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-03",
+      "episode_count": 26,
+      "id": 401772,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 35565,
+    "imdb_id": "tt0989255",
+    "freebase_mid": "/m/09gbckv",
+    "freebase_id": null,
+    "tvdb_id": 423875,
+    "tvrage_id": null,
+    "wikidata_id": "Q5888148",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

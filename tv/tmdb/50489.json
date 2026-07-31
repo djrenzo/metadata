@@ -1,0 +1,113 @@
+{
+  "adult": false,
+  "backdrop_path": "/mPtfVw3JcaaYR8JRgzFauHdgJuo.jpg",
+  "created_by": [
+    {
+      "id": 3027047,
+      "credit_id": "63a6f761389da1007a770c08",
+      "name": "Gamze Özer",
+      "original_name": "Gamze Özer",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2012-07-09",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 50489,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2012-11-12",
+  "last_episode_to_air": {
+    "id": 3876960,
+    "name": "Episode 19",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-11-12",
+    "episode_number": 19,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 50489,
+    "still_path": null
+  },
+  "name": "Hayatımın Rolü",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 19,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Hayatımın Rolü",
+  "overview": "",
+  "popularity": 8.2974,
+  "poster_path": "/qtiDh4PUsTJLiYLt3zefYt5wSqU.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2012-07-09",
+      "episode_count": 19,
+      "id": 303776,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 50489,
+    "imdb_id": "tt2673560",
+    "freebase_mid": "/m/0vv5660",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

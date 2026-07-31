@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/jHxda2IAhWiti0OcOoE8xEzS50C.jpg",
+  "created_by": [
+    {
+      "id": 1463942,
+      "credit_id": "5faeb8e22b93200041725e80",
+      "name": "Evren Oguz",
+      "original_name": "Evren Oguz",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 89758,
+      "credit_id": "5faeb8d401e4d1004055c0c9",
+      "name": "Abdullah Oğuz",
+      "original_name": "Abdullah Oğuz",
+      "gender": 2,
+      "profile_path": "/flbEG00sBSd8s2kahXUiNlwbosu.jpg"
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2017-07-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.startv.com.tr/video/arsiv/dizi/cember/",
+  "id": 100624,
+  "in_production": false,
+  "languages": [
+    "tr"
+  ],
+  "last_air_date": "2022-05-16",
+  "last_episode_to_air": {
+    "id": 3836749,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-05-16",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 100624,
+    "still_path": "/eNTlBTpILOCt6qklOrfXC60clCl.jpg"
+  },
+  "name": "Circle",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    },
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 19,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Çember",
+  "overview": "A special team of four is established by the Istanbul Police Department. The team has all kinds of different talents. These four people, who have experienced many things in their past, start working together to solve grisly murders.",
+  "popularity": 8.4224,
+  "poster_path": "/ynXp4l5MQ3DG8HkmTEyJR0KEGTd.jpg",
+  "production_companies": [
+    {
+      "id": 4179,
+      "logo_path": "/vx8dHTiQg2SPXrvDOmCDm6BCRJR.png",
+      "name": "ANS Prodüksiyon",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-07-03",
+      "episode_count": 6,
+      "id": 145461,
+      "name": "Season 1",
+      "overview": "In the first season, which consists of six movie-like episodes, the team will try to solve a murder in each episode.",
+      "poster_path": "/jtU3TKdRJ74ipgvv031Nu0N7ujm.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2017-09-27",
+      "episode_count": 5,
+      "id": 146822,
+      "name": "Season 2",
+      "overview": "In the begining the serie is planned as only six episode but due to high demand producers decided to add one more season.",
+      "poster_path": "/q9p5gw2kaI3Ujs6iWNyFDNJtFBB.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-05",
+      "episode_count": 8,
+      "id": 211185,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 100624,
+    "imdb_id": "tt7130992",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 330604,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "",
+    "instagram_id": "cembertv",
+    "twitter_id": "cembertvresmi"
+  }
+}

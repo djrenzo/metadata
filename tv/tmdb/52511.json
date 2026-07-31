@@ -1,0 +1,107 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 109084,
+      "credit_id": "6403323367dcc900826dec84",
+      "name": "Gani Müjde",
+      "original_name": "Gani Müjde",
+      "gender": 2,
+      "profile_path": "/eZSOVfuH5j4ofGn7krbSVcGNTrF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1997-02-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 52511,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "1997-05-17",
+  "last_episode_to_air": {
+    "id": 4277205,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1997-05-17",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 52511,
+    "still_path": null
+  },
+  "name": "Baskül Ailesi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    },
+    {
+      "id": 778,
+      "logo_path": "/qWvC2SCqIGhm7hPGtqaPjL4tPvx.png",
+      "name": "Star TV",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Baskül Ailesi",
+  "overview": "The funny story of a mother and her three daughters who are obese and struggling to get rid of their excess weight but did not do it well.",
+  "popularity": 8.2446,
+  "poster_path": "/xhaTGsey52ZKhW0R7CMGDGQZbGB.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1997-02-01",
+      "episode_count": 16,
+      "id": 331226,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 52511,
+    "imdb_id": null,
+    "freebase_mid": "/m/0w0kjt8",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

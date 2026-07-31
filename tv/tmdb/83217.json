@@ -1,0 +1,185 @@
+{
+  "adult": false,
+  "backdrop_path": "/dIz1Cwf2dYGuqbLc2bmktJRK45g.jpg",
+  "created_by": [
+    {
+      "id": 115788,
+      "credit_id": "5bc77ce40e0a26363e002d77",
+      "name": "Paul Levesque",
+      "original_name": "Paul Levesque",
+      "gender": 2,
+      "profile_path": "/gOeQvjY8B9E81f3hDjOTmxx9ig4.jpg"
+    },
+    {
+      "id": 57342,
+      "credit_id": "5f6f938ff2cf250039904295",
+      "name": "Vince McMahon",
+      "original_name": "Vince McMahon",
+      "gender": 2,
+      "profile_path": "/3m4Z7YwnTqgLlQWP7A7TgYOJrj7.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2018-10-17",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 83217,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-09-01",
+  "last_episode_to_air": {
+    "id": 3913534,
+    "name": "NXT UK #213",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-09-01",
+    "episode_number": 35,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 83217,
+    "still_path": null
+  },
+  "name": "WWE NXT UK",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1025,
+      "logo_path": "/fNkVI38NJKpnWKMmEkSxxinuyAe.png",
+      "name": "WWE Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 214,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "WWE NXT UK",
+  "overview": "A professional wrestling program showcasing the best of WWE's UK division.",
+  "popularity": 8.8873,
+  "poster_path": "/wnmbwXmqQCW6iL13eoavhxGhtbJ.jpg",
+  "production_companies": [
+    {
+      "id": 13651,
+      "logo_path": "/rVJkMs9cSaE1BQoPiDcH6OxmaVZ.png",
+      "name": "WWE Home Video",
+      "origin_country": "US"
+    },
+    {
+      "id": 146598,
+      "logo_path": "/6B6g6PR19RWX4UVi8Q46lZbwb2L.png",
+      "name": "World Wrestling Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-14",
+      "episode_count": 8,
+      "id": 117945,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bY45NpKS47nz8eu7AYnXUmLsmwG.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-17",
+      "episode_count": 20,
+      "id": 111058,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/su7TmHPho0ye3bFxkBMdv1tZa8m.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 54,
+      "id": 114914,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/110doWRqoRXmYOQkQOUrv6PMTuV.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 53,
+      "id": 139488,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-07",
+      "episode_count": 52,
+      "id": 172995,
+      "name": "Season 4",
+      "overview": "2021 season of WWE NXT UK",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-06",
+      "episode_count": 35,
+      "id": 237456,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 19,
+  "external_ids": {
+    "id": 83217,
+    "imdb_id": "tt9425798",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 354295,
+    "tvrage_id": null,
+    "wikidata_id": "Q55095897",
+    "facebook_id": "NXTUnitedKingdom",
+    "instagram_id": "wweuk",
+    "twitter_id": "NXTUK"
+  }
+}

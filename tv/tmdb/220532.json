@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/pBdE5D3OKsYWCejx8ydZg0XSVYa.jpg",
+  "created_by": [
+    {
+      "id": 1252912,
+      "credit_id": "6a464bb1b83751423605a260",
+      "name": "Richard McKerrow",
+      "original_name": "Richard McKerrow",
+      "gender": 2,
+      "profile_path": "/xsZ55p36pvBIN7e8inZk6uhiCsV.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2023-02-15",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.channel4.com/programmes/the-piano",
+  "id": 220532,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-12",
+  "last_episode_to_air": {
+    "id": 7435137,
+    "name": "York",
+    "overview": "Claudia Winkleman and Mika arrive at York Station, where they're joined by internationally acclaimed jazz pianist Hiromi. Among those taking to the public piano are Britain's oldest pub landlord, who gets the whole station singing, a gifted songwriter with deeply personal original number, and a remarkable 12-year-old who transforms the sounds of the station into music.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-26",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 4,
+    "show_id": 220532,
+    "still_path": "/mHo6xsaIruDWs4Ka8OyRlQA7zci.jpg"
+  },
+  "name": "The Piano",
+  "next_episode_to_air": {
+    "id": 7435138,
+    "name": "London Bridge",
+    "overview": "Claudia Winkleman and Mika are joined at London Bridge Station by Jools Holland. A 10-year-old takes to the keys and gets the whole station singing, an 84-year-old proves that music keeps you young with a spirited rendition of Roll Out the Barrel, a satellite engineer reveals a romantic side with the music of Charles Aznavour, and a gifted 15-year-old composer performs an original piece.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-02",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 4,
+    "show_id": 220532,
+    "still_path": "/7AmdX9FWN5fPgghDdfDIfrhASow.jpg"
+  },
+  "networks": [
+    {
+      "id": 26,
+      "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+      "name": "Channel 4",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 27,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Piano",
+  "overview": "The Piano is a new talent show that will profile the best amateur pianists in the UK, performing on pianos at four stations around the country. Unbeknownst to the contestants, it's not just a documentary: it's also a competition. The contestants are secretly being judged, and the four best of them - one from each station - will perform at the Royal Festival Hall to an audience of thousands in the final episode.",
+  "popularity": 8.8133,
+  "poster_path": "/fhP0EwU6Vb4QdD1fBSWnX6m3i5b.jpg",
+  "production_companies": [
+    {
+      "id": 118006,
+      "logo_path": null,
+      "name": "Love Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-12-25",
+      "episode_count": 2,
+      "id": 371557,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-15",
+      "episode_count": 6,
+      "id": 329121,
+      "name": "Series 1",
+      "overview": "Claudia Winkleman hosts the search for some of the UK's best amateur piano performers. The winner will play at the Royal Festival Hall.",
+      "poster_path": "/mnWpDp2aGwGfyF6kFisomoMm5K5.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2024-04-28",
+      "episode_count": 7,
+      "id": 391327,
+      "name": "Series 2",
+      "overview": "Claudia, Mika and Lang Lang unearth more exciting amateur pianists.",
+      "poster_path": "/qJDUPGzyWMjW9577mS9PfopPRNz.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-13",
+      "episode_count": 7,
+      "id": 451272,
+      "name": "Series 3",
+      "overview": "Claudia Winkleman and Mika are back, joined by new mentor and seven-time Grammy winner Jon Batiste, as they begin their search for the UK’s best amateur pianists.",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-07-12",
+      "episode_count": 7,
+      "id": 525455,
+      "name": "Series 4",
+      "overview": "Claudia Winkleman and Mika return with the search for the UK's best amateur pianists, joined this series by a number of different guest mentors, including Jools Holland, Hiromi and Jamie Cullum.",
+      "poster_path": "/fhP0EwU6Vb4QdD1fBSWnX6m3i5b.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.7,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 220532,
+    "imdb_id": "tt26894667",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 431062,
+    "tvrage_id": null,
+    "wikidata_id": "Q116966085",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

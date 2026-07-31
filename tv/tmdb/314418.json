@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/fI2UmCJeqAJX07tYWI87xPz5iFB.jpg",
+  "created_by": [
+    {
+      "id": 1318695,
+      "credit_id": "6996b60104d9864d1886374d",
+      "name": "Estela Calderón",
+      "original_name": "Estela Calderón",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1980-12-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 314418,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1981-08-14",
+  "last_episode_to_air": {
+    "id": 6961793,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1981-08-14",
+    "episode_number": 160,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 314418,
+    "still_path": null
+  },
+  "name": "Espejismo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Espejismo",
+  "overview": "",
+  "popularity": 9.0103,
+  "poster_path": "/80NUIOcWSvLtcAoOtsu0hFkzHSs.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1980-12-29",
+      "episode_count": 160,
+      "id": 501203,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 314418,
+    "imdb_id": "tt0324813",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q19571678",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

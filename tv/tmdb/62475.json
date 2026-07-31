@@ -1,0 +1,183 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Z4Z5Nep20ZGZFJyRB0tuPk9Mta.jpg",
+  "created_by": [
+    {
+      "id": 1458264,
+      "credit_id": "5818565ec3a36838460031d7",
+      "name": "Christel Gonnard",
+      "original_name": "Christel Gonnard",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2015-04-06",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.studio100animation.net/series/heidi/",
+  "id": 62475,
+  "in_production": false,
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "last_air_date": "2020-03-28",
+  "last_episode_to_air": {
+    "id": 2731226,
+    "name": "A Difficult Choice",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-03-28",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 2,
+    "show_id": 62475,
+    "still_path": "/9uv3wQcck3iXSwvjR2IhtIC36aI.jpg"
+  },
+  "name": "Heidi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 66,
+      "logo_path": "/pXibAQSgIIanNkSg68dUooI7IGU.png",
+      "name": "Nine Network",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 91,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "DE",
+    "AU",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_name": "Heidi",
+  "overview": "A plucky young orphan sent to live with her grandfather in the mountains discovers wonder and adventure around every corner.",
+  "popularity": 9.1796,
+  "poster_path": "/gw0dxuL9roVp2rCYx3y5jFHE7Cf.jpg",
+  "production_companies": [
+    {
+      "id": 51863,
+      "logo_path": "/qkh0kHmfKanKxoi4hlL8BeU7SRm.png",
+      "name": "Studio 100 Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25894,
+      "logo_path": "/eWzrltIBLOlLxc5FVKUcAcas3UM.png",
+      "name": "Studio 100",
+      "origin_country": "BE"
+    },
+    {
+      "id": 71443,
+      "logo_path": null,
+      "name": "Zuiyo",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-04-06",
+      "episode_count": 65,
+      "id": 66159,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/gw0dxuL9roVp2rCYx3y5jFHE7Cf.jpg",
+      "season_number": 1,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2020-03-02",
+      "episode_count": 26,
+      "id": 181489,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ivHWWT7I9vFWoMG5NVx5NbdQXkZ.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 59,
+  "external_ids": {
+    "id": 62475,
+    "imdb_id": "tt4346362",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 291711,
+    "tvrage_id": null,
+    "wikidata_id": "Q19709285",
+    "facebook_id": "official.heidi",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/hjqUwvok9RdKqtEnwzOZmrQLUoX.jpg",
+  "created_by": [
+    {
+      "id": 87149,
+      "credit_id": "679e4fb47ebb0614ff262998",
+      "name": "Bill Motz",
+      "original_name": "Bill Motz",
+      "gender": 2,
+      "profile_path": "/30Dzpa5SPcxwwkEm7hNRYCStRhq.jpg"
+    },
+    {
+      "id": 87150,
+      "credit_id": "679e4fb67ebb0614ff26299c",
+      "name": "Bob Roth",
+      "original_name": "Bob Roth",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2001-09-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "",
+  "id": 2395,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2003-02-05",
+  "last_episode_to_air": {
+    "id": 180299,
+    "name": "Tarzan and the Flying Ace",
+    "overview": "A bush pilot named Bobby Canler, who is an old friend of Jane, comes to visit her, but Tarzan senses something bad about him. He is later convinced he's just jealous so he backs off. Unfortunately, Tarzan was right.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-02-05",
+    "episode_number": 3,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 2,
+    "show_id": 2395,
+    "still_path": "/i85AGsE4FVwUDfORCctsuJ0qF9f.jpg"
+  },
+  "name": "The Legend of Tarzan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 40,
+      "logo_path": "/333LtWX9Z7H9uRrNcCl1JcTvdpR.png",
+      "name": "UPN",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 39,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Legend of Tarzan",
+  "overview": "The Legend of Tarzan picks up where the 1999 feature film left off, with the title character adjusting to his new role as leader of the apes following Kerchak's death, and Jane adjusting to life in the jungle. Rounding out the cast are Jane's father, Professor Archimedes Porter; Tantor, the germophobic elephant; and Terk, a wisecracking female gorilla and Tarzan's old wrestling buddy.",
+  "popularity": 9.2401,
+  "poster_path": "/w5mGLHBT59nFilSPgd5TgJnZ1ix.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-09-03",
+      "episode_count": 36,
+      "id": 7493,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vXPRdtG9VA7gpqMjDy3X84n3Ome.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-02-03",
+      "episode_count": 3,
+      "id": 7494,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7bmlpn47NittQ7WyQ9EfzorcgRM.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 103,
+  "external_ids": {
+    "id": 2395,
+    "imdb_id": "tt0283754",
+    "freebase_mid": "/m/05lt3h",
+    "freebase_id": "/en/the_legend_of_tarzan",
+    "tvdb_id": 76600,
+    "tvrage_id": null,
+    "wikidata_id": "Q2009343",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "adult": false,
+  "backdrop_path": "/jg1OvHfiepsoWNCSgOGt1Cd4A6T.jpg",
+  "created_by": [
+    {
+      "id": 1621101,
+      "credit_id": "644c242e596a912ab557fdae",
+      "name": "Laurent Fontaine",
+      "original_name": "Laurent Fontaine",
+      "gender": 0,
+      "profile_path": "/wmXlpGxiJ2FSHePya364YpehhZw.jpg"
+    },
+    {
+      "id": 1621100,
+      "credit_id": "644c2424726fb1059e064363",
+      "name": "Pascal Bataille",
+      "original_name": "Pascal Bataille",
+      "gender": 0,
+      "profile_path": "/Mw15D5PXwXt9Rj8RsJCBGZQ3bQ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2003-06-23",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 46276,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2008-12-18",
+  "last_episode_to_air": {
+    "id": 2251747,
+    "name": "Episode 16",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-12-18",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 120,
+    "season_number": 7,
+    "show_id": 46276,
+    "still_path": null
+  },
+  "name": "La Méthode Cauet",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 226,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "La Méthode Cauet",
+  "overview": "",
+  "popularity": 9.0657,
+  "poster_path": "/3cVA7HV6ck9lpSDMnPkFcMfRPIp.jpg",
+  "production_companies": [
+    {
+      "id": 133109,
+      "logo_path": "/lzNJeb0cwTuoTjnimTwacdveSDx.png",
+      "name": "Loribel",
+      "origin_country": "FR"
+    },
+    {
+      "id": 133111,
+      "logo_path": "/9Jv8q1RnQcJ26z1JlpadsOMSUcu.png",
+      "name": "Be Aware",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-06-23",
+      "episode_count": 1,
+      "id": 149701,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-11",
+      "episode_count": 40,
+      "id": 149702,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-02",
+      "episode_count": 41,
+      "id": 149703,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-01",
+      "episode_count": 42,
+      "id": 149704,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-31",
+      "episode_count": 42,
+      "id": 149705,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-06",
+      "episode_count": 44,
+      "id": 149706,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-04",
+      "episode_count": 16,
+      "id": 149707,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.625,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 46276,
+    "imdb_id": "tt0429403",
+    "freebase_mid": "/m/0p4lfcl",
+    "freebase_id": null,
+    "tvdb_id": 338596,
+    "tvrage_id": null,
+    "wikidata_id": "Q3211016",
+    "facebook_id": "lamethodecauet",
+    "instagram_id": null,
+    "twitter_id": "LaMethodeCauet"
+  }
+}

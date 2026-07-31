@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/97JQhftW4rKt6J2xUr87ux7Lzz5.jpg",
+  "created_by": [
+    {
+      "id": 2176371,
+      "credit_id": "65eb9d97a284eb0185ba15f9",
+      "name": "Boni",
+      "original_name": "Boni",
+      "gender": 2,
+      "profile_path": "/9CmU1SOjd6WlC8qhIljVMkveZ3S.jpg"
+    },
+    {
+      "id": 240589,
+      "credit_id": "65eb9d7c87ae7b0186ebb91e",
+      "name": "Antônio Calmon",
+      "original_name": "Antônio Calmon",
+      "gender": 2,
+      "profile_path": "/6cMew23IBY4xWiM3TjRnoHG4uUe.jpg"
+    },
+    {
+      "id": 8568,
+      "credit_id": "65eb9d765ab81a01868107bb",
+      "name": "Daniel Filho",
+      "original_name": "Daniel Filho",
+      "gender": 2,
+      "profile_path": "/68AkmqSROffj653ptYdrLJVbykR.jpg"
+    },
+    {
+      "id": 1255773,
+      "credit_id": "65eb9d87394a87017cc244d1",
+      "name": "Elizabeth Jhin",
+      "original_name": "Elizabeth Jhin",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "1998-04-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://memoriaglobo.globo.com/programas/entretenimento/seriados/mulher.htm",
+  "id": 84176,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1999-12-07",
+  "last_episode_to_air": {
+    "id": 5195924,
+    "name": "Mãe",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-12-07",
+    "episode_number": 37,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 2,
+    "show_id": 84176,
+    "still_path": null
+  },
+  "name": "Mulher",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 62,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Mulher",
+  "overview": "The whole story develops from the doctor Martha, who has worked for 40 years, always at the same clinic in Rio de Janeiro. She knows Cris and realizes that she has found a successor. Then begins the friendship of the two, who try to practice their profession with the utmost ethics, despite the owner of the clinic, who is always trying to say, save.",
+  "popularity": 8.6221,
+  "poster_path": "/sdx9SuKgmb4xXCz2tHc3pSDEocd.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-04-01",
+      "episode_count": 25,
+      "id": 112885,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/3NGGO1xDR9TusMMdO2JG79g2RNK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-03-16",
+      "episode_count": 37,
+      "id": 112886,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/eWgf1FS2JVZSS0nbmg19aNJY4G8.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 84176,
+    "imdb_id": "tt0162820",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 292562,
+    "tvrage_id": null,
+    "wikidata_id": "Q4101736",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

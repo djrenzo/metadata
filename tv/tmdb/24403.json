@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/5G4zNyj1JKligutElrHKZoRov8V.jpg",
+  "created_by": [
+    {
+      "id": 1216477,
+      "credit_id": "5b08aaebc3a36803d1000de2",
+      "name": "Virginia Thompson",
+      "original_name": "Virginia Thompson",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1216475,
+      "credit_id": "5b08aaf6c3a36803d8001166",
+      "name": "Robert de Lint",
+      "original_name": "Robert de Lint",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2004-01-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://renegadepress.com/",
+  "id": 24403,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2008-04-25",
+  "last_episode_to_air": {
+    "id": 1496891,
+    "name": "Dancing",
+    "overview": "Zoey's chances of making it into a reputable Montreal dance group are threatened when she is approached by a girl who seems to be obsessed with her.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-04-25",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 24403,
+    "still_path": null
+  },
+  "name": "renegadepress.com",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 191,
+      "logo_path": "/hDshGefbigrvUnGeRlqSQzUtsJB.png",
+      "name": "TVOntario",
+      "origin_country": "CA"
+    },
+    {
+      "id": 477,
+      "logo_path": "/qqTeEEAdCEfvYlTFXll8uu8Ld8K.png",
+      "name": "Aboriginal Peoples Television Network",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 52,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_name": "renegadepress.com",
+  "overview": "Aboriginal hip-hop artist Jack Sinclair and his best friend Zoey Jones established an underground ezine called renegadepress.com. What started as a pet project soon took on a life of its own pushing Jack, Zoey and their crew of renegade reporters to deliver the goods on what's really going on in the lives of today's teens.",
+  "popularity": 8.7744,
+  "poster_path": "/vxXmu86dGWfcm5SomAAl1NWU4ai.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2004-01-18",
+      "episode_count": 13,
+      "id": 34580,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-16",
+      "episode_count": 9,
+      "id": 34581,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-06",
+      "episode_count": 9,
+      "id": 34582,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-15",
+      "episode_count": 13,
+      "id": 104371,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-03-07",
+      "episode_count": 8,
+      "id": 104372,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 24403,
+    "imdb_id": "tt0400018",
+    "freebase_mid": "",
+    "freebase_id": "",
+    "tvdb_id": 256284,
+    "tvrage_id": 4976,
+    "wikidata_id": "Q3402571",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "adult": false,
+  "backdrop_path": "/3Z2iKz1qcylKzhoQum8aN52MtIL.jpg",
+  "created_by": [
+    {
+      "id": 74730,
+      "credit_id": "58ca90d49251415da100c2b7",
+      "name": "Felix Herngren",
+      "original_name": "Felix Herngren",
+      "gender": 2,
+      "profile_path": "/hKZcphTUNIRhpYiWHgOSxhNnvuw.jpg"
+    },
+    {
+      "id": 2693949,
+      "credit_id": "616ffb3fbf09d1002d7bda9a",
+      "name": "Moa Herngren",
+      "original_name": "Moa Herngren",
+      "gender": 0,
+      "profile_path": "/3Yc6Qrd3GjrJyDTvJRCniZHNmia.jpg"
+    },
+    {
+      "id": 3277700,
+      "credit_id": "616ffb33d4b9d9008a7ada18",
+      "name": "Clara Herngren",
+      "original_name": "Clara Herngren",
+      "gender": 1,
+      "profile_path": "/otT04GezTRbAfnqwyVbeiYmhzmv.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2017-01-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.svt.se/bonusfamiljen/",
+  "id": 70748,
+  "in_production": false,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2021-12-13",
+  "last_episode_to_air": {
+    "id": 3290832,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-13",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 4,
+    "show_id": 70748,
+    "still_path": "/z42zuCiUTO3MVRZy1EuVbdStEQ2.jpg"
+  },
+  "name": "Bonus Family",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 38,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Bonusfamiljen",
+  "overview": "A new couple, their exes and their children navigate the emotional challenges and tricky logistics of blended family life in this Swedish dramedy.",
+  "popularity": 9.3385,
+  "poster_path": "/dQuvTYr5KheV0U6n3wJh9bRoNUn.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-01-30",
+      "episode_count": 10,
+      "id": 86264,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dQuvTYr5KheV0U6n3wJh9bRoNUn.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2018-01-29",
+      "episode_count": 10,
+      "id": 104160,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/vA01WiGO3NkHaOiqpbrBxMEe3su.jpg",
+      "season_number": 2,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2019-02-18",
+      "episode_count": 10,
+      "id": 123260,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/2TrQLMYX8KFUCRo7ZRShDrJDvxA.jpg",
+      "season_number": 3,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2021-10-25",
+      "episode_count": 8,
+      "id": 216128,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/dfeSyffhp9A4FKp2L8mBbDlWhIw.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 29,
+  "external_ids": {
+    "id": 70748,
+    "imdb_id": "tt5372890",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 323421,
+    "tvrage_id": null,
+    "wikidata_id": "Q29384710",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

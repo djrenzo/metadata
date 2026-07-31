@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/eiKZqQdxZEwygtsqONHNh97YM0C.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2012-03-21",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 243488,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2014-02-20",
+  "last_episode_to_air": {
+    "id": 7274959,
+    "name": "Episode 100",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-05-24",
+    "episode_number": 100,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 6,
+    "show_id": 243488,
+    "still_path": null
+  },
+  "name": "中外历史纪录片",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 457,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "中外历史纪录片",
+  "overview": "",
+  "popularity": 8.2091,
+  "poster_path": "/tEnX9a73Ox1B1409Ekbwp0Xoook.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2012-03-21",
+      "episode_count": 100,
+      "id": 373974,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tEnX9a73Ox1B1409Ekbwp0Xoook.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-05-01",
+      "episode_count": 90,
+      "id": 439573,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 89,
+      "id": 453118,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-11-29",
+      "episode_count": 84,
+      "id": 453119,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-01",
+      "episode_count": 84,
+      "id": 453120,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-01",
+      "episode_count": 100,
+      "id": 453121,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 243488,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

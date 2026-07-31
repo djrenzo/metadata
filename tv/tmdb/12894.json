@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/t7CJEnK68nFtL74r8KwqDz4Kovq.jpg",
+  "created_by": [
+    {
+      "id": 1109220,
+      "credit_id": "648a9318c2ff3d00ad002a12",
+      "name": "Rocio Taboada",
+      "original_name": "Rocio Taboada",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4112430,
+      "credit_id": "648a9320c2ff3d011cb78f4d",
+      "name": "Braulio Pedraza",
+      "original_name": "Braulio Pedraza",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1244059,
+      "credit_id": "648a9310c3c89100eb30f19c",
+      "name": "Emilio Larrosa",
+      "original_name": "Emilio Larrosa",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1998-08-31",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12894,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1999-04-30",
+  "last_episode_to_air": {
+    "id": 4522362,
+    "name": "Episode 174",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1999-04-30",
+    "episode_number": 174,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 12894,
+    "still_path": null
+  },
+  "name": "Soñadoras",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 174,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Soñadoras",
+  "overview": "Soñadoras is a Mexican telenovela. It was produced by and broadcast on Televisa in 1998, and shown in 1999 on Univision.",
+  "popularity": 8.8363,
+  "poster_path": "/dGkc7EnF1SisalqLG4Ljz35ziEv.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-08-31",
+      "episode_count": 174,
+      "id": 337729,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.444,
+  "vote_count": 72,
+  "external_ids": {
+    "id": 12894,
+    "imdb_id": "tt0211869",
+    "freebase_mid": "/m/09s338",
+    "freebase_id": "/en/sonadoras",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q781299",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

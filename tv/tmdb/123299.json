@@ -1,0 +1,268 @@
+{
+  "adult": false,
+  "backdrop_path": "/65n0YG7kEz1uPRQdS2Y7yM0antN.jpg",
+  "created_by": [
+    {
+      "id": 3051913,
+      "credit_id": "6076f0c78ddc340057d1f3bd",
+      "name": "Paula Moura Pinheiro",
+      "original_name": "Paula Moura Pinheiro",
+      "gender": 1,
+      "profile_path": "/pVNVRmFrPhrt5kuNEvzqATTbQvf.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25,
+    40
+  ],
+  "first_air_date": "2014-03-03",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.rtp.pt/programa/tv/p30796",
+  "id": 123299,
+  "in_production": true,
+  "languages": [
+    "pt",
+    "es"
+  ],
+  "last_air_date": "2023-11-27",
+  "last_episode_to_air": {
+    "id": 7410833,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-17",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 15,
+    "show_id": 123299,
+    "still_path": "/3UWGoDMzSihlzgtysC0rM3k5PCB.jpg"
+  },
+  "name": "Guided Tour",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 764,
+      "logo_path": "/r5zfKDhZ33qIVV1QiVYRmrbhd3x.png",
+      "name": "RTP2",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 254,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Visita Guiada",
+  "overview": "Guided Tour is a television and radio program about the treasures of the Portuguese cultural heritage. Treasures with recognized universal value, pieces that any western country would be proud to integrate into its heritage, and little known to the Portuguese.\n\nFrom a silver goblet with Mozarabic decoration and a thousand years old to a cloister that is referred to as a masterpiece of European Renaissance, passing through a collection of African art classified as one of the best in the world, the nature of objects, their context geographic location and historical time vary from episode to episode.",
+  "popularity": 7.3756,
+  "poster_path": "/7yuqO5X17wZ491e7EwIuePn3f2C.jpg",
+  "production_companies": [
+    {
+      "id": 153019,
+      "logo_path": null,
+      "name": "RTP 2",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-03-03",
+      "episode_count": 13,
+      "id": 190521,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 12,
+      "id": 190522,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 14,
+      "id": 190523,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-05-11",
+      "episode_count": 12,
+      "id": 190524,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-28",
+      "episode_count": 13,
+      "id": 190525,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-07",
+      "episode_count": 34,
+      "id": 190526,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-03",
+      "episode_count": 27,
+      "id": 190527,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-26",
+      "episode_count": 27,
+      "id": 190528,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-01",
+      "episode_count": 27,
+      "id": 190529,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-08",
+      "episode_count": 22,
+      "id": 190530,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-15",
+      "episode_count": 28,
+      "id": 190536,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 15,
+      "id": 374620,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-10",
+      "episode_count": 19,
+      "id": 374621,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-04-01",
+      "episode_count": 22,
+      "id": 523698,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-21",
+      "episode_count": 17,
+      "id": 523699,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 123299,
+    "imdb_id": "tt3859560",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 359205,
+    "tvrage_id": null,
+    "wikidata_id": "Q113170412",
+    "facebook_id": "visitaguiadartp",
+    "instagram_id": "visitaguiadartp",
+    "twitter_id": null
+  }
+}

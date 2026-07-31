@@ -1,0 +1,136 @@
+{
+  "adult": false,
+  "backdrop_path": "/qOJfDQqc5auVxvbuJyWsIA6Id4O.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2019-01-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.exatlon.hu/",
+  "id": 85632,
+  "in_production": true,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2026-03-24",
+  "last_episode_to_air": {
+    "id": 7269550,
+    "name": "Episode 42",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-17",
+    "episode_number": 42,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 85632,
+    "still_path": null
+  },
+  "name": "Exatlon Hungary",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 975,
+      "logo_path": "/ze9D9aLekVWZqLdrD1YeBKBgwz8.png",
+      "name": "TV2",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 384,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Exatlon Hungary",
+  "overview": "",
+  "popularity": 7.25,
+  "poster_path": "/n4rBs3GUqG2FOCMOuoPyTdTCqnD.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 81,
+      "id": 115832,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/oO8rtGMk5gLgVtfk9eCxRPspmw1.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 109,
+      "id": 142586,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-28",
+      "episode_count": 113,
+      "id": 488552,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 71,
+      "id": 488553,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-23",
+      "episode_count": 42,
+      "id": 488554,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 7.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 85632,
+    "imdb_id": "tt9776132",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 354524,
+    "tvrage_id": null,
+    "wikidata_id": "Q61362948",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

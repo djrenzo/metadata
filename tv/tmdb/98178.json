@@ -1,0 +1,177 @@
+{
+  "adult": false,
+  "backdrop_path": "/oG3Lsjw6a4mvqhsqA1KtWiaxdH3.jpg",
+  "created_by": [
+    {
+      "id": 488,
+      "credit_id": "5e6cd19da9b9a400169fcde1",
+      "name": "Steven Spielberg",
+      "original_name": "Steven Spielberg",
+      "gender": 2,
+      "profile_path": "/tZxcg19YQ3e8fJ0pOs7hjlnmmr6.jpg"
+    },
+    {
+      "id": 1214366,
+      "credit_id": "5e625b2e357c00001133bf81",
+      "name": "Edward Kitsis",
+      "original_name": "Edward Kitsis",
+      "gender": 2,
+      "profile_path": "/5Re9mReATq4ZMRuxkona0YzQ1Dt.jpg"
+    },
+    {
+      "id": 1214367,
+      "credit_id": "5e625b0922af3e001add9d2f",
+      "name": "Adam Horowitz",
+      "original_name": "Adam Horowitz",
+      "gender": 2,
+      "profile_path": "/rw5D1tDe3CO9Wfuu5BD6eaMnkEA.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-03-06",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.15p55n2osur6c56uam2gxhye3",
+  "id": 98178,
+  "in_production": false,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "ja",
+    "pt",
+    "ru"
+  ],
+  "last_air_date": "2020-04-03",
+  "last_episode_to_air": {
+    "id": 2168010,
+    "name": "The Rift",
+    "overview": "When a WWII pilot crashes in modern-day Ohio, a young widow and her stepson are swept up in his search for home.",
+    "vote_average": 6.783,
+    "vote_count": 23,
+    "air_date": "2020-04-03",
+    "episode_number": 5,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 51,
+    "season_number": 1,
+    "show_id": 98178,
+    "still_path": "/y0BhBzWH6DekxtSzBDTOGIj6Xai.jpg"
+  },
+  "name": "Amazing Stories",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 5,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Amazing Stories",
+  "overview": "This reimagining of the classic anthology series transports everyday characters into worlds of wonder, possibility, and imagination.",
+  "popularity": 9.1437,
+  "poster_path": "/3R5V6R3t1ZVtU2ZpTQT21GNgceb.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 7671,
+      "logo_path": "/r7KeUsNVv0iggZRh6XmNNq2OEw1.png",
+      "name": "Amblin Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-03-06",
+      "episode_count": 5,
+      "id": 141338,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/evcvXE6BP8fT8UoWsyiTBvxqyrL.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Five tales. Infinite imagination.",
+  "type": "Scripted",
+  "vote_average": 7.306,
+  "vote_count": 465,
+  "external_ids": {
+    "id": 98178,
+    "imdb_id": "tt5165368",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 368120,
+    "tvrage_id": null,
+    "wikidata_id": "Q60756556",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

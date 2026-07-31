@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2014-01-16",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 133045,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-08-31",
+  "last_episode_to_air": {
+    "id": 4942719,
+    "name": "Episode 243",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-08-31",
+    "episode_number": 243,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 133045,
+    "still_path": null
+  },
+  "name": "Lebensretter",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1118,
+      "logo_path": "/iIppR5wX7s2soFTHZsHV5mgQ9Or.png",
+      "name": "MDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 243,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Lebensretter",
+  "overview": "",
+  "popularity": 8.2398,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 75403,
+      "logo_path": null,
+      "name": "Saxonia Entertainment",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-01-16",
+      "episode_count": 243,
+      "id": 209862,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 133045,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

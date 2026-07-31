@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/jeXcEHlAow5bkBtoNHQg9GajdVi.jpg",
+  "created_by": [
+    {
+      "id": 2892529,
+      "credit_id": "67f2e5032f7d43702799eea4",
+      "name": "Juan Manuel Cáceres Niño",
+      "original_name": "Juan Manuel Cáceres Niño",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2097380,
+      "credit_id": "67f2e54d854b0538cfd9197d",
+      "name": "Andrés Salgado",
+      "original_name": "Andrés Salgado",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2015-01-13",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.canalrcn.com/diomedes/",
+  "id": 66398,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2017-03-07",
+  "last_episode_to_air": {
+    "id": 1747434,
+    "name": "Episode 113",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-03-07",
+    "episode_number": 113,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 66398,
+    "still_path": null
+  },
+  "name": "Diomedes, el Cacique de La Junta",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 183,
+      "logo_path": "/46LNdPSG2gBxy3s3G9csA8vLH8l.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 114,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Diomedes, el Cacique de La Junta",
+  "overview": "The life and work of vallenato musician Diomedes Díaz, better known as 'The Chief of the Junta'.",
+  "popularity": 8.1539,
+  "poster_path": "/dloUU6Qy5yDVIBd6EUhatBCiRsL.jpg",
+  "production_companies": [
+    {
+      "id": 59028,
+      "logo_path": "/lV4ZJIG0MrYgqFZz1rjhyEUe1Xc.png",
+      "name": "RCN",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2015-01-13",
+      "episode_count": 114,
+      "id": 76810,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cWY2CjuDkmKQEKTrcOrCOMfrS78.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.179,
+  "vote_count": 755,
+  "external_ids": {
+    "id": 66398,
+    "imdb_id": "tt5282372",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q18729844",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

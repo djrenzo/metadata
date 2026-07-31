@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/ylI9vQzh9sJXeEtE7KtbKakiw5m.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    20
+  ],
+  "first_air_date": "2018-05-03",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.oshiri-tantei.com",
+  "id": 96117,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2025-11-15",
+  "last_episode_to_air": {
+    "id": 6523753,
+    "name": "Episode 123",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-15",
+    "episode_number": 123,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 20,
+    "season_number": 1,
+    "show_id": 96117,
+    "still_path": null
+  },
+  "name": "Butt Detective",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 622,
+      "logo_path": "/uWDPIxVAZltqyPG4NQZL6D38d1F.png",
+      "name": "NHK Educational TV",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 123,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "おしりたんてい",
+  "overview": "A polite and meticulous super sleuth known as the Butt Detective solves a myriad of baffling mysteries, blowing raspberries in the face of crime.",
+  "popularity": 8.5981,
+  "poster_path": "/iviuqq0gha1pFeXs8luPmptioXQ.jpg",
+  "production_companies": [
+    {
+      "id": 5542,
+      "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+      "name": "Toei Animation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-05-03",
+      "episode_count": 123,
+      "id": 137336,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ibqZguogTNhj6GrW9xg0v8a4mIU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 96117,
+    "imdb_id": "tt14209702",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 358138,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

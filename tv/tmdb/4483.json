@@ -1,0 +1,156 @@
+{
+  "adult": false,
+  "backdrop_path": "/nCGsDvCvDaY2IU2Qf7TgUO2UNNp.jpg",
+  "created_by": [
+    {
+      "id": 76221,
+      "credit_id": "52576bd7760ee36aaa3f95ba",
+      "name": "Ben Elton",
+      "original_name": "Ben Elton",
+      "gender": 2,
+      "profile_path": "/ic4ssAVy5vOTLulN5CwrAd3DxwI.jpg"
+    },
+    {
+      "id": 746,
+      "credit_id": "52576bd7760ee36aaa3f95c0",
+      "name": "Alexei Sayle",
+      "original_name": "Alexei Sayle",
+      "gender": 2,
+      "profile_path": "/enPx0Zr32XX91rnOWJX6nScS5Ud.jpg"
+    },
+    {
+      "id": 14469,
+      "credit_id": "52576bd7760ee36aaa3f95c6",
+      "name": "Rik Mayall",
+      "original_name": "Rik Mayall",
+      "gender": 2,
+      "profile_path": "/v6ksu4FlGCf1mulAzfX0vscXPxc.jpg"
+    },
+    {
+      "id": 1236919,
+      "credit_id": "52576bd7760ee36aaa3f95cc",
+      "name": "Lise Mayer",
+      "original_name": "Lise Mayer",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    29
+  ],
+  "first_air_date": "1982-11-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 4483,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1984-06-19",
+  "last_episode_to_air": {
+    "id": 313794,
+    "name": "Summer Holiday",
+    "overview": "Summer term at college has ended, but Mike didn't know it had even started, and the boys have all summer to laze around. But Mr Bolowski evicts them, and they decide to rob a bank.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1984-06-19",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 31,
+    "season_number": 2,
+    "show_id": 4483,
+    "still_path": "/wob3gPxtNLLkaC2LZXq6eMKePT.jpg"
+  },
+  "name": "The Young Ones",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Young Ones",
+  "overview": "The misadventures of four lunatic students who live in a shared student house. There's Rick, the overblown political one addicted to Cliff Richard, Vyvyan the experimental scientific one/part-time anarchist, Neil the worried hippy, and Mike the ladies' man (at least he is in his mind).",
+  "popularity": 9.817,
+  "poster_path": "/9BQCGkKkVUxw6zF1P2BF1gHSMXB.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1986-04-25",
+      "episode_count": 21,
+      "id": 13441,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-11-09",
+      "episode_count": 6,
+      "id": 13439,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bKgHmNr7pggWfz5uCjMoyVpAbTx.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1984-05-08",
+      "episode_count": 6,
+      "id": 13440,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/iIO25Llykyn2MS8L7ZkS9CwPEuQ.jpg",
+      "season_number": 2,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.931,
+  "vote_count": 152,
+  "external_ids": {
+    "id": 4483,
+    "imdb_id": "tt0083505",
+    "freebase_mid": "/m/018s22",
+    "freebase_id": "/en/the_young_ones",
+    "tvdb_id": 76318,
+    "tvrage_id": 6320,
+    "wikidata_id": "Q49022",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

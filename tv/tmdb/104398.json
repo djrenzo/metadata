@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/1U64IQBcCzdEIC4rc8lHsItnQoN.jpg",
+  "created_by": [
+    {
+      "id": 2665624,
+      "credit_id": "5ed8ff9121c4ca0021e72946",
+      "name": "Yūji Nagai",
+      "original_name": "Yūji Nagai",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2008209,
+      "credit_id": "5ed8ff9e3a9937001f56bef0",
+      "name": "Jun Kamiya",
+      "original_name": "神谷純",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "2008-04-05",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "https://www.tv-tokyo.co.jp/anime/pengin/index.html",
+  "id": 104398,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2010-07-17",
+  "last_episode_to_air": {
+    "id": 3263233,
+    "name": "Episode 117",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-07-17",
+    "episode_number": 117,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 10,
+    "season_number": 1,
+    "show_id": 104398,
+    "still_path": null
+  },
+  "name": "A Penguin's Troubles",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 98,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 150,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ペンギンの問題",
+  "overview": "",
+  "popularity": 7.4097,
+  "poster_path": "/9GmmtRijuHAsT4tgkSz6pALQ2o8.jpg",
+  "production_companies": [
+    {
+      "id": 3034,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12655,
+      "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+      "name": "Shogakukan-Shueisha Productions",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-04-05",
+      "episode_count": 150,
+      "id": 152724,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 104398,
+    "imdb_id": "tt12448306",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 250155,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

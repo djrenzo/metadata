@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/lcTuggU70y6pt6x13Rv1Ffjs93K.jpg",
+  "created_by": [
+    {
+      "id": 1587504,
+      "credit_id": "61e6a994f3b49a006b05aeda",
+      "name": "Ryu Yong-jae",
+      "original_name": "류용재",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1587503,
+      "credit_id": "649728c5bbd0b001252aa157",
+      "name": "Kim Hong-sun",
+      "original_name": "김홍선",
+      "gender": 2,
+      "profile_path": "/kjehP5zlFejz4ApseX4NM4JLtx5.jpg"
+    },
+    {
+      "id": 2973398,
+      "credit_id": "649728e562f33500ca4334dd",
+      "name": "Kim Hwan-chae",
+      "original_name": "Kim Hwan-chae",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 4128933,
+      "credit_id": "64972a2a62f33501462880bf",
+      "name": "Choi Sung-joon",
+      "original_name": "Choi Sung-joon",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2022-06-24",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80997343",
+  "id": 112836,
+  "in_production": false,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2022-12-09",
+  "last_episode_to_air": {
+    "id": 4049101,
+    "name": "Episode 12",
+    "overview": "The police close in on the thieves as they prepare to transport the money out of the Mint. Fierce protests force Sangman to put his foot down.",
+    "vote_average": 5.8,
+    "vote_count": 9,
+    "air_date": "2022-12-09",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 77,
+    "season_number": 1,
+    "show_id": 112836,
+    "still_path": "/9rdTb69REO0DuHpxZurxd8YAkaZ.jpg"
+  },
+  "name": "Money Heist: Korea - Joint Economic Area",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 12,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "종이의 집: 공동경제구역",
+  "overview": "Disguised under the shadows of a mask, a crew of desperados band together under the leadership of a criminal mastermind known only as “The Professor” to pull off the biggest heist Korea has ever seen.",
+  "popularity": 9.3729,
+  "poster_path": "/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg",
+  "production_companies": [
+    {
+      "id": 142033,
+      "logo_path": "/vDS74hixWNnaPQxJPN1a24ilsFT.png",
+      "name": "BH Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 126468,
+      "logo_path": "/bPL10u0CNVqmSovalrbcZiwWvre.png",
+      "name": "Content Zium",
+      "origin_country": "KR"
+    },
+    {
+      "id": 139166,
+      "logo_path": "/yBd9hNUQmh7LPMyM1RVazM3C9ki.png",
+      "name": "HighZium Studio",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-06-24",
+      "episode_count": 12,
+      "id": 168159,
+      "name": "Season 1",
+      "overview": "Thieves overtake the mint of a unified Korea. With hostages trapped inside, the police must stop them — as well as the shadowy mastermind behind it all.",
+      "poster_path": "/s7ChVSINrNLbw1pNLz0dUWR5x2L.jpg",
+      "season_number": 1,
+      "vote_average": 6.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Witness a heist like no other.",
+  "type": "Scripted",
+  "vote_average": 7.704,
+  "vote_count": 727,
+  "external_ids": {
+    "id": 112836,
+    "imdb_id": "tt13696452",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 401314,
+    "tvrage_id": null,
+    "wikidata_id": "Q107565086",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

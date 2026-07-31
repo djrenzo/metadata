@@ -1,0 +1,164 @@
+{
+  "adult": false,
+  "backdrop_path": "/8eePAJ6b3K2f23wLpvSHVwCY0Zr.jpg",
+  "created_by": [
+    {
+      "id": 112780,
+      "credit_id": "635b8f5d88c659007a3ba53c",
+      "name": "Jean-François Henry",
+      "original_name": "Jean-François Henry",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 112779,
+      "credit_id": "635b8f4ed400f300821a6004",
+      "name": "Olivier Jean-Marie",
+      "original_name": "Olivier Jean-Marie",
+      "gender": 2,
+      "profile_path": "/c0xBw3xr6cPkfvZJEUSYR4vcH8Z.jpg"
+    }
+  ],
+  "episode_run_time": [
+    8
+  ],
+  "first_air_date": "2010-05-31",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 66219,
+  "in_production": false,
+  "languages": [
+    "en",
+    "fr",
+    "hi"
+  ],
+  "last_air_date": "2021-06-27",
+  "last_episode_to_air": {
+    "id": 1671206,
+    "name": "The Voice of Freedom",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-06-27",
+    "episode_number": 29,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 8,
+    "season_number": 2,
+    "show_id": 66219,
+    "still_path": null
+  },
+  "name": "The Daltons",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 249,
+      "logo_path": "/1ePfTUHHvBlVQxa0Fltx5kWhIs5.png",
+      "name": "France 3",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 191,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Les Dalton",
+  "overview": "Unshackle your laughing gas, put your ball and chain away, take a prison break and get ready to escape with the Daltons! The fab four are back! The Daltons will try every trick in the books to get out and then some: a maze of tunnels, explosives, hot air balloons and rain dances, and a whole cast of zany characters to help them get free ... or not! The only thing they don’t try using are their brains! But what they lack in intelligence, they sure make up for in willpower and imagination! The far west has never been crazier!",
+  "popularity": 9.4023,
+  "poster_path": "/nKSD0Qg8EejWzhiqBoXBodPwYnL.jpg",
+  "production_companies": [
+    {
+      "id": 17065,
+      "logo_path": "/mqoS56YswPVBO3nriH2Qj6pWWbY.png",
+      "name": "Studio Xilam",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-05-31",
+      "episode_count": 78,
+      "id": 76311,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mj26sEU4fezLPgZCKbobq3xoBKc.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2013-05-01",
+      "episode_count": 113,
+      "id": 116350,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sEDaOMlplH7Xnkbt23PCOaZQwMS.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 66219,
+    "imdb_id": "tt5659248",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 255654,
+    "tvrage_id": null,
+    "wikidata_id": "Q275754",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

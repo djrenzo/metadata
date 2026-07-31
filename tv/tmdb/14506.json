@@ -1,0 +1,463 @@
+{
+  "adult": false,
+  "backdrop_path": "/dyXJRvlttksDvzgWm9H7cSX91sw.jpg",
+  "created_by": [
+    {
+      "id": 1245154,
+      "credit_id": "525831c5760ee36aaa8f0cdc",
+      "name": "Luc Beerten",
+      "original_name": "Luc Beerten",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245155,
+      "credit_id": "525831c6760ee36aaa8f0ce5",
+      "name": "Winnie Enghien",
+      "original_name": "Winnie Enghien",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245156,
+      "credit_id": "525831c7760ee36aaa8f0cee",
+      "name": "Jan Matterne Jr.",
+      "original_name": "Jan Matterne Jr.",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245157,
+      "credit_id": "525831c9760ee36aaa8f0cf7",
+      "name": "Paul Schellekens",
+      "original_name": "Paul Schellekens",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1995-12-23",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "https://www.vrt.be/vrtmax/a-z/thuis/",
+  "id": 14506,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-06-25",
+  "last_episode_to_air": {
+    "id": 7364642,
+    "name": "Episode 215",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-26",
+    "episode_number": 215,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 31,
+    "show_id": 14506,
+    "still_path": null
+  },
+  "name": "Thuis",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1028,
+      "logo_path": "/nlcRu8gGckTe83evTTtwbM3SCYz.png",
+      "name": "VRT 1",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1977,
+      "logo_path": "/qCOhHgNVRg6Krn3RV6wxARs9NNC.png",
+      "name": "VRT MAX",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 5731,
+  "number_of_seasons": 31,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "Thuis",
+  "overview": "The Bomans, Bastiaens, Verbeeck, and de Grote families must navigate personal and romantic relationships while dealing with the challenges of their daily lives.",
+  "popularity": 7.3512,
+  "poster_path": "/7lUcKOYLbFEIipZyZXPdMhdWOX2.jpg",
+  "production_companies": [
+    {
+      "id": 12025,
+      "logo_path": "/sLVmKLJ2E0KSsfKiIYDjo4v6Y5l.png",
+      "name": "VRT",
+      "origin_country": "BE"
+    },
+    {
+      "id": 6461,
+      "logo_path": "/dNe4iMWCGaQRA6RTIYzUfqMigYh.png",
+      "name": "Eyeworks",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-04-03",
+      "episode_count": 2,
+      "id": 185880,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-12-23",
+      "episode_count": 90,
+      "id": 25912,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/c3qcR3SdfIcILwVw1jBZ2NAHH5W.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-02",
+      "episode_count": 175,
+      "id": 185759,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dRmPWAvtt2kCNIdKpX5VGD3qpRR.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 195,
+      "id": 182547,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7w9rLHPWyQmlNRNw9jjF93YA0RJ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-08-31",
+      "episode_count": 195,
+      "id": 182548,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-30",
+      "episode_count": 195,
+      "id": 182549,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 195,
+      "id": 182550,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-03",
+      "episode_count": 195,
+      "id": 182551,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 195,
+      "id": 182552,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 195,
+      "id": 182553,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 195,
+      "id": 182554,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 200,
+      "id": 182555,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 195,
+      "id": 182556,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-03",
+      "episode_count": 195,
+      "id": 182557,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 195,
+      "id": 182558,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 195,
+      "id": 182559,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 195,
+      "id": 182560,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-29",
+      "episode_count": 200,
+      "id": 182561,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-27",
+      "episode_count": 200,
+      "id": 182562,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 195,
+      "id": 182563,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 215,
+      "id": 182565,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 215,
+      "id": 182566,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-29",
+      "episode_count": 215,
+      "id": 182567,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-28",
+      "episode_count": 6,
+      "id": 182568,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 41,
+      "id": 182569,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-02",
+      "episode_count": 170,
+      "id": 182570,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 205,
+      "id": 178322,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-30",
+      "episode_count": 215,
+      "id": 205497,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 220,
+      "id": 305193,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-04",
+      "episode_count": 204,
+      "id": 351383,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 215,
+      "id": 398299,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/kDEqLZoNLZhOeaNR5MzZtJeIdue.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 215,
+      "id": 473041,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/94Zpcisxb6xKSRnvSZiarIeCpRf.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 9,
+  "external_ids": {
+    "id": 14506,
+    "imdb_id": "tt0149534",
+    "freebase_mid": "/m/02vnrkn",
+    "freebase_id": null,
+    "tvdb_id": 256154,
+    "tvrage_id": 20196,
+    "wikidata_id": "Q2128714",
+    "facebook_id": "thuisopeen",
+    "instagram_id": "thuistv",
+    "twitter_id": null
+  }
+}

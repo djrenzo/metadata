@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/dcr8rKMMpnDegtGu8Fqz4nrCRIx.jpg",
+  "created_by": [
+    {
+      "id": 1450498,
+      "credit_id": "5ff225b1f794ad003e71f9f8",
+      "name": "Curro Royo",
+      "original_name": "Curro Royo",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2020-06-19",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 16952,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2022-10-07",
+  "last_episode_to_air": {
+    "id": 3993602,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-10-07",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 73,
+    "season_number": 3,
+    "show_id": 16952,
+    "still_path": "/1DgjryM25EqoWHjueAt1wuhfBie.jpg"
+  },
+  "name": "Disappeared",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 29,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_name": "Desaparecidos",
+  "overview": "A group of six police officers solve disappearance cases that everyone else has already given up on.",
+  "popularity": 8.7659,
+  "poster_path": "/9XvJC2OUEI1LFvAeDGXfoKCZGwI.jpg",
+  "production_companies": [
+    {
+      "id": 52275,
+      "logo_path": "/rsPExd8TSTfc20ysfw2AFvIcvuK.png",
+      "name": "Plano a Plano",
+      "origin_country": "ES"
+    },
+    {
+      "id": 146621,
+      "logo_path": null,
+      "name": "Unicorn Content",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-06-19",
+      "episode_count": 13,
+      "id": 153698,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tDoCZgPOwdMOer9UDPtbvUGM2lP.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-13",
+      "episode_count": 8,
+      "id": 293509,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/ejsBpvJrO8PpAnnfjVbh203p55P.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-07",
+      "episode_count": 8,
+      "id": 311655,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/cD7Bq4CPS0sGTYdAmbSLm5Yvn8K.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "We keep looking.",
+  "type": "Scripted",
+  "vote_average": 7.7,
+  "vote_count": 46,
+  "external_ids": {
+    "id": 16952,
+    "imdb_id": "tt9204160",
+    "freebase_mid": "",
+    "freebase_id": null,
+    "tvdb_id": 354877,
+    "tvrage_id": null,
+    "wikidata_id": "Q95679710",
+    "facebook_id": null,
+    "instagram_id": "desaparecidostv",
+    "twitter_id": "desaparecidostw"
+  }
+}

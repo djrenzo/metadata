@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/aR9dzp4qXFBUao8igTHDPmC4vVj.jpg",
+  "created_by": [
+    {
+      "id": 3902413,
+      "credit_id": "640a08207776f000c56f8fe7",
+      "name": "Jonathan Cruz",
+      "original_name": "Jonathan Cruz",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2016-05-02",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 221939,
+  "in_production": false,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2016-07-22",
+  "last_episode_to_air": {
+    "id": 4287622,
+    "name": "Episode 59",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-07-22",
+    "episode_number": 59,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 221939,
+    "still_path": null
+  },
+  "name": "Once Again",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 59,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Once Again",
+  "overview": "",
+  "popularity": 8.403,
+  "poster_path": "/6NAH4xVYS7Q9cfuzdWqwjhVgCgU.jpg",
+  "production_companies": [
+    {
+      "id": 136033,
+      "logo_path": "/xScMx3yhjr5OENl6raSP2xwiu0k.png",
+      "name": "GMA Entertainment Group",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-05-02",
+      "episode_count": 59,
+      "id": 331806,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6NAH4xVYS7Q9cfuzdWqwjhVgCgU.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 221939,
+    "imdb_id": "tt5684826",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q25218004",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

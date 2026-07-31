@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2022-03-21",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 198221,
+  "in_production": true,
+  "languages": [
+    "tl"
+  ],
+  "last_air_date": "2022-10-27",
+  "last_episode_to_air": {
+    "id": 4214007,
+    "name": "Episode 150",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-10-27",
+    "episode_number": 150,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 198221,
+    "still_path": null
+  },
+  "name": "Family Feud Philippines",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 50,
+      "logo_path": "/ftB1h0NyMIeu1H1AtZ8BXtsYIiA.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "number_of_episodes": 150,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_name": "Family Feud Philippines",
+  "overview": "GMA presents the famous game show from America that has been played all over the world and is now in the Philippines, this is Family Feud.",
+  "popularity": 8.3186,
+  "poster_path": "/8f6YHsxJahDJ1jUrEoQyKtAI7MT.jpg",
+  "production_companies": [
+    {
+      "id": 131417,
+      "logo_path": "/yzCNrvjSPETRGZ2WrjnB5f0IVlx.png",
+      "name": "GMA Network",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-03-21",
+      "episode_count": 150,
+      "id": 288805,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/r6biIq6FlSE3WG5EFrWKqRm8qA5.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 198221,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

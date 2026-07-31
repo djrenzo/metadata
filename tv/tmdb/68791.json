@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/6ePKDqagS4Jj0t1HT0zjaMVciXr.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "2013-09-30",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.nhk.or.jp/archives/asadora/drama/d_089.html",
+  "id": 68791,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2014-04-13",
+  "last_episode_to_air": {
+    "id": 1242205,
+    "name": "Episode 150",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2014-04-13",
+    "episode_number": 150,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 15,
+    "season_number": 1,
+    "show_id": 68791,
+    "still_path": null
+  },
+  "name": "Gochisousan",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2306,
+      "logo_path": "/6XY0tlrKcuh2J1oqlBWNtmyjyoH.png",
+      "name": "NHK BS Premium",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 150,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ごちそうさん",
+  "overview": "Uno Meiko is the daughter of parents who run a western style restaurant in Tokyo. She marries and moves to Osaka with her husband. Meiko experiences cultural differences between Tokyo and Osaka, as she lives as a mother and wife in Osaka.",
+  "popularity": 8.249,
+  "poster_path": "/aIDbSmi14nfh2NYUny0a0siCUSo.jpg",
+  "production_companies": [
+    {
+      "id": 15505,
+      "logo_path": "/3MuBcEqLa5QRkZTpXBLzyk9zOmO.png",
+      "name": "NHK",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-12-31",
+      "episode_count": 3,
+      "id": 490209,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-30",
+      "episode_count": 150,
+      "id": 82192,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/q0KfVlLoSn1cRSL137H1r6jUlZy.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 490208,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 68791,
+    "imdb_id": "tt2509534",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 273817,
+    "tvrage_id": null,
+    "wikidata_id": "Q11267180",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

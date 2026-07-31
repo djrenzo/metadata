@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/rFDpiykUFcRU2ik5O1RlB8G5jfY.jpg",
+  "created_by": [
+    {
+      "id": 1685734,
+      "credit_id": "64ffca740bb07600c4a0e9d6",
+      "name": "Berkun Oya",
+      "original_name": "Berkun Oya",
+      "gender": 2,
+      "profile_path": "/v9iEJxPxVrAFCGRQaVgkbyBjnZ.jpg"
+    },
+    {
+      "id": 1580327,
+      "credit_id": "64ffca800bb07600ab284f2e",
+      "name": "Nuran Evren Şit",
+      "original_name": "Nuran Evren Şit",
+      "gender": 1,
+      "profile_path": "/8BUCWpFVAvZ4HK25sL2GtsOSRPR.jpg"
+    }
+  ],
+  "episode_run_time": [
+    130
+  ],
+  "first_air_date": "2014-11-23",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 107075,
+  "in_production": false,
+  "languages": [
+    "es",
+    "tr"
+  ],
+  "last_air_date": "2015-05-17",
+  "last_episode_to_air": {
+    "id": 2545798,
+    "name": "Episode 26",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-05-17",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 107,
+    "season_number": 1,
+    "show_id": 107075,
+    "still_path": "/A4rXoWIUz6O9lSGF29P5bQPqaYT.jpg"
+  },
+  "name": "Matter of Respect",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 439,
+      "logo_path": "/feKY6HaH2FRG3gQ9F7q0EE8rd8P.png",
+      "name": "Kanal D",
+      "origin_country": "TR"
+    }
+  ],
+  "number_of_episodes": 26,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_name": "Şeref Meselesi",
+  "overview": "Ayvalik is brought into play by the mob from a family who came to Istanbul. Yigit's father committed suicide because of the mob.",
+  "popularity": 8.7322,
+  "poster_path": "/s7o1cYAABDFuHWf7GXNHtUV8M6t.jpg",
+  "production_companies": [
+    {
+      "id": 122140,
+      "logo_path": "/7tFvnwv2sJBLA6kCveP6W9y3zY3.png",
+      "name": "D Productions",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-11-23",
+      "episode_count": 26,
+      "id": 158298,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tCmbvBkJLztlJGFgJl64bP8wCL3.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.6,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 107075,
+    "imdb_id": "tt4312318",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q19520516",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

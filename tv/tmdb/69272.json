@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/m9sPbSzMZJtuZukyVXsw6PGGad.jpg",
+  "created_by": [
+    {
+      "id": 1372339,
+      "credit_id": "586302e0c3a36852c000492b",
+      "name": "Peter Exacoustos",
+      "original_name": "Peter Exacoustos",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1728832,
+      "credit_id": "586302ebc3a36852c9004382",
+      "name": "Alessia Gazzola",
+      "original_name": "Alessia Gazzola",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2016-09-27",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.raiplay.it/programmi/lallieva/",
+  "id": 69272,
+  "in_production": false,
+  "languages": [
+    "it"
+  ],
+  "last_air_date": "2020-11-08",
+  "last_episode_to_air": {
+    "id": 2453620,
+    "name": "Episode 12 Together, Connected, Until death do us part",
+    "overview": "Giacomo's provisional release re-starts the investigation into the crime at the golf club. Meanwhile, Alice discovers that someone is looking for information on Manes: perhaps the person she so desires to meet is closer to her than she imagines. For Alice and Claudio the day set for the wedding has arrived, but it passes in vain.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-11-08",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 3,
+    "show_id": 69272,
+    "still_path": "/zJVXumaAP4RK0mIqBUa29iTAdg2.jpg"
+  },
+  "name": "L'allieva",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 533,
+      "logo_path": "/pLsnP0qF90P4QAXTKGPgDsftKDl.png",
+      "name": "Rai 1",
+      "origin_country": "IT"
+    }
+  ],
+  "number_of_episodes": 35,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_name": "L'allieva",
+  "overview": "Alice is a clumsy and passionate coroner resident. She fights between life and love complexities. Even tough she still has a lot to learn, she has a special quality: empathy with the victims that leads her to have crucial intuition in the cases that she works on.",
+  "popularity": 8.5597,
+  "poster_path": "/ayOrsTXNfDktbuiMSP512tq2DZJ.jpg",
+  "production_companies": [
+    {
+      "id": 84879,
+      "logo_path": null,
+      "name": "Endemol Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 113774,
+      "logo_path": "/nSeqwmy9llGSEl3qFxj1zODzMm2.png",
+      "name": "Endemol Shine Italy",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-27",
+      "episode_count": 11,
+      "id": 83170,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ggebh8hJU1LeML7Gbi17IifeozE.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-25",
+      "episode_count": 12,
+      "id": 123156,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/qfV4xEmXQ5RM1HPDeiUzoXADIsP.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-27",
+      "episode_count": 12,
+      "id": 164803,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/w0UqS6x0EE8PMtN6Qycm61JK2T0.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.1,
+  "vote_count": 37,
+  "external_ids": {
+    "id": 69272,
+    "imdb_id": "tt6559980",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 316861,
+    "tvrage_id": null,
+    "wikidata_id": "Q28671476",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "AllievaTv"
+  }
+}

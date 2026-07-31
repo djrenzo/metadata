@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/vlxHVv236ehbde3qXc5R1ewAn4B.jpg",
+  "created_by": [
+    {
+      "id": 205379,
+      "credit_id": "5d98d2fcb04605002242d7d3",
+      "name": "Scott M. Gimple",
+      "original_name": "Scott M. Gimple",
+      "gender": 2,
+      "profile_path": "/3i8X7w3B38ZM1xqrFwjV7sIUkr3.jpg"
+    },
+    {
+      "id": 1215721,
+      "credit_id": "5e9474687a97ab00170f1bf9",
+      "name": "Matthew Negrete",
+      "original_name": "Matthew Negrete",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2020-10-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://www.amc.com/twdu/the-walking-dead-world-beyond",
+  "id": 94305,
+  "in_production": false,
+  "languages": [
+    "es",
+    "en"
+  ],
+  "last_air_date": "2021-12-05",
+  "last_episode_to_air": {
+    "id": 3240170,
+    "name": "The Last Light",
+    "overview": "The remaining members of the group fight back enemies, both living and dead, on their quest to save the future.",
+    "vote_average": 6.1,
+    "vote_count": 10,
+    "air_date": "2021-12-05",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 2,
+    "show_id": 94305,
+    "still_path": "/1W9gDILqau7ZLe0vDPVt0HDN7L3.jpg"
+  },
+  "name": "The Walking Dead: World Beyond",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 174,
+      "logo_path": "/pmvRmATOCaDykE6JrVoeYxlFHw3.png",
+      "name": "AMC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 20,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Walking Dead: World Beyond",
+  "overview": "A heroic group of teens sheltered from the dangers of the post-apocalyptic world receive a message that inspires them to leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.",
+  "popularity": 9.35,
+  "poster_path": "/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg",
+  "production_companies": [
+    {
+      "id": 23242,
+      "logo_path": "/ucE6dN6pUPfZHH5JlXkq44TDUMS.png",
+      "name": "AMC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 50032,
+      "logo_path": "/ojrMksdtR7Bs2vwERU1LCrjv7vx.png",
+      "name": "Skybound Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-10-04",
+      "episode_count": 10,
+      "id": 133610,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/z31GxpVgDsFAF4paZR8PRsiP16D.jpg",
+      "season_number": 1,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "2021-10-03",
+      "episode_count": 10,
+      "id": 204167,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg",
+      "season_number": 2,
+      "vote_average": 5.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The end of the world was our beginning.",
+  "type": "Scripted",
+  "vote_average": 7.3,
+  "vote_count": 1220,
+  "external_ids": {
+    "id": 94305,
+    "imdb_id": "tt10148174",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 372787,
+    "tvrage_id": null,
+    "wikidata_id": "Q77422787",
+    "facebook_id": "TWDWorldBeyond",
+    "instagram_id": "twdworldbeyond",
+    "twitter_id": "TWDWorldBeyond"
+  }
+}

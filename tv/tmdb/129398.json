@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/yBYkOSSNwd5Vrh0rF18RlJbyooF.jpg",
+  "created_by": [
+    {
+      "id": 20173,
+      "credit_id": "60f54f29c439c0005c26b360",
+      "name": "Don McKellar",
+      "original_name": "Don McKellar",
+      "gender": 2,
+      "profile_path": "/lPQPESremJWcF0SLvzwiQP6ZVgT.jpg"
+    },
+    {
+      "id": 10099,
+      "credit_id": "63cc8101d363e50079c1c11c",
+      "name": "Park Chan-wook",
+      "original_name": "박찬욱",
+      "gender": 2,
+      "profile_path": "/jsSFCVB7MhuVbSLwTgESiXEiNjt.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-04-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "https://www.hbo.com/the-sympathizer",
+  "id": 129398,
+  "in_production": false,
+  "languages": [
+    "en",
+    "vi"
+  ],
+  "last_air_date": "2024-05-26",
+  "last_episode_to_air": {
+    "id": 3232748,
+    "name": "Endings Are Hard, Aren't They?",
+    "overview": "Back in Vietnam, the Captain is forced to tell his story… and confront the decisions that haunt his past.",
+    "vote_average": 8.1,
+    "vote_count": 11,
+    "air_date": "2024-05-26",
+    "episode_number": 7,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 129398,
+    "still_path": "/v2z139okqFo0EwIwWxlPGWnMI87.jpg"
+  },
+  "name": "The Sympathizer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 7,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Sympathizer",
+  "overview": "Near the end of the Vietnam War, a spy who was embedded in the South Vietnam army flees to the United States and takes up residence in a refugee community, where he continues to gather intelligence and report back to the Viet Cong.",
+  "popularity": 8.2545,
+  "poster_path": "/zAxObqiOEooIuQtH338b8zOaFEu.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 164,
+      "logo_path": "/v3zcUepvKC7Vz36yjklk1rw6k8Q.png",
+      "name": "Rhombus Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 34725,
+      "logo_path": "/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png",
+      "name": "Moho Film",
+      "origin_country": "KR"
+    },
+    {
+      "id": 27467,
+      "logo_path": "/xYus2VP8xXlaZ4KSBDVGltoEnuP.png",
+      "name": "Team Downey",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-04-14",
+      "episode_count": 7,
+      "id": 202802,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/zAxObqiOEooIuQtH338b8zOaFEu.jpg",
+      "season_number": 1,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Refugee. Traitor. Hero. Spy.",
+  "type": "Miniseries",
+  "vote_average": 6.848,
+  "vote_count": 132,
+  "external_ids": {
+    "id": 129398,
+    "imdb_id": "tt14404618",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 406620,
+    "tvrage_id": null,
+    "wikidata_id": "Q115011776",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

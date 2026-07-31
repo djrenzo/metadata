@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/u6VOLuO9oRuZm9MTq5L10eHrLjk.jpg",
+  "created_by": [
+    {
+      "id": 52865,
+      "credit_id": "5257f7dc19c29531db2c790f",
+      "name": "Garry Shandling",
+      "original_name": "Garry Shandling",
+      "gender": 2,
+      "profile_path": "/zGjPMqSqtZtP3npd5fhm7MYqxIU.jpg"
+    },
+    {
+      "id": 62055,
+      "credit_id": "66a10c32557d122e8518c2c0",
+      "name": "Alan Zweibel",
+      "original_name": "Alan Zweibel",
+      "gender": 2,
+      "profile_path": "/r8lPRDMMprqbnzaxAVm8YdSyH1B.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1986-09-10",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9841,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1990-05-25",
+  "last_episode_to_air": {
+    "id": 411628,
+    "name": "Driving Miss Garry",
+    "overview": "Guests Dan Aykroyd and Paul Winfield finish off the series.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1990-05-25",
+    "episode_number": 19,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 4,
+    "show_id": 9841,
+    "still_path": null
+  },
+  "name": "It's Garry Shandling's Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 67,
+      "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+      "name": "Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 72,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "It's Garry Shandling's Show",
+  "overview": "Garry Shandling stars as himself, a neurotic, sardonic stand-up comedian who just happens to be aware he is a sitcom character. Garry spends just as much time interacting with the studio audience as he does the regular cast members, performing monologues and show-closing summations of the episode's events. However, everyone knows they're on TV, not just Garry; and the audience (itself a character) is often involved in the storyline.",
+  "popularity": 8.6443,
+  "poster_path": "/9ySzC5soonzoa5m7XthfUIi1OMc.jpg",
+  "production_companies": [
+    {
+      "id": 253591,
+      "logo_path": null,
+      "name": "Our Production Company",
+      "origin_country": ""
+    },
+    {
+      "id": 4343,
+      "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
+      "name": "Showtime Networks",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1986-09-10",
+      "episode_count": 16,
+      "id": 19659,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aIAXoRKxQ6IzdLXAlOs2Y5KnrvH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-10-25",
+      "episode_count": 17,
+      "id": 19662,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/5adN5DHChNRxwQNwVCpIstCx0bd.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-21",
+      "episode_count": 20,
+      "id": 19661,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/bAZHq0umRq7ln0ukHTKG8BL7D0K.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-11-10",
+      "episode_count": 19,
+      "id": 19660,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/eIhZUcfStZIyxgMj2t8LyzqbNV.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.105,
+  "vote_count": 19,
+  "external_ids": {
+    "id": 9841,
+    "imdb_id": "tt0090459",
+    "freebase_mid": "/m/01_krb",
+    "freebase_id": "/en/its_garry_shandlings_show",
+    "tvdb_id": 71275,
+    "tvrage_id": 4007,
+    "wikidata_id": "Q6090056",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

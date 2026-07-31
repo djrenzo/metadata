@@ -1,0 +1,176 @@
+{
+  "adult": false,
+  "backdrop_path": "/o2L9goGao8uIIvFNnS1gVtPiYPx.jpg",
+  "created_by": [
+    {
+      "id": 104797,
+      "credit_id": "624399fd9652200091ce3405",
+      "name": "Marilyn Sadler",
+      "original_name": "Marilyn Sadler",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 104798,
+      "credit_id": "62439a080f3655005ffd9da5",
+      "name": "Roger Bollen",
+      "original_name": "Roger Bollen",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "2006-09-16",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://disney.go.com/disneyjunior/handy-manny",
+  "id": 10219,
+  "in_production": false,
+  "languages": [
+    "en",
+    "pt",
+    "es"
+  ],
+  "last_air_date": "2016-01-19",
+  "last_episode_to_air": {
+    "id": 1159298,
+    "name": "Mayor's Rosa's Chimney",
+    "overview": "Chimney makes a thump.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-01-19",
+    "episode_number": 14,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 3,
+    "show_id": 10219,
+    "still_path": null
+  },
+  "name": "Handy Manny",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 54,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    },
+    {
+      "id": 281,
+      "logo_path": "/sxdLifeoMky9WcptGZeMcCXdJ76.png",
+      "name": "Disney Junior",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 205,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Handy Manny",
+  "overview": "Manny Garcia, a kind, generous, outgoing handyman and his eclectic mix of talking tools help the people of Sheet Rock Hills with repairs both large and small, while teaching kids how to confront and conquer everyday problems.",
+  "popularity": 29.2461,
+  "poster_path": "/7CCeh3UHSLedhi0wqz3dQmByaA6.jpg",
+  "production_companies": [
+    {
+      "id": 1023,
+      "logo_path": "/dJLh6G11paw58YGYYpcRZiKvzGW.png",
+      "name": "Nelvana",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-16",
+      "episode_count": 48,
+      "id": 64788,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/y7HZ71ZdLG2hKStB0NBb2JAUVo3.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-26",
+      "episode_count": 79,
+      "id": 64789,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-11",
+      "episode_count": 78,
+      "id": 64790,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Handy Manny and his box of friendly, silly tools are the go-to guys in their neighborhood.",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 47,
+  "external_ids": {
+    "id": 10219,
+    "imdb_id": "tt0451460",
+    "freebase_mid": "/m/0gvfsj",
+    "freebase_id": "/en/handy_manny",
+    "tvdb_id": 81587,
+    "tvrage_id": 14506,
+    "wikidata_id": "Q1068815",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

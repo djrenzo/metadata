@@ -1,0 +1,518 @@
+{
+  "adult": false,
+  "backdrop_path": "/i0SR6e1nuGmC8X2FvZFAnEnf1G8.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "1988-07-17",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.ctv.ca/discovery?aid=44961",
+  "id": 15871,
+  "in_production": true,
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "last_air_date": "2025-07-26",
+  "last_episode_to_air": {
+    "id": 7583518,
+    "name": "Ultimate Shark Dive",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 15,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 39,
+    "show_id": 15871,
+    "still_path": "/dcenyFWT9z8jyR2MDGpuVmI3mlJ.jpg"
+  },
+  "name": "Shark Week",
+  "next_episode_to_air": {
+    "id": 7583520,
+    "name": "Secrets of the Great White Kill",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 39,
+    "show_id": 15871,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 64,
+      "logo_path": "/tmttRFo2OiXQD0EHMxxlw8EzUuZ.png",
+      "name": "Discovery",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 440,
+  "number_of_seasons": 39,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Shark Week",
+  "overview": "The Discovery Channel's Shark Week, first broadcast on July 17, 1987, is a weeklong series of feature television programs dedicated to sharks. Held annually, normally in July or August, Shark Week was originally developed to raise awareness and respect for sharks. It is the longest-running cable television programming event in history. Now broadcast in over 72 countries, Shark Week is promoted heavily via social networks like Facebook and Twitter.",
+  "popularity": 24.0847,
+  "poster_path": "/wRAOmmAVxpYKHRT1ZIbcWz4pUTe.jpg",
+  "production_companies": [
+    {
+      "id": 6790,
+      "logo_path": "/A0TzRpnwLcUcNgrvDJ0BIajf56b.png",
+      "name": "Discovery",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 30,
+      "id": 302338,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/gds6HUgGT520MMLQNIOIJjqwQoP.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-07-17",
+      "episode_count": 4,
+      "id": 27319,
+      "name": "1988",
+      "overview": "",
+      "poster_path": "/uW9lhPDEXz2AiefpH8sGSu1q8bu.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 27320,
+      "name": "1989",
+      "overview": "",
+      "poster_path": "/hA5SOJ8yT8xb6yyWUvtaXpMrbR.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 307436,
+      "name": "1990",
+      "overview": "",
+      "poster_path": "/7u3k0TTQL2rxM1cb2bOa1XNR7Ug.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 307437,
+      "name": "1991",
+      "overview": "",
+      "poster_path": "/aC2qiwCjDgXvWuRAr0xREkOFDf.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-07-12",
+      "episode_count": 6,
+      "id": 307438,
+      "name": "1992",
+      "overview": "",
+      "poster_path": "/qYeqxEiB8O86bg8Bkv5RZoU6Ujx.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 307439,
+      "name": "1993",
+      "overview": "",
+      "poster_path": "/firBJGX5AxCZ518vyK5X1H3mLl.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-07-31",
+      "episode_count": 9,
+      "id": 307440,
+      "name": "1994",
+      "overview": "",
+      "poster_path": "/mIXJpvU5laGey2Zj7WB3uCanqB.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 307441,
+      "name": "1995",
+      "overview": "",
+      "poster_path": "/9CT0zg3aAdkxV8q9bYF2k0uwdgB.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-08-11",
+      "episode_count": 5,
+      "id": 307442,
+      "name": "1996",
+      "overview": "",
+      "poster_path": "/j4FV4pTpWPJI2vnt30hlnmUrSXe.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-08-10",
+      "episode_count": 7,
+      "id": 307443,
+      "name": "1997",
+      "overview": "",
+      "poster_path": "/bDonc96uK9v7XjptP2fHpevnTft.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-07-31",
+      "episode_count": 6,
+      "id": 301011,
+      "name": "1998",
+      "overview": "",
+      "poster_path": "/9CgApfgHWz0p4XuBtGSAGu2TwEo.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 5,
+      "id": 27314,
+      "name": "1999",
+      "overview": "",
+      "poster_path": "/pluJj3Vx3T6SGxlMiXmSpLDCx6t.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-16",
+      "episode_count": 6,
+      "id": 63865,
+      "name": "2000",
+      "overview": "",
+      "poster_path": "/k4UqMZ8YHuA6yqg2zyTTmuXYKx8.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-27",
+      "episode_count": 5,
+      "id": 63864,
+      "name": "2001",
+      "overview": "",
+      "poster_path": "/aw8yHjT3bQGnCb2LuIlKLoBneXI.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-06-17",
+      "episode_count": 4,
+      "id": 63863,
+      "name": "2002",
+      "overview": "",
+      "poster_path": "/8WgC3CnWX9LhYuK50bVLelyxMuX.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-07-13",
+      "episode_count": 7,
+      "id": 27321,
+      "name": "2003",
+      "overview": "",
+      "poster_path": "/b0xq4Vne4OwE8SSvaYK03AuSTbM.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-12-12",
+      "episode_count": 8,
+      "id": 63862,
+      "name": "2004",
+      "overview": "",
+      "poster_path": "/2g8qTtcqN2EGbaxKAhVod38bdpa.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-06-08",
+      "episode_count": 4,
+      "id": 63861,
+      "name": "2005",
+      "overview": "",
+      "poster_path": "/cCnrtQDNvnyAHRDAxGo6pPEMqjc.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-07-30",
+      "episode_count": 7,
+      "id": 63860,
+      "name": "2006",
+      "overview": "",
+      "poster_path": "/qvPWlHOc8e2Mib8ZAUDt5u2bW2X.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-07-29",
+      "episode_count": 8,
+      "id": 63854,
+      "name": "2007",
+      "overview": "",
+      "poster_path": "/jec20mnEqXYlCQ71mRQ1wbbjBgx.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-07-27",
+      "episode_count": 6,
+      "id": 63859,
+      "name": "2008",
+      "overview": "",
+      "poster_path": "/aoNEKq3K5phxKXHXemFH4vJSckZ.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-02",
+      "episode_count": 14,
+      "id": 63855,
+      "name": "2009",
+      "overview": "",
+      "poster_path": "/mmOpULcxHfGQN6jPJhF4FQ2NbJt.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-01",
+      "episode_count": 7,
+      "id": 27324,
+      "name": "2010",
+      "overview": "",
+      "poster_path": "/t7udymzX6RmiRk4cDCBS7xMe4rl.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-31",
+      "episode_count": 8,
+      "id": 27325,
+      "name": "2011",
+      "overview": "",
+      "poster_path": "/A3dyeLRzUYHtzWGXyZU1tbfwBe0.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-12",
+      "episode_count": 10,
+      "id": 27326,
+      "name": "2012",
+      "overview": "",
+      "poster_path": "/hGqKI8BH2nJsTJgunRXWVs8gM2v.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-04",
+      "episode_count": 11,
+      "id": 63852,
+      "name": "2013",
+      "overview": "",
+      "poster_path": "/n0Vn0xsmUr0ujuu9CDPbAbGGZfQ.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-10",
+      "episode_count": 14,
+      "id": 63853,
+      "name": "2014",
+      "overview": "",
+      "poster_path": "/5rGfFqKDK8UA4HzTmGS0MlO1NDA.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-07-05",
+      "episode_count": 16,
+      "id": 68365,
+      "name": "2015",
+      "overview": "",
+      "poster_path": "/zKNX9DjqGtocpH2JNgqT2qXiQ58.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-26",
+      "episode_count": 17,
+      "id": 78041,
+      "name": "2016",
+      "overview": "",
+      "poster_path": "/kMUWo8yEO0MjFLGpP8lBC4yMinm.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-23",
+      "episode_count": 19,
+      "id": 90842,
+      "name": "2017",
+      "overview": "",
+      "poster_path": "/o55RSSDY5RFkAyfwIpUPZRA33gk.jpg",
+      "season_number": 30,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2018-07-15",
+      "episode_count": 26,
+      "id": 106764,
+      "name": "2018",
+      "overview": "",
+      "poster_path": "/pSdHm8ZBwOXc9cgJvkMCORtd9QJ.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 24,
+      "id": 128702,
+      "name": "2019",
+      "overview": "",
+      "poster_path": "/tj09paB7I37BVLhDpQuxrCnP5yM.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-09",
+      "episode_count": 29,
+      "id": 158595,
+      "name": "2020",
+      "overview": "",
+      "poster_path": "/1zTiWA60RIu06QcUJQGxqT7TChN.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-11",
+      "episode_count": 44,
+      "id": 201877,
+      "name": "2021",
+      "overview": "",
+      "poster_path": "/wTFgP19FNyfiyv9lYshJLox8trp.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-07-24",
+      "episode_count": 24,
+      "id": 302176,
+      "name": "2022",
+      "overview": "",
+      "poster_path": "/bUc25osUAGdL31IOdrIfykJnonT.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-23",
+      "episode_count": 21,
+      "id": 349935,
+      "name": "2023",
+      "overview": "2023 Season of Shark Week",
+      "poster_path": "/wRAOmmAVxpYKHRT1ZIbcWz4pUTe.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-07",
+      "episode_count": 21,
+      "id": 401296,
+      "name": "2024",
+      "overview": "2024 Season of Shark Week",
+      "poster_path": "/fy3pYXhAsLCYuvYPPNCO6ef1Zys.jpg",
+      "season_number": 37,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-07-20",
+      "episode_count": 20,
+      "id": 462106,
+      "name": "2025",
+      "overview": "2025 Season of Shark Week",
+      "poster_path": "/ywszoSsBVqHARmjxcGQo2vLG3FU.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-07-26",
+      "episode_count": 20,
+      "id": 532127,
+      "name": "2026",
+      "overview": "",
+      "poster_path": "/4fnufUxSk9PuXSyoKV6nj4HZNBV.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Shark n’ awe!",
+  "type": "Scripted",
+  "vote_average": 7.6,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 15871,
+    "imdb_id": "tt1146333",
+    "freebase_mid": "/m/0fgkmg",
+    "freebase_id": "/en/shark_week",
+    "tvdb_id": 125051,
+    "tvrage_id": 16713,
+    "wikidata_id": "Q7489816",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

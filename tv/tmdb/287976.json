@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/8KDxgfQ4JHgnEozwToRQaUgNAmP.jpg",
+  "created_by": [
+    {
+      "id": 1371935,
+      "credit_id": "67ec18a86b570401632fbc7c",
+      "name": "Catherine Touzet",
+      "original_name": "Catherine Touzet",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1460728,
+      "credit_id": "67ec18b16b9788d3f7c73ffb",
+      "name": "Marie Deshaires",
+      "original_name": "Marie Deshaires",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-05-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/lete-36",
+  "id": 287976,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-06-01",
+  "last_episode_to_air": {
+    "id": 7196844,
+    "name": "Episode 6",
+    "overview": "Léonie, Blanche, Eugénie and Giulia decide there is only one way out, just as Raven believes he has cracked the mystery of the Riviera murders.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2026-06-01",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "1-6",
+    "runtime": 52,
+    "season_number": 1,
+    "show_id": 287976,
+    "still_path": "/dXcrO2IGluIjhdugFs5gqxFGU7L.jpg"
+  },
+  "name": "Summer '36",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "L'Été 36",
+  "overview": "Nice, 1936. As workers enjoy their first paid holidays, four very different women become entangled in the murder of a prosecutor at the Riviera hotel.",
+  "popularity": 22.974,
+  "poster_path": "/ijMbSFhBd0m8TFuaALtOQp5kLwM.jpg",
+  "production_companies": [
+    {
+      "id": 183632,
+      "logo_path": null,
+      "name": "Quad Drama",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12406,
+      "logo_path": "/e89tcj2PpfFffwA0etxuGftj0YU.png",
+      "name": "La Compagnie Cinématographique",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12407,
+      "logo_path": "/g11ZDtSicimXi5MmwUznAsEomXZ.png",
+      "name": "Panache Productions",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-05-18",
+      "episode_count": 6,
+      "id": 449285,
+      "name": "Limited Series",
+      "overview": "",
+      "poster_path": "/dIVobFB25MT5av3NGFDJbAHTd12.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 6.25,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 287976,
+    "imdb_id": "tt38776795",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 475200,
+    "tvrage_id": null,
+    "wikidata_id": "Q131401924",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

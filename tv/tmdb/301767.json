@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/8m9Y8NoqaaLviZo3UTbO10fDzPt.jpg",
+  "created_by": [
+    {
+      "id": 1211305,
+      "credit_id": "68d964071dd3ac1c35bb0946",
+      "name": "Amaral Gurgel",
+      "original_name": "Amaral Gurgel",
+      "gender": 2,
+      "profile_path": "/3zQkXvDycCzCmvBN8XelecBAf1I.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1973-07-30",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 301767,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "1973-11-30",
+  "last_episode_to_air": {
+    "id": 6563582,
+    "name": "Episode 101",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1973-11-30",
+    "episode_number": 101,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 1,
+    "show_id": 301767,
+    "still_path": null
+  },
+  "name": "Vidas Marcadas",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 535,
+      "logo_path": "/6f8p5ifmBoRmXhG62LWI0cPgAQf.png",
+      "name": "Record",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 101,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Vidas Marcadas",
+  "overview": "",
+  "popularity": 40.2396,
+  "poster_path": "/1SG3PVWdb86wySBVzyGQ3EYbp70.jpg",
+  "production_companies": [
+    {
+      "id": 68962,
+      "logo_path": "/9wQ33NosUqKnj87ZUvEdud9LWws.png",
+      "name": "RECORD",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1973-07-30",
+      "episode_count": 101,
+      "id": 477384,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 301767,
+    "imdb_id": "tt0209847",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

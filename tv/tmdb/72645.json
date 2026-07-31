@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/63320bMLJrXHDqUHAEx4p0kp2vn.jpg",
+  "created_by": [
+    {
+      "id": 1843193,
+      "credit_id": "69b642c0801a326ccc08e832",
+      "name": "Wang Fulin",
+      "original_name": "Wang Fulin",
+      "gender": 2,
+      "profile_path": "/uY33ukzNHFZqOvNiZm3IG5oMxcF.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1994-02-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "",
+  "id": 72645,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "1994-12-03",
+  "last_episode_to_air": {
+    "id": 1333360,
+    "name": "Episode 84",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-12-03",
+    "episode_number": 84,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 72645,
+    "still_path": "/1KhTKcq9QQSCTDNh4t5SGUPzRfF.jpg"
+  },
+  "name": "The Romance Of Three Kingdoms",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1363,
+      "logo_path": "/x0f4gH2NOQpE77XF4E8IrrwfoKU.png",
+      "name": "CCTV-1",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 84,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "三国演义",
+  "overview": "Adapted from the classical 14th century novel of the same title by Luo Guanzhong, Romance of the Three Kingdoms is part historical, part legend, and part mythical – romanticises and dramatises the lives of feudal lords and their retainers, who tried to replace the dwindling Han dynasty or restore it. The focus is mainly on the three power blocs that emerged from the remnants of the Han dynasty, and would eventually form the three states of Cao Wei, Shu Han, and Eastern Wu.",
+  "popularity": 23.8395,
+  "poster_path": "/ex6DcbKNim993aFjEasrU1fIMXT.jpg",
+  "production_companies": [
+    {
+      "id": 91974,
+      "logo_path": "/paJ1JqfQ9S7xWX2KwWpm8eh6yX6.png",
+      "name": "China Television Production Center 中国电视剧制作中心 (CTPC)",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-02-10",
+      "episode_count": 84,
+      "id": 90064,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/eBAPRgRDPYAqQJt7N2aQPW8ZIAn.jpg",
+      "season_number": 1,
+      "vote_average": 9.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Eastward rolls the Yangtze, heroes washed away by time.",
+  "type": "Scripted",
+  "vote_average": 9.1,
+  "vote_count": 40,
+  "external_ids": {
+    "id": 72645,
+    "imdb_id": "tt0108914",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 171651,
+    "tvrage_id": null,
+    "wikidata_id": "Q709824",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

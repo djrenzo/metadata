@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/cckSh7WjbbecR3R0sjEyefmCzWo.jpg",
+  "created_by": [
+    {
+      "id": 1524073,
+      "credit_id": "58d0840392514159d10039f4",
+      "name": "Clara María Ochoa",
+      "original_name": "Clara María Ochoa",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2551144,
+      "credit_id": "6378c387156cc700bc4100cd",
+      "name": "Juana Uribe",
+      "original_name": "Juana Uribe",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-04-26",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 70824,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2016-09-15",
+  "last_episode_to_air": {
+    "id": 1290303,
+    "name": "Episode 86",
+    "overview": "Belky decides to share her story in a documentary about her life. She also makes a romantic promise to Manuel about their future.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-09-15",
+    "episode_number": 86,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 70824,
+    "still_path": "/jpxxykxjaRyUaDiLV63xcDUN0D5.jpg"
+  },
+  "name": "The Girl",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 86,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "La Niña",
+  "overview": "A young woman who was part of the guerrilla group is now seeking a better life in the city. She wants to study medicine, to heal rather than harm, but she will face a challenge, because being part of outlaw groups always has consequences.",
+  "popularity": 29.9416,
+  "poster_path": "/uzNOxyNt1WIXt9KBRKytiqQZ02y.jpg",
+  "production_companies": [
+    {
+      "id": 65821,
+      "logo_path": null,
+      "name": "CMO Producciones",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-04-26",
+      "episode_count": 86,
+      "id": 86403,
+      "name": "Season 1",
+      "overview": "Under the constant threat of people trying to attack her, Belky starts a new career, begins a relationship and reunites with her family.",
+      "poster_path": "/xESc8LG5cgmHUXjRMp1S9en0fmy.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Is there life after war?",
+  "type": "Scripted",
+  "vote_average": 7.73,
+  "vote_count": 244,
+  "external_ids": {
+    "id": 70824,
+    "imdb_id": "tt5677942",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 321474,
+    "tvrage_id": null,
+    "wikidata_id": "Q23905053",
+    "facebook_id": "LaNinaCaracol",
+    "instagram_id": null,
+    "twitter_id": "laninatv"
+  }
+}

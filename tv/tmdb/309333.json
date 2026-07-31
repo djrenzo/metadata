@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2022-10-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.3cat.cat/3cat/zona-franca/",
+  "id": 309333,
+  "in_production": false,
+  "languages": [
+    "ca"
+  ],
+  "last_air_date": "2023-06-29",
+  "last_episode_to_air": {
+    "id": 6793178,
+    "name": "Episode 126",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-06-29",
+    "episode_number": 126,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 1,
+    "show_id": 309333,
+    "still_path": null
+  },
+  "name": "Zona Franca",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 406,
+      "logo_path": "/bvjlXF06a7hR3vJ4IoFkGVLaBFo.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_name": "Zona Franca",
+  "overview": "",
+  "popularity": 40.0626,
+  "poster_path": "/cZsBUkqg49SkqzGTzvifSXaAsz7.jpg",
+  "production_companies": [
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 233523,
+      "logo_path": null,
+      "name": "Atomic Beat Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-17",
+      "episode_count": 126,
+      "id": 491420,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/cZsBUkqg49SkqzGTzvifSXaAsz7.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 309333,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q114742325",
+    "facebook_id": null,
+    "instagram_id": "zonafrancatv3",
+    "twitter_id": "ZonaFrancaTV3"
+  }
+}

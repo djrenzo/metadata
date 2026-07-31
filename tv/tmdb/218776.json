@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/e2R0uOxllMoC316JaM8zPz6C4SV.jpg",
+  "created_by": [
+    {
+      "id": 1965661,
+      "credit_id": "63cc248c6d97e6008c250355",
+      "name": "Verónica Saquel",
+      "original_name": "Verónica Saquel",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2525256,
+      "credit_id": "63cc249609dda400cfd8bcb4",
+      "name": "Carlos Oporto",
+      "original_name": "Carlos Oporto",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2023-01-16",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.mega.cl/teleseries/juego-de-ilusiones",
+  "id": 218776,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2025-02-25",
+  "last_episode_to_air": {
+    "id": 6211351,
+    "name": "Episode 550",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-02-25",
+    "episode_number": 550,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 218776,
+    "still_path": null
+  },
+  "name": "Juego de ilusiones",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 550,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Juego de ilusiones",
+  "overview": "",
+  "popularity": 19.9294,
+  "poster_path": "/9gvZrKujFwnF3DJzmIKT3BFxLb8.jpg",
+  "production_companies": [
+    {
+      "id": 191488,
+      "logo_path": null,
+      "name": "Mazal Producciones",
+      "origin_country": "CL"
+    },
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 550,
+      "id": 325348,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/w3dAdp4skFcfkarsm1Yj0egPAqr.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 218776,
+    "imdb_id": "tt25502742",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q115799979",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

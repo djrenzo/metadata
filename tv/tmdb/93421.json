@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/kHAxjfdl1cMgDpIjuxKWa1nE44i.jpg",
+  "created_by": [
+    {
+      "id": 1756151,
+      "credit_id": "62924f967d5db510a7324352",
+      "name": "António Barreira",
+      "original_name": "António Barreira",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2016-09-04",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 93421,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2018-07-30",
+  "last_episode_to_air": {
+    "id": 7419583,
+    "name": "Episode 230",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-11-30",
+    "episode_number": 230,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2,
+    "show_id": 93421,
+    "still_path": null
+  },
+  "name": "A Impostora",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 563,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "A Impostora",
+  "overview": "An airplane disappears mysteriously; on board was Verónica, the twin sister of Vitória, the victim of a fraud by a millionaire. Presumed dead, Verónica assumes the identity of her sister and plans to avenge herself on the entrepreneur's family.",
+  "popularity": 18.8524,
+  "poster_path": "/yLtLTnivr3CwnBwKW7E7008u363.jpg",
+  "production_companies": [
+    {
+      "id": 8863,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-04",
+      "episode_count": 388,
+      "id": 132009,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-30",
+      "episode_count": 230,
+      "id": 141364,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 93421,
+    "imdb_id": "tt5187234",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 316350,
+    "tvrage_id": null,
+    "wikidata_id": "Q25442916",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

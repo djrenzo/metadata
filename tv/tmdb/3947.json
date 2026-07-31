@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/ug8VmeqBEpXzvSgLiCwbAZ3AkLI.jpg",
+  "created_by": [
+    {
+      "id": 2468660,
+      "credit_id": "61ad7f26202e11004057bd99",
+      "name": "Michael Esser",
+      "original_name": "Michael Esser",
+      "gender": 2,
+      "profile_path": "/eNIMyBDpWcCuVl9A2xpA12198dS.jpg"
+    },
+    {
+      "id": 3337488,
+      "credit_id": "61ad7f32534661008b12c235",
+      "name": "Peter Schlesselmann",
+      "original_name": "Peter Schlesselmann",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2005-02-28",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 3947,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2007-10-05",
+  "last_episode_to_air": {
+    "id": 3108373,
+    "name": "Episode 645",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2007-10-05",
+    "episode_number": 645,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 3947,
+    "still_path": null
+  },
+  "name": "Verliebt in Berlin",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 645,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Verliebt in Berlin",
+  "overview": "The original season follows the life of the unsophisticated but good-natured Lisa Plenske, and her incongruous job at the ultra-chic Berlin fashion house Kerima Moda; while the second season revolved around Lisa's ham-fisted but sly half-brother Bruno and junior designer Hannah Refrath.",
+  "popularity": 21.9884,
+  "poster_path": "/gw00a3X2xZ8avePAMyD4olZtN9u.jpg",
+  "production_companies": [
+    {
+      "id": 2018,
+      "logo_path": null,
+      "name": "Grundy UFA",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2125,
+      "logo_path": null,
+      "name": "Phoenix Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-01",
+      "episode_count": 1,
+      "id": 438155,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-28",
+      "episode_count": 645,
+      "id": 11752,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/rL95SP35KMYR55TNTeKBipVypaI.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.4,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 3947,
+    "imdb_id": "tt0447812",
+    "freebase_mid": "/m/025xlc_",
+    "freebase_id": "/en/verliebt_in_berlin",
+    "tvdb_id": 153731,
+    "tvrage_id": null,
+    "wikidata_id": "Q675147",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

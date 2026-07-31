@@ -1,0 +1,294 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2003-09-02",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 64159,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2021-01-07",
+  "last_episode_to_air": {
+    "id": 2626887,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-01-07",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 19,
+    "show_id": 64159,
+    "still_path": null
+  },
+  "name": "Menschen bei Maischberger",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 600,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Menschen bei Maischberger",
+  "overview": "",
+  "popularity": 19.9017,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-09-02",
+      "episode_count": 16,
+      "id": 71365,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-13",
+      "episode_count": 39,
+      "id": 132312,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-04",
+      "episode_count": 36,
+      "id": 132313,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-10",
+      "episode_count": 35,
+      "id": 132314,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-09",
+      "episode_count": 38,
+      "id": 132315,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-08",
+      "episode_count": 39,
+      "id": 132316,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-06",
+      "episode_count": 39,
+      "id": 132317,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 40,
+      "id": 132318,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 37,
+      "id": 132319,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-07",
+      "episode_count": 33,
+      "id": 132320,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-15",
+      "episode_count": 36,
+      "id": 132321,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-21",
+      "episode_count": 34,
+      "id": 132322,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-13",
+      "episode_count": 30,
+      "id": 132323,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-13",
+      "episode_count": 32,
+      "id": 132324,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-18",
+      "episode_count": 33,
+      "id": 132325,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-17",
+      "episode_count": 33,
+      "id": 132326,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-16",
+      "episode_count": 15,
+      "id": 132327,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-15",
+      "episode_count": 34,
+      "id": 175828,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-07",
+      "episode_count": 1,
+      "id": 175829,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.25,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 64159,
+    "imdb_id": "tt0388619",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1330010",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

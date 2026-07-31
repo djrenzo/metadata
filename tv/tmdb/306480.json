@@ -1,0 +1,192 @@
+{
+  "adult": false,
+  "backdrop_path": "/9DpB8BDLpAznSdJtgm6G31RDL4u.jpg",
+  "created_by": [
+    {
+      "id": 2836987,
+      "credit_id": "692379dc7d94d05a9e32a8ba",
+      "name": "Pierre-Alexis Bizot",
+      "original_name": "Pierre-Alexis Bizot",
+      "gender": 2,
+      "profile_path": "/5JCT3zdpt8brcLtXPHu0MsOJrG8.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2019-09-14",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.twitch.tv/domingo",
+  "id": 306480,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-03-12",
+  "last_episode_to_air": {
+    "id": 7370455,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-09",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 160,
+    "season_number": 7,
+    "show_id": 306480,
+    "still_path": "/vhEUJ828K7gLpTWUxtcV5MsLrOs.jpg"
+  },
+  "name": "Popcorn",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 1231,
+      "logo_path": "/2AKqhclvu2XUFgYu79YN6I1nk0d.png",
+      "name": "Twitch",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 218,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Popcorn",
+  "overview": "Basically, Popcorn is a weekly talkshow shot and broadcast live on Twitch. Then to decorate the tray, we made cups and... Popcorn is the show you watch at the bottom of your sofa on Tuesday evenings with your family, in transport on a podcast or in replay with your friends...",
+  "popularity": 49.2201,
+  "poster_path": "/kc9pIt2XJP7FOVpvv5lqGHjwW5Z.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-07-01",
+      "episode_count": 2,
+      "id": 486523,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/9WiP0pPMossx1jxCpyo9aZwpUsz.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-14",
+      "episode_count": 39,
+      "id": 486235,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/pR6g3NiNeiz4iKlZkfaTYpaF3eS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-12",
+      "episode_count": 39,
+      "id": 486238,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-07",
+      "episode_count": 39,
+      "id": 486239,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/wxRyK2o7FcDdPlEIfPejMVXWoAJ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-06",
+      "episode_count": 39,
+      "id": 486240,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-05",
+      "episode_count": 39,
+      "id": 486241,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/lC9yJW1JBZuudS5E8E8pBsw3jQR.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-10",
+      "episode_count": 16,
+      "id": 486242,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-09",
+      "episode_count": 10,
+      "id": 486243,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/sY8gsDhPkBRv9VKkmdKQsFRVFpw.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 306480,
+    "imdb_id": "tt16160870",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 373059,
+    "tvrage_id": null,
+    "wikidata_id": "Q116956680",
+    "facebook_id": "PopcornTalkShow",
+    "instagram_id": "popcornofficiel",
+    "twitter_id": "PopcornTalkshow"
+  }
+}

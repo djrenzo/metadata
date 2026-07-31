@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": "/f9y6v4AW5N52mleGutg0xleod5z.jpg",
+  "created_by": [
+    {
+      "id": 1637916,
+      "credit_id": "60a8c4199a64c1006e267d0f",
+      "name": "Dave Noll",
+      "original_name": "Dave Noll",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3099100,
+      "credit_id": "60a8c3ed7f2d4a004418b220",
+      "name": "Cleve Keller",
+      "original_name": "Cleve Keller",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2018-06-18",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.gsntv.com/america-says",
+  "id": 89491,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-12-16",
+  "last_episode_to_air": {
+    "id": 7085205,
+    "name": "Episode 40",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-12",
+    "episode_number": 40,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 89491,
+    "still_path": null
+  },
+  "name": "America Says",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 63,
+      "logo_path": "/8wCI3fSTKCU3R1PwgqA9ATKFy5D.png",
+      "name": "Game Show Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 535,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "America Says",
+  "overview": "In this family-friendly game show, two teams face off to guess Americans' responses to questions covering a variety of topics.",
+  "popularity": 25.9687,
+  "poster_path": "/cNZTNrWxc02moLzn3NYZqowyJdU.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-18",
+      "episode_count": 64,
+      "id": 124387,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-26",
+      "episode_count": 96,
+      "id": 155336,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-22",
+      "episode_count": 160,
+      "id": 155337,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-31",
+      "episode_count": 45,
+      "id": 196359,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-25",
+      "episode_count": 70,
+      "id": 287727,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-26",
+      "episode_count": 60,
+      "id": 309393,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-04-13",
+      "episode_count": 40,
+      "id": 507295,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 4.4,
+  "vote_count": 15,
+  "external_ids": {
+    "id": 89491,
+    "imdb_id": "tt8305258",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352768,
+    "tvrage_id": null,
+    "wikidata_id": "Q55391147",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

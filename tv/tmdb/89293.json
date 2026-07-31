@@ -1,0 +1,841 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1948-01-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.bambi.de/",
+  "id": 89293,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2025-11-14",
+  "last_episode_to_air": {
+    "id": 6682493,
+    "name": "Bambi 2025",
+    "overview": "On November 13, 2025, the time has come once again: the BAMBI, Germany’s most prestigious media award, will be presented for the 77th time – to people who shape our times. People who inspire hope, give courage, and enrich and advance our society through their creativity, dedication, and humanity.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-11-14",
+    "episode_number": 1,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 74,
+    "show_id": 89293,
+    "still_path": "/lsKY4K05QqDFouQaQWOl9dgh76O.jpg"
+  },
+  "name": "Bambi",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    },
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 74,
+  "number_of_seasons": 74,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Bambi",
+  "overview": "The Bambi, often called the Bambi Award and stylised as BAMBI, is a German award presented annually by Hubert Burda Media to recognize excellence in international media and television to personalities in the media, arts, culture, sports, and other fields \"with vision and creativity who affected and inspired the German public that year\", both domestic and foreign. First held in 1948, it is the oldest media award in Germany. The trophy is named after Felix Salten's book Bambi, A Life in the Woods and its statuettes are in the shape of the novel's titular fawn character. They were originally made of porcelain until 1958, when the organizers switched to using gold, with the casting done by the art casting workshop of Ernst Strassacker in Süßen.",
+  "popularity": 22.9723,
+  "poster_path": "/7Bc1fE5mKIYmhhgl0fVcw3nvDra.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1948-01-01",
+      "episode_count": 1,
+      "id": 124016,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "1949-01-01",
+      "episode_count": 1,
+      "id": 472411,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1950-01-01",
+      "episode_count": 1,
+      "id": 472412,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1951-01-01",
+      "episode_count": 1,
+      "id": 472413,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1952-01-01",
+      "episode_count": 1,
+      "id": 472414,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1953-12-27",
+      "episode_count": 1,
+      "id": 472415,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-03-06",
+      "episode_count": 1,
+      "id": 472416,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-03-18",
+      "episode_count": 1,
+      "id": 472417,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-03-17",
+      "episode_count": 1,
+      "id": 472418,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-03-16",
+      "episode_count": 1,
+      "id": 472419,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-03-15",
+      "episode_count": 1,
+      "id": 472420,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-03-27",
+      "episode_count": 1,
+      "id": 472421,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-04-23",
+      "episode_count": 1,
+      "id": 472422,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-05-13",
+      "episode_count": 1,
+      "id": 472423,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-04-28",
+      "episode_count": 1,
+      "id": 472424,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-04-19",
+      "episode_count": 1,
+      "id": 472425,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-05-09",
+      "episode_count": 1,
+      "id": 472426,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-01-21",
+      "episode_count": 1,
+      "id": 472427,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-01-19",
+      "episode_count": 1,
+      "id": 472428,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-24",
+      "episode_count": 1,
+      "id": 472429,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-02-18",
+      "episode_count": 1,
+      "id": 472430,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-02-11",
+      "episode_count": 1,
+      "id": 472431,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-03-25",
+      "episode_count": 1,
+      "id": 472432,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-04-13",
+      "episode_count": 1,
+      "id": 472433,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-03-02",
+      "episode_count": 1,
+      "id": 472434,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-17",
+      "episode_count": 1,
+      "id": 472435,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-16",
+      "episode_count": 1,
+      "id": 472436,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-14",
+      "episode_count": 1,
+      "id": 472437,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-02-17",
+      "episode_count": 1,
+      "id": 472438,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-19",
+      "episode_count": 1,
+      "id": 472439,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-03-12",
+      "episode_count": 1,
+      "id": 472440,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-04-03",
+      "episode_count": 1,
+      "id": 472441,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-03-26",
+      "episode_count": 1,
+      "id": 472442,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-04-15",
+      "episode_count": 1,
+      "id": 472443,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-05-19",
+      "episode_count": 1,
+      "id": 472444,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-12-20",
+      "episode_count": 1,
+      "id": 472445,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-12-13",
+      "episode_count": 1,
+      "id": 472447,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-11-01",
+      "episode_count": 1,
+      "id": 472448,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-12-10",
+      "episode_count": 1,
+      "id": 472449,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-12-15",
+      "episode_count": 1,
+      "id": 472450,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-12-14",
+      "episode_count": 1,
+      "id": 472451,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-11-27",
+      "episode_count": 1,
+      "id": 472453,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-12-12",
+      "episode_count": 1,
+      "id": 472454,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-12-10",
+      "episode_count": 1,
+      "id": 472455,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-12-09",
+      "episode_count": 1,
+      "id": 472456,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-11-13",
+      "episode_count": 1,
+      "id": 472457,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-11-18",
+      "episode_count": 1,
+      "id": 472458,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-27",
+      "episode_count": 1,
+      "id": 472459,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-10-25",
+      "episode_count": 1,
+      "id": 472460,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-11-07",
+      "episode_count": 1,
+      "id": 472461,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-11-13",
+      "episode_count": 1,
+      "id": 472462,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-12-08",
+      "episode_count": 1,
+      "id": 472463,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-11-15",
+      "episode_count": 1,
+      "id": 472464,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-11-21",
+      "episode_count": 1,
+      "id": 472465,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-11-27",
+      "episode_count": 1,
+      "id": 472466,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-11-18",
+      "episode_count": 1,
+      "id": 472467,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-12-01",
+      "episode_count": 1,
+      "id": 472468,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-11-30",
+      "episode_count": 1,
+      "id": 472469,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-11-29",
+      "episode_count": 1,
+      "id": 472470,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-11-27",
+      "episode_count": 1,
+      "id": 472471,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-26",
+      "episode_count": 1,
+      "id": 472472,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-11-11",
+      "episode_count": 1,
+      "id": 472473,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-11-10",
+      "episode_count": 1,
+      "id": 472474,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-11-22",
+      "episode_count": 1,
+      "id": 472475,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-11-14",
+      "episode_count": 1,
+      "id": 472476,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-11-13",
+      "episode_count": 1,
+      "id": 472477,
+      "name": "Season 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-12",
+      "episode_count": 1,
+      "id": 472478,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-11-17",
+      "episode_count": 1,
+      "id": 472479,
+      "name": "Season 68",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-16",
+      "episode_count": 1,
+      "id": 472480,
+      "name": "Season 69",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-16",
+      "episode_count": 1,
+      "id": 472482,
+      "name": "Season 70",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-21",
+      "episode_count": 1,
+      "id": 472484,
+      "name": "Season 71",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-16",
+      "episode_count": 1,
+      "id": 472485,
+      "name": "Season 72",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-11-07",
+      "episode_count": 1,
+      "id": 472486,
+      "name": "Season 73",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-14",
+      "episode_count": 1,
+      "id": 484702,
+      "name": "Season 74",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 89293,
+    "imdb_id": null,
+    "freebase_mid": "/m/08whn_",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q630018",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

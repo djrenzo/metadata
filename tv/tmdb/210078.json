@@ -1,0 +1,144 @@
+{
+  "adult": false,
+  "backdrop_path": "/17CJzNN1gEeqTvznJFMdYdmvqIg.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "2022-09-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/stat/site",
+  "id": 210078,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-04-07",
+  "last_episode_to_air": {
+    "id": 6956491,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-07",
+    "episode_number": 24,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 4,
+    "show_id": 210078,
+    "still_path": null
+  },
+  "name": "STAT",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 379,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "STAT",
+  "overview": "The daily lives of the personnel of the St-Vincent hospital in Montréal.",
+  "popularity": 21.559,
+  "poster_path": "/i8t2DQVBv7rfJeUerVSIWGyMLqw.jpg",
+  "production_companies": [
+    {
+      "id": 68120,
+      "logo_path": "/cd63bYczHLOooHLppy4WgGGlYan.png",
+      "name": "Aetios Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 70020,
+      "logo_path": "/5NBP5FL6QeA4Lq5LTEZ6V0leiKc.png",
+      "name": "A Média",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 116,
+      "id": 308380,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xEQJSedOA4FGaOGU9elsAYkemhB.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 120,
+      "id": 354641,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/sTG8eIHxpD4T85UrECx6SLYPE17.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 119,
+      "id": 406259,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/4WYRAJQggPMpsZTBtj6C4CQx0JO.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-07",
+      "episode_count": 24,
+      "id": 447723,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/xJ3JmNN4bnoIaI6fBRZ0jQyIFjA.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.909,
+  "vote_count": 11,
+  "external_ids": {
+    "id": 210078,
+    "imdb_id": "tt22037002",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 422248,
+    "tvrage_id": null,
+    "wikidata_id": "Q113380411",
+    "facebook_id": "ICIStat",
+    "instagram_id": "ici.stat",
+    "twitter_id": null
+  }
+}

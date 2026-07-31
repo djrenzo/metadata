@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/cl8NLaoztP877hTSYSy6YIUkChF.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2022-09-26",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.goplay.be/now-what",
+  "id": 210855,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2022-12-24",
+  "last_episode_to_air": {
+    "id": 4013886,
+    "name": "Episode 90",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-12-24",
+    "episode_number": 90,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 210855,
+    "still_path": null
+  },
+  "name": "NOW WHAT",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5708,
+      "logo_path": "/lirjOZ1woSOscxN77GXYqGxyua0.png",
+      "name": "Play (Online)",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 90,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "NOW WHAT",
+  "overview": "7 young people co-house in Antwerp. They are all at the beginning of their adult life and have to decide what that should look like.",
+  "popularity": 40.1708,
+  "poster_path": "/89kiLK0S7Rbfjorvhm0vxTAgAH3.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-09-26",
+      "episode_count": 90,
+      "id": 309846,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/vZasyPqwjKOyG2fjEkySRsDRJR1.jpg",
+      "season_number": 1,
+      "vote_average": 2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 3.6,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 210855,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "nowwhat.be",
+    "twitter_id": null
+  }
+}

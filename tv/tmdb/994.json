@@ -1,0 +1,249 @@
+{
+  "adult": false,
+  "backdrop_path": "/6x0qhCN23KE2NMOvMLVxFWYlsDd.jpg",
+  "created_by": [
+    {
+      "id": 1221609,
+      "credit_id": "567f7cb39251417def00c285",
+      "name": "Peter Moser",
+      "original_name": "Peter Moser",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1186020,
+      "credit_id": "567f7ca69251414f63004f6e",
+      "name": "Peter Hajek",
+      "original_name": "Peter Hajek",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1994-11-10",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 994,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2004-10-19",
+  "last_episode_to_air": {
+    "id": 52875,
+    "name": "Doping",
+    "overview": "",
+    "vote_average": 6,
+    "vote_count": 2,
+    "air_date": "2004-10-19",
+    "episode_number": 4,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 10,
+    "show_id": 994,
+    "still_path": "/tmhdV3ixCAmEhZWtfa1Z4JUfa5Z.jpg"
+  },
+  "name": "Inspector Rex",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 189,
+      "logo_path": "/k1poBlW9HGDnIyZU67BtH3BXQuz.png",
+      "name": "ORF 1",
+      "origin_country": "AT"
+    }
+  ],
+  "number_of_episodes": 119,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_name": "Kommissar Rex",
+  "overview": "After his handler is killed, police dog Rex teams up with recently-divorced inspector Richard Moser to investigate crimes and solve mysteries on the streets of Vienna. And they sometimes get help from their two-legged friend, Inspector Stockinger.",
+  "popularity": 22.0817,
+  "poster_path": "/tCzMaMoOdA1cPzV3Ll32ftg3EVO.jpg",
+  "production_companies": [
+    {
+      "id": 29801,
+      "logo_path": null,
+      "name": "Mungo Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3391,
+      "logo_path": "/t0QBs2fI3mE3HxgoH1n39bYuzNu.png",
+      "name": "ORF",
+      "origin_country": "AT"
+    },
+    {
+      "id": 1478,
+      "logo_path": "/plHEkpGkULYqiLRpYsUak8uYmhU.png",
+      "name": "Sat.1",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-11-10",
+      "episode_count": 14,
+      "id": 2834,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tcF7KXKOjEcSdHMAzrgPGyJyhTA.jpg",
+      "season_number": 1,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "1995-10-19",
+      "episode_count": 15,
+      "id": 2835,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4oPDIKwYIsqJbaaQdkjCkL8WgFm.jpg",
+      "season_number": 2,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "1996-10-24",
+      "episode_count": 12,
+      "id": 2836,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/umkdM0koN6QzGvQGbd198dZOY2L.jpg",
+      "season_number": 3,
+      "vote_average": 4.8
+    },
+    {
+      "air_date": "1998-01-08",
+      "episode_count": 13,
+      "id": 2837,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wNnJEsP8mmdM6NO4hbebd9ymI1i.jpg",
+      "season_number": 4,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "1999-01-28",
+      "episode_count": 13,
+      "id": 2838,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/rkRsRl0JH7nHLso12bZpHrd99xN.jpg",
+      "season_number": 5,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2000-02-16",
+      "episode_count": 12,
+      "id": 2839,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/myu32PK2F5uQI1ighlbORjkjjUa.jpg",
+      "season_number": 6,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "2001-03-28",
+      "episode_count": 10,
+      "id": 2840,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/dnX9Isdtytpnz7E8c6I2CJs6wEd.jpg",
+      "season_number": 7,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "2002-10-09",
+      "episode_count": 13,
+      "id": 2841,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/2BVWxpwsOqCmyfPOu3rQCDE03ml.jpg",
+      "season_number": 8,
+      "vote_average": 3.8
+    },
+    {
+      "air_date": "2003-11-27",
+      "episode_count": 13,
+      "id": 2842,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/r7WEBuL4RWqG9EID9RcErgVPbSb.jpg",
+      "season_number": 9,
+      "vote_average": 3.8
+    },
+    {
+      "air_date": "2004-09-28",
+      "episode_count": 4,
+      "id": 2843,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/uItnarq4ksKz6QRr0KOJ0VJSm40.jpg",
+      "season_number": 10,
+      "vote_average": 4.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A rare hound, no bones about it!",
+  "type": "Scripted",
+  "vote_average": 7.192,
+  "vote_count": 291,
+  "external_ids": {
+    "id": 994,
+    "imdb_id": "tt0108829",
+    "freebase_mid": "/m/02jjxm",
+    "freebase_id": "/en/kommissar_rex",
+    "tvdb_id": 80840,
+    "tvrage_id": 8190,
+    "wikidata_id": "Q500032",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

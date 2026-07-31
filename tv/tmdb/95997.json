@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/qZG6U9k6wcApeEe2N17xLd4uZF6.jpg",
+  "created_by": [
+    {
+      "id": 1257374,
+      "credit_id": "5de28da0c51acd0011f84d86",
+      "name": "Íris Abravanel",
+      "original_name": "Íris Abravanel",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 110142,
+      "credit_id": "617ff600d236e6009028f15b",
+      "name": "Eleanor H. Porter",
+      "original_name": "Eleanor H. Porter",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2018-05-16",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://sbt.com.br",
+  "id": 95997,
+  "in_production": false,
+  "languages": [
+    "es",
+    "pt"
+  ],
+  "last_air_date": "2020-07-13",
+  "last_episode_to_air": {
+    "id": 6908436,
+    "name": "Episode 564",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-07-13",
+    "episode_number": 564,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 39,
+    "season_number": 1,
+    "show_id": 95997,
+    "still_path": null
+  },
+  "name": "The Adventures of Pollyanna",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 128,
+      "logo_path": "/jQ6pbmLCO2mheofZJPPByy7Wozq.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 564,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "As Aventuras de Poliana",
+  "overview": "After her father's death, Pollyanna is sent to live with her rich and authoritative aunt, Pollyanna now has to adapt to a new life by playing the glad game and venturing into new experiences",
+  "popularity": 20.4641,
+  "poster_path": "/162Z6c7TjBF78LnLYFKqNEZ3ov9.jpg",
+  "production_companies": [
+    {
+      "id": 40992,
+      "logo_path": "/72MOBef2ZwKXLS6sI5XPKMz6Pu1.png",
+      "name": "SBT",
+      "origin_country": "BR"
+    },
+    {
+      "id": 139958,
+      "logo_path": "/rKnRMd6HsVoyCnMVGuyFQnXcrzr.png",
+      "name": "Cintra Produções",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-05-16",
+      "episode_count": 564,
+      "id": 136886,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/162Z6c7TjBF78LnLYFKqNEZ3ov9.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Let's play the glad game!",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 95997,
+    "imdb_id": "tt8430062",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 341341,
+    "tvrage_id": null,
+    "wikidata_id": "Q52646890",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

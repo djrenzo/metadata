@@ -1,0 +1,233 @@
+{
+  "adult": false,
+  "backdrop_path": "/uEPbIAmsZENHL5B50WNYSyItFjf.jpg",
+  "created_by": [
+    {
+      "id": 92517,
+      "credit_id": "5253365719c29579400412bd",
+      "name": "Valerie Walsh",
+      "original_name": "Valerie Walsh",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1212785,
+      "credit_id": "5253365719c29579400412c3",
+      "name": "Eric Weiner",
+      "original_name": "Eric Weiner",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1212792,
+      "credit_id": "5253365819c29579400412cb",
+      "name": "Chris Gifford",
+      "original_name": "Chris Gifford",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2000-08-14",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.nickjr.com/dora-the-explorer",
+  "id": 79,
+  "in_production": false,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "last_air_date": "2019-08-09",
+  "last_episode_to_air": {
+    "id": 1179557,
+    "name": "Let's Go to Music School",
+    "overview": "Dora, Emma and Kate help Gus the Bus take all of the instruments to the kids at Music School.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-08-09",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "817",
+    "runtime": 23,
+    "season_number": 8,
+    "show_id": 79,
+    "still_path": "/8mP3hSahFbMNLNoUBQVHytix7g.jpg"
+  },
+  "name": "Dora the Explorer",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 177,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dora the Explorer",
+  "overview": "A young girl named Dora goes on adventures with her red boot-wearing monkey named Boots.",
+  "popularity": 22.2706,
+  "poster_path": "/iaJNOSpEQgU4yePsbcC6yxneRNF.jpg",
+  "production_companies": [
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 139142,
+      "logo_path": "/lnM0dImZZZ2jgo6YWjRQ3n9pLaU.png",
+      "name": "Nick Jr. Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-08-14",
+      "episode_count": 25,
+      "id": 217,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/e9UWGlDTUhYOrMyLXm0Pk9uYXOz.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2002-02-13",
+      "episode_count": 26,
+      "id": 218,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/AhE3dwkDxNjpQ788I3BYQM7WAMd.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2003-10-06",
+      "episode_count": 21,
+      "id": 219,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/myMAAAAfuWSNV6Y6wJyzCciZKSf.jpg",
+      "season_number": 3,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2004-09-24",
+      "episode_count": 27,
+      "id": 220,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/i81IBme72GFz8sCIT8lfo6Bkwst.jpg",
+      "season_number": 4,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2008-09-15",
+      "episode_count": 22,
+      "id": 221,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/txq7ze64FHwouh5UGBGD2p6si1I.jpg",
+      "season_number": 5,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2010-11-05",
+      "episode_count": 18,
+      "id": 223,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/yIgv1dTi0Vko1SnC3YwaMaEZcOq.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-16",
+      "episode_count": 19,
+      "id": 224,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/pt1v4p72x3CZgyGYGGNa7vjEI9D.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-03-18",
+      "episode_count": 20,
+      "id": 225,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/wonJq9oSH39hz1r6xgFkqEqaQEM.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.3,
+  "vote_count": 346,
+  "external_ids": {
+    "id": 79,
+    "imdb_id": "tt0235917",
+    "freebase_mid": "/m/01z_mj",
+    "freebase_id": "/en/dora_the_explorer",
+    "tvdb_id": 74697,
+    "tvrage_id": 3348,
+    "wikidata_id": "Q331031",
+    "facebook_id": "DoraTheExplorer",
+    "instagram_id": null,
+    "twitter_id": "doratheexplorer"
+  }
+}

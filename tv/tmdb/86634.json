@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/uGUCnwNlidDwhnP4FReWjP0mjBW.jpg",
+  "created_by": [
+    {
+      "id": 2301483,
+      "credit_id": "65a4f5cb6476540125d6e69d",
+      "name": "Prateek Sharma",
+      "original_name": "Prateek Sharma",
+      "gender": 2,
+      "profile_path": "/tMQYpzu2ZqNAQ7x4y2gmrfxazpI.jpg"
+    },
+    {
+      "id": 5850704,
+      "credit_id": "692e48d21a523f840ae33d8f",
+      "name": "Avhiroop Mazzumdar",
+      "original_name": "Avhiroop Mazzumdar",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2018-11-27",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 86634,
+  "in_production": false,
+  "languages": [],
+  "last_air_date": "2020-07-22",
+  "last_episode_to_air": {
+    "id": 5076593,
+    "name": "Episode 361",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-07-22",
+    "episode_number": 361,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 86634,
+    "still_path": null
+  },
+  "name": "Manmohini",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 526,
+      "logo_path": "/a9g7n8Frkiaaf5olShkyhHTk6bC.png",
+      "name": "Zee TV",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 361,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "Manmohini",
+  "overview": "The life of Ram and Siya, a newly married couple, takes a horrifying twist when they encounter Manmohini, a witch waiting for over 500 years to reunite with her lover.",
+  "popularity": 41.126,
+  "poster_path": "/hEsvlpa91dZGFGZ1QcEXxlAxcLD.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-11-27",
+      "episode_count": 361,
+      "id": 118483,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 2,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 86634,
+    "imdb_id": "tt9209760",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q59310596",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

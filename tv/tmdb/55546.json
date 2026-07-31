@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": "/ekn5C01gRQYwPC69LU7XlXk1EXA.jpg",
+  "created_by": [
+    {
+      "id": 3129745,
+      "credit_id": "68ef5139ec9f4c64ea4add86",
+      "name": "Bruno Wyndaele",
+      "original_name": "Bruno Wyndaele",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    61
+  ],
+  "first_air_date": "2003-09-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.play.tv/de-slimste-mens-ter-wereld",
+  "id": 55546,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2025-12-18",
+  "last_episode_to_air": {
+    "id": 6544595,
+    "name": "De finale dag",
+    "overview": "Contestant: Felix Heremans. In the jury: Bart Cannaerts and Soundos El Ahmadi.",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2025-12-18",
+    "episode_number": 40,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 71,
+    "season_number": 23,
+    "show_id": 55546,
+    "still_path": "/eEcq8HJghnbpG9tsGgYpZMEmxTi.jpg"
+  },
+  "name": "De Slimste Mens ter Wereld",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1028,
+      "logo_path": "/nlcRu8gGckTe83evTTtwbM3SCYz.png",
+      "name": "VRT 1",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1039,
+      "logo_path": "/lirjOZ1woSOscxN77GXYqGxyua0.png",
+      "name": "Play",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 841,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_name": "De Slimste Mens ter Wereld",
+  "overview": "Do we still sing the praises of folly like Erasmus, or is it trendy again to be smart? And if so, who is the smartest? Who can talk about the medals won at the Olympic Games in London, but at the same time knows who Captain Haddock is? Who knows whether Lacan was a hair growth product or a psychoanalyst and can also program their own digital television? Who has déjà vu when leafing through the Encyclopedia Britannica and when reading the interviews with the new Miss Waregem Koerse?  Who, oh who, is the smartest person in Flanders, Belgium, Europe, and by extension, the world? That is determined by a fierce battle between three fellow human beings. Every day, someone is eliminated, someone who may not be the smartest, but who is perhaps cherished in their family circle because of their many other talents. The others advance and are joined by a new challenger every day.",
+  "popularity": 21.5513,
+  "poster_path": "/7UdVk8oKB3TbBDGRlB0dSzVyf8F.jpg",
+  "production_companies": [
+    {
+      "id": 5547,
+      "logo_path": "/tKEYVVxjxFa0GVDPIQP4nrh7ZOS.png",
+      "name": "Woestijnvis",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-10-14",
+      "episode_count": 1,
+      "id": 216239,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 28,
+      "id": 215728,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-04-12",
+      "episode_count": 32,
+      "id": 215729,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 36,
+      "id": 215732,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 32,
+      "id": 215734,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-12-11",
+      "episode_count": 32,
+      "id": 215735,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-01",
+      "episode_count": 32,
+      "id": 215736,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-12-08",
+      "episode_count": 34,
+      "id": 215737,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-12-07",
+      "episode_count": 30,
+      "id": 215738,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-12-06",
+      "episode_count": 32,
+      "id": 215739,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-17",
+      "episode_count": 40,
+      "id": 57555,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/wFI2mh7YNnhH2uO7A6YZ2hqmMrC.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 36,
+      "id": 57556,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-14",
+      "episode_count": 39,
+      "id": 81974,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-12",
+      "episode_count": 40,
+      "id": 81975,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/jPJCDFusntGqeAyDwapntHkoUCE.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-17",
+      "episode_count": 40,
+      "id": 81970,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/mPui9Ds308LX00YoCfiSxEcZBTZ.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-16",
+      "episode_count": 40,
+      "id": 142849,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/i5hLG8sjPyiPROLAns5PMWXw6vM.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-15",
+      "episode_count": 38,
+      "id": 142850,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/xz5pJQFvKXz2I4w9dTZBem3knEq.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-14",
+      "episode_count": 40,
+      "id": 137276,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/hoJpoQ8gJhlH1YoXviYq9XEdBom.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-12",
+      "episode_count": 40,
+      "id": 168084,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/d7p5EFN1QRtpeCfVf2MmbOTKUg8.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-18",
+      "episode_count": 40,
+      "id": 194719,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/r7MG3vnT7G8hLnqXBRnxoruZCCj.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-05",
+      "episode_count": 40,
+      "id": 215733,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/zTH2NioaWJ7TnE9XqXVQ6MuhPu1.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-16",
+      "episode_count": 40,
+      "id": 325236,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/7UdVk8oKB3TbBDGRlB0dSzVyf8F.jpg",
+      "season_number": 21,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-10-14",
+      "episode_count": 40,
+      "id": 374920,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/pX2BG8YhB0mcLawqWF0AbBrQmC6.jpg",
+      "season_number": 22,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2025-10-13",
+      "episode_count": 40,
+      "id": 469567,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/jNs4TJQOubkcbH3ncdxXWj1xL5B.jpg",
+      "season_number": 23,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 532023,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.714,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 55546,
+    "imdb_id": "tt0403806",
+    "freebase_mid": "/m/0w6vst3",
+    "freebase_id": null,
+    "tvdb_id": 84726,
+    "tvrage_id": null,
+    "wikidata_id": "Q2493371",
+    "facebook_id": "deslimstemensterwereld",
+    "instagram_id": "deslimstemensterwereld",
+    "twitter_id": "dsmtw"
+  }
+}

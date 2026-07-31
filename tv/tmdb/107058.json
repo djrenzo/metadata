@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1246075,
+      "credit_id": "62769861176a940065e63a76",
+      "name": "Enrique Torres",
+      "original_name": "Enrique Torres",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1703573,
+      "credit_id": "6276986e03bf840050a5a8c1",
+      "name": "Nicolás del Boca",
+      "original_name": "Nicolás del Boca",
+      "gender": 2,
+      "profile_path": "/29QTCqEfgdUujON2IwfPkVAX6UI.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1991-03-08",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 107058,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1991-10-24",
+  "last_episode_to_air": {
+    "id": 3724107,
+    "name": "Episode 165",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1991-10-24",
+    "episode_number": 165,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 107058,
+    "still_path": null
+  },
+  "name": "Antonella",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 368,
+      "logo_path": "/j8Sb3Y5vo3wfOjMExmxLF08mLwX.png",
+      "name": "eltrece",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 165,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Antonella",
+  "overview": "The story stars Antonella (Andrea Del Boca), a young woman who wants to be an actress. Working as an entertainer for children's parties, characterizing the clown Plin-Plin, she meets Nicolás (Gustavo Bermúdez) who is actually her sister Natalia's lover. Before long, Natalia appears dead. Although it is believed that it was a suicide, Antonella thinks that he murdered her, and seeking revenge, he infiltrates the world of high society.",
+  "popularity": 35.7271,
+  "poster_path": "/gSDTIJdJqIF57Ey0RQq1mGbpnaV.jpg",
+  "production_companies": [
+    {
+      "id": 121248,
+      "logo_path": null,
+      "name": "Eltrece",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-03-08",
+      "episode_count": 165,
+      "id": 158277,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 107058,
+    "imdb_id": "tt0199182",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q1973826",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

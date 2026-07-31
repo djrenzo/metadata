@@ -1,0 +1,149 @@
+{
+  "adult": false,
+  "backdrop_path": "/rHgGQKEU99prngLQDhytYBvPMC4.jpg",
+  "created_by": [
+    {
+      "id": 1889131,
+      "credit_id": "629257bac390c5009b1ab93c",
+      "name": "Maria João Mira",
+      "original_name": "Maria João Mira",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3303527,
+      "credit_id": "63605415efd3c2007f029d96",
+      "name": "André Ramalho",
+      "original_name": "André Ramalho",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2015-03-15",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "http://www.tvi.iol.pt/aunicamulher",
+  "id": 93393,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2017-01-06",
+  "last_episode_to_air": {
+    "id": 4661041,
+    "name": "Episode 198",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-01-06",
+    "episode_number": 198,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 93393,
+    "still_path": null
+  },
+  "name": "A Única Mulher",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 588,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "A Única Mulher",
+  "overview": "",
+  "popularity": 20.3219,
+  "poster_path": "/7lDO72HbZHMnd3YH1QwOLpocSZO.jpg",
+  "production_companies": [
+    {
+      "id": 8863,
+      "logo_path": "/11x9eeGVBxcAraFfgwt5Hb1Z3Ms.png",
+      "name": "Plural Entertainment",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-03-15",
+      "episode_count": 200,
+      "id": 131953,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-19",
+      "episode_count": 190,
+      "id": 141329,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-05-02",
+      "episode_count": 198,
+      "id": 168014,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.429,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 93393,
+    "imdb_id": "tt4289556",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 293359,
+    "tvrage_id": null,
+    "wikidata_id": "Q19607135",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/ylaL4BnrYpxBjw5TU9jEVs05QXA.jpg",
+  "created_by": [
+    {
+      "id": 2164399,
+      "credit_id": "5bd7bd1b0e0a262ca70027ca",
+      "name": "Alejandro Cabrera",
+      "original_name": "Alejandro Cabrera",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2018-10-02",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 83577,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2019-09-04",
+  "last_episode_to_air": {
+    "id": 1918537,
+    "name": "Episode 233",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-09-04",
+    "episode_number": 233,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 83577,
+    "still_path": null
+  },
+  "name": "Isla Paraíso",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 646,
+      "logo_path": "/eF0EV1F9h3b1A55ZdPOkXPVWu31.png",
+      "name": "Mega",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 233,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "Isla Paraíso",
+  "overview": "The tranquility of an island where only men live, will be interrupted by the unexpected arrival of a group of women.",
+  "popularity": 37.8953,
+  "poster_path": "/n1EXjvuYwOIYCYvllZhX4Uk4xPm.jpg",
+  "production_companies": [
+    {
+      "id": 73521,
+      "logo_path": "/k9G99i7abke0jyI4iw5uKW3uvAE.png",
+      "name": "Megamedia",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-10-02",
+      "episode_count": 233,
+      "id": 111718,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 83577,
+    "imdb_id": "tt9367590",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q56878174",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

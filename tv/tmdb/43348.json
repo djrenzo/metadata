@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
+  "created_by": [
+    {
+      "id": 1028305,
+      "credit_id": "67b91036030411c55cf3d0fa",
+      "name": "Carlos Moreno",
+      "original_name": "Carlos Moreno",
+      "gender": 2,
+      "profile_path": "/2N37bOdaq3s8dOZ4682jQSB3mMK.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2012-05-28",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 43348,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2012-11-19",
+  "last_episode_to_air": {
+    "id": 887751,
+    "name": "The death of Pablo Escobar",
+    "overview": "The most wanted drug trafficker in Colombia is finally cornered by the authorities and is killed on the roof of his hideout in Medellín.",
+    "vote_average": 8,
+    "vote_count": 3,
+    "air_date": "2012-11-19",
+    "episode_number": 113,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 43348,
+    "still_path": "/5bG8FLAQQBzoVGK2EL7KOVjLvw7.jpg"
+  },
+  "name": "Pablo Escobar: The Drug Lord",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 500,
+      "logo_path": "/6lbu3Xq8ZsTMrS0AnPfMtPhjxQk.png",
+      "name": "Caracol TV",
+      "origin_country": "CO"
+    }
+  ],
+  "number_of_episodes": 113,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_name": "Pablo Escobar: El Patrón del Mal",
+  "overview": "Pablo is a man with a natural ability for business. Early in his life, Pablo is introduced to the business of cocaine and the power it yields. A young life of crime lands Pablo in and out of jail as he builds his criminal empire. Pablo expands his power through politics but it is not long before his conflicts as a Congressman and a drug lord collide. Pablo has his enemies executed, but not before the United States activates its own war on the Medellin cartel.",
+  "popularity": 21.8323,
+  "poster_path": "/5u02bo70uzUFpEV9Pd0lFkLA9Es.jpg",
+  "production_companies": [
+    {
+      "id": 2586,
+      "logo_path": "/2fGXyHUZoNTLwrXOf6GImFYHeq4.png",
+      "name": "Caracol Televisión",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-05-28",
+      "episode_count": 113,
+      "id": 52804,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tMdTMtjmzlpgp95nptBbZOJjNxN.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.648,
+  "vote_count": 3721,
+  "external_ids": {
+    "id": 43348,
+    "imdb_id": "tt2187850",
+    "freebase_mid": "/m/0jwsj61",
+    "freebase_id": null,
+    "tvdb_id": 259730,
+    "tvrage_id": null,
+    "wikidata_id": "Q172426",
+    "facebook_id": "EscobarElPatronDelMal",
+    "instagram_id": null,
+    "twitter_id": "escobarelpatron"
+  }
+}

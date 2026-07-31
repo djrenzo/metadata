@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+  "created_by": [
+    {
+      "id": 1217426,
+      "credit_id": "5253812019c29579401d1cca",
+      "name": "Craig Bartlett",
+      "original_name": "Craig Bartlett",
+      "gender": 2,
+      "profile_path": "/druuzzORnUfQ5yrUCMtiTLetNls.jpg"
+    }
+  ],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "1996-10-07",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 537,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2004-06-08",
+  "last_episode_to_air": {
+    "id": 1269318,
+    "name": "Grandpa's Packard",
+    "overview": "Grandpa's Packard is stolen from an antique car show.",
+    "vote_average": 6,
+    "vote_count": 1,
+    "air_date": "2004-06-08",
+    "episode_number": 42,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 5,
+    "show_id": 537,
+    "still_path": "/fq6ncV8QsI84lKXSAsAwiffhoV9.jpg"
+  },
+  "name": "Hey Arnold!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 13,
+      "logo_path": "/i0e7qsKhCcB6EJy0qvjhnFB2lgp.png",
+      "name": "Nickelodeon",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 186,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Hey Arnold!",
+  "overview": "The daily life of Arnold--a fourth-grader with a wild imagination, street smarts and a head shaped like a football.",
+  "popularity": 24.0543,
+  "poster_path": "/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
+  "production_companies": [
+    {
+      "id": 67244,
+      "logo_path": "/7CDszOwgCgGaMTGrdT79XDV60VI.png",
+      "name": "Snee-Oosh Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 67246,
+      "logo_path": null,
+      "name": "Nubian Nights Worldwide",
+      "origin_country": ""
+    },
+    {
+      "id": 65799,
+      "logo_path": null,
+      "name": "Games Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/7EFsFPaWY5DFn8s9rz2ORHxAw0y.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4859,
+      "logo_path": "/wOF6aAYFE5BQryYyaMdQPqUWYwt.png",
+      "name": "Nickelodeon Animation Studio",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1994-06-15",
+      "episode_count": 1,
+      "id": 1631,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/87iakKw86T4hqfojOlb8y8AzBkk.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-10-07",
+      "episode_count": 38,
+      "id": 1634,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zcLzBjoKzhQUS61UozMi8ycrZiK.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1997-09-22",
+      "episode_count": 37,
+      "id": 1632,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/gzNfCxvpcVtnd1W0wDrAfAPfbqR.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1998-08-31",
+      "episode_count": 38,
+      "id": 1635,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/qSkprGQQX5rvLR5vGC8eJf4Og3f.jpg",
+      "season_number": 3,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1999-03-10",
+      "episode_count": 31,
+      "id": 1633,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/rXIgH7AxHY6RYhEyQ9gX7QyaLV9.jpg",
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2001-03-04",
+      "episode_count": 42,
+      "id": 1636,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/wAhJxYTpnUy74klqbQ85FlTuSAG.jpg",
+      "season_number": 5,
+      "vote_average": 6.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Adventure is never more than a bus stop away.",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 988,
+  "external_ids": {
+    "id": 537,
+    "imdb_id": "tt0115200",
+    "freebase_mid": "/m/01d98n",
+    "freebase_id": "/en/hey_arnold",
+    "tvdb_id": 72005,
+    "tvrage_id": 3842,
+    "wikidata_id": "Q832054",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

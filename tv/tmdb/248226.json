@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/5ZgPQjEsJqCwRtx6vsBBISxn389.jpg",
+  "created_by": [
+    {
+      "id": 5852198,
+      "credit_id": "692f170499eb8389703ea7c4",
+      "name": "Jonathan Lee",
+      "original_name": "Jonathan Lee",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-05-18",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m0029db1",
+  "id": 248226,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-06-02",
+  "last_episode_to_air": {
+    "id": 6205986,
+    "name": "Episode 6",
+    "overview": "Over a decade after the Lockerbie bombing, following much debate and international negotiation, the accused finally stand trial.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2025-06-02",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 1,
+    "show_id": 248226,
+    "still_path": "/7eYKmBiWKIjUUsw3Kp8gr5RHFiR.jpg"
+  },
+  "name": "The Bombing of Pan Am 103",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Bombing of Pan Am 103",
+  "overview": "On December 21, 1988, Pan Am Flight 103 exploded over the small Scottish town of Lockerbie, killing 270 people. What followed was the largest murder investigation in the history of Scottish policing, into the deadliest act of terrorism on British soil.",
+  "popularity": 25.3353,
+  "poster_path": "/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+  "production_companies": [
+    {
+      "id": 10532,
+      "logo_path": "/fgnJcdnipMiexhxaWC3w14b5Nbg.png",
+      "name": "World Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 165511,
+      "logo_path": "/l2wLCCUapyE0xZsXIB4Y9Fs2OfN.png",
+      "name": "Night Train Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 186866,
+      "logo_path": "/crmJkiAcLftaxF3GoQvRHPs7gyv.png",
+      "name": "Toluca Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2230,
+      "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+      "name": "MGM Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 178464,
+      "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix",
+      "origin_country": "US"
+    },
+    {
+      "id": 47241,
+      "logo_path": "/o27eXRdHDZOHv0U4IyVudn3C26p.png",
+      "name": "Wildcard Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-05-18",
+      "episode_count": 6,
+      "id": 382308,
+      "name": "Miniseries",
+      "overview": "",
+      "poster_path": "/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+      "season_number": 1,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 7.2,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 248226,
+    "imdb_id": "tt13592494",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 456595,
+    "tvrage_id": null,
+    "wikidata_id": "Q124799074",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

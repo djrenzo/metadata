@@ -1,0 +1,172 @@
+{
+  "adult": false,
+  "backdrop_path": "/hUHO0hf8qSrfTPH0JPtnTBXyQiq.jpg",
+  "created_by": [
+    {
+      "id": 1243364,
+      "credit_id": "63489844a14bef009cba7782",
+      "name": "Giorgos Kyritsis",
+      "original_name": "Γιώργος Κυρίτσης",
+      "gender": 2,
+      "profile_path": "/kV1i7SGIKRrvUO4JCISE4ZlNZTY.jpg"
+    },
+    {
+      "id": 1243363,
+      "credit_id": "6348983b35c30a007a568ef4",
+      "name": "Elena Akrita",
+      "original_name": "Έλενα Ακρίτα",
+      "gender": 1,
+      "profile_path": "/oBIRVdOMiLB7AkOPWzGnvWMtFKv.jpg"
+    },
+    {
+      "id": 5456816,
+      "credit_id": "68305aa1a2ae0df7eb0363d1",
+      "name": "Constantine Ganosis",
+      "original_name": "Constantine Ganosis",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45,
+    80
+  ],
+  "first_air_date": "2008-09-22",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 101771,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2011-12-08",
+  "last_episode_to_air": {
+    "id": 6257520,
+    "name": "Episode 48",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2011-12-08",
+    "episode_number": 48,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 4,
+    "show_id": 101771,
+    "still_path": null
+  },
+  "name": "The secrets of Edem",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 273,
+      "logo_path": "/9BWPicebrzShoc8uJFxHLugjc5K.png",
+      "name": "Mega TV",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 625,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Τα Μυστικά Της Εδέμ",
+  "overview": "One summer six teens at a camp by the sea shout out loud their wishes at the night of the falling stars.....",
+  "popularity": 20.7653,
+  "poster_path": "/ivmgyQPL3ZBuxSFfj1501mgxsJ2.jpg",
+  "production_companies": [
+    {
+      "id": 96679,
+      "logo_path": null,
+      "name": "TVE Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-09-22",
+      "episode_count": 199,
+      "id": 147598,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-20",
+      "episode_count": 197,
+      "id": 218163,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-19",
+      "episode_count": 181,
+      "id": 424540,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-03",
+      "episode_count": 48,
+      "id": 457840,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.7,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 101771,
+    "imdb_id": "tt1296525",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 349677,
+    "tvrage_id": null,
+    "wikidata_id": "Q16331122",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

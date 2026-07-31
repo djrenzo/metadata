@@ -1,0 +1,269 @@
+{
+  "adult": false,
+  "backdrop_path": "/3CLG1bMLBbTgYO78Hx88g4sDTDu.jpg",
+  "created_by": [
+    {
+      "id": 1090634,
+      "credit_id": "538a6d340e0a2605ee000a81",
+      "name": "Oliver Mielke",
+      "original_name": "Oliver Mielke",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1391204,
+      "credit_id": "56d4acb1c3a3681e3901505a",
+      "name": "Philip Kaetner",
+      "original_name": "Philip Kaetner",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2011-11-02",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.daserste.de/unterhaltung/serie/hubert-und-staller/index.html",
+  "id": 53193,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-02-24",
+  "last_episode_to_air": {
+    "id": 6639556,
+    "name": "Zimmer ohne Aussicht",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-02-24",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 13,
+    "show_id": 53193,
+    "still_path": null
+  },
+  "name": "Hubert ohne Staller",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2458,
+      "logo_path": "/rUlEMYRrILTOk74j0amBP22DDxM.png",
+      "name": "ATV",
+      "origin_country": "AT"
+    },
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 198,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Hubert ohne Staller",
+  "overview": "A show about two Bavarian police officers, Franz Hubert and Johannes Staller, who sometimes work a bit differently. Where Franz wants to follow regulations, Johannes likes to do things his own way.",
+  "popularity": 22.725,
+  "poster_path": "/4zMLHamR1vQivmZvGwmGwwjzns0.jpg",
+  "production_companies": [
+    {
+      "id": 1469,
+      "logo_path": "/AwbErjR0AMpVnN9PbdHiBB3g3q0.png",
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-11-18",
+      "episode_count": 5,
+      "id": 75029,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-11-02",
+      "episode_count": 16,
+      "id": 56313,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/l2D7MTXGHKTD3XRKPKnutTRmGFi.jpg",
+      "season_number": 1,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2012-09-19",
+      "episode_count": 16,
+      "id": 56314,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/bl8k5y5amvIGaN5CWn0cpXcrBB5.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2013-11-06",
+      "episode_count": 18,
+      "id": 60905,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/uzk71I2poqMytKUejJQmoxZYB98.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-04",
+      "episode_count": 16,
+      "id": 69440,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/8wI8WypbTWxLRgKv3DcL4k3IZcS.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-20",
+      "episode_count": 16,
+      "id": 72293,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/4AbPIVu398JtD6RdZ4EULAEcr2J.jpg",
+      "season_number": 5,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2017-03-22",
+      "episode_count": 16,
+      "id": 88374,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/yxy3pumUuLRqJDp2soSw539k4Rv.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-29",
+      "episode_count": 16,
+      "id": 94908,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/p676QY49cBPRlLKG0rCxfNodTqS.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-09",
+      "episode_count": 16,
+      "id": 115430,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/7ozFAW4w1VnYJuLhf2RGeB0d2Gv.jpg",
+      "season_number": 8,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-10-23",
+      "episode_count": 16,
+      "id": 136331,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/g3602GB0QUFRVF3KE3mnOH6IwOe.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-12",
+      "episode_count": 16,
+      "id": 239734,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/85wyzijAnSVvHnnwoSjBh8TGjiI.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-01",
+      "episode_count": 12,
+      "id": 363584,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/bVFhGKtz2yMnlaxLxrbmCoD0Q3d.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-31",
+      "episode_count": 12,
+      "id": 375690,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/xKqE2o53E8GmNnU1j2TMXW6eCUE.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-12",
+      "episode_count": 12,
+      "id": 482357,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.4,
+  "vote_count": 33,
+  "external_ids": {
+    "id": 53193,
+    "imdb_id": "tt2090883",
+    "freebase_mid": "/m/0w1_1kr",
+    "freebase_id": null,
+    "tvdb_id": 253327,
+    "tvrage_id": null,
+    "wikidata_id": "Q1601380",
+    "facebook_id": "hubertohnestaller",
+    "instagram_id": "hubertohnestaller_official",
+    "twitter_id": null
+  }
+}

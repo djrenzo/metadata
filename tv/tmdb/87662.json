@@ -1,0 +1,228 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2013-02-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://szpital.tvn.pl/",
+  "id": 87662,
+  "in_production": true,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "2019-05-29",
+  "last_episode_to_air": {
+    "id": 1793005,
+    "name": "Episode 65",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-05-29",
+    "episode_number": 65,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 13,
+    "show_id": 87662,
+    "still_path": null
+  },
+  "name": "Szpital",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 504,
+      "logo_path": "/1eFvEkm4Kyu5oArfCaGoznXUF7X.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 944,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "Szpital",
+  "overview": "",
+  "popularity": 30.8183,
+  "poster_path": "/9WAhU6NGkUF7R6ff1K4ktTC3Bz7.jpg",
+  "production_companies": [
+    {
+      "id": 5622,
+      "logo_path": "/bKcpepYRLylECRb5LVkskW0TQIX.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-02-11",
+      "episode_count": 76,
+      "id": 120585,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 73,
+      "id": 120586,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 4.5
+    },
+    {
+      "air_date": "2014-02-10",
+      "episode_count": 78,
+      "id": 120587,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 4.4
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 64,
+      "id": 120588,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 3.7
+    },
+    {
+      "air_date": "2015-02-09",
+      "episode_count": 87,
+      "id": 120589,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 3.9
+    },
+    {
+      "air_date": "2015-09-01",
+      "episode_count": 78,
+      "id": 120590,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2016-02-08",
+      "episode_count": 77,
+      "id": 120591,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 65,
+      "id": 120592,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-06",
+      "episode_count": 72,
+      "id": 120593,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 69,
+      "id": 120594,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-12",
+      "episode_count": 72,
+      "id": 120595,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 68,
+      "id": 120596,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-25",
+      "episode_count": 65,
+      "id": 120597,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 87662,
+    "imdb_id": "tt2700166",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "SzpitalTVNserial",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

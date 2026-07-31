@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": "/ctNPIoiTvjBVoybPCozVsGbujal.jpg",
+  "created_by": [
+    {
+      "id": 3058701,
+      "credit_id": "609fd8dbd400f30077497d1d",
+      "name": "Vana Dimitriou",
+      "original_name": "Βάνα Δημητρίου",
+      "gender": 1,
+      "profile_path": "/uLtHqFxr47D7TfyiKEY5SmeJ70a.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2013-09-29",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.antenna.gr/brusko/",
+  "id": 102106,
+  "in_production": false,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2017-07-10",
+  "last_episode_to_air": {
+    "id": 2952402,
+    "name": "Episode 193",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-07-10",
+    "episode_number": 193,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 4,
+    "show_id": 102106,
+    "still_path": null
+  },
+  "name": "Brusko",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4170,
+      "logo_path": "/kOkkahmDL4iKjAlyzGPPGs45HnF.png",
+      "name": "ANT1 CY",
+      "origin_country": "CY"
+    },
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 772,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "CY",
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "Μπρούσκο",
+  "overview": "A romantic and passionate love story. The love of two young people, Achilles from Cyprus and Melina from Crete, could be based on the timeless story of Romeo and Juliet. This is a modern adaptation of the archetypal myth, which tells the story of a great love.",
+  "popularity": 19.7105,
+  "poster_path": "/bUcXirbutuLpCLYtlcxNCsTkIp7.jpg",
+  "production_companies": [
+    {
+      "id": 154308,
+      "logo_path": null,
+      "name": "Make It Productions",
+      "origin_country": "CY"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CY",
+      "name": "Cyprus"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 193,
+      "id": 148234,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 193,
+      "id": 195271,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 193,
+      "id": 195275,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-02",
+      "episode_count": 193,
+      "id": 195284,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 102106,
+    "imdb_id": "tt3253748",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16245505",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    50,
+    60
+  ],
+  "first_air_date": "2002-03-14",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.jensentv.nl/",
+  "id": 16996,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2010-12-01",
+  "last_episode_to_air": {
+    "id": 5515129,
+    "name": "Episode 198",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-12-01",
+    "episode_number": 198,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 16996,
+    "still_path": null
+  },
+  "name": "Jensen!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 418,
+      "logo_path": "/edz6npDIaJH8fRUAb6FBuDReZNe.png",
+      "name": "RTL 5",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 198,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Jensen!",
+  "overview": "Jensen! was a Dutch late night talk show on the television station RTL 5",
+  "popularity": 41.8394,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-03-14",
+      "episode_count": 198,
+      "id": 28094,
+      "name": "Staffel 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 16996,
+    "imdb_id": "tt0481980",
+    "freebase_mid": "/m/02qjrf1",
+    "freebase_id": null,
+    "tvdb_id": 207431,
+    "tvrage_id": null,
+    "wikidata_id": "Q1676580",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

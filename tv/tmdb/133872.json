@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2007-03-01",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 133872,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-01-23",
+  "last_episode_to_air": {
+    "id": 6979016,
+    "name": "Episode 954",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-01-23",
+    "episode_number": 954,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 133872,
+    "still_path": null
+  },
+  "name": "명의",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1796,
+      "logo_path": "/vM4FN2WU2JU1mCiZw2BtqJ27zxR.png",
+      "name": "EBS 1",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 953,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "명의",
+  "overview": "",
+  "popularity": 18.8478,
+  "poster_path": "/vpRhAYTH97aICCPfN1nCcGdNsxu.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-03-01",
+      "episode_count": 953,
+      "id": 211384,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/xxyLbUP492fR4KGtAlkWCyIhhAn.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 133872,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

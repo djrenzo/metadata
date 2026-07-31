@@ -1,0 +1,414 @@
+{
+  "adult": false,
+  "backdrop_path": "/vHeE4r2hM4R2daQHRKSveJOF2vG.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1995-09-05",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/la-facture/site",
+  "id": 61305,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-03-17",
+  "last_episode_to_air": {
+    "id": 7177920,
+    "name": "Episode 27",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-28",
+    "episode_number": 27,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 31,
+    "show_id": 61305,
+    "still_path": "/A82XgXDoSn7vGbXUpzksaHl7oLa.jpg"
+  },
+  "name": "La facture",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    },
+    {
+      "id": 1312,
+      "logo_path": "/gnz7VENDBQfKeaJWDdT4f8O0bpG.png",
+      "name": "ICI TOU.TV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 930,
+  "number_of_seasons": 31,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "La facture",
+  "overview": "",
+  "popularity": 18.0876,
+  "poster_path": "/auRt0CgKHW20tiHUvsU2LcjmE64.jpg",
+  "production_companies": [
+    {
+      "id": 9115,
+      "logo_path": "/mu5tVcTk8mrVvcAWor9smdEiqxh.png",
+      "name": "Société Radio-Canada",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-09-05",
+      "episode_count": 36,
+      "id": 62579,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-17",
+      "episode_count": 34,
+      "id": 130772,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-09",
+      "episode_count": 32,
+      "id": 130773,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-08",
+      "episode_count": 30,
+      "id": 130774,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-07",
+      "episode_count": 30,
+      "id": 130775,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-05",
+      "episode_count": 30,
+      "id": 130776,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-28",
+      "episode_count": 25,
+      "id": 130777,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-10",
+      "episode_count": 32,
+      "id": 130778,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-02",
+      "episode_count": 30,
+      "id": 130779,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-21",
+      "episode_count": 33,
+      "id": 130780,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-06",
+      "episode_count": 33,
+      "id": 130781,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-12",
+      "episode_count": 32,
+      "id": 130782,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-11",
+      "episode_count": 31,
+      "id": 130783,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-23",
+      "episode_count": 29,
+      "id": 130784,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-08",
+      "episode_count": 30,
+      "id": 130785,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-07",
+      "episode_count": 29,
+      "id": 130786,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-13",
+      "episode_count": 28,
+      "id": 130787,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-11",
+      "episode_count": 29,
+      "id": 130788,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-10",
+      "episode_count": 29,
+      "id": 130789,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-09",
+      "episode_count": 28,
+      "id": 130790,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-08",
+      "episode_count": 29,
+      "id": 130791,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-13",
+      "episode_count": 30,
+      "id": 130792,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-12",
+      "episode_count": 30,
+      "id": 130793,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-11",
+      "episode_count": 30,
+      "id": 130794,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-10",
+      "episode_count": 30,
+      "id": 130795,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-15",
+      "episode_count": 30,
+      "id": 168067,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-14",
+      "episode_count": 30,
+      "id": 205985,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-20",
+      "episode_count": 29,
+      "id": 310260,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-12",
+      "episode_count": 30,
+      "id": 357642,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-10",
+      "episode_count": 30,
+      "id": 416927,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-16",
+      "episode_count": 27,
+      "id": 474693,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 61305,
+    "imdb_id": "tt16259084",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 253001,
+    "tvrage_id": null,
+    "wikidata_id": "Q28496859",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

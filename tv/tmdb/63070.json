@@ -1,0 +1,311 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1996-07-09",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 63070,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2016-09-18",
+  "last_episode_to_air": {
+    "id": 1917954,
+    "name": "Episode 19",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2016-09-18",
+    "episode_number": 19,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 21,
+    "show_id": 63070,
+    "still_path": null
+  },
+  "name": "Zimmer frei!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1135,
+      "logo_path": "/xtK4PjzICkOEB2JSD9hgeQLow9K.png",
+      "name": "WDR Fernsehen",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 695,
+  "number_of_seasons": 21,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Zimmer frei!",
+  "overview": "",
+  "popularity": 19.2609,
+  "poster_path": "/6Q1jUy5DZbrBRI4vXpmseDJebm1.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-08-15",
+      "episode_count": 35,
+      "id": 188214,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-07-09",
+      "episode_count": 17,
+      "id": 130429,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-19",
+      "episode_count": 35,
+      "id": 130430,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-11",
+      "episode_count": 35,
+      "id": 130432,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-10",
+      "episode_count": 36,
+      "id": 130433,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-09",
+      "episode_count": 37,
+      "id": 130434,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-04",
+      "episode_count": 39,
+      "id": 130489,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 41,
+      "id": 130490,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-12",
+      "episode_count": 37,
+      "id": 130491,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 37,
+      "id": 131461,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-09",
+      "episode_count": 37,
+      "id": 131462,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-08",
+      "episode_count": 39,
+      "id": 131545,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-21",
+      "episode_count": 36,
+      "id": 131546,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-13",
+      "episode_count": 38,
+      "id": 131547,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-11",
+      "episode_count": 40,
+      "id": 131548,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2010-01-17",
+      "episode_count": 33,
+      "id": 131549,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-09",
+      "episode_count": 36,
+      "id": 131550,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-08",
+      "episode_count": 32,
+      "id": 131551,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-27",
+      "episode_count": 28,
+      "id": 131552,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-02",
+      "episode_count": 19,
+      "id": 131553,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-01",
+      "episode_count": 24,
+      "id": 131554,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-31",
+      "episode_count": 19,
+      "id": 131555,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.75,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 63070,
+    "imdb_id": "tt0211890",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q203555",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

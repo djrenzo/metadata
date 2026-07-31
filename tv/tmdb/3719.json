@@ -1,0 +1,515 @@
+{
+  "adult": false,
+  "backdrop_path": "/dsf201EcCENveE99OHK6vwYgekn.jpg",
+  "created_by": [
+    {
+      "id": 1482663,
+      "credit_id": "55908f509251414b840000f6",
+      "name": "Judy Tygard",
+      "original_name": "Judy Tygard",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "1988-01-19",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.cbsnews.com/48-hours/",
+  "id": 3719,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-23",
+  "last_episode_to_air": {
+    "id": 7297270,
+    "name": "Kouri Richins: Behind the Facade",
+    "overview": "Kouri Richins, the Utah mother who made headlines for publishing a children’s book about grief after her husband’s death, was sentenced just last week to life in prison without parole for his murder. Prosecutors argued she poisoned her husband, Eric Richins, in a case that drew national attention. Now, jurors who heard the evidence are speaking out about what led them to convict her, including what they believe motivated the crime and why they reached their verdict.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-23",
+    "episode_number": 30,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 39,
+    "show_id": 3719,
+    "still_path": "/p6RozJMxCkA4aFnciCc8bBDrNVI.jpg"
+  },
+  "name": "48 Hours",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1167,
+  "number_of_seasons": 39,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "48 Hours",
+  "overview": "This newsmagazine series investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening — and resolution — of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart.",
+  "popularity": 20.4996,
+  "poster_path": "/kniPe4BLIcj2WnErZcFeHo50q6B.jpg",
+  "production_companies": [
+    {
+      "id": 55052,
+      "logo_path": null,
+      "name": "CBS News Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-04-23",
+      "episode_count": 46,
+      "id": 11154,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-19",
+      "episode_count": 29,
+      "id": 372297,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-08",
+      "episode_count": 61,
+      "id": 372298,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-04",
+      "episode_count": 1,
+      "id": 349263,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-11",
+      "episode_count": 1,
+      "id": 441438,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-16",
+      "episode_count": 1,
+      "id": 441439,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-15",
+      "episode_count": 1,
+      "id": 310643,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-21",
+      "episode_count": 1,
+      "id": 441440,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-14",
+      "episode_count": 1,
+      "id": 441441,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-12",
+      "episode_count": 30,
+      "id": 441442,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-11",
+      "episode_count": 52,
+      "id": 441443,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-04-29",
+      "episode_count": 16,
+      "id": 11158,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-16",
+      "episode_count": 53,
+      "id": 11151,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 43,
+      "id": 11143,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-20",
+      "episode_count": 42,
+      "id": 11157,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-27",
+      "episode_count": 45,
+      "id": 11156,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-19",
+      "episode_count": 43,
+      "id": 11155,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2003-09-26",
+      "episode_count": 35,
+      "id": 11142,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-25",
+      "episode_count": 30,
+      "id": 11144,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-23",
+      "episode_count": 30,
+      "id": 11145,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-23",
+      "episode_count": 29,
+      "id": 11146,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-28",
+      "episode_count": 27,
+      "id": 11147,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-23",
+      "episode_count": 26,
+      "id": 11148,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-18",
+      "episode_count": 26,
+      "id": 11149,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-24",
+      "episode_count": 27,
+      "id": 11150,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/6Si0pICstrD0HzgVwKNLN9BRD7a.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-23",
+      "episode_count": 27,
+      "id": 11152,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-27",
+      "episode_count": 27,
+      "id": 11153,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-27",
+      "episode_count": 34,
+      "id": 11159,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2014-09-27",
+      "episode_count": 68,
+      "id": 73436,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-12",
+      "episode_count": 38,
+      "id": 76001,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-24",
+      "episode_count": 33,
+      "id": 83568,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2017-09-30",
+      "episode_count": 32,
+      "id": 118433,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2018-09-29",
+      "episode_count": 30,
+      "id": 288129,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-14",
+      "episode_count": 33,
+      "id": 118436,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-09",
+      "episode_count": 37,
+      "id": 163398,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-18",
+      "episode_count": 31,
+      "id": 202339,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-17",
+      "episode_count": 31,
+      "id": 310188,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2023-09-16",
+      "episode_count": 33,
+      "id": 357278,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-09-21",
+      "episode_count": 33,
+      "id": 402118,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 4.9
+    },
+    {
+      "air_date": "2025-09-27",
+      "episode_count": 30,
+      "id": 465501,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.045,
+  "vote_count": 56,
+  "external_ids": {
+    "id": 3719,
+    "imdb_id": "tt0271894",
+    "freebase_mid": "/m/07ndj7",
+    "freebase_id": "/en/48_hours",
+    "tvdb_id": 138551,
+    "tvrage_id": 7238,
+    "wikidata_id": "Q4031546",
+    "facebook_id": "48hours",
+    "instagram_id": "48hourscbs",
+    "twitter_id": "48hours"
+  }
+}

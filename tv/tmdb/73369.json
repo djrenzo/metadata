@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/5xABToqBpOaKgrYRRX77jt8HXjN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2016-04-04",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://ici.radio-canada.ca/tele/les-echangistes/site",
+  "id": 73369,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2018-09-06",
+  "last_episode_to_air": {
+    "id": 1575844,
+    "name": "Episode 84",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-09-06",
+    "episode_number": 84,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 3,
+    "show_id": 73369,
+    "still_path": "/nmk995nV8XYCD6hwfdjJe34LaDn.jpg"
+  },
+  "name": "Les échangistes",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 255,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Les échangistes",
+  "overview": "Host Penelope McQuade welcomes three celebrities each evening, along with two different swapping contributors who will intervene, make critical comments and spice up the conversations!",
+  "popularity": 39.1398,
+  "poster_path": "/1xiWskAbqimvHzTsTYp0h6oXzL9.jpg",
+  "production_companies": [
+    {
+      "id": 94070,
+      "logo_path": null,
+      "name": "Savail&Co",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-04-04",
+      "episode_count": 80,
+      "id": 104359,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-03",
+      "episode_count": 91,
+      "id": 91569,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-16",
+      "episode_count": 84,
+      "id": 104360,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 73369,
+    "imdb_id": "tt8846674",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 310616,
+    "tvrage_id": null,
+    "wikidata_id": "Q39075246",
+    "facebook_id": "lesechangistes",
+    "instagram_id": null,
+    "twitter_id": "Lesechangistes"
+  }
+}

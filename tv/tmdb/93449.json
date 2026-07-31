@@ -1,0 +1,187 @@
+{
+  "adult": false,
+  "backdrop_path": "/wMVqVtaQdtPJk09eFVEZyN05efT.jpg",
+  "created_by": [
+    {
+      "id": 2070383,
+      "credit_id": "64e2d434544c41011bca6646",
+      "name": "Tamron Hall",
+      "original_name": "Tamron Hall",
+      "gender": 1,
+      "profile_path": "/s5dpaNxDB8pBSB7c08HC38qlfOL.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2019-09-09",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://www.tamronhallshow.com/",
+  "id": 93449,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-28",
+  "last_episode_to_air": {
+    "id": 7529267,
+    "name": "Tamron's Father's Day Extravaganza (2026)",
+    "overview": "",
+    "vote_average": 1,
+    "vote_count": 1,
+    "air_date": "2026-05-28",
+    "episode_number": 174,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 93449,
+    "still_path": null
+  },
+  "name": "Tamron Hall",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1088,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Tamron Hall",
+  "overview": "Former news host and journalist Tamron Hall discusses all things topical and engages those she interviews in thorough meaningful and entertaining conversations.",
+  "popularity": 23.1924,
+  "poster_path": "/pOqHc6Q47uGqnCps1DGVMaWyd9v.jpg",
+  "production_companies": [
+    {
+      "id": 25992,
+      "logo_path": "/6s8EPSIUw1APohH6lV2bsA9o3Xz.png",
+      "name": "ABC News",
+      "origin_country": "US"
+    },
+    {
+      "id": 65724,
+      "logo_path": null,
+      "name": "Summerdale Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 181,
+      "id": 132056,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 179,
+      "id": 176086,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-06",
+      "episode_count": 176,
+      "id": 210365,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2022-09-06",
+      "episode_count": 193,
+      "id": 307510,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2023-09-05",
+      "episode_count": 176,
+      "id": 355341,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-03",
+      "episode_count": 10,
+      "id": 415233,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 173,
+      "id": 529829,
+      "name": "Season 7",
+      "overview": "The Tamron Hall Show returned for its 7th season in September 2025.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.5,
+  "vote_count": 19,
+  "external_ids": {
+    "id": 93449,
+    "imdb_id": "tt9071818",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 369256,
+    "tvrage_id": null,
+    "wikidata_id": "Q65049738",
+    "facebook_id": "tamronhallshow",
+    "instagram_id": "tamronhallshow",
+    "twitter_id": "tamronhallshow"
+  }
+}

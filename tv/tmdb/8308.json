@@ -1,0 +1,437 @@
+{
+  "adult": false,
+  "backdrop_path": "/xPT0XWQY1JUmZps58c7bq3YlavH.jpg",
+  "created_by": [
+    {
+      "id": 1241179,
+      "credit_id": "61216119d96c3c007da81ecc",
+      "name": "Charlie Parsons",
+      "original_name": "Charlie Parsons",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    66
+  ],
+  "first_air_date": "2000-10-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.expeditierobinson.nl",
+  "id": 8308,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2025-12-28",
+  "last_episode_to_air": {
+    "id": 6337069,
+    "name": "Episode 18",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2025-12-28",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 68,
+    "season_number": 25,
+    "show_id": 8308,
+    "still_path": "/36VgSeYI0zClKh6VhlAox8UQ1WJ.jpg"
+  },
+  "name": "Expeditie Robinson",
+  "next_episode_to_air": {
+    "id": 7437502,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-11-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 8308,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1085,
+      "logo_path": "/kAHfYddJI8V2bvWcRusaHYDTjzS.png",
+      "name": "Net5",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2258,
+      "logo_path": "/kejyjdzZg04SMRkRT6w8piOmXOd.png",
+      "name": "Tien",
+      "origin_country": "NL"
+    },
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    },
+    {
+      "id": 418,
+      "logo_path": "/edz6npDIaJH8fRUAb6FBuDReZNe.png",
+      "name": "RTL 5",
+      "origin_country": "NL"
+    },
+    {
+      "id": 556,
+      "logo_path": "/wpPJM99T9qkKvK16nRciNL2y64Q.png",
+      "name": "VTM",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1334,
+      "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+      "name": "Videoland",
+      "origin_country": "NL"
+    },
+    {
+      "id": 3434,
+      "logo_path": null,
+      "name": "2BE",
+      "origin_country": "BE"
+    }
+  ],
+  "number_of_episodes": 396,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Expeditie Robinson",
+  "overview": "A reality survival program in which BN'ers do battle with each other and the elements.",
+  "popularity": 22.9524,
+  "poster_path": "/AaDIUjd35r4bBeqb1hY025tgkn5.jpg",
+  "production_companies": [
+    {
+      "id": 4982,
+      "logo_path": "/jrYmyTLXXSBY3NgBc4u5CDHlZic.png",
+      "name": "Strix Television",
+      "origin_country": "SE"
+    },
+    {
+      "id": 107066,
+      "logo_path": "/c7UpfW615cJbkF83RkrUwXmzLy4.png",
+      "name": "Strix Television Benelux",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-08-29",
+      "episode_count": 5,
+      "id": 328208,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-01",
+      "episode_count": 13,
+      "id": 18254,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-23",
+      "episode_count": 13,
+      "id": 18255,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-22",
+      "episode_count": 13,
+      "id": 18256,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-13",
+      "episode_count": 14,
+      "id": 18257,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-05",
+      "episode_count": 13,
+      "id": 18258,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 14,
+      "id": 18259,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-03",
+      "episode_count": 15,
+      "id": 18260,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-30",
+      "episode_count": 14,
+      "id": 18261,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-31",
+      "episode_count": 13,
+      "id": 18262,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-03",
+      "episode_count": 14,
+      "id": 18250,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-02",
+      "episode_count": 14,
+      "id": 18251,
+      "name": "Expeditie Robinson 2010: Refreshed",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-01",
+      "episode_count": 14,
+      "id": 18252,
+      "name": "Expeditie Robinson 2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-30",
+      "episode_count": 16,
+      "id": 18263,
+      "name": "Expeditie Robinson 2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-05",
+      "episode_count": 15,
+      "id": 18264,
+      "name": "Expeditie Robinson 2013",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-04",
+      "episode_count": 15,
+      "id": 18265,
+      "name": "Expeditie Robinson 2014",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-03",
+      "episode_count": 16,
+      "id": 106952,
+      "name": "Expeditie Robinson 2015",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-08",
+      "episode_count": 16,
+      "id": 106951,
+      "name": "Expeditie Robinson 2016",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-07",
+      "episode_count": 16,
+      "id": 106950,
+      "name": "Expeditie Robinson 2017",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-06",
+      "episode_count": 16,
+      "id": 106949,
+      "name": "Expeditie Robinson 2018",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-01",
+      "episode_count": 16,
+      "id": 134033,
+      "name": "Expeditie Robinson 2019",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-29",
+      "episode_count": 33,
+      "id": 200564,
+      "name": "Expeditie Robinson 2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 17,
+      "id": 297664,
+      "name": "Expeditie Robinson 2022",
+      "overview": "",
+      "poster_path": "/bH0kXgkNoWTiBvIXKikF8T2SW38.jpg",
+      "season_number": 22,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2023-09-02",
+      "episode_count": 17,
+      "id": 335981,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/xThK6InLxN6f0C5SK02hPyIFTAA.jpg",
+      "season_number": 23,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2024-09-01",
+      "episode_count": 18,
+      "id": 399752,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/xThK6InLxN6f0C5SK02hPyIFTAA.jpg",
+      "season_number": 24,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2025-08-31",
+      "episode_count": 18,
+      "id": 423970,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/y3OxeGlbk3LvDnRQXIIcneI4t8X.jpg",
+      "season_number": 25,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2026-11-01",
+      "episode_count": 3,
+      "id": 505860,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 7.3,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 8308,
+    "imdb_id": "tt0261470",
+    "freebase_mid": "/m/04yg780",
+    "freebase_id": "/en/expeditie_robinson",
+    "tvdb_id": 84852,
+    "tvrage_id": null,
+    "wikidata_id": "Q732398",
+    "facebook_id": "ExpeditieRobinsonRTL",
+    "instagram_id": "expeditierobinson_rtl",
+    "twitter_id": "expeditierobrtl"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2024-10-19",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 299050,
+  "in_production": true,
+  "languages": [
+    "az"
+  ],
+  "last_air_date": "2026-05-09",
+  "last_episode_to_air": {
+    "id": 7263434,
+    "name": "Zarina Gurbanova",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-09",
+    "episode_number": 31,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 3,
+    "show_id": 299050,
+    "still_path": "/m7H2aO7JDqf0wu4fMUJ5djWLHf6.jpg"
+  },
+  "name": "5 Faces",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 8007,
+      "logo_path": "/rhRKcsoRBOuHWgXVNc2b3QNq5mE.png",
+      "name": "ARB",
+      "origin_country": "AZ"
+    }
+  ],
+  "number_of_episodes": 66,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "AZ"
+  ],
+  "original_language": "az",
+  "original_name": "5 Üz",
+  "overview": "Show on ARB tv.",
+  "popularity": 43.8396,
+  "poster_path": "/lWZTPlMIIMUW552bawiwx0JEkxs.jpg",
+  "production_companies": [
+    {
+      "id": 266885,
+      "logo_path": null,
+      "name": "ARB TV",
+      "origin_country": "AZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AZ",
+      "name": "Azerbaijan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-10-19",
+      "episode_count": 10,
+      "id": 471345,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-11",
+      "episode_count": 25,
+      "id": 471346,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-11",
+      "episode_count": 31,
+      "id": 485425,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Azərbaycan"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 299050,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

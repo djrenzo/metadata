@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/mcAQ6fiayjgq7SMTCoAo40UwKA2.jpg",
+  "created_by": [
+    {
+      "id": 1237620,
+      "credit_id": "670e93030b800537d75d06c2",
+      "name": "Gina Lucita Monreal",
+      "original_name": "Gina Lucita Monreal",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1237598,
+      "credit_id": "670e93080b800537d75d06c6",
+      "name": "David J. North",
+      "original_name": "David J. North",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2024-10-14",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/ncis-origins/",
+  "id": 243006,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-05",
+  "last_episode_to_air": {
+    "id": 7095283,
+    "name": "Hollywood Ending",
+    "overview": "With the Camp Pendleton office in danger of being shut down, the team confronts an uncertain future.",
+    "vote_average": 10,
+    "vote_count": 4,
+    "air_date": "2026-05-05",
+    "episode_number": 18,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 2,
+    "show_id": 243006,
+    "still_path": "/iBBcuWMfCmHBBxVladwL4TFHcCU.jpg"
+  },
+  "name": "NCIS: Origins",
+  "next_episode_to_air": {
+    "id": 7583541,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-06",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 243006,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 37,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "NCIS: Origins",
+  "overview": "In 1991, years prior to the events of NCIS, Leroy Jethro Gibbs starts his career as a newly minted special agent at the fledgling NCIS Camp Pendleton office, where he forges his place on a gritty, ragtag team led by NCIS legend Mike Franks.",
+  "popularity": 23.9526,
+  "poster_path": "/waWeC84DExojP5AHFbWaybj3wxv.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 241860,
+      "logo_path": null,
+      "name": "J. Bird",
+      "origin_country": ""
+    },
+    {
+      "id": 241861,
+      "logo_path": null,
+      "name": "Ceci Bear Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 96556,
+      "logo_path": null,
+      "name": "Wings Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-08-26",
+      "episode_count": 3,
+      "id": 472281,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-14",
+      "episode_count": 18,
+      "id": 372965,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mgn4Vxx5PHIcKUBSsSecDlahIBH.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2025-10-14",
+      "episode_count": 18,
+      "id": 465506,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/eYa5uiA9VFN204oC7eaFKUdodE0.jpg",
+      "season_number": 2,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2026-10-06",
+      "episode_count": 1,
+      "id": 532132,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "The story Gibbs never told.",
+  "type": "Scripted",
+  "vote_average": 7.47,
+  "vote_count": 67,
+  "external_ids": {
+    "id": 243006,
+    "imdb_id": "tt30796986",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 444350,
+    "tvrage_id": null,
+    "wikidata_id": "Q125178220",
+    "facebook_id": "NCISverse",
+    "instagram_id": "ncisverse",
+    "twitter_id": "ncisverse"
+  }
+}

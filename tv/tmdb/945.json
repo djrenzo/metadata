@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/1vS7Z2RPXpFVXC0aIOP8VsCIrmh.jpg",
+  "created_by": [
+    {
+      "id": 57624,
+      "credit_id": "52540f3319c2957940327531",
+      "name": "Ivan Goff",
+      "original_name": "Ivan Goff",
+      "gender": 2,
+      "profile_path": "/uJQoLuHMizqSVbe43gAbfWoIdkc.jpg"
+    },
+    {
+      "id": 49923,
+      "credit_id": "52540f3319c295794032754b",
+      "name": "Frank D. Gilroy",
+      "original_name": "Frank D. Gilroy",
+      "gender": 2,
+      "profile_path": "/9mDtvIuEGL4OR7k6gp2YwaInbGL.jpg"
+    },
+    {
+      "id": 96704,
+      "credit_id": "52540f3319c295794032755b",
+      "name": "Ernest Kinoy",
+      "original_name": "Ernest Kinoy",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1963-09-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 945,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1966-01-12",
+  "last_episode_to_air": {
+    "id": 51110,
+    "name": "Terror in a Tiny Town (2)",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1966-01-12",
+    "episode_number": 17,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 3,
+    "show_id": 945,
+    "still_path": null
+  },
+  "name": "Burke's Law",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 81,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Burke's Law",
+  "overview": "Burke's Law is an American detective series that ran on ABC from 1963 to 1965 and was revived on CBS in the 1990s. The show starred Gene Barry as Amos Burke, millionaire captain of Los Angeles police homicide division, who was chauffeured around to solve crimes in his Rolls-Royce Silver Cloud II.",
+  "popularity": 21.4879,
+  "poster_path": "/ePKRW7T0RCgzSzuVJPwHxcqBPXG.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "1963-09-20",
+      "episode_count": 32,
+      "id": 2728,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mCGDGVNgtpjZ6fbmG9oTvjfReft.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1964-09-16",
+      "episode_count": 32,
+      "id": 2729,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/azpU75ygw3rcYBYAXQfRzDICnNt.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-14",
+      "episode_count": 17,
+      "id": 2730,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7okbRVYj5Zmi7rvv1pntDrhIxIU.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.25,
+  "vote_count": 12,
+  "external_ids": {
+    "id": 945,
+    "imdb_id": "tt0056745",
+    "freebase_mid": "/m/02rsvf",
+    "freebase_id": "/en/burkes_law",
+    "tvdb_id": 76697,
+    "tvrage_id": null,
+    "wikidata_id": "Q1248480",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "adult": false,
+  "backdrop_path": "/qV98q6BLTHWBVjVZQdwUkQhzD9y.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60,
+    90
+  ],
+  "first_air_date": "2018-07-23",
+  "genres": [],
+  "homepage": "https://www.imbc.com/broad/radio/fm/idolradio/index.html",
+  "id": 244984,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-01-29",
+  "last_episode_to_air": {
+    "id": 5944823,
+    "name": "Episode 93",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-29",
+    "episode_number": 93,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 244984,
+    "still_path": null
+  },
+  "name": "Idol Radio",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 2433,
+      "logo_path": "/3QgR8CpG0bA7PzXw3qcvWOSpKZD.png",
+      "name": "V LIVE",
+      "origin_country": "KR"
+    },
+    {
+      "id": 6123,
+      "logo_path": "/dqTiwjuFjQfHMUG20dhUArLlXHh.png",
+      "name": "UNIVERSE",
+      "origin_country": "KR"
+    },
+    {
+      "id": 7550,
+      "logo_path": "/v5R9374GEZBNhgt0f8r6qmLMog2.png",
+      "name": "BIGC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 1063,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "아이돌 라디오",
+  "overview": "A South Korean radio show created by MBC Radio specially for idols.",
+  "popularity": 20.5889,
+  "poster_path": "/k4lmwjHqJBtLRhSn51wIWNTtEQd.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2018-07-07",
+      "episode_count": 3,
+      "id": 385383,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-23",
+      "episode_count": 714,
+      "id": 376681,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-09",
+      "episode_count": 110,
+      "id": 376682,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/v46ORrc58nF64rlz4P89Nm8JGGD.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 146,
+      "id": 376683,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-19",
+      "episode_count": 93,
+      "id": 376684,
+      "name": "Season 4",
+      "overview": "A special moment that you can see every Monday and Wednesday.",
+      "poster_path": "/8KyNlSbL1L6PhpumR4h5IAEAtnD.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 244984,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": "idolradiokorea"
+  }
+}

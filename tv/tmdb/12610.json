@@ -1,0 +1,441 @@
+{
+  "adult": false,
+  "backdrop_path": "/48BDHk5NQvlZOVs9YAMPvVCrAvv.jpg",
+  "created_by": [
+    {
+      "id": 1241179,
+      "credit_id": "52582207760ee36aaa7bfebd",
+      "name": "Charlie Parsons",
+      "original_name": "Charlie Parsons",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1997-09-13",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://tv4.se/robinson/",
+  "id": 12610,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2026-06-07",
+  "last_episode_to_air": {
+    "id": 7301400,
+    "name": "Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-07",
+    "episode_number": 50,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 29,
+    "show_id": 12610,
+    "still_path": "/h38oAlTelX1c7pFVrOtSguPPtmy.jpg"
+  },
+  "name": "Robinson",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 258,
+      "logo_path": "/yVkQLTDJZtobAnIrNmsAnPPIcst.png",
+      "name": "SVT2",
+      "origin_country": "SE"
+    },
+    {
+      "id": 352,
+      "logo_path": "/7L7VUXTBLiHruhUjYJebV46uw3c.png",
+      "name": "TV4",
+      "origin_country": "SE"
+    },
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    },
+    {
+      "id": 457,
+      "logo_path": "/vBtUCGxKBPm7eCryMEYkwAgGCuc.png",
+      "name": "TV3",
+      "origin_country": "SE"
+    },
+    {
+      "id": 854,
+      "logo_path": "/5ypcsG4GspfA9PdT33U7wzkvmrO.png",
+      "name": "Sjuan",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 928,
+  "number_of_seasons": 29,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Robinson",
+  "overview": "Expedition Robinson is a Swedish reality television program in which contestants are put into survival situations, and a voting process eliminates one person each episode until a winner is determined. The format was developed in 1994 by Charlie Parsons for a United Kingdom TV production company called Planet 24, but the Swedish debut in 1997 was the first production to actually make it to television.",
+  "popularity": 23.1895,
+  "poster_path": "/s02BiuH8AMgIAiGwZNrCn0lVW1L.jpg",
+  "production_companies": [
+    {
+      "id": 160930,
+      "logo_path": "/8iBZlnXKqpjK7ugZ79VhAztd723.png",
+      "name": "Mastiff",
+      "origin_country": "SE"
+    },
+    {
+      "id": 4982,
+      "logo_path": "/jrYmyTLXXSBY3NgBc4u5CDHlZic.png",
+      "name": "Strix Television",
+      "origin_country": "SE"
+    },
+    {
+      "id": 118510,
+      "logo_path": "/5wXdeMGtaFGms9Vy0zTlgm6hN36.png",
+      "name": "ITV Studios Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 90382,
+      "logo_path": null,
+      "name": "Castaway Television Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-09-13",
+      "episode_count": 12,
+      "id": 151794,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-12",
+      "episode_count": 13,
+      "id": 151795,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-25",
+      "episode_count": 13,
+      "id": 151796,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/p1Cr4B9AtzEDD1npvsNyBGzPXXa.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-07",
+      "episode_count": 14,
+      "id": 151797,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-06",
+      "episode_count": 14,
+      "id": 23507,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-11-16",
+      "episode_count": 13,
+      "id": 23508,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-11-22",
+      "episode_count": 13,
+      "id": 151798,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-11",
+      "episode_count": 60,
+      "id": 151799,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-21",
+      "episode_count": 11,
+      "id": 23509,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-10",
+      "episode_count": 13,
+      "id": 190856,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-03-21",
+      "episode_count": 11,
+      "id": 190858,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/mL7iY9aQGkXg5SYfC3DYIFHeYem.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-11-21",
+      "episode_count": 13,
+      "id": 190859,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-07",
+      "episode_count": 13,
+      "id": 190860,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-29",
+      "episode_count": 13,
+      "id": 190861,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-20",
+      "episode_count": 12,
+      "id": 23511,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/l6iXB1hCE3JPdowoIOZAKY4avfR.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-07",
+      "episode_count": 30,
+      "id": 190862,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-18",
+      "episode_count": 51,
+      "id": 190863,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/6gdalnkvLWjHZYViO874V7gq1y7.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-03-17",
+      "episode_count": 51,
+      "id": 190864,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/v71yA86iurYY8hVUx9ozofkH2wd.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-15",
+      "episode_count": 51,
+      "id": 151793,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/3zY572tFtqenSFNcFO9z8lyzlIy.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-21",
+      "episode_count": 51,
+      "id": 187955,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/lxTcahVPvbnleobYo7KdRKaQG1W.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-20",
+      "episode_count": 51,
+      "id": 284332,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/sWA0Uo9hkiAtvtjnPvaqfnulIIE.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-09",
+      "episode_count": 51,
+      "id": 312708,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/zQJ1zvFQAFoaKoxChU481PDfHHx.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-03-19",
+      "episode_count": 51,
+      "id": 333185,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/gns1TBKVP1h93vCbn9nLgRDZfFw.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-02",
+      "episode_count": 50,
+      "id": 359604,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/wSoBfgXEldtxEhn4w3CBev8kjY1.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-17",
+      "episode_count": 51,
+      "id": 384063,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/yctq7fADTGP00OyKVyTJaauJVs3.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-14",
+      "episode_count": 50,
+      "id": 451321,
+      "name": "Season 16",
+      "overview": "In a desolate place, the participants fight in spectacular competitions and against the forces of nature in the hope of taking home half a million SEK.",
+      "poster_path": "/e1HnMPe1bbsFRTSHtA6RF2Jyqe1.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-03-28",
+      "episode_count": 51,
+      "id": 461116,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/6bxQmMIrZx8XzSVx9tBrM3NQi0N.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-02",
+      "episode_count": 51,
+      "id": 471697,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/jbTBDl3pVUdsyjn9KoIkhDj1t2T.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-30",
+      "episode_count": 50,
+      "id": 504302,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/s02BiuH8AMgIAiGwZNrCn0lVW1L.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.3,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 12610,
+    "imdb_id": "tt0264245",
+    "freebase_mid": "/m/03xm50",
+    "freebase_id": "/en/expedition_robinson",
+    "tvdb_id": 251511,
+    "tvrage_id": 11050,
+    "wikidata_id": "Q3359114",
+    "facebook_id": "robinsontv4",
+    "instagram_id": "robinsontv4",
+    "twitter_id": null
+  }
+}

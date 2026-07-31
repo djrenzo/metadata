@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2016-09-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 82550,
+  "in_production": false,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-02-27",
+  "last_episode_to_air": {
+    "id": 4885802,
+    "name": "Episode 1204",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2023-02-27",
+    "episode_number": 1204,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 82550,
+    "still_path": null
+  },
+  "name": "Klinik am Südring",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 163,
+      "logo_path": "/tpuoOACmOTDY96gSQ2dT5sd1Q3Q.png",
+      "name": "SAT.1",
+      "origin_country": "DE"
+    },
+    {
+      "id": 411,
+      "logo_path": "/ybTppkzqb3XOWKNcco144BFlosB.png",
+      "name": "RTL II",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 1204,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Klinik am Südring",
+  "overview": "At the Klinik am Südring, real doctors and nurses offer an insight into the unknown world of medicine and everyday hospital life: exciting medical research into causes and treatment meets personal stories. Our hospital staff are the heroes of the stories and always find a solution, are competent, empathetic and always there for the patients with a lot of heart and time.",
+  "popularity": 18.0132,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 1204,
+      "id": 109770,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 82550,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

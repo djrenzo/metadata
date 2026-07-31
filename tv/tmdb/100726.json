@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "2018-01-14",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 100726,
+  "in_production": true,
+  "languages": [
+    "th"
+  ],
+  "last_air_date": "2022-12-03",
+  "last_episode_to_air": {
+    "id": 4085336,
+    "name": "Episode 246",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-12-03",
+    "episode_number": 139,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 100726,
+    "still_path": null
+  },
+  "name": "School Rangers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 139,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_name": "รถโรงเรียน School Rangers",
+  "overview": "The Rangers are made up of fifteen GMMTV artists whose appearances rotate. Often joined by celebrity guests, they separate into teams to compete in themed games. With nothing more to win than bragging rights, the true motivator is to avoid the surprise punishment that comes with last place.\n\nTypically, episodes are hosted at different schools throughout Thailand where students get to show off their skills. However, the onset of the coronavirus pandemic necessitated that the show find new venues that would limit their exposure. It wasn't until 2023 that episodes began to take place in schools once more.",
+  "popularity": 38.7235,
+  "poster_path": "/jZmOInhF4mVvMYIYGQLZi6bAchZ.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2018-01-14",
+      "episode_count": 139,
+      "id": 145613,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jZmOInhF4mVvMYIYGQLZi6bAchZ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 100726,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

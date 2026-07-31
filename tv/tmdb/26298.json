@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/7WdAmD50qPZdRFx7wJj5ZNsXZQc.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2001-09-02",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 26298,
+  "in_production": false,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2003-02-21",
+  "last_episode_to_air": {
+    "id": 668411,
+    "name": "Episode 366",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2003-02-21",
+    "episode_number": 366,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 1,
+    "show_id": 26298,
+    "still_path": null
+  },
+  "name": "Anjo Selvagem",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 93,
+      "logo_path": "/bCngEbZ5SoIwkgmSMsLUABqanZn.png",
+      "name": "TVI",
+      "origin_country": "PT"
+    }
+  ],
+  "number_of_episodes": 366,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_name": "Anjo Selvagem",
+  "overview": "",
+  "popularity": 35.24,
+  "poster_path": "/jq7yvqKHgi7mBckRj3vipbQpRY4.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-09-02",
+      "episode_count": 366,
+      "id": 36767,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.8,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 26298,
+    "imdb_id": "tt0324691",
+    "freebase_mid": "/m/07cgcz5",
+    "freebase_id": "/en/anjo_selvagem",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q16490752",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

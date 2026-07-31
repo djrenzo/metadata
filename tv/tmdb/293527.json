@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/np3NpM6OHL0wx5YdYXBnoqKrm4W.jpg",
+  "created_by": [
+    {
+      "id": 6310999,
+      "credit_id": "6a3f05477866688bc651827e",
+      "name": "Julio Rojas Gutiérrez",
+      "original_name": "Julio Rojas Gutiérrez",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1966015,
+      "credit_id": "6a3f05514fdf4c09db67f86b",
+      "name": "Valeria Hofmann",
+      "original_name": "Valeria Hofmann",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2014-12-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 293527,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2015-08-21",
+  "last_episode_to_air": {
+    "id": 7534614,
+    "name": "Episode 194",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-08-27",
+    "episode_number": 194,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 293527,
+    "still_path": "/uTJPLBKdnxUINIUqkh9RwGznorE.jpg"
+  },
+  "name": "La Chúcara",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 25,
+      "logo_path": "/edyWZcduu9EC9Mr4v8TK8Mhhqxj.png",
+      "name": "Televisión Nacional de Chile",
+      "origin_country": "CL"
+    }
+  ],
+  "number_of_episodes": 190,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_name": "La Chúcara",
+  "overview": "",
+  "popularity": 33.8556,
+  "poster_path": "/vN0AcHyQo3wR6BM4lP4eW0KBaBt.jpg",
+  "production_companies": [
+    {
+      "id": 146098,
+      "logo_path": "/yBKqwUXRrWwPzmzPusQIguocDZW.png",
+      "name": "Río Estudios",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-12-01",
+      "episode_count": 194,
+      "id": 460250,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 10,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 293527,
+    "imdb_id": "tt4299758",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q18353278",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

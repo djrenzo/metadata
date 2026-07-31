@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/iHFKi5YkP5QBgX8X20oz5MiSQon.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2020-08-10",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 319876,
+  "in_production": false,
+  "languages": [
+    "ta"
+  ],
+  "last_air_date": "2022-06-18",
+  "last_episode_to_air": {
+    "id": 7156061,
+    "name": "Episode 572",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-18",
+    "episode_number": 572,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 319876,
+    "still_path": null
+  },
+  "name": "Poove Unakkaga",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3026,
+      "logo_path": "/wMXQJG788I3Zefh9RcgAAS3AyrA.png",
+      "name": "Sun TV",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 572,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_name": "Poove Unakkaga",
+  "overview": "",
+  "popularity": 45.8658,
+  "poster_path": "/9V2lWqXeJ66DkjfpmJ3A3UlXPsS.jpg",
+  "production_companies": [
+    {
+      "id": 116434,
+      "logo_path": null,
+      "name": "Sun Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-08-10",
+      "episode_count": 572,
+      "id": 511260,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 319876,
+    "imdb_id": "tt13545698",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 415475,
+    "tvrage_id": null,
+    "wikidata_id": "Q99390475",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

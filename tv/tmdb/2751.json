@@ -1,0 +1,200 @@
+{
+  "adult": false,
+  "backdrop_path": "/Zef1eiCoLb7vWutWNAa3zeyxd6.jpg",
+  "created_by": [
+    {
+      "id": 2636,
+      "credit_id": "5989e771c3a3687865013619",
+      "name": "Alfred Hitchcock",
+      "original_name": "Alfred Hitchcock",
+      "gender": 2,
+      "profile_path": "/108fiNM6poRieMg7RIqLJRxdAwG.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30,
+    22
+  ],
+  "first_air_date": "1985-09-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 2751,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1989-07-22",
+  "last_episode_to_air": {
+    "id": 2424401,
+    "name": "South by Southeast",
+    "overview": "An actor is a victim of mistaken identity.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1989-07-22",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "78348",
+    "runtime": null,
+    "season_number": 4,
+    "show_id": 2751,
+    "still_path": "/9bfwhaD8cbJyy3z7PvS5Ayrwzqo.jpg"
+  },
+  "name": "The New Alfred Hitchcock Presents",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "logo_path": "/g1e0H0Ka97IG5SyInMXdJkHGKiH.png",
+      "name": "USA Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 76,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The New Alfred Hitchcock Presents",
+  "overview": "The New Alfred Hitchcock Presents is an American anthology series that aired on NBC from 1985 to 1986, and on the USA Network from 1987 to 1989. The series is an updated re-imagining of the classic 1955 series Alfred Hitchcock Presents.",
+  "popularity": 20.0199,
+  "poster_path": "/ndCyWSRuAMHNEjtTrEsDue7D1Uq.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 69480,
+      "logo_path": null,
+      "name": "Michael Sloan Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 41197,
+      "logo_path": null,
+      "name": "Paragon Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 10717,
+      "logo_path": null,
+      "name": "Shamley Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 104278,
+      "logo_path": null,
+      "name": "Universal Television Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1985-05-05",
+      "episode_count": 4,
+      "id": 162242,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/mEN8tF6TjK6Lh9LCYlE3qWVEhVn.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-09-29",
+      "episode_count": 22,
+      "id": 8945,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zi3dEavBz5KSg4XfPYuDemTHGDX.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1987-04-24",
+      "episode_count": 13,
+      "id": 8946,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/9Q7b44AZyd9Nwk0bCBYCcYPEIHR.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-02-06",
+      "episode_count": 21,
+      "id": 8947,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/8Z1ewqktbxtAiZvyZX22N2HtiwJ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-10-08",
+      "episode_count": 20,
+      "id": 8948,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/bIBe4lQrbMSWUksyL3Ts2LCyfgC.jpg",
+      "season_number": 4,
+      "vote_average": 8.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.238,
+  "vote_count": 61,
+  "external_ids": {
+    "id": 2751,
+    "imdb_id": "tt0088476",
+    "freebase_mid": "/m/02qvqs9",
+    "freebase_id": "/en/the_new_alfred_hitchcock_presents",
+    "tvdb_id": 74443,
+    "tvrage_id": null,
+    "wikidata_id": "Q2688546",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

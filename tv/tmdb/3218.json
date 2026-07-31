@@ -1,0 +1,409 @@
+{
+  "adult": false,
+  "backdrop_path": "/3x1jwRo3v14zIqjIBAxqY45uFZw.jpg",
+  "created_by": [
+    {
+      "id": 1233644,
+      "credit_id": "52574e58760ee36aaa17b1a8",
+      "name": "Christine L'Heureux",
+      "original_name": "Christine L'Heureux",
+      "gender": 1,
+      "profile_path": "/lhEMJSNW24kuBPPt8X5yCPmBuUi.jpg"
+    },
+    {
+      "id": 1233645,
+      "credit_id": "52574e59760ee36aaa17b1b1",
+      "name": "Hélène Desputeaux",
+      "original_name": "Hélène Desputeaux",
+      "gender": 1,
+      "profile_path": "/eVxGH0H4HhuACwee4Vli9xSQYMo.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1997-09-15",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    }
+  ],
+  "homepage": "http://www.caillou.com/indexEN.shtml",
+  "id": 3218,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2012-03-10",
+  "last_episode_to_air": {
+    "id": 7580134,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2012-03-10",
+    "episode_number": 10,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 7,
+    "show_id": 3218,
+    "still_path": null
+  },
+  "name": "Caillou",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 83,
+      "logo_path": "/mE2ElX5BSeUhiT3V8qUhLjd3Nbz.png",
+      "name": "Teletoon",
+      "origin_country": "CA"
+    },
+    {
+      "id": 216,
+      "logo_path": "/q0I6cg9HiMt7Jpvpi69cj8t5vOC.png",
+      "name": "Treehouse TV",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 386,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Caillou",
+  "overview": "Follow Caillou, the lovable 4-year-old with a big imagination, as he and his friends go on adventures and experience all the wonders of being a child.",
+  "popularity": 22.7498,
+  "poster_path": "/xDiXPsxhx86YFJ03t1ryHkAdXge.jpg",
+  "production_companies": [
+    {
+      "id": 43819,
+      "logo_path": "/c2rXy0Ob6F2F6DKVI3GZXKwgU2C.png",
+      "name": "CINAR",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4844,
+      "logo_path": "/aSrH7g7ZSfIMp5y6yIToGJNBHo0.png",
+      "name": "Cookie Jar Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 7225,
+      "logo_path": "/qcGIZjdRc1YOJPyWhBj9L2Rf3q9.png",
+      "name": "DHX Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 148496,
+      "logo_path": "/737HCq9hXnI801p8sSAMJIvCidg.png",
+      "name": "WildBrain Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 196471,
+      "logo_path": "/e5B8ZBE07mSaabXZLBmTcYCeqAL.png",
+      "name": "Clockwork Zoo",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 19413,
+      "logo_path": "/78EacZlixJJnlTrIlujvqRx7Wws.png",
+      "name": "Teletoon",
+      "origin_country": "CA"
+    },
+    {
+      "id": 73756,
+      "logo_path": "/wnGompVmHo8QOxx005Lsez5fTb9.png",
+      "name": "PBS KIDS",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 52,
+      "id": 10095,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/ilqtguG0eI2YXoyLHddtqbkM34q.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-15",
+      "episode_count": 65,
+      "id": 10092,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wS6u9U1wSBaQ4f8o1EAnxCs5Na0.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2000-08-26",
+      "episode_count": 80,
+      "id": 10093,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/r1GQzmh5jaCZuMbcuKQ4DVhn58K.jpg",
+      "season_number": 2,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2002-01-12",
+      "episode_count": 62,
+      "id": 10094,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/i35AP1rJgesxcaa5kcRywK2K7i3.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-13",
+      "episode_count": 60,
+      "id": 10097,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/7TfUn5RCzqhGGVMOgj8siGVQ0Hc.jpg",
+      "season_number": 4,
+      "vote_average": 0.5
+    },
+    {
+      "air_date": "2010-09-11",
+      "episode_count": 78,
+      "id": 10096,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/sMG5yuny2Ib80Kgao6JQo1eeWkf.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-15",
+      "episode_count": 25,
+      "id": 119578,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-07",
+      "episode_count": 10,
+      "id": 119580,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119581,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119582,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119583,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119584,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119585,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119586,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 119587,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/3sv5I37tQNGztwtnVjgZkRPV6go.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119588,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119589,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119590,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119591,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119592,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119593,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119594,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 119595,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 119596,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/lAjLjTjki6sVFAM9Js96E1iv8bb.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.4,
+  "vote_count": 76,
+  "external_ids": {
+    "id": 3218,
+    "imdb_id": "tt0262153",
+    "freebase_mid": "/m/02rvvs",
+    "freebase_id": "/en/caillou",
+    "tvdb_id": 77953,
+    "tvrage_id": null,
+    "wikidata_id": "Q857007",
+    "facebook_id": "CaillouOfficial",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

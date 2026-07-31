@@ -1,0 +1,417 @@
+{
+  "adult": false,
+  "backdrop_path": "/abWeJnTYXX3C4MtLiRyRvM2HWUg.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    35
+  ],
+  "first_air_date": "1995-09-07",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.bnnvara.nl/zembla",
+  "id": 11840,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-03-12",
+  "last_episode_to_air": {
+    "id": 7150636,
+    "name": "Episode 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-09",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 35,
+    "show_id": 11840,
+    "still_path": null
+  },
+  "name": "Zembla",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 760,
+      "logo_path": "/el8phAL6Xa6vXvvaQNiELmEOgx8.png",
+      "name": "VARA",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2161,
+      "logo_path": "/tiBiiquRvGhxXteossLAWQkaFA1.png",
+      "name": "BNNVARA",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 895,
+  "number_of_seasons": 32,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Zembla",
+  "overview": "Zembla is a Dutch television documentary programme by VARA and NPS. The documentaries are based on in-depth research which can take months. The subjects are often controversial.\n\nA documentary in 2001 about fraud in the Dutch construction sector led to parliamentary inquiries.\n\nIn May 2006 the programme exposed the fact that politician Ayaan Hirsi Ali had lied in her claim for asylum, which led to her resignation from parliament.",
+  "popularity": 19.2949,
+  "poster_path": "/1d41YoIlPqC9k4zv3DSllQt5W8b.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-09-07",
+      "episode_count": 16,
+      "id": 22437,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-04",
+      "episode_count": 46,
+      "id": 22438,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 47,
+      "id": 22439,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 48,
+      "id": 22440,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-07",
+      "episode_count": 44,
+      "id": 22441,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-04-11",
+      "episode_count": 21,
+      "id": 22442,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-04",
+      "episode_count": 34,
+      "id": 22443,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-04",
+      "episode_count": 32,
+      "id": 22444,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 33,
+      "id": 22445,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-08",
+      "episode_count": 31,
+      "id": 22446,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-20",
+      "episode_count": 29,
+      "id": 22447,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-14",
+      "episode_count": 26,
+      "id": 22448,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2007-01-14",
+      "episode_count": 32,
+      "id": 22449,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 31,
+      "id": 22450,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-11",
+      "episode_count": 44,
+      "id": 22451,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-11",
+      "episode_count": 10,
+      "id": 22452,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-08",
+      "episode_count": 29,
+      "id": 380060,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-27",
+      "episode_count": 33,
+      "id": 380061,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-10",
+      "episode_count": 25,
+      "id": 380062,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-09",
+      "episode_count": 24,
+      "id": 380063,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-28",
+      "episode_count": 29,
+      "id": 70237,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-27",
+      "episode_count": 25,
+      "id": 98273,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-11",
+      "episode_count": 32,
+      "id": 205562,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-17",
+      "episode_count": 33,
+      "id": 205563,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-14",
+      "episode_count": 25,
+      "id": 205564,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-30",
+      "episode_count": 23,
+      "id": 205565,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-11",
+      "episode_count": 24,
+      "id": 205566,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-03",
+      "episode_count": 23,
+      "id": 316658,
+      "name": "Season 2022",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-16",
+      "episode_count": 13,
+      "id": 347813,
+      "name": "Season 2023",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-14",
+      "episode_count": 14,
+      "id": 380215,
+      "name": "Season 2024",
+      "overview": "",
+      "poster_path": "/w0BGv2UEiO9SP20AjHIrjJTCyKB.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-16",
+      "episode_count": 14,
+      "id": 443089,
+      "name": "Season 2025",
+      "overview": "",
+      "poster_path": "/lOCgezev9vRQYInouOpHYSAuxuJ.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-15",
+      "episode_count": 7,
+      "id": 497112,
+      "name": "Season 2026",
+      "overview": "",
+      "poster_path": "/tMiceqHXqlEMxjgc3CQ8hWpQnCC.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 9.3,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 11840,
+    "imdb_id": "tt7904354",
+    "freebase_mid": "/m/0cbsdx",
+    "freebase_id": "/en/zembla",
+    "tvdb_id": 276410,
+    "tvrage_id": 21081,
+    "wikidata_id": "Q17111786",
+    "facebook_id": "zembla.tv",
+    "instagram_id": "zembla_bnnvara",
+    "twitter_id": "zembla"
+  }
+}

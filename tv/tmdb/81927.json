@@ -1,0 +1,151 @@
+{
+  "adult": false,
+  "backdrop_path": "/k4zc5lQOetYrSsumZMWY2q4vgAE.jpg",
+  "created_by": [
+    {
+      "id": 2116148,
+      "credit_id": "5b83d0920e0a26458f03b625",
+      "name": "Mrinal Jha",
+      "original_name": "Mrinal Jha",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4322846,
+      "credit_id": "652cdc14358da75b61f87daa",
+      "name": "Gul Khan",
+      "original_name": "Gul Khan",
+      "gender": 1,
+      "profile_path": "/5CksshVJXxpdFnfwBAjEpO8nJpC.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2018-07-30",
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 81927,
+  "in_production": false,
+  "languages": [
+    "hi",
+    "kn"
+  ],
+  "last_air_date": "2020-03-20",
+  "last_episode_to_air": {
+    "id": 4821113,
+    "name": "Episode 23",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-03-20",
+    "episode_number": 23,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 81927,
+    "still_path": null
+  },
+  "name": "Nazar",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 3666,
+      "logo_path": "/6te7JogUd6uMBNxCTUevdHe0Juh.png",
+      "name": "Star Suvarna",
+      "origin_country": "IN"
+    },
+    {
+      "id": 159,
+      "logo_path": "/9cEITzi1VyVkre3Fom57vJBOEW3.png",
+      "name": "StarPlus",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 432,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_name": "नज़र",
+  "overview": "The Rathods may look like a normal family, but they have been reeling under the evil sight, 'nazar' of a supernatural entity, a Daayan. And once fallen, it never leaves…",
+  "popularity": 18.8706,
+  "poster_path": "/wPdryS0QZ38SeXvjrRmbBbkxlYE.jpg",
+  "production_companies": [
+    {
+      "id": 91482,
+      "logo_path": "/nJzdivoGRaJNUYeKv1cxEmmo0zi.png",
+      "name": "4 Lions Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-07-30",
+      "episode_count": 409,
+      "id": 108459,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-19",
+      "episode_count": 23,
+      "id": 143618,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/wPdryS0QZ38SeXvjrRmbBbkxlYE.jpg",
+      "season_number": 2,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 81927,
+    "imdb_id": "tt8706902",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 407502,
+    "tvrage_id": null,
+    "wikidata_id": "Q55813610",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

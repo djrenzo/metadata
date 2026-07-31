@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2015-01-20",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 242199,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2015-02-17",
+  "last_episode_to_air": {
+    "id": 5021304,
+    "name": "Episode 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-02-17",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 242199,
+    "still_path": null
+  },
+  "name": "贝瓦儿歌",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 1805,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "贝瓦儿歌",
+  "overview": "",
+  "popularity": 20.9902,
+  "poster_path": "/dD6sterTquFEY4Up8O47zvCxUjb.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2015-01-20",
+      "episode_count": 1805,
+      "id": 371357,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/dD6sterTquFEY4Up8O47zvCxUjb.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 242199,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

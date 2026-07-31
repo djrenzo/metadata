@@ -1,0 +1,375 @@
+{
+  "adult": false,
+  "backdrop_path": "/tf6jjp6zs72dGIyKXiJhOFYGWsr.jpg",
+  "created_by": [
+    {
+      "id": 1432302,
+      "credit_id": "54ef9a4b92514179680069cd",
+      "name": "Peter Merseburger",
+      "original_name": "Peter Merseburger",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2004-02-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://ndr.de/fernsehen/sendungen/extra_3",
+  "id": 62102,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-02-26",
+  "last_episode_to_air": {
+    "id": 7026460,
+    "name": "Episode 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-10",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 44,
+    "season_number": 23,
+    "show_id": 62102,
+    "still_path": "/2YlNLmrXljTMv4yF5ZzMIfhIpqz.jpg"
+  },
+  "name": "Extra 3",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    },
+    {
+      "id": 577,
+      "logo_path": "/3VwpncXscRwvbbeA5E7LX3yTCbD.png",
+      "name": "NDR Fernsehen",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1844,
+      "logo_path": "/s125v6BpZSyKDUDPZUOpfnbKwph.png",
+      "name": "EinsFestival",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 626,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Extra 3",
+  "overview": "Extra 3 is a political satirical magazine from Norddeutscher Rundfunk (NDR).",
+  "popularity": 31.8086,
+  "poster_path": "/xuJffmaJ4sbJDsK4rXInAU1huSo.jpg",
+  "production_companies": [
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 12372,
+      "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+      "name": "UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1976-09-21",
+      "episode_count": 12,
+      "id": 193170,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-02-26",
+      "episode_count": 3,
+      "id": 65154,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-02-27",
+      "episode_count": 1,
+      "id": 148036,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-02-02",
+      "episode_count": 1,
+      "id": 148037,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-28",
+      "episode_count": 6,
+      "id": 148038,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-21",
+      "episode_count": 1,
+      "id": 148039,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-08",
+      "episode_count": 4,
+      "id": 148040,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-10",
+      "episode_count": 37,
+      "id": 148041,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-09",
+      "episode_count": 32,
+      "id": 148042,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-11",
+      "episode_count": 39,
+      "id": 148043,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-09",
+      "episode_count": 36,
+      "id": 148044,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-15",
+      "episode_count": 37,
+      "id": 148045,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-22",
+      "episode_count": 35,
+      "id": 148046,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-21",
+      "episode_count": 38,
+      "id": 148047,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-19",
+      "episode_count": 40,
+      "id": 148048,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-18",
+      "episode_count": 40,
+      "id": 148049,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-09",
+      "episode_count": 38,
+      "id": 148050,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-08",
+      "episode_count": 41,
+      "id": 148051,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-07",
+      "episode_count": 40,
+      "id": 177138,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-12",
+      "episode_count": 48,
+      "id": 236904,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/dNrItJ57XTIrcDBD7CCjpygzNr0.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-18",
+      "episode_count": 39,
+      "id": 325075,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/9Jy7ogJGrrdLE3vgGOMAPJVOWUf.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-08",
+      "episode_count": 26,
+      "id": 373057,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-09",
+      "episode_count": 27,
+      "id": 437050,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-08",
+      "episode_count": 17,
+      "id": 493480,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.857,
+  "vote_count": 14,
+  "external_ids": {
+    "id": 62102,
+    "imdb_id": "tt0073989",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 255986,
+    "tvrage_id": 0,
+    "wikidata_id": "Q1385123",
+    "facebook_id": "extra3",
+    "instagram_id": "extra3",
+    "twitter_id": "extra3"
+  }
+}

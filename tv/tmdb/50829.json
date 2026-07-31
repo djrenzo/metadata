@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/npagdmqiCm3OVqNTlLsGXl88xkS.jpg",
+  "created_by": [
+    {
+      "id": 3671828,
+      "credit_id": "63022c41f056d50079936864",
+      "name": "Barbara Bulvová",
+      "original_name": "Barbara Bulvová",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2558987,
+      "credit_id": "63022c5c5f4b73007faa89dd",
+      "name": "Jan Coufal",
+      "original_name": "Jan Coufal",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2010-09-20",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.iprima.cz/cestydomu/",
+  "id": 50829,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2015-12-08",
+  "last_episode_to_air": {
+    "id": 3908825,
+    "name": "Episode 80",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2015-12-08",
+    "episode_number": 80,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 50829,
+    "still_path": null
+  },
+  "name": "Cesty domů",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 357,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Cesty domů",
+  "overview": "",
+  "popularity": 20.893,
+  "poster_path": "/LBQbWe2hyWuCJJwJdWRYx6etqw.jpg",
+  "production_companies": [
+    {
+      "id": 122618,
+      "logo_path": "/oXWUbYOOLKoromcYtia6Ll5UyC6.png",
+      "name": "FTV Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-10-18",
+      "episode_count": 3,
+      "id": 305591,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-20",
+      "episode_count": 197,
+      "id": 104449,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-19",
+      "episode_count": 80,
+      "id": 104450,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/vVPu0xA6cxHPSUtbnr1CnC1dQcP.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-18",
+      "episode_count": 80,
+      "id": 104451,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 50829,
+    "imdb_id": "tt1833295",
+    "freebase_mid": "/m/0vsydd3",
+    "freebase_id": null,
+    "tvdb_id": 418480,
+    "tvrage_id": null,
+    "wikidata_id": "Q11722952",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

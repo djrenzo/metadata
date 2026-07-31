@@ -1,0 +1,762 @@
+{
+  "adult": false,
+  "backdrop_path": "/dEMgiBItYlhrKkXpe0G6THaGW1y.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1959-02-26",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.svt.se/melodifestivalen/",
+  "id": 12642,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2026-03-07",
+  "last_episode_to_air": {
+    "id": 6807326,
+    "name": "Final - Stockholm",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-07",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 130,
+    "season_number": 65,
+    "show_id": 12642,
+    "still_path": "/AiIgFQ2FrL6ZSN6NryQCgKEvGcU.jpg"
+  },
+  "name": "Melodifestivalen",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 191,
+  "number_of_seasons": 65,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Melodifestivalen",
+  "overview": "Melodifestivalen (direct translation: The Melody Festival) is an annual music competition organised by Swedish public broadcaster Sveriges Television (SVT). The competition is a six part tour (5 heats + the final) with stops in cities across Sweden to determine the country's representative for the Eurovision Song Contest.\n\nMelodifestivalen is also known informally as \"Mello\", or internationally as \"Melfest\".",
+  "popularity": 19.4976,
+  "poster_path": "/tQLc2VH1jQnoiiuLC3RUO1AhsXU.jpg",
+  "production_companies": [
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-05-01",
+      "episode_count": 3,
+      "id": 23555,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-02-26",
+      "episode_count": 1,
+      "id": 23554,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1960-02-02",
+      "episode_count": 1,
+      "id": 121779,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/mdrHLVUv7hoj3c3gIrX88Ss6KnM.jpg",
+      "season_number": 2,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1961-02-06",
+      "episode_count": 1,
+      "id": 187734,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/hmsrC4tjGO1RdKzCSlUNzmRxwyo.jpg",
+      "season_number": 3,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1962-02-13",
+      "episode_count": 1,
+      "id": 187735,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1963-02-16",
+      "episode_count": 1,
+      "id": 187736,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/xYtqRUXEGlQG1tLuK1i1AeUgio.jpg",
+      "season_number": 5,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1965-02-13",
+      "episode_count": 1,
+      "id": 187737,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1966-01-29",
+      "episode_count": 1,
+      "id": 187738,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/qWct0RL0YKcS8OmK9Iw0tpMjccg.jpg",
+      "season_number": 7,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1967-02-24",
+      "episode_count": 1,
+      "id": 23556,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/uvdFqfLx38gf3wAEulDuxSxRvPZ.jpg",
+      "season_number": 8,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1968-03-09",
+      "episode_count": 1,
+      "id": 23557,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1969-03-01",
+      "episode_count": 1,
+      "id": 187740,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1971-02-27",
+      "episode_count": 1,
+      "id": 187741,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1972-02-12",
+      "episode_count": 1,
+      "id": 187743,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/vEh2i0IwuEL6c1t21McPCy5jRBD.jpg",
+      "season_number": 12,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1973-02-10",
+      "episode_count": 1,
+      "id": 187742,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1974-02-09",
+      "episode_count": 1,
+      "id": 133600,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/zEzbRRGIqmEV0wuccMnNXsNkc9J.jpg",
+      "season_number": 14,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1975-02-15",
+      "episode_count": 2,
+      "id": 139556,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/hfFtNSN7RTjNOVpJYXcn1YS6Bod.jpg",
+      "season_number": 15,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1977-02-26",
+      "episode_count": 1,
+      "id": 186015,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/z1rkx4fCrG3aB1kqUpuPZqni0iY.jpg",
+      "season_number": 16,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1978-02-11",
+      "episode_count": 1,
+      "id": 186362,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/UOy6fyBdAURMF8dQOkeJt2HEIr.jpg",
+      "season_number": 17,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1979-02-17",
+      "episode_count": 1,
+      "id": 186380,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/8AUTJTjK657HWw9gQAZNl2Fjhcj.jpg",
+      "season_number": 18,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1980-03-08",
+      "episode_count": 1,
+      "id": 143370,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1981-02-21",
+      "episode_count": 1,
+      "id": 131949,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1982-02-27",
+      "episode_count": 1,
+      "id": 80696,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1983-02-26",
+      "episode_count": 1,
+      "id": 81721,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1984-02-25",
+      "episode_count": 1,
+      "id": 81722,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1985-03-02",
+      "episode_count": 1,
+      "id": 88775,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1986-03-22",
+      "episode_count": 1,
+      "id": 121448,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1987-02-21",
+      "episode_count": 1,
+      "id": 77472,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1988-02-27",
+      "episode_count": 1,
+      "id": 86115,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1989-03-11",
+      "episode_count": 1,
+      "id": 134735,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/wtNcenChK65vYSNee3CBIyK6WqR.jpg",
+      "season_number": 28,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1990-03-09",
+      "episode_count": 1,
+      "id": 87662,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/11Q0nBPSZSBJ706JGwK63rHI6oK.jpg",
+      "season_number": 29,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1991-03-22",
+      "episode_count": 1,
+      "id": 121823,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1992-03-14",
+      "episode_count": 1,
+      "id": 93460,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/gK2DGkICXTXz9cccHrCSQtrtYuh.jpg",
+      "season_number": 31,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1993-03-05",
+      "episode_count": 1,
+      "id": 80091,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1994-03-12",
+      "episode_count": 1,
+      "id": 80272,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1995-02-24",
+      "episode_count": 1,
+      "id": 80273,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/hwlkJkWDyILIi06lVKAMfEbej3P.jpg",
+      "season_number": 34,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1996-02-24",
+      "episode_count": 1,
+      "id": 131442,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1997-03-08",
+      "episode_count": 1,
+      "id": 79840,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1998-03-14",
+      "episode_count": 1,
+      "id": 128514,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1999-02-27",
+      "episode_count": 1,
+      "id": 81349,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2000-03-10",
+      "episode_count": 1,
+      "id": 87666,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/aTEOUTyJBzFAy6WEaMu9LHFWaNn.jpg",
+      "season_number": 39,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2001-02-23",
+      "episode_count": 1,
+      "id": 81504,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2002-01-19",
+      "episode_count": 6,
+      "id": 76268,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "2003-02-15",
+      "episode_count": 6,
+      "id": 75794,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2004-02-21",
+      "episode_count": 6,
+      "id": 75653,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2005-02-12",
+      "episode_count": 6,
+      "id": 93446,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/xqtSDUSzssmUleaZ2OVfFW05mW1.jpg",
+      "season_number": 44,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2006-02-18",
+      "episode_count": 6,
+      "id": 23562,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2007-02-03",
+      "episode_count": 6,
+      "id": 88405,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2008-02-09",
+      "episode_count": 6,
+      "id": 23553,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2009-02-07",
+      "episode_count": 6,
+      "id": 23558,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "2010-02-06",
+      "episode_count": 6,
+      "id": 23559,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/3nwi6oqGWKv3NjG1rXZ6wkOrV2U.jpg",
+      "season_number": 49,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "2011-02-05",
+      "episode_count": 6,
+      "id": 23560,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "2012-02-04",
+      "episode_count": 6,
+      "id": 23561,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 2.3
+    },
+    {
+      "air_date": "2013-02-02",
+      "episode_count": 6,
+      "id": 120296,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2014-02-01",
+      "episode_count": 6,
+      "id": 121828,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2015-02-07",
+      "episode_count": 6,
+      "id": 76617,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": "/qoUKVmTBHNJrmI5L5GQGZDLWIZQ.jpg",
+      "season_number": 54,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2016-02-06",
+      "episode_count": 6,
+      "id": 75303,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": "/hJ1fQlZoanBvE1sQPeFwViGCD2J.jpg",
+      "season_number": 55,
+      "vote_average": 2.5
+    },
+    {
+      "air_date": "2017-02-04",
+      "episode_count": 6,
+      "id": 84667,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/kLt0UsleT2KcpY5JfQj6SIbF3pt.jpg",
+      "season_number": 56,
+      "vote_average": 2.4
+    },
+    {
+      "air_date": "2018-02-03",
+      "episode_count": 6,
+      "id": 118541,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/euIpGtYSOsWYlTf4tDqfFRtmTQ.jpg",
+      "season_number": 57,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2019-02-02",
+      "episode_count": 6,
+      "id": 118542,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": "/j6tvIanppCP7W74L8UTp50hzqvR.jpg",
+      "season_number": 58,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2020-02-01",
+      "episode_count": 6,
+      "id": 140679,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": "/uepAI5JYRkAVUnsK3omxrCHOpLZ.jpg",
+      "season_number": 59,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2021-02-06",
+      "episode_count": 6,
+      "id": 180301,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": "/ttiKIXghUdHzYJAZ4VvRRGvJDHp.jpg",
+      "season_number": 60,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2022-02-05",
+      "episode_count": 6,
+      "id": 221071,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": "/g3Mbbs6rShhQi3fbKR09fIBm32.jpg",
+      "season_number": 61,
+      "vote_average": 2
+    },
+    {
+      "air_date": "2023-02-04",
+      "episode_count": 6,
+      "id": 317471,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": "/eSd83DsJt6n6SenTVT0vOkvttom.jpg",
+      "season_number": 62,
+      "vote_average": 2.7
+    },
+    {
+      "air_date": "2024-02-03",
+      "episode_count": 6,
+      "id": 357980,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": "/y3adeJPOOHYR2ev4UL2o5gD9Nt.jpg",
+      "season_number": 63,
+      "vote_average": 3
+    },
+    {
+      "air_date": "2025-02-01",
+      "episode_count": 6,
+      "id": 432245,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": "/tDHiFx0BNAKZJ0TzYHsqzbz6SUt.jpg",
+      "season_number": 64,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2026-01-31",
+      "episode_count": 6,
+      "id": 492426,
+      "name": "Season 65",
+      "overview": "Melodifestivalen 2026 is the 66ᵗʰ edition of the competition and is hosted by seasoned presenter Gina Dirawi alongside first-time host Hampus Nessvold.\n\nThe tour starts in Linköping and continutes with stops in Gothenburg, Kristianstad, Malmö and Sundsvall, with the final stop in Stockholm at the national arena \"Strawberry Arena\" on March 7.",
+      "poster_path": "/bYgjEI6rCTs2PWJHCfoAqMmAapv.jpg",
+      "season_number": 65,
+      "vote_average": 3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.2,
+  "vote_count": 8,
+  "external_ids": {
+    "id": 12642,
+    "imdb_id": "tt17007288",
+    "freebase_mid": "/m/01wzcp",
+    "freebase_id": "/en/melodifestivalen",
+    "tvdb_id": 85348,
+    "tvrage_id": 18574,
+    "wikidata_id": "Q58884",
+    "facebook_id": "melodifestivalen",
+    "instagram_id": "melodifestivalen",
+    "twitter_id": null
+  }
+}

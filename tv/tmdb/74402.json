@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/o5IX97Nccdm7XNIHXCRGoxWaIBU.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2017-03-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://prima.iprima.cz/porady/modry-kod",
+  "id": 74402,
+  "in_production": false,
+  "languages": [
+    "cs"
+  ],
+  "last_air_date": "2020-06-22",
+  "last_episode_to_air": {
+    "id": 2325935,
+    "name": "Episode 264",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2020-06-22",
+    "episode_number": 264,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 74402,
+    "still_path": null
+  },
+  "name": "Blue Code",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 970,
+      "logo_path": "/rkXrvlCHvu9kholozdXInpFIcD4.png",
+      "name": "Prima",
+      "origin_country": "CZ"
+    }
+  ],
+  "number_of_episodes": 264,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_name": "Modrý kód",
+  "overview": "A Czech medical television series that focuses on an emergency department. Each episode follows cases inspired by real-life stories and the cases of patients and healthcare professionals.",
+  "popularity": 19.9109,
+  "poster_path": "/9jZYq4vRizZp8aJOXBrOR7j5A3y.jpg",
+  "production_companies": [
+    {
+      "id": 124204,
+      "logo_path": "/jwUkzHG2T4a2lvVIIIahcgV9zGX.png",
+      "name": "Good TV Production",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 121968,
+      "logo_path": null,
+      "name": "Česká výrobní",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-25",
+      "episode_count": 264,
+      "id": 93762,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9jZYq4vRizZp8aJOXBrOR7j5A3y.jpg",
+      "season_number": 1,
+      "vote_average": 9.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 74402,
+    "imdb_id": "tt7058158",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 326703,
+    "tvrage_id": null,
+    "wikidata_id": "Q28758131",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

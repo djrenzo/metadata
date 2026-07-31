@@ -1,0 +1,188 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 152076,
+      "credit_id": "52589812760ee346615be628",
+      "name": "Sarah Pia Anderson",
+      "original_name": "Sarah Pia Anderson",
+      "gender": 1,
+      "profile_path": "/oOKCyZjPNK5KSMzkWRAKBiDD1aB.jpg"
+    }
+  ],
+  "episode_run_time": [
+    35,
+    50
+  ],
+  "first_air_date": "1974-03-13",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 30504,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1983-05-20",
+  "last_episode_to_air": {
+    "id": 5574605,
+    "name": "Possibilities",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1983-05-20",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 8,
+    "show_id": 30504,
+    "still_path": null
+  },
+  "name": "Playhouse",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 117,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Playhouse",
+  "overview": "A one-hour anthology television series of one-off contemporary and classic dramas produced by the BBC.",
+  "popularity": 22.244,
+  "poster_path": "/5hkYEnIuKZRSIwvVhWAKgIFv0UJ.jpg",
+  "production_companies": [
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1974-03-13",
+      "episode_count": 3,
+      "id": 42013,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-08",
+      "episode_count": 3,
+      "id": 42014,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-03-19",
+      "episode_count": 9,
+      "id": 42015,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-09-29",
+      "episode_count": 6,
+      "id": 42016,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-12",
+      "episode_count": 1,
+      "id": 389029,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-11-07",
+      "episode_count": 31,
+      "id": 389030,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-10-31",
+      "episode_count": 29,
+      "id": 42017,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1981-10-30",
+      "episode_count": 35,
+      "id": 388698,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 30504,
+    "imdb_id": "tt0762803",
+    "freebase_mid": "/m/07ch_11",
+    "freebase_id": "/en/bbc2_playhouse",
+    "tvdb_id": 233511,
+    "tvrage_id": null,
+    "wikidata_id": "Q18355813",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

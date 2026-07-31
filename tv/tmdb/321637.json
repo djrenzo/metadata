@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2024-11-08",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 321637,
+  "in_production": true,
+  "languages": [],
+  "last_air_date": "2024-11-08",
+  "last_episode_to_air": {
+    "id": 7235426,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-11-08",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 321637,
+    "still_path": null
+  },
+  "name": "Prisoner of love",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9157,
+      "logo_path": "/9GktX5QnqZlSa3GjaqBFEqJsFc2.png",
+      "name": "DramaWave",
+      "origin_country": "SG"
+    }
+  ],
+  "number_of_episodes": 1,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Prisoner of love",
+  "overview": "",
+  "popularity": 22.3841,
+  "poster_path": "/6xQVlHcNkYHyGe5oRCRIYoX1Xem.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-11-08",
+      "episode_count": 1,
+      "id": 514817,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 321637,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

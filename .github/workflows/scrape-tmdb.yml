@@ -8,7 +8,7 @@ on:
         required: false
         default: "1"
       end_page:
-        description: "Last page to scrape (inclusive)"
+        description: "Last page to scrape (inclusive, TMDB caps at 500)"
         required: false
         default: "400"
   # Uncomment to run automatically, e.g. weekly:
@@ -34,20 +34,12 @@ jobs:
 
       - name: Run scraper
         env:
+          TMDB_BEARER_TOKEN: ${{ secrets.TMDB_BEARER_TOKEN }}
           START_PAGE: ${{ inputs.start_page || '1' }}
           END_PAGE: ${{ inputs.end_page || '400' }}
           OUTPUT_DIR: "."
-          DELAY_MS: "500"
-          DEBUG: "1"
+          DELAY_MS: "250"
         run: node scrape.js
-
-      - name: Upload debug HTML
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-html
-          path: debug/
-          if-no-files-found: ignore
 
       - name: Commit and push results
         uses: stefanzweifel/git-auto-commit-action@v5

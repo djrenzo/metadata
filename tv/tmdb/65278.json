@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/eXySrZkDWeOel45DlXTcSWiM6NH.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    70
+  ],
+  "first_air_date": "1998-02-01",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://tv.sbs.co.kr/gayo/",
+  "id": 65278,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-05-03",
+  "last_episode_to_air": {
+    "id": 3130979,
+    "name": "Episode 1318",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-19",
+    "episode_number": 1318,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 70,
+    "season_number": 1,
+    "show_id": 65278,
+    "still_path": null
+  },
+  "name": "Inkigayo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 1597,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "SBS 인기가요",
+  "overview": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week, they ask viewers to vote and select the most popular song of the week.",
+  "popularity": 24.6276,
+  "poster_path": "/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
+  "production_companies": [
+    {
+      "id": 38369,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "Seoul Broadcasting System",
+      "origin_country": "KR"
+    },
+    {
+      "id": 222168,
+      "logo_path": "/8j2J28sI16PnSXTIpR6kQcBON8u.png",
+      "name": "Prism Studios",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-04-27",
+      "episode_count": 5,
+      "id": 475189,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-01",
+      "episode_count": 1573,
+      "id": 73857,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/tiJQs4euOHdIPc7tTnB0eonQvqV.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-10",
+      "episode_count": 24,
+      "id": 192800,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Where do we go on Sundays? Together, to Inkigayo.",
+  "type": "Reality",
+  "vote_average": 7.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 65278,
+    "imdb_id": "tt6050846",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 284138,
+    "tvrage_id": null,
+    "wikidata_id": "Q485889",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

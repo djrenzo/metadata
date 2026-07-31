@@ -1,0 +1,330 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2005-10-11",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://sokodonau.satel.at/",
+  "id": 41349,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-04-07",
+  "last_episode_to_air": {
+    "id": 7140740,
+    "name": "Episode 13",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-09",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 20,
+    "show_id": 41349,
+    "still_path": "/3Y7A79PhCUIHttKAbTtd5R3FKDQ.jpg"
+  },
+  "name": "Vienna Crime Squad",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 189,
+      "logo_path": "/k1poBlW9HGDnIyZU67BtH3BXQuz.png",
+      "name": "ORF 1",
+      "origin_country": "AT"
+    }
+  ],
+  "number_of_episodes": 292,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_name": "SOKO Donau",
+  "overview": "SOKO Donau is an Austrian television series.",
+  "popularity": 35.9529,
+  "poster_path": "/krjAaeMOZfIYqz3tlnRSQUuUC0.jpg",
+  "production_companies": [
+    {
+      "id": 1440,
+      "logo_path": "/tTPVO2jX1Zy5UhLRyqywA0BZvwR.png",
+      "name": "Satel Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 18847,
+      "logo_path": null,
+      "name": "Almaro Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1704,
+      "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+      "name": "Bavaria Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-11-02",
+      "episode_count": 1,
+      "id": 459039,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-11",
+      "episode_count": 10,
+      "id": 51755,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/6GqHATasgW5fuGSze0fIkwKQkLd.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-10",
+      "episode_count": 12,
+      "id": 51750,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/w9zrbYJjH8EL4ElMgMGOV4XvQiR.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-02",
+      "episode_count": 12,
+      "id": 51752,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/mgstK8WWKPLXU1du82Mp3DC3eYm.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-17",
+      "episode_count": 15,
+      "id": 51753,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/oUAqjSn7uUrWjs8BOUXXK1qghDN.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-16",
+      "episode_count": 15,
+      "id": 51748,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/dIKjCJiOyb6gRZEptK9vQ0zglK7.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-14",
+      "episode_count": 13,
+      "id": 51749,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-28",
+      "episode_count": 14,
+      "id": 51754,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-11",
+      "episode_count": 16,
+      "id": 51751,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-10",
+      "episode_count": 16,
+      "id": 65051,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-11-25",
+      "episode_count": 16,
+      "id": 73809,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-11-10",
+      "episode_count": 16,
+      "id": 73810,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2017-02-24",
+      "episode_count": 16,
+      "id": 88440,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-07",
+      "episode_count": 17,
+      "id": 98060,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-13",
+      "episode_count": 16,
+      "id": 124278,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-06",
+      "episode_count": 16,
+      "id": 161916,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-24",
+      "episode_count": 16,
+      "id": 213455,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-21",
+      "episode_count": 16,
+      "id": 313310,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-03",
+      "episode_count": 14,
+      "id": 361382,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-04",
+      "episode_count": 13,
+      "id": 422511,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/5bAwS4urCwdm42JQRvuBeroQRRB.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-10",
+      "episode_count": 13,
+      "id": 504264,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/kNBqO17TaOVPY87plpSktyeISvL.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.071,
+  "vote_count": 7,
+  "external_ids": {
+    "id": 41349,
+    "imdb_id": "tt0461004",
+    "freebase_mid": "/m/0h7qf3x",
+    "freebase_id": null,
+    "tvdb_id": 133311,
+    "tvrage_id": null,
+    "wikidata_id": "Q873220",
+    "facebook_id": "SOKODonau",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

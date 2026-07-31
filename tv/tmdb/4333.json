@@ -1,0 +1,182 @@
+{
+  "adult": false,
+  "backdrop_path": "/aXwtwGjS7QjwY9HRPb1gH5stxvs.jpg",
+  "created_by": [
+    {
+      "id": 133223,
+      "credit_id": "525764a9760ee36aaa35093d",
+      "name": "Leslie Charteris",
+      "original_name": "Leslie Charteris",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1962-10-04",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 4333,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1969-02-09",
+  "last_episode_to_air": {
+    "id": 299658,
+    "name": "The World Beater",
+    "overview": "A beautiful blonde gets the Saint into trouble at a crooked auto race.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1969-02-09",
+    "episode_number": 20,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 6,
+    "show_id": 4333,
+    "still_path": "/lDQm6A5O696zw9Hs0KiqnsuG1I7.jpg"
+  },
+  "name": "The Saint",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 118,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Saint",
+  "overview": "Simon Templar is The Saint, a handsome, sophisticated, debonair, modern-day Robin Hood who recovers ill-gotten wealth and redistributes it to those in need.",
+  "popularity": 30.4357,
+  "poster_path": "/zwNVpAJkE4Gu1jv922IH7GOQlen.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 12807,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/4fnW9achPRi6lxjluFbm6HMesty.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-10-04",
+      "episode_count": 12,
+      "id": 12802,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/t3B5xZpqbUlx6gPrAdOzXBQmVre.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "1963-09-19",
+      "episode_count": 27,
+      "id": 12803,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/pwH4d9ylo0NupMCZSjWCfG612zl.jpg",
+      "season_number": 2,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "1964-10-08",
+      "episode_count": 23,
+      "id": 12801,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/6zN17QSiPYssGgOL5EnAU9crGy5.jpg",
+      "season_number": 3,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "1965-07-01",
+      "episode_count": 9,
+      "id": 12804,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/a1vIWlZqNiM65eqAzNRr4oaErzd.jpg",
+      "season_number": 4,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "1966-09-30",
+      "episode_count": 27,
+      "id": 12805,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/rCutvKRbp4rSOavRL4tQyWvGAmk.jpg",
+      "season_number": 5,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "1968-09-29",
+      "episode_count": 20,
+      "id": 12806,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/qxVH4A7ZySsd1Ko8opFe9DpJ8h0.jpg",
+      "season_number": 6,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "When 'The Saint' plays with fire...other people get burned!",
+  "type": "Scripted",
+  "vote_average": 7.4,
+  "vote_count": 133,
+  "external_ids": {
+    "id": 4333,
+    "imdb_id": "tt0055701",
+    "freebase_mid": "/m/050rcm",
+    "freebase_id": "/en/the_saint",
+    "tvdb_id": 75134,
+    "tvrage_id": 6158,
+    "wikidata_id": "Q1248868",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "adult": false,
+  "backdrop_path": "/6wfNpk7St2cfGZVSWPmjZehuSYH.jpg",
+  "created_by": [
+    {
+      "id": 1348682,
+      "credit_id": "5627ecf092514116a0000415",
+      "name": "Bill Arhos",
+      "original_name": "Bill Arhos",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    54,
+    45
+  ],
+  "first_air_date": "1975-01-01",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.pbs.org/klru/austin/",
+  "id": 10472,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-02-07",
+  "last_episode_to_air": {
+    "id": 6929473,
+    "name": "Leon Thomas",
+    "overview": "Newly minted two-time 2026 Grammy Award-winner and R&B innovator Leon Thomas delivers a magnetic hour showcasing songs from his Album of the Year-nominated MUTT. Dubbed \"R&B's hottest rock star,\" the Best New Artist nominee shines on the ACL stage.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-02-07",
+    "episode_number": 13,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 51,
+    "show_id": 10472,
+    "still_path": null
+  },
+  "name": "Austin City Limits",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 14,
+      "logo_path": "/4Fn4eQmEmJZ9YWjiIhZ6cF1QHAi.png",
+      "name": "PBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 563,
+  "number_of_seasons": 48,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Austin City Limits",
+  "overview": "Now the longest-running music series in American television history, ACL showcases popular music legends and innovators from every genre.",
+  "popularity": 20.0327,
+  "poster_path": "/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg",
+  "production_companies": [
+    {
+      "id": 36238,
+      "logo_path": null,
+      "name": "KLRU Austin",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-11-19",
+      "episode_count": 32,
+      "id": 20645,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 14,
+      "id": 20626,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": null,
+      "episode_count": 10,
+      "id": 20627,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20628,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20629,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20630,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20631,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20646,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20647,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-01",
+      "episode_count": 13,
+      "id": 79460,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 14,
+      "id": 20644,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-02-21",
+      "episode_count": 1,
+      "id": 20648,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 13,
+      "id": 20649,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 14,
+      "id": 20650,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-02-17",
+      "episode_count": 1,
+      "id": 20651,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-02-21",
+      "episode_count": 1,
+      "id": 20652,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-23",
+      "episode_count": 1,
+      "id": 191728,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-03-05",
+      "episode_count": 1,
+      "id": 20653,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 12,
+      "id": 20658,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-25",
+      "episode_count": 13,
+      "id": 79459,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-03-28",
+      "episode_count": 12,
+      "id": 20632,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-23",
+      "episode_count": 12,
+      "id": 20633,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-05",
+      "episode_count": 15,
+      "id": 20634,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-07",
+      "episode_count": 13,
+      "id": 20635,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-13",
+      "episode_count": 13,
+      "id": 20636,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-05",
+      "episode_count": 4,
+      "id": 20654,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-11",
+      "episode_count": 13,
+      "id": 20637,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-02",
+      "episode_count": 13,
+      "id": 20638,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-08",
+      "episode_count": 14,
+      "id": 20639,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-07",
+      "episode_count": 13,
+      "id": 20640,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-06",
+      "episode_count": 14,
+      "id": 20641,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-05-24",
+      "episode_count": 13,
+      "id": 20642,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/1WlYXI6rCntVen7QTKhuBZY1Mss.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-03",
+      "episode_count": 14,
+      "id": 20643,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/cxiBguirlJmbt1Al5QuWbF0Teoj.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-02",
+      "episode_count": 14,
+      "id": 20655,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/pbLQsG8wvyKg1blIfqEPcaHiro1.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-01",
+      "episode_count": 15,
+      "id": 20656,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/w29zMLZKnOBzBugUA2G5Bg9z9mR.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-06",
+      "episode_count": 13,
+      "id": 20657,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/9cQdMcAjZJWClzbSpD13m2IHinB.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-05",
+      "episode_count": 13,
+      "id": 63176,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/2gCMUA0x93J4e3CPnTbcNwXyG7j.jpg",
+      "season_number": 39,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2014-10-04",
+      "episode_count": 14,
+      "id": 63177,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/uWSS9HdewICLxhpnLcpeOzxAhIk.jpg",
+      "season_number": 40,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2015-10-03",
+      "episode_count": 15,
+      "id": 70994,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/eRzMTho79xUrZG3WiPimtkxZogS.jpg",
+      "season_number": 41,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2016-10-01",
+      "episode_count": 13,
+      "id": 78914,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/jc40Qlr1hSLbaZ2NNjNkGkRGtP.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-07",
+      "episode_count": 13,
+      "id": 92442,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/8iXm1kzJEy2LPW0NWx9XwcLF5Yx.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-06",
+      "episode_count": 13,
+      "id": 108134,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/lU3K1oCsnk1a1tL2DTrhcdEOPii.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-10-05",
+      "episode_count": 13,
+      "id": 133414,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": "/fSJ64liyf1dmypPUSrzJ12PhnOS.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-03",
+      "episode_count": 13,
+      "id": 162291,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": "/pptxYnBg51PJsXpMLpol8180xzB.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-02",
+      "episode_count": 13,
+      "id": 216782,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": "/eV33i7y6iTfvEEMzeUBbH3JPA4Y.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-01",
+      "episode_count": 13,
+      "id": 304134,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": "/yeHHX9WRG9QxZ7Wq9R1SlFrKM7T.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-07",
+      "episode_count": 13,
+      "id": 355141,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": "/z5BXIXSMfPadle47Ie4HRpqmR7j.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-28",
+      "episode_count": 13,
+      "id": 421791,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": "/wsfmzuUUGAXjkro5gFkU3hzgagl.jpg",
+      "season_number": 50,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-10-04",
+      "episode_count": 13,
+      "id": 479986,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Great music. No limits.",
+  "type": "Documentary",
+  "vote_average": 6.3,
+  "vote_count": 19,
+  "external_ids": {
+    "id": 10472,
+    "imdb_id": "tt0364784",
+    "freebase_mid": "/m/017m5r",
+    "freebase_id": "/en/austin_city_limits",
+    "tvdb_id": 71649,
+    "tvrage_id": 2674,
+    "wikidata_id": "Q3305766",
+    "facebook_id": "austincitylimitstv",
+    "instagram_id": "acltv",
+    "twitter_id": "acltv"
+  }
+}

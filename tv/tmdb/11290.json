@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": "/cuOIm55vNGcvbTmXQc5ZkN4yNRy.jpg",
+  "created_by": [
+    {
+      "id": 2046952,
+      "credit_id": "68f768158134ae44ad97fe33",
+      "name": "Michael Bakewell",
+      "original_name": "Michael Bakewell",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 169518,
+      "credit_id": "68f76822bb7ba22634cd1274",
+      "name": "Cedric Messina",
+      "original_name": "Cedric Messina",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1964-05-03",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11290,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1968-08-05",
+  "last_episode_to_air": {
+    "id": 6298410,
+    "name": "Mille Miglia",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1968-08-05",
+    "episode_number": 27,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 11290,
+    "still_path": null
+  },
+  "name": "Theatre 625",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 332,
+      "logo_path": "/7HVPn1p2w1nC5oRKBehXVHpss7e.png",
+      "name": "BBC Two",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 115,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Theatre 625",
+  "overview": "Theatre 625 is a British television drama anthology series, produced by the BBC and transmitted on BBC2 from 1964 to 1968. It was one of the first regular programmes in the line-up of the channel, and the title referred to its production and transmission being in the higher-definition 625-line format, which only BBC2 used at the time.",
+  "popularity": 27.5736,
+  "poster_path": "/dfNZWvjxw0HN5rZXvYzzb2UvsDW.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1964-05-03",
+      "episode_count": 5,
+      "id": 318390,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-09-20",
+      "episode_count": 18,
+      "id": 318391,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-09-05",
+      "episode_count": 35,
+      "id": 318392,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-10-02",
+      "episode_count": 30,
+      "id": 318393,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-09-24",
+      "episode_count": 27,
+      "id": 318394,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 11290,
+    "imdb_id": "tt0212698",
+    "freebase_mid": "/m/03ps6t",
+    "freebase_id": "/en/theatre_625",
+    "tvdb_id": 73135,
+    "tvrage_id": null,
+    "wikidata_id": "Q7777339",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "adult": false,
+  "backdrop_path": "/ge4mIJjh3kZ1oXGblRoVB5h6xPo.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    40
+  ],
+  "first_air_date": "2024-01-17",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.cbs.com/shows/after-midnight/",
+  "id": 242965,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-06-13",
+  "last_episode_to_air": {
+    "id": 6208713,
+    "name": "6/12/25 (Final Tournament Championship: Gillian Jacobs, Marcella Arguello, Paul F. Tompkins)",
+    "overview": "",
+    "vote_average": 4,
+    "vote_count": 6,
+    "air_date": "2025-06-13",
+    "episode_number": 113,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 40,
+    "season_number": 2,
+    "show_id": 242965,
+    "still_path": null
+  },
+  "name": "After Midnight",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 199,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "After Midnight",
+  "overview": "Celebrated comedian Taylor Tomlinson hosts the smartest show on television about the dumbest things on the internet alongside a panel of guests from the worlds of entertainment, comedy, music, and beyond.",
+  "popularity": 33.5966,
+  "poster_path": "/7O67hHXEaiW30UQdunBqlyPsfGh.jpg",
+  "production_companies": [
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 90191,
+      "logo_path": null,
+      "name": "Spartina Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21213,
+      "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+      "name": "Funny or Die",
+      "origin_country": "US"
+    },
+    {
+      "id": 186146,
+      "logo_path": null,
+      "name": "Dixon Talent",
+      "origin_country": ""
+    },
+    {
+      "id": 76800,
+      "logo_path": "/tmhsYGt5ADxq7qWWAd3Yc5PmYtg.png",
+      "name": "Serious Business",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-01-16",
+      "episode_count": 86,
+      "id": 372876,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/aW7fvVFZEa15ndAdECH8IO5NnIW.jpg",
+      "season_number": 1,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "2024-09-04",
+      "episode_count": 113,
+      "id": 407548,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/7O67hHXEaiW30UQdunBqlyPsfGh.jpg",
+      "season_number": 2,
+      "vote_average": 3.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.458,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 242965,
+    "imdb_id": "tt30787693",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 441733,
+    "tvrage_id": null,
+    "wikidata_id": "Q123286436",
+    "facebook_id": "atmidnight",
+    "instagram_id": "aftermidnight",
+    "twitter_id": "midnight"
+  }
+}

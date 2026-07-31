@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/pXjrO8dgtXKYPfN6U1Q2jkBb0fN.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    75
+  ],
+  "first_air_date": "2012-02-14",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.mbcplus.com/web/program/contentList.do?programInfoSeq=67&pageIndex=1&channelSeq=5&state=",
+  "id": 130013,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2025-08-20",
+  "last_episode_to_air": {
+    "id": 7283285,
+    "name": "Episode 614",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-29",
+    "episode_number": 614,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 130013,
+    "still_path": null
+  },
+  "name": "Show! Champion",
+  "next_episode_to_air": {
+    "id": 7283289,
+    "name": "Episode 615",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-05",
+    "episode_number": 615,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 130013,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2513,
+      "logo_path": "/u1VM5H7ACyXF2vGkE1hwbXk6vFN.png",
+      "name": "MBC M",
+      "origin_country": "KR"
+    },
+    {
+      "id": 1234,
+      "logo_path": "/cFhubSOjMZXKxVbg7fylXUk8HPb.png",
+      "name": "MBC every1",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 542,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "쇼! 챔피언",
+  "overview": "Show Champion (Korean: 쇼! 챔피언) is a South Korean music television program broadcast live by MBC M every Wednesday at Bitmaru Broadcasting Center in Ilsan.",
+  "popularity": 23.0854,
+  "poster_path": "/9SoRDu5oh1HN2xZIbnfHC9A7C7U.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-02-14",
+      "episode_count": 596,
+      "id": 203868,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Always music, feel the K-pop!",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 130013,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q488132",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

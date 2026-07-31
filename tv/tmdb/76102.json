@@ -1,0 +1,215 @@
+{
+  "adult": false,
+  "backdrop_path": "/nV7lySVOF8S7NlT2S0VxNqpAhyN.jpg",
+  "created_by": [
+    {
+      "id": 1558119,
+      "credit_id": "5a4d65f50e0a2646cc01ad73",
+      "name": "Marcin Głowacki",
+      "original_name": "Marcin Głowacki",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1953315,
+      "credit_id": "5a4d65d8925141076400b56a",
+      "name": "Małgorzata Urbanik",
+      "original_name": "Małgorzata Urbanik",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2014-09-01",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://szkola.tvn.pl",
+  "id": 76102,
+  "in_production": true,
+  "languages": [
+    "pl"
+  ],
+  "last_air_date": "2019-05-30",
+  "last_episode_to_air": {
+    "id": 1793018,
+    "name": "Episode 66",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-05-30",
+    "episode_number": 66,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 10,
+    "show_id": 76102,
+    "still_path": null
+  },
+  "name": "School",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 504,
+      "logo_path": "/1eFvEkm4Kyu5oArfCaGoznXUF7X.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "number_of_episodes": 708,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_name": "Szkoła",
+  "overview": "",
+  "popularity": 34.4311,
+  "poster_path": "/oIOWfAtR7HQesFySnU3Kx7RrWU5.jpg",
+  "production_companies": [
+    {
+      "id": 5622,
+      "logo_path": "/bKcpepYRLylECRb5LVkskW0TQIX.png",
+      "name": "TVN",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 63,
+      "id": 97402,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-09",
+      "episode_count": 78,
+      "id": 97405,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-01",
+      "episode_count": 78,
+      "id": 97406,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-08",
+      "episode_count": 77,
+      "id": 97407,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 65,
+      "id": 97408,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-06",
+      "episode_count": 72,
+      "id": 97409,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 69,
+      "id": 122279,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-12",
+      "episode_count": 72,
+      "id": 122280,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 68,
+      "id": 122281,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-25",
+      "episode_count": 66,
+      "id": 122510,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 76102,
+    "imdb_id": "tt5732592",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 351588,
+    "tvrage_id": null,
+    "wikidata_id": "Q18435084",
+    "facebook_id": "tvnszkola",
+    "instagram_id": "szkola.tvn.pl",
+    "twitter_id": null
+  }
+}

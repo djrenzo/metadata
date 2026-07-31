@@ -1,0 +1,202 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2010-09-04",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.xfactor.stb.ua",
+  "id": 32132,
+  "in_production": false,
+  "languages": [
+    "ru",
+    "uk"
+  ],
+  "last_air_date": "2019-12-28",
+  "last_episode_to_air": {
+    "id": 6420285,
+    "name": "Live Show 5",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-12-28",
+    "episode_number": 16,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 10,
+    "show_id": 32132,
+    "still_path": null
+  },
+  "name": "X-Factor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 1206,
+      "logo_path": "/7UAvLVV9qR1WqOh199WclykX9cX.png",
+      "name": "STB",
+      "origin_country": "UA"
+    }
+  ],
+  "number_of_episodes": 184,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_name": "X-Factor",
+  "overview": "X-Factor / Йкс-Фа́ктор is the Ukrainian version of the British format The X-Factor — a musical talent show, the main purpose of which is to find and develop the singing talent of the contestants. All contestants are selected through public auditions.",
+  "popularity": 40.1159,
+  "poster_path": "/gN5TwNsqZWQud3aHzUIfdpQyd3F.jpg",
+  "production_companies": [
+    {
+      "id": 100724,
+      "logo_path": "/7UAvLVV9qR1WqOh199WclykX9cX.png",
+      "name": "STB",
+      "origin_country": "UA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-09-04",
+      "episode_count": 19,
+      "id": 367289,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-27",
+      "episode_count": 19,
+      "id": 43563,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-01",
+      "episode_count": 19,
+      "id": 361884,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-31",
+      "episode_count": 19,
+      "id": 367288,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-23",
+      "episode_count": 19,
+      "id": 367290,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-22",
+      "episode_count": 19,
+      "id": 367291,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-27",
+      "episode_count": 18,
+      "id": 367292,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-02",
+      "episode_count": 18,
+      "id": 367293,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-01",
+      "episode_count": 18,
+      "id": 367294,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-14",
+      "episode_count": 16,
+      "id": 367295,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 32132,
+    "imdb_id": null,
+    "freebase_mid": "/m/0b76vfm",
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

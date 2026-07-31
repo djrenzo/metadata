@@ -1,0 +1,162 @@
+{
+  "adult": false,
+  "backdrop_path": "/hdljnb2VUZAkoQ5u07w6nwRFzMt.jpg",
+  "created_by": [
+    {
+      "id": 29808,
+      "credit_id": "66508b05691dda35fb069d44",
+      "name": "Robert Florey",
+      "original_name": "Robert Florey",
+      "gender": 2,
+      "profile_path": "/cRX6qkTniwyr1Kt0yTWIlqHO25F.jpg"
+    },
+    {
+      "id": 19328,
+      "credit_id": "66508a561e57059561cb2638",
+      "name": "Dick Powell",
+      "original_name": "Dick Powell",
+      "gender": 2,
+      "profile_path": "/msDrFPoalt7oWWK9S1ELCgSF3R2.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1956-10-05",
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 14328,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1961-05-18",
+  "last_episode_to_air": {
+    "id": 517706,
+    "name": "Jericho",
+    "overview": "A woman sentenced to hang for the murder of her husband is sent a second chance by a Government Agent.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1961-05-18",
+    "episode_number": 30,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 14328,
+    "still_path": null
+  },
+  "name": "Dick Powell's Zane Grey Theatre",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 147,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Dick Powell's Zane Grey Theatre",
+  "overview": "Dick Powell's Zane Grey Theatre, sometimes simply called Zane Grey Theatre, is an American Western anthology series which ran on CBS from 1956 to 1961.",
+  "popularity": 24.6238,
+  "poster_path": "/kY1GfRiVJI6pT5BdJmtJ5jtT6bh.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1956-10-05",
+      "episode_count": 30,
+      "id": 25705,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9isb0QsZ8leDf9nbQYmdIWtV3sH.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-10-04",
+      "episode_count": 29,
+      "id": 25701,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/6NlBMAFgcadGJhesCR7fDeP8JGy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-10-02",
+      "episode_count": 29,
+      "id": 25702,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/hlb7E7cwqKAyZK5T5YzHQL7t6WK.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-10-01",
+      "episode_count": 29,
+      "id": 25703,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/q3ovUYBfjPHiJmYA5bF8iT0U3ZN.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-10-06",
+      "episode_count": 30,
+      "id": 25704,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/q3ovUYBfjPHiJmYA5bF8iT0U3ZN.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.2,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 14328,
+    "imdb_id": "tt0048916",
+    "freebase_mid": "/m/03hk3yt",
+    "freebase_id": "/en/dick_powells_zane_grey_theater",
+    "tvdb_id": 72341,
+    "tvrage_id": null,
+    "wikidata_id": "Q1248810",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

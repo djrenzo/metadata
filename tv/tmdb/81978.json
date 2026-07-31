@@ -1,0 +1,165 @@
+{
+  "adult": false,
+  "backdrop_path": "/fDSZ9s6QJfgDvqceTBLUFpNB71j.jpg",
+  "created_by": [
+    {
+      "id": 2355589,
+      "credit_id": "60d5927925b9550046ab84df",
+      "name": "Kim Min-seok",
+      "original_name": "Kim Min-seok",
+      "gender": 0,
+      "profile_path": "/iVr8myfWyL1E3MfrFaSaAN77y5y.jpg"
+    },
+    {
+      "id": 2355590,
+      "credit_id": "60d59283ef9d72002facd3b4",
+      "name": "Lee Eon-joo",
+      "original_name": "이언주",
+      "gender": 0,
+      "profile_path": "/inamSJk9C0OahbEIc2HpaLhvpHf.jpg"
+    },
+    {
+      "id": 2034516,
+      "credit_id": "60d5926ca6d9310046521746",
+      "name": "Park Hee-yeon",
+      "original_name": "Park Hee-yeon",
+      "gender": 0,
+      "profile_path": "/6spjKJEVdS07AK5uLHoG25m7dYw.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-08-29",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://program.tving.com/tvn/youquizontheblock",
+  "id": 81978,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-06-10",
+  "last_episode_to_air": {
+    "id": 7545329,
+    "name": "Episode 351",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-15",
+    "episode_number": 351,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 81978,
+    "still_path": null
+  },
+  "name": "You Quiz on the Block",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 866,
+      "logo_path": "/4iJILrndsUAvriueBVHe8u0nVqo.png",
+      "name": "tvN",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 348,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "유 퀴즈 온 더 블럭",
+  "overview": "Yoo Jae-suk and Jo Se-ho who enter ordinary people's everyday lives, chat with them, and give them surprise quizzes! The talk and quiz show program will spotlight these people's lives and aims to gift them a refreshing, different kind of day. Recently they're also inviting celebrities & professionals to the show.",
+  "popularity": 26.4365,
+  "poster_path": "/4zAQgKWGP2bJk11OKvwY1GCJjQR.jpg",
+  "production_companies": [
+    {
+      "id": 128404,
+      "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+      "name": "CJ ENM",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-09",
+      "episode_count": 3,
+      "id": 296778,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/yq8mLP36jUjByiCsjdu28klscfU.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-29",
+      "episode_count": 351,
+      "id": 108580,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mKzHtpp1lCvgrIMb3EPQ7Z2cQIS.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2019-04-16",
+      "episode_count": 1,
+      "id": 497234,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/Aq0CZ3DMkP4jQU56G2enDgkFxS9.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-03-11",
+      "episode_count": 1,
+      "id": 497235,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/wFDpJhNYne3NgqZyQwIUUApAm8d.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Are you ready for a surprise quiz? (\"You Quiz?\")",
+  "type": "Talk Show",
+  "vote_average": 8.3,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 81978,
+    "imdb_id": "tt14313304",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 352008,
+    "tvrage_id": null,
+    "wikidata_id": "Q56290182",
+    "facebook_id": null,
+    "instagram_id": "youquizontheblock",
+    "twitter_id": null
+  }
+}

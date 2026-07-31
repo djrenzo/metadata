@@ -1,0 +1,277 @@
+{
+  "adult": false,
+  "backdrop_path": "/aNYE3GKV0MsmlQtwzZI7bEq55Xq.jpg",
+  "created_by": [
+    {
+      "id": 165899,
+      "credit_id": "659069f7651fcf5f688db850",
+      "name": "Simon Cowell",
+      "original_name": "Simon Cowell",
+      "gender": 2,
+      "profile_path": "/pKllSRO03fLD6z0dMMQAuooKXhF.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2004-09-04",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "",
+  "id": 13999,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2018-12-02",
+  "last_episode_to_air": {
+    "id": 1632657,
+    "name": "Final Sunday",
+    "overview": "Dermot O'Leary hosts the tension-packed season finale as the X Factor 2018 winner is crowned.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2018-12-02",
+    "episode_number": 28,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 15,
+    "show_id": 13999,
+    "still_path": null
+  },
+  "name": "The X Factor",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 423,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The X Factor",
+  "overview": "The X Factor is a British television music competition to find new singing talent, contested by aspiring singers drawn from public auditions.",
+  "popularity": 24.0983,
+  "poster_path": "/8vBwAUaiFEcQQHx2vgj5cG6OB6b.jpg",
+  "production_companies": [
+    {
+      "id": 5645,
+      "logo_path": "/bKcQzzCVVeqgby86hAqKm5iVuzi.png",
+      "name": "Talkback Thames",
+      "origin_country": "GB"
+    },
+    {
+      "id": 26554,
+      "logo_path": "/8KCY7SFDapSTQhEVH6jQMaabCmV.png",
+      "name": "FremantleMedia",
+      "origin_country": "GB"
+    },
+    {
+      "id": 67127,
+      "logo_path": null,
+      "name": "Syco Television",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 25290,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-04",
+      "episode_count": 23,
+      "id": 25291,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-20",
+      "episode_count": 30,
+      "id": 25292,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-19",
+      "episode_count": 30,
+      "id": 25293,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2007-08-18",
+      "episode_count": 28,
+      "id": 25294,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-16",
+      "episode_count": 30,
+      "id": 25295,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-22",
+      "episode_count": 30,
+      "id": 25296,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/541JuoF0vwgXYaMNessIxK0cOSB.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-21",
+      "episode_count": 30,
+      "id": 25297,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-20",
+      "episode_count": 31,
+      "id": 25298,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/chxJnLfdSzWwpQqug2OZYaYZMAo.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-18",
+      "episode_count": 31,
+      "id": 25299,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-31",
+      "episode_count": 32,
+      "id": 25300,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-30",
+      "episode_count": 34,
+      "id": 63446,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-25",
+      "episode_count": 28,
+      "id": 69867,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/g7SItN4TeAnG9jz56rEFT1zIwS2.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-27",
+      "episode_count": 32,
+      "id": 79577,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-02",
+      "episode_count": 28,
+      "id": 92275,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2018-08-31",
+      "episode_count": 28,
+      "id": 108698,
+      "name": "Series 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.158,
+  "vote_count": 98,
+  "external_ids": {
+    "id": 13999,
+    "imdb_id": "tt0423776",
+    "freebase_mid": "/m/03gvm3t",
+    "freebase_id": "",
+    "tvdb_id": 74626,
+    "tvrage_id": 6313,
+    "wikidata_id": "Q4431988",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

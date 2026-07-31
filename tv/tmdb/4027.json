@@ -1,0 +1,200 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 1235226,
+      "credit_id": "52575a97760ee36aaa2a35a4",
+      "name": "Judy Finnigan",
+      "original_name": "Judy Finnigan",
+      "gender": 0,
+      "profile_path": "/jZb2wmMuePEGUHgSV3dHrZJpmc7.jpg"
+    },
+    {
+      "id": 1215899,
+      "credit_id": "52575a96760ee36aaa2a359b",
+      "name": "Richard Madeley",
+      "original_name": "Richard Madeley",
+      "gender": 2,
+      "profile_path": "/kGiq436gIdXTCCFCFrggukZXuWx.jpg"
+    }
+  ],
+  "episode_run_time": [
+    48
+  ],
+  "first_air_date": "2001-11-26",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.channel4.com/richard&judy",
+  "id": 4027,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2008-08-22",
+  "last_episode_to_air": {
+    "id": 281626,
+    "name": "Series 9, Episode 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-08-22",
+    "episode_number": 50,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 48,
+    "season_number": 9,
+    "show_id": 4027,
+    "still_path": null
+  },
+  "name": "Richard & Judy",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 26,
+      "logo_path": "/7Ai64ZDaVbGDtm7f0QSZAKohjk4.png",
+      "name": "Channel 4",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 991,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Richard & Judy",
+  "overview": "Richard &amp; Judy was a British chat show presented by the married couple Richard Madeley and Judy Finnigan. The show originally aired on Channel 4, from 2001 to 2008, but later moved to digital channel, Watch, in October 2008. The programme featured a number of celebrities and a book club. Its final episode aired in July 2009 due to low ratings.",
+  "popularity": 24.4036,
+  "poster_path": "/eGBCP2UOeZhX0GijSI8NZX6xxXt.jpg",
+  "production_companies": [
+    {
+      "id": 56495,
+      "logo_path": null,
+      "name": "Cactus TV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2001-11-26",
+      "episode_count": 145,
+      "id": 11942,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-16",
+      "episode_count": 203,
+      "id": 11945,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-21",
+      "episode_count": 195,
+      "id": 11940,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 195,
+      "id": 11944,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-06-19",
+      "episode_count": 54,
+      "id": 11943,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-29",
+      "episode_count": 45,
+      "id": 11941,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-06-18",
+      "episode_count": 54,
+      "id": 11946,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 50,
+      "id": 11947,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-06-16",
+      "episode_count": 50,
+      "id": 11948,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 3.385,
+  "vote_count": 13,
+  "external_ids": {
+    "id": 4027,
+    "imdb_id": "tt0299374",
+    "freebase_mid": "/m/06np2r",
+    "freebase_id": "/en/richard_judy",
+    "tvdb_id": 74286,
+    "tvrage_id": null,
+    "wikidata_id": "Q7323530",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

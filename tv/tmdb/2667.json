@@ -1,0 +1,342 @@
+{
+  "adult": false,
+  "backdrop_path": "/bcOQi7jYd4XZpQ1JMbZ24p5iI6W.jpg",
+  "created_by": [
+    {
+      "id": 1232273,
+      "credit_id": "52573f4319c29531db07195f",
+      "name": "Frank Stanton",
+      "original_name": "Frank Stanton",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    24,
+    46
+  ],
+  "first_air_date": "1954-11-07",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.cbsnews.com/face-the-nation/",
+  "id": 2667,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-28",
+  "last_episode_to_air": {
+    "id": 6593183,
+    "name": "TBA",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-28",
+    "episode_number": 52,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 72,
+    "show_id": 2667,
+    "still_path": null
+  },
+  "name": "Face The Nation",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 951,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Face The Nation",
+  "overview": "Face The Nation with Margaret Brennan is an American Sunday morning political interview show, which premiered on the CBS television network. It is one of the longest-running news programs in television history, having debuted in 1954.",
+  "popularity": 26.3798,
+  "poster_path": "/q0RZ8mFg9MHBsMfqESTvhS5WkiT.jpg",
+  "production_companies": [
+    {
+      "id": 55052,
+      "logo_path": null,
+      "name": "CBS News Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1954-11-07",
+      "episode_count": 43,
+      "id": 8604,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-09-04",
+      "episode_count": 52,
+      "id": 8605,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-09-02",
+      "episode_count": 52,
+      "id": 8606,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-09-01",
+      "episode_count": 1,
+      "id": 8603,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-04",
+      "episode_count": 51,
+      "id": 8607,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-03",
+      "episode_count": 52,
+      "id": 8608,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-02",
+      "episode_count": 14,
+      "id": 8609,
+      "name": "Season 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 39,
+      "id": 478682,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 18,
+      "id": 478683,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 9,
+      "id": 8610,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 21,
+      "id": 361155,
+      "name": "Season 60",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 51,
+      "id": 478684,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 32,
+      "id": 478685,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 51,
+      "id": 478686,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 53,
+      "id": 478687,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 51,
+      "id": 478688,
+      "name": "Season 65",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 51,
+      "id": 478689,
+      "name": "Season 66",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 51,
+      "id": 478690,
+      "name": "Season 67",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 51,
+      "id": 478691,
+      "name": "Season 68",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-02",
+      "episode_count": 52,
+      "id": 361156,
+      "name": "Season 69",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 52,
+      "id": 379789,
+      "name": "Season 70",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 52,
+      "id": 441435,
+      "name": "Season 71",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-05",
+      "episode_count": 52,
+      "id": 478692,
+      "name": "Season 72",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 8.5,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 2667,
+    "imdb_id": "tt0361178",
+    "freebase_mid": "/m/02c9xm",
+    "freebase_id": "/en/face_the_nation",
+    "tvdb_id": 75204,
+    "tvrage_id": null,
+    "wikidata_id": "Q1655894",
+    "facebook_id": "FaceTheNation",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

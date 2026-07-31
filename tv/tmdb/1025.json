@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": "/6wVEWwNpOOIWalkqsoV8SNGBryI.jpg",
+  "created_by": [
+    {
+      "id": 1221795,
+      "credit_id": "525412ca19c29579403533e5",
+      "name": "Jay Ward",
+      "original_name": "Jay Ward",
+      "gender": 0,
+      "profile_path": "/wnpuNyjnPGOd3zgWXJxgHccVm3C.jpg"
+    },
+    {
+      "id": 1035387,
+      "credit_id": "525412ca19c29579403533eb",
+      "name": "Bill Scott",
+      "original_name": "Bill Scott",
+      "gender": 2,
+      "profile_path": "/51rKJ6TDIlaEPkor4Pfn8Ux7tga.jpg"
+    }
+  ],
+  "episode_run_time": [
+    5
+  ],
+  "first_air_date": "1959-11-19",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1025,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1963-07-05",
+  "last_episode_to_air": {
+    "id": 1025356,
+    "name": "Rocky & Bullwinkle - Moosylvania Saved (4) - Moosylvania Mish Mash or A State of Confusion",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1963-07-05",
+    "episode_number": 165,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 1025,
+    "still_path": null
+  },
+  "name": "The Bullwinkle Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 815,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Bullwinkle Show",
+  "overview": "A variety show, with the main feature being the serialized adventures of the two title characters, the anthropomorphic moose Bullwinkle and flying squirrel Rocky. The main adversaries in most of their adventures are the Russian-like spies Boris Badenov and Natasha Fatale. Supporting segments include Dudley Do-Right, Peabody's Improbable History, and Fractured Fairy Tales, among others.",
+  "popularity": 28.3105,
+  "poster_path": "/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
+  "production_companies": [
+    {
+      "id": 67002,
+      "logo_path": null,
+      "name": "Jay Ward Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 67003,
+      "logo_path": null,
+      "name": "P.A.T.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1959-11-19",
+      "episode_count": 130,
+      "id": 63775,
+      "name": "Season 1",
+      "overview": "Jet Fuel Formula is the first and the longest Rocky and Bullwinkle story arc and is the pilot of The Adventures of Rocky and Bullwinkle and Friends. (Jet Fuel Formula covers forty episodes while the average story arc includes approximately sixteen.) It is also noteworthy in that it established most of the characters, themes, running gags, and other elements that would be employed in later stories and that would become so closely identified with the Rocky and Bullwinkle programs in the years since. The first few episodes contained a laugh track, which was removed when the episodes were released as part of Rocky & Bullwinkle & Friends Complete Season 1.\n\nIn spite of the title, the story actually concerns the pursuit of a formula for rocket fuel.",
+      "poster_path": "/zLNm7ctea1RB5JS5bRlRvzNzw4C.jpg",
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "1960-09-24",
+      "episode_count": 260,
+      "id": 63776,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/vxsyabdFFz1BtHPiNZFjrQ0jWMy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-09-24",
+      "episode_count": 165,
+      "id": 63777,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/n7WZPN3Q8z2IWGOhcyrzSsnW4ky.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-06-08",
+      "episode_count": 95,
+      "id": 63778,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/9Lf0Owv8tdsnSZOCGEEYUbrpkPs.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-08-19",
+      "episode_count": 165,
+      "id": 63779,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/1dnAEFFfx7IQI1ZRFQR8tKrk9zM.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.125,
+  "vote_count": 60,
+  "external_ids": {
+    "id": 1025,
+    "imdb_id": "tt0052507",
+    "freebase_mid": "/m/0j05x",
+    "freebase_id": "/en/the_rocky_and_bullwinkle_show",
+    "tvdb_id": 76705,
+    "tvrage_id": 6145,
+    "wikidata_id": "Q2318552",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

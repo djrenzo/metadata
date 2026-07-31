@@ -1,0 +1,179 @@
+{
+  "adult": false,
+  "backdrop_path": "/eqLwFXX0R7U0crdgQcj0Rxjb9uc.jpg",
+  "created_by": [
+    {
+      "id": 411398,
+      "credit_id": "6555983953866e00abab3c3e",
+      "name": "David DiGilio",
+      "original_name": "David DiGilio",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2022-06-30",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B09HZ4BV5X",
+  "id": 120911,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-06-30",
+  "last_episode_to_air": {
+    "id": 3510221,
+    "name": "Reclamation",
+    "overview": "A showdown brews at Secretary of Defense Hartley's Orcas Island estate as Reece, Katie, Ben and Tony's paths and objectives collide.",
+    "vote_average": 7.8,
+    "vote_count": 28,
+    "air_date": "2022-06-30",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 62,
+    "season_number": 1,
+    "show_id": 120911,
+    "still_path": "/bkEaP6MzheZndrdBYS8gxKym23x.jpg"
+  },
+  "name": "The Terminal List",
+  "next_episode_to_air": {
+    "id": 7264112,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-21",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 120911,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1024,
+      "logo_path": "/w7HfLNm9CWwRmAMU58udl2L7We7.png",
+      "name": "Prime Video",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Terminal List",
+  "overview": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
+  "popularity": 33.0496,
+  "poster_path": "/jbyaKYNexl1poKZnEmB6Qobn60s.jpg",
+  "production_companies": [
+    {
+      "id": 20580,
+      "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+      "name": "Amazon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 150893,
+      "logo_path": null,
+      "name": "Civic Center Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 2531,
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC",
+      "origin_country": "US"
+    },
+    {
+      "id": 8151,
+      "logo_path": null,
+      "name": "Fuqua Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 150894,
+      "logo_path": null,
+      "name": "Indivisible Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 213624,
+      "logo_path": null,
+      "name": "DiGilio Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-06-30",
+      "episode_count": 8,
+      "id": 186250,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ujVz6YZxBkDsw3wanO2AKhl3A9y.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2026-10-20",
+      "episode_count": 8,
+      "id": 516049,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Your memory makes you question the truth.",
+  "type": "Scripted",
+  "vote_average": 7.961,
+  "vote_count": 1152,
+  "external_ids": {
+    "id": 120911,
+    "imdb_id": "tt11743610",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 399917,
+    "tvrage_id": null,
+    "wikidata_id": "Q105753211",
+    "facebook_id": "TerminalListPV",
+    "instagram_id": "terminallistpv",
+    "twitter_id": "TerminalListPV"
+  }
+}

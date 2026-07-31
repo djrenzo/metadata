@@ -1,0 +1,485 @@
+{
+  "adult": false,
+  "backdrop_path": "/gjTFqgp5IRL9NGuoIQlTjFuaNa5.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "1988-09-11",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/decouverte/site",
+  "id": 20097,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2024-01-07",
+  "last_episode_to_air": {
+    "id": 6863351,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-09-21",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 38,
+    "show_id": 20097,
+    "still_path": null
+  },
+  "name": "Découverte",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 1732,
+  "number_of_seasons": 38,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Découverte",
+  "overview": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports delving into technological breakthroughs and developments in scientific research, environmental issues, space exploration, as well as health and medicine.",
+  "popularity": 22.0977,
+  "poster_path": "/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2020-03-15",
+      "episode_count": 2,
+      "id": 168434,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-11",
+      "episode_count": 38,
+      "id": 130675,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-11",
+      "episode_count": 37,
+      "id": 130676,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-10",
+      "episode_count": 37,
+      "id": 130677,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-16",
+      "episode_count": 48,
+      "id": 130678,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-07",
+      "episode_count": 52,
+      "id": 130679,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-06",
+      "episode_count": 52,
+      "id": 130680,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-05",
+      "episode_count": 52,
+      "id": 130681,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-04",
+      "episode_count": 52,
+      "id": 130682,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-02",
+      "episode_count": 52,
+      "id": 130683,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-08",
+      "episode_count": 47,
+      "id": 130684,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-07",
+      "episode_count": 50,
+      "id": 130685,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 41,
+      "id": 130686,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-11",
+      "episode_count": 45,
+      "id": 130687,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-10",
+      "episode_count": 39,
+      "id": 130688,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-16",
+      "episode_count": 51,
+      "id": 130689,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 50,
+      "id": 130690,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 51,
+      "id": 130691,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-05",
+      "episode_count": 53,
+      "id": 130692,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-18",
+      "episode_count": 51,
+      "id": 130693,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 51,
+      "id": 130694,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 52,
+      "id": 130695,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 48,
+      "id": 130696,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 50,
+      "id": 130697,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 51,
+      "id": 130698,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-10",
+      "episode_count": 52,
+      "id": 130699,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-09",
+      "episode_count": 48,
+      "id": 130700,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 53,
+      "id": 130701,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 48,
+      "id": 130702,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-11",
+      "episode_count": 51,
+      "id": 130703,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-17",
+      "episode_count": 47,
+      "id": 130704,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-09",
+      "episode_count": 49,
+      "id": 130705,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-08",
+      "episode_count": 35,
+      "id": 148030,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-13",
+      "episode_count": 49,
+      "id": 168437,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-12",
+      "episode_count": 51,
+      "id": 205978,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-11",
+      "episode_count": 51,
+      "id": 310050,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-10",
+      "episode_count": 18,
+      "id": 356569,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-15",
+      "episode_count": 1,
+      "id": 495907,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-21",
+      "episode_count": 30,
+      "id": 495908,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 6.3,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 20097,
+    "imdb_id": null,
+    "freebase_mid": "/m/03c4dvh",
+    "freebase_id": "/en/decouverte",
+    "tvdb_id": 266730,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

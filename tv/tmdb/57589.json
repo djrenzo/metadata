@@ -1,0 +1,337 @@
+{
+  "adult": false,
+  "backdrop_path": "/tL4xJtpnEDP9EaXYQsMKU7NmpFk.jpg",
+  "created_by": [
+    {
+      "id": 945599,
+      "credit_id": "690261f5d0651b466e8d9595",
+      "name": "Simon Fuller",
+      "original_name": "Simon Fuller",
+      "gender": 2,
+      "profile_path": "/5yiylcaquE5IPv5S8EzdKxzwp66.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2004-09-02",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.tv4.se/idol",
+  "id": 57589,
+  "in_production": true,
+  "languages": [
+    "sv"
+  ],
+  "last_air_date": "2025-12-06",
+  "last_episode_to_air": {
+    "id": 6712931,
+    "name": "Episode 24",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-06",
+    "episode_number": 24,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 21,
+    "show_id": 57589,
+    "still_path": "/wlp32eKG8hlwRL8MDauErCs3ouJ.jpg"
+  },
+  "name": "Idol",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 352,
+      "logo_path": "/7L7VUXTBLiHruhUjYJebV46uw3c.png",
+      "name": "TV4",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 856,
+  "number_of_seasons": 21,
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_name": "Idol",
+  "overview": "The first season of Sweden's Idol premiered in August 2004 and continued until its grand finale on 26 November. It is a spin off of Britain's Pop Idol.",
+  "popularity": 29.0151,
+  "poster_path": "/p5yJ0bBXZU03kEAm65j8rqwMFbN.jpg",
+  "production_companies": [
+    {
+      "id": 102552,
+      "logo_path": "/mhy7npPABEaOucXH6cVgf7skATr.png",
+      "name": "Meter Entertainment",
+      "origin_country": "SE"
+    },
+    {
+      "id": 88043,
+      "logo_path": "/rfr3UDMUiKQiM9OTut5SWwFDJuI.png",
+      "name": "FremantleMedia Sverige AB",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-10-09",
+      "episode_count": 35,
+      "id": 58729,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-02",
+      "episode_count": 32,
+      "id": 58730,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-30",
+      "episode_count": 37,
+      "id": 206473,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-29",
+      "episode_count": 20,
+      "id": 206626,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 20,
+      "id": 206628,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-03",
+      "episode_count": 20,
+      "id": 206631,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-08",
+      "episode_count": 42,
+      "id": 207105,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/trbRadOGtazAbbAAznN5LhFmKqT.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-07",
+      "episode_count": 42,
+      "id": 207106,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/o6zq3rgkIQ66efxxmJlQAhioSYz.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-04",
+      "episode_count": 42,
+      "id": 207107,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/A2MbiKeLmTAyGFJDkRZbck9c8FK.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-19",
+      "episode_count": 54,
+      "id": 207108,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/8K5n3DO7W5JOFsBZOoj1UFNmIL0.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-18",
+      "episode_count": 43,
+      "id": 207109,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-17",
+      "episode_count": 43,
+      "id": 207110,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-22",
+      "episode_count": 43,
+      "id": 207111,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/oc7ijYY7EMy6r5hy1127R41oQrA.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 43,
+      "id": 207112,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/7WeQjUdIJ2CpG8EvgikHXsUuoEZ.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-20",
+      "episode_count": 59,
+      "id": 207113,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-19",
+      "episode_count": 59,
+      "id": 207114,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-17",
+      "episode_count": 55,
+      "id": 207115,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-23",
+      "episode_count": 56,
+      "id": 207116,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/yAmuPUKVUdDocdiZi9H1VdWvCJ2.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-22",
+      "episode_count": 51,
+      "id": 357608,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/s60NFkjbiH8I5prAJEP8BGM0dl5.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-28",
+      "episode_count": 47,
+      "id": 354983,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/3xCIDsRR4Vu0OY0QREQ6SmFEM7s.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-31",
+      "episode_count": 24,
+      "id": 417545,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/8JLeM5DkK8u5Sqs1scdgjcPWne4.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-23",
+      "episode_count": 24,
+      "id": 463141,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/p5yJ0bBXZU03kEAm65j8rqwMFbN.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 57589,
+    "imdb_id": "tt1237844",
+    "freebase_mid": "/m/0wrzklp",
+    "freebase_id": null,
+    "tvdb_id": 80498,
+    "tvrage_id": null,
+    "wikidata_id": "Q1656877",
+    "facebook_id": null,
+    "instagram_id": "tv4idol",
+    "twitter_id": null
+  }
+}

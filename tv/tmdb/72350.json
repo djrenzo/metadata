@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/tco0lyOHy3bjy2hyishbuCk0Yvg.jpg",
+  "created_by": [
+    {
+      "id": 1380748,
+      "credit_id": "599407e7c3a3687f46012d65",
+      "name": "Francisco Angones",
+      "original_name": "Francisco Angones",
+      "gender": 0,
+      "profile_path": "/nLvyPR0CEDEzaTCeWHHueaScFVP.jpg"
+    },
+    {
+      "id": 127382,
+      "credit_id": "599407f0c3a3687f9e0141c9",
+      "name": "Matt Youngberg",
+      "original_name": "Matt Youngberg",
+      "gender": 2,
+      "profile_path": "/ea3qDvf5jtt5r05iLCvn2i9Sa8P.jpg"
+    }
+  ],
+  "episode_run_time": [
+    23,
+    44,
+    66
+  ],
+  "first_air_date": "2017-08-12",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "http://disneynow.go.com/shows/ducktales-disney-channel",
+  "id": 72350,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-03-15",
+  "last_episode_to_air": {
+    "id": 2743237,
+    "name": "The Last Adventure!",
+    "overview": "The future of adventuring hangs in the balance as the Duck family uncovers earth-shattering secrets in a final standoff with F.O.W.L.",
+    "vote_average": 7.2,
+    "vote_count": 4,
+    "air_date": "2021-03-15",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 75,
+    "season_number": 3,
+    "show_id": 72350,
+    "still_path": "/AkR8nsWlINGbKIPDZP9YRj58Yma.jpg"
+  },
+  "name": "DuckTales",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 54,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    },
+    {
+      "id": 44,
+      "logo_path": "/nKM9EnV7jTpt3MKRbhBusJ03lAY.png",
+      "name": "Disney XD",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 69,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "DuckTales",
+  "overview": "The adventures of billionaire Scrooge McDuck and his nephews Huey, Dewey and Louie, their famous uncle Donald Duck, pilot extraordinaire Launchpad, Mrs. Beakly, Webby and Roboduck. Adventures and hidden treasures are everywhere, in their hometown Duckburg and all around the world.",
+  "popularity": 26.924,
+  "poster_path": "/3klapeIKLp9IBy4uHo7szTeMTdQ.jpg",
+  "production_companies": [
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-03-02",
+      "episode_count": 19,
+      "id": 184740,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/5xU4JcGkyM6wGygOHAloyHLMSjP.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-12",
+      "episode_count": 23,
+      "id": 89521,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/34S2q0TiaDQk8MWIBVRmwDfse3A.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2018-10-20",
+      "episode_count": 24,
+      "id": 110758,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/dFC4sZjYyDMX6qEEb0jR4jwhpk9.jpg",
+      "season_number": 2,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2020-04-04",
+      "episode_count": 22,
+      "id": 144667,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/fNxHNcW5XSsFyxbEfn1E0XumCcp.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.8,
+  "vote_count": 313,
+  "external_ids": {
+    "id": 72350,
+    "imdb_id": "tt5531466",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 330134,
+    "tvrage_id": null,
+    "wikidata_id": "Q28739895",
+    "facebook_id": "ducktales",
+    "instagram_id": "ducktalestv",
+    "twitter_id": "ducktales"
+  }
+}

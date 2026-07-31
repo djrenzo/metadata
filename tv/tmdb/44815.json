@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/7Sn9xgoyjqsWOgSDAzdpzqiqTAt.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1975-10-15",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.toei-anim.co.jp/lineup/tv/ikkyu/",
+  "id": 44815,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1982-06-28",
+  "last_episode_to_air": {
+    "id": 2293233,
+    "name": "Episode 296",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1982-06-28",
+    "episode_number": 296,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 44815,
+    "still_path": "/15oSgivNXep48wEIKrtSnIJLQs2.jpg"
+  },
+  "name": "Ikkyū-san",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2171,
+      "logo_path": "/wJHlrKe9Sm6m6F3Wj1IK81P0Lm0.png",
+      "name": "NET",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 296,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "一休さん",
+  "overview": "The mischievous adventures of a young Ikkyū during his stay at Ankoku Temple. He relies on his intelligence and wit to solve all types of problems, from distraught farmers to greedy merchants.",
+  "popularity": 23.9133,
+  "poster_path": "/pSULyaal6GjfhbsHnxap6IfWqyX.jpg",
+  "production_companies": [
+    {
+      "id": 5542,
+      "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+      "name": "Toei Animation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1975-10-15",
+      "episode_count": 296,
+      "id": 152504,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.545,
+  "vote_count": 22,
+  "external_ids": {
+    "id": 44815,
+    "imdb_id": "tt1682200",
+    "freebase_mid": "/m/02q38zy",
+    "freebase_id": "/en/ikky_san",
+    "tvdb_id": 263486,
+    "tvrage_id": null,
+    "wikidata_id": "Q708513",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

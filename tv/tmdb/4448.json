@@ -1,0 +1,519 @@
+{
+  "adult": false,
+  "backdrop_path": "/edH0CCAwswUNj8h6CyHJpX5JdIE.jpg",
+  "created_by": [
+    {
+      "id": 1223125,
+      "credit_id": "52576971760ee36aaa3bcd52",
+      "name": "Vin Di Bona",
+      "original_name": "Vin Di Bona",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1989-11-26",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://abc.go.com/shows/americas-funniest-home-videos",
+  "id": 4448,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-10",
+  "last_episode_to_air": {
+    "id": 7236292,
+    "name": "Episode 21",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-10",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 36,
+    "show_id": 4448,
+    "still_path": null
+  },
+  "name": "America's Funniest Home Videos",
+  "next_episode_to_air": {
+    "id": 7601975,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-27",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 4448,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 800,
+  "number_of_seasons": 37,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "America's Funniest Home Videos",
+  "overview": "America's Funniest Home Videos is the longest-running primetime entertainment show in ABC history. Each week AFV shines the spotlight on hilarious videos. Fans tune in to witness failures and fiascos and to submit their own mishaps for their chance at stardom.",
+  "popularity": 24.8573,
+  "poster_path": "/3CER8AdYtynbFBLIGLXv3wscDzl.jpg",
+  "production_companies": [
+    {
+      "id": 18742,
+      "logo_path": "/krQ8RCXPmQHmJ50gTEplxg3p588.png",
+      "name": "ABC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 18743,
+      "logo_path": null,
+      "name": "Vin Di Bona Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3668,
+      "logo_path": null,
+      "name": "ABC Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 3,
+      "id": 13289,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-14",
+      "episode_count": 16,
+      "id": 13272,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 2
+    },
+    {
+      "air_date": "1990-09-16",
+      "episode_count": 25,
+      "id": 13269,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-22",
+      "episode_count": 25,
+      "id": 13274,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-20",
+      "episode_count": 25,
+      "id": 13276,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-09-19",
+      "episode_count": 22,
+      "id": 13270,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-18",
+      "episode_count": 24,
+      "id": 13271,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-17",
+      "episode_count": 22,
+      "id": 13273,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-22",
+      "episode_count": 30,
+      "id": 13275,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-05",
+      "episode_count": 20,
+      "id": 13279,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-10-03",
+      "episode_count": 23,
+      "id": 13281,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-02-03",
+      "episode_count": 17,
+      "id": 13278,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-02-15",
+      "episode_count": 15,
+      "id": 13277,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-27",
+      "episode_count": 24,
+      "id": 13280,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-28",
+      "episode_count": 22,
+      "id": 13282,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-26",
+      "episode_count": 22,
+      "id": 13283,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-02",
+      "episode_count": 23,
+      "id": 13286,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-01",
+      "episode_count": 27,
+      "id": 13288,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-07",
+      "episode_count": 22,
+      "id": 13284,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-05",
+      "episode_count": 24,
+      "id": 13285,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-04",
+      "episode_count": 24,
+      "id": 13287,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-03",
+      "episode_count": 24,
+      "id": 13290,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-02",
+      "episode_count": 23,
+      "id": 13291,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-07",
+      "episode_count": 22,
+      "id": 13292,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-06",
+      "episode_count": 22,
+      "id": 13293,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-12",
+      "episode_count": 23,
+      "id": 316907,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-11",
+      "episode_count": 22,
+      "id": 75476,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-02",
+      "episode_count": 22,
+      "id": 80378,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-08",
+      "episode_count": 22,
+      "id": 102525,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-30",
+      "episode_count": 22,
+      "id": 108828,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 22,
+      "id": 129497,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/A9CxqxkWKvTm6YSsWxc5tzDuchv.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-18",
+      "episode_count": 22,
+      "id": 178673,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-03",
+      "episode_count": 22,
+      "id": 216693,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-02",
+      "episode_count": 17,
+      "id": 310647,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/poQGZfzMBp3sbYDoDVBr8WJBX0h.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 22,
+      "id": 353491,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/AshlmhqCdiwJjnSjQWCKBCQVvW2.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 20,
+      "id": 402476,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/ghNASr73d4RzLyGGAwlx7OoJkPO.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-28",
+      "episode_count": 21,
+      "id": 477557,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-09-27",
+      "episode_count": 1,
+      "id": 532890,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.6,
+  "vote_count": 53,
+  "external_ids": {
+    "id": 4448,
+    "imdb_id": "tt0098740",
+    "freebase_mid": "/m/025lkr",
+    "freebase_id": "/en/americas_funniest_home_videos",
+    "tvdb_id": 76235,
+    "tvrage_id": 2584,
+    "wikidata_id": "Q1595930",
+    "facebook_id": "AFV",
+    "instagram_id": null,
+    "twitter_id": "AFVOfficial"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "2009-07-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 303340,
+  "in_production": false,
+  "languages": [
+    "te"
+  ],
+  "last_air_date": "2019-09-13",
+  "last_episode_to_air": {
+    "id": 6688107,
+    "name": "Episode 3329",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-09-13",
+    "episode_number": 3329,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 22,
+    "season_number": 1,
+    "show_id": 303340,
+    "still_path": null
+  },
+  "name": "Aadade Aadharam",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 7318,
+      "logo_path": "/t6ALDCkBCmtR9MTwAE3BAm8NuUr.png",
+      "name": "ETV Telugu",
+      "origin_country": "IN"
+    }
+  ],
+  "number_of_episodes": 3329,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_name": "ఆడదే ఆధారం",
+  "overview": "Amruta, a lawyer by profession, moves ahead in life despite facing insurmountable personal problems. Her indefatigable courage enables her to fight with criminals, including Vikas.",
+  "popularity": 19.8673,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2009-07-20",
+      "episode_count": 3329,
+      "id": 480566,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 303340,
+    "imdb_id": "tt8993360",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q55639097",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

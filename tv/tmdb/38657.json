@@ -1,0 +1,632 @@
+{
+  "adult": false,
+  "backdrop_path": "/gEs0kv3PNIWSYgqTjswTiCHiUe4.jpg",
+  "created_by": [
+    {
+      "id": 142589,
+      "credit_id": "6959404500f16f5deed791d9",
+      "name": "Rob Dyrdek",
+      "original_name": "Rob Dyrdek",
+      "gender": 2,
+      "profile_path": "/m1I22NcppSk3GnzrtbLprtwSUcn.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30,
+    22
+  ],
+  "first_air_date": "2011-08-29",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://mtv.com/shows/ridiculousness",
+  "id": 38657,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-03-25",
+  "last_episode_to_air": {
+    "id": 7065462,
+    "name": "Sterling and Lolo Wood CCCLXXIV",
+    "overview": "Rob, Steelo, and Lolo Wood throw down with clumsy combat in SPOTTY KARATE, wipe out on winter traps in SNOW MINES, and try to survive the chaos of KIDS ON THE GO.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-25",
+    "episode_number": 29,
+    "episode_type": "standard",
+    "production_code": "S49 E26",
+    "runtime": 21,
+    "season_number": 49,
+    "show_id": 38657,
+    "still_path": null
+  },
+  "name": "Ridiculousness",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 33,
+      "logo_path": "/w4qtv7xBkSVsbOQdSzjUjlyOuSr.png",
+      "name": "MTV",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 1853,
+  "number_of_seasons": 50,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ridiculousness",
+  "overview": "Rob Dyrdek takes the funniest amateur internet videos and builds them into an episode of edgy, funny, and most importantly, timeless television.",
+  "popularity": 26.2838,
+  "poster_path": "/kON3gq2IwpJPYndLzpcf7bl4nFs.jpg",
+  "production_companies": [
+    {
+      "id": 36456,
+      "logo_path": null,
+      "name": "New Remote Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 134436,
+      "logo_path": null,
+      "name": "Gorilla Flicks",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 28,
+      "id": 50241,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-29",
+      "episode_count": 16,
+      "id": 50238,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 1,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2012-04-30",
+      "episode_count": 20,
+      "id": 50239,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-14",
+      "episode_count": 20,
+      "id": 50240,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 21,
+      "id": 61715,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-10",
+      "episode_count": 18,
+      "id": 61716,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 32,
+      "id": 64574,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-08",
+      "episode_count": 30,
+      "id": 71438,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 7,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2016-07-07",
+      "episode_count": 30,
+      "id": 78321,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 8,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2017-01-20",
+      "episode_count": 27,
+      "id": 84369,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 9,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2017-09-01",
+      "episode_count": 20,
+      "id": 92470,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 10,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2018-08-05",
+      "episode_count": 41,
+      "id": 111570,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 11,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2018-10-19",
+      "episode_count": 43,
+      "id": 111571,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/krxK0H9iGj0VKAOJSuKuCQbNroh.jpg",
+      "season_number": 12,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-02-17",
+      "episode_count": 41,
+      "id": 134530,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-05-17",
+      "episode_count": 42,
+      "id": 129367,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-07",
+      "episode_count": 39,
+      "id": 134531,
+      "name": "Season 15",
+      "overview": "Rob Dyrdek takes the funniest amateur internet videos and builds them into an episode of edgy, funny, and most importantly, timeless television.",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 39,
+      "id": 142876,
+      "name": "Season 16",
+      "overview": "Ridiculousness and Rob Dyrdek return with another incredible season of hysterical and absurd internet videos. Sterling \"Stee-Lo\" Brim and Chanel \"West Coast\" join Rob and another unbelievable line up of special guests, including rapper phenom Future, R&B singer/ songwriter Ne-Yo, and internet video super-team Smosh. This season's storm of new categories like \"Power Kiss\", \"Everyday Demons\", \"Human Glitches\", and \"Magnet Feet\" will leave you belly laughing for the rest of your life.",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-20",
+      "episode_count": 39,
+      "id": 178081,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2020-09-15",
+      "episode_count": 43,
+      "id": 178084,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-30",
+      "episode_count": 42,
+      "id": 178086,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-02-08",
+      "episode_count": 42,
+      "id": 180257,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-23",
+      "episode_count": 42,
+      "id": 192950,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-07-30",
+      "episode_count": 42,
+      "id": 202276,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-08",
+      "episode_count": 42,
+      "id": 214521,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-17",
+      "episode_count": 44,
+      "id": 236241,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-03-18",
+      "episode_count": 43,
+      "id": 283746,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-05-20",
+      "episode_count": 42,
+      "id": 287076,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-24",
+      "episode_count": 40,
+      "id": 298281,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-02",
+      "episode_count": 42,
+      "id": 306652,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 9
+    },
+    {
+      "air_date": "2022-11-04",
+      "episode_count": 42,
+      "id": 315022,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2023-01-16",
+      "episode_count": 42,
+      "id": 324106,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-03",
+      "episode_count": 42,
+      "id": 335044,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-05-17",
+      "episode_count": 42,
+      "id": 340851,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-21",
+      "episode_count": 42,
+      "id": 345477,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-16",
+      "episode_count": 42,
+      "id": 348474,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-25",
+      "episode_count": 42,
+      "id": 353587,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-02",
+      "episode_count": 42,
+      "id": 358950,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-01",
+      "episode_count": 42,
+      "id": 367333,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-03-03",
+      "episode_count": 42,
+      "id": 374173,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-05-12",
+      "episode_count": 42,
+      "id": 392898,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-03",
+      "episode_count": 42,
+      "id": 400343,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-07-31",
+      "episode_count": 42,
+      "id": 404228,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 42,
+      "id": 420861,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-03-05",
+      "episode_count": 42,
+      "id": 444551,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-05-14",
+      "episode_count": 42,
+      "id": 455797,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-02",
+      "episode_count": 42,
+      "id": 463000,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-21",
+      "episode_count": 42,
+      "id": 475630,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-05",
+      "episode_count": 42,
+      "id": 483581,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-26",
+      "episode_count": 42,
+      "id": 486027,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-12-17",
+      "episode_count": 29,
+      "id": 489290,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 506288,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.75,
+  "vote_count": 122,
+  "external_ids": {
+    "id": 38657,
+    "imdb_id": "tt1820166",
+    "freebase_mid": "/m/0ghng2d",
+    "freebase_id": null,
+    "tvdb_id": 250793,
+    "tvrage_id": 27731,
+    "wikidata_id": "Q2404067",
+    "facebook_id": "ridiculousness",
+    "instagram_id": "ridiculousness",
+    "twitter_id": "ridiculousness"
+  }
+}

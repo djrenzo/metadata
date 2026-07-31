@@ -1,0 +1,222 @@
+{
+  "adult": false,
+  "backdrop_path": "/rf2uHKzPniVL5LvSVxg5ACxv4cS.jpg",
+  "created_by": [
+    {
+      "id": 1212469,
+      "credit_id": "525333e819c295794002bd83",
+      "name": "Mark Brazill",
+      "original_name": "Mark Brazill",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 56156,
+      "credit_id": "525333e819c295794002bd8f",
+      "name": "Bonnie Turner",
+      "original_name": "Bonnie Turner",
+      "gender": 1,
+      "profile_path": "/vK10wcF9gfbOH8dhLrfkAxxDttw.jpg"
+    },
+    {
+      "id": 56157,
+      "credit_id": "525333e819c295794002bd89",
+      "name": "Terry Turner",
+      "original_name": "Terry Turner",
+      "gender": 2,
+      "profile_path": "/jYqOIc1tYVuhRcWOchW9yxW1qPr.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25,
+    45
+  ],
+  "first_air_date": "1998-08-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 52,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2006-05-18",
+  "last_episode_to_air": {
+    "id": 1418,
+    "name": "That '70s Finale",
+    "overview": "Kelso returns on New Year's Eve 1979 to celebrate, while Red and Kitty rethink their plans to move to Florida.",
+    "vote_average": 7.9,
+    "vote_count": 11,
+    "air_date": "2006-05-18",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "822",
+    "runtime": 22,
+    "season_number": 8,
+    "show_id": 52,
+    "still_path": "/6sdZ8PpPVHlcN4ocCa6n2FKna0y.jpg"
+  },
+  "name": "That '70s Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 200,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "That '70s Show",
+  "overview": "Crank up the 8-track and flash back to a time when platform shoes and puka shells were all the rage in this hilarious retro-sitcom. For Eric, Kelso, Jackie, Hyde, Donna and Fez, a group of high school teens who spend most of their time hanging out in Eric’s basement, life in the ‘70s isn’t always so groovy. But between trying to figure out the meaning of life, avoiding their parents, and dealing with out-of-control hormones, they’ve learned one thing for sure: they’ll always get by with a little help from their friends.",
+  "popularity": 31.482,
+  "poster_path": "/laEZvTqM80UaplUaDSCCbWhlyEV.jpg",
+  "production_companies": [
+    {
+      "id": 3215,
+      "logo_path": "/1eDyeAkLR41PjyharYL7V3dcuiG.png",
+      "name": "Carsey-Werner Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2002-04-30",
+      "episode_count": 13,
+      "id": 95,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/3k2Bdov9SK6cW4BGycNgxBuMcBq.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-08-23",
+      "episode_count": 25,
+      "id": 94,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/d3jLBFnqub6rYXifgus5fkNt2H6.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1999-09-28",
+      "episode_count": 26,
+      "id": 93,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/nbIgnJBJ4oRYnXJ1zl53DyXHWEv.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2000-10-03",
+      "episode_count": 25,
+      "id": 92,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/yZs3Xr7zONuhkA57GH56J0YqBOu.jpg",
+      "season_number": 3,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2001-09-25",
+      "episode_count": 27,
+      "id": 91,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/b0SDehzJhZQHZZZfKWlY8i3Ora0.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2002-09-17",
+      "episode_count": 25,
+      "id": 90,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/l2px89TAUZ2DlCKJ4A5nerd2FK3.jpg",
+      "season_number": 5,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2003-10-29",
+      "episode_count": 25,
+      "id": 89,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/iRaAMuc99WF9X4kwyi2TNuN3kH3.jpg",
+      "season_number": 6,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2004-09-08",
+      "episode_count": 25,
+      "id": 88,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/tblrUaDOHmwGGtpEpI3shd7pryj.jpg",
+      "season_number": 7,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2005-11-02",
+      "episode_count": 22,
+      "id": 87,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/kkcYtWj8C1QFPxIlxcFwkfi22FX.jpg",
+      "season_number": 8,
+      "vote_average": 6.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "Be groovy... be very groovy!",
+  "type": "Scripted",
+  "vote_average": 7.928,
+  "vote_count": 1625,
+  "external_ids": {
+    "id": 52,
+    "imdb_id": "tt0165598",
+    "freebase_mid": "/m/01p4wv",
+    "freebase_id": "/en/that_70s_show",
+    "tvdb_id": 73787,
+    "tvrage_id": 5497,
+    "wikidata_id": "Q208072",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

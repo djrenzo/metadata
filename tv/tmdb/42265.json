@@ -1,0 +1,341 @@
+{
+  "adult": false,
+  "backdrop_path": "/kCcH5XGInPxDuhwfZJUBUFb0JUi.jpg",
+  "created_by": [
+    {
+      "id": 1255499,
+      "credit_id": "52596091760ee346619625f3",
+      "name": "Steffen Müller",
+      "original_name": "Steffen Müller",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1997-03-11",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 42265,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2019-08-08",
+  "last_episode_to_air": {
+    "id": 2561577,
+    "name": "Episode 29",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2019-08-08",
+    "episode_number": 29,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 23,
+    "show_id": 42265,
+    "still_path": null
+  },
+  "name": "Taff",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 334,
+      "logo_path": "/hComKsCkgZRMWQQnNWu92p3ndSR.png",
+      "name": "ProSieben",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 1039,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Taff",
+  "overview": "Taff is a tabloid news magazine airing on the German television network, ProSieben.",
+  "popularity": 24.7788,
+  "poster_path": "/2XJlnWPmoNLuaa85ol8Xe3GXYVm.jpg",
+  "production_companies": [
+    {
+      "id": 41267,
+      "logo_path": null,
+      "name": "ProSiebenSat1 Produktion",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1997-03-11",
+      "episode_count": 2,
+      "id": 171676,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-02-26",
+      "episode_count": 3,
+      "id": 118653,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 7,
+      "id": 118654,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-02-01",
+      "episode_count": 6,
+      "id": 118655,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 35,
+      "id": 118656,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-09",
+      "episode_count": 39,
+      "id": 118657,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 39,
+      "id": 171677,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-15",
+      "episode_count": 36,
+      "id": 171678,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 44,
+      "id": 171679,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 54,
+      "id": 171680,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 43,
+      "id": 171681,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-07",
+      "episode_count": 53,
+      "id": 171682,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 67,
+      "id": 171683,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-07",
+      "episode_count": 90,
+      "id": 171684,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 63,
+      "id": 171685,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 114,
+      "id": 171686,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 102,
+      "id": 171687,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 51,
+      "id": 171688,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-22",
+      "episode_count": 37,
+      "id": 171689,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-11",
+      "episode_count": 48,
+      "id": 171690,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-05",
+      "episode_count": 36,
+      "id": 171691,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-08",
+      "episode_count": 41,
+      "id": 171692,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 29,
+      "id": 171693,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 4.2,
+  "vote_count": 5,
+  "external_ids": {
+    "id": 42265,
+    "imdb_id": "tt0355143",
+    "freebase_mid": "/m/0ftqcx",
+    "freebase_id": "/en/taff",
+    "tvdb_id": 42265,
+    "tvrage_id": null,
+    "wikidata_id": "Q1720488",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

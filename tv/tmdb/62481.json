@@ -1,0 +1,577 @@
+{
+  "adult": false,
+  "backdrop_path": "/kSFEIZS3HplqY1uN9U1GR0aEKlP.jpg",
+  "created_by": [
+    {
+      "id": 216908,
+      "credit_id": "69270c3d16e39e99c1a7582f",
+      "name": "Bobby Flay",
+      "original_name": "Bobby Flay",
+      "gender": 2,
+      "profile_path": "/zU8E3kteifz95oriWY5W6MLvqu7.jpg"
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2013-08-24",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.foodnetwork.com/shows/beat-bobby-flay.html",
+  "id": 62481,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-06-11",
+  "last_episode_to_air": {
+    "id": 7478216,
+    "name": "Pride and Joy",
+    "overview": "Comedian Amber Ruffin and Tiffani Faison team up with chefs Tucker Ricchio and Evan Algorri to take Bobby Flay down with pride.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-28",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 44,
+    "show_id": 62481,
+    "still_path": null
+  },
+  "name": "Beat Bobby Flay",
+  "next_episode_to_air": {
+    "id": 7478219,
+    "name": "Mole Mania",
+    "overview": "Actor Jeff Hiller and Amanda Freitag band together with chefs Thomas Bille and Keegan Andrews to cook up a spicy dose of defeat for Bobby Flay.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-04",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 44,
+    "show_id": 62481,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 143,
+      "logo_path": "/tm2UclPxfamHyFuILLq4jNxsi8v.png",
+      "name": "Food Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 539,
+  "number_of_seasons": 44,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Beat Bobby Flay",
+  "overview": "Two talented chefs go head-to-head for the chance to Beat Bobby Flay. To get to Bobby the chefs must first face off against each other, creating a spectacular dish with a secret ingredient of Bobby's choice. Judges Alex Guarnaschelli and Jeff Mauro know Bobby's strengths and his weaknesses. Their goal: Pick the chef who has the skills to take down Bobby Flay in his own arena. The winning chef gets to challenge Bobby with his or her surprise signature dish. If Bobby goes down, the winner can tell the world, \"I beat Bobby Flay!\"",
+  "popularity": 27.1823,
+  "poster_path": "/vY8Bep9K9oFSz0C9gnTVipfBciU.jpg",
+  "production_companies": [
+    {
+      "id": 51896,
+      "logo_path": "/uZMOBJ9fNR0zk3UeXFCuVIc9vZ4.png",
+      "name": "Rock Shrimp Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 23601,
+      "logo_path": "/jZYnbLWzOGhRDrvLWOOpoQZnuAB.png",
+      "name": "Embassy Row",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-04-06",
+      "episode_count": 1,
+      "id": 428802,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/8EL820HL0BBiLoQDlzy1etCS0Wn.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-24",
+      "episode_count": 9,
+      "id": 66172,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ydgGYoWlRbdAGBF4uOXiztofhaa.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-31",
+      "episode_count": 13,
+      "id": 102993,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/4gie4Dsn4adxVlqbxkGB4DTEXed.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-30",
+      "episode_count": 13,
+      "id": 102994,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/zED9Bf8zmTfMzOq5ac5giU7aMr8.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-05",
+      "episode_count": 13,
+      "id": 102995,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/mGZjg4qdeWYdc5lHlTafdKUvLED.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-06-04",
+      "episode_count": 13,
+      "id": 67828,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/1rlhaYotviaugzrtuF91lGDyA1a.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-01",
+      "episode_count": 13,
+      "id": 102996,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/zWruH5YQQ1eL9E3UUDJfuJpIm4A.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-12-17",
+      "episode_count": 7,
+      "id": 73028,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/zADvq6EPc7qMo0h5EXvKV75pLeI.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-17",
+      "episode_count": 13,
+      "id": 76545,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/lKPvLQvxaPXiORjsD2lQYkmqVLx.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-06-12",
+      "episode_count": 13,
+      "id": 79343,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/5E3qJnfQmnv2lYXChBN727fKwJj.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-22",
+      "episode_count": 13,
+      "id": 80619,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/efLCOHthNo8exaU6gXJHwlBRmLc.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-05",
+      "episode_count": 13,
+      "id": 84566,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/y4gSY3f9n66sPw3z66mPue9BcEj.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-04-13",
+      "episode_count": 13,
+      "id": 102997,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/qULcFAj5R6rcROnmmluBjpJHm4y.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-20",
+      "episode_count": 13,
+      "id": 102998,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/zVH3eCJoK6XSDfAJSGBwM4Hhbba.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-19",
+      "episode_count": 13,
+      "id": 102999,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/3jPpCRSyVgjfRvamJhruxWeAB0v.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-21",
+      "episode_count": 13,
+      "id": 103000,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/1bFHKcRQbYnJ5K9UwJCzFCU3jz5.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-04-19",
+      "episode_count": 12,
+      "id": 103001,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/rn7Cpt9y2bdGxSh3RudQfOdwMHy.jpg",
+      "season_number": 16,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2018-07-12",
+      "episode_count": 14,
+      "id": 111248,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/rVFPwhSqYiNkn0jYlOvXX5gmizE.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-27",
+      "episode_count": 13,
+      "id": 111249,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/iAcxdfCgdmq7bNqov7kWk1hMLKv.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-17",
+      "episode_count": 13,
+      "id": 116935,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/fEr0hPW55SRzfK3ZiBZRnb2VEO2.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-04-11",
+      "episode_count": 13,
+      "id": 122234,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/8O1tSliNkO8CbpxPBgySJ4CbiMq.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-06-27",
+      "episode_count": 9,
+      "id": 132346,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/u9eUFSusQ3BwTvRGpb25AB0i0DM.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-29",
+      "episode_count": 11,
+      "id": 132347,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/wbF64bIU30UDvNXJAas6ku8QWTJ.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-12-26",
+      "episode_count": 12,
+      "id": 139483,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/a15rUMw7ktqV5yZsls4LvlgkSDL.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-16",
+      "episode_count": 13,
+      "id": 143828,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/zhxh698Lx0BCXlis4W7agHMAzhl.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-05-24",
+      "episode_count": 17,
+      "id": 156045,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/6M95jqC0eiLiQ4smcghDJO2QPv6.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-30",
+      "episode_count": 19,
+      "id": 185945,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/4jTLcjrHJn4Mw3JKg2BR2GCZr1P.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-05-13",
+      "episode_count": 9,
+      "id": 192966,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/mXgCSNGARp3vfnKuCaD3O0xTLsD.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-21",
+      "episode_count": 14,
+      "id": 206504,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/izYDgGafLHpF7VpoZdehrZsNR2o.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-06",
+      "episode_count": 16,
+      "id": 235843,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/cKec2GnY9PmcC035ZyG12haSFH1.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-28",
+      "episode_count": 15,
+      "id": 288169,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/apSkXubT5sBDfaYFuJVDgHD2ukO.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-04",
+      "episode_count": 7,
+      "id": 304418,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/jHupenQMw5OryI9Rmcj0x8inOQ2.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-08",
+      "episode_count": 17,
+      "id": 315882,
+      "name": "Season 32",
+      "overview": "Flay competes against a who’s who of chefs. For this six episode event series, the competition is expanded to three rounds as Flay teams up with one of the chefs that was just trying to defeat him. First, two of Flay’s chef friends will compete to see who will face off against a third chef waiting in the wings. The winner of that second round will then go on to battle Flay with each one picking one of the eliminated chefs as their sous chef.",
+      "poster_path": "/tVoO3546lhUbIKBHLPrxYaUWgKQ.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-01",
+      "episode_count": 22,
+      "id": 321324,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/4zWFyzK74vEEX8aevqnPuCx2cUG.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-07",
+      "episode_count": 8,
+      "id": 362939,
+      "name": "Season 34",
+      "overview": "The Food Network family is challenging Bobby Flay to face his worst holiday nightmares. In each supersized hour, familiar faces battle it out to choose the final challenge and pick the teams in this epic holiday throwdown!",
+      "poster_path": "/iwFWqOtTJGq1JxnxzyD6ew5JJIz.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-28",
+      "episode_count": 14,
+      "id": 376815,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/dpe7mShlECYizF1vluTVdJCZsqi.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-06-06",
+      "episode_count": 13,
+      "id": 397426,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/ie5zzdk8fFoj5wm9vkZgFkLEK0T.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-11-12",
+      "episode_count": 6,
+      "id": 421996,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/kpfmPvURldlY2FqZscM2epd7Cbs.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-26",
+      "episode_count": 13,
+      "id": 433191,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/qDM3Kf1Efxgcq0tKZgKxJzlIkNA.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-24",
+      "episode_count": 12,
+      "id": 454870,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/bGmBkVP8lDXdmO6ANTYlWjwvxDv.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-14",
+      "episode_count": 11,
+      "id": 470028,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/FbrWmLR7YwK2xZj1ZzST9VlkCH.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-11-11",
+      "episode_count": 6,
+      "id": 478317,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/m8DcICGOR6wCXgIp3BPfyHfhYSx.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-15",
+      "episode_count": 12,
+      "id": 487997,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": "/zRi3y75adeQuU9SHfLBIjqTR7g6.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-04-02",
+      "episode_count": 13,
+      "id": 510303,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/9u9nRpWjAZT2ZSAWWA4MNIgMhqM.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-06-04",
+      "episode_count": 11,
+      "id": 522360,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/pXSb5LgkNzaiPbcBJvKLFsXumFK.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.232,
+  "vote_count": 28,
+  "external_ids": {
+    "id": 62481,
+    "imdb_id": "tt3205302",
+    "freebase_mid": "/m/010bb7vh",
+    "freebase_id": null,
+    "tvdb_id": 279264,
+    "tvrage_id": 37002,
+    "wikidata_id": "Q26812634",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

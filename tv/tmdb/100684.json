@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/iTP0djSofCeBgZLOknBEhSjju8b.jpg",
+  "created_by": [
+    {
+      "id": 1510561,
+      "credit_id": "5f72e1de1d78f200366f753e",
+      "name": "Jean-Luc Azoulay",
+      "original_name": "Jean-Luc Azoulay",
+      "gender": 2,
+      "profile_path": "/lABKfACDsXiGBiiKxDj30D7SCl3.jpg"
+    }
+  ],
+  "episode_run_time": [
+    26
+  ],
+  "first_air_date": "1991-12-23",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/premiers-baisers",
+  "id": 100684,
+  "in_production": false,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "1995-05-12",
+  "last_episode_to_air": {
+    "id": 2448260,
+    "name": "Episode 318",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1995-05-12",
+    "episode_number": 318,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 26,
+    "season_number": 1,
+    "show_id": 100684,
+    "still_path": null
+  },
+  "name": "Premiers Baisers",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3274,
+      "logo_path": "/9uwYyKu45dv5DyZEuEp2JXzy6Cx.png",
+      "name": "AB1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 318,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Premiers Baisers",
+  "overview": "",
+  "popularity": 55.8888,
+  "poster_path": "/4oCEUz8ycnGmnrAYi3lYgEAeiEZ.jpg",
+  "production_companies": [
+    {
+      "id": 22728,
+      "logo_path": "/lgW9VWuX3WFyzuyiJRVFE1khDWs.png",
+      "name": "AB Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1991-12-24",
+      "episode_count": 1,
+      "id": 164306,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-12-23",
+      "episode_count": 318,
+      "id": 145558,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/7E7VVVbEYeoGHLXMurqaR0Yir8q.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.583,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 100684,
+    "imdb_id": "tt0172040",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 263844,
+    "tvrage_id": null,
+    "wikidata_id": "Q678485",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

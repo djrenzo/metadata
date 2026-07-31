@@ -1,0 +1,141 @@
+{
+  "adult": false,
+  "backdrop_path": "/o82rmThq339zBdO8Bd3gUyBic0o.jpg",
+  "created_by": [
+    {
+      "id": 5886423,
+      "credit_id": "694502fab426a6bc671545c3",
+      "name": "김윤집",
+      "original_name": "김윤집",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    100
+  ],
+  "first_air_date": "2018-03-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://program.imbc.com/omniscient",
+  "id": 80736,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-06-27",
+  "last_episode_to_air": {
+    "id": 7516662,
+    "name": "Episode 408",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 408,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 93,
+    "season_number": 1,
+    "show_id": 80736,
+    "still_path": "/ogSvVZkPTLcUmkpXURarDdQ024K.jpg"
+  },
+  "name": "The Manager",
+  "next_episode_to_air": {
+    "id": 7547448,
+    "name": "Episode 409",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-01",
+    "episode_number": 409,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 80736,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 407,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "전지적 참견 시점",
+  "overview": "We will get involved in every little detail of the stars’ lives. The managers who work closely with the stars reveal their mundane lives. Once the information is all revealed, the professional meddlers from various different fields are invited to make comments regarding even the smallest details. Lee Yeong Ja, Jun Hyun Moo, Song Eun I, Kim Saeng Min, Yang Se Hyeong and Yoo Byung Jae participate as the life meddlers along with the professionals.",
+  "popularity": 23.5426,
+  "poster_path": "/jASfIetUKhrbqEEKBnjRjjgfuGK.jpg",
+  "production_companies": [
+    {
+      "id": 26511,
+      "logo_path": "/muK9W0KLV8KfEnR7MYu0YpfpdnO.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-11-27",
+      "episode_count": 19,
+      "id": 296794,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/xygT9E5wLyOhtGLlr7Ozchq1IjZ.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-10",
+      "episode_count": 410,
+      "id": 119505,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/jASfIetUKhrbqEEKBnjRjjgfuGK.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 80736,
+    "imdb_id": "tt15340934",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 347641,
+    "tvrage_id": null,
+    "wikidata_id": "Q48927769",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

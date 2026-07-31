@@ -1,0 +1,319 @@
+{
+  "adult": false,
+  "backdrop_path": "/AexziGDe7P6ovqfdOWkME0JrwLI.jpg",
+  "created_by": [
+    {
+      "id": 1871253,
+      "credit_id": "5995861fc3a36856ef012b41",
+      "name": "Stéphane Bouillaud",
+      "original_name": "Stéphane Bouillaud",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "2006-09-30",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.botravail.fr/echappees-belles",
+  "id": 70620,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-06-27",
+  "last_episode_to_air": {
+    "id": 7396374,
+    "name": "Episode 35",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-06-27",
+    "episode_number": 35,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 20,
+    "show_id": 70620,
+    "still_path": null
+  },
+  "name": "Échappées Belles",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 255,
+      "logo_path": "/8xK6AdNT6PfRyygRvb2MKCoqrv2.png",
+      "name": "France 5",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 703,
+  "number_of_seasons": 20,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Échappées Belles",
+  "overview": "Échappées Belles is a French weekly discovery magazine, broadcast on Saturdays in the first part of the evening on France 5 since September 30, 2006. It is presented in turn by Sophie Jovillard, Jérôme Pitorin, Ismaël Khelifa, Tiga, Sabine Quindou, Théo Curin and Anto Cocagne.",
+  "popularity": 29.6081,
+  "poster_path": "/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
+  "production_companies": [
+    {
+      "id": 82226,
+      "logo_path": null,
+      "name": "BO Travail",
+      "origin_country": ""
+    },
+    {
+      "id": 170525,
+      "logo_path": "/9WZMRkq2dkMbHe8khLj4mG7uHLa.png",
+      "name": "Bo Travail !",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-30",
+      "episode_count": 38,
+      "id": 167531,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/wIL94HEyRDmyEYfK0WlcFC2FruS.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-22",
+      "episode_count": 32,
+      "id": 175224,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-13",
+      "episode_count": 32,
+      "id": 175225,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-12",
+      "episode_count": 32,
+      "id": 175226,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-11",
+      "episode_count": 34,
+      "id": 140098,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-10",
+      "episode_count": 34,
+      "id": 175227,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-08",
+      "episode_count": 34,
+      "id": 176640,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-07",
+      "episode_count": 34,
+      "id": 176669,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-06",
+      "episode_count": 34,
+      "id": 176683,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/7fMsSjU9R8wDylaUoZ5ncEfNKcJ.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-12",
+      "episode_count": 34,
+      "id": 176767,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-10",
+      "episode_count": 40,
+      "id": 176769,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 11,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2017-09-09",
+      "episode_count": 37,
+      "id": 176834,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-08",
+      "episode_count": 38,
+      "id": 176840,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-07",
+      "episode_count": 31,
+      "id": 176852,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-05",
+      "episode_count": 41,
+      "id": 176886,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-11",
+      "episode_count": 38,
+      "id": 218542,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/kNTpLvQ0wlUn5s5J3pq2MzGZQ7E.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-17",
+      "episode_count": 36,
+      "id": 309219,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/w8Zz45taThWFheId48kYdXiZxSc.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-09",
+      "episode_count": 34,
+      "id": 360216,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/cAYp8MhU2TJLJ0hRlAjuvZ9ZMCv.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-14",
+      "episode_count": 35,
+      "id": 418554,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/uot5FWc3t6bEDRZJeLTao0kQnGb.jpg",
+      "season_number": 19,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2025-09-13",
+      "episode_count": 35,
+      "id": 473221,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/hFzGq4VOwqSaAmzfwzF0htSmTop.jpg",
+      "season_number": 20,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 7.8,
+  "vote_count": 2,
+  "external_ids": {
+    "id": 70620,
+    "imdb_id": "tt5210088",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 279474,
+    "tvrage_id": null,
+    "wikidata_id": "Q3577405",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

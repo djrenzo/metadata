@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/aI7FDsSnhUtD8Qnzak1L86QjQhB.jpg",
+  "created_by": [
+    {
+      "id": 3548177,
+      "credit_id": "627e8af6c92c5d0052ddd2e1",
+      "name": "陈彦铭",
+      "original_name": "陳彥銘",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    46
+  ],
+  "first_air_date": "2022-02-14",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "",
+  "id": 201900,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-05-21",
+  "last_episode_to_air": {
+    "id": 7611801,
+    "name": "Episode 1004",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-22",
+    "episode_number": 1004,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 201900,
+    "still_path": "/vZikcWQVpaRzSGPYdkhwFzE39fu.jpg"
+  },
+  "name": "Dee Girls Talk",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 5938,
+      "logo_path": "/9qagXCunwEv8MSQ0rnffHax0ijl.png",
+      "name": "东森综合",
+      "origin_country": "TW"
+    }
+  ],
+  "number_of_episodes": 1000,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_name": "小姐不熙娣",
+  "overview": "",
+  "popularity": 26.1139,
+  "poster_path": "/hEi1zZmS0Bgm8j2X7j8Rvv2yfHJ.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2023-01-21",
+      "episode_count": 7,
+      "id": 379045,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/oVqZlG1RNpei6XHBkURBIzozRoY.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-14",
+      "episode_count": 1004,
+      "id": 293589,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mHQnv28oFj9AHm1mQoxODpSAYpB.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 7.667,
+  "vote_count": 3,
+  "external_ids": {
+    "id": 201900,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 432445,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "ebcdeegirlstalk",
+    "instagram_id": "ebcdeegirlstalk",
+    "twitter_id": null
+  }
+}

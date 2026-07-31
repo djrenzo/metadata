@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": "/86DaGXvmEXyMq27tk02K0glEdlt.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2019-04-01",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://ici.radio-canada.ca/tele/bonsoir-bonsoir/",
+  "id": 88191,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2024-09-05",
+  "last_episode_to_air": {
+    "id": 7601100,
+    "name": "Episode 83",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-09-01",
+    "episode_number": 83,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 8,
+    "show_id": 88191,
+    "still_path": null
+  },
+  "name": "Bonsoir bonsoir!",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 141,
+      "logo_path": "/32OnRA75a9xn30N2fC44IcCzHkC.png",
+      "name": "ICI Radio-Canada Télé",
+      "origin_country": "CA"
+    }
+  ],
+  "number_of_episodes": 521,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_name": "Bonsoir bonsoir!",
+  "overview": "Each day, Jean-Philippe Wauthier welcomes guests on the show in warm, friendly setting. His interviews focus on their newsworthy achievements but also, and most importantly, on their passions, interests and opinions.",
+  "popularity": 29.1753,
+  "poster_path": "/4cCTEwOTiGEF4jRtQ1NRk9TIkKM.jpg",
+  "production_companies": [
+    {
+      "id": 94127,
+      "logo_path": null,
+      "name": "La Production est encore jeune",
+      "origin_country": "CA"
+    },
+    {
+      "id": 70020,
+      "logo_path": "/5NBP5FL6QeA4Lq5LTEZ6V0leiKc.png",
+      "name": "A Média",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-04-01",
+      "episode_count": 90,
+      "id": 121685,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-06",
+      "episode_count": 89,
+      "id": 147705,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-18",
+      "episode_count": 13,
+      "id": 164399,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-04",
+      "episode_count": 81,
+      "id": 188555,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/cAG4GF3IOhthalezpn72K2rXuMh.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-18",
+      "episode_count": 84,
+      "id": 287403,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-10",
+      "episode_count": 88,
+      "id": 356026,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-04-08",
+      "episode_count": 76,
+      "id": 532369,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-07",
+      "episode_count": 83,
+      "id": 532707,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 88191,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 361292,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": "BonsoirBonsoirRC",
+    "instagram_id": "bonsoirbonsoirrc",
+    "twitter_id": null
+  }
+}

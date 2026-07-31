@@ -1,0 +1,313 @@
+{
+  "adult": false,
+  "backdrop_path": "/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
+  "created_by": [
+    {
+      "id": 14,
+      "credit_id": "5253878e19c295794021ec96",
+      "name": "Ellen DeGeneres",
+      "original_name": "Ellen DeGeneres",
+      "gender": 1,
+      "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg"
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2003-09-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "http://www.ellen.warnerbros.com/",
+  "id": 562,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-06-17",
+  "last_episode_to_air": {
+    "id": 6654833,
+    "name": "Heidi Klum/Michelle Obama/Shin Lim",
+    "overview": "Ellen presents fun moments from Season 19, including appearances by Heidi Klum, Michellle Obama, and magician Shin Lim;",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-06-17",
+    "episode_number": 309,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 19,
+    "show_id": 562,
+    "still_path": null
+  },
+  "name": "The Ellen DeGeneres Show",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2087,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Ellen DeGeneres Show",
+  "overview": "The Ellen DeGeneres Show, often shortened to just Ellen, is an American television talk show hosted by comedian/actress Ellen DeGeneres.",
+  "popularity": 25.7463,
+  "poster_path": "/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+  "production_companies": [
+    {
+      "id": 43632,
+      "logo_path": "/f75STKHmzvi7bYmWSVFF0HVi67F.png",
+      "name": "A Very Good Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 28674,
+      "logo_path": "/9mAzySYj0j2D3vXbYPatqmvXykw.png",
+      "name": "Telepictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 77,
+      "id": 1721,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/254PUbBYbXx19up3UQuyR43kkQq.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 180,
+      "id": 1718,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/76n3aGOcnT4FHeLbexWPlOmSxvx.jpg",
+      "season_number": 2,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2005-09-05",
+      "episode_count": 170,
+      "id": 1722,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/7oUBMvuHQ8S10R6C4sDa673OZmc.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 124,
+      "id": 1719,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/yNOKAxNV7fiIlzWzbZyBeiOLjuh.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-04",
+      "episode_count": 83,
+      "id": 1720,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/egiNoJnGiiep7U8RUqruGTG2OYt.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 86,
+      "id": 1723,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/e3qpwZr4eTqq6V38gtKE1rvruBN.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-06",
+      "episode_count": 139,
+      "id": 1726,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/d5sBRYfZmkTZ6chTQ4Q8BlDI9SI.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 171,
+      "id": 1724,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/jqTZBBjDKQPntuFVfOz3amddj0T.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 171,
+      "id": 1725,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/kuLnfAFhrjtIY3eOonyVFDZaj2O.jpg",
+      "season_number": 9,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2012-09-10",
+      "episode_count": 189,
+      "id": 1727,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/zrEdn55a6GfN21E0E9n9GZKZ39e.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-09",
+      "episode_count": 175,
+      "id": 1730,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/9Zfeli3IYcQQEfWsSeYpWozKmaP.jpg",
+      "season_number": 11,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2014-09-08",
+      "episode_count": 6,
+      "id": 140206,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/7cIxIDdeL64uEk5dji6EY8Ku4lw.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-08",
+      "episode_count": 101,
+      "id": 70423,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/hahL12KFL5ltuSAFA39QlbiPEN1.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-01",
+      "episode_count": 43,
+      "id": 79951,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/y4RHO9tgJZskh5NioHRaTK7ihwM.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-05",
+      "episode_count": 23,
+      "id": 103725,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/yXU9fZYbxsfsGlYEMOETqXbno0m.jpg",
+      "season_number": 15,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2018-09-04",
+      "episode_count": 10,
+      "id": 140636,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/qtCVMEbXhhlPHKiknXIZ8zP6SKK.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 36,
+      "id": 132415,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/vyLJBrWf4UAh55MsDWVFN40u3Lu.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-21",
+      "episode_count": 174,
+      "id": 164238,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/rDz0t9DK88X4lhuPr88tNFd7rG2.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 129,
+      "id": 210803,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/lf43nsECPFdBD2QEfEqKI32pc8i.jpg",
+      "season_number": 19,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.573,
+  "vote_count": 178,
+  "external_ids": {
+    "id": 562,
+    "imdb_id": "tt0379623",
+    "freebase_mid": "/m/0528kc",
+    "freebase_id": "/en/the_ellen_degeneres_show",
+    "tvdb_id": 72194,
+    "tvrage_id": 5750,
+    "wikidata_id": "Q839150",
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

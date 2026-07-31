@@ -1,0 +1,283 @@
+{
+  "adult": false,
+  "backdrop_path": "/gGbwLfB0c72YBsCJBVASOyRczDQ.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2020-08-18",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10768,
+      "name": "War & Politics"
+    }
+  ],
+  "homepage": "https://www.svtplay.se/kategori/varldens-historia",
+  "id": 131663,
+  "in_production": true,
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "no",
+    "sv"
+  ],
+  "last_air_date": "2026-04-07",
+  "last_episode_to_air": {
+    "id": 7412389,
+    "name": "Episode 32",
+    "overview": "",
+    "vote_average": 5,
+    "vote_count": 1,
+    "air_date": "2026-06-30",
+    "episode_number": 32,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 9,
+    "show_id": 131663,
+    "still_path": null
+  },
+  "name": "History of the World",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 391,
+      "logo_path": "/7xOoWHdhdfYE0Pn9ilYLB1lenpC.png",
+      "name": "DR1",
+      "origin_country": "DK"
+    },
+    {
+      "id": 5751,
+      "logo_path": "/uDBTroGxOuJqUdcd817DhiNSDzS.png",
+      "name": "NRK",
+      "origin_country": "NO"
+    },
+    {
+      "id": 258,
+      "logo_path": "/yVkQLTDJZtobAnIrNmsAnPPIcst.png",
+      "name": "SVT2",
+      "origin_country": "SE"
+    },
+    {
+      "id": 356,
+      "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+      "name": "SVT1",
+      "origin_country": "SE"
+    },
+    {
+      "id": 3375,
+      "logo_path": "/xtXMBjBC6YhQzODw0XWERsHvhdz.png",
+      "name": "SVT Play",
+      "origin_country": "SE"
+    },
+    {
+      "id": 5570,
+      "logo_path": "/6NetJ8kh8ySywHOW9hY4I4imyZ8.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "number_of_episodes": 260,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "AU",
+    "AT",
+    "DK",
+    "FR",
+    "DE",
+    "IL",
+    "NO",
+    "SE",
+    "GB",
+    "US"
+  ],
+  "original_language": "sv",
+  "original_name": "Världens historia",
+  "overview": "It's about human history, how humans shaped the world we live in. A history through cultures and civilizations - from early Mesopotamia to the industrial revolution.\n\nDocumentary series from various european production company’s like BBC, SVT, NRK, DR, ARTE, Covering serveral topics of war, Persons Like Cleopatra, Hitler, George Washington, etc",
+  "popularity": 54.2062,
+  "poster_path": "/rllmEYZb4vhPHl4w6522372r6J6.jpg",
+  "production_companies": [
+    {
+      "id": 44955,
+      "logo_path": "/3PIz9xuSFkFX3ivC9hCmXNAD1TD.png",
+      "name": "DOKFILM",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2024-06-06",
+      "episode_count": 12,
+      "id": 397332,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-18",
+      "episode_count": 5,
+      "id": 206808,
+      "name": "Season 2020",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2021-01-08",
+      "episode_count": 55,
+      "id": 206849,
+      "name": "Season 2021",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 4.9
+    },
+    {
+      "air_date": "2022-02-22",
+      "episode_count": 38,
+      "id": 246146,
+      "name": "Season 2022",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2022-06-07",
+      "episode_count": 19,
+      "id": 297096,
+      "name": "History of the World in 3 minutes",
+      "overview": "It's about human history, how humans shaped the world we live in. A history through cultures and civilizations - from early Mesopotamia to the industrial revolution.\n\nImportant events in the history of the world in 3 min, short specials, Season.  Interesting historical events collected by SVT.",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2022-09-27",
+      "episode_count": 2,
+      "id": 310450,
+      "name": "Operation Barbarossa",
+      "overview": "Hitler is at the peak of his fanatical career, he has conquered France, and the German people are on his side. But now he's making the biggest mistake of his life. Hitler decides to turn his gaze east and challenge the Soviet Union.",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2023-01-10",
+      "episode_count": 39,
+      "id": 322027,
+      "name": "Season 2023",
+      "overview": "It's about human history, how humans shaped the world we live in. A history through cultures and civilizations - from early Mesopotamia to the industrial revolution. Important events in the history of the world. Interesting historical events collected by SVT.",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 5.1
+    },
+    {
+      "air_date": "2024-01-09",
+      "episode_count": 37,
+      "id": 370484,
+      "name": "Season 2024",
+      "overview": "It's about human history, how humans shaped the world we live in. A history through cultures and civilizations - from early Mesopotamia to the industrial revolution. Important events in the history of the world. Interesting historical events collected by SVT.",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2025-01-07",
+      "episode_count": 49,
+      "id": 435140,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2026-01-06",
+      "episode_count": 32,
+      "id": 490168,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 6.5,
+  "vote_count": 6,
+  "external_ids": {
+    "id": 131663,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 433928,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

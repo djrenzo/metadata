@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/17g7A3nmW23GLpHfp6F1TJTIExV.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    55
+  ],
+  "first_air_date": "2013-04-17",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://www.arirang.com/tv/12",
+  "id": 96816,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-03-25",
+  "last_episode_to_air": {
+    "id": 6410417,
+    "name": "TNX",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-03-25",
+    "episode_number": 671,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 55,
+    "season_number": 1,
+    "show_id": 96816,
+    "still_path": null
+  },
+  "name": "After School Club",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2053,
+      "logo_path": "/z075mUlUUMe5WcEDA5wU09mtRsi.png",
+      "name": "ArirangTV",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 671,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "en",
+  "original_name": "After School Club",
+  "overview": "After School Club is the Live Music Request show for K-Pop fans all around the world. On our weekly live show, you can join our video chat sessions through Google Hangouts, send us tweets, and share status. Connect directly with AARON, ALLEN, TAEYOUNG, as well as our awesome guests!",
+  "popularity": 25.3308,
+  "poster_path": "/eBCJc0GS0eiOhZf5PqRapE4iKNw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2013-04-17",
+      "episode_count": 4,
+      "id": 138962,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-17",
+      "episode_count": 671,
+      "id": 174074,
+      "name": "Season 1",
+      "overview": "After School Club, often shortened to ASC, is a South Korean interactive music talk show that primarily airs on Arirang TV.",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Tired of one-way K-pop? Join the Club!",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 4,
+  "external_ids": {
+    "id": 96816,
+    "imdb_id": "tt6147790",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q17510053",
+    "facebook_id": "afterschoolclub.arirangtv",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

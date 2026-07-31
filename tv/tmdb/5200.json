@@ -1,0 +1,337 @@
+{
+  "adult": false,
+  "backdrop_path": "/dEPV4QKCdo8pqLN4g4h8pn6Jga7.jpg",
+  "created_by": [
+    {
+      "id": 1238579,
+      "credit_id": "52577e6e760ee36aaa5b7fe1",
+      "name": "Dave Jones",
+      "original_name": "Dave Jones",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1238580,
+      "credit_id": "52577e6f760ee36aaa5b7fea",
+      "name": "Dave Gingell",
+      "original_name": "Dave Gingell",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "1987-11-17",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "Kids"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.firemansamonline.com",
+  "id": 5200,
+  "in_production": true,
+  "languages": [
+    "en",
+    "cy"
+  ],
+  "last_air_date": "2024-11-12",
+  "last_episode_to_air": {
+    "id": 6211720,
+    "name": "The Big Show",
+    "overview": "It's time for the finale of the Pontypandy Festival - the Big Pontypandy Talent Show! But when Elvis knocks a drink over the drone control panel, the drones crash land, causing fires in the fields all around the show area.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-11-12",
+    "episode_number": 26,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 10,
+    "season_number": 16,
+    "show_id": 5200,
+    "still_path": "/xUx3x5JCQD6M8IIRcT5fpcxDLN5.jpg"
+  },
+  "name": "Fireman Sam",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 139,
+      "logo_path": "/GOTWuhzHulAcXJMETunP2Wy8No.png",
+      "name": "S4C",
+      "origin_country": "GB"
+    },
+    {
+      "id": 166,
+      "logo_path": "/lpcHkKxLsFz2YhEnRlkslsTtePe.png",
+      "name": "CBeebies",
+      "origin_country": "GB"
+    },
+    {
+      "id": 99,
+      "logo_path": "/tAOMutfVve2or2LTYQfIa42sc33.png",
+      "name": "5",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 359,
+  "number_of_seasons": 16,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "cy",
+  "original_name": "Sam Tân",
+  "overview": "Follow the adventures of fireman Sam and his colleagues as they protect the citizens of the Welsh town of Pontypandy. Whenever the alarm sounds, brave Sam and his co-workers can be counted on to jump into a fire engine, hop onto a helicopter, or even launch an inflatable lifeboat to battle blazes, mount rescue missions, or provide medical attention to those in need.",
+  "popularity": 38.5317,
+  "poster_path": "/sXsqaIOjemMuHxGu3XukIyVM7jN.jpg",
+  "production_companies": [
+    {
+      "id": 5878,
+      "logo_path": null,
+      "name": "Siriol Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 28159,
+      "logo_path": "/vi4Y2pr4P7Yk38EjEuEm59ebaaU.png",
+      "name": "HiT Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 87780,
+      "logo_path": "/w49KeBngvSfC9Qd7zk8FljT1EFB.png",
+      "name": "Mattel Creations",
+      "origin_country": "US"
+    },
+    {
+      "id": 137586,
+      "logo_path": "/yRstxvfbutR1yJcCDb8EXyn8jTX.png",
+      "name": "Mattel Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-07-15",
+      "episode_count": 13,
+      "id": 15087,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/bUeLE8NB8mZQGn9d2nGqFZyyTJE.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-11-17",
+      "episode_count": 8,
+      "id": 15083,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/8Dc5r80iIsNyHEhJaKrRRd6qHS4.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-01",
+      "episode_count": 8,
+      "id": 15084,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/3c1YFY5cW1DQmTIFmK4QMM60X6G.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-15",
+      "episode_count": 9,
+      "id": 15085,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/hEA5y7m01ZYVgwgYJqzE6IDpPKN.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-10-25",
+      "episode_count": 8,
+      "id": 15086,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/rXBglJgmlKyGidJ7O6xdyfiXrqw.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-03-31",
+      "episode_count": 26,
+      "id": 15088,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/dEFdb6zmPM5V8S7cSl4SWonlFL7.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-02-11",
+      "episode_count": 51,
+      "id": 15089,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/yCtOFfWAuB7Q1id5YZAcvnVR7YN.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-11-11",
+      "episode_count": 41,
+      "id": 15090,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/gRrBEWaBdgPMOCDIihHlF5zbygF.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-03-03",
+      "episode_count": 26,
+      "id": 15091,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/9VhCrVb0XbMZln20KnCWNGNnx4t.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-04-05",
+      "episode_count": 25,
+      "id": 85355,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/y7dn1dGJHvBGM2HJ8Xnqj5IxwBL.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-05-07",
+      "episode_count": 25,
+      "id": 79465,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/sOa4F8t3sPScRSBe4RDqRkyvsxI.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-18",
+      "episode_count": 15,
+      "id": 103517,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/8iKqbY9s1vyrDt1z0Y6RHr03j9s.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-26",
+      "episode_count": 13,
+      "id": 185838,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/2DQGUmJfc64qzvoHw6GXQRTCbiL.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-10-04",
+      "episode_count": 26,
+      "id": 282933,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/7Paq9ZgaMBKyo6OFUnSP7Am0WdR.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-11-01",
+      "episode_count": 26,
+      "id": 343478,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/dDCF7Uyx6lCNv8Yvwx4w4gfi2CO.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-10-21",
+      "episode_count": 26,
+      "id": 404477,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/kVi9gJesIEYvNMV6jpSHii0EYT4.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-01",
+      "episode_count": 26,
+      "id": 438168,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Welsh",
+      "iso_639_1": "cy",
+      "name": "Cymraeg"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.1,
+  "vote_count": 40,
+  "external_ids": {
+    "id": 5200,
+    "imdb_id": "tt0329829",
+    "freebase_mid": "/m/03c4wp",
+    "freebase_id": "/en/fireman_sam",
+    "tvdb_id": 73517,
+    "tvrage_id": 1416,
+    "wikidata_id": "Q2572813",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

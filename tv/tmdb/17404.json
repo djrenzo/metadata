@@ -1,0 +1,774 @@
+{
+  "adult": false,
+  "backdrop_path": "/t9cRI8CKYWlLFhdZF020UIpCim4.jpg",
+  "created_by": [
+    {
+      "id": 1349926,
+      "credit_id": "53e03e91c3a3686c4d00311f",
+      "name": "Michael Krupat",
+      "original_name": "Michael Krupat",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2637786,
+      "credit_id": "5ebcb1de8586780021e271d5",
+      "name": "Dave Noll",
+      "original_name": "Dave Noll",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 2637789,
+      "credit_id": "5ebcb1ee8e2e00001f1087fc",
+      "name": "Linda Lea",
+      "original_name": "Linda Lea",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    60,
+    44
+  ],
+  "first_air_date": "2009-01-13",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.foodnetwork.com/shows/chopped.html",
+  "id": 17404,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-06",
+  "last_episode_to_air": {
+    "id": 7207951,
+    "name": "Leftovers Gone Wild!",
+    "overview": "Making amazing meals out of absolutely anything is this competition's modus operandi, so leftovers is an all-time favorite Chopped theme. In the appetizer round, everyone is excited to show they have what it takes to repurpose foods that might have otherwise been tossed out, and the judges are in for four interesting takes on the first basket. In the entrée round, the chefs attempt to impress the judges using a variety of tools and techniques. The two finalists open the dessert basket to find a single slice of birthday cake, but only one chef will be left celebrating at the end of this leftovers battle.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-06",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 64,
+    "show_id": 17404,
+    "still_path": null
+  },
+  "name": "Chopped",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 143,
+      "logo_path": "/tm2UclPxfamHyFuILLq4jNxsi8v.png",
+      "name": "Food Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 817,
+  "number_of_seasons": 64,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Chopped",
+  "overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets “chopped” by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+  "popularity": 24.4288,
+  "poster_path": "/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
+  "production_companies": [
+    {
+      "id": 132602,
+      "logo_path": null,
+      "name": "Notional",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-07-22",
+      "episode_count": 31,
+      "id": 28307,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-13",
+      "episode_count": 13,
+      "id": 28308,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/1rguoBog0vzDnHyFhchv8lv1TQe.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-06-14",
+      "episode_count": 13,
+      "id": 28309,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-13",
+      "episode_count": 13,
+      "id": 28310,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/gqEiEVrBHwTR8jIEKNvk6P1OD0X.jpg",
+      "season_number": 3,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2010-04-06",
+      "episode_count": 13,
+      "id": 28311,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/jh3R0gUJ7Uuz00EzCi0cpelhb5N.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-07-20",
+      "episode_count": 13,
+      "id": 28312,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/tJSJUMkvZQeRS6p4GizlW0RTFkv.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-04",
+      "episode_count": 12,
+      "id": 28313,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/oL1sDLzSZTUrAfd2e9kmQ6NgXHn.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-05-03",
+      "episode_count": 10,
+      "id": 28314,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/eaMmSCL3D59wj6uhD4gWXREnMeJ.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-12",
+      "episode_count": 9,
+      "id": 28315,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/tKgodHg2blMbMFesMS2tpuPdcUJ.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-30",
+      "episode_count": 13,
+      "id": 28316,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/jGGdzaqT5K006DQHRofLKQWLWaC.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-12-20",
+      "episode_count": 13,
+      "id": 28317,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/a9RAsimbnKhZOGboo9CwcoFnMyd.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-07",
+      "episode_count": 13,
+      "id": 28318,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/cA1kAbkTcAJMNvT06zdrRvPCGz0.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-05",
+      "episode_count": 13,
+      "id": 28319,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/ou9ZPUG2rk1z381GfqUeavVKsVr.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-04",
+      "episode_count": 12,
+      "id": 28320,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/7PfOXLCswG5Po2z5hzgoisKthTv.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 13,
+      "id": 28321,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-02",
+      "episode_count": 13,
+      "id": 28322,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-02",
+      "episode_count": 13,
+      "id": 28323,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-13",
+      "episode_count": 13,
+      "id": 28324,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2013-11-26",
+      "episode_count": 13,
+      "id": 66174,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-04",
+      "episode_count": 13,
+      "id": 66175,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-03-18",
+      "episode_count": 13,
+      "id": 66176,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-15",
+      "episode_count": 13,
+      "id": 66177,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-14",
+      "episode_count": 13,
+      "id": 211139,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-12-16",
+      "episode_count": 13,
+      "id": 211140,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-28",
+      "episode_count": 13,
+      "id": 71369,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-25",
+      "episode_count": 13,
+      "id": 72953,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 9.5
+    },
+    {
+      "air_date": "2015-10-06",
+      "episode_count": 8,
+      "id": 73554,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-05",
+      "episode_count": 13,
+      "id": 78269,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-29",
+      "episode_count": 13,
+      "id": 78270,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-07",
+      "episode_count": 13,
+      "id": 80409,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-22",
+      "episode_count": 8,
+      "id": 211186,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-13",
+      "episode_count": 20,
+      "id": 162631,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 12,
+      "id": 85416,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-03-21",
+      "episode_count": 8,
+      "id": 88261,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-09",
+      "episode_count": 13,
+      "id": 88262,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-18",
+      "episode_count": 20,
+      "id": 90605,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-12-12",
+      "episode_count": 13,
+      "id": 97074,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-03-13",
+      "episode_count": 19,
+      "id": 102491,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-05-15",
+      "episode_count": 13,
+      "id": 108892,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-03",
+      "episode_count": 13,
+      "id": 111554,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 13,
+      "id": 115264,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-12-11",
+      "episode_count": 13,
+      "id": 122475,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-11-20",
+      "episode_count": 10,
+      "id": 122476,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-09",
+      "episode_count": 13,
+      "id": 129938,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-24",
+      "episode_count": 13,
+      "id": 137555,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-21",
+      "episode_count": 13,
+      "id": 144565,
+      "name": "Season 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-14",
+      "episode_count": 13,
+      "id": 148691,
+      "name": "Season 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-04-07",
+      "episode_count": 13,
+      "id": 158690,
+      "name": "Season 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-15",
+      "episode_count": 14,
+      "id": 174374,
+      "name": "Season 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-11-10",
+      "episode_count": 15,
+      "id": 169540,
+      "name": "Season 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-01",
+      "episode_count": 16,
+      "id": 194258,
+      "name": "Season 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-28",
+      "episode_count": 15,
+      "id": 236854,
+      "name": "Season 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-04-12",
+      "episode_count": 12,
+      "id": 286265,
+      "name": "Season 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-18",
+      "episode_count": 8,
+      "id": 313419,
+      "name": "Season 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-12-27",
+      "episode_count": 17,
+      "id": 322098,
+      "name": "Casino Royale XL",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-04-25",
+      "episode_count": 10,
+      "id": 338816,
+      "name": "Season 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-07-11",
+      "episode_count": 12,
+      "id": 348715,
+      "name": "Season 56",
+      "overview": "",
+      "poster_path": "/3vN4ZeRJlLQHEKatIGzOqxhbUI9.jpg",
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-14",
+      "episode_count": 12,
+      "id": 359561,
+      "name": "Season 57",
+      "overview": "",
+      "poster_path": "/20LotEDgiG5HoXf67A3AuQEzEFo.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-06",
+      "episode_count": 13,
+      "id": 377516,
+      "name": "Season 58",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 58,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2024-04-30",
+      "episode_count": 15,
+      "id": 394685,
+      "name": "Season 59",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 9,
+      "id": 405588,
+      "name": "Season 60",
+      "overview": "Competitors race to turn mystery ingredients into extraordinary three-course meals. This competition is all about skill, speed and ingenuity -- and only one chef will impress the judges enough to survive the chopping block.",
+      "poster_path": null,
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 13,
+      "id": 436895,
+      "name": "Season 61",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-04-08",
+      "episode_count": 15,
+      "id": 450634,
+      "name": "Season 62",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-06-24",
+      "episode_count": 10,
+      "id": 463076,
+      "name": "Season 63",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-03-18",
+      "episode_count": 8,
+      "id": 505836,
+      "name": "Season 64",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 64,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.4,
+  "vote_count": 65,
+  "external_ids": {
+    "id": 17404,
+    "imdb_id": "tt1353281",
+    "freebase_mid": "/m/05c4pqd",
+    "freebase_id": "/en/chopped",
+    "tvdb_id": 85019,
+    "tvrage_id": 20628,
+    "wikidata_id": "Q5104849",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

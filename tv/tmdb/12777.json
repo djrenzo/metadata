@@ -1,0 +1,137 @@
+{
+  "adult": false,
+  "backdrop_path": "/vCegizcgxwvi2vcx9Om6jGMdxEa.jpg",
+  "created_by": [
+    {
+      "id": 1244265,
+      "credit_id": "623704838e8d30007845e22b",
+      "name": "Caridad Bravo Adams",
+      "original_name": "Caridad Bravo Adams",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 138352,
+      "credit_id": "6237045c8ac3d0001bba5ce6",
+      "name": "Alberto Cortés",
+      "original_name": "Alberto Cortés",
+      "gender": 2,
+      "profile_path": "/zbucMmHCj0biNNKXNKIpHsmUG24.jpg"
+    },
+    {
+      "id": 2310156,
+      "credit_id": "62370472db4ed60045160d4c",
+      "name": "José Rendón",
+      "original_name": "José Rendón",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1992-12-31",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10766,
+      "name": "Soap"
+    }
+  ],
+  "homepage": "",
+  "id": 12777,
+  "in_production": false,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "1994-02-18",
+  "last_episode_to_air": {
+    "id": 4510411,
+    "name": "Episode 160",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1994-02-18",
+    "episode_number": 160,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 1,
+    "show_id": 12777,
+    "still_path": null
+  },
+  "name": "Corazón salvaje",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 487,
+      "logo_path": "/5Cc4MKZWQKDRRHVGVDvnYhSf3UR.png",
+      "name": "Las Estrellas",
+      "origin_country": "MX"
+    }
+  ],
+  "number_of_episodes": 160,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_name": "Corazón salvaje",
+  "overview": "A telenovela that dramatizes the romances and rivalries between two brothers and two sisters in Mexico between the years 1885 and 1900.",
+  "popularity": 43.1039,
+  "poster_path": "/r7O2OTPM6xU6YAIVkHdhETLeqEb.jpg",
+  "production_companies": [
+    {
+      "id": 20911,
+      "logo_path": "/cpeCt1KrMkj2r27JPEx3SPgTCvJ.png",
+      "name": "Televisa",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-12-31",
+      "episode_count": 160,
+      "id": 135701,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/r7O2OTPM6xU6YAIVkHdhETLeqEb.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "A love story that will make history",
+  "type": "Scripted",
+  "vote_average": 7.9,
+  "vote_count": 619,
+  "external_ids": {
+    "id": 12777,
+    "imdb_id": "tt0212653",
+    "freebase_mid": "/m/0b0ww7",
+    "freebase_id": null,
+    "tvdb_id": 148171,
+    "tvrage_id": null,
+    "wikidata_id": "Q1042321",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

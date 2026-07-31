@@ -1,0 +1,523 @@
+{
+  "adult": false,
+  "backdrop_path": "/5zMuIvz2DBeOi38qRjHoTcxI9vb.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    115
+  ],
+  "first_air_date": "1986-04-01",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://kvn.ru/",
+  "id": 15080,
+  "in_production": true,
+  "languages": [
+    "ru"
+  ],
+  "last_air_date": "2026-03-12",
+  "last_episode_to_air": {
+    "id": 7361217,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-05-14",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 114,
+    "season_number": 40,
+    "show_id": 15080,
+    "still_path": "/qDn4lWYJM2hguhOU2IdYrQJqwXA.jpg"
+  },
+  "name": "KVN Major League",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 926,
+      "logo_path": "/eMCbJfoNCBZlbDKQO6NrfFyfYng.png",
+      "name": "Central Television USSR",
+      "origin_country": "SU"
+    },
+    {
+      "id": 558,
+      "logo_path": "/f8exyCoSdsESrCrlMgvETOnLgf8.png",
+      "name": "Channel One",
+      "origin_country": "RU"
+    }
+  ],
+  "number_of_episodes": 432,
+  "number_of_seasons": 40,
+  "origin_country": [
+    "RU",
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_name": "Высшая лига КВН",
+  "overview": "KVN is a Russian humour TV show and competition where teams compete by giving funny answers to questions and showing prepared sketches. The programme was first aired by the First Soviet Channel on November 8, 1961. Eleven years later, in 1972, when few programmes were being broadcast live, Soviet censors found the students' impromptu jokes offensive and anti-Soviet and banned KVN. The show was revived fourteen years later during the Perestroika era in 1986, with Alexander Maslyakov as its host. It is one of the longest-running TV programmes on Russian Television. It also has its own holiday on November 8, the birthday of the game, which KVN players celebrate every year since it was announced and widely celebrated for the first time in 2001.",
+  "popularity": 22.9258,
+  "poster_path": "/5DtKLe8ZTSZfuav8DyedJrZDmIF.jpg",
+  "production_companies": [
+    {
+      "id": 140953,
+      "logo_path": null,
+      "name": "AMIK",
+      "origin_country": "RU"
+    },
+    {
+      "id": 1039,
+      "logo_path": "/vTDwphEW5Ikiqu6UxrRCzhfFcVo.png",
+      "name": "Channel One",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    },
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1986-04-01",
+      "episode_count": 8,
+      "id": 177355,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/mzhxZWb7r2Iy6CsiaVleFggSvHM.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-10-17",
+      "episode_count": 7,
+      "id": 177351,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/agLod2nqrFvQLf8MzCyqV2ypjm.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-04-29",
+      "episode_count": 5,
+      "id": 26699,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/A8t44QGNUbGzeEtyDle7gdRDzlF.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-10",
+      "episode_count": 7,
+      "id": 26700,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/feHVU4F2trZWacgviRxFZaoPEL3.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-10",
+      "episode_count": 8,
+      "id": 26701,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/Ah8uHEYn59fmHR1bnAKP1xG9Thx.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-10-02",
+      "episode_count": 10,
+      "id": 59731,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/beaAKnH8YDaimPApUxdpoDWdBaJ.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 9,
+      "id": 66698,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/kC9fXRNhOSqusBV0rmqofMjwAFz.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-01",
+      "episode_count": 10,
+      "id": 66697,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/pGdIgfheH3xov10EqFtahnNqqa5.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 10,
+      "id": 66696,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/qu66qtUQYxT8SMcdLdsYym6bdHH.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 13,
+      "id": 66695,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/9wzzs2oiaML2BCqiLf9o7uAP853.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 12,
+      "id": 66694,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/plgG0MP7813LXB0T4PloArTwzi1.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 13,
+      "id": 66693,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/pwC6KCB3WVqVArbPtYdrXsQYZpS.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 13,
+      "id": 66692,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/sfWrPQnCmyfqksbxQ3cPfE0xmX8.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 12,
+      "id": 66690,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-02-18",
+      "episode_count": 12,
+      "id": 59739,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 12,
+      "id": 59744,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 12,
+      "id": 66689,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 12,
+      "id": 66688,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-24",
+      "episode_count": 12,
+      "id": 66687,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-12",
+      "episode_count": 12,
+      "id": 66686,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-24",
+      "episode_count": 12,
+      "id": 66685,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 12,
+      "id": 66684,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 12,
+      "id": 66683,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-02-07",
+      "episode_count": 12,
+      "id": 26702,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-02-13",
+      "episode_count": 13,
+      "id": 26703,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-02-12",
+      "episode_count": 13,
+      "id": 26704,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-02-17",
+      "episode_count": 14,
+      "id": 66104,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-02-08",
+      "episode_count": 13,
+      "id": 66682,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-08",
+      "episode_count": 15,
+      "id": 66735,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-18",
+      "episode_count": 15,
+      "id": 26696,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-02-12",
+      "episode_count": 14,
+      "id": 26697,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-12",
+      "episode_count": 15,
+      "id": 115303,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-02-16",
+      "episode_count": 15,
+      "id": 123402,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-02-12",
+      "episode_count": 14,
+      "id": 26698,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/uIUqROdAJQlMcQ126afIfwTIcbd.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-04-11",
+      "episode_count": 17,
+      "id": 379166,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/r7KYctEbAYvDU2zgStURDhtHvIC.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-02-16",
+      "episode_count": 16,
+      "id": 379167,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/r7KYctEbAYvDU2zgStURDhtHvIC.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-18",
+      "episode_count": 15,
+      "id": 379168,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/r7KYctEbAYvDU2zgStURDhtHvIC.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-16",
+      "episode_count": 15,
+      "id": 379169,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": "/r7KYctEbAYvDU2zgStURDhtHvIC.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-02-27",
+      "episode_count": 16,
+      "id": 436111,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/9MistjZ8gHRGmJaj1BTHSxtd13X.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-26",
+      "episode_count": 8,
+      "id": 505378,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": "/2rBRnBCQLbgAiT0RMrXMusfWYT8.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 6.722,
+  "vote_count": 18,
+  "external_ids": {
+    "id": 15080,
+    "imdb_id": "tt0470013",
+    "freebase_mid": "/m/09_7xg",
+    "freebase_id": "/en/kvn",
+    "tvdb_id": 161971,
+    "tvrage_id": null,
+    "wikidata_id": "Q4129686",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

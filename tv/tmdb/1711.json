@@ -1,0 +1,377 @@
+{
+  "adult": false,
+  "backdrop_path": "/idvmgq7cOoDJ9NbcTx3ymjVOXHg.jpg",
+  "created_by": [
+    {
+      "id": 1226661,
+      "credit_id": "66169963a579f90185303c33",
+      "name": "Fenia Vardanis",
+      "original_name": "Fenia Vardanis",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1225184,
+      "credit_id": "66169974dc1cb4017c1c4532",
+      "name": "Richard Hopkins",
+      "original_name": "Richard Hopkins",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 2511602,
+      "credit_id": "66169984109dec01489d5022",
+      "name": "Karen Smith",
+      "original_name": "Karen Smith",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2004-05-15",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/b006m8dq",
+  "id": 1711,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-25",
+  "last_episode_to_air": {
+    "id": 6734640,
+    "name": "Christmas Special",
+    "overview": "Strictly Come Dancing returns to the ballroom this Christmas, ready to captivate the nation with a celebration of dance and festive cheer.",
+    "vote_average": 7,
+    "vote_count": 1,
+    "air_date": "2025-12-25",
+    "episode_number": 26,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 74,
+    "season_number": 23,
+    "show_id": 1711,
+    "still_path": "/6hqnK7qrgBzE2HjFKzvxZ1wkqYX.jpg"
+  },
+  "name": "Strictly Come Dancing",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 585,
+  "number_of_seasons": 24,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Strictly Come Dancing",
+  "overview": "A dance competition where celebrities compete to be crowned the winner. Who is kicked out of the competition each week is decided by the judges scores and viewer votes. Are today's celebrities fleet of foot or do they have two left feet?",
+  "popularity": 25.1419,
+  "poster_path": "/uu7VGiQzhBDjH6oh85QWa8Z5qXY.jpg",
+  "production_companies": [
+    {
+      "id": 181068,
+      "logo_path": "/8XjNmpBDZrMOoKRhA14wp1FLuvN.png",
+      "name": "Sky",
+      "origin_country": "GB"
+    },
+    {
+      "id": 222625,
+      "logo_path": "/yt80RHIa4RCu6CU0zu9cCREbCYk.png",
+      "name": "BBC Studios Entertainment Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 9,
+      "id": 4767,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-05-15",
+      "episode_count": 9,
+      "id": 4768,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-23",
+      "episode_count": 19,
+      "id": 4769,
+      "name": "Series 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-15",
+      "episode_count": 21,
+      "id": 4770,
+      "name": "Series 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-07",
+      "episode_count": 26,
+      "id": 4771,
+      "name": "Series 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2007-09-29",
+      "episode_count": 26,
+      "id": 4772,
+      "name": "Series 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-13",
+      "episode_count": 30,
+      "id": 4773,
+      "name": "Series 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-18",
+      "episode_count": 20,
+      "id": 4774,
+      "name": "Series 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 27,
+      "id": 4775,
+      "name": "Series 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 26,
+      "id": 4776,
+      "name": "Series 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-15",
+      "episode_count": 25,
+      "id": 4777,
+      "name": "Series 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-04",
+      "episode_count": 31,
+      "id": 4778,
+      "name": "Series 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-03",
+      "episode_count": 31,
+      "id": 192134,
+      "name": "Series 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-02",
+      "episode_count": 33,
+      "id": 70322,
+      "name": "Series 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-31",
+      "episode_count": 29,
+      "id": 79821,
+      "name": "Series 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-31",
+      "episode_count": 28,
+      "id": 93437,
+      "name": "Series 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2018-08-29",
+      "episode_count": 27,
+      "id": 112867,
+      "name": "Series 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2019-08-29",
+      "episode_count": 27,
+      "id": 133242,
+      "name": "Series 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2020-10-17",
+      "episode_count": 18,
+      "id": 165927,
+      "name": "Series 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-24",
+      "episode_count": 26,
+      "id": 205871,
+      "name": "Series 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-23",
+      "episode_count": 26,
+      "id": 309367,
+      "name": "Series 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2023-09-16",
+      "episode_count": 26,
+      "id": 357216,
+      "name": "Series 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2024-09-14",
+      "episode_count": 27,
+      "id": 418191,
+      "name": "Series 22",
+      "overview": "",
+      "poster_path": "/gDN8rznqkVTPA64M85PJSVX8FiJ.jpg",
+      "season_number": 22,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2025-09-20",
+      "episode_count": 26,
+      "id": 472060,
+      "name": "Series 23",
+      "overview": "Dazzling routines, outrageous sets, flamboyant costumes and the occasional dance dis-aaa-ster.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 517317,
+      "name": "Series 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6,
+  "vote_count": 40,
+  "external_ids": {
+    "id": 1711,
+    "imdb_id": "tt0411027",
+    "freebase_mid": "/m/03vwkq",
+    "freebase_id": "/en/strictly_come_dancing",
+    "tvdb_id": 83127,
+    "tvrage_id": null,
+    "wikidata_id": "Q8070684",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

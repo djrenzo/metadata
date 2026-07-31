@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/dTSQlpRE9J5taV1CPCJIqhUu4fU.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "1974-04-12",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    }
+  ],
+  "homepage": "https://m-78.jp",
+  "id": 5157,
+  "in_production": false,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "1975-03-28",
+  "last_episode_to_air": {
+    "id": 1680617,
+    "name": "Goodbye Leo! Journey to the Sun",
+    "overview": "The most powerful saucer beast is summoned from Black Star. What will be the fate of Leo, and the fate of earth?",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1975-03-28",
+    "episode_number": 51,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 1,
+    "show_id": 5157,
+    "still_path": "/9atf0lUo67Yr6kqh0xAuFYr4si9.jpg"
+  },
+  "name": "Ultraman Leo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 160,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 51,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "ウルトラマンレオ",
+  "overview": "After being brutally maimed by evil aliens, Dan Moroboshi (Ultra Seven) takes under his wing a fierce young Ultra-like being from L-77, and christens him \"Ultraman Leo,\" to continue his mission to defend the Earth.",
+  "popularity": 25.4473,
+  "poster_path": "/h9oQemLAWQaGEKG5IrujpxUqoBM.jpg",
+  "production_companies": [
+    {
+      "id": 5905,
+      "logo_path": "/d6soAmyJmbmWS8W3jq8Rb6Fxsl3.png",
+      "name": "Tsuburaya Productions",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 1,
+      "id": 286651,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-04-12",
+      "episode_count": 51,
+      "id": 117262,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/i81zHs9V6OCksm7Y7nZEvmkXm0C.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "The eye of the lion is shining!",
+  "type": "Scripted",
+  "vote_average": 7.938,
+  "vote_count": 16,
+  "external_ids": {
+    "id": 5157,
+    "imdb_id": "tt1137351",
+    "freebase_mid": "/m/074xzq",
+    "freebase_id": "/en/ultraman_leo",
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2704139",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

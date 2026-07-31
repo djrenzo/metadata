@@ -1,0 +1,564 @@
+{
+  "adult": false,
+  "backdrop_path": "/fi3F610zUye8u7HaaGYUGviZTwj.jpg",
+  "created_by": [
+    {
+      "id": 1225093,
+      "credit_id": "5257408d760ee36aaa095ba8",
+      "name": "Reg Watson",
+      "original_name": "Reg Watson",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    30,
+    22
+  ],
+  "first_air_date": "1985-03-18",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "Soap"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.neighbours.com",
+  "id": 2674,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-11",
+  "last_episode_to_air": {
+    "id": 6671512,
+    "name": "Episode 9363",
+    "overview": "Paul and Shane have one last showdown. Familiar faces come home. What will happen to Ramsay Street?",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-12-11",
+    "episode_number": 196,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 41,
+    "show_id": 2674,
+    "still_path": null
+  },
+  "name": "Neighbours",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 38,
+      "logo_path": "/7tu6yE2qgqH7VyKfDwudn5OxvJB.png",
+      "name": "10",
+      "origin_country": "AU"
+    },
+    {
+      "id": 118,
+      "logo_path": "/83L2wF8tM76nUQHzOBOBAGlPQVP.png",
+      "name": "Seven Network",
+      "origin_country": "AU"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aWWP8dpuGhK3W6NduSkGlo3JbPn.png",
+      "name": "Eleven",
+      "origin_country": "AU"
+    },
+    {
+      "id": 6355,
+      "logo_path": "/oIn9ri2KU1H2F7azdbXRApeHDaG.png",
+      "name": "10 Comedy",
+      "origin_country": "AU"
+    }
+  ],
+  "number_of_episodes": 9364,
+  "number_of_seasons": 41,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_name": "Neighbours",
+  "overview": "Neighbours is an Australian television soap opera.  The show's storylines concern the domestic and professional lives of the people who live and work in Erinsborough, a fictional suburb of Melbourne, Victoria. The series primarily centres around the residents of Ramsay Street, a short cul-de-sac, and its neighbouring areas, the Lassiters complex, which includes a bar, hotel, cafe, news office and park. Neighbours began with three families created by Watson – the Ramsays, the Robinsons and the Clarkes. Watson said that he wanted to show three families who are friends living in a small street. The Robinsons and the Ramsays had a long history and were involved in an ongoing rivalry.",
+  "popularity": 25.2146,
+  "poster_path": "/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
+  "production_companies": [
+    {
+      "id": 2838,
+      "logo_path": "/3RImJV8qCBtlKD7ZoyVFnaKD9cw.png",
+      "name": "Fremantle Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 59315,
+      "logo_path": null,
+      "name": "Reg Grundy Productions",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 8644,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-03-18",
+      "episode_count": 170,
+      "id": 8617,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/9J3n5LM5OV3N12TOeS7Dm5BYYI5.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1986-01-20",
+      "episode_count": 230,
+      "id": 8618,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/crqpaHWlWPpblfJc9Bvdz4P4fKq.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-12",
+      "episode_count": 237,
+      "id": 8619,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/w5Isa9wL8iqMCGPcw4tcTWASkep.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-13",
+      "episode_count": 239,
+      "id": 8620,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/tcznjgYJheCN0t1tDkx0NoRD3qt.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-17",
+      "episode_count": 237,
+      "id": 8621,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/j7W29Tv0rgbEWObVHYnF1HJHYsY.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-11",
+      "episode_count": 237,
+      "id": 8622,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": "/sJ9RuxGIB32Gphsv4syeHNfHVVE.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-21",
+      "episode_count": 235,
+      "id": 8623,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": "/cC7K8o3GsqOIyKPMjZnNGosBYZ9.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-06",
+      "episode_count": 240,
+      "id": 8625,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": "/kezFcX5WVlRfaLd3TRsB55tTtxW.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-11",
+      "episode_count": 245,
+      "id": 8624,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": "/9t3xi5kFQWu2TvwzimG8LtWQ74Z.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-24",
+      "episode_count": 220,
+      "id": 8626,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": "/5dJRMR7KBq0xZsnp4wUt5DmPl5Y.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 240,
+      "id": 8627,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": "/t7swso5BJagruHjIC7X9oOK1BR7.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-22",
+      "episode_count": 240,
+      "id": 8628,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": "/rRKcVn6UitlPRwyH62rc1o9A87R.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-20",
+      "episode_count": 225,
+      "id": 8629,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": "/vautv8WgkDG1JNiYThfZ073sJJs.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-19",
+      "episode_count": 225,
+      "id": 8630,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": "/94mytlniNPS0cP1c6TN2hN8J5g5.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-18",
+      "episode_count": 225,
+      "id": 8631,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": "/22gvgi5IfzbpMjo5bdt1OnWxvMR.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-17",
+      "episode_count": 235,
+      "id": 8632,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": "/epfSoo2dNwlSdRTYAW2DBPAz4fY.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-15",
+      "episode_count": 240,
+      "id": 8633,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": "/btZNDsPqTioDU85k0jSftkHOSBt.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-21",
+      "episode_count": 235,
+      "id": 8635,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": "/hfcaiSGhCEcw7xh5iZaK1XGHGyQ.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-20",
+      "episode_count": 240,
+      "id": 8634,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": "/7OkL10hibLHyKMCb01sz8ACPEAr.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-19",
+      "episode_count": 235,
+      "id": 8637,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": "/r4MZpl8LFaAgHvUCj3vcwTX3wNN.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-10",
+      "episode_count": 245,
+      "id": 8636,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": "/htWdekfXqRRdRmGXKz8hj5egBZN.jpg",
+      "season_number": 21,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2006-01-09",
+      "episode_count": 245,
+      "id": 8641,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": "/n6tuDRak7BT4fGbw5yLEVpuyxsq.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-08",
+      "episode_count": 246,
+      "id": 8638,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": "/p2P7rrdyOJJ6riwtVAGxy9iR7kf.jpg",
+      "season_number": 23,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2008-01-14",
+      "episode_count": 240,
+      "id": 8639,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": "/btRlixOWOtXpuR17N0dURxnoR1I.jpg",
+      "season_number": 24,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2009-01-19",
+      "episode_count": 230,
+      "id": 8640,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": "/mMKH48N7A30iNOfHSrjz1iH7pww.jpg",
+      "season_number": 25,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2010-01-11",
+      "episode_count": 235,
+      "id": 8642,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": "/inXhkSrC36uJgLWQHSU7W4Nb7FR.jpg",
+      "season_number": 26,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2011-01-10",
+      "episode_count": 240,
+      "id": 8643,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": "/zURAr3XWf3AGEjjIxwMgOVKVC6O.jpg",
+      "season_number": 27,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2012-01-09",
+      "episode_count": 240,
+      "id": 8645,
+      "name": "Season 28",
+      "overview": "Episodes 6311-6550",
+      "poster_path": "/pAg2NWXjGizd6FKPOxHkmQXSQQZ.jpg",
+      "season_number": 28,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2013-01-07",
+      "episode_count": 240,
+      "id": 8646,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": "/seGBdn4xMrKPiyefYH2xTwulnBZ.jpg",
+      "season_number": 29,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2014-01-06",
+      "episode_count": 240,
+      "id": 192088,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": "/mfw7JAN86UsH8wMjKC8BdT2KKA7.jpg",
+      "season_number": 30,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2015-01-05",
+      "episode_count": 240,
+      "id": 68217,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": "/uiPLVIw2RtK0EZDS6Gw5GPVHcvH.jpg",
+      "season_number": 31,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 240,
+      "id": 73601,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": "/kEUxEqDe1iLT3b4Jix6rMZKPV58.jpg",
+      "season_number": 32,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2017-01-09",
+      "episode_count": 240,
+      "id": 192090,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": "/n0AChD5COgpnnBoG0XoYzMucu05.jpg",
+      "season_number": 33,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2018-01-08",
+      "episode_count": 256,
+      "id": 192091,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": "/hYlIQTXdvmc0EaaZ1IUsLgyMF2K.jpg",
+      "season_number": 34,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 260,
+      "id": 192092,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": "/efABt07sge0Q7sJ2ebDvUe8I2EG.jpg",
+      "season_number": 35,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 261,
+      "id": 192093,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": "/jT83YyVQmRsZ2Un1KvNC3XJhDVq.jpg",
+      "season_number": 36,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 224,
+      "id": 192133,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": "/4rl6tMOoNswdntMEMnJ2sIHOOhj.jpg",
+      "season_number": 37,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 152,
+      "id": 283514,
+      "name": "Season 38",
+      "overview": "The final season of the long-running show, Neighbours.",
+      "poster_path": "/Mj85Gzg7POC44NggvBrmDyjMQr.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-18",
+      "episode_count": 60,
+      "id": 351019,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": "/talWK1tJKkoKOq9pFjxgBRlFMDa.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 204,
+      "id": 371637,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 196,
+      "id": 429150,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.074,
+  "vote_count": 61,
+  "external_ids": {
+    "id": 2674,
+    "imdb_id": "tt0088580",
+    "freebase_mid": "/m/0ckh4k",
+    "freebase_id": "/en/neighbours",
+    "tvdb_id": 76719,
+    "tvrage_id": 4634,
+    "wikidata_id": "Q908708",
+    "facebook_id": "Neighbours",
+    "instagram_id": "neighbours",
+    "twitter_id": "neighbours"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/quiGRuMl7gqk2s6lRkwS8bRwlYZ.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1992-03-31",
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10767,
+      "name": "Talk"
+    }
+  ],
+  "homepage": "https://m.programs.sbs.co.kr/culture/unansweredquestions",
+  "id": 66130,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-03-21",
+  "last_episode_to_air": {
+    "id": 7595188,
+    "name": "Episode 1497",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-25",
+    "episode_number": 1497,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 66130,
+    "still_path": null
+  },
+  "name": "Unanswered Questions",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 156,
+      "logo_path": "/uHQFPvRTlpgaIFQVN8eKWEnFOll.png",
+      "name": "SBS",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 685,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "그것이 알고싶다",
+  "overview": "A current affairs/journalism program that investigates unsolved cases and looks into various problems in society, religion and more.",
+  "popularity": 22.5368,
+  "poster_path": "/dm21RNuQAh4HmovfZgyZ8t8iAMq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-09-27",
+      "episode_count": 1,
+      "id": 477259,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-03-31",
+      "episode_count": 692,
+      "id": 76033,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/lGbiQWGKRDcklQ1zItcEUnHL2Wa.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2015-09-12",
+      "episode_count": 49,
+      "id": 368076,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/lGbiQWGKRDcklQ1zItcEUnHL2Wa.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 494527,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Documentary",
+  "vote_average": 8,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 66130,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 315939,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

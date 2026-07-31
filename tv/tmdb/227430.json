@@ -1,0 +1,610 @@
+{
+  "adult": false,
+  "backdrop_path": "/mfllzU1Oii7Y0o3tQMd4L1ZuzR0.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1983-01-03",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "News"
+    }
+  ],
+  "homepage": "https://g1.globo.com/bom-dia-brasil/",
+  "id": 227430,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2026-05-13",
+  "last_episode_to_air": {
+    "id": 7411332,
+    "name": "Episode 151",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-30",
+    "episode_number": 151,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 44,
+    "show_id": 227430,
+    "still_path": null
+  },
+  "name": "Bom Dia Brasil",
+  "next_episode_to_air": {
+    "id": 7411333,
+    "name": "Episode 152",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-31",
+    "episode_number": 152,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 44,
+    "show_id": 227430,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    },
+    {
+      "id": 6767,
+      "logo_path": "/kHYFG2OCnWdWJJTZZibV01EqoNW.png",
+      "name": "TV Globo Brasília",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 2037,
+  "number_of_seasons": 44,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Bom Dia Brasil",
+  "overview": "This show features the main news in Brazil and the world in a magazine format, with commentary on politics, economy, sports and gastronomy.",
+  "popularity": 24.0892,
+  "poster_path": "/nC9NtlQa30yzvS0O8orAzdr9FUl.jpg",
+  "production_companies": [
+    {
+      "id": 195816,
+      "logo_path": "/kHYFG2OCnWdWJJTZZibV01EqoNW.png",
+      "name": "TV Globo Brasília",
+      "origin_country": "BR"
+    },
+    {
+      "id": 181914,
+      "logo_path": "/7geMGwk6XfqHktZZeAv3cNikBif.png",
+      "name": "TV Verdes Mares",
+      "origin_country": "BR"
+    },
+    {
+      "id": 179074,
+      "logo_path": "/eBh4lBvmUrRMLtibxM9KrNJi12X.png",
+      "name": "TV Globo Minas",
+      "origin_country": "BR"
+    },
+    {
+      "id": 196151,
+      "logo_path": "/i3jsnzRwq8UK1e2O8bgbboWOP5J.png",
+      "name": "TV Bahia",
+      "origin_country": "BR"
+    },
+    {
+      "id": 7462,
+      "logo_path": "/ah2vPkPh70p41bdncztUkpkfovB.png",
+      "name": "EPTV",
+      "origin_country": "BR"
+    },
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    },
+    {
+      "id": 195815,
+      "logo_path": "/ymwwLKIFG9pcpFcKUMYKmaPl7vF.png",
+      "name": "TV Liberal",
+      "origin_country": "BR"
+    },
+    {
+      "id": 193977,
+      "logo_path": "/uexd6einIMwmJuSArg8zP1pDvDX.png",
+      "name": "TV Globo São Paulo",
+      "origin_country": "BR"
+    },
+    {
+      "id": 201057,
+      "logo_path": "/dAAhmvzBoo7TwK4I3Q0XUOmG9qV.png",
+      "name": "TV Globo Pernambuco",
+      "origin_country": "BR"
+    },
+    {
+      "id": 201059,
+      "logo_path": "/eqq9sRDJkiGjXQRoJ5ksJaugui1.png",
+      "name": "TV Globo Rio de Janeiro",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-01-03",
+      "episode_count": 260,
+      "id": 342918,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 10,
+      "id": 342919,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-01",
+      "episode_count": 10,
+      "id": 342920,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 10,
+      "id": 342921,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-01",
+      "episode_count": 10,
+      "id": 342922,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-01",
+      "episode_count": 10,
+      "id": 342923,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-02",
+      "episode_count": 10,
+      "id": 342924,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 10,
+      "id": 342925,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 10,
+      "id": 342926,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-01",
+      "episode_count": 10,
+      "id": 342927,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 10,
+      "id": 342928,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 10,
+      "id": 342929,
+      "name": "Season 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 10,
+      "id": 342930,
+      "name": "Season 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 10,
+      "id": 342931,
+      "name": "Season 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 10,
+      "id": 342932,
+      "name": "Season 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 10,
+      "id": 342933,
+      "name": "Season 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 10,
+      "id": 342934,
+      "name": "Season 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 10,
+      "id": 342935,
+      "name": "Season 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 10,
+      "id": 342936,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 10,
+      "id": 342937,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 10,
+      "id": 342938,
+      "name": "Season 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 10,
+      "id": 342939,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 10,
+      "id": 342940,
+      "name": "Season 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 10,
+      "id": 342941,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 10,
+      "id": 342942,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 10,
+      "id": 342943,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 10,
+      "id": 342944,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 10,
+      "id": 342945,
+      "name": "Season 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 10,
+      "id": 342946,
+      "name": "Season 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 10,
+      "id": 342947,
+      "name": "Season 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 10,
+      "id": 342948,
+      "name": "Season 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 10,
+      "id": 342949,
+      "name": "Season 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 10,
+      "id": 342950,
+      "name": "Season 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 10,
+      "id": 342951,
+      "name": "Season 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 10,
+      "id": 342952,
+      "name": "Season 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 10,
+      "id": 342953,
+      "name": "Season 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 10,
+      "id": 342954,
+      "name": "Season 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 10,
+      "id": 342955,
+      "name": "Season 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 261,
+      "id": 342956,
+      "name": "Season 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 258,
+      "id": 342957,
+      "name": "Season 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 259,
+      "id": 342958,
+      "name": "Season 41",
+      "overview": "",
+      "poster_path": "/5ihWJlxDuak2LzNVWRTGAuL4kB0.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 258,
+      "id": 515220,
+      "name": "Season 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 261,
+      "id": 515221,
+      "name": "Season 43",
+      "overview": "",
+      "poster_path": "/zYcjzIwB7jUfPjERdnyTk5eeyXV.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 160,
+      "id": 515222,
+      "name": "Season 44",
+      "overview": "",
+      "poster_path": "/nC9NtlQa30yzvS0O8orAzdr9FUl.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 227430,
+    "imdb_id": "tt7031176",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": "Q2909568",
+    "facebook_id": "BomDiaBrasil",
+    "instagram_id": "bomdiabrasil",
+    "twitter_id": "BomDiaBrasil"
+  }
+}

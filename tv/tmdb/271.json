@@ -1,0 +1,209 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Ku7oI2teI2CQ8m03ZvEisOQZVt.jpg",
+  "created_by": [
+    {
+      "id": 1212506,
+      "credit_id": "52534aaf19c29579400f3257",
+      "name": "Neal Marlens",
+      "original_name": "Neal Marlens",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 14,
+      "credit_id": "52534aaf19c29579400f3251",
+      "name": "Ellen DeGeneres",
+      "original_name": "Ellen DeGeneres",
+      "gender": 1,
+      "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg"
+    },
+    {
+      "id": 72029,
+      "credit_id": "52534aaf19c29579400f325f",
+      "name": "Carol Black",
+      "original_name": "Carol Black",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1994-03-29",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 271,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "1998-07-22",
+  "last_episode_to_air": {
+    "id": 14601,
+    "name": "Vows",
+    "overview": "When Ellen's parents renew their vows, it prompts Ellen to think about taking her relationship with Laurie to the next level: marriage.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1998-07-22",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 30,
+    "season_number": 5,
+    "show_id": 271,
+    "still_path": null
+  },
+  "name": "Ellen",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 109,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ellen",
+  "overview": "Ellen works in a Los Angeles bookstore called Buy the Book and hangs around with her friends discussing lovers, work and family.",
+  "popularity": 25.5354,
+  "poster_path": "/1GvwnoKzbUHHxbSO6ZSHygw1is8.jpg",
+  "production_companies": [
+    {
+      "id": 1558,
+      "logo_path": "/wwaKUcOENHix2jxLfFBfNkCtOEQ.png",
+      "name": "Touchstone Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 95467,
+      "logo_path": null,
+      "name": "The Black/Marlens Company",
+      "origin_country": ""
+    },
+    {
+      "id": 43632,
+      "logo_path": "/f75STKHmzvi7bYmWSVFF0HVi67F.png",
+      "name": "A Very Good Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 111690,
+      "logo_path": null,
+      "name": "WAD Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    },
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 864,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-03-29",
+      "episode_count": 11,
+      "id": 862,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/zKpC7WWjJII0rGADB8PYUyvKipu.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-21",
+      "episode_count": 24,
+      "id": 860,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/y83IVMn5rDO5C356AJT2oriadfX.jpg",
+      "season_number": 2,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1995-09-13",
+      "episode_count": 27,
+      "id": 861,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": "/arnEXLqHRMcBgekOcmARGthwdXz.jpg",
+      "season_number": 3,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1996-09-18",
+      "episode_count": 25,
+      "id": 863,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": "/wjQNkiKIk8cs4b8FU58rt01zt1f.jpg",
+      "season_number": 4,
+      "vote_average": 4
+    },
+    {
+      "air_date": "1997-09-24",
+      "episode_count": 22,
+      "id": 859,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": "/21zTLWKew8kdCT5pln8faWNrkiK.jpg",
+      "season_number": 5,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.123,
+  "vote_count": 57,
+  "external_ids": {
+    "id": 271,
+    "imdb_id": "tt0108761",
+    "freebase_mid": "/m/043x92",
+    "freebase_id": "/en/ellen",
+    "tvdb_id": 76813,
+    "tvrage_id": 6180,
+    "wikidata_id": "Q82226",
+    "facebook_id": "",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": "/zhLrML5jLVIlln5QFZdYHgtmFXr.jpg",
+  "created_by": [
+    {
+      "id": 1211893,
+      "credit_id": "5257155b760ee3776a1311d4",
+      "name": "Mark Goodson",
+      "original_name": "Mark Goodson",
+      "gender": 2,
+      "profile_path": "/rdXYxS6wMggkgkMo6JZlVX1NnNf.jpg"
+    },
+    {
+      "id": 1215279,
+      "credit_id": "5257155b760ee3776a1311da",
+      "name": "Bill Todman",
+      "original_name": "Bill Todman",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1999-09-20",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10764,
+      "name": "Reality"
+    }
+  ],
+  "homepage": "http://www.familyfeud.com/",
+  "id": 1790,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-02-17",
+  "last_episode_to_air": {
+    "id": 6951761,
+    "name": "Episode 124",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-02-17",
+    "episode_number": 124,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 27,
+    "show_id": 1790,
+    "still_path": null
+  },
+  "name": "Family Feud",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 717,
+  "number_of_seasons": 27,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Family Feud",
+  "overview": "Two families compete against each other in a contest to name the most popular responses to a survey question posed to 100 people.",
+  "popularity": 28.1057,
+  "poster_path": "/2eY3KyYvvjg2jn2ifTGkwdipCAC.jpg",
+  "production_companies": [
+    {
+      "id": 30588,
+      "logo_path": "/9oqo471Fw1R644VE8NwCgHiePY5.png",
+      "name": "Debmar-Mercury",
+      "origin_country": "US"
+    },
+    {
+      "id": 11226,
+      "logo_path": "/nGvh7WJCDYmXZjOAOJ7VoC4vEw0.png",
+      "name": "FremantleMedia North America",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 5059,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-20",
+      "episode_count": 167,
+      "id": 5058,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 28,
+      "id": 364035,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2001-09-17",
+      "episode_count": 12,
+      "id": 5061,
+      "name": "Season 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-16",
+      "episode_count": 1,
+      "id": 364036,
+      "name": "Season 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 364037,
+      "name": "Season 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 364043,
+      "name": "Season 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 364044,
+      "name": "Season 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 1,
+      "id": 364045,
+      "name": "Season 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 364046,
+      "name": "Season 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 364047,
+      "name": "Season 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 364048,
+      "name": "Season 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-12",
+      "episode_count": 16,
+      "id": 240698,
+      "name": "Season 12",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2011-09-12",
+      "episode_count": 1,
+      "id": 240699,
+      "name": "Season 13",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-10",
+      "episode_count": 1,
+      "id": 240700,
+      "name": "Season 14",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 1,
+      "id": 240701,
+      "name": "Season 15",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 1,
+      "id": 240702,
+      "name": "Season 16",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 1,
+      "id": 240703,
+      "name": "Season 17",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 1,
+      "id": 240704,
+      "name": "Season 18",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 20,
+      "id": 5063,
+      "name": "Season 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 18,
+      "id": 364053,
+      "name": "Season 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-16",
+      "episode_count": 15,
+      "id": 134881,
+      "name": "Season 21",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-05",
+      "episode_count": 22,
+      "id": 364054,
+      "name": "Season 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-27",
+      "episode_count": 48,
+      "id": 240708,
+      "name": "Season 23",
+      "overview": "Hosted by Steve Harvey, two families battle it out by answering survey questions for a chance to win $20,000 and, after 5 wins, a new car.",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-26",
+      "episode_count": 109,
+      "id": 326137,
+      "name": "Season 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-25",
+      "episode_count": 87,
+      "id": 364050,
+      "name": "Season 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 57,
+      "id": 477917,
+      "name": "Season 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-29",
+      "episode_count": 124,
+      "id": 477916,
+      "name": "Season 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 44,
+  "external_ids": {
+    "id": 1790,
+    "imdb_id": "tt0177440",
+    "freebase_mid": "/m/0141wb",
+    "freebase_id": "/en/family_feud",
+    "tvdb_id": 335567,
+    "tvrage_id": 7148,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

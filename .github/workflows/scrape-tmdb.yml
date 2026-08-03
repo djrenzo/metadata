@@ -3,6 +3,10 @@ name: Scrape TMDB TV Series
 on:
   workflow_dispatch:
     inputs:
+      tmdb_id:
+        description: "TMDB ID of the TV series to scrape"
+        required: false
+        default: ""
       start_page:
         description: "First page to scrape"
         required: false
@@ -35,6 +39,7 @@ jobs:
       - name: Run scraper
         env:
           TMDB_BEARER_TOKEN: ${{ secrets.TMDB_BEARER_TOKEN }}
+          TMDB_ID: ${{ inputs.tmdb_id || '' }}
           START_PAGE: ${{ inputs.start_page || '1' }}
           END_PAGE: ${{ inputs.end_page || '400' }}
           OUTPUT_DIR: "."

@@ -1,0 +1,147 @@
+{
+  "adult": false,
+  "backdrop_path": "/xJATsbyFLf4LMtJBOco08RNxqPE.jpg",
+  "created_by": [
+    {
+      "id": 1532801,
+      "credit_id": "659e256d9bcd0f00ee83136d",
+      "name": "Lang Fisher",
+      "original_name": "Lang Fisher",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1237538,
+      "credit_id": "659e25739590e3014ac0569a",
+      "name": "Tracey Wigfield",
+      "original_name": "Tracey Wigfield",
+      "gender": 1,
+      "profile_path": "/fy99MUs2jiy5gXQpRnlu8Q5NJZ2.jpg"
+    },
+    {
+      "id": 56323,
+      "credit_id": "659e2561d6590b025cb261cf",
+      "name": "Tina Fey",
+      "original_name": "Tina Fey",
+      "gender": 1,
+      "profile_path": "/yPTAi1iucXf85UpiFPtyiTSM6do.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2025-05-01",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81750702",
+  "id": 243316,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-28",
+  "last_episode_to_air": {
+    "id": 7007692,
+    "name": "Maratona",
+    "overview": "With Jack down in the dumps, Kate pressures him to hit the ground running. Danny and Claude's relationship faces a new test.",
+    "vote_average": 3.889,
+    "vote_count": 9,
+    "air_date": "2026-05-28",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 35,
+    "season_number": 2,
+    "show_id": 243316,
+    "still_path": "/efc4T4cE3zF1yU4qUa13Em3KdLg.jpg"
+  },
+  "name": "The Four Seasons",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 16,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Four Seasons",
+  "overview": "The decades-long friendship between three married couples is tested when one divorces, complicating their tradition of quarterly weekend getaways.",
+  "popularity": 12.0076,
+  "poster_path": "/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 26402,
+      "logo_path": "/1BFbFgEhD1tJShFTYPNt87q99rD.png",
+      "name": "Little Stranger",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-05-01",
+      "episode_count": 8,
+      "id": 373681,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+      "season_number": 1,
+      "vote_average": 4.3
+    },
+    {
+      "air_date": "2026-05-28",
+      "episode_count": 8,
+      "id": 456605,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/9Jz395MIUXyuglZQj8B98KGYUDs.jpg",
+      "season_number": 2,
+      "vote_average": 3.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "Three couples. Four trips. A lot to unpack.",
+  "type": "Scripted",
+  "vote_average": 6.803,
+  "vote_count": 173,
+  "external_ids": {
+    "id": 243316,
+    "imdb_id": "tt30826447",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 444528,
+    "tvrage_id": null,
+    "wikidata_id": "Q131384557",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -11,6 +11,7 @@
 //
 // Env vars:
 //   TMDB_BEARER_TOKEN   TMDB API Read Access Token (required)
+//   TMDB_ID              optional single TMDB TV ID to fetch directly
 //   START_PAGE          first page to fetch (default: 1)
 //   END_PAGE            last page to fetch, inclusive (default: 1, TMDB caps at 500)
 //   OUTPUT_DIR           root output dir; files land in OUTPUT_DIR/tv/tmdb/ (default: ".")
@@ -30,6 +31,7 @@ const CINEMETA_API_BASE = (imdb_id) => `https://cinemeta-live.strem.io/meta/seri
 // ---- config from env ------------------------------------------------------
 
 const TMDB_BEARER_TOKEN = process.env.TMDB_BEARER_TOKEN;
+const TMDB_ID = process.env.TMDB_ID ? String(process.env.TMDB_ID).trim() : "";
 const START_PAGE = parseInt(process.env.START_PAGE ?? "1", 10);
 const END_PAGE = parseInt(process.env.END_PAGE ?? "1", 10);
 const OUTPUT_DIR = process.env.OUTPUT_DIR ?? ".";
@@ -178,6 +180,35 @@ async function main() {
     throw new Error("TMDB_BEARER_TOKEN env var is required.");
   }
 
+  await mkdir(SERIES_DIR, { recursive: true });
+  await mkdir(SERIES_DIR_IMDB, { recursive: true });
+
+  if (TMDB_ID) {
+    console.log(`Fetching single TMDB ID ${TMDB_ID} into ${SERIES_DIR}/`);
+
+    const data = await fetchID(TMDB_ID);
+    const external_ids = await fetchExternalIDS(TMDB_ID);
+
+    const imdb_id = external_ids.imdb_id ?? null;
+    if (imdb_id) {
+      try {
+        const imdb_data = await fetchIMDB(imdb_id);
+        const imdb_meta = imdb_data.meta ?? null;
+        await writeIMDBFile(imdb_id, imdb_meta);
+      } catch (err) {
+        console.error(`  series ${TMDB_ID} IMDB fetch failed: ${err.message}`);
+      }
+    } else {
+      console.warn(`  series ${TMDB_ID} has no IMDB ID`);
+    }
+
+    data.external_ids = external_ids;
+    await writeSeriesFile2(TMDB_ID, data);
+
+    console.log(`Done. Wrote 1 series file to ${SERIES_DIR}/`);
+    return;
+  }
+
   if (Number.isNaN(START_PAGE) || Number.isNaN(END_PAGE) || START_PAGE < 1 || END_PAGE < START_PAGE) {
     throw new Error(
       `Invalid page range: START_PAGE=${process.env.START_PAGE} END_PAGE=${process.env.END_PAGE}`
@@ -190,9 +221,6 @@ async function main() {
   }
 
   console.log(`Fetching pages ${START_PAGE}-${effectiveEndPage} into ${SERIES_DIR}/`);
-
-  await mkdir(SERIES_DIR, { recursive: true });
-  await mkdir(SERIES_DIR_IMDB, { recursive: true });
 
   let totalWritten = 0;
 
@@ -231,6 +259,9 @@ async function main() {
         } catch (err) {
           console.error(`  series ${tmdb_id} IMDB fetch failed: ${err.message}`);
         }
+      }
+      else {
+        console.warn(`  series ${tmdb_id} has no IMDB ID`);
       }
     
       data.external_ids = external_ids;

@@ -3,6 +3,10 @@ name: Scrape TMDB TV Series
 on:
   workflow_dispatch:
     inputs:
+      method:
+        description: "SINGLE / DISCOVER / UPDATES"
+        required: false
+        default: "UPDATES"
       tmdb_id:
         description: "TMDB ID of the TV series to scrape"
         required: false
@@ -40,6 +44,7 @@ jobs:
         env:
           TMDB_BEARER_TOKEN: ${{ secrets.TMDB_BEARER_TOKEN }}
           TMDB_ID: ${{ inputs.tmdb_id || '' }}
+          METHOD: ${{ inputs.method || 'UPDATES' }}
           START_PAGE: ${{ inputs.start_page || '1' }}
           END_PAGE: ${{ inputs.end_page || '400' }}
           OUTPUT_DIR: "."

@@ -11,7 +11,9 @@
 //
 // Env vars:
 //   TMDB_BEARER_TOKEN   TMDB API Read Access Token (required)
-//   TMDB_ID              optional single TMDB TV ID to fetch directly
+//   METHOD              one of SINGLE, DISCOVER, UPDATES (default: DISCOVER)
+//   TMDB_ID             required when METHOD=SINGLE
+//   UPDATES_START_DATE  optional YYYY-MM-DD for METHOD=UPDATES (default: yesterday UTC)
 //   START_PAGE          first page to fetch (default: 1)
 //   END_PAGE            last page to fetch, inclusive (default: 1, TMDB caps at 500)
 //   OUTPUT_DIR           root output dir; files land in OUTPUT_DIR/tv/tmdb/ (default: ".")
@@ -28,14 +30,22 @@ const TMDB_MAX_PAGE = 500; // hard limit imposed by TMDB's API
 
 const CINEMETA_API_BASE = (imdb_id) => `https://cinemeta-live.strem.io/meta/series/${imdb_id}.json`;
 
+const METHODS = {
+  SINGLE: "SINGLE",
+  DISCOVER: "DISCOVER",
+  UPDATES: "UPDATES",
+};
+
 // ---- config from env ------------------------------------------------------
 
 const TMDB_BEARER_TOKEN = process.env.TMDB_BEARER_TOKEN;
+const METHOD = String(process.env.METHOD ?? METHODS.DISCOVER).trim().toUpperCase();
 const TMDB_ID = process.env.TMDB_ID ? String(process.env.TMDB_ID).trim() : "";
+const UPDATES_START_DATE = process.env.UPDATES_START_DATE ? String(process.env.UPDATES_START_DATE).trim() : "";
 const START_PAGE = parseInt(process.env.START_PAGE ?? "1", 10);
 const END_PAGE = parseInt(process.env.END_PAGE ?? "1", 10);
 const OUTPUT_DIR = process.env.OUTPUT_DIR ?? ".";
-const DELAY_MS = parseInt(process.env.DELAY_MS ?? "500", 10);
+const DELAY_MS = parseInt(process.env.DELAY_MS ?? "250", 10);
 
 const SERIES_DIR = path.join(OUTPUT_DIR, "tv", "tmdb");
 const SERIES_DIR_IMDB = path.join(OUTPUT_DIR, "tv", "imdb");
@@ -48,6 +58,12 @@ const HEADERS = {
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function yesterdayUTCDateString() {
+  const d = new Date();
+  d.setUTCDate(d.getUTCDate() - 1);
+  return d.toISOString().slice(0, 10);
 }
 
 /**
@@ -68,6 +84,28 @@ async function fetchDiscoverPage(page) {
   if (!response.ok) {
     const body = await response.text().catch(() => "");
     throw new Error(`Page ${page} failed: HTTP ${response.status} ${body.slice(0, 200)}`);
+  }
+
+  return response.json();
+}
+
+/**
+ * Fetches one page of /tv/changes for updates mode.
+ */
+async function fetchTVChangesPage(page, startDate) {
+  const url = new URL(`${TMDB_API_BASE}/tv/changes`);
+  url.searchParams.set("page", String(page));
+  url.searchParams.set("start_date", startDate);
+
+  const response = await fetch(url, {
+    headers: {
+      ...HEADERS,
+    },
+  });
+
+  if (!response.ok) {
+    const body = await response.text().catch(() => "");
+    throw new Error(`TV changes page ${page} failed: HTTP ${response.status} ${body.slice(0, 200)}`);
   }
 
   return response.json();
@@ -173,6 +211,30 @@ async function writeIMDBFile(imdb_id, data) {
   await writeFile(filePath, JSON.stringify(data, null, 2), "utf-8");
 }
 
+/**
+ * Scrapes one TMDB series and writes TMDB + optional IMDB metadata files.
+ */
+async function scrapeOneSeriesByTMDBID(tmdb_id) {
+  const data = await fetchID(tmdb_id);
+  const external_ids = await fetchExternalIDS(tmdb_id);
+
+  const imdb_id = external_ids.imdb_id ?? null;
+  if (imdb_id) {
+    try {
+      const imdb_data = await fetchIMDB(imdb_id);
+      const imdb_meta = imdb_data.meta ?? null;
+      await writeIMDBFile(imdb_id, imdb_meta);
+    } catch (err) {
+      console.error(`  series ${tmdb_id} IMDB fetch failed: ${err.message}`);
+    }
+  } else {
+    console.warn(`  series ${tmdb_id} has no IMDB ID`);
+  }
+
+  data.external_ids = external_ids;
+  await writeSeriesFile2(tmdb_id, data);
+}
+
 // ---- main ---------------------------------------------------------------
 
 async function main() {
@@ -180,32 +242,50 @@ async function main() {
     throw new Error("TMDB_BEARER_TOKEN env var is required.");
   }
 
+  if (![METHODS.SINGLE, METHODS.DISCOVER, METHODS.UPDATES].includes(METHOD)) {
+    throw new Error(`Invalid METHOD: ${METHOD}. Expected SINGLE, DISCOVER, or UPDATES.`);
+  }
+
   await mkdir(SERIES_DIR, { recursive: true });
   await mkdir(SERIES_DIR_IMDB, { recursive: true });
 
-  if (TMDB_ID) {
-    console.log(`Fetching single TMDB ID ${TMDB_ID} into ${SERIES_DIR}/`);
-
-    const data = await fetchID(TMDB_ID);
-    const external_ids = await fetchExternalIDS(TMDB_ID);
-
-    const imdb_id = external_ids.imdb_id ?? null;
-    if (imdb_id) {
-      try {
-        const imdb_data = await fetchIMDB(imdb_id);
-        const imdb_meta = imdb_data.meta ?? null;
-        await writeIMDBFile(imdb_id, imdb_meta);
-      } catch (err) {
-        console.error(`  series ${TMDB_ID} IMDB fetch failed: ${err.message}`);
-      }
-    } else {
-      console.warn(`  series ${TMDB_ID} has no IMDB ID`);
+  if (METHOD === METHODS.SINGLE) {
+    if (!TMDB_ID) {
+      throw new Error("TMDB_ID env var is required when METHOD=SINGLE.");
     }
 
-    data.external_ids = external_ids;
-    await writeSeriesFile2(TMDB_ID, data);
+    console.log(`Fetching single TMDB ID ${TMDB_ID} into ${SERIES_DIR}/`);
+    await scrapeOneSeriesByTMDBID(TMDB_ID);
 
     console.log(`Done. Wrote 1 series file to ${SERIES_DIR}/`);
+    return;
+  }
+
+  if (METHOD === METHODS.UPDATES) {
+    const startDate = UPDATES_START_DATE || yesterdayUTCDateString();
+
+    console.log(`Fetching updates from /tv/changes page=1 start_date=${startDate} into ${SERIES_DIR}/`);
+
+    const updates = await fetchTVChangesPage(1, startDate);
+    const results = updates.results ?? [];
+
+    if (results.length === 0) {
+      console.log("No updated series on page 1.");
+      return;
+    }
+
+    let totalWritten = 0;
+    for (const result of results) {
+      const tmdb_id = String(result.id);
+      try {
+        await scrapeOneSeriesByTMDBID(tmdb_id);
+        totalWritten++;
+      } catch (err) {
+        console.error(`  series ${tmdb_id} failed: ${err.message}`);
+      }
+    }
+
+    console.log(`Done. Wrote ${totalWritten} updated series files from /tv/changes page 1.`);
     return;
   }
 
@@ -243,31 +323,13 @@ async function main() {
     }
 
     for (const result of results) {
-    //   const series = toSeriesRecord(result);
-    //   await writeSeriesFile(series);
-
       const tmdb_id = String(result.id);
-      const data = await fetchID(tmdb_id);
-      const external_ids = await fetchExternalIDS(tmdb_id);
-
-      const imdb_id = external_ids.imdb_id ?? null;
-      if (imdb_id) {
-        try {
-          const imdb_data = await fetchIMDB(imdb_id);
-          const imdb_meta = imdb_data.meta ?? null;
-          await writeIMDBFile(imdb_id, imdb_meta);
-        } catch (err) {
-          console.error(`  series ${tmdb_id} IMDB fetch failed: ${err.message}`);
-        }
+      try {
+        await scrapeOneSeriesByTMDBID(tmdb_id);
+        totalWritten++;
+      } catch (err) {
+        console.error(`  series ${tmdb_id} failed: ${err.message}`);
       }
-      else {
-        console.warn(`  series ${tmdb_id} has no IMDB ID`);
-      }
-    
-      data.external_ids = external_ids;
-
-      await writeSeriesFile2(tmdb_id, data);
-      totalWritten++;
     }
 
     console.log(

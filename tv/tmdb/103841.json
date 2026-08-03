@@ -10,13 +10,13 @@
       "name": "Drama"
     }
   ],
-  "homepage": "https://www.npostart.nl/dertigers/BV_101398209/overview",
+  "homepage": "https://npo.nl/start/serie/dertigers/afleveringen",
   "id": 103841,
   "in_production": false,
   "languages": [
     "nl"
   ],
-  "last_air_date": "2026-07-15",
+  "last_air_date": "2026-07-16",
   "last_episode_to_air": {
     "id": 7171169,
     "name": "Episode 24",
@@ -25,16 +25,22 @@
     "vote_count": 0,
     "air_date": "2026-07-16",
     "episode_number": 24,
-    "episode_type": "standard",
+    "episode_type": "finale",
     "production_code": "",
-    "runtime": 23,
+    "runtime": 24,
     "season_number": 7,
     "show_id": 103841,
-    "still_path": null
+    "still_path": "/3fBzncim5lUt7wYx6obxDxbJiqI.jpg"
   },
   "name": "Dertigers",
   "next_episode_to_air": null,
   "networks": [
+    {
+      "id": 1194,
+      "logo_path": "/wVbxJBRSvSdGeLTm4z7WOBgTD1B.png",
+      "name": "NPO 3",
+      "origin_country": "NL"
+    },
     {
       "id": 2161,
       "logo_path": "/tiBiiquRvGhxXteossLAWQkaFA1.png",
@@ -50,7 +56,7 @@
   "original_language": "nl",
   "original_name": "Dertigers",
   "overview": "",
-  "popularity": 8.8706,
+  "popularity": 5.8283,
   "poster_path": "/7JV1BESPGQCmqlZd4ZwFNBSROtW.jpg",
   "production_companies": [
     {

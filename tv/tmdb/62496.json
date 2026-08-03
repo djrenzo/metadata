@@ -1,0 +1,131 @@
+{
+  "adult": false,
+  "backdrop_path": "/42CtVv1Q0tSN0ITq1hjS9xV2PlU.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "2014-10-10",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.disney.co.uk/disney-channel/shows/evermoor",
+  "id": 62496,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-07-24",
+  "last_episode_to_air": {
+    "id": 2740255,
+    "name": "Vampire Luau",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2017-07-24",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 23,
+    "season_number": 2,
+    "show_id": 62496,
+    "still_path": null
+  },
+  "name": "The Evermoor Chronicles",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 515,
+      "logo_path": "/rxhJszKVAvAZYTmF0vfRHfyo4Fb.png",
+      "name": "Disney Channel",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 36,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "The Evermoor Chronicles",
+  "overview": "A young girl and her blended family move to the small cottage town of Evermoor. All is well until sinister things start to happen, magic tapestries, an enchanted typewriter. Only a few of the strange things found in the town of Evermoor.",
+  "popularity": 4.2966,
+  "poster_path": "/2zlkdOTRL78iV5VNpsu9RDKQa3I.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-10-10",
+      "episode_count": 24,
+      "id": 66214,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/ppAdlYExVpILjyuyqs1splAXYqN.jpg",
+      "season_number": 1,
+      "vote_average": 4
+    },
+    {
+      "air_date": "2017-05-08",
+      "episode_count": 12,
+      "id": 76480,
+      "name": "Season 2",
+      "overview": "",
+      "poster_path": "/jWPvznfWOJ57ZsiETXjjXnZ9FWD.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 24,
+  "external_ids": {
+    "id": 62496,
+    "imdb_id": "tt3602560",
+    "freebase_mid": "/m/011x9d49",
+    "freebase_id": null,
+    "tvdb_id": 286573,
+    "tvrage_id": 45464,
+    "wikidata_id": "Q18190451",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/r2sxwhkmMcniHy00B3i4eP8dqnP.jpg",
+  "created_by": [
+    {
+      "id": 1315779,
+      "credit_id": "5e84c5705aba320018e5a5c3",
+      "name": "Maria Lafi",
+      "original_name": "Μαρία Λάφη",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-10-08",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.antenna.gr/sarantakymata",
+  "id": 101307,
+  "in_production": true,
+  "languages": [
+    "el"
+  ],
+  "last_air_date": "2008-12-03",
+  "last_episode_to_air": {
+    "id": 2953254,
+    "name": "Episode 9",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2008-12-03",
+    "episode_number": 9,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 101307,
+    "still_path": null
+  },
+  "name": "40 Κύματα",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 572,
+      "logo_path": "/yepAYSCsRS9G4WF9Gt47GSuRjCz.png",
+      "name": "ANT1",
+      "origin_country": "GR"
+    }
+  ],
+  "number_of_episodes": 28,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "GR"
+  ],
+  "original_language": "el",
+  "original_name": "40 Κύματα",
+  "overview": "",
+  "popularity": 1.6961,
+  "poster_path": "/8v6Xw46xJ3VfyXuYalkuqR3VFUj.jpg",
+  "production_companies": [
+    {
+      "id": 29102,
+      "logo_path": null,
+      "name": "Anosi S.A",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-10-08",
+      "episode_count": 28,
+      "id": 146679,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 101307,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

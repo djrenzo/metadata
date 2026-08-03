@@ -39,24 +39,8 @@
   "languages": [
     "en"
   ],
-  "last_air_date": "2026-07-24",
+  "last_air_date": "2026-07-31",
   "last_episode_to_air": {
-    "id": 7469870,
-    "name": "DARK MATTER",
-    "overview": "Kanan and Tiana's relationship takes a turn; Garcia makes a bold move to get Juke her answers.",
-    "vote_average": 0,
-    "vote_count": 0,
-    "air_date": "2026-07-24",
-    "episode_number": 6,
-    "episode_type": "standard",
-    "production_code": "",
-    "runtime": 51,
-    "season_number": 5,
-    "show_id": 124394,
-    "still_path": "/aMBj9PVndNbRGHfDM7emzMtv5Kl.jpg"
-  },
-  "name": "Power Book III: Raising Kanan",
-  "next_episode_to_air": {
     "id": 7469873,
     "name": "PENULTIMATE MEANS SECOND TO LAST",
     "overview": "Facing pressure from all sides, Raq struggles to maintain control as alliances crumble, and Kanan's growing ruthlessness threatens his relationships.",
@@ -70,6 +54,22 @@
     "season_number": 5,
     "show_id": 124394,
     "still_path": "/oM9f5j8Z2mj5R1mZkfBaji3MzLF.jpg"
+  },
+  "name": "Power Book III: Raising Kanan",
+  "next_episode_to_air": {
+    "id": 7469876,
+    "name": "Episode 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-07",
+    "episode_number": 8,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 5,
+    "show_id": 124394,
+    "still_path": null
   },
   "networks": [
     {
@@ -87,7 +87,7 @@
   "original_language": "en",
   "original_name": "Power Book III: Raising Kanan",
   "overview": "Set in South Jamaica, Queens, in 1991, this prequel to \"Power\" revolves around the coming of age of Kanan Stark.",
-  "popularity": 26.2302,
+  "popularity": 31.729,
   "poster_path": "/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
   "production_companies": [
     {
@@ -196,7 +196,7 @@
   "status": "Returning Series",
   "tagline": "The truth hurts.",
   "type": "Scripted",
-  "vote_average": 8.011,
+  "vote_average": 8,
   "vote_count": 223,
   "external_ids": {
     "id": 124394,

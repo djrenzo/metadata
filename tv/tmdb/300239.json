@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/qwO89ZAOrxIxsPEFO2AIa0xBfsn.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-02-20",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/zh-tw/browse/entity-73e97305-5e2c-49fd-848e-370ec50a0bb0",
+  "id": 300239,
+  "in_production": false,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2026-03-20",
+  "last_episode_to_air": {
+    "id": 6937885,
+    "name": "Episode 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-20",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 49,
+    "season_number": 1,
+    "show_id": 300239,
+    "still_path": "/wWQFy1ttnFkq6pmXjUfdLWjLO3v.jpg"
+  },
+  "name": "The Zoo",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2739,
+      "logo_path": "/1edZOYAfoyZyZ3rklNSiUpXX30Q.png",
+      "name": "Disney+",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_name": "動物園",
+  "overview": "Sunny Chu, a Group Creative Director at a global ad agency, is a master of high-pressure environments—until everything starts falling apart. She loses a major client, gets sidelined at work, and her relationship takes a hit. Her last shot at redemption comes in the form of rebranding a zoo. But there’s a catch: she must first work as a zookeeper intern. Thrown into a world of demanding animals, endless cleaning, and eccentric coworkers—especially the aloof senior keeper Shaun Su—Sunny must forget everything she knows about office politics and learn to survive by the rules of the wild.",
+  "popularity": 1.5498,
+  "poster_path": "/9VdgDtCNfIRKURWfx6yo3KJ9M5x.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-02-20",
+      "episode_count": 10,
+      "id": 474287,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/UL7thOjKdhGJ0JFkdmHaJgmyaA.jpg",
+      "season_number": 1,
+      "vote_average": 7.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 300239,
+    "imdb_id": "tt39378786",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 474211,
+    "tvrage_id": null,
+    "wikidata_id": "Q138047693",
+    "facebook_id": "TheZooZooZoo",
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

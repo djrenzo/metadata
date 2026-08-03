@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
+  "created_by": [
+    {
+      "id": 1871190,
+      "credit_id": "69fa927015b3d9e8f95b64e9",
+      "name": "Daniel Fajemisin-Duncan",
+      "original_name": "Daniel Fajemisin-Duncan",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1871189,
+      "credit_id": "69fa927257155cb6ebe9e1a9",
+      "name": "Marlon Smith",
+      "original_name": "Marlon Smith",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-07-31",
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.starz.com/us/en/series/fightland/74318",
+  "id": 8840,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-31",
+  "last_episode_to_air": {
+    "id": 6793951,
+    "name": "The Only Round That Matters Is the Next One",
+    "overview": "After years in prison, a boxing champion returns home, intent on avenging his brother's death.",
+    "vote_average": 1,
+    "vote_count": 5,
+    "air_date": "2026-07-31",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 8840,
+    "still_path": "/bXrIk7hQNPBfbjE6a476yrDlZCx.jpg"
+  },
+  "name": "Fightland",
+  "next_episode_to_air": {
+    "id": 7236372,
+    "name": "Brick by Brick",
+    "overview": "Duke must improvise to keep his mission on track, but he finds that success comes at a cost.",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-07",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 8840,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 318,
+      "logo_path": "/qx3Y9LCaK4mq1ykFuDIfjshlo3U.png",
+      "name": "STARZ",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Fightland",
+  "overview": "A disgraced, formerly incarcerated boxing champion returns to London to seek vengeance against the crime syndicate he thinks betrayed him.",
+  "popularity": 20.4927,
+  "poster_path": "/qRlOEIiwkfLy6ERRMbyQNGQQ6Lc.jpg",
+  "production_companies": [
+    {
+      "id": 8034,
+      "logo_path": "/GMDGZk9iDG4WDijY3VgUgJeyus.png",
+      "name": "Starz",
+      "origin_country": "US"
+    },
+    {
+      "id": 45147,
+      "logo_path": "/sLv0CvsijmrzpzPCuiNigJp5YHF.png",
+      "name": "G-Unit Film & Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 150685,
+      "logo_path": "/gf4AT4bNIhuw8bXnOimVSSkojkR.png",
+      "name": "Expanded Media",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-07-31",
+      "episode_count": 8,
+      "id": 491492,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/bvfgEuSDYdplGPVhiULgC9PyoyG.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5,
+  "vote_count": 10,
+  "external_ids": {
+    "id": 8840,
+    "imdb_id": "tt24512262",
+    "freebase_mid": "",
+    "freebase_id": "",
+    "tvdb_id": 464732,
+    "tvrage_id": null,
+    "wikidata_id": "",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

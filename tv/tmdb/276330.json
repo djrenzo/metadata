@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/cLGBZHk9aqXVauvbqNhsu5G9kjH.jpg",
+  "created_by": [
+    {
+      "id": 1704420,
+      "credit_id": "6a6e9eeff320029f8f247514",
+      "name": "Nicolas Le Nevé",
+      "original_name": "Nicolas Le Nevé",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    11
+  ],
+  "first_air_date": "2022-10-29",
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 276330,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2022-10-29",
+  "last_episode_to_air": {
+    "id": 5741583,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2022-10-29",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 276330,
+    "still_path": null
+  },
+  "name": "Smarty Pants",
+  "next_episode_to_air": null,
+  "networks": [],
+  "number_of_episodes": 52,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "La Vie en slip",
+  "overview": "Smarty Pants is an animated adaptation of the famous French comic strip by Steve Baker, which humorously tells the story of the troubles of early school-age children, their struggles with their need to belong and be accepted in their peer group, their sense of pressure and their blindness to meet the artificial expectations imposed by their environment.",
+  "popularity": 0.4422,
+  "poster_path": "/sHBXXRuuiAsg0B9AHR4z5nTSHx4.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-10-29",
+      "episode_count": 52,
+      "id": 427303,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 276330,
+    "imdb_id": "tt27411279",
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

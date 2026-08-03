@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-08-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 330353,
+  "in_production": true,
+  "languages": [
+    "th"
+  ],
+  "last_air_date": null,
+  "last_episode_to_air": null,
+  "name": "แดง ไบเล่ย์",
+  "next_episode_to_air": {
+    "id": 7616806,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-12",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 330353,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1784,
+      "logo_path": "/cxBpog9yHJTIclmGsojZC7tqwlH.png",
+      "name": "ONE 31",
+      "origin_country": "TH"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_name": "แดง ไบเล่ย์",
+  "overview": "Forced onto the path of crime by circumstances beyond his control, a man must confront the consequences of his choices while discovering the true meaning of friendship, dignity, love, and family.",
+  "popularity": 0.8553,
+  "poster_path": "/onpsKmNnH5UE62xDscKOW9REqQd.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-08-12",
+      "episode_count": 8,
+      "id": 533524,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 330353,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 480887,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2026-08-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 299801,
+  "in_production": true,
+  "languages": [
+    "th"
+  ],
+  "last_air_date": null,
+  "last_episode_to_air": null,
+  "name": "Brothers",
+  "next_episode_to_air": {
+    "id": 6500661,
+    "name": "Episode 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-08-11",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 299801,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 344,
+      "logo_path": "/jjndRHOq412g8D6Hjm63rZMxAnO.png",
+      "name": "Channel 3",
+      "origin_country": "TH"
+    }
+  ],
+  "number_of_episodes": 1,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_name": "สองหัวใจ",
+  "overview": "Two hearts, three people, one story — filled with the fight to discover their true selves.",
+  "popularity": 1.5949,
+  "poster_path": "/mAOinU3FYqNsy5g6Aa3YxlxWflL.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-08-11",
+      "episode_count": 1,
+      "id": 473262,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "In Production",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "external_ids": {
+    "id": 299801,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": 471979,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}

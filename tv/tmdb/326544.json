@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2024-09-02",
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 326544,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-01",
+  "last_episode_to_air": {
+    "id": 7630455,
+    "name": "Crust",
+    "overview": "Jakob, Joshua, and Carter play some Reload",
+    "vote_average": 8,
+    "vote_count": 1,
+    "air_date": "2026-08-02",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 9,
+    "season_number": 2,
+    "show_id": 326544,
+    "still_path": null
+  },
+  "name": "The J Bros",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 10,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The J Bros",
+  "overview": "A bunch of guys messing around and playing Fortnite.\n\n(created by multiple people)",
+  "popularity": 0.0684,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 114247,
+      "logo_path": "/bwcRttyGrH1lxP36JbmXxSe48J3.png",
+      "name": "YouTube",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2024-09-02",
+      "episode_count": 8,
+      "id": 524632,
+      "name": "Deleted",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2026-06-25",
+      "episode_count": 5,
+      "id": 524633,
+      "name": "Season 1",
+      "overview": "Chapter 7 Season 3 of Fortnite",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 7.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 9,
+  "vote_count": 1,
+  "external_ids": {
+    "id": 326544,
+    "imdb_id": null,
+    "freebase_mid": null,
+    "freebase_id": null,
+    "tvdb_id": null,
+    "tvrage_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  }
+}
